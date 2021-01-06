@@ -3,6 +3,7 @@ name: Scrape GA results data
 on:
   schedule:
     - cron: "*/10 * * * *"
+  workflow_dispatch:
 
 jobs:
   scrape:
