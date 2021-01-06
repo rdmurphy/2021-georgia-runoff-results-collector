@@ -1,49 +1,49 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:24:25 PM EST",
+    "Timestamp": "1/5/2021 8:25:39 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
-    "Region": "Calhoun",
+    "Region": "Twiggs",
     "VoterTurnout": {
-      "totalVoters": 3269,
-      "ballotsCast": 1368,
-      "voterTurnout": 41.85,
+      "totalVoters": 6353,
+      "ballotsCast": 3526,
+      "voterTurnout": 55.5,
       "Precincts": {
         "Precinct": [
           {
-            "name": "Leary",
-            "totalVoters": 726,
-            "ballotsCast": 296,
-            "voterTurnout": 40.77,
+            "name": "Dry Branch",
+            "totalVoters": 1569,
+            "ballotsCast": 850,
+            "voterTurnout": 54.17,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Golden Isles",
+            "totalVoters": 1705,
+            "ballotsCast": 659,
+            "voterTurnout": 38.65,
             "percentReporting": "2"
           },
           {
-            "name": "Morgan",
-            "totalVoters": 668,
-            "ballotsCast": 351,
-            "voterTurnout": 52.54,
-            "percentReporting": "2"
+            "name": "Higgsville",
+            "totalVoters": 766,
+            "ballotsCast": 500,
+            "voterTurnout": 65.27,
+            "percentReporting": "4"
           },
           {
-            "name": "Edison",
-            "totalVoters": 534,
-            "ballotsCast": 162,
-            "voterTurnout": 30.34,
-            "percentReporting": "2"
+            "name": "Jeffersonville/Ware",
+            "totalVoters": 1461,
+            "ballotsCast": 985,
+            "voterTurnout": 67.42,
+            "percentReporting": "4"
           },
           {
-            "name": "Edison-Arlington",
-            "totalVoters": 651,
-            "ballotsCast": 251,
-            "voterTurnout": 38.56,
-            "percentReporting": "2"
-          },
-          {
-            "name": "Arlington",
-            "totalVoters": 690,
-            "ballotsCast": 308,
-            "voterTurnout": 44.64,
-            "percentReporting": "2"
+            "name": "Shady Grove/Tarvers",
+            "totalVoters": 852,
+            "ballotsCast": 532,
+            "voterTurnout": 62.44,
+            "percentReporting": "4"
           }
         ]
       }
@@ -55,31 +55,31 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 5,
-        "precinctsReported": 0,
+        "precinctsReported": 4,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 7,
+            "votes": 12,
             "Precinct": [
               {
-                "name": "Leary",
+                "name": "Dry Branch",
+                "votes": 2
+              },
+              {
+                "name": "Golden Isles",
+                "votes": 4
+              },
+              {
+                "name": "Higgsville",
                 "votes": 0
               },
               {
-                "name": "Morgan",
-                "votes": 1
+                "name": "Jeffersonville/Ware",
+                "votes": 5
               },
               {
-                "name": "Edison",
+                "name": "Shady Grove/Tarvers",
                 "votes": 1
-              },
-              {
-                "name": "Edison-Arlington",
-                "votes": 1
-              },
-              {
-                "name": "Arlington",
-                "votes": 4
               }
             ]
           },
@@ -88,23 +88,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Leary",
+                "name": "Dry Branch",
                 "votes": 0
               },
               {
-                "name": "Morgan",
+                "name": "Golden Isles",
                 "votes": 0
               },
               {
-                "name": "Edison",
+                "name": "Higgsville",
                 "votes": 0
               },
               {
-                "name": "Edison-Arlington",
+                "name": "Jeffersonville/Ware",
                 "votes": 0
               },
               {
-                "name": "Arlington",
+                "name": "Shady Grove/Tarvers",
                 "votes": 0
               }
             ]
@@ -114,83 +114,83 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 518,
+            "totalVotes": 1819,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 776,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Dry Branch",
+                    "votes": 357
+                  },
+                  {
+                    "name": "Golden Isles",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 0
+                    "name": "Higgsville",
+                    "votes": 187
                   },
                   {
-                    "name": "Edison",
-                    "votes": 0
+                    "name": "Jeffersonville/Ware",
+                    "votes": 125
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Arlington",
-                    "votes": 0
+                    "name": "Shady Grove/Tarvers",
+                    "votes": 107
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 410,
+                "votes": 809,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 97
+                    "name": "Dry Branch",
+                    "votes": 214
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 182
+                    "name": "Golden Isles",
+                    "votes": 157
                   },
                   {
-                    "name": "Edison",
-                    "votes": 18
+                    "name": "Higgsville",
+                    "votes": 130
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 58
+                    "name": "Jeffersonville/Ware",
+                    "votes": 185
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 55
+                    "name": "Shady Grove/Tarvers",
+                    "votes": 123
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 108,
+                "votes": 234,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 23
+                    "name": "Dry Branch",
+                    "votes": 96
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 50
+                    "name": "Golden Isles",
+                    "votes": 42
                   },
                   {
-                    "name": "Edison",
-                    "votes": 4
+                    "name": "Higgsville",
+                    "votes": 40
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 21
+                    "name": "Jeffersonville/Ware",
+                    "votes": 26
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 10
+                    "name": "Shady Grove/Tarvers",
+                    "votes": 30
                   }
                 ]
               },
@@ -199,23 +199,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Dry Branch",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Golden Isles",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Higgsville",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Jeffersonville/Ware",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
+                    "name": "Shady Grove/Tarvers",
                     "votes": 0
                   }
                 ]
@@ -225,83 +225,83 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 843,
+            "totalVotes": 1695,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 302,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Dry Branch",
+                    "votes": 55
+                  },
+                  {
+                    "name": "Golden Isles",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 0
+                    "name": "Higgsville",
+                    "votes": 45
                   },
                   {
-                    "name": "Edison",
-                    "votes": 0
+                    "name": "Jeffersonville/Ware",
+                    "votes": 131
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Arlington",
-                    "votes": 0
+                    "name": "Shady Grove/Tarvers",
+                    "votes": 71
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 406,
+                "votes": 727,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 81
-                  },
-                  {
-                    "name": "Morgan",
-                    "votes": 60
-                  },
-                  {
-                    "name": "Edison",
+                    "name": "Dry Branch",
                     "votes": 77
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 101
+                    "name": "Golden Isles",
+                    "votes": 225
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 87
+                    "name": "Higgsville",
+                    "votes": 61
+                  },
+                  {
+                    "name": "Jeffersonville/Ware",
+                    "votes": 278
+                  },
+                  {
+                    "name": "Shady Grove/Tarvers",
+                    "votes": 86
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 437,
+                "votes": 666,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 95
+                    "name": "Dry Branch",
+                    "votes": 49
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 58
+                    "name": "Golden Isles",
+                    "votes": 231
                   },
                   {
-                    "name": "Edison",
-                    "votes": 62
+                    "name": "Higgsville",
+                    "votes": 37
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 70
+                    "name": "Jeffersonville/Ware",
+                    "votes": 235
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 152
+                    "name": "Shady Grove/Tarvers",
+                    "votes": 114
                   }
                 ]
               },
@@ -310,23 +310,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Dry Branch",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Golden Isles",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Higgsville",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Jeffersonville/Ware",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
+                    "name": "Shady Grove/Tarvers",
                     "votes": 0
                   }
                 ]
@@ -341,30 +341,30 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 5,
-        "precinctsReported": 0,
+        "precinctsReported": 4,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 5,
+            "votes": 11,
             "Precinct": [
               {
-                "name": "Leary",
-                "votes": 0
+                "name": "Dry Branch",
+                "votes": 2
               },
               {
-                "name": "Morgan",
+                "name": "Golden Isles",
+                "votes": 2
+              },
+              {
+                "name": "Higgsville",
                 "votes": 1
               },
               {
-                "name": "Edison",
-                "votes": 1
+                "name": "Jeffersonville/Ware",
+                "votes": 4
               },
               {
-                "name": "Edison-Arlington",
-                "votes": 1
-              },
-              {
-                "name": "Arlington",
+                "name": "Shady Grove/Tarvers",
                 "votes": 2
               }
             ]
@@ -374,23 +374,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Leary",
+                "name": "Dry Branch",
                 "votes": 0
               },
               {
-                "name": "Morgan",
+                "name": "Golden Isles",
                 "votes": 0
               },
               {
-                "name": "Edison",
+                "name": "Higgsville",
                 "votes": 0
               },
               {
-                "name": "Edison-Arlington",
+                "name": "Jeffersonville/Ware",
                 "votes": 0
               },
               {
-                "name": "Arlington",
+                "name": "Shady Grove/Tarvers",
                 "votes": 0
               }
             ]
@@ -400,83 +400,83 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 521,
+            "totalVotes": 1806,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 768,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Dry Branch",
+                    "votes": 358
+                  },
+                  {
+                    "name": "Golden Isles",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 0
+                    "name": "Higgsville",
+                    "votes": 186
                   },
                   {
-                    "name": "Edison",
-                    "votes": 0
+                    "name": "Jeffersonville/Ware",
+                    "votes": 119
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Arlington",
-                    "votes": 0
+                    "name": "Shady Grove/Tarvers",
+                    "votes": 105
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 414,
+                "votes": 808,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 97
+                    "name": "Dry Branch",
+                    "votes": 214
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 184
+                    "name": "Golden Isles",
+                    "votes": 156
                   },
                   {
-                    "name": "Edison",
-                    "votes": 20
+                    "name": "Higgsville",
+                    "votes": 129
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 58
+                    "name": "Jeffersonville/Ware",
+                    "votes": 186
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 55
+                    "name": "Shady Grove/Tarvers",
+                    "votes": 123
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 107,
+                "votes": 230,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 23
+                    "name": "Dry Branch",
+                    "votes": 96
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 49
+                    "name": "Golden Isles",
+                    "votes": 42
                   },
                   {
-                    "name": "Edison",
-                    "votes": 4
+                    "name": "Higgsville",
+                    "votes": 40
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 21
+                    "name": "Jeffersonville/Ware",
+                    "votes": 26
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 10
+                    "name": "Shady Grove/Tarvers",
+                    "votes": 26
                   }
                 ]
               },
@@ -485,23 +485,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Dry Branch",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Golden Isles",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Higgsville",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Jeffersonville/Ware",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
+                    "name": "Shady Grove/Tarvers",
                     "votes": 0
                   }
                 ]
@@ -511,83 +511,83 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 842,
+            "totalVotes": 1709,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 308,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Dry Branch",
+                    "votes": 54
+                  },
+                  {
+                    "name": "Golden Isles",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 0
+                    "name": "Higgsville",
+                    "votes": 45
                   },
                   {
-                    "name": "Edison",
-                    "votes": 0
+                    "name": "Jeffersonville/Ware",
+                    "votes": 137
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Arlington",
-                    "votes": 0
+                    "name": "Shady Grove/Tarvers",
+                    "votes": 72
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 403,
+                "votes": 730,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 81
+                    "name": "Dry Branch",
+                    "votes": 77
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 58
+                    "name": "Golden Isles",
+                    "votes": 227
                   },
                   {
-                    "name": "Edison",
-                    "votes": 75
+                    "name": "Higgsville",
+                    "votes": 62
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 101
+                    "name": "Jeffersonville/Ware",
+                    "votes": 278
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 88
+                    "name": "Shady Grove/Tarvers",
+                    "votes": 86
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 439,
+                "votes": 671,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 95
+                    "name": "Dry Branch",
+                    "votes": 49
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 59
+                    "name": "Golden Isles",
+                    "votes": 232
                   },
                   {
-                    "name": "Edison",
-                    "votes": 62
+                    "name": "Higgsville",
+                    "votes": 37
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 70
+                    "name": "Jeffersonville/Ware",
+                    "votes": 235
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 153
+                    "name": "Shady Grove/Tarvers",
+                    "votes": 118
                   }
                 ]
               },
@@ -596,23 +596,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Dry Branch",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Golden Isles",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Higgsville",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Jeffersonville/Ware",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
+                    "name": "Shady Grove/Tarvers",
                     "votes": 0
                   }
                 ]
@@ -627,31 +627,31 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 5,
-        "precinctsReported": 0,
+        "precinctsReported": 4,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 29,
+            "votes": 95,
             "Precinct": [
               {
-                "name": "Leary",
-                "votes": 5
+                "name": "Dry Branch",
+                "votes": 22
               },
               {
-                "name": "Morgan",
-                "votes": 7
+                "name": "Golden Isles",
+                "votes": 17
               },
               {
-                "name": "Edison",
-                "votes": 9
+                "name": "Higgsville",
+                "votes": 10
               },
               {
-                "name": "Edison-Arlington",
-                "votes": 4
+                "name": "Jeffersonville/Ware",
+                "votes": 28
               },
               {
-                "name": "Arlington",
-                "votes": 4
+                "name": "Shady Grove/Tarvers",
+                "votes": 18
               }
             ]
           },
@@ -660,23 +660,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Leary",
+                "name": "Dry Branch",
                 "votes": 0
               },
               {
-                "name": "Morgan",
+                "name": "Golden Isles",
                 "votes": 0
               },
               {
-                "name": "Edison",
+                "name": "Higgsville",
                 "votes": 0
               },
               {
-                "name": "Edison-Arlington",
+                "name": "Jeffersonville/Ware",
                 "votes": 0
               },
               {
-                "name": "Arlington",
+                "name": "Shady Grove/Tarvers",
                 "votes": 0
               }
             ]
@@ -686,83 +686,83 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 527,
+            "totalVotes": 1796,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 766,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Dry Branch",
+                    "votes": 350
+                  },
+                  {
+                    "name": "Golden Isles",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 0
+                    "name": "Higgsville",
+                    "votes": 187
                   },
                   {
-                    "name": "Edison",
-                    "votes": 0
+                    "name": "Jeffersonville/Ware",
+                    "votes": 122
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Arlington",
-                    "votes": 0
+                    "name": "Shady Grove/Tarvers",
+                    "votes": 107
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 415,
+                "votes": 802,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 97
+                    "name": "Dry Branch",
+                    "votes": 212
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 182
+                    "name": "Golden Isles",
+                    "votes": 153
                   },
                   {
-                    "name": "Edison",
-                    "votes": 18
+                    "name": "Higgsville",
+                    "votes": 127
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 62
+                    "name": "Jeffersonville/Ware",
+                    "votes": 186
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 56
+                    "name": "Shady Grove/Tarvers",
+                    "votes": 124
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 112,
+                "votes": 228,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 22
+                    "name": "Dry Branch",
+                    "votes": 93
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 52
+                    "name": "Golden Isles",
+                    "votes": 40
                   },
                   {
-                    "name": "Edison",
-                    "votes": 7
+                    "name": "Higgsville",
+                    "votes": 38
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 21
+                    "name": "Jeffersonville/Ware",
+                    "votes": 26
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 10
+                    "name": "Shady Grove/Tarvers",
+                    "votes": 31
                   }
                 ]
               },
@@ -771,23 +771,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Dry Branch",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Golden Isles",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Higgsville",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Jeffersonville/Ware",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
+                    "name": "Shady Grove/Tarvers",
                     "votes": 0
                   }
                 ]
@@ -797,83 +797,83 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 812,
+            "totalVotes": 1635,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 291,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Dry Branch",
+                    "votes": 53
+                  },
+                  {
+                    "name": "Golden Isles",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 0
+                    "name": "Higgsville",
+                    "votes": 44
                   },
                   {
-                    "name": "Edison",
-                    "votes": 0
+                    "name": "Jeffersonville/Ware",
+                    "votes": 131
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Arlington",
-                    "votes": 0
+                    "name": "Shady Grove/Tarvers",
+                    "votes": 63
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 387,
+                "votes": 699,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 78
+                    "name": "Dry Branch",
+                    "votes": 71
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 55
+                    "name": "Golden Isles",
+                    "votes": 222
                   },
                   {
-                    "name": "Edison",
-                    "votes": 74
+                    "name": "Higgsville",
+                    "votes": 57
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 95
+                    "name": "Jeffersonville/Ware",
+                    "votes": 267
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 85
+                    "name": "Shady Grove/Tarvers",
+                    "votes": 82
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 425,
+                "votes": 645,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 94
+                    "name": "Dry Branch",
+                    "votes": 49
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 55
+                    "name": "Golden Isles",
+                    "votes": 227
                   },
                   {
-                    "name": "Edison",
-                    "votes": 54
+                    "name": "Higgsville",
+                    "votes": 37
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 69
+                    "name": "Jeffersonville/Ware",
+                    "votes": 225
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 153
+                    "name": "Shady Grove/Tarvers",
+                    "votes": 107
                   }
                 ]
               },
@@ -882,23 +882,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Dry Branch",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Golden Isles",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Higgsville",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Jeffersonville/Ware",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
+                    "name": "Shady Grove/Tarvers",
                     "votes": 0
                   }
                 ]

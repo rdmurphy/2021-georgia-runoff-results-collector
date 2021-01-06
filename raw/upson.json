@@ -1,48 +1,41 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:24:25 PM EST",
+    "Timestamp": "1/5/2021 8:21:13 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
-    "Region": "Calhoun",
+    "Region": "Upson",
     "VoterTurnout": {
-      "totalVoters": 3269,
-      "ballotsCast": 1368,
-      "voterTurnout": 41.85,
+      "totalVoters": 18527,
+      "ballotsCast": 5680,
+      "voterTurnout": 30.66,
       "Precincts": {
         "Precinct": [
           {
-            "name": "Leary",
-            "totalVoters": 726,
-            "ballotsCast": 296,
-            "voterTurnout": 40.77,
+            "name": "Yatesville",
+            "totalVoters": 1364,
+            "ballotsCast": 301,
+            "voterTurnout": 22.07,
             "percentReporting": "2"
           },
           {
-            "name": "Morgan",
-            "totalVoters": 668,
-            "ballotsCast": 351,
-            "voterTurnout": 52.54,
+            "name": "Salem",
+            "totalVoters": 372,
+            "ballotsCast": 87,
+            "voterTurnout": 23.39,
             "percentReporting": "2"
           },
           {
-            "name": "Edison",
-            "totalVoters": 534,
-            "ballotsCast": 162,
-            "voterTurnout": 30.34,
+            "name": "Redbone",
+            "totalVoters": 8380,
+            "ballotsCast": 2858,
+            "voterTurnout": 34.11,
             "percentReporting": "2"
           },
           {
-            "name": "Edison-Arlington",
-            "totalVoters": 651,
-            "ballotsCast": 251,
-            "voterTurnout": 38.56,
-            "percentReporting": "2"
-          },
-          {
-            "name": "Arlington",
-            "totalVoters": 690,
-            "ballotsCast": 308,
-            "voterTurnout": 44.64,
+            "name": "Town",
+            "totalVoters": 8411,
+            "ballotsCast": 2434,
+            "voterTurnout": 28.94,
             "percentReporting": "2"
           }
         ]
@@ -54,32 +47,28 @@
         "text": "US Senate (Perdue)",
         "voteFor": 1,
         "isQuestion": "false",
-        "precinctsReporting": 5,
+        "precinctsReporting": 4,
         "precinctsReported": 0,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 7,
+            "votes": 14,
             "Precinct": [
               {
-                "name": "Leary",
+                "name": "Yatesville",
                 "votes": 0
               },
               {
-                "name": "Morgan",
-                "votes": 1
+                "name": "Salem",
+                "votes": 0
               },
               {
-                "name": "Edison",
-                "votes": 1
+                "name": "Redbone",
+                "votes": 6
               },
               {
-                "name": "Edison-Arlington",
-                "votes": 1
-              },
-              {
-                "name": "Arlington",
-                "votes": 4
+                "name": "Town",
+                "votes": 8
               }
             ]
           },
@@ -88,23 +77,19 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Leary",
+                "name": "Yatesville",
                 "votes": 0
               },
               {
-                "name": "Morgan",
+                "name": "Salem",
                 "votes": 0
               },
               {
-                "name": "Edison",
+                "name": "Redbone",
                 "votes": 0
               },
               {
-                "name": "Edison-Arlington",
-                "votes": 0
-              },
-              {
-                "name": "Arlington",
+                "name": "Town",
                 "votes": 0
               }
             ]
@@ -114,83 +99,71 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 518,
+            "totalVotes": 4009,
             "VoteType": [
               {
                 "name": "Election Day Votes",
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Yatesville",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Salem",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Redbone",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Arlington",
+                    "name": "Town",
                     "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 410,
+                "votes": 4009,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 97
+                    "name": "Yatesville",
+                    "votes": 229
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 182
+                    "name": "Salem",
+                    "votes": 14
                   },
                   {
-                    "name": "Edison",
-                    "votes": 18
+                    "name": "Redbone",
+                    "votes": 2320
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 58
-                  },
-                  {
-                    "name": "Arlington",
-                    "votes": 55
+                    "name": "Town",
+                    "votes": 1446
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 108,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 23
+                    "name": "Yatesville",
+                    "votes": 0
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 50
+                    "name": "Salem",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison",
-                    "votes": 4
+                    "name": "Redbone",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 21
-                  },
-                  {
-                    "name": "Arlington",
-                    "votes": 10
+                    "name": "Town",
+                    "votes": 0
                   }
                 ]
               },
@@ -199,23 +172,19 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Yatesville",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Salem",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Redbone",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Arlington",
+                    "name": "Town",
                     "votes": 0
                   }
                 ]
@@ -225,83 +194,71 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 843,
+            "totalVotes": 1657,
             "VoteType": [
               {
                 "name": "Election Day Votes",
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Yatesville",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Salem",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Redbone",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Arlington",
+                    "name": "Town",
                     "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 406,
+                "votes": 1657,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 81
+                    "name": "Yatesville",
+                    "votes": 72
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 60
+                    "name": "Salem",
+                    "votes": 73
                   },
                   {
-                    "name": "Edison",
-                    "votes": 77
+                    "name": "Redbone",
+                    "votes": 532
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 101
-                  },
-                  {
-                    "name": "Arlington",
-                    "votes": 87
+                    "name": "Town",
+                    "votes": 980
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 437,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 95
+                    "name": "Yatesville",
+                    "votes": 0
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 58
+                    "name": "Salem",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison",
-                    "votes": 62
+                    "name": "Redbone",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 70
-                  },
-                  {
-                    "name": "Arlington",
-                    "votes": 152
+                    "name": "Town",
+                    "votes": 0
                   }
                 ]
               },
@@ -310,23 +267,19 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Yatesville",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Salem",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Redbone",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Arlington",
+                    "name": "Town",
                     "votes": 0
                   }
                 ]
@@ -340,32 +293,28 @@
         "text": "US Senate (Loeffler) - Special",
         "voteFor": 1,
         "isQuestion": "false",
-        "precinctsReporting": 5,
+        "precinctsReporting": 4,
         "precinctsReported": 0,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 5,
+            "votes": 10,
             "Precinct": [
               {
-                "name": "Leary",
+                "name": "Yatesville",
                 "votes": 0
               },
               {
-                "name": "Morgan",
-                "votes": 1
+                "name": "Salem",
+                "votes": 0
               },
               {
-                "name": "Edison",
-                "votes": 1
+                "name": "Redbone",
+                "votes": 4
               },
               {
-                "name": "Edison-Arlington",
-                "votes": 1
-              },
-              {
-                "name": "Arlington",
-                "votes": 2
+                "name": "Town",
+                "votes": 6
               }
             ]
           },
@@ -374,23 +323,19 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Leary",
+                "name": "Yatesville",
                 "votes": 0
               },
               {
-                "name": "Morgan",
+                "name": "Salem",
                 "votes": 0
               },
               {
-                "name": "Edison",
+                "name": "Redbone",
                 "votes": 0
               },
               {
-                "name": "Edison-Arlington",
-                "votes": 0
-              },
-              {
-                "name": "Arlington",
+                "name": "Town",
                 "votes": 0
               }
             ]
@@ -400,83 +345,71 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 521,
+            "totalVotes": 4005,
             "VoteType": [
               {
                 "name": "Election Day Votes",
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Yatesville",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Salem",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Redbone",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Arlington",
+                    "name": "Town",
                     "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 414,
+                "votes": 4005,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 97
+                    "name": "Yatesville",
+                    "votes": 229
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 184
+                    "name": "Salem",
+                    "votes": 15
                   },
                   {
-                    "name": "Edison",
-                    "votes": 20
+                    "name": "Redbone",
+                    "votes": 2319
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 58
-                  },
-                  {
-                    "name": "Arlington",
-                    "votes": 55
+                    "name": "Town",
+                    "votes": 1442
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 107,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 23
+                    "name": "Yatesville",
+                    "votes": 0
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 49
+                    "name": "Salem",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison",
-                    "votes": 4
+                    "name": "Redbone",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 21
-                  },
-                  {
-                    "name": "Arlington",
-                    "votes": 10
+                    "name": "Town",
+                    "votes": 0
                   }
                 ]
               },
@@ -485,23 +418,19 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Yatesville",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Salem",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Redbone",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Arlington",
+                    "name": "Town",
                     "votes": 0
                   }
                 ]
@@ -511,83 +440,71 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 842,
+            "totalVotes": 1665,
             "VoteType": [
               {
                 "name": "Election Day Votes",
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Yatesville",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Salem",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Redbone",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Arlington",
+                    "name": "Town",
                     "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 403,
+                "votes": 1665,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 81
+                    "name": "Yatesville",
+                    "votes": 72
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 58
+                    "name": "Salem",
+                    "votes": 72
                   },
                   {
-                    "name": "Edison",
-                    "votes": 75
+                    "name": "Redbone",
+                    "votes": 535
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 101
-                  },
-                  {
-                    "name": "Arlington",
-                    "votes": 88
+                    "name": "Town",
+                    "votes": 986
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 439,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 95
+                    "name": "Yatesville",
+                    "votes": 0
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 59
+                    "name": "Salem",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison",
-                    "votes": 62
+                    "name": "Redbone",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 70
-                  },
-                  {
-                    "name": "Arlington",
-                    "votes": 153
+                    "name": "Town",
+                    "votes": 0
                   }
                 ]
               },
@@ -596,23 +513,19 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Yatesville",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Salem",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Redbone",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Arlington",
+                    "name": "Town",
                     "votes": 0
                   }
                 ]
@@ -626,32 +539,28 @@
         "text": "Public Service Commission District 4",
         "voteFor": 1,
         "isQuestion": "false",
-        "precinctsReporting": 5,
+        "precinctsReporting": 4,
         "precinctsReported": 0,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 29,
+            "votes": 90,
             "Precinct": [
               {
-                "name": "Leary",
-                "votes": 5
+                "name": "Yatesville",
+                "votes": 3
               },
               {
-                "name": "Morgan",
-                "votes": 7
+                "name": "Salem",
+                "votes": 3
               },
               {
-                "name": "Edison",
-                "votes": 9
+                "name": "Redbone",
+                "votes": 39
               },
               {
-                "name": "Edison-Arlington",
-                "votes": 4
-              },
-              {
-                "name": "Arlington",
-                "votes": 4
+                "name": "Town",
+                "votes": 45
               }
             ]
           },
@@ -660,23 +569,19 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Leary",
+                "name": "Yatesville",
                 "votes": 0
               },
               {
-                "name": "Morgan",
+                "name": "Salem",
                 "votes": 0
               },
               {
-                "name": "Edison",
+                "name": "Redbone",
                 "votes": 0
               },
               {
-                "name": "Edison-Arlington",
-                "votes": 0
-              },
-              {
-                "name": "Arlington",
+                "name": "Town",
                 "votes": 0
               }
             ]
@@ -686,83 +591,71 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 527,
+            "totalVotes": 3998,
             "VoteType": [
               {
                 "name": "Election Day Votes",
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Yatesville",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Salem",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Redbone",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Arlington",
+                    "name": "Town",
                     "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 415,
+                "votes": 3998,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 97
+                    "name": "Yatesville",
+                    "votes": 228
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 182
+                    "name": "Salem",
+                    "votes": 14
                   },
                   {
-                    "name": "Edison",
-                    "votes": 18
+                    "name": "Redbone",
+                    "votes": 2309
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 62
-                  },
-                  {
-                    "name": "Arlington",
-                    "votes": 56
+                    "name": "Town",
+                    "votes": 1447
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 112,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 22
+                    "name": "Yatesville",
+                    "votes": 0
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 52
+                    "name": "Salem",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison",
-                    "votes": 7
+                    "name": "Redbone",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 21
-                  },
-                  {
-                    "name": "Arlington",
-                    "votes": 10
+                    "name": "Town",
+                    "votes": 0
                   }
                 ]
               },
@@ -771,23 +664,19 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Yatesville",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Salem",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Redbone",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Arlington",
+                    "name": "Town",
                     "votes": 0
                   }
                 ]
@@ -797,83 +686,71 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 812,
+            "totalVotes": 1592,
             "VoteType": [
               {
                 "name": "Election Day Votes",
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Yatesville",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Salem",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Redbone",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Arlington",
+                    "name": "Town",
                     "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 387,
+                "votes": 1592,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 78
+                    "name": "Yatesville",
+                    "votes": 70
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 55
+                    "name": "Salem",
+                    "votes": 70
                   },
                   {
-                    "name": "Edison",
-                    "votes": 74
+                    "name": "Redbone",
+                    "votes": 510
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 95
-                  },
-                  {
-                    "name": "Arlington",
-                    "votes": 85
+                    "name": "Town",
+                    "votes": 942
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 425,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 94
+                    "name": "Yatesville",
+                    "votes": 0
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 55
+                    "name": "Salem",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison",
-                    "votes": 54
+                    "name": "Redbone",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 69
-                  },
-                  {
-                    "name": "Arlington",
-                    "votes": 153
+                    "name": "Town",
+                    "votes": 0
                   }
                 ]
               },
@@ -882,23 +759,19 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Yatesville",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Salem",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Redbone",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Arlington",
+                    "name": "Town",
                     "votes": 0
                   }
                 ]

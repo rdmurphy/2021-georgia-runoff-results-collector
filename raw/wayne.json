@@ -1,0 +1,1801 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:12:27 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Wayne",
+    "VoterTurnout": {
+      "totalVoters": 18564,
+      "ballotsCast": 11211,
+      "voterTurnout": 60.39,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Odum",
+            "totalVoters": 1299,
+            "ballotsCast": 903,
+            "voterTurnout": 69.52,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Madray Springs",
+            "totalVoters": 1198,
+            "ballotsCast": 795,
+            "voterTurnout": 66.36,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Oglethorpe",
+            "totalVoters": 1779,
+            "ballotsCast": 1131,
+            "voterTurnout": 63.58,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Screven",
+            "totalVoters": 1902,
+            "ballotsCast": 1212,
+            "voterTurnout": 63.72,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Empire",
+            "totalVoters": 1133,
+            "ballotsCast": 773,
+            "voterTurnout": 68.23,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Red Hill",
+            "totalVoters": 1052,
+            "ballotsCast": 592,
+            "voterTurnout": 56.27,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Altamaha",
+            "totalVoters": 2944,
+            "ballotsCast": 1510,
+            "voterTurnout": 51.29,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Gardi",
+            "totalVoters": 1160,
+            "ballotsCast": 736,
+            "voterTurnout": 63.45,
+            "percentReporting": "4"
+          },
+          {
+            "name": "VFW",
+            "totalVoters": 1169,
+            "ballotsCast": 596,
+            "voterTurnout": 50.98,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Pine Street",
+            "totalVoters": 1162,
+            "ballotsCast": 667,
+            "voterTurnout": 57.4,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Unity",
+            "totalVoters": 1955,
+            "ballotsCast": 1186,
+            "voterTurnout": 60.66,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Rec Center",
+            "totalVoters": 1811,
+            "ballotsCast": 1110,
+            "voterTurnout": 61.29,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 12,
+        "precinctsReported": 12,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 17,
+            "Precinct": [
+              {
+                "name": "Odum",
+                "votes": 1
+              },
+              {
+                "name": "Madray Springs",
+                "votes": 4
+              },
+              {
+                "name": "Oglethorpe",
+                "votes": 1
+              },
+              {
+                "name": "Screven",
+                "votes": 1
+              },
+              {
+                "name": "Empire",
+                "votes": 1
+              },
+              {
+                "name": "Red Hill",
+                "votes": 2
+              },
+              {
+                "name": "Altamaha",
+                "votes": 0
+              },
+              {
+                "name": "Gardi",
+                "votes": 0
+              },
+              {
+                "name": "VFW",
+                "votes": 1
+              },
+              {
+                "name": "Pine Street",
+                "votes": 1
+              },
+              {
+                "name": "Unity",
+                "votes": 1
+              },
+              {
+                "name": "Rec Center",
+                "votes": 4
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 2,
+            "Precinct": [
+              {
+                "name": "Odum",
+                "votes": 0
+              },
+              {
+                "name": "Madray Springs",
+                "votes": 0
+              },
+              {
+                "name": "Oglethorpe",
+                "votes": 0
+              },
+              {
+                "name": "Screven",
+                "votes": 0
+              },
+              {
+                "name": "Empire",
+                "votes": 0
+              },
+              {
+                "name": "Red Hill",
+                "votes": 0
+              },
+              {
+                "name": "Altamaha",
+                "votes": 1
+              },
+              {
+                "name": "Gardi",
+                "votes": 0
+              },
+              {
+                "name": "VFW",
+                "votes": 0
+              },
+              {
+                "name": "Pine Street",
+                "votes": 0
+              },
+              {
+                "name": "Unity",
+                "votes": 1
+              },
+              {
+                "name": "Rec Center",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 8710,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 3656,
+                "Precinct": [
+                  {
+                    "name": "Odum",
+                    "votes": 442
+                  },
+                  {
+                    "name": "Madray Springs",
+                    "votes": 281
+                  },
+                  {
+                    "name": "Oglethorpe",
+                    "votes": 352
+                  },
+                  {
+                    "name": "Screven",
+                    "votes": 559
+                  },
+                  {
+                    "name": "Empire",
+                    "votes": 309
+                  },
+                  {
+                    "name": "Red Hill",
+                    "votes": 213
+                  },
+                  {
+                    "name": "Altamaha",
+                    "votes": 386
+                  },
+                  {
+                    "name": "Gardi",
+                    "votes": 358
+                  },
+                  {
+                    "name": "VFW",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Pine Street",
+                    "votes": 100
+                  },
+                  {
+                    "name": "Unity",
+                    "votes": 277
+                  },
+                  {
+                    "name": "Rec Center",
+                    "votes": 353
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 4041,
+                "Precinct": [
+                  {
+                    "name": "Odum",
+                    "votes": 312
+                  },
+                  {
+                    "name": "Madray Springs",
+                    "votes": 365
+                  },
+                  {
+                    "name": "Oglethorpe",
+                    "votes": 513
+                  },
+                  {
+                    "name": "Screven",
+                    "votes": 392
+                  },
+                  {
+                    "name": "Empire",
+                    "votes": 320
+                  },
+                  {
+                    "name": "Red Hill",
+                    "votes": 217
+                  },
+                  {
+                    "name": "Altamaha",
+                    "votes": 630
+                  },
+                  {
+                    "name": "Gardi",
+                    "votes": 228
+                  },
+                  {
+                    "name": "VFW",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Pine Street",
+                    "votes": 191
+                  },
+                  {
+                    "name": "Unity",
+                    "votes": 419
+                  },
+                  {
+                    "name": "Rec Center",
+                    "votes": 383
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1013,
+                "Precinct": [
+                  {
+                    "name": "Odum",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Madray Springs",
+                    "votes": 87
+                  },
+                  {
+                    "name": "Oglethorpe",
+                    "votes": 116
+                  },
+                  {
+                    "name": "Screven",
+                    "votes": 89
+                  },
+                  {
+                    "name": "Empire",
+                    "votes": 84
+                  },
+                  {
+                    "name": "Red Hill",
+                    "votes": 51
+                  },
+                  {
+                    "name": "Altamaha",
+                    "votes": 129
+                  },
+                  {
+                    "name": "Gardi",
+                    "votes": 75
+                  },
+                  {
+                    "name": "VFW",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Pine Street",
+                    "votes": 65
+                  },
+                  {
+                    "name": "Unity",
+                    "votes": 127
+                  },
+                  {
+                    "name": "Rec Center",
+                    "votes": 101
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Odum",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Madray Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oglethorpe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Screven",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Empire",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Red Hill",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Altamaha",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gardi",
+                    "votes": 0
+                  },
+                  {
+                    "name": "VFW",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pine Street",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Unity",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rec Center",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 2482,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 653,
+                "Precinct": [
+                  {
+                    "name": "Odum",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Madray Springs",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Oglethorpe",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Screven",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Empire",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Red Hill",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Altamaha",
+                    "votes": 99
+                  },
+                  {
+                    "name": "Gardi",
+                    "votes": 22
+                  },
+                  {
+                    "name": "VFW",
+                    "votes": 116
+                  },
+                  {
+                    "name": "Pine Street",
+                    "votes": 86
+                  },
+                  {
+                    "name": "Unity",
+                    "votes": 91
+                  },
+                  {
+                    "name": "Rec Center",
+                    "votes": 67
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1163,
+                "Precinct": [
+                  {
+                    "name": "Odum",
+                    "votes": 37
+                  },
+                  {
+                    "name": "Madray Springs",
+                    "votes": 22
+                  },
+                  {
+                    "name": "Oglethorpe",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Screven",
+                    "votes": 63
+                  },
+                  {
+                    "name": "Empire",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Red Hill",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Altamaha",
+                    "votes": 181
+                  },
+                  {
+                    "name": "Gardi",
+                    "votes": 24
+                  },
+                  {
+                    "name": "VFW",
+                    "votes": 234
+                  },
+                  {
+                    "name": "Pine Street",
+                    "votes": 150
+                  },
+                  {
+                    "name": "Unity",
+                    "votes": 174
+                  },
+                  {
+                    "name": "Rec Center",
+                    "votes": 124
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 666,
+                "Precinct": [
+                  {
+                    "name": "Odum",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Madray Springs",
+                    "votes": 22
+                  },
+                  {
+                    "name": "Oglethorpe",
+                    "votes": 45
+                  },
+                  {
+                    "name": "Screven",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Empire",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Red Hill",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Altamaha",
+                    "votes": 84
+                  },
+                  {
+                    "name": "Gardi",
+                    "votes": 29
+                  },
+                  {
+                    "name": "VFW",
+                    "votes": 121
+                  },
+                  {
+                    "name": "Pine Street",
+                    "votes": 74
+                  },
+                  {
+                    "name": "Unity",
+                    "votes": 96
+                  },
+                  {
+                    "name": "Rec Center",
+                    "votes": 78
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Odum",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Madray Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oglethorpe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Screven",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Empire",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Red Hill",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Altamaha",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gardi",
+                    "votes": 0
+                  },
+                  {
+                    "name": "VFW",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pine Street",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Unity",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rec Center",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 12,
+        "precinctsReported": 12,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 19,
+            "Precinct": [
+              {
+                "name": "Odum",
+                "votes": 1
+              },
+              {
+                "name": "Madray Springs",
+                "votes": 2
+              },
+              {
+                "name": "Oglethorpe",
+                "votes": 1
+              },
+              {
+                "name": "Screven",
+                "votes": 1
+              },
+              {
+                "name": "Empire",
+                "votes": 2
+              },
+              {
+                "name": "Red Hill",
+                "votes": 3
+              },
+              {
+                "name": "Altamaha",
+                "votes": 1
+              },
+              {
+                "name": "Gardi",
+                "votes": 1
+              },
+              {
+                "name": "VFW",
+                "votes": 2
+              },
+              {
+                "name": "Pine Street",
+                "votes": 1
+              },
+              {
+                "name": "Unity",
+                "votes": 2
+              },
+              {
+                "name": "Rec Center",
+                "votes": 2
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Odum",
+                "votes": 0
+              },
+              {
+                "name": "Madray Springs",
+                "votes": 0
+              },
+              {
+                "name": "Oglethorpe",
+                "votes": 0
+              },
+              {
+                "name": "Screven",
+                "votes": 0
+              },
+              {
+                "name": "Empire",
+                "votes": 0
+              },
+              {
+                "name": "Red Hill",
+                "votes": 0
+              },
+              {
+                "name": "Altamaha",
+                "votes": 0
+              },
+              {
+                "name": "Gardi",
+                "votes": 0
+              },
+              {
+                "name": "VFW",
+                "votes": 0
+              },
+              {
+                "name": "Pine Street",
+                "votes": 0
+              },
+              {
+                "name": "Unity",
+                "votes": 0
+              },
+              {
+                "name": "Rec Center",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 8727,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 3663,
+                "Precinct": [
+                  {
+                    "name": "Odum",
+                    "votes": 440
+                  },
+                  {
+                    "name": "Madray Springs",
+                    "votes": 281
+                  },
+                  {
+                    "name": "Oglethorpe",
+                    "votes": 351
+                  },
+                  {
+                    "name": "Screven",
+                    "votes": 559
+                  },
+                  {
+                    "name": "Empire",
+                    "votes": 310
+                  },
+                  {
+                    "name": "Red Hill",
+                    "votes": 213
+                  },
+                  {
+                    "name": "Altamaha",
+                    "votes": 385
+                  },
+                  {
+                    "name": "Gardi",
+                    "votes": 362
+                  },
+                  {
+                    "name": "VFW",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Pine Street",
+                    "votes": 99
+                  },
+                  {
+                    "name": "Unity",
+                    "votes": 282
+                  },
+                  {
+                    "name": "Rec Center",
+                    "votes": 355
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 4046,
+                "Precinct": [
+                  {
+                    "name": "Odum",
+                    "votes": 312
+                  },
+                  {
+                    "name": "Madray Springs",
+                    "votes": 367
+                  },
+                  {
+                    "name": "Oglethorpe",
+                    "votes": 513
+                  },
+                  {
+                    "name": "Screven",
+                    "votes": 393
+                  },
+                  {
+                    "name": "Empire",
+                    "votes": 319
+                  },
+                  {
+                    "name": "Red Hill",
+                    "votes": 215
+                  },
+                  {
+                    "name": "Altamaha",
+                    "votes": 630
+                  },
+                  {
+                    "name": "Gardi",
+                    "votes": 227
+                  },
+                  {
+                    "name": "VFW",
+                    "votes": 72
+                  },
+                  {
+                    "name": "Pine Street",
+                    "votes": 193
+                  },
+                  {
+                    "name": "Unity",
+                    "votes": 422
+                  },
+                  {
+                    "name": "Rec Center",
+                    "votes": 383
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1018,
+                "Precinct": [
+                  {
+                    "name": "Odum",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Madray Springs",
+                    "votes": 91
+                  },
+                  {
+                    "name": "Oglethorpe",
+                    "votes": 114
+                  },
+                  {
+                    "name": "Screven",
+                    "votes": 89
+                  },
+                  {
+                    "name": "Empire",
+                    "votes": 84
+                  },
+                  {
+                    "name": "Red Hill",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Altamaha",
+                    "votes": 130
+                  },
+                  {
+                    "name": "Gardi",
+                    "votes": 76
+                  },
+                  {
+                    "name": "VFW",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Pine Street",
+                    "votes": 65
+                  },
+                  {
+                    "name": "Unity",
+                    "votes": 129
+                  },
+                  {
+                    "name": "Rec Center",
+                    "votes": 101
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Odum",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Madray Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oglethorpe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Screven",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Empire",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Red Hill",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Altamaha",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gardi",
+                    "votes": 0
+                  },
+                  {
+                    "name": "VFW",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pine Street",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Unity",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rec Center",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 2465,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 645,
+                "Precinct": [
+                  {
+                    "name": "Odum",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Madray Springs",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Oglethorpe",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Screven",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Empire",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Red Hill",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Altamaha",
+                    "votes": 99
+                  },
+                  {
+                    "name": "Gardi",
+                    "votes": 18
+                  },
+                  {
+                    "name": "VFW",
+                    "votes": 115
+                  },
+                  {
+                    "name": "Pine Street",
+                    "votes": 87
+                  },
+                  {
+                    "name": "Unity",
+                    "votes": 86
+                  },
+                  {
+                    "name": "Rec Center",
+                    "votes": 66
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1160,
+                "Precinct": [
+                  {
+                    "name": "Odum",
+                    "votes": 38
+                  },
+                  {
+                    "name": "Madray Springs",
+                    "votes": 22
+                  },
+                  {
+                    "name": "Oglethorpe",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Screven",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Empire",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Red Hill",
+                    "votes": 57
+                  },
+                  {
+                    "name": "Altamaha",
+                    "votes": 181
+                  },
+                  {
+                    "name": "Gardi",
+                    "votes": 24
+                  },
+                  {
+                    "name": "VFW",
+                    "votes": 233
+                  },
+                  {
+                    "name": "Pine Street",
+                    "votes": 149
+                  },
+                  {
+                    "name": "Unity",
+                    "votes": 171
+                  },
+                  {
+                    "name": "Rec Center",
+                    "votes": 125
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 660,
+                "Precinct": [
+                  {
+                    "name": "Odum",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Madray Springs",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Oglethorpe",
+                    "votes": 47
+                  },
+                  {
+                    "name": "Screven",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Empire",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Red Hill",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Altamaha",
+                    "votes": 84
+                  },
+                  {
+                    "name": "Gardi",
+                    "votes": 28
+                  },
+                  {
+                    "name": "VFW",
+                    "votes": 121
+                  },
+                  {
+                    "name": "Pine Street",
+                    "votes": 73
+                  },
+                  {
+                    "name": "Unity",
+                    "votes": 94
+                  },
+                  {
+                    "name": "Rec Center",
+                    "votes": 78
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Odum",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Madray Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oglethorpe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Screven",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Empire",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Red Hill",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Altamaha",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gardi",
+                    "votes": 0
+                  },
+                  {
+                    "name": "VFW",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pine Street",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Unity",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rec Center",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 12,
+        "precinctsReported": 12,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 116,
+            "Precinct": [
+              {
+                "name": "Odum",
+                "votes": 14
+              },
+              {
+                "name": "Madray Springs",
+                "votes": 6
+              },
+              {
+                "name": "Oglethorpe",
+                "votes": 8
+              },
+              {
+                "name": "Screven",
+                "votes": 14
+              },
+              {
+                "name": "Empire",
+                "votes": 5
+              },
+              {
+                "name": "Red Hill",
+                "votes": 3
+              },
+              {
+                "name": "Altamaha",
+                "votes": 12
+              },
+              {
+                "name": "Gardi",
+                "votes": 9
+              },
+              {
+                "name": "VFW",
+                "votes": 12
+              },
+              {
+                "name": "Pine Street",
+                "votes": 13
+              },
+              {
+                "name": "Unity",
+                "votes": 9
+              },
+              {
+                "name": "Rec Center",
+                "votes": 11
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Odum",
+                "votes": 0
+              },
+              {
+                "name": "Madray Springs",
+                "votes": 0
+              },
+              {
+                "name": "Oglethorpe",
+                "votes": 0
+              },
+              {
+                "name": "Screven",
+                "votes": 0
+              },
+              {
+                "name": "Empire",
+                "votes": 0
+              },
+              {
+                "name": "Red Hill",
+                "votes": 0
+              },
+              {
+                "name": "Altamaha",
+                "votes": 0
+              },
+              {
+                "name": "Gardi",
+                "votes": 0
+              },
+              {
+                "name": "VFW",
+                "votes": 0
+              },
+              {
+                "name": "Pine Street",
+                "votes": 0
+              },
+              {
+                "name": "Unity",
+                "votes": 0
+              },
+              {
+                "name": "Rec Center",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 8679,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 3644,
+                "Precinct": [
+                  {
+                    "name": "Odum",
+                    "votes": 433
+                  },
+                  {
+                    "name": "Madray Springs",
+                    "votes": 280
+                  },
+                  {
+                    "name": "Oglethorpe",
+                    "votes": 348
+                  },
+                  {
+                    "name": "Screven",
+                    "votes": 553
+                  },
+                  {
+                    "name": "Empire",
+                    "votes": 307
+                  },
+                  {
+                    "name": "Red Hill",
+                    "votes": 208
+                  },
+                  {
+                    "name": "Altamaha",
+                    "votes": 386
+                  },
+                  {
+                    "name": "Gardi",
+                    "votes": 358
+                  },
+                  {
+                    "name": "VFW",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Pine Street",
+                    "votes": 99
+                  },
+                  {
+                    "name": "Unity",
+                    "votes": 287
+                  },
+                  {
+                    "name": "Rec Center",
+                    "votes": 358
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 4027,
+                "Precinct": [
+                  {
+                    "name": "Odum",
+                    "votes": 311
+                  },
+                  {
+                    "name": "Madray Springs",
+                    "votes": 367
+                  },
+                  {
+                    "name": "Oglethorpe",
+                    "votes": 515
+                  },
+                  {
+                    "name": "Screven",
+                    "votes": 388
+                  },
+                  {
+                    "name": "Empire",
+                    "votes": 321
+                  },
+                  {
+                    "name": "Red Hill",
+                    "votes": 217
+                  },
+                  {
+                    "name": "Altamaha",
+                    "votes": 630
+                  },
+                  {
+                    "name": "Gardi",
+                    "votes": 224
+                  },
+                  {
+                    "name": "VFW",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Pine Street",
+                    "votes": 187
+                  },
+                  {
+                    "name": "Unity",
+                    "votes": 418
+                  },
+                  {
+                    "name": "Rec Center",
+                    "votes": 379
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1008,
+                "Precinct": [
+                  {
+                    "name": "Odum",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Madray Springs",
+                    "votes": 86
+                  },
+                  {
+                    "name": "Oglethorpe",
+                    "votes": 114
+                  },
+                  {
+                    "name": "Screven",
+                    "votes": 89
+                  },
+                  {
+                    "name": "Empire",
+                    "votes": 83
+                  },
+                  {
+                    "name": "Red Hill",
+                    "votes": 52
+                  },
+                  {
+                    "name": "Altamaha",
+                    "votes": 126
+                  },
+                  {
+                    "name": "Gardi",
+                    "votes": 77
+                  },
+                  {
+                    "name": "VFW",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Pine Street",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Unity",
+                    "votes": 125
+                  },
+                  {
+                    "name": "Rec Center",
+                    "votes": 104
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Odum",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Madray Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oglethorpe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Screven",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Empire",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Red Hill",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Altamaha",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gardi",
+                    "votes": 0
+                  },
+                  {
+                    "name": "VFW",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pine Street",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Unity",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rec Center",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 2416,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 629,
+                "Precinct": [
+                  {
+                    "name": "Odum",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Madray Springs",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Oglethorpe",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Screven",
+                    "votes": 65
+                  },
+                  {
+                    "name": "Empire",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Red Hill",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Altamaha",
+                    "votes": 97
+                  },
+                  {
+                    "name": "Gardi",
+                    "votes": 20
+                  },
+                  {
+                    "name": "VFW",
+                    "votes": 112
+                  },
+                  {
+                    "name": "Pine Street",
+                    "votes": 84
+                  },
+                  {
+                    "name": "Unity",
+                    "votes": 79
+                  },
+                  {
+                    "name": "Rec Center",
+                    "votes": 60
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1140,
+                "Precinct": [
+                  {
+                    "name": "Odum",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Madray Springs",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Oglethorpe",
+                    "votes": 66
+                  },
+                  {
+                    "name": "Screven",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Empire",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Red Hill",
+                    "votes": 55
+                  },
+                  {
+                    "name": "Altamaha",
+                    "votes": 175
+                  },
+                  {
+                    "name": "Gardi",
+                    "votes": 24
+                  },
+                  {
+                    "name": "VFW",
+                    "votes": 232
+                  },
+                  {
+                    "name": "Pine Street",
+                    "votes": 149
+                  },
+                  {
+                    "name": "Unity",
+                    "votes": 172
+                  },
+                  {
+                    "name": "Rec Center",
+                    "votes": 125
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 647,
+                "Precinct": [
+                  {
+                    "name": "Odum",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Madray Springs",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Oglethorpe",
+                    "votes": 46
+                  },
+                  {
+                    "name": "Screven",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Empire",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Red Hill",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Altamaha",
+                    "votes": 84
+                  },
+                  {
+                    "name": "Gardi",
+                    "votes": 24
+                  },
+                  {
+                    "name": "VFW",
+                    "votes": 119
+                  },
+                  {
+                    "name": "Pine Street",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Unity",
+                    "votes": 96
+                  },
+                  {
+                    "name": "Rec Center",
+                    "votes": 73
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Odum",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Madray Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oglethorpe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Screven",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Empire",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Red Hill",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Altamaha",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gardi",
+                    "votes": 0
+                  },
+                  {
+                    "name": "VFW",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pine Street",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Unity",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rec Center",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

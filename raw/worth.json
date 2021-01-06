@@ -1,21 +1,21 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 7:59:11 PM EST",
+    "Timestamp": "1/5/2021 8:21:12 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Worth",
     "VoterTurnout": {
       "totalVoters": 14021,
-      "ballotsCast": 4539,
-      "voterTurnout": 32.37,
+      "ballotsCast": 6005,
+      "voterTurnout": 42.83,
       "Precincts": {
         "Precinct": [
           {
             "name": "Sylvester",
             "totalVoters": 2910,
-            "ballotsCast": 1070,
-            "voterTurnout": 36.77,
-            "percentReporting": "2"
+            "ballotsCast": 1498,
+            "voterTurnout": 51.48,
+            "percentReporting": "4"
           },
           {
             "name": "Scooterville",
@@ -41,9 +41,9 @@
           {
             "name": "County Line",
             "totalVoters": 875,
-            "ballotsCast": 234,
-            "voterTurnout": 26.74,
-            "percentReporting": "2"
+            "ballotsCast": 425,
+            "voterTurnout": 48.57,
+            "percentReporting": "4"
           },
           {
             "name": "Isabella",
@@ -55,9 +55,9 @@
           {
             "name": "Piney Woods",
             "totalVoters": 318,
-            "ballotsCast": 120,
-            "voterTurnout": 37.74,
-            "percentReporting": "2"
+            "ballotsCast": 189,
+            "voterTurnout": 59.43,
+            "percentReporting": "4"
           },
           {
             "name": "Sylvester East",
@@ -76,9 +76,9 @@
           {
             "name": "Sumner",
             "totalVoters": 846,
-            "ballotsCast": 255,
-            "voterTurnout": 30.14,
-            "percentReporting": "2"
+            "ballotsCast": 533,
+            "voterTurnout": 63.0,
+            "percentReporting": "4"
           },
           {
             "name": "Shingler",
@@ -90,16 +90,16 @@
           {
             "name": "Red Rock",
             "totalVoters": 1230,
-            "ballotsCast": 318,
-            "voterTurnout": 25.85,
-            "percentReporting": "2"
+            "ballotsCast": 657,
+            "voterTurnout": 53.41,
+            "percentReporting": "4"
           },
           {
             "name": "Doles",
             "totalVoters": 432,
-            "ballotsCast": 117,
-            "voterTurnout": 27.08,
-            "percentReporting": "2"
+            "ballotsCast": 278,
+            "voterTurnout": 64.35,
+            "percentReporting": "4"
           },
           {
             "name": "Oakfield",
@@ -125,11 +125,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 15,
-        "precinctsReported": 0,
+        "precinctsReported": 6,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 15,
+            "votes": 18,
             "Precinct": [
               {
                 "name": "Sylvester",
@@ -157,7 +157,7 @@
               },
               {
                 "name": "Piney Woods",
-                "votes": 1
+                "votes": 3
               },
               {
                 "name": "Sylvester East",
@@ -177,7 +177,7 @@
               },
               {
                 "name": "Red Rock",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Doles",
@@ -264,15 +264,15 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 2888,
+            "totalVotes": 3997,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 1109,
                 "Precinct": [
                   {
                     "name": "Sylvester",
-                    "votes": 0
+                    "votes": 180
                   },
                   {
                     "name": "Scooterville",
@@ -288,7 +288,7 @@
                   },
                   {
                     "name": "County Line",
-                    "votes": 0
+                    "votes": 178
                   },
                   {
                     "name": "Isabella",
@@ -296,7 +296,7 @@
                   },
                   {
                     "name": "Piney Woods",
-                    "votes": 0
+                    "votes": 48
                   },
                   {
                     "name": "Sylvester East",
@@ -308,7 +308,7 @@
                   },
                   {
                     "name": "Sumner",
-                    "votes": 0
+                    "votes": 248
                   },
                   {
                     "name": "Shingler",
@@ -316,11 +316,11 @@
                   },
                   {
                     "name": "Red Rock",
-                    "votes": 0
+                    "votes": 301
                   },
                   {
                     "name": "Doles",
-                    "votes": 0
+                    "votes": 154
                   },
                   {
                     "name": "Oakfield",
@@ -535,15 +535,15 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 1636,
+            "totalVotes": 1990,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 354,
                 "Precinct": [
                   {
                     "name": "Sylvester",
-                    "votes": 0
+                    "votes": 248
                   },
                   {
                     "name": "Scooterville",
@@ -559,7 +559,7 @@
                   },
                   {
                     "name": "County Line",
-                    "votes": 0
+                    "votes": 13
                   },
                   {
                     "name": "Isabella",
@@ -567,7 +567,7 @@
                   },
                   {
                     "name": "Piney Woods",
-                    "votes": 0
+                    "votes": 19
                   },
                   {
                     "name": "Sylvester East",
@@ -579,7 +579,7 @@
                   },
                   {
                     "name": "Sumner",
-                    "votes": 0
+                    "votes": 30
                   },
                   {
                     "name": "Shingler",
@@ -587,11 +587,11 @@
                   },
                   {
                     "name": "Red Rock",
-                    "votes": 0
+                    "votes": 37
                   },
                   {
                     "name": "Doles",
-                    "votes": 0
+                    "votes": 7
                   },
                   {
                     "name": "Oakfield",
@@ -811,11 +811,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 15,
-        "precinctsReported": 0,
+        "precinctsReported": 6,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 13,
+            "votes": 18,
             "Precinct": [
               {
                 "name": "Sylvester",
@@ -843,7 +843,7 @@
               },
               {
                 "name": "Piney Woods",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Sylvester East",
@@ -855,7 +855,7 @@
               },
               {
                 "name": "Sumner",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Shingler",
@@ -863,7 +863,7 @@
               },
               {
                 "name": "Red Rock",
-                "votes": 1
+                "votes": 3
               },
               {
                 "name": "Doles",
@@ -950,15 +950,15 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 2892,
+            "totalVotes": 3998,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 1106,
                 "Precinct": [
                   {
                     "name": "Sylvester",
-                    "votes": 0
+                    "votes": 184
                   },
                   {
                     "name": "Scooterville",
@@ -974,7 +974,7 @@
                   },
                   {
                     "name": "County Line",
-                    "votes": 0
+                    "votes": 175
                   },
                   {
                     "name": "Isabella",
@@ -982,7 +982,7 @@
                   },
                   {
                     "name": "Piney Woods",
-                    "votes": 0
+                    "votes": 47
                   },
                   {
                     "name": "Sylvester East",
@@ -994,7 +994,7 @@
                   },
                   {
                     "name": "Sumner",
-                    "votes": 0
+                    "votes": 248
                   },
                   {
                     "name": "Shingler",
@@ -1002,11 +1002,11 @@
                   },
                   {
                     "name": "Red Rock",
-                    "votes": 0
+                    "votes": 298
                   },
                   {
                     "name": "Doles",
-                    "votes": 0
+                    "votes": 154
                   },
                   {
                     "name": "Oakfield",
@@ -1221,15 +1221,15 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 1634,
+            "totalVotes": 1989,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 355,
                 "Precinct": [
                   {
                     "name": "Sylvester",
-                    "votes": 0
+                    "votes": 244
                   },
                   {
                     "name": "Scooterville",
@@ -1245,7 +1245,7 @@
                   },
                   {
                     "name": "County Line",
-                    "votes": 0
+                    "votes": 16
                   },
                   {
                     "name": "Isabella",
@@ -1253,7 +1253,7 @@
                   },
                   {
                     "name": "Piney Woods",
-                    "votes": 0
+                    "votes": 20
                   },
                   {
                     "name": "Sylvester East",
@@ -1265,7 +1265,7 @@
                   },
                   {
                     "name": "Sumner",
-                    "votes": 0
+                    "votes": 29
                   },
                   {
                     "name": "Shingler",
@@ -1273,11 +1273,11 @@
                   },
                   {
                     "name": "Red Rock",
-                    "votes": 0
+                    "votes": 39
                   },
                   {
                     "name": "Doles",
-                    "votes": 0
+                    "votes": 7
                   },
                   {
                     "name": "Oakfield",
@@ -1497,15 +1497,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 15,
-        "precinctsReported": 0,
+        "precinctsReported": 6,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 70,
+            "votes": 83,
             "Precinct": [
               {
                 "name": "Sylvester",
-                "votes": 17
+                "votes": 23
               },
               {
                 "name": "Scooterville",
@@ -1529,7 +1529,7 @@
               },
               {
                 "name": "Piney Woods",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Sylvester East",
@@ -1541,7 +1541,7 @@
               },
               {
                 "name": "Sumner",
-                "votes": 3
+                "votes": 6
               },
               {
                 "name": "Shingler",
@@ -1553,7 +1553,7 @@
               },
               {
                 "name": "Doles",
-                "votes": 5
+                "votes": 7
               },
               {
                 "name": "Oakfield",
@@ -1636,15 +1636,15 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 2900,
+            "totalVotes": 4010,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 1110,
                 "Precinct": [
                   {
                     "name": "Sylvester",
-                    "votes": 0
+                    "votes": 186
                   },
                   {
                     "name": "Scooterville",
@@ -1660,7 +1660,7 @@
                   },
                   {
                     "name": "County Line",
-                    "votes": 0
+                    "votes": 175
                   },
                   {
                     "name": "Isabella",
@@ -1668,7 +1668,7 @@
                   },
                   {
                     "name": "Piney Woods",
-                    "votes": 0
+                    "votes": 47
                   },
                   {
                     "name": "Sylvester East",
@@ -1680,7 +1680,7 @@
                   },
                   {
                     "name": "Sumner",
-                    "votes": 0
+                    "votes": 248
                   },
                   {
                     "name": "Shingler",
@@ -1688,11 +1688,11 @@
                   },
                   {
                     "name": "Red Rock",
-                    "votes": 0
+                    "votes": 301
                   },
                   {
                     "name": "Doles",
-                    "votes": 0
+                    "votes": 153
                   },
                   {
                     "name": "Oakfield",
@@ -1907,15 +1907,15 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 1569,
+            "totalVotes": 1912,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 343,
                 "Precinct": [
                   {
                     "name": "Sylvester",
-                    "votes": 0
+                    "votes": 236
                   },
                   {
                     "name": "Scooterville",
@@ -1931,7 +1931,7 @@
                   },
                   {
                     "name": "County Line",
-                    "votes": 0
+                    "votes": 16
                   },
                   {
                     "name": "Isabella",
@@ -1939,7 +1939,7 @@
                   },
                   {
                     "name": "Piney Woods",
-                    "votes": 0
+                    "votes": 20
                   },
                   {
                     "name": "Sylvester East",
@@ -1951,7 +1951,7 @@
                   },
                   {
                     "name": "Sumner",
-                    "votes": 0
+                    "votes": 27
                   },
                   {
                     "name": "Shingler",
@@ -1959,11 +1959,11 @@
                   },
                   {
                     "name": "Red Rock",
-                    "votes": 0
+                    "votes": 38
                   },
                   {
                     "name": "Doles",
-                    "votes": 0
+                    "votes": 6
                   },
                   {
                     "name": "Oakfield",

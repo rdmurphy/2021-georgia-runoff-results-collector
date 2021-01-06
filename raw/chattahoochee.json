@@ -1,0 +1,404 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:13:07 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Chattahoochee",
+    "VoterTurnout": {
+      "totalVoters": 0,
+      "ballotsCast": 1319,
+      "voterTurnout": 0.0,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Activity Center",
+            "totalVoters": 0,
+            "ballotsCast": 1319,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 1,
+        "precinctsReported": 1,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 3,
+            "Precinct": [
+              {
+                "name": "Activity Center",
+                "votes": 3
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Activity Center",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 712,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 329,
+                "Precinct": [
+                  {
+                    "name": "Activity Center",
+                    "votes": 329
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 318,
+                "Precinct": [
+                  {
+                    "name": "Activity Center",
+                    "votes": 318
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 65,
+                "Precinct": [
+                  {
+                    "name": "Activity Center",
+                    "votes": 65
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Activity Center",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 604,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 160,
+                "Precinct": [
+                  {
+                    "name": "Activity Center",
+                    "votes": 160
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 307,
+                "Precinct": [
+                  {
+                    "name": "Activity Center",
+                    "votes": 307
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 136,
+                "Precinct": [
+                  {
+                    "name": "Activity Center",
+                    "votes": 136
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 1,
+                "Precinct": [
+                  {
+                    "name": "Activity Center",
+                    "votes": 1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 1,
+        "precinctsReported": 1,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 4,
+            "Precinct": [
+              {
+                "name": "Activity Center",
+                "votes": 4
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Activity Center",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 716,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 331,
+                "Precinct": [
+                  {
+                    "name": "Activity Center",
+                    "votes": 331
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 319,
+                "Precinct": [
+                  {
+                    "name": "Activity Center",
+                    "votes": 319
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 66,
+                "Precinct": [
+                  {
+                    "name": "Activity Center",
+                    "votes": 66
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Activity Center",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 599,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 156,
+                "Precinct": [
+                  {
+                    "name": "Activity Center",
+                    "votes": 156
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 307,
+                "Precinct": [
+                  {
+                    "name": "Activity Center",
+                    "votes": 307
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 135,
+                "Precinct": [
+                  {
+                    "name": "Activity Center",
+                    "votes": 135
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 1,
+                "Precinct": [
+                  {
+                    "name": "Activity Center",
+                    "votes": 1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 1,
+        "precinctsReported": 1,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 38,
+            "Precinct": [
+              {
+                "name": "Activity Center",
+                "votes": 38
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Activity Center",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 702,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 322,
+                "Precinct": [
+                  {
+                    "name": "Activity Center",
+                    "votes": 322
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 316,
+                "Precinct": [
+                  {
+                    "name": "Activity Center",
+                    "votes": 316
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 64,
+                "Precinct": [
+                  {
+                    "name": "Activity Center",
+                    "votes": 64
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Activity Center",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 578,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 160,
+                "Precinct": [
+                  {
+                    "name": "Activity Center",
+                    "votes": 160
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 288,
+                "Precinct": [
+                  {
+                    "name": "Activity Center",
+                    "votes": 288
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 129,
+                "Precinct": [
+                  {
+                    "name": "Activity Center",
+                    "votes": 129
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 1,
+                "Precinct": [
+                  {
+                    "name": "Activity Center",
+                    "votes": 1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

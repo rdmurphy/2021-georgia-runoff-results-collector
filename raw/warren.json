@@ -1,0 +1,404 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:24:18 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Warren",
+    "VoterTurnout": {
+      "totalVoters": 3863,
+      "ballotsCast": 2473,
+      "voterTurnout": 64.02,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Warrenton",
+            "totalVoters": 3863,
+            "ballotsCast": 2473,
+            "voterTurnout": 64.02,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 1,
+        "precinctsReported": 1,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 8,
+            "Precinct": [
+              {
+                "name": "Warrenton",
+                "votes": 8
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Warrenton",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 1079,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 257,
+                "Precinct": [
+                  {
+                    "name": "Warrenton",
+                    "votes": 257
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 674,
+                "Precinct": [
+                  {
+                    "name": "Warrenton",
+                    "votes": 674
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 148,
+                "Precinct": [
+                  {
+                    "name": "Warrenton",
+                    "votes": 148
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Warrenton",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 1386,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 307,
+                "Precinct": [
+                  {
+                    "name": "Warrenton",
+                    "votes": 307
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 594,
+                "Precinct": [
+                  {
+                    "name": "Warrenton",
+                    "votes": 594
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 485,
+                "Precinct": [
+                  {
+                    "name": "Warrenton",
+                    "votes": 485
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Warrenton",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 1,
+        "precinctsReported": 1,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 7,
+            "Precinct": [
+              {
+                "name": "Warrenton",
+                "votes": 7
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Warrenton",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 1072,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 258,
+                "Precinct": [
+                  {
+                    "name": "Warrenton",
+                    "votes": 258
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 667,
+                "Precinct": [
+                  {
+                    "name": "Warrenton",
+                    "votes": 667
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 147,
+                "Precinct": [
+                  {
+                    "name": "Warrenton",
+                    "votes": 147
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Warrenton",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 1394,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 305,
+                "Precinct": [
+                  {
+                    "name": "Warrenton",
+                    "votes": 305
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 601,
+                "Precinct": [
+                  {
+                    "name": "Warrenton",
+                    "votes": 601
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 488,
+                "Precinct": [
+                  {
+                    "name": "Warrenton",
+                    "votes": 488
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Warrenton",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 1,
+        "precinctsReported": 1,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 73,
+            "Precinct": [
+              {
+                "name": "Warrenton",
+                "votes": 73
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Warrenton",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 1069,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 256,
+                "Precinct": [
+                  {
+                    "name": "Warrenton",
+                    "votes": 256
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 666,
+                "Precinct": [
+                  {
+                    "name": "Warrenton",
+                    "votes": 666
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 147,
+                "Precinct": [
+                  {
+                    "name": "Warrenton",
+                    "votes": 147
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Warrenton",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 1331,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 298,
+                "Precinct": [
+                  {
+                    "name": "Warrenton",
+                    "votes": 298
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 569,
+                "Precinct": [
+                  {
+                    "name": "Warrenton",
+                    "votes": 569
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 464,
+                "Precinct": [
+                  {
+                    "name": "Warrenton",
+                    "votes": 464
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Warrenton",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

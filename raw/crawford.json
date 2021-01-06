@@ -1,0 +1,1165 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:25:18 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Crawford",
+    "VoterTurnout": {
+      "totalVoters": 0,
+      "ballotsCast": 4293,
+      "voterTurnout": 0.0,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "District 1A",
+            "totalVoters": 0,
+            "ballotsCast": 170,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "District 1B",
+            "totalVoters": 0,
+            "ballotsCast": 628,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "District 2",
+            "totalVoters": 0,
+            "ballotsCast": 1152,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "District 3",
+            "totalVoters": 0,
+            "ballotsCast": 1066,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "District 4",
+            "totalVoters": 0,
+            "ballotsCast": 649,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "District 5",
+            "totalVoters": 0,
+            "ballotsCast": 628,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 6,
+        "precinctsReported": 3,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 19,
+            "Precinct": [
+              {
+                "name": "District 1A",
+                "votes": 1
+              },
+              {
+                "name": "District 1B",
+                "votes": 3
+              },
+              {
+                "name": "District 2",
+                "votes": 8
+              },
+              {
+                "name": "District 3",
+                "votes": 5
+              },
+              {
+                "name": "District 4",
+                "votes": 1
+              },
+              {
+                "name": "District 5",
+                "votes": 1
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "District 1A",
+                "votes": 0
+              },
+              {
+                "name": "District 1B",
+                "votes": 0
+              },
+              {
+                "name": "District 2",
+                "votes": 0
+              },
+              {
+                "name": "District 3",
+                "votes": 0
+              },
+              {
+                "name": "District 4",
+                "votes": 0
+              },
+              {
+                "name": "District 5",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 2911,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 542,
+                "Precinct": [
+                  {
+                    "name": "District 1A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 1B",
+                    "votes": 67
+                  },
+                  {
+                    "name": "District 2",
+                    "votes": 195
+                  },
+                  {
+                    "name": "District 3",
+                    "votes": 280
+                  },
+                  {
+                    "name": "District 4",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 5",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1955,
+                "Precinct": [
+                  {
+                    "name": "District 1A",
+                    "votes": 75
+                  },
+                  {
+                    "name": "District 1B",
+                    "votes": 158
+                  },
+                  {
+                    "name": "District 2",
+                    "votes": 360
+                  },
+                  {
+                    "name": "District 3",
+                    "votes": 505
+                  },
+                  {
+                    "name": "District 4",
+                    "votes": 440
+                  },
+                  {
+                    "name": "District 5",
+                    "votes": 417
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 414,
+                "Precinct": [
+                  {
+                    "name": "District 1A",
+                    "votes": 14
+                  },
+                  {
+                    "name": "District 1B",
+                    "votes": 28
+                  },
+                  {
+                    "name": "District 2",
+                    "votes": 84
+                  },
+                  {
+                    "name": "District 3",
+                    "votes": 92
+                  },
+                  {
+                    "name": "District 4",
+                    "votes": 110
+                  },
+                  {
+                    "name": "District 5",
+                    "votes": 86
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "District 1A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 1B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 4",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 5",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 1363,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 200,
+                "Precinct": [
+                  {
+                    "name": "District 1A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 1B",
+                    "votes": 68
+                  },
+                  {
+                    "name": "District 2",
+                    "votes": 89
+                  },
+                  {
+                    "name": "District 3",
+                    "votes": 43
+                  },
+                  {
+                    "name": "District 4",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 5",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 704,
+                "Precinct": [
+                  {
+                    "name": "District 1A",
+                    "votes": 52
+                  },
+                  {
+                    "name": "District 1B",
+                    "votes": 201
+                  },
+                  {
+                    "name": "District 2",
+                    "votes": 257
+                  },
+                  {
+                    "name": "District 3",
+                    "votes": 79
+                  },
+                  {
+                    "name": "District 4",
+                    "votes": 49
+                  },
+                  {
+                    "name": "District 5",
+                    "votes": 66
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 459,
+                "Precinct": [
+                  {
+                    "name": "District 1A",
+                    "votes": 28
+                  },
+                  {
+                    "name": "District 1B",
+                    "votes": 103
+                  },
+                  {
+                    "name": "District 2",
+                    "votes": 159
+                  },
+                  {
+                    "name": "District 3",
+                    "votes": 62
+                  },
+                  {
+                    "name": "District 4",
+                    "votes": 49
+                  },
+                  {
+                    "name": "District 5",
+                    "votes": 58
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "District 1A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 1B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 4",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 5",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 6,
+        "precinctsReported": 3,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 13,
+            "Precinct": [
+              {
+                "name": "District 1A",
+                "votes": 1
+              },
+              {
+                "name": "District 1B",
+                "votes": 2
+              },
+              {
+                "name": "District 2",
+                "votes": 5
+              },
+              {
+                "name": "District 3",
+                "votes": 4
+              },
+              {
+                "name": "District 4",
+                "votes": 1
+              },
+              {
+                "name": "District 5",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "District 1A",
+                "votes": 0
+              },
+              {
+                "name": "District 1B",
+                "votes": 0
+              },
+              {
+                "name": "District 2",
+                "votes": 0
+              },
+              {
+                "name": "District 3",
+                "votes": 0
+              },
+              {
+                "name": "District 4",
+                "votes": 0
+              },
+              {
+                "name": "District 5",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 2905,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 541,
+                "Precinct": [
+                  {
+                    "name": "District 1A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 1B",
+                    "votes": 66
+                  },
+                  {
+                    "name": "District 2",
+                    "votes": 194
+                  },
+                  {
+                    "name": "District 3",
+                    "votes": 281
+                  },
+                  {
+                    "name": "District 4",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 5",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1951,
+                "Precinct": [
+                  {
+                    "name": "District 1A",
+                    "votes": 74
+                  },
+                  {
+                    "name": "District 1B",
+                    "votes": 156
+                  },
+                  {
+                    "name": "District 2",
+                    "votes": 361
+                  },
+                  {
+                    "name": "District 3",
+                    "votes": 504
+                  },
+                  {
+                    "name": "District 4",
+                    "votes": 440
+                  },
+                  {
+                    "name": "District 5",
+                    "votes": 416
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 413,
+                "Precinct": [
+                  {
+                    "name": "District 1A",
+                    "votes": 14
+                  },
+                  {
+                    "name": "District 1B",
+                    "votes": 27
+                  },
+                  {
+                    "name": "District 2",
+                    "votes": 83
+                  },
+                  {
+                    "name": "District 3",
+                    "votes": 91
+                  },
+                  {
+                    "name": "District 4",
+                    "votes": 111
+                  },
+                  {
+                    "name": "District 5",
+                    "votes": 87
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "District 1A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 1B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 4",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 5",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 1375,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 204,
+                "Precinct": [
+                  {
+                    "name": "District 1A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 1B",
+                    "votes": 69
+                  },
+                  {
+                    "name": "District 2",
+                    "votes": 92
+                  },
+                  {
+                    "name": "District 3",
+                    "votes": 43
+                  },
+                  {
+                    "name": "District 4",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 5",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 710,
+                "Precinct": [
+                  {
+                    "name": "District 1A",
+                    "votes": 53
+                  },
+                  {
+                    "name": "District 1B",
+                    "votes": 203
+                  },
+                  {
+                    "name": "District 2",
+                    "votes": 258
+                  },
+                  {
+                    "name": "District 3",
+                    "votes": 81
+                  },
+                  {
+                    "name": "District 4",
+                    "votes": 48
+                  },
+                  {
+                    "name": "District 5",
+                    "votes": 67
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 461,
+                "Precinct": [
+                  {
+                    "name": "District 1A",
+                    "votes": 28
+                  },
+                  {
+                    "name": "District 1B",
+                    "votes": 105
+                  },
+                  {
+                    "name": "District 2",
+                    "votes": 159
+                  },
+                  {
+                    "name": "District 3",
+                    "votes": 62
+                  },
+                  {
+                    "name": "District 4",
+                    "votes": 49
+                  },
+                  {
+                    "name": "District 5",
+                    "votes": 58
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "District 1A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 1B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 4",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 5",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 6,
+        "precinctsReported": 3,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 85,
+            "Precinct": [
+              {
+                "name": "District 1A",
+                "votes": 4
+              },
+              {
+                "name": "District 1B",
+                "votes": 16
+              },
+              {
+                "name": "District 2",
+                "votes": 25
+              },
+              {
+                "name": "District 3",
+                "votes": 20
+              },
+              {
+                "name": "District 4",
+                "votes": 7
+              },
+              {
+                "name": "District 5",
+                "votes": 13
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "District 1A",
+                "votes": 0
+              },
+              {
+                "name": "District 1B",
+                "votes": 0
+              },
+              {
+                "name": "District 2",
+                "votes": 0
+              },
+              {
+                "name": "District 3",
+                "votes": 0
+              },
+              {
+                "name": "District 4",
+                "votes": 0
+              },
+              {
+                "name": "District 5",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 2912,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 541,
+                "Precinct": [
+                  {
+                    "name": "District 1A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 1B",
+                    "votes": 66
+                  },
+                  {
+                    "name": "District 2",
+                    "votes": 196
+                  },
+                  {
+                    "name": "District 3",
+                    "votes": 279
+                  },
+                  {
+                    "name": "District 4",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 5",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1947,
+                "Precinct": [
+                  {
+                    "name": "District 1A",
+                    "votes": 74
+                  },
+                  {
+                    "name": "District 1B",
+                    "votes": 158
+                  },
+                  {
+                    "name": "District 2",
+                    "votes": 363
+                  },
+                  {
+                    "name": "District 3",
+                    "votes": 504
+                  },
+                  {
+                    "name": "District 4",
+                    "votes": 439
+                  },
+                  {
+                    "name": "District 5",
+                    "votes": 409
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 424,
+                "Precinct": [
+                  {
+                    "name": "District 1A",
+                    "votes": 17
+                  },
+                  {
+                    "name": "District 1B",
+                    "votes": 26
+                  },
+                  {
+                    "name": "District 2",
+                    "votes": 86
+                  },
+                  {
+                    "name": "District 3",
+                    "votes": 91
+                  },
+                  {
+                    "name": "District 4",
+                    "votes": 114
+                  },
+                  {
+                    "name": "District 5",
+                    "votes": 90
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "District 1A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 1B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 4",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 5",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 1296,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 190,
+                "Precinct": [
+                  {
+                    "name": "District 1A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 1B",
+                    "votes": 65
+                  },
+                  {
+                    "name": "District 2",
+                    "votes": 85
+                  },
+                  {
+                    "name": "District 3",
+                    "votes": 40
+                  },
+                  {
+                    "name": "District 4",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 5",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 670,
+                "Precinct": [
+                  {
+                    "name": "District 1A",
+                    "votes": 50
+                  },
+                  {
+                    "name": "District 1B",
+                    "votes": 195
+                  },
+                  {
+                    "name": "District 2",
+                    "votes": 243
+                  },
+                  {
+                    "name": "District 3",
+                    "votes": 74
+                  },
+                  {
+                    "name": "District 4",
+                    "votes": 43
+                  },
+                  {
+                    "name": "District 5",
+                    "votes": 65
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 436,
+                "Precinct": [
+                  {
+                    "name": "District 1A",
+                    "votes": 25
+                  },
+                  {
+                    "name": "District 1B",
+                    "votes": 102
+                  },
+                  {
+                    "name": "District 2",
+                    "votes": 154
+                  },
+                  {
+                    "name": "District 3",
+                    "votes": 58
+                  },
+                  {
+                    "name": "District 4",
+                    "votes": 46
+                  },
+                  {
+                    "name": "District 5",
+                    "votes": 51
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "District 1A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 1B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 4",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District 5",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "15",
+        "text": "County Commission District 2",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 1,
+        "precinctsReported": 1,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 23,
+            "Precinct": [
+              {
+                "name": "District 2",
+                "votes": 23
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "District 2",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "44",
+            "text": "Jackie McCowen (Rep)",
+            "totalVotes": 613,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 186,
+                "Precinct": [
+                  {
+                    "name": "District 2",
+                    "votes": 186
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 343,
+                "Precinct": [
+                  {
+                    "name": "District 2",
+                    "votes": 343
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 84,
+                "Precinct": [
+                  {
+                    "name": "District 2",
+                    "votes": 84
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "District 2",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "45",
+            "text": "Bobby Blasingame (I) (Dem)",
+            "totalVotes": 516,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 96,
+                "Precinct": [
+                  {
+                    "name": "District 2",
+                    "votes": 96
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 264,
+                "Precinct": [
+                  {
+                    "name": "District 2",
+                    "votes": 264
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 156,
+                "Precinct": [
+                  {
+                    "name": "District 2",
+                    "votes": 156
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "District 2",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,48 +1,48 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:24:25 PM EST",
+    "Timestamp": "1/5/2021 8:16:48 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
-    "Region": "Calhoun",
+    "Region": "Clinch",
     "VoterTurnout": {
-      "totalVoters": 3269,
-      "ballotsCast": 1368,
-      "voterTurnout": 41.85,
+      "totalVoters": 4386,
+      "ballotsCast": 536,
+      "voterTurnout": 12.22,
       "Precincts": {
         "Precinct": [
           {
-            "name": "Leary",
-            "totalVoters": 726,
-            "ballotsCast": 296,
-            "voterTurnout": 40.77,
-            "percentReporting": "2"
+            "name": "Arabia",
+            "totalVoters": 109,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
           },
           {
-            "name": "Morgan",
-            "totalVoters": 668,
-            "ballotsCast": 351,
-            "voterTurnout": 52.54,
-            "percentReporting": "2"
+            "name": "Argyle",
+            "totalVoters": 377,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
           },
           {
-            "name": "Edison",
-            "totalVoters": 534,
-            "ballotsCast": 162,
-            "voterTurnout": 30.34,
-            "percentReporting": "2"
+            "name": "Dupont",
+            "totalVoters": 344,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
           },
           {
-            "name": "Edison-Arlington",
-            "totalVoters": 651,
-            "ballotsCast": 251,
-            "voterTurnout": 38.56,
-            "percentReporting": "2"
+            "name": "Fargo",
+            "totalVoters": 268,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
           },
           {
-            "name": "Arlington",
-            "totalVoters": 690,
-            "ballotsCast": 308,
-            "voterTurnout": 44.64,
+            "name": "Homerville",
+            "totalVoters": 3288,
+            "ballotsCast": 536,
+            "voterTurnout": 16.3,
             "percentReporting": "2"
           }
         ]
@@ -59,27 +59,27 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 7,
+            "votes": 3,
             "Precinct": [
               {
-                "name": "Leary",
+                "name": "Arabia",
                 "votes": 0
               },
               {
-                "name": "Morgan",
-                "votes": 1
+                "name": "Argyle",
+                "votes": 0
               },
               {
-                "name": "Edison",
-                "votes": 1
+                "name": "Dupont",
+                "votes": 0
               },
               {
-                "name": "Edison-Arlington",
-                "votes": 1
+                "name": "Fargo",
+                "votes": 0
               },
               {
-                "name": "Arlington",
-                "votes": 4
+                "name": "Homerville",
+                "votes": 3
               }
             ]
           },
@@ -88,23 +88,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Leary",
+                "name": "Arabia",
                 "votes": 0
               },
               {
-                "name": "Morgan",
+                "name": "Argyle",
                 "votes": 0
               },
               {
-                "name": "Edison",
+                "name": "Dupont",
                 "votes": 0
               },
               {
-                "name": "Edison-Arlington",
+                "name": "Fargo",
                 "votes": 0
               },
               {
-                "name": "Arlington",
+                "name": "Homerville",
                 "votes": 0
               }
             ]
@@ -114,83 +114,83 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 518,
+            "totalVotes": 381,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 381,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Arabia",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Argyle",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Dupont",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Fargo",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 0
+                    "name": "Homerville",
+                    "votes": 381
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 410,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 97
+                    "name": "Arabia",
+                    "votes": 0
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 182
+                    "name": "Argyle",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison",
-                    "votes": 18
+                    "name": "Dupont",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 58
+                    "name": "Fargo",
+                    "votes": 0
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 55
+                    "name": "Homerville",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 108,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 23
+                    "name": "Arabia",
+                    "votes": 0
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 50
+                    "name": "Argyle",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison",
-                    "votes": 4
+                    "name": "Dupont",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 21
+                    "name": "Fargo",
+                    "votes": 0
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 10
+                    "name": "Homerville",
+                    "votes": 0
                   }
                 ]
               },
@@ -199,23 +199,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Arabia",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Argyle",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Dupont",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Fargo",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
+                    "name": "Homerville",
                     "votes": 0
                   }
                 ]
@@ -225,83 +225,83 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 843,
+            "totalVotes": 152,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 152,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Arabia",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Argyle",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Dupont",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Fargo",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 0
+                    "name": "Homerville",
+                    "votes": 152
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 406,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 81
+                    "name": "Arabia",
+                    "votes": 0
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 60
+                    "name": "Argyle",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison",
-                    "votes": 77
+                    "name": "Dupont",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 101
+                    "name": "Fargo",
+                    "votes": 0
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 87
+                    "name": "Homerville",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 437,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 95
+                    "name": "Arabia",
+                    "votes": 0
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 58
+                    "name": "Argyle",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison",
-                    "votes": 62
+                    "name": "Dupont",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 70
+                    "name": "Fargo",
+                    "votes": 0
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 152
+                    "name": "Homerville",
+                    "votes": 0
                   }
                 ]
               },
@@ -310,23 +310,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Arabia",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Argyle",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Dupont",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Fargo",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
+                    "name": "Homerville",
                     "votes": 0
                   }
                 ]
@@ -345,27 +345,27 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 5,
+            "votes": 1,
             "Precinct": [
               {
-                "name": "Leary",
+                "name": "Arabia",
                 "votes": 0
               },
               {
-                "name": "Morgan",
-                "votes": 1
+                "name": "Argyle",
+                "votes": 0
               },
               {
-                "name": "Edison",
-                "votes": 1
+                "name": "Dupont",
+                "votes": 0
               },
               {
-                "name": "Edison-Arlington",
-                "votes": 1
+                "name": "Fargo",
+                "votes": 0
               },
               {
-                "name": "Arlington",
-                "votes": 2
+                "name": "Homerville",
+                "votes": 1
               }
             ]
           },
@@ -374,23 +374,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Leary",
+                "name": "Arabia",
                 "votes": 0
               },
               {
-                "name": "Morgan",
+                "name": "Argyle",
                 "votes": 0
               },
               {
-                "name": "Edison",
+                "name": "Dupont",
                 "votes": 0
               },
               {
-                "name": "Edison-Arlington",
+                "name": "Fargo",
                 "votes": 0
               },
               {
-                "name": "Arlington",
+                "name": "Homerville",
                 "votes": 0
               }
             ]
@@ -400,83 +400,83 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 521,
+            "totalVotes": 377,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 377,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Arabia",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Argyle",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Dupont",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Fargo",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 0
+                    "name": "Homerville",
+                    "votes": 377
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 414,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 97
+                    "name": "Arabia",
+                    "votes": 0
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 184
+                    "name": "Argyle",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison",
-                    "votes": 20
+                    "name": "Dupont",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 58
+                    "name": "Fargo",
+                    "votes": 0
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 55
+                    "name": "Homerville",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 107,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 23
+                    "name": "Arabia",
+                    "votes": 0
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 49
+                    "name": "Argyle",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison",
-                    "votes": 4
+                    "name": "Dupont",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 21
+                    "name": "Fargo",
+                    "votes": 0
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 10
+                    "name": "Homerville",
+                    "votes": 0
                   }
                 ]
               },
@@ -485,23 +485,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Arabia",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Argyle",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Dupont",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Fargo",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
+                    "name": "Homerville",
                     "votes": 0
                   }
                 ]
@@ -511,83 +511,83 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 842,
+            "totalVotes": 158,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 158,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Arabia",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Argyle",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Dupont",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Fargo",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 0
+                    "name": "Homerville",
+                    "votes": 158
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 403,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 81
+                    "name": "Arabia",
+                    "votes": 0
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 58
+                    "name": "Argyle",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison",
-                    "votes": 75
+                    "name": "Dupont",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 101
+                    "name": "Fargo",
+                    "votes": 0
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 88
+                    "name": "Homerville",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 439,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 95
+                    "name": "Arabia",
+                    "votes": 0
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 59
+                    "name": "Argyle",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison",
-                    "votes": 62
+                    "name": "Dupont",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 70
+                    "name": "Fargo",
+                    "votes": 0
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 153
+                    "name": "Homerville",
+                    "votes": 0
                   }
                 ]
               },
@@ -596,23 +596,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Arabia",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Argyle",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Dupont",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Fargo",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
+                    "name": "Homerville",
                     "votes": 0
                   }
                 ]
@@ -631,27 +631,27 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 29,
+            "votes": 9,
             "Precinct": [
               {
-                "name": "Leary",
-                "votes": 5
+                "name": "Arabia",
+                "votes": 0
               },
               {
-                "name": "Morgan",
-                "votes": 7
+                "name": "Argyle",
+                "votes": 0
               },
               {
-                "name": "Edison",
+                "name": "Dupont",
+                "votes": 0
+              },
+              {
+                "name": "Fargo",
+                "votes": 0
+              },
+              {
+                "name": "Homerville",
                 "votes": 9
-              },
-              {
-                "name": "Edison-Arlington",
-                "votes": 4
-              },
-              {
-                "name": "Arlington",
-                "votes": 4
               }
             ]
           },
@@ -660,23 +660,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Leary",
+                "name": "Arabia",
                 "votes": 0
               },
               {
-                "name": "Morgan",
+                "name": "Argyle",
                 "votes": 0
               },
               {
-                "name": "Edison",
+                "name": "Dupont",
                 "votes": 0
               },
               {
-                "name": "Edison-Arlington",
+                "name": "Fargo",
                 "votes": 0
               },
               {
-                "name": "Arlington",
+                "name": "Homerville",
                 "votes": 0
               }
             ]
@@ -686,83 +686,83 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 527,
+            "totalVotes": 380,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 380,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Arabia",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Argyle",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Dupont",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Fargo",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 0
+                    "name": "Homerville",
+                    "votes": 380
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 415,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 97
+                    "name": "Arabia",
+                    "votes": 0
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 182
+                    "name": "Argyle",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison",
-                    "votes": 18
+                    "name": "Dupont",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 62
+                    "name": "Fargo",
+                    "votes": 0
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 56
+                    "name": "Homerville",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 112,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 22
+                    "name": "Arabia",
+                    "votes": 0
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 52
+                    "name": "Argyle",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison",
-                    "votes": 7
+                    "name": "Dupont",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 21
+                    "name": "Fargo",
+                    "votes": 0
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 10
+                    "name": "Homerville",
+                    "votes": 0
                   }
                 ]
               },
@@ -771,23 +771,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Arabia",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Argyle",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Dupont",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Fargo",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
+                    "name": "Homerville",
                     "votes": 0
                   }
                 ]
@@ -797,83 +797,83 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 812,
+            "totalVotes": 147,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 147,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Arabia",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Argyle",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Dupont",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Fargo",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 0
+                    "name": "Homerville",
+                    "votes": 147
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 387,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 78
+                    "name": "Arabia",
+                    "votes": 0
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 55
+                    "name": "Argyle",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison",
-                    "votes": 74
+                    "name": "Dupont",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 95
+                    "name": "Fargo",
+                    "votes": 0
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 85
+                    "name": "Homerville",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 425,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 94
+                    "name": "Arabia",
+                    "votes": 0
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 55
+                    "name": "Argyle",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison",
-                    "votes": 54
+                    "name": "Dupont",
+                    "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 69
+                    "name": "Fargo",
+                    "votes": 0
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 153
+                    "name": "Homerville",
+                    "votes": 0
                   }
                 ]
               },
@@ -882,23 +882,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Arabia",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Argyle",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Dupont",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Fargo",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
+                    "name": "Homerville",
                     "votes": 0
                   }
                 ]

@@ -1,0 +1,1801 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:16:02 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Ware",
+    "VoterTurnout": {
+      "totalVoters": 21057,
+      "ballotsCast": 7544,
+      "voterTurnout": 35.83,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "100",
+            "totalVoters": 4466,
+            "ballotsCast": 1659,
+            "voterTurnout": 37.15,
+            "percentReporting": "2"
+          },
+          {
+            "name": "200A",
+            "totalVoters": 2519,
+            "ballotsCast": 962,
+            "voterTurnout": 38.19,
+            "percentReporting": "2"
+          },
+          {
+            "name": "200B",
+            "totalVoters": 915,
+            "ballotsCast": 309,
+            "voterTurnout": 33.77,
+            "percentReporting": "2"
+          },
+          {
+            "name": "300",
+            "totalVoters": 3919,
+            "ballotsCast": 1561,
+            "voterTurnout": 39.83,
+            "percentReporting": "2"
+          },
+          {
+            "name": "304",
+            "totalVoters": 1211,
+            "ballotsCast": 359,
+            "voterTurnout": 29.64,
+            "percentReporting": "2"
+          },
+          {
+            "name": "400",
+            "totalVoters": 3438,
+            "ballotsCast": 1482,
+            "voterTurnout": 43.11,
+            "percentReporting": "2"
+          },
+          {
+            "name": "404",
+            "totalVoters": 373,
+            "ballotsCast": 83,
+            "voterTurnout": 22.25,
+            "percentReporting": "2"
+          },
+          {
+            "name": "405",
+            "totalVoters": 637,
+            "ballotsCast": 133,
+            "voterTurnout": 20.88,
+            "percentReporting": "2"
+          },
+          {
+            "name": "406",
+            "totalVoters": 1619,
+            "ballotsCast": 510,
+            "voterTurnout": 31.5,
+            "percentReporting": "2"
+          },
+          {
+            "name": "407",
+            "totalVoters": 501,
+            "ballotsCast": 109,
+            "voterTurnout": 21.76,
+            "percentReporting": "2"
+          },
+          {
+            "name": "408",
+            "totalVoters": 516,
+            "ballotsCast": 89,
+            "voterTurnout": 17.25,
+            "percentReporting": "2"
+          },
+          {
+            "name": "409",
+            "totalVoters": 943,
+            "ballotsCast": 288,
+            "voterTurnout": 30.54,
+            "percentReporting": "2"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 12,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 36,
+            "Precinct": [
+              {
+                "name": "100",
+                "votes": 18
+              },
+              {
+                "name": "200A",
+                "votes": 4
+              },
+              {
+                "name": "200B",
+                "votes": 3
+              },
+              {
+                "name": "300",
+                "votes": 2
+              },
+              {
+                "name": "304",
+                "votes": 0
+              },
+              {
+                "name": "400",
+                "votes": 3
+              },
+              {
+                "name": "404",
+                "votes": 0
+              },
+              {
+                "name": "405",
+                "votes": 0
+              },
+              {
+                "name": "406",
+                "votes": 3
+              },
+              {
+                "name": "407",
+                "votes": 0
+              },
+              {
+                "name": "408",
+                "votes": 0
+              },
+              {
+                "name": "409",
+                "votes": 3
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "100",
+                "votes": 0
+              },
+              {
+                "name": "200A",
+                "votes": 0
+              },
+              {
+                "name": "200B",
+                "votes": 0
+              },
+              {
+                "name": "300",
+                "votes": 0
+              },
+              {
+                "name": "304",
+                "votes": 0
+              },
+              {
+                "name": "400",
+                "votes": 0
+              },
+              {
+                "name": "404",
+                "votes": 0
+              },
+              {
+                "name": "405",
+                "votes": 0
+              },
+              {
+                "name": "406",
+                "votes": 0
+              },
+              {
+                "name": "407",
+                "votes": 0
+              },
+              {
+                "name": "408",
+                "votes": 0
+              },
+              {
+                "name": "409",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 4601,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "100",
+                    "votes": 0
+                  },
+                  {
+                    "name": "200A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "200B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "300",
+                    "votes": 0
+                  },
+                  {
+                    "name": "304",
+                    "votes": 0
+                  },
+                  {
+                    "name": "400",
+                    "votes": 0
+                  },
+                  {
+                    "name": "404",
+                    "votes": 0
+                  },
+                  {
+                    "name": "405",
+                    "votes": 0
+                  },
+                  {
+                    "name": "406",
+                    "votes": 0
+                  },
+                  {
+                    "name": "407",
+                    "votes": 0
+                  },
+                  {
+                    "name": "408",
+                    "votes": 0
+                  },
+                  {
+                    "name": "409",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 3650,
+                "Precinct": [
+                  {
+                    "name": "100",
+                    "votes": 158
+                  },
+                  {
+                    "name": "200A",
+                    "votes": 484
+                  },
+                  {
+                    "name": "200B",
+                    "votes": 62
+                  },
+                  {
+                    "name": "300",
+                    "votes": 857
+                  },
+                  {
+                    "name": "304",
+                    "votes": 239
+                  },
+                  {
+                    "name": "400",
+                    "votes": 1004
+                  },
+                  {
+                    "name": "404",
+                    "votes": 40
+                  },
+                  {
+                    "name": "405",
+                    "votes": 87
+                  },
+                  {
+                    "name": "406",
+                    "votes": 375
+                  },
+                  {
+                    "name": "407",
+                    "votes": 78
+                  },
+                  {
+                    "name": "408",
+                    "votes": 62
+                  },
+                  {
+                    "name": "409",
+                    "votes": 204
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 951,
+                "Precinct": [
+                  {
+                    "name": "100",
+                    "votes": 71
+                  },
+                  {
+                    "name": "200A",
+                    "votes": 104
+                  },
+                  {
+                    "name": "200B",
+                    "votes": 28
+                  },
+                  {
+                    "name": "300",
+                    "votes": 261
+                  },
+                  {
+                    "name": "304",
+                    "votes": 54
+                  },
+                  {
+                    "name": "400",
+                    "votes": 218
+                  },
+                  {
+                    "name": "404",
+                    "votes": 28
+                  },
+                  {
+                    "name": "405",
+                    "votes": 36
+                  },
+                  {
+                    "name": "406",
+                    "votes": 73
+                  },
+                  {
+                    "name": "407",
+                    "votes": 19
+                  },
+                  {
+                    "name": "408",
+                    "votes": 13
+                  },
+                  {
+                    "name": "409",
+                    "votes": 46
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "100",
+                    "votes": 0
+                  },
+                  {
+                    "name": "200A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "200B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "300",
+                    "votes": 0
+                  },
+                  {
+                    "name": "304",
+                    "votes": 0
+                  },
+                  {
+                    "name": "400",
+                    "votes": 0
+                  },
+                  {
+                    "name": "404",
+                    "votes": 0
+                  },
+                  {
+                    "name": "405",
+                    "votes": 0
+                  },
+                  {
+                    "name": "406",
+                    "votes": 0
+                  },
+                  {
+                    "name": "407",
+                    "votes": 0
+                  },
+                  {
+                    "name": "408",
+                    "votes": 0
+                  },
+                  {
+                    "name": "409",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 2907,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "100",
+                    "votes": 0
+                  },
+                  {
+                    "name": "200A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "200B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "300",
+                    "votes": 0
+                  },
+                  {
+                    "name": "304",
+                    "votes": 0
+                  },
+                  {
+                    "name": "400",
+                    "votes": 0
+                  },
+                  {
+                    "name": "404",
+                    "votes": 0
+                  },
+                  {
+                    "name": "405",
+                    "votes": 0
+                  },
+                  {
+                    "name": "406",
+                    "votes": 0
+                  },
+                  {
+                    "name": "407",
+                    "votes": 0
+                  },
+                  {
+                    "name": "408",
+                    "votes": 0
+                  },
+                  {
+                    "name": "409",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1621,
+                "Precinct": [
+                  {
+                    "name": "100",
+                    "votes": 765
+                  },
+                  {
+                    "name": "200A",
+                    "votes": 229
+                  },
+                  {
+                    "name": "200B",
+                    "votes": 118
+                  },
+                  {
+                    "name": "300",
+                    "votes": 258
+                  },
+                  {
+                    "name": "304",
+                    "votes": 34
+                  },
+                  {
+                    "name": "400",
+                    "votes": 149
+                  },
+                  {
+                    "name": "404",
+                    "votes": 2
+                  },
+                  {
+                    "name": "405",
+                    "votes": 4
+                  },
+                  {
+                    "name": "406",
+                    "votes": 32
+                  },
+                  {
+                    "name": "407",
+                    "votes": 5
+                  },
+                  {
+                    "name": "408",
+                    "votes": 6
+                  },
+                  {
+                    "name": "409",
+                    "votes": 19
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1286,
+                "Precinct": [
+                  {
+                    "name": "100",
+                    "votes": 647
+                  },
+                  {
+                    "name": "200A",
+                    "votes": 141
+                  },
+                  {
+                    "name": "200B",
+                    "votes": 98
+                  },
+                  {
+                    "name": "300",
+                    "votes": 183
+                  },
+                  {
+                    "name": "304",
+                    "votes": 32
+                  },
+                  {
+                    "name": "400",
+                    "votes": 108
+                  },
+                  {
+                    "name": "404",
+                    "votes": 13
+                  },
+                  {
+                    "name": "405",
+                    "votes": 6
+                  },
+                  {
+                    "name": "406",
+                    "votes": 27
+                  },
+                  {
+                    "name": "407",
+                    "votes": 7
+                  },
+                  {
+                    "name": "408",
+                    "votes": 8
+                  },
+                  {
+                    "name": "409",
+                    "votes": 16
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "100",
+                    "votes": 0
+                  },
+                  {
+                    "name": "200A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "200B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "300",
+                    "votes": 0
+                  },
+                  {
+                    "name": "304",
+                    "votes": 0
+                  },
+                  {
+                    "name": "400",
+                    "votes": 0
+                  },
+                  {
+                    "name": "404",
+                    "votes": 0
+                  },
+                  {
+                    "name": "405",
+                    "votes": 0
+                  },
+                  {
+                    "name": "406",
+                    "votes": 0
+                  },
+                  {
+                    "name": "407",
+                    "votes": 0
+                  },
+                  {
+                    "name": "408",
+                    "votes": 0
+                  },
+                  {
+                    "name": "409",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 12,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 25,
+            "Precinct": [
+              {
+                "name": "100",
+                "votes": 3
+              },
+              {
+                "name": "200A",
+                "votes": 4
+              },
+              {
+                "name": "200B",
+                "votes": 1
+              },
+              {
+                "name": "300",
+                "votes": 6
+              },
+              {
+                "name": "304",
+                "votes": 1
+              },
+              {
+                "name": "400",
+                "votes": 5
+              },
+              {
+                "name": "404",
+                "votes": 0
+              },
+              {
+                "name": "405",
+                "votes": 0
+              },
+              {
+                "name": "406",
+                "votes": 3
+              },
+              {
+                "name": "407",
+                "votes": 0
+              },
+              {
+                "name": "408",
+                "votes": 2
+              },
+              {
+                "name": "409",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "100",
+                "votes": 0
+              },
+              {
+                "name": "200A",
+                "votes": 0
+              },
+              {
+                "name": "200B",
+                "votes": 0
+              },
+              {
+                "name": "300",
+                "votes": 0
+              },
+              {
+                "name": "304",
+                "votes": 0
+              },
+              {
+                "name": "400",
+                "votes": 0
+              },
+              {
+                "name": "404",
+                "votes": 0
+              },
+              {
+                "name": "405",
+                "votes": 0
+              },
+              {
+                "name": "406",
+                "votes": 0
+              },
+              {
+                "name": "407",
+                "votes": 0
+              },
+              {
+                "name": "408",
+                "votes": 0
+              },
+              {
+                "name": "409",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 4599,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "100",
+                    "votes": 0
+                  },
+                  {
+                    "name": "200A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "200B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "300",
+                    "votes": 0
+                  },
+                  {
+                    "name": "304",
+                    "votes": 0
+                  },
+                  {
+                    "name": "400",
+                    "votes": 0
+                  },
+                  {
+                    "name": "404",
+                    "votes": 0
+                  },
+                  {
+                    "name": "405",
+                    "votes": 0
+                  },
+                  {
+                    "name": "406",
+                    "votes": 0
+                  },
+                  {
+                    "name": "407",
+                    "votes": 0
+                  },
+                  {
+                    "name": "408",
+                    "votes": 0
+                  },
+                  {
+                    "name": "409",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 3653,
+                "Precinct": [
+                  {
+                    "name": "100",
+                    "votes": 155
+                  },
+                  {
+                    "name": "200A",
+                    "votes": 485
+                  },
+                  {
+                    "name": "200B",
+                    "votes": 63
+                  },
+                  {
+                    "name": "300",
+                    "votes": 859
+                  },
+                  {
+                    "name": "304",
+                    "votes": 238
+                  },
+                  {
+                    "name": "400",
+                    "votes": 1006
+                  },
+                  {
+                    "name": "404",
+                    "votes": 39
+                  },
+                  {
+                    "name": "405",
+                    "votes": 87
+                  },
+                  {
+                    "name": "406",
+                    "votes": 374
+                  },
+                  {
+                    "name": "407",
+                    "votes": 78
+                  },
+                  {
+                    "name": "408",
+                    "votes": 62
+                  },
+                  {
+                    "name": "409",
+                    "votes": 207
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 946,
+                "Precinct": [
+                  {
+                    "name": "100",
+                    "votes": 70
+                  },
+                  {
+                    "name": "200A",
+                    "votes": 107
+                  },
+                  {
+                    "name": "200B",
+                    "votes": 29
+                  },
+                  {
+                    "name": "300",
+                    "votes": 255
+                  },
+                  {
+                    "name": "304",
+                    "votes": 55
+                  },
+                  {
+                    "name": "400",
+                    "votes": 217
+                  },
+                  {
+                    "name": "404",
+                    "votes": 27
+                  },
+                  {
+                    "name": "405",
+                    "votes": 36
+                  },
+                  {
+                    "name": "406",
+                    "votes": 74
+                  },
+                  {
+                    "name": "407",
+                    "votes": 19
+                  },
+                  {
+                    "name": "408",
+                    "votes": 11
+                  },
+                  {
+                    "name": "409",
+                    "votes": 46
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "100",
+                    "votes": 0
+                  },
+                  {
+                    "name": "200A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "200B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "300",
+                    "votes": 0
+                  },
+                  {
+                    "name": "304",
+                    "votes": 0
+                  },
+                  {
+                    "name": "400",
+                    "votes": 0
+                  },
+                  {
+                    "name": "404",
+                    "votes": 0
+                  },
+                  {
+                    "name": "405",
+                    "votes": 0
+                  },
+                  {
+                    "name": "406",
+                    "votes": 0
+                  },
+                  {
+                    "name": "407",
+                    "votes": 0
+                  },
+                  {
+                    "name": "408",
+                    "votes": 0
+                  },
+                  {
+                    "name": "409",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 2920,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "100",
+                    "votes": 0
+                  },
+                  {
+                    "name": "200A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "200B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "300",
+                    "votes": 0
+                  },
+                  {
+                    "name": "304",
+                    "votes": 0
+                  },
+                  {
+                    "name": "400",
+                    "votes": 0
+                  },
+                  {
+                    "name": "404",
+                    "votes": 0
+                  },
+                  {
+                    "name": "405",
+                    "votes": 0
+                  },
+                  {
+                    "name": "406",
+                    "votes": 0
+                  },
+                  {
+                    "name": "407",
+                    "votes": 0
+                  },
+                  {
+                    "name": "408",
+                    "votes": 0
+                  },
+                  {
+                    "name": "409",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1625,
+                "Precinct": [
+                  {
+                    "name": "100",
+                    "votes": 773
+                  },
+                  {
+                    "name": "200A",
+                    "votes": 229
+                  },
+                  {
+                    "name": "200B",
+                    "votes": 119
+                  },
+                  {
+                    "name": "300",
+                    "votes": 255
+                  },
+                  {
+                    "name": "304",
+                    "votes": 34
+                  },
+                  {
+                    "name": "400",
+                    "votes": 145
+                  },
+                  {
+                    "name": "404",
+                    "votes": 3
+                  },
+                  {
+                    "name": "405",
+                    "votes": 4
+                  },
+                  {
+                    "name": "406",
+                    "votes": 33
+                  },
+                  {
+                    "name": "407",
+                    "votes": 5
+                  },
+                  {
+                    "name": "408",
+                    "votes": 6
+                  },
+                  {
+                    "name": "409",
+                    "votes": 19
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1295,
+                "Precinct": [
+                  {
+                    "name": "100",
+                    "votes": 658
+                  },
+                  {
+                    "name": "200A",
+                    "votes": 137
+                  },
+                  {
+                    "name": "200B",
+                    "votes": 97
+                  },
+                  {
+                    "name": "300",
+                    "votes": 186
+                  },
+                  {
+                    "name": "304",
+                    "votes": 31
+                  },
+                  {
+                    "name": "400",
+                    "votes": 109
+                  },
+                  {
+                    "name": "404",
+                    "votes": 14
+                  },
+                  {
+                    "name": "405",
+                    "votes": 6
+                  },
+                  {
+                    "name": "406",
+                    "votes": 26
+                  },
+                  {
+                    "name": "407",
+                    "votes": 7
+                  },
+                  {
+                    "name": "408",
+                    "votes": 8
+                  },
+                  {
+                    "name": "409",
+                    "votes": 16
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "100",
+                    "votes": 0
+                  },
+                  {
+                    "name": "200A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "200B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "300",
+                    "votes": 0
+                  },
+                  {
+                    "name": "304",
+                    "votes": 0
+                  },
+                  {
+                    "name": "400",
+                    "votes": 0
+                  },
+                  {
+                    "name": "404",
+                    "votes": 0
+                  },
+                  {
+                    "name": "405",
+                    "votes": 0
+                  },
+                  {
+                    "name": "406",
+                    "votes": 0
+                  },
+                  {
+                    "name": "407",
+                    "votes": 0
+                  },
+                  {
+                    "name": "408",
+                    "votes": 0
+                  },
+                  {
+                    "name": "409",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 12,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 88,
+            "Precinct": [
+              {
+                "name": "100",
+                "votes": 17
+              },
+              {
+                "name": "200A",
+                "votes": 12
+              },
+              {
+                "name": "200B",
+                "votes": 6
+              },
+              {
+                "name": "300",
+                "votes": 22
+              },
+              {
+                "name": "304",
+                "votes": 7
+              },
+              {
+                "name": "400",
+                "votes": 14
+              },
+              {
+                "name": "404",
+                "votes": 1
+              },
+              {
+                "name": "405",
+                "votes": 4
+              },
+              {
+                "name": "406",
+                "votes": 2
+              },
+              {
+                "name": "407",
+                "votes": 0
+              },
+              {
+                "name": "408",
+                "votes": 0
+              },
+              {
+                "name": "409",
+                "votes": 3
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "100",
+                "votes": 0
+              },
+              {
+                "name": "200A",
+                "votes": 0
+              },
+              {
+                "name": "200B",
+                "votes": 0
+              },
+              {
+                "name": "300",
+                "votes": 0
+              },
+              {
+                "name": "304",
+                "votes": 0
+              },
+              {
+                "name": "400",
+                "votes": 0
+              },
+              {
+                "name": "404",
+                "votes": 0
+              },
+              {
+                "name": "405",
+                "votes": 0
+              },
+              {
+                "name": "406",
+                "votes": 0
+              },
+              {
+                "name": "407",
+                "votes": 0
+              },
+              {
+                "name": "408",
+                "votes": 0
+              },
+              {
+                "name": "409",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 4580,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "100",
+                    "votes": 0
+                  },
+                  {
+                    "name": "200A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "200B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "300",
+                    "votes": 0
+                  },
+                  {
+                    "name": "304",
+                    "votes": 0
+                  },
+                  {
+                    "name": "400",
+                    "votes": 0
+                  },
+                  {
+                    "name": "404",
+                    "votes": 0
+                  },
+                  {
+                    "name": "405",
+                    "votes": 0
+                  },
+                  {
+                    "name": "406",
+                    "votes": 0
+                  },
+                  {
+                    "name": "407",
+                    "votes": 0
+                  },
+                  {
+                    "name": "408",
+                    "votes": 0
+                  },
+                  {
+                    "name": "409",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 3632,
+                "Precinct": [
+                  {
+                    "name": "100",
+                    "votes": 159
+                  },
+                  {
+                    "name": "200A",
+                    "votes": 481
+                  },
+                  {
+                    "name": "200B",
+                    "votes": 64
+                  },
+                  {
+                    "name": "300",
+                    "votes": 852
+                  },
+                  {
+                    "name": "304",
+                    "votes": 236
+                  },
+                  {
+                    "name": "400",
+                    "votes": 996
+                  },
+                  {
+                    "name": "404",
+                    "votes": 39
+                  },
+                  {
+                    "name": "405",
+                    "votes": 85
+                  },
+                  {
+                    "name": "406",
+                    "votes": 376
+                  },
+                  {
+                    "name": "407",
+                    "votes": 78
+                  },
+                  {
+                    "name": "408",
+                    "votes": 62
+                  },
+                  {
+                    "name": "409",
+                    "votes": 204
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 948,
+                "Precinct": [
+                  {
+                    "name": "100",
+                    "votes": 72
+                  },
+                  {
+                    "name": "200A",
+                    "votes": 111
+                  },
+                  {
+                    "name": "200B",
+                    "votes": 26
+                  },
+                  {
+                    "name": "300",
+                    "votes": 257
+                  },
+                  {
+                    "name": "304",
+                    "votes": 50
+                  },
+                  {
+                    "name": "400",
+                    "votes": 221
+                  },
+                  {
+                    "name": "404",
+                    "votes": 26
+                  },
+                  {
+                    "name": "405",
+                    "votes": 34
+                  },
+                  {
+                    "name": "406",
+                    "votes": 74
+                  },
+                  {
+                    "name": "407",
+                    "votes": 19
+                  },
+                  {
+                    "name": "408",
+                    "votes": 12
+                  },
+                  {
+                    "name": "409",
+                    "votes": 46
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "100",
+                    "votes": 0
+                  },
+                  {
+                    "name": "200A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "200B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "300",
+                    "votes": 0
+                  },
+                  {
+                    "name": "304",
+                    "votes": 0
+                  },
+                  {
+                    "name": "400",
+                    "votes": 0
+                  },
+                  {
+                    "name": "404",
+                    "votes": 0
+                  },
+                  {
+                    "name": "405",
+                    "votes": 0
+                  },
+                  {
+                    "name": "406",
+                    "votes": 0
+                  },
+                  {
+                    "name": "407",
+                    "votes": 0
+                  },
+                  {
+                    "name": "408",
+                    "votes": 0
+                  },
+                  {
+                    "name": "409",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 2876,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "100",
+                    "votes": 0
+                  },
+                  {
+                    "name": "200A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "200B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "300",
+                    "votes": 0
+                  },
+                  {
+                    "name": "304",
+                    "votes": 0
+                  },
+                  {
+                    "name": "400",
+                    "votes": 0
+                  },
+                  {
+                    "name": "404",
+                    "votes": 0
+                  },
+                  {
+                    "name": "405",
+                    "votes": 0
+                  },
+                  {
+                    "name": "406",
+                    "votes": 0
+                  },
+                  {
+                    "name": "407",
+                    "votes": 0
+                  },
+                  {
+                    "name": "408",
+                    "votes": 0
+                  },
+                  {
+                    "name": "409",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1608,
+                "Precinct": [
+                  {
+                    "name": "100",
+                    "votes": 764
+                  },
+                  {
+                    "name": "200A",
+                    "votes": 228
+                  },
+                  {
+                    "name": "200B",
+                    "votes": 115
+                  },
+                  {
+                    "name": "300",
+                    "votes": 250
+                  },
+                  {
+                    "name": "304",
+                    "votes": 35
+                  },
+                  {
+                    "name": "400",
+                    "votes": 148
+                  },
+                  {
+                    "name": "404",
+                    "votes": 2
+                  },
+                  {
+                    "name": "405",
+                    "votes": 4
+                  },
+                  {
+                    "name": "406",
+                    "votes": 32
+                  },
+                  {
+                    "name": "407",
+                    "votes": 5
+                  },
+                  {
+                    "name": "408",
+                    "votes": 6
+                  },
+                  {
+                    "name": "409",
+                    "votes": 19
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1268,
+                "Precinct": [
+                  {
+                    "name": "100",
+                    "votes": 647
+                  },
+                  {
+                    "name": "200A",
+                    "votes": 130
+                  },
+                  {
+                    "name": "200B",
+                    "votes": 98
+                  },
+                  {
+                    "name": "300",
+                    "votes": 180
+                  },
+                  {
+                    "name": "304",
+                    "votes": 31
+                  },
+                  {
+                    "name": "400",
+                    "votes": 103
+                  },
+                  {
+                    "name": "404",
+                    "votes": 15
+                  },
+                  {
+                    "name": "405",
+                    "votes": 6
+                  },
+                  {
+                    "name": "406",
+                    "votes": 26
+                  },
+                  {
+                    "name": "407",
+                    "votes": 7
+                  },
+                  {
+                    "name": "408",
+                    "votes": 9
+                  },
+                  {
+                    "name": "409",
+                    "votes": 16
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "100",
+                    "votes": 0
+                  },
+                  {
+                    "name": "200A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "200B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "300",
+                    "votes": 0
+                  },
+                  {
+                    "name": "304",
+                    "votes": 0
+                  },
+                  {
+                    "name": "400",
+                    "votes": 0
+                  },
+                  {
+                    "name": "404",
+                    "votes": 0
+                  },
+                  {
+                    "name": "405",
+                    "votes": 0
+                  },
+                  {
+                    "name": "406",
+                    "votes": 0
+                  },
+                  {
+                    "name": "407",
+                    "votes": 0
+                  },
+                  {
+                    "name": "408",
+                    "votes": 0
+                  },
+                  {
+                    "name": "409",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

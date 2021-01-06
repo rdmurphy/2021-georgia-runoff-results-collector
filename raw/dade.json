@@ -1,0 +1,1166 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:27:21 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Dade",
+    "VoterTurnout": {
+      "totalVoters": 11962,
+      "ballotsCast": 3845,
+      "voterTurnout": 32.14,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "South Dade",
+            "totalVoters": 1011,
+            "ballotsCast": 343,
+            "voterTurnout": 33.93,
+            "percentReporting": "2"
+          },
+          {
+            "name": "New Salem",
+            "totalVoters": 1292,
+            "ballotsCast": 478,
+            "voterTurnout": 37.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Davis",
+            "totalVoters": 2052,
+            "ballotsCast": 639,
+            "voterTurnout": 31.14,
+            "percentReporting": "2"
+          },
+          {
+            "name": "New Home",
+            "totalVoters": 724,
+            "ballotsCast": 172,
+            "voterTurnout": 23.76,
+            "percentReporting": "2"
+          },
+          {
+            "name": "West Brow",
+            "totalVoters": 1275,
+            "ballotsCast": 428,
+            "voterTurnout": 33.57,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Trenton",
+            "totalVoters": 3696,
+            "ballotsCast": 1103,
+            "voterTurnout": 29.84,
+            "percentReporting": "2"
+          },
+          {
+            "name": "North Dade",
+            "totalVoters": 1912,
+            "ballotsCast": 682,
+            "voterTurnout": 35.67,
+            "percentReporting": "2"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 7,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 12,
+            "Precinct": [
+              {
+                "name": "South Dade",
+                "votes": 0
+              },
+              {
+                "name": "New Salem",
+                "votes": 0
+              },
+              {
+                "name": "Davis",
+                "votes": 3
+              },
+              {
+                "name": "New Home",
+                "votes": 2
+              },
+              {
+                "name": "West Brow",
+                "votes": 1
+              },
+              {
+                "name": "Trenton",
+                "votes": 6
+              },
+              {
+                "name": "North Dade",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "South Dade",
+                "votes": 0
+              },
+              {
+                "name": "New Salem",
+                "votes": 0
+              },
+              {
+                "name": "Davis",
+                "votes": 0
+              },
+              {
+                "name": "New Home",
+                "votes": 0
+              },
+              {
+                "name": "West Brow",
+                "votes": 0
+              },
+              {
+                "name": "Trenton",
+                "votes": 0
+              },
+              {
+                "name": "North Dade",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 2996,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "South Dade",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Salem",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Home",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Brow",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trenton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Dade",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2536,
+                "Precinct": [
+                  {
+                    "name": "South Dade",
+                    "votes": 222
+                  },
+                  {
+                    "name": "New Salem",
+                    "votes": 262
+                  },
+                  {
+                    "name": "Davis",
+                    "votes": 506
+                  },
+                  {
+                    "name": "New Home",
+                    "votes": 119
+                  },
+                  {
+                    "name": "West Brow",
+                    "votes": 233
+                  },
+                  {
+                    "name": "Trenton",
+                    "votes": 770
+                  },
+                  {
+                    "name": "North Dade",
+                    "votes": 424
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 460,
+                "Precinct": [
+                  {
+                    "name": "South Dade",
+                    "votes": 43
+                  },
+                  {
+                    "name": "New Salem",
+                    "votes": 68
+                  },
+                  {
+                    "name": "Davis",
+                    "votes": 59
+                  },
+                  {
+                    "name": "New Home",
+                    "votes": 27
+                  },
+                  {
+                    "name": "West Brow",
+                    "votes": 76
+                  },
+                  {
+                    "name": "Trenton",
+                    "votes": 126
+                  },
+                  {
+                    "name": "North Dade",
+                    "votes": 61
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "South Dade",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Salem",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Home",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Brow",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trenton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Dade",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 837,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "South Dade",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Salem",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Home",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Brow",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trenton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Dade",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 484,
+                "Precinct": [
+                  {
+                    "name": "South Dade",
+                    "votes": 51
+                  },
+                  {
+                    "name": "New Salem",
+                    "votes": 79
+                  },
+                  {
+                    "name": "Davis",
+                    "votes": 41
+                  },
+                  {
+                    "name": "New Home",
+                    "votes": 11
+                  },
+                  {
+                    "name": "West Brow",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Trenton",
+                    "votes": 136
+                  },
+                  {
+                    "name": "North Dade",
+                    "votes": 104
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 353,
+                "Precinct": [
+                  {
+                    "name": "South Dade",
+                    "votes": 27
+                  },
+                  {
+                    "name": "New Salem",
+                    "votes": 69
+                  },
+                  {
+                    "name": "Davis",
+                    "votes": 30
+                  },
+                  {
+                    "name": "New Home",
+                    "votes": 13
+                  },
+                  {
+                    "name": "West Brow",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Trenton",
+                    "votes": 65
+                  },
+                  {
+                    "name": "North Dade",
+                    "votes": 93
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "South Dade",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Salem",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Home",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Brow",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trenton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Dade",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 7,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 26,
+            "Precinct": [
+              {
+                "name": "South Dade",
+                "votes": 2
+              },
+              {
+                "name": "New Salem",
+                "votes": 4
+              },
+              {
+                "name": "Davis",
+                "votes": 6
+              },
+              {
+                "name": "New Home",
+                "votes": 2
+              },
+              {
+                "name": "West Brow",
+                "votes": 3
+              },
+              {
+                "name": "Trenton",
+                "votes": 5
+              },
+              {
+                "name": "North Dade",
+                "votes": 4
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "South Dade",
+                "votes": 0
+              },
+              {
+                "name": "New Salem",
+                "votes": 0
+              },
+              {
+                "name": "Davis",
+                "votes": 0
+              },
+              {
+                "name": "New Home",
+                "votes": 0
+              },
+              {
+                "name": "West Brow",
+                "votes": 0
+              },
+              {
+                "name": "Trenton",
+                "votes": 0
+              },
+              {
+                "name": "North Dade",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 2999,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "South Dade",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Salem",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Home",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Brow",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trenton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Dade",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2534,
+                "Precinct": [
+                  {
+                    "name": "South Dade",
+                    "votes": 221
+                  },
+                  {
+                    "name": "New Salem",
+                    "votes": 262
+                  },
+                  {
+                    "name": "Davis",
+                    "votes": 503
+                  },
+                  {
+                    "name": "New Home",
+                    "votes": 119
+                  },
+                  {
+                    "name": "West Brow",
+                    "votes": 233
+                  },
+                  {
+                    "name": "Trenton",
+                    "votes": 769
+                  },
+                  {
+                    "name": "North Dade",
+                    "votes": 427
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 465,
+                "Precinct": [
+                  {
+                    "name": "South Dade",
+                    "votes": 44
+                  },
+                  {
+                    "name": "New Salem",
+                    "votes": 68
+                  },
+                  {
+                    "name": "Davis",
+                    "votes": 60
+                  },
+                  {
+                    "name": "New Home",
+                    "votes": 27
+                  },
+                  {
+                    "name": "West Brow",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Trenton",
+                    "votes": 128
+                  },
+                  {
+                    "name": "North Dade",
+                    "votes": 63
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "South Dade",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Salem",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Home",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Brow",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trenton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Dade",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 820,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "South Dade",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Salem",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Home",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Brow",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trenton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Dade",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 480,
+                "Precinct": [
+                  {
+                    "name": "South Dade",
+                    "votes": 50
+                  },
+                  {
+                    "name": "New Salem",
+                    "votes": 79
+                  },
+                  {
+                    "name": "Davis",
+                    "votes": 42
+                  },
+                  {
+                    "name": "New Home",
+                    "votes": 11
+                  },
+                  {
+                    "name": "West Brow",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Trenton",
+                    "votes": 138
+                  },
+                  {
+                    "name": "North Dade",
+                    "votes": 98
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 340,
+                "Precinct": [
+                  {
+                    "name": "South Dade",
+                    "votes": 26
+                  },
+                  {
+                    "name": "New Salem",
+                    "votes": 65
+                  },
+                  {
+                    "name": "Davis",
+                    "votes": 28
+                  },
+                  {
+                    "name": "New Home",
+                    "votes": 13
+                  },
+                  {
+                    "name": "West Brow",
+                    "votes": 55
+                  },
+                  {
+                    "name": "Trenton",
+                    "votes": 63
+                  },
+                  {
+                    "name": "North Dade",
+                    "votes": 90
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "South Dade",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Salem",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Home",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Brow",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trenton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Dade",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 7,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 88,
+            "Precinct": [
+              {
+                "name": "South Dade",
+                "votes": 10
+              },
+              {
+                "name": "New Salem",
+                "votes": 7
+              },
+              {
+                "name": "Davis",
+                "votes": 23
+              },
+              {
+                "name": "New Home",
+                "votes": 1
+              },
+              {
+                "name": "West Brow",
+                "votes": 9
+              },
+              {
+                "name": "Trenton",
+                "votes": 23
+              },
+              {
+                "name": "North Dade",
+                "votes": 15
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "South Dade",
+                "votes": 0
+              },
+              {
+                "name": "New Salem",
+                "votes": 0
+              },
+              {
+                "name": "Davis",
+                "votes": 0
+              },
+              {
+                "name": "New Home",
+                "votes": 0
+              },
+              {
+                "name": "West Brow",
+                "votes": 0
+              },
+              {
+                "name": "Trenton",
+                "votes": 0
+              },
+              {
+                "name": "North Dade",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 2966,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "South Dade",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Salem",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Home",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Brow",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trenton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Dade",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2505,
+                "Precinct": [
+                  {
+                    "name": "South Dade",
+                    "votes": 213
+                  },
+                  {
+                    "name": "New Salem",
+                    "votes": 261
+                  },
+                  {
+                    "name": "Davis",
+                    "votes": 498
+                  },
+                  {
+                    "name": "New Home",
+                    "votes": 120
+                  },
+                  {
+                    "name": "West Brow",
+                    "votes": 233
+                  },
+                  {
+                    "name": "Trenton",
+                    "votes": 760
+                  },
+                  {
+                    "name": "North Dade",
+                    "votes": 420
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 461,
+                "Precinct": [
+                  {
+                    "name": "South Dade",
+                    "votes": 44
+                  },
+                  {
+                    "name": "New Salem",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Davis",
+                    "votes": 59
+                  },
+                  {
+                    "name": "New Home",
+                    "votes": 27
+                  },
+                  {
+                    "name": "West Brow",
+                    "votes": 73
+                  },
+                  {
+                    "name": "Trenton",
+                    "votes": 128
+                  },
+                  {
+                    "name": "North Dade",
+                    "votes": 60
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "South Dade",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Salem",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Home",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Brow",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trenton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Dade",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 791,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "South Dade",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Salem",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Home",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Brow",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trenton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Dade",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 460,
+                "Precinct": [
+                  {
+                    "name": "South Dade",
+                    "votes": 51
+                  },
+                  {
+                    "name": "New Salem",
+                    "votes": 76
+                  },
+                  {
+                    "name": "Davis",
+                    "votes": 34
+                  },
+                  {
+                    "name": "New Home",
+                    "votes": 11
+                  },
+                  {
+                    "name": "West Brow",
+                    "votes": 60
+                  },
+                  {
+                    "name": "Trenton",
+                    "votes": 131
+                  },
+                  {
+                    "name": "North Dade",
+                    "votes": 97
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 331,
+                "Precinct": [
+                  {
+                    "name": "South Dade",
+                    "votes": 25
+                  },
+                  {
+                    "name": "New Salem",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Davis",
+                    "votes": 25
+                  },
+                  {
+                    "name": "New Home",
+                    "votes": 13
+                  },
+                  {
+                    "name": "West Brow",
+                    "votes": 53
+                  },
+                  {
+                    "name": "Trenton",
+                    "votes": 61
+                  },
+                  {
+                    "name": "North Dade",
+                    "votes": 90
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "South Dade",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Salem",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Home",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Brow",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trenton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Dade",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

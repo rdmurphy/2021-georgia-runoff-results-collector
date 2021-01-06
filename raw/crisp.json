@@ -1,48 +1,48 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:24:25 PM EST",
+    "Timestamp": "1/5/2021 8:25:52 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
-    "Region": "Calhoun",
+    "Region": "Crisp",
     "VoterTurnout": {
-      "totalVoters": 3269,
-      "ballotsCast": 1368,
-      "voterTurnout": 41.85,
+      "totalVoters": 12792,
+      "ballotsCast": 6387,
+      "voterTurnout": 49.93,
       "Precincts": {
         "Precinct": [
           {
-            "name": "Leary",
-            "totalVoters": 726,
-            "ballotsCast": 296,
-            "voterTurnout": 40.77,
+            "name": "Arabi",
+            "totalVoters": 804,
+            "ballotsCast": 491,
+            "voterTurnout": 61.07,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Coney",
+            "totalVoters": 857,
+            "ballotsCast": 461,
+            "voterTurnout": 53.79,
             "percentReporting": "2"
           },
           {
-            "name": "Morgan",
-            "totalVoters": 668,
-            "ballotsCast": 351,
-            "voterTurnout": 52.54,
+            "name": "Cordele",
+            "totalVoters": 9060,
+            "ballotsCast": 4517,
+            "voterTurnout": 49.86,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Jamestown",
+            "totalVoters": 1220,
+            "ballotsCast": 588,
+            "voterTurnout": 48.2,
             "percentReporting": "2"
           },
           {
-            "name": "Edison",
-            "totalVoters": 534,
-            "ballotsCast": 162,
-            "voterTurnout": 30.34,
-            "percentReporting": "2"
-          },
-          {
-            "name": "Edison-Arlington",
-            "totalVoters": 651,
-            "ballotsCast": 251,
-            "voterTurnout": 38.56,
-            "percentReporting": "2"
-          },
-          {
-            "name": "Arlington",
-            "totalVoters": 690,
-            "ballotsCast": 308,
-            "voterTurnout": 44.64,
+            "name": "Listonia",
+            "totalVoters": 851,
+            "ballotsCast": 330,
+            "voterTurnout": 38.78,
             "percentReporting": "2"
           }
         ]
@@ -55,31 +55,31 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 5,
-        "precinctsReported": 0,
+        "precinctsReported": 2,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 7,
+            "votes": 10,
             "Precinct": [
               {
-                "name": "Leary",
+                "name": "Arabi",
                 "votes": 0
               },
               {
-                "name": "Morgan",
-                "votes": 1
+                "name": "Coney",
+                "votes": 0
               },
               {
-                "name": "Edison",
-                "votes": 1
+                "name": "Cordele",
+                "votes": 10
               },
               {
-                "name": "Edison-Arlington",
-                "votes": 1
+                "name": "Jamestown",
+                "votes": 0
               },
               {
-                "name": "Arlington",
-                "votes": 4
+                "name": "Listonia",
+                "votes": 0
               }
             ]
           },
@@ -88,23 +88,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Leary",
+                "name": "Arabi",
                 "votes": 0
               },
               {
-                "name": "Morgan",
+                "name": "Coney",
                 "votes": 0
               },
               {
-                "name": "Edison",
+                "name": "Cordele",
                 "votes": 0
               },
               {
-                "name": "Edison-Arlington",
+                "name": "Jamestown",
                 "votes": 0
               },
               {
-                "name": "Arlington",
+                "name": "Listonia",
                 "votes": 0
               }
             ]
@@ -114,83 +114,83 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 518,
+            "totalVotes": 3740,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 654,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Arabi",
+                    "votes": 178
+                  },
+                  {
+                    "name": "Coney",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Cordele",
+                    "votes": 476
+                  },
+                  {
+                    "name": "Jamestown",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Edison-Arlington",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Arlington",
+                    "name": "Listonia",
                     "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 410,
+                "votes": 2504,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 97
+                    "name": "Arabi",
+                    "votes": 188
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 182
+                    "name": "Coney",
+                    "votes": 326
                   },
                   {
-                    "name": "Edison",
-                    "votes": 18
+                    "name": "Cordele",
+                    "votes": 1327
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 58
+                    "name": "Jamestown",
+                    "votes": 413
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 55
+                    "name": "Listonia",
+                    "votes": 250
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 108,
+                "votes": 582,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 23
+                    "name": "Arabi",
+                    "votes": 29
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 50
+                    "name": "Coney",
+                    "votes": 70
                   },
                   {
-                    "name": "Edison",
-                    "votes": 4
+                    "name": "Cordele",
+                    "votes": 323
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 21
+                    "name": "Jamestown",
+                    "votes": 97
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 10
+                    "name": "Listonia",
+                    "votes": 63
                   }
                 ]
               },
@@ -199,23 +199,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Arabi",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Coney",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Cordele",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Jamestown",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
+                    "name": "Listonia",
                     "votes": 0
                   }
                 ]
@@ -225,83 +225,83 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 843,
+            "totalVotes": 2637,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 604,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Arabi",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Coney",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Cordele",
+                    "votes": 564
+                  },
+                  {
+                    "name": "Jamestown",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Edison-Arlington",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Arlington",
+                    "name": "Listonia",
                     "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 406,
+                "votes": 1307,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 81
+                    "name": "Arabi",
+                    "votes": 35
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 60
+                    "name": "Coney",
+                    "votes": 43
                   },
                   {
-                    "name": "Edison",
-                    "votes": 77
+                    "name": "Cordele",
+                    "votes": 1175
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 101
+                    "name": "Jamestown",
+                    "votes": 46
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 87
+                    "name": "Listonia",
+                    "votes": 8
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 437,
+                "votes": 726,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 95
+                    "name": "Arabi",
+                    "votes": 21
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 58
+                    "name": "Coney",
+                    "votes": 22
                   },
                   {
-                    "name": "Edison",
-                    "votes": 62
+                    "name": "Cordele",
+                    "votes": 642
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 70
+                    "name": "Jamestown",
+                    "votes": 32
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 152
+                    "name": "Listonia",
+                    "votes": 9
                   }
                 ]
               },
@@ -310,23 +310,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Arabi",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Coney",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Cordele",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Jamestown",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
+                    "name": "Listonia",
                     "votes": 0
                   }
                 ]
@@ -341,31 +341,31 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 5,
-        "precinctsReported": 0,
+        "precinctsReported": 2,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 5,
+            "votes": 6,
             "Precinct": [
               {
-                "name": "Leary",
+                "name": "Arabi",
                 "votes": 0
               },
               {
-                "name": "Morgan",
-                "votes": 1
+                "name": "Coney",
+                "votes": 0
               },
               {
-                "name": "Edison",
-                "votes": 1
+                "name": "Cordele",
+                "votes": 6
               },
               {
-                "name": "Edison-Arlington",
-                "votes": 1
+                "name": "Jamestown",
+                "votes": 0
               },
               {
-                "name": "Arlington",
-                "votes": 2
+                "name": "Listonia",
+                "votes": 0
               }
             ]
           },
@@ -374,23 +374,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Leary",
+                "name": "Arabi",
                 "votes": 0
               },
               {
-                "name": "Morgan",
+                "name": "Coney",
                 "votes": 0
               },
               {
-                "name": "Edison",
+                "name": "Cordele",
                 "votes": 0
               },
               {
-                "name": "Edison-Arlington",
+                "name": "Jamestown",
                 "votes": 0
               },
               {
-                "name": "Arlington",
+                "name": "Listonia",
                 "votes": 0
               }
             ]
@@ -400,83 +400,83 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 521,
+            "totalVotes": 3723,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 648,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Arabi",
+                    "votes": 178
+                  },
+                  {
+                    "name": "Coney",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Cordele",
+                    "votes": 470
+                  },
+                  {
+                    "name": "Jamestown",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Edison-Arlington",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Arlington",
+                    "name": "Listonia",
                     "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 414,
+                "votes": 2495,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 97
+                    "name": "Arabi",
+                    "votes": 188
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 184
+                    "name": "Coney",
+                    "votes": 326
                   },
                   {
-                    "name": "Edison",
-                    "votes": 20
+                    "name": "Cordele",
+                    "votes": 1319
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 58
+                    "name": "Jamestown",
+                    "votes": 412
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 55
+                    "name": "Listonia",
+                    "votes": 250
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 107,
+                "votes": 580,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 23
+                    "name": "Arabi",
+                    "votes": 29
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 49
+                    "name": "Coney",
+                    "votes": 71
                   },
                   {
-                    "name": "Edison",
-                    "votes": 4
+                    "name": "Cordele",
+                    "votes": 320
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 21
+                    "name": "Jamestown",
+                    "votes": 98
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 10
+                    "name": "Listonia",
+                    "votes": 62
                   }
                 ]
               },
@@ -485,23 +485,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Arabi",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Coney",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Cordele",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Jamestown",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
+                    "name": "Listonia",
                     "votes": 0
                   }
                 ]
@@ -511,83 +511,83 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 842,
+            "totalVotes": 2658,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 610,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Arabi",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Coney",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Cordele",
+                    "votes": 570
+                  },
+                  {
+                    "name": "Jamestown",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Edison-Arlington",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Arlington",
+                    "name": "Listonia",
                     "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 403,
+                "votes": 1321,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 81
+                    "name": "Arabi",
+                    "votes": 35
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 58
+                    "name": "Coney",
+                    "votes": 43
                   },
                   {
-                    "name": "Edison",
-                    "votes": 75
+                    "name": "Cordele",
+                    "votes": 1188
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 101
+                    "name": "Jamestown",
+                    "votes": 47
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 88
+                    "name": "Listonia",
+                    "votes": 8
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 439,
+                "votes": 727,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 95
+                    "name": "Arabi",
+                    "votes": 21
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 59
+                    "name": "Coney",
+                    "votes": 21
                   },
                   {
-                    "name": "Edison",
-                    "votes": 62
+                    "name": "Cordele",
+                    "votes": 644
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 70
+                    "name": "Jamestown",
+                    "votes": 31
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 153
+                    "name": "Listonia",
+                    "votes": 10
                   }
                 ]
               },
@@ -596,23 +596,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Arabi",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Coney",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Cordele",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Jamestown",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
+                    "name": "Listonia",
                     "votes": 0
                   }
                 ]
@@ -627,31 +627,31 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 5,
-        "precinctsReported": 0,
+        "precinctsReported": 2,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 29,
+            "votes": 118,
             "Precinct": [
               {
-                "name": "Leary",
-                "votes": 5
+                "name": "Arabi",
+                "votes": 6
               },
               {
-                "name": "Morgan",
+                "name": "Coney",
                 "votes": 7
               },
               {
-                "name": "Edison",
+                "name": "Cordele",
+                "votes": 94
+              },
+              {
+                "name": "Jamestown",
                 "votes": 9
               },
               {
-                "name": "Edison-Arlington",
-                "votes": 4
-              },
-              {
-                "name": "Arlington",
-                "votes": 4
+                "name": "Listonia",
+                "votes": 2
               }
             ]
           },
@@ -660,23 +660,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Leary",
+                "name": "Arabi",
                 "votes": 0
               },
               {
-                "name": "Morgan",
+                "name": "Coney",
                 "votes": 0
               },
               {
-                "name": "Edison",
+                "name": "Cordele",
                 "votes": 0
               },
               {
-                "name": "Edison-Arlington",
+                "name": "Jamestown",
                 "votes": 0
               },
               {
-                "name": "Arlington",
+                "name": "Listonia",
                 "votes": 0
               }
             ]
@@ -686,83 +686,83 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 527,
+            "totalVotes": 3761,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 644,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Arabi",
+                    "votes": 177
+                  },
+                  {
+                    "name": "Coney",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Cordele",
+                    "votes": 467
+                  },
+                  {
+                    "name": "Jamestown",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Edison-Arlington",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Arlington",
+                    "name": "Listonia",
                     "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 415,
+                "votes": 2518,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 97
+                    "name": "Arabi",
+                    "votes": 189
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 182
+                    "name": "Coney",
+                    "votes": 325
                   },
                   {
-                    "name": "Edison",
-                    "votes": 18
+                    "name": "Cordele",
+                    "votes": 1339
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 62
+                    "name": "Jamestown",
+                    "votes": 416
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 56
+                    "name": "Listonia",
+                    "votes": 249
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 112,
+                "votes": 599,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 22
+                    "name": "Arabi",
+                    "votes": 30
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 52
+                    "name": "Coney",
+                    "votes": 72
                   },
                   {
-                    "name": "Edison",
-                    "votes": 7
+                    "name": "Cordele",
+                    "votes": 333
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 21
+                    "name": "Jamestown",
+                    "votes": 99
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 10
+                    "name": "Listonia",
+                    "votes": 65
                   }
                 ]
               },
@@ -771,23 +771,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Arabi",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Coney",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Cordele",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Jamestown",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
+                    "name": "Listonia",
                     "votes": 0
                   }
                 ]
@@ -797,83 +797,83 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 812,
+            "totalVotes": 2497,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 577,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Arabi",
+                    "votes": 38
+                  },
+                  {
+                    "name": "Coney",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Cordele",
+                    "votes": 539
+                  },
+                  {
+                    "name": "Jamestown",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Edison-Arlington",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Arlington",
+                    "name": "Listonia",
                     "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 387,
+                "votes": 1244,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 78
+                    "name": "Arabi",
+                    "votes": 31
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 55
+                    "name": "Coney",
+                    "votes": 39
                   },
                   {
-                    "name": "Edison",
-                    "votes": 74
+                    "name": "Cordele",
+                    "votes": 1127
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 95
+                    "name": "Jamestown",
+                    "votes": 40
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 85
+                    "name": "Listonia",
+                    "votes": 7
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 425,
+                "votes": 676,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 94
+                    "name": "Arabi",
+                    "votes": 20
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 55
+                    "name": "Coney",
+                    "votes": 18
                   },
                   {
-                    "name": "Edison",
-                    "votes": 54
+                    "name": "Cordele",
+                    "votes": 607
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 69
+                    "name": "Jamestown",
+                    "votes": 24
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 153
+                    "name": "Listonia",
+                    "votes": 7
                   }
                 ]
               },
@@ -882,23 +882,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Arabi",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Coney",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Cordele",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Jamestown",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
+                    "name": "Listonia",
                     "votes": 0
                   }
                 ]

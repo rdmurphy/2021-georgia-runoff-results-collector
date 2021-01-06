@@ -1,0 +1,1420 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:28:12 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Decatur",
+    "VoterTurnout": {
+      "totalVoters": 17123,
+      "ballotsCast": 8074,
+      "voterTurnout": 47.15,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Mt Pleasant",
+            "totalVoters": 578,
+            "ballotsCast": 412,
+            "voterTurnout": 71.28,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Recovery",
+            "totalVoters": 693,
+            "ballotsCast": 251,
+            "voterTurnout": 36.22,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Kendrick",
+            "totalVoters": 581,
+            "ballotsCast": 336,
+            "voterTurnout": 57.83,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Climax",
+            "totalVoters": 1003,
+            "ballotsCast": 380,
+            "voterTurnout": 37.89,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Brinson",
+            "totalVoters": 866,
+            "ballotsCast": 308,
+            "voterTurnout": 35.57,
+            "percentReporting": "2"
+          },
+          {
+            "name": "West Bainbridge",
+            "totalVoters": 2331,
+            "ballotsCast": 1259,
+            "voterTurnout": 54.01,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Bainbridge-Coliseum",
+            "totalVoters": 5802,
+            "ballotsCast": 2568,
+            "voterTurnout": 44.26,
+            "percentReporting": "2"
+          },
+          {
+            "name": "BDGE-Fairgrounds",
+            "totalVoters": 3415,
+            "ballotsCast": 1800,
+            "voterTurnout": 52.71,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Attapulgus",
+            "totalVoters": 1854,
+            "ballotsCast": 760,
+            "voterTurnout": 40.99,
+            "percentReporting": "2"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 9,
+        "precinctsReported": 4,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 21,
+            "Precinct": [
+              {
+                "name": "Mt Pleasant",
+                "votes": 0
+              },
+              {
+                "name": "Recovery",
+                "votes": 1
+              },
+              {
+                "name": "Kendrick",
+                "votes": 1
+              },
+              {
+                "name": "Climax",
+                "votes": 0
+              },
+              {
+                "name": "Brinson",
+                "votes": 0
+              },
+              {
+                "name": "West Bainbridge",
+                "votes": 4
+              },
+              {
+                "name": "Bainbridge-Coliseum",
+                "votes": 9
+              },
+              {
+                "name": "BDGE-Fairgrounds",
+                "votes": 2
+              },
+              {
+                "name": "Attapulgus",
+                "votes": 4
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Mt Pleasant",
+                "votes": 0
+              },
+              {
+                "name": "Recovery",
+                "votes": 0
+              },
+              {
+                "name": "Kendrick",
+                "votes": 0
+              },
+              {
+                "name": "Climax",
+                "votes": 0
+              },
+              {
+                "name": "Brinson",
+                "votes": 0
+              },
+              {
+                "name": "West Bainbridge",
+                "votes": 0
+              },
+              {
+                "name": "Bainbridge-Coliseum",
+                "votes": 0
+              },
+              {
+                "name": "BDGE-Fairgrounds",
+                "votes": 0
+              },
+              {
+                "name": "Attapulgus",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 4489,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 918,
+                "Precinct": [
+                  {
+                    "name": "Mt Pleasant",
+                    "votes": 207
+                  },
+                  {
+                    "name": "Recovery",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kendrick",
+                    "votes": 145
+                  },
+                  {
+                    "name": "Climax",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Bainbridge",
+                    "votes": 220
+                  },
+                  {
+                    "name": "Bainbridge-Coliseum",
+                    "votes": 0
+                  },
+                  {
+                    "name": "BDGE-Fairgrounds",
+                    "votes": 346
+                  },
+                  {
+                    "name": "Attapulgus",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2933,
+                "Precinct": [
+                  {
+                    "name": "Mt Pleasant",
+                    "votes": 127
+                  },
+                  {
+                    "name": "Recovery",
+                    "votes": 111
+                  },
+                  {
+                    "name": "Kendrick",
+                    "votes": 96
+                  },
+                  {
+                    "name": "Climax",
+                    "votes": 210
+                  },
+                  {
+                    "name": "Brinson",
+                    "votes": 178
+                  },
+                  {
+                    "name": "West Bainbridge",
+                    "votes": 381
+                  },
+                  {
+                    "name": "Bainbridge-Coliseum",
+                    "votes": 1245
+                  },
+                  {
+                    "name": "BDGE-Fairgrounds",
+                    "votes": 423
+                  },
+                  {
+                    "name": "Attapulgus",
+                    "votes": 162
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 638,
+                "Precinct": [
+                  {
+                    "name": "Mt Pleasant",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Recovery",
+                    "votes": 53
+                  },
+                  {
+                    "name": "Kendrick",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Climax",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Brinson",
+                    "votes": 45
+                  },
+                  {
+                    "name": "West Bainbridge",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Bainbridge-Coliseum",
+                    "votes": 249
+                  },
+                  {
+                    "name": "BDGE-Fairgrounds",
+                    "votes": 73
+                  },
+                  {
+                    "name": "Attapulgus",
+                    "votes": 66
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Mt Pleasant",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Recovery",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kendrick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Climax",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Bainbridge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bainbridge-Coliseum",
+                    "votes": 0
+                  },
+                  {
+                    "name": "BDGE-Fairgrounds",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Attapulgus",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 3564,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 410,
+                "Precinct": [
+                  {
+                    "name": "Mt Pleasant",
+                    "votes": 9
+                  },
+                  {
+                    "name": "Recovery",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kendrick",
+                    "votes": 22
+                  },
+                  {
+                    "name": "Climax",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Bainbridge",
+                    "votes": 138
+                  },
+                  {
+                    "name": "Bainbridge-Coliseum",
+                    "votes": 0
+                  },
+                  {
+                    "name": "BDGE-Fairgrounds",
+                    "votes": 241
+                  },
+                  {
+                    "name": "Attapulgus",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1921,
+                "Precinct": [
+                  {
+                    "name": "Mt Pleasant",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Recovery",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Kendrick",
+                    "votes": 28
+                  },
+                  {
+                    "name": "Climax",
+                    "votes": 80
+                  },
+                  {
+                    "name": "Brinson",
+                    "votes": 57
+                  },
+                  {
+                    "name": "West Bainbridge",
+                    "votes": 291
+                  },
+                  {
+                    "name": "Bainbridge-Coliseum",
+                    "votes": 701
+                  },
+                  {
+                    "name": "BDGE-Fairgrounds",
+                    "votes": 437
+                  },
+                  {
+                    "name": "Attapulgus",
+                    "votes": 268
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1233,
+                "Precinct": [
+                  {
+                    "name": "Mt Pleasant",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Recovery",
+                    "votes": 53
+                  },
+                  {
+                    "name": "Kendrick",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Climax",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Brinson",
+                    "votes": 28
+                  },
+                  {
+                    "name": "West Bainbridge",
+                    "votes": 150
+                  },
+                  {
+                    "name": "Bainbridge-Coliseum",
+                    "votes": 364
+                  },
+                  {
+                    "name": "BDGE-Fairgrounds",
+                    "votes": 278
+                  },
+                  {
+                    "name": "Attapulgus",
+                    "votes": 260
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Mt Pleasant",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Recovery",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kendrick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Climax",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Bainbridge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bainbridge-Coliseum",
+                    "votes": 0
+                  },
+                  {
+                    "name": "BDGE-Fairgrounds",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Attapulgus",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 9,
+        "precinctsReported": 4,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 20,
+            "Precinct": [
+              {
+                "name": "Mt Pleasant",
+                "votes": 3
+              },
+              {
+                "name": "Recovery",
+                "votes": 0
+              },
+              {
+                "name": "Kendrick",
+                "votes": 0
+              },
+              {
+                "name": "Climax",
+                "votes": 1
+              },
+              {
+                "name": "Brinson",
+                "votes": 1
+              },
+              {
+                "name": "West Bainbridge",
+                "votes": 2
+              },
+              {
+                "name": "Bainbridge-Coliseum",
+                "votes": 9
+              },
+              {
+                "name": "BDGE-Fairgrounds",
+                "votes": 2
+              },
+              {
+                "name": "Attapulgus",
+                "votes": 2
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Mt Pleasant",
+                "votes": 0
+              },
+              {
+                "name": "Recovery",
+                "votes": 0
+              },
+              {
+                "name": "Kendrick",
+                "votes": 0
+              },
+              {
+                "name": "Climax",
+                "votes": 0
+              },
+              {
+                "name": "Brinson",
+                "votes": 0
+              },
+              {
+                "name": "West Bainbridge",
+                "votes": 0
+              },
+              {
+                "name": "Bainbridge-Coliseum",
+                "votes": 0
+              },
+              {
+                "name": "BDGE-Fairgrounds",
+                "votes": 0
+              },
+              {
+                "name": "Attapulgus",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 4497,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 920,
+                "Precinct": [
+                  {
+                    "name": "Mt Pleasant",
+                    "votes": 206
+                  },
+                  {
+                    "name": "Recovery",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kendrick",
+                    "votes": 145
+                  },
+                  {
+                    "name": "Climax",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Bainbridge",
+                    "votes": 222
+                  },
+                  {
+                    "name": "Bainbridge-Coliseum",
+                    "votes": 0
+                  },
+                  {
+                    "name": "BDGE-Fairgrounds",
+                    "votes": 347
+                  },
+                  {
+                    "name": "Attapulgus",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2939,
+                "Precinct": [
+                  {
+                    "name": "Mt Pleasant",
+                    "votes": 127
+                  },
+                  {
+                    "name": "Recovery",
+                    "votes": 111
+                  },
+                  {
+                    "name": "Kendrick",
+                    "votes": 97
+                  },
+                  {
+                    "name": "Climax",
+                    "votes": 211
+                  },
+                  {
+                    "name": "Brinson",
+                    "votes": 178
+                  },
+                  {
+                    "name": "West Bainbridge",
+                    "votes": 382
+                  },
+                  {
+                    "name": "Bainbridge-Coliseum",
+                    "votes": 1247
+                  },
+                  {
+                    "name": "BDGE-Fairgrounds",
+                    "votes": 424
+                  },
+                  {
+                    "name": "Attapulgus",
+                    "votes": 162
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 638,
+                "Precinct": [
+                  {
+                    "name": "Mt Pleasant",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Recovery",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Kendrick",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Climax",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Brinson",
+                    "votes": 45
+                  },
+                  {
+                    "name": "West Bainbridge",
+                    "votes": 74
+                  },
+                  {
+                    "name": "Bainbridge-Coliseum",
+                    "votes": 246
+                  },
+                  {
+                    "name": "BDGE-Fairgrounds",
+                    "votes": 72
+                  },
+                  {
+                    "name": "Attapulgus",
+                    "votes": 67
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Mt Pleasant",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Recovery",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kendrick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Climax",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Bainbridge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bainbridge-Coliseum",
+                    "votes": 0
+                  },
+                  {
+                    "name": "BDGE-Fairgrounds",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Attapulgus",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 3557,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 408,
+                "Precinct": [
+                  {
+                    "name": "Mt Pleasant",
+                    "votes": 7
+                  },
+                  {
+                    "name": "Recovery",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kendrick",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Climax",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Bainbridge",
+                    "votes": 137
+                  },
+                  {
+                    "name": "Bainbridge-Coliseum",
+                    "votes": 0
+                  },
+                  {
+                    "name": "BDGE-Fairgrounds",
+                    "votes": 241
+                  },
+                  {
+                    "name": "Attapulgus",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1915,
+                "Precinct": [
+                  {
+                    "name": "Mt Pleasant",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Recovery",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Kendrick",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Climax",
+                    "votes": 78
+                  },
+                  {
+                    "name": "Brinson",
+                    "votes": 56
+                  },
+                  {
+                    "name": "West Bainbridge",
+                    "votes": 290
+                  },
+                  {
+                    "name": "Bainbridge-Coliseum",
+                    "votes": 701
+                  },
+                  {
+                    "name": "BDGE-Fairgrounds",
+                    "votes": 435
+                  },
+                  {
+                    "name": "Attapulgus",
+                    "votes": 269
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1234,
+                "Precinct": [
+                  {
+                    "name": "Mt Pleasant",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Recovery",
+                    "votes": 51
+                  },
+                  {
+                    "name": "Kendrick",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Climax",
+                    "votes": 55
+                  },
+                  {
+                    "name": "Brinson",
+                    "votes": 28
+                  },
+                  {
+                    "name": "West Bainbridge",
+                    "votes": 152
+                  },
+                  {
+                    "name": "Bainbridge-Coliseum",
+                    "votes": 365
+                  },
+                  {
+                    "name": "BDGE-Fairgrounds",
+                    "votes": 279
+                  },
+                  {
+                    "name": "Attapulgus",
+                    "votes": 260
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Mt Pleasant",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Recovery",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kendrick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Climax",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Bainbridge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bainbridge-Coliseum",
+                    "votes": 0
+                  },
+                  {
+                    "name": "BDGE-Fairgrounds",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Attapulgus",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 9,
+        "precinctsReported": 4,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 117,
+            "Precinct": [
+              {
+                "name": "Mt Pleasant",
+                "votes": 13
+              },
+              {
+                "name": "Recovery",
+                "votes": 3
+              },
+              {
+                "name": "Kendrick",
+                "votes": 5
+              },
+              {
+                "name": "Climax",
+                "votes": 5
+              },
+              {
+                "name": "Brinson",
+                "votes": 7
+              },
+              {
+                "name": "West Bainbridge",
+                "votes": 13
+              },
+              {
+                "name": "Bainbridge-Coliseum",
+                "votes": 44
+              },
+              {
+                "name": "BDGE-Fairgrounds",
+                "votes": 18
+              },
+              {
+                "name": "Attapulgus",
+                "votes": 9
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Mt Pleasant",
+                "votes": 0
+              },
+              {
+                "name": "Recovery",
+                "votes": 0
+              },
+              {
+                "name": "Kendrick",
+                "votes": 0
+              },
+              {
+                "name": "Climax",
+                "votes": 0
+              },
+              {
+                "name": "Brinson",
+                "votes": 0
+              },
+              {
+                "name": "West Bainbridge",
+                "votes": 0
+              },
+              {
+                "name": "Bainbridge-Coliseum",
+                "votes": 0
+              },
+              {
+                "name": "BDGE-Fairgrounds",
+                "votes": 0
+              },
+              {
+                "name": "Attapulgus",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 4464,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 912,
+                "Precinct": [
+                  {
+                    "name": "Mt Pleasant",
+                    "votes": 205
+                  },
+                  {
+                    "name": "Recovery",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kendrick",
+                    "votes": 142
+                  },
+                  {
+                    "name": "Climax",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Bainbridge",
+                    "votes": 223
+                  },
+                  {
+                    "name": "Bainbridge-Coliseum",
+                    "votes": 0
+                  },
+                  {
+                    "name": "BDGE-Fairgrounds",
+                    "votes": 342
+                  },
+                  {
+                    "name": "Attapulgus",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2914,
+                "Precinct": [
+                  {
+                    "name": "Mt Pleasant",
+                    "votes": 122
+                  },
+                  {
+                    "name": "Recovery",
+                    "votes": 109
+                  },
+                  {
+                    "name": "Kendrick",
+                    "votes": 96
+                  },
+                  {
+                    "name": "Climax",
+                    "votes": 208
+                  },
+                  {
+                    "name": "Brinson",
+                    "votes": 174
+                  },
+                  {
+                    "name": "West Bainbridge",
+                    "votes": 380
+                  },
+                  {
+                    "name": "Bainbridge-Coliseum",
+                    "votes": 1236
+                  },
+                  {
+                    "name": "BDGE-Fairgrounds",
+                    "votes": 426
+                  },
+                  {
+                    "name": "Attapulgus",
+                    "votes": 163
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 638,
+                "Precinct": [
+                  {
+                    "name": "Mt Pleasant",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Recovery",
+                    "votes": 55
+                  },
+                  {
+                    "name": "Kendrick",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Climax",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Brinson",
+                    "votes": 45
+                  },
+                  {
+                    "name": "West Bainbridge",
+                    "votes": 73
+                  },
+                  {
+                    "name": "Bainbridge-Coliseum",
+                    "votes": 248
+                  },
+                  {
+                    "name": "BDGE-Fairgrounds",
+                    "votes": 76
+                  },
+                  {
+                    "name": "Attapulgus",
+                    "votes": 65
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Mt Pleasant",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Recovery",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kendrick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Climax",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Bainbridge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bainbridge-Coliseum",
+                    "votes": 0
+                  },
+                  {
+                    "name": "BDGE-Fairgrounds",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Attapulgus",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 3493,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 405,
+                "Precinct": [
+                  {
+                    "name": "Mt Pleasant",
+                    "votes": 8
+                  },
+                  {
+                    "name": "Recovery",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kendrick",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Climax",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Bainbridge",
+                    "votes": 133
+                  },
+                  {
+                    "name": "Bainbridge-Coliseum",
+                    "votes": 0
+                  },
+                  {
+                    "name": "BDGE-Fairgrounds",
+                    "votes": 240
+                  },
+                  {
+                    "name": "Attapulgus",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1876,
+                "Precinct": [
+                  {
+                    "name": "Mt Pleasant",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Recovery",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Kendrick",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Climax",
+                    "votes": 77
+                  },
+                  {
+                    "name": "Brinson",
+                    "votes": 55
+                  },
+                  {
+                    "name": "West Bainbridge",
+                    "votes": 285
+                  },
+                  {
+                    "name": "Bainbridge-Coliseum",
+                    "votes": 684
+                  },
+                  {
+                    "name": "BDGE-Fairgrounds",
+                    "votes": 428
+                  },
+                  {
+                    "name": "Attapulgus",
+                    "votes": 265
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1212,
+                "Precinct": [
+                  {
+                    "name": "Mt Pleasant",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Recovery",
+                    "votes": 51
+                  },
+                  {
+                    "name": "Kendrick",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Climax",
+                    "votes": 54
+                  },
+                  {
+                    "name": "Brinson",
+                    "votes": 27
+                  },
+                  {
+                    "name": "West Bainbridge",
+                    "votes": 152
+                  },
+                  {
+                    "name": "Bainbridge-Coliseum",
+                    "votes": 356
+                  },
+                  {
+                    "name": "BDGE-Fairgrounds",
+                    "votes": 270
+                  },
+                  {
+                    "name": "Attapulgus",
+                    "votes": 258
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Mt Pleasant",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Recovery",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kendrick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Climax",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Bainbridge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bainbridge-Coliseum",
+                    "votes": 0
+                  },
+                  {
+                    "name": "BDGE-Fairgrounds",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Attapulgus",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

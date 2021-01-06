@@ -1,0 +1,2690 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:21:29 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Colquitt",
+    "VoterTurnout": {
+      "totalVoters": 25610,
+      "ballotsCast": 0,
+      "voterTurnout": 0.0,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Shaw",
+            "totalVoters": 3564,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Moultrie",
+            "totalVoters": 4939,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Autreyville",
+            "totalVoters": 1561,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Bridgecreek",
+            "totalVoters": 1215,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Crosland",
+            "totalVoters": 289,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Doerun",
+            "totalVoters": 629,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Funston",
+            "totalVoters": 1057,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Hamilton",
+            "totalVoters": 800,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Hartsfield",
+            "totalVoters": 419,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Hopewell",
+            "totalVoters": 1713,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Lee",
+            "totalVoters": 1125,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Millcreek",
+            "totalVoters": 431,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Monk",
+            "totalVoters": 1575,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Murphy",
+            "totalVoters": 992,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Norman Park",
+            "totalVoters": 2638,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Robinson",
+            "totalVoters": 883,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Thigpen",
+            "totalVoters": 260,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Tyty",
+            "totalVoters": 534,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Warrior",
+            "totalVoters": 986,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 19,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Shaw",
+                "votes": 0
+              },
+              {
+                "name": "Moultrie",
+                "votes": 0
+              },
+              {
+                "name": "Autreyville",
+                "votes": 0
+              },
+              {
+                "name": "Bridgecreek",
+                "votes": 0
+              },
+              {
+                "name": "Crosland",
+                "votes": 0
+              },
+              {
+                "name": "Doerun",
+                "votes": 0
+              },
+              {
+                "name": "Funston",
+                "votes": 0
+              },
+              {
+                "name": "Hamilton",
+                "votes": 0
+              },
+              {
+                "name": "Hartsfield",
+                "votes": 0
+              },
+              {
+                "name": "Hopewell",
+                "votes": 0
+              },
+              {
+                "name": "Lee",
+                "votes": 0
+              },
+              {
+                "name": "Millcreek",
+                "votes": 0
+              },
+              {
+                "name": "Monk",
+                "votes": 0
+              },
+              {
+                "name": "Murphy",
+                "votes": 0
+              },
+              {
+                "name": "Norman Park",
+                "votes": 0
+              },
+              {
+                "name": "Robinson",
+                "votes": 0
+              },
+              {
+                "name": "Thigpen",
+                "votes": 0
+              },
+              {
+                "name": "Tyty",
+                "votes": 0
+              },
+              {
+                "name": "Warrior",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Shaw",
+                "votes": 0
+              },
+              {
+                "name": "Moultrie",
+                "votes": 0
+              },
+              {
+                "name": "Autreyville",
+                "votes": 0
+              },
+              {
+                "name": "Bridgecreek",
+                "votes": 0
+              },
+              {
+                "name": "Crosland",
+                "votes": 0
+              },
+              {
+                "name": "Doerun",
+                "votes": 0
+              },
+              {
+                "name": "Funston",
+                "votes": 0
+              },
+              {
+                "name": "Hamilton",
+                "votes": 0
+              },
+              {
+                "name": "Hartsfield",
+                "votes": 0
+              },
+              {
+                "name": "Hopewell",
+                "votes": 0
+              },
+              {
+                "name": "Lee",
+                "votes": 0
+              },
+              {
+                "name": "Millcreek",
+                "votes": 0
+              },
+              {
+                "name": "Monk",
+                "votes": 0
+              },
+              {
+                "name": "Murphy",
+                "votes": 0
+              },
+              {
+                "name": "Norman Park",
+                "votes": 0
+              },
+              {
+                "name": "Robinson",
+                "votes": 0
+              },
+              {
+                "name": "Thigpen",
+                "votes": 0
+              },
+              {
+                "name": "Tyty",
+                "votes": 0
+              },
+              {
+                "name": "Warrior",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 0,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Shaw",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Moultrie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Autreyville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgecreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crosland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doerun",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Funston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hamilton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hartsfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hopewell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Millcreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monk",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Murphy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Norman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Robinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thigpen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tyty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warrior",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Shaw",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Moultrie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Autreyville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgecreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crosland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doerun",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Funston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hamilton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hartsfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hopewell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Millcreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monk",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Murphy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Norman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Robinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thigpen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tyty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warrior",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Shaw",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Moultrie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Autreyville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgecreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crosland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doerun",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Funston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hamilton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hartsfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hopewell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Millcreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monk",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Murphy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Norman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Robinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thigpen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tyty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warrior",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Shaw",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Moultrie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Autreyville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgecreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crosland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doerun",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Funston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hamilton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hartsfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hopewell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Millcreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monk",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Murphy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Norman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Robinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thigpen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tyty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warrior",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 0,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Shaw",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Moultrie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Autreyville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgecreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crosland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doerun",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Funston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hamilton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hartsfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hopewell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Millcreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monk",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Murphy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Norman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Robinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thigpen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tyty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warrior",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Shaw",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Moultrie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Autreyville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgecreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crosland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doerun",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Funston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hamilton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hartsfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hopewell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Millcreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monk",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Murphy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Norman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Robinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thigpen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tyty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warrior",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Shaw",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Moultrie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Autreyville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgecreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crosland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doerun",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Funston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hamilton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hartsfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hopewell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Millcreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monk",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Murphy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Norman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Robinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thigpen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tyty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warrior",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Shaw",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Moultrie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Autreyville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgecreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crosland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doerun",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Funston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hamilton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hartsfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hopewell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Millcreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monk",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Murphy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Norman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Robinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thigpen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tyty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warrior",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 19,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Shaw",
+                "votes": 0
+              },
+              {
+                "name": "Moultrie",
+                "votes": 0
+              },
+              {
+                "name": "Autreyville",
+                "votes": 0
+              },
+              {
+                "name": "Bridgecreek",
+                "votes": 0
+              },
+              {
+                "name": "Crosland",
+                "votes": 0
+              },
+              {
+                "name": "Doerun",
+                "votes": 0
+              },
+              {
+                "name": "Funston",
+                "votes": 0
+              },
+              {
+                "name": "Hamilton",
+                "votes": 0
+              },
+              {
+                "name": "Hartsfield",
+                "votes": 0
+              },
+              {
+                "name": "Hopewell",
+                "votes": 0
+              },
+              {
+                "name": "Lee",
+                "votes": 0
+              },
+              {
+                "name": "Millcreek",
+                "votes": 0
+              },
+              {
+                "name": "Monk",
+                "votes": 0
+              },
+              {
+                "name": "Murphy",
+                "votes": 0
+              },
+              {
+                "name": "Norman Park",
+                "votes": 0
+              },
+              {
+                "name": "Robinson",
+                "votes": 0
+              },
+              {
+                "name": "Thigpen",
+                "votes": 0
+              },
+              {
+                "name": "Tyty",
+                "votes": 0
+              },
+              {
+                "name": "Warrior",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Shaw",
+                "votes": 0
+              },
+              {
+                "name": "Moultrie",
+                "votes": 0
+              },
+              {
+                "name": "Autreyville",
+                "votes": 0
+              },
+              {
+                "name": "Bridgecreek",
+                "votes": 0
+              },
+              {
+                "name": "Crosland",
+                "votes": 0
+              },
+              {
+                "name": "Doerun",
+                "votes": 0
+              },
+              {
+                "name": "Funston",
+                "votes": 0
+              },
+              {
+                "name": "Hamilton",
+                "votes": 0
+              },
+              {
+                "name": "Hartsfield",
+                "votes": 0
+              },
+              {
+                "name": "Hopewell",
+                "votes": 0
+              },
+              {
+                "name": "Lee",
+                "votes": 0
+              },
+              {
+                "name": "Millcreek",
+                "votes": 0
+              },
+              {
+                "name": "Monk",
+                "votes": 0
+              },
+              {
+                "name": "Murphy",
+                "votes": 0
+              },
+              {
+                "name": "Norman Park",
+                "votes": 0
+              },
+              {
+                "name": "Robinson",
+                "votes": 0
+              },
+              {
+                "name": "Thigpen",
+                "votes": 0
+              },
+              {
+                "name": "Tyty",
+                "votes": 0
+              },
+              {
+                "name": "Warrior",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 0,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Shaw",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Moultrie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Autreyville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgecreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crosland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doerun",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Funston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hamilton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hartsfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hopewell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Millcreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monk",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Murphy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Norman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Robinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thigpen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tyty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warrior",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Shaw",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Moultrie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Autreyville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgecreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crosland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doerun",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Funston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hamilton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hartsfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hopewell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Millcreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monk",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Murphy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Norman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Robinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thigpen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tyty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warrior",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Shaw",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Moultrie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Autreyville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgecreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crosland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doerun",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Funston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hamilton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hartsfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hopewell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Millcreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monk",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Murphy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Norman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Robinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thigpen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tyty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warrior",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Shaw",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Moultrie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Autreyville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgecreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crosland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doerun",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Funston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hamilton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hartsfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hopewell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Millcreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monk",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Murphy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Norman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Robinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thigpen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tyty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warrior",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 0,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Shaw",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Moultrie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Autreyville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgecreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crosland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doerun",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Funston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hamilton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hartsfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hopewell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Millcreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monk",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Murphy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Norman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Robinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thigpen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tyty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warrior",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Shaw",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Moultrie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Autreyville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgecreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crosland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doerun",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Funston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hamilton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hartsfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hopewell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Millcreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monk",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Murphy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Norman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Robinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thigpen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tyty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warrior",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Shaw",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Moultrie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Autreyville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgecreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crosland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doerun",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Funston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hamilton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hartsfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hopewell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Millcreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monk",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Murphy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Norman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Robinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thigpen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tyty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warrior",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Shaw",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Moultrie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Autreyville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgecreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crosland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doerun",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Funston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hamilton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hartsfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hopewell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Millcreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monk",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Murphy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Norman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Robinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thigpen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tyty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warrior",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 19,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Shaw",
+                "votes": 0
+              },
+              {
+                "name": "Moultrie",
+                "votes": 0
+              },
+              {
+                "name": "Autreyville",
+                "votes": 0
+              },
+              {
+                "name": "Bridgecreek",
+                "votes": 0
+              },
+              {
+                "name": "Crosland",
+                "votes": 0
+              },
+              {
+                "name": "Doerun",
+                "votes": 0
+              },
+              {
+                "name": "Funston",
+                "votes": 0
+              },
+              {
+                "name": "Hamilton",
+                "votes": 0
+              },
+              {
+                "name": "Hartsfield",
+                "votes": 0
+              },
+              {
+                "name": "Hopewell",
+                "votes": 0
+              },
+              {
+                "name": "Lee",
+                "votes": 0
+              },
+              {
+                "name": "Millcreek",
+                "votes": 0
+              },
+              {
+                "name": "Monk",
+                "votes": 0
+              },
+              {
+                "name": "Murphy",
+                "votes": 0
+              },
+              {
+                "name": "Norman Park",
+                "votes": 0
+              },
+              {
+                "name": "Robinson",
+                "votes": 0
+              },
+              {
+                "name": "Thigpen",
+                "votes": 0
+              },
+              {
+                "name": "Tyty",
+                "votes": 0
+              },
+              {
+                "name": "Warrior",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Shaw",
+                "votes": 0
+              },
+              {
+                "name": "Moultrie",
+                "votes": 0
+              },
+              {
+                "name": "Autreyville",
+                "votes": 0
+              },
+              {
+                "name": "Bridgecreek",
+                "votes": 0
+              },
+              {
+                "name": "Crosland",
+                "votes": 0
+              },
+              {
+                "name": "Doerun",
+                "votes": 0
+              },
+              {
+                "name": "Funston",
+                "votes": 0
+              },
+              {
+                "name": "Hamilton",
+                "votes": 0
+              },
+              {
+                "name": "Hartsfield",
+                "votes": 0
+              },
+              {
+                "name": "Hopewell",
+                "votes": 0
+              },
+              {
+                "name": "Lee",
+                "votes": 0
+              },
+              {
+                "name": "Millcreek",
+                "votes": 0
+              },
+              {
+                "name": "Monk",
+                "votes": 0
+              },
+              {
+                "name": "Murphy",
+                "votes": 0
+              },
+              {
+                "name": "Norman Park",
+                "votes": 0
+              },
+              {
+                "name": "Robinson",
+                "votes": 0
+              },
+              {
+                "name": "Thigpen",
+                "votes": 0
+              },
+              {
+                "name": "Tyty",
+                "votes": 0
+              },
+              {
+                "name": "Warrior",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 0,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Shaw",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Moultrie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Autreyville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgecreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crosland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doerun",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Funston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hamilton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hartsfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hopewell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Millcreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monk",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Murphy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Norman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Robinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thigpen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tyty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warrior",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Shaw",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Moultrie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Autreyville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgecreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crosland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doerun",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Funston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hamilton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hartsfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hopewell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Millcreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monk",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Murphy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Norman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Robinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thigpen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tyty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warrior",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Shaw",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Moultrie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Autreyville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgecreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crosland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doerun",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Funston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hamilton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hartsfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hopewell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Millcreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monk",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Murphy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Norman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Robinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thigpen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tyty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warrior",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Shaw",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Moultrie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Autreyville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgecreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crosland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doerun",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Funston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hamilton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hartsfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hopewell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Millcreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monk",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Murphy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Norman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Robinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thigpen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tyty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warrior",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 0,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Shaw",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Moultrie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Autreyville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgecreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crosland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doerun",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Funston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hamilton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hartsfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hopewell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Millcreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monk",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Murphy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Norman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Robinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thigpen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tyty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warrior",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Shaw",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Moultrie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Autreyville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgecreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crosland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doerun",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Funston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hamilton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hartsfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hopewell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Millcreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monk",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Murphy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Norman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Robinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thigpen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tyty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warrior",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Shaw",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Moultrie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Autreyville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgecreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crosland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doerun",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Funston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hamilton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hartsfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hopewell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Millcreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monk",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Murphy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Norman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Robinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thigpen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tyty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warrior",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Shaw",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Moultrie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Autreyville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgecreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crosland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doerun",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Funston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hamilton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hartsfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hopewell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Millcreek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monk",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Murphy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Norman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Robinson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thigpen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tyty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warrior",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1674 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:19:50 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Walker",
+    "VoterTurnout": {
+      "totalVoters": 44180,
+      "ballotsCast": 17112,
+      "voterTurnout": 38.73,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "La Fayette",
+            "totalVoters": 6760,
+            "ballotsCast": 3381,
+            "voterTurnout": 50.01,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Walnut Grove",
+            "totalVoters": 2281,
+            "ballotsCast": 775,
+            "voterTurnout": 33.98,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Rock Spring",
+            "totalVoters": 6436,
+            "ballotsCast": 2632,
+            "voterTurnout": 40.89,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Armuchee Valley",
+            "totalVoters": 1497,
+            "ballotsCast": 942,
+            "voterTurnout": 62.93,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Mountain",
+            "totalVoters": 1277,
+            "ballotsCast": 321,
+            "voterTurnout": 25.14,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Chattanooga Valley",
+            "totalVoters": 6508,
+            "ballotsCast": 2211,
+            "voterTurnout": 33.97,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Kensington",
+            "totalVoters": 1379,
+            "ballotsCast": 829,
+            "voterTurnout": 60.12,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Rossville",
+            "totalVoters": 6473,
+            "ballotsCast": 1890,
+            "voterTurnout": 29.2,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Chickamauga",
+            "totalVoters": 7087,
+            "ballotsCast": 2721,
+            "voterTurnout": 38.39,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Fairyland",
+            "totalVoters": 1288,
+            "ballotsCast": 536,
+            "voterTurnout": 41.61,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Fairview",
+            "totalVoters": 3194,
+            "ballotsCast": 874,
+            "voterTurnout": 27.36,
+            "percentReporting": "2"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 11,
+        "precinctsReported": 3,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 29,
+            "Precinct": [
+              {
+                "name": "La Fayette",
+                "votes": 8
+              },
+              {
+                "name": "Walnut Grove",
+                "votes": 1
+              },
+              {
+                "name": "Rock Spring",
+                "votes": 3
+              },
+              {
+                "name": "Armuchee Valley",
+                "votes": 1
+              },
+              {
+                "name": "Mountain",
+                "votes": 2
+              },
+              {
+                "name": "Chattanooga Valley",
+                "votes": 3
+              },
+              {
+                "name": "Kensington",
+                "votes": 4
+              },
+              {
+                "name": "Rossville",
+                "votes": 4
+              },
+              {
+                "name": "Chickamauga",
+                "votes": 1
+              },
+              {
+                "name": "Fairyland",
+                "votes": 0
+              },
+              {
+                "name": "Fairview",
+                "votes": 2
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "La Fayette",
+                "votes": 0
+              },
+              {
+                "name": "Walnut Grove",
+                "votes": 0
+              },
+              {
+                "name": "Rock Spring",
+                "votes": 0
+              },
+              {
+                "name": "Armuchee Valley",
+                "votes": 0
+              },
+              {
+                "name": "Mountain",
+                "votes": 0
+              },
+              {
+                "name": "Chattanooga Valley",
+                "votes": 0
+              },
+              {
+                "name": "Kensington",
+                "votes": 0
+              },
+              {
+                "name": "Rossville",
+                "votes": 0
+              },
+              {
+                "name": "Chickamauga",
+                "votes": 0
+              },
+              {
+                "name": "Fairyland",
+                "votes": 0
+              },
+              {
+                "name": "Fairview",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 13172,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1959,
+                "Precinct": [
+                  {
+                    "name": "La Fayette",
+                    "votes": 935
+                  },
+                  {
+                    "name": "Walnut Grove",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rock Spring",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Armuchee Valley",
+                    "votes": 597
+                  },
+                  {
+                    "name": "Mountain",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chattanooga Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kensington",
+                    "votes": 427
+                  },
+                  {
+                    "name": "Rossville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chickamauga",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairyland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 8240,
+                "Precinct": [
+                  {
+                    "name": "La Fayette",
+                    "votes": 1266
+                  },
+                  {
+                    "name": "Walnut Grove",
+                    "votes": 504
+                  },
+                  {
+                    "name": "Rock Spring",
+                    "votes": 1689
+                  },
+                  {
+                    "name": "Armuchee Valley",
+                    "votes": 145
+                  },
+                  {
+                    "name": "Mountain",
+                    "votes": 134
+                  },
+                  {
+                    "name": "Chattanooga Valley",
+                    "votes": 1117
+                  },
+                  {
+                    "name": "Kensington",
+                    "votes": 159
+                  },
+                  {
+                    "name": "Rossville",
+                    "votes": 926
+                  },
+                  {
+                    "name": "Chickamauga",
+                    "votes": 1624
+                  },
+                  {
+                    "name": "Fairyland",
+                    "votes": 271
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 405
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 2973,
+                "Precinct": [
+                  {
+                    "name": "La Fayette",
+                    "votes": 446
+                  },
+                  {
+                    "name": "Walnut Grove",
+                    "votes": 146
+                  },
+                  {
+                    "name": "Rock Spring",
+                    "votes": 467
+                  },
+                  {
+                    "name": "Armuchee Valley",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Mountain",
+                    "votes": 86
+                  },
+                  {
+                    "name": "Chattanooga Valley",
+                    "votes": 469
+                  },
+                  {
+                    "name": "Kensington",
+                    "votes": 72
+                  },
+                  {
+                    "name": "Rossville",
+                    "votes": 417
+                  },
+                  {
+                    "name": "Chickamauga",
+                    "votes": 530
+                  },
+                  {
+                    "name": "Fairyland",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 212
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "La Fayette",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Walnut Grove",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rock Spring",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Armuchee Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mountain",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chattanooga Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kensington",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rossville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chickamauga",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairyland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 3911,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 259,
+                "Precinct": [
+                  {
+                    "name": "La Fayette",
+                    "votes": 154
+                  },
+                  {
+                    "name": "Walnut Grove",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rock Spring",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Armuchee Valley",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Mountain",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chattanooga Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kensington",
+                    "votes": 47
+                  },
+                  {
+                    "name": "Rossville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chickamauga",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairyland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1593,
+                "Precinct": [
+                  {
+                    "name": "La Fayette",
+                    "votes": 263
+                  },
+                  {
+                    "name": "Walnut Grove",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Rock Spring",
+                    "votes": 235
+                  },
+                  {
+                    "name": "Armuchee Valley",
+                    "votes": 28
+                  },
+                  {
+                    "name": "Mountain",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Chattanooga Valley",
+                    "votes": 245
+                  },
+                  {
+                    "name": "Kensington",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Rossville",
+                    "votes": 209
+                  },
+                  {
+                    "name": "Chickamauga",
+                    "votes": 246
+                  },
+                  {
+                    "name": "Fairyland",
+                    "votes": 120
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 102
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 2059,
+                "Precinct": [
+                  {
+                    "name": "La Fayette",
+                    "votes": 309
+                  },
+                  {
+                    "name": "Walnut Grove",
+                    "votes": 66
+                  },
+                  {
+                    "name": "Rock Spring",
+                    "votes": 238
+                  },
+                  {
+                    "name": "Armuchee Valley",
+                    "votes": 55
+                  },
+                  {
+                    "name": "Mountain",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Chattanooga Valley",
+                    "votes": 377
+                  },
+                  {
+                    "name": "Kensington",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Rossville",
+                    "votes": 334
+                  },
+                  {
+                    "name": "Chickamauga",
+                    "votes": 320
+                  },
+                  {
+                    "name": "Fairyland",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 153
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "La Fayette",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Walnut Grove",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rock Spring",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Armuchee Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mountain",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chattanooga Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kensington",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rossville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chickamauga",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairyland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 11,
+        "precinctsReported": 3,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 42,
+            "Precinct": [
+              {
+                "name": "La Fayette",
+                "votes": 8
+              },
+              {
+                "name": "Walnut Grove",
+                "votes": 0
+              },
+              {
+                "name": "Rock Spring",
+                "votes": 4
+              },
+              {
+                "name": "Armuchee Valley",
+                "votes": 1
+              },
+              {
+                "name": "Mountain",
+                "votes": 1
+              },
+              {
+                "name": "Chattanooga Valley",
+                "votes": 6
+              },
+              {
+                "name": "Kensington",
+                "votes": 3
+              },
+              {
+                "name": "Rossville",
+                "votes": 8
+              },
+              {
+                "name": "Chickamauga",
+                "votes": 6
+              },
+              {
+                "name": "Fairyland",
+                "votes": 0
+              },
+              {
+                "name": "Fairview",
+                "votes": 5
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "La Fayette",
+                "votes": 0
+              },
+              {
+                "name": "Walnut Grove",
+                "votes": 0
+              },
+              {
+                "name": "Rock Spring",
+                "votes": 0
+              },
+              {
+                "name": "Armuchee Valley",
+                "votes": 0
+              },
+              {
+                "name": "Mountain",
+                "votes": 0
+              },
+              {
+                "name": "Chattanooga Valley",
+                "votes": 0
+              },
+              {
+                "name": "Kensington",
+                "votes": 0
+              },
+              {
+                "name": "Rossville",
+                "votes": 0
+              },
+              {
+                "name": "Chickamauga",
+                "votes": 0
+              },
+              {
+                "name": "Fairyland",
+                "votes": 0
+              },
+              {
+                "name": "Fairview",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 13201,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1964,
+                "Precinct": [
+                  {
+                    "name": "La Fayette",
+                    "votes": 940
+                  },
+                  {
+                    "name": "Walnut Grove",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rock Spring",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Armuchee Valley",
+                    "votes": 599
+                  },
+                  {
+                    "name": "Mountain",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chattanooga Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kensington",
+                    "votes": 425
+                  },
+                  {
+                    "name": "Rossville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chickamauga",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairyland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 8245,
+                "Precinct": [
+                  {
+                    "name": "La Fayette",
+                    "votes": 1264
+                  },
+                  {
+                    "name": "Walnut Grove",
+                    "votes": 506
+                  },
+                  {
+                    "name": "Rock Spring",
+                    "votes": 1694
+                  },
+                  {
+                    "name": "Armuchee Valley",
+                    "votes": 145
+                  },
+                  {
+                    "name": "Mountain",
+                    "votes": 133
+                  },
+                  {
+                    "name": "Chattanooga Valley",
+                    "votes": 1117
+                  },
+                  {
+                    "name": "Kensington",
+                    "votes": 161
+                  },
+                  {
+                    "name": "Rossville",
+                    "votes": 928
+                  },
+                  {
+                    "name": "Chickamauga",
+                    "votes": 1622
+                  },
+                  {
+                    "name": "Fairyland",
+                    "votes": 269
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 406
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 2992,
+                "Precinct": [
+                  {
+                    "name": "La Fayette",
+                    "votes": 442
+                  },
+                  {
+                    "name": "Walnut Grove",
+                    "votes": 148
+                  },
+                  {
+                    "name": "Rock Spring",
+                    "votes": 471
+                  },
+                  {
+                    "name": "Armuchee Valley",
+                    "votes": 59
+                  },
+                  {
+                    "name": "Mountain",
+                    "votes": 87
+                  },
+                  {
+                    "name": "Chattanooga Valley",
+                    "votes": 474
+                  },
+                  {
+                    "name": "Kensington",
+                    "votes": 73
+                  },
+                  {
+                    "name": "Rossville",
+                    "votes": 422
+                  },
+                  {
+                    "name": "Chickamauga",
+                    "votes": 531
+                  },
+                  {
+                    "name": "Fairyland",
+                    "votes": 73
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 212
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "La Fayette",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Walnut Grove",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rock Spring",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Armuchee Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mountain",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chattanooga Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kensington",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rossville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chickamauga",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairyland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 3869,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 256,
+                "Precinct": [
+                  {
+                    "name": "La Fayette",
+                    "votes": 151
+                  },
+                  {
+                    "name": "Walnut Grove",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rock Spring",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Armuchee Valley",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Mountain",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chattanooga Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kensington",
+                    "votes": 49
+                  },
+                  {
+                    "name": "Rossville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chickamauga",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairyland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1579,
+                "Precinct": [
+                  {
+                    "name": "La Fayette",
+                    "votes": 265
+                  },
+                  {
+                    "name": "Walnut Grove",
+                    "votes": 57
+                  },
+                  {
+                    "name": "Rock Spring",
+                    "votes": 231
+                  },
+                  {
+                    "name": "Armuchee Valley",
+                    "votes": 28
+                  },
+                  {
+                    "name": "Mountain",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Chattanooga Valley",
+                    "votes": 241
+                  },
+                  {
+                    "name": "Kensington",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Rossville",
+                    "votes": 204
+                  },
+                  {
+                    "name": "Chickamauga",
+                    "votes": 244
+                  },
+                  {
+                    "name": "Fairyland",
+                    "votes": 122
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 101
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 2034,
+                "Precinct": [
+                  {
+                    "name": "La Fayette",
+                    "votes": 311
+                  },
+                  {
+                    "name": "Walnut Grove",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Rock Spring",
+                    "votes": 232
+                  },
+                  {
+                    "name": "Armuchee Valley",
+                    "votes": 54
+                  },
+                  {
+                    "name": "Mountain",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Chattanooga Valley",
+                    "votes": 373
+                  },
+                  {
+                    "name": "Kensington",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Rossville",
+                    "votes": 328
+                  },
+                  {
+                    "name": "Chickamauga",
+                    "votes": 318
+                  },
+                  {
+                    "name": "Fairyland",
+                    "votes": 72
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 150
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "La Fayette",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Walnut Grove",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rock Spring",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Armuchee Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mountain",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chattanooga Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kensington",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rossville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chickamauga",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairyland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 11,
+        "precinctsReported": 3,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 265,
+            "Precinct": [
+              {
+                "name": "La Fayette",
+                "votes": 53
+              },
+              {
+                "name": "Walnut Grove",
+                "votes": 7
+              },
+              {
+                "name": "Rock Spring",
+                "votes": 43
+              },
+              {
+                "name": "Armuchee Valley",
+                "votes": 11
+              },
+              {
+                "name": "Mountain",
+                "votes": 2
+              },
+              {
+                "name": "Chattanooga Valley",
+                "votes": 22
+              },
+              {
+                "name": "Kensington",
+                "votes": 11
+              },
+              {
+                "name": "Rossville",
+                "votes": 36
+              },
+              {
+                "name": "Chickamauga",
+                "votes": 41
+              },
+              {
+                "name": "Fairyland",
+                "votes": 17
+              },
+              {
+                "name": "Fairview",
+                "votes": 22
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "La Fayette",
+                "votes": 0
+              },
+              {
+                "name": "Walnut Grove",
+                "votes": 0
+              },
+              {
+                "name": "Rock Spring",
+                "votes": 0
+              },
+              {
+                "name": "Armuchee Valley",
+                "votes": 0
+              },
+              {
+                "name": "Mountain",
+                "votes": 0
+              },
+              {
+                "name": "Chattanooga Valley",
+                "votes": 0
+              },
+              {
+                "name": "Kensington",
+                "votes": 0
+              },
+              {
+                "name": "Rossville",
+                "votes": 0
+              },
+              {
+                "name": "Chickamauga",
+                "votes": 0
+              },
+              {
+                "name": "Fairyland",
+                "votes": 0
+              },
+              {
+                "name": "Fairview",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 13123,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1948,
+                "Precinct": [
+                  {
+                    "name": "La Fayette",
+                    "votes": 934
+                  },
+                  {
+                    "name": "Walnut Grove",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rock Spring",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Armuchee Valley",
+                    "votes": 591
+                  },
+                  {
+                    "name": "Mountain",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chattanooga Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kensington",
+                    "votes": 423
+                  },
+                  {
+                    "name": "Rossville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chickamauga",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairyland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 8203,
+                "Precinct": [
+                  {
+                    "name": "La Fayette",
+                    "votes": 1249
+                  },
+                  {
+                    "name": "Walnut Grove",
+                    "votes": 507
+                  },
+                  {
+                    "name": "Rock Spring",
+                    "votes": 1674
+                  },
+                  {
+                    "name": "Armuchee Valley",
+                    "votes": 147
+                  },
+                  {
+                    "name": "Mountain",
+                    "votes": 137
+                  },
+                  {
+                    "name": "Chattanooga Valley",
+                    "votes": 1118
+                  },
+                  {
+                    "name": "Kensington",
+                    "votes": 161
+                  },
+                  {
+                    "name": "Rossville",
+                    "votes": 913
+                  },
+                  {
+                    "name": "Chickamauga",
+                    "votes": 1615
+                  },
+                  {
+                    "name": "Fairyland",
+                    "votes": 279
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 403
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 2972,
+                "Precinct": [
+                  {
+                    "name": "La Fayette",
+                    "votes": 456
+                  },
+                  {
+                    "name": "Walnut Grove",
+                    "votes": 143
+                  },
+                  {
+                    "name": "Rock Spring",
+                    "votes": 461
+                  },
+                  {
+                    "name": "Armuchee Valley",
+                    "votes": 61
+                  },
+                  {
+                    "name": "Mountain",
+                    "votes": 86
+                  },
+                  {
+                    "name": "Chattanooga Valley",
+                    "votes": 474
+                  },
+                  {
+                    "name": "Kensington",
+                    "votes": 74
+                  },
+                  {
+                    "name": "Rossville",
+                    "votes": 417
+                  },
+                  {
+                    "name": "Chickamauga",
+                    "votes": 536
+                  },
+                  {
+                    "name": "Fairyland",
+                    "votes": 65
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 199
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "La Fayette",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Walnut Grove",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rock Spring",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Armuchee Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mountain",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chattanooga Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kensington",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rossville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chickamauga",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairyland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 3720,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 247,
+                "Precinct": [
+                  {
+                    "name": "La Fayette",
+                    "votes": 141
+                  },
+                  {
+                    "name": "Walnut Grove",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rock Spring",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Armuchee Valley",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Mountain",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chattanooga Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kensington",
+                    "votes": 48
+                  },
+                  {
+                    "name": "Rossville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chickamauga",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairyland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1518,
+                "Precinct": [
+                  {
+                    "name": "La Fayette",
+                    "votes": 260
+                  },
+                  {
+                    "name": "Walnut Grove",
+                    "votes": 54
+                  },
+                  {
+                    "name": "Rock Spring",
+                    "votes": 230
+                  },
+                  {
+                    "name": "Armuchee Valley",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Mountain",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Chattanooga Valley",
+                    "votes": 234
+                  },
+                  {
+                    "name": "Kensington",
+                    "votes": 52
+                  },
+                  {
+                    "name": "Rossville",
+                    "votes": 202
+                  },
+                  {
+                    "name": "Chickamauga",
+                    "votes": 233
+                  },
+                  {
+                    "name": "Fairyland",
+                    "votes": 107
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 97
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1955,
+                "Precinct": [
+                  {
+                    "name": "La Fayette",
+                    "votes": 288
+                  },
+                  {
+                    "name": "Walnut Grove",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Rock Spring",
+                    "votes": 224
+                  },
+                  {
+                    "name": "Armuchee Valley",
+                    "votes": 49
+                  },
+                  {
+                    "name": "Mountain",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Chattanooga Valley",
+                    "votes": 363
+                  },
+                  {
+                    "name": "Kensington",
+                    "votes": 60
+                  },
+                  {
+                    "name": "Rossville",
+                    "votes": 322
+                  },
+                  {
+                    "name": "Chickamauga",
+                    "votes": 296
+                  },
+                  {
+                    "name": "Fairyland",
+                    "votes": 66
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 152
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "La Fayette",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Walnut Grove",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rock Spring",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Armuchee Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mountain",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chattanooga Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kensington",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rossville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chickamauga",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairyland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

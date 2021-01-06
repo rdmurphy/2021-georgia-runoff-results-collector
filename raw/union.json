@@ -1,0 +1,1674 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:25:52 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Union",
+    "VoterTurnout": {
+      "totalVoters": 19628,
+      "ballotsCast": 12645,
+      "voterTurnout": 64.42,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Blairsville",
+            "totalVoters": 2511,
+            "ballotsCast": 1659,
+            "voterTurnout": 66.07,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Coosa",
+            "totalVoters": 2372,
+            "ballotsCast": 1174,
+            "voterTurnout": 49.49,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Choestoe",
+            "totalVoters": 1389,
+            "ballotsCast": 698,
+            "voterTurnout": 50.25,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Jones Creek",
+            "totalVoters": 1989,
+            "ballotsCast": 1478,
+            "voterTurnout": 74.31,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Owltown",
+            "totalVoters": 1544,
+            "ballotsCast": 1157,
+            "voterTurnout": 74.94,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Ivy Log",
+            "totalVoters": 2061,
+            "ballotsCast": 1533,
+            "voterTurnout": 74.38,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Suches",
+            "totalVoters": 617,
+            "ballotsCast": 180,
+            "voterTurnout": 29.17,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Trackrock",
+            "totalVoters": 1124,
+            "ballotsCast": 844,
+            "voterTurnout": 75.09,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Dooley",
+            "totalVoters": 1557,
+            "ballotsCast": 1132,
+            "voterTurnout": 72.7,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Gumlog",
+            "totalVoters": 2195,
+            "ballotsCast": 1078,
+            "voterTurnout": 49.11,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Pat Colwell",
+            "totalVoters": 2269,
+            "ballotsCast": 1712,
+            "voterTurnout": 75.45,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 11,
+        "precinctsReported": 7,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 24,
+            "Precinct": [
+              {
+                "name": "Blairsville",
+                "votes": 3
+              },
+              {
+                "name": "Coosa",
+                "votes": 0
+              },
+              {
+                "name": "Choestoe",
+                "votes": 4
+              },
+              {
+                "name": "Jones Creek",
+                "votes": 1
+              },
+              {
+                "name": "Owltown",
+                "votes": 2
+              },
+              {
+                "name": "Ivy Log",
+                "votes": 3
+              },
+              {
+                "name": "Suches",
+                "votes": 1
+              },
+              {
+                "name": "Trackrock",
+                "votes": 2
+              },
+              {
+                "name": "Dooley",
+                "votes": 2
+              },
+              {
+                "name": "Gumlog",
+                "votes": 4
+              },
+              {
+                "name": "Pat Colwell",
+                "votes": 2
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Blairsville",
+                "votes": 0
+              },
+              {
+                "name": "Coosa",
+                "votes": 0
+              },
+              {
+                "name": "Choestoe",
+                "votes": 0
+              },
+              {
+                "name": "Jones Creek",
+                "votes": 0
+              },
+              {
+                "name": "Owltown",
+                "votes": 0
+              },
+              {
+                "name": "Ivy Log",
+                "votes": 0
+              },
+              {
+                "name": "Suches",
+                "votes": 0
+              },
+              {
+                "name": "Trackrock",
+                "votes": 0
+              },
+              {
+                "name": "Dooley",
+                "votes": 0
+              },
+              {
+                "name": "Gumlog",
+                "votes": 0
+              },
+              {
+                "name": "Pat Colwell",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 10163,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 2536,
+                "Precinct": [
+                  {
+                    "name": "Blairsville",
+                    "votes": 371
+                  },
+                  {
+                    "name": "Coosa",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Choestoe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jones Creek",
+                    "votes": 456
+                  },
+                  {
+                    "name": "Owltown",
+                    "votes": 268
+                  },
+                  {
+                    "name": "Ivy Log",
+                    "votes": 431
+                  },
+                  {
+                    "name": "Suches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trackrock",
+                    "votes": 236
+                  },
+                  {
+                    "name": "Dooley",
+                    "votes": 359
+                  },
+                  {
+                    "name": "Gumlog",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pat Colwell",
+                    "votes": 415
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 5894,
+                "Precinct": [
+                  {
+                    "name": "Blairsville",
+                    "votes": 708
+                  },
+                  {
+                    "name": "Coosa",
+                    "votes": 786
+                  },
+                  {
+                    "name": "Choestoe",
+                    "votes": 416
+                  },
+                  {
+                    "name": "Jones Creek",
+                    "votes": 582
+                  },
+                  {
+                    "name": "Owltown",
+                    "votes": 512
+                  },
+                  {
+                    "name": "Ivy Log",
+                    "votes": 646
+                  },
+                  {
+                    "name": "Suches",
+                    "votes": 81
+                  },
+                  {
+                    "name": "Trackrock",
+                    "votes": 354
+                  },
+                  {
+                    "name": "Dooley",
+                    "votes": 393
+                  },
+                  {
+                    "name": "Gumlog",
+                    "votes": 651
+                  },
+                  {
+                    "name": "Pat Colwell",
+                    "votes": 765
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1733,
+                "Precinct": [
+                  {
+                    "name": "Blairsville",
+                    "votes": 244
+                  },
+                  {
+                    "name": "Coosa",
+                    "votes": 181
+                  },
+                  {
+                    "name": "Choestoe",
+                    "votes": 122
+                  },
+                  {
+                    "name": "Jones Creek",
+                    "votes": 188
+                  },
+                  {
+                    "name": "Owltown",
+                    "votes": 141
+                  },
+                  {
+                    "name": "Ivy Log",
+                    "votes": 206
+                  },
+                  {
+                    "name": "Suches",
+                    "votes": 37
+                  },
+                  {
+                    "name": "Trackrock",
+                    "votes": 89
+                  },
+                  {
+                    "name": "Dooley",
+                    "votes": 127
+                  },
+                  {
+                    "name": "Gumlog",
+                    "votes": 208
+                  },
+                  {
+                    "name": "Pat Colwell",
+                    "votes": 190
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Blairsville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coosa",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Choestoe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jones Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Owltown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ivy Log",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Suches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trackrock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dooley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gumlog",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pat Colwell",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 2458,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 222,
+                "Precinct": [
+                  {
+                    "name": "Blairsville",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Coosa",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Choestoe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jones Creek",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Owltown",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Ivy Log",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Suches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trackrock",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Dooley",
+                    "votes": 46
+                  },
+                  {
+                    "name": "Gumlog",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pat Colwell",
+                    "votes": 39
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1042,
+                "Precinct": [
+                  {
+                    "name": "Blairsville",
+                    "votes": 138
+                  },
+                  {
+                    "name": "Coosa",
+                    "votes": 105
+                  },
+                  {
+                    "name": "Choestoe",
+                    "votes": 78
+                  },
+                  {
+                    "name": "Jones Creek",
+                    "votes": 107
+                  },
+                  {
+                    "name": "Owltown",
+                    "votes": 87
+                  },
+                  {
+                    "name": "Ivy Log",
+                    "votes": 106
+                  },
+                  {
+                    "name": "Suches",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Trackrock",
+                    "votes": 69
+                  },
+                  {
+                    "name": "Dooley",
+                    "votes": 94
+                  },
+                  {
+                    "name": "Gumlog",
+                    "votes": 100
+                  },
+                  {
+                    "name": "Pat Colwell",
+                    "votes": 144
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1194,
+                "Precinct": [
+                  {
+                    "name": "Blairsville",
+                    "votes": 164
+                  },
+                  {
+                    "name": "Coosa",
+                    "votes": 102
+                  },
+                  {
+                    "name": "Choestoe",
+                    "votes": 78
+                  },
+                  {
+                    "name": "Jones Creek",
+                    "votes": 114
+                  },
+                  {
+                    "name": "Owltown",
+                    "votes": 124
+                  },
+                  {
+                    "name": "Ivy Log",
+                    "votes": 112
+                  },
+                  {
+                    "name": "Suches",
+                    "votes": 47
+                  },
+                  {
+                    "name": "Trackrock",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Dooley",
+                    "votes": 111
+                  },
+                  {
+                    "name": "Gumlog",
+                    "votes": 115
+                  },
+                  {
+                    "name": "Pat Colwell",
+                    "votes": 157
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Blairsville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coosa",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Choestoe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jones Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Owltown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ivy Log",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Suches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trackrock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dooley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gumlog",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pat Colwell",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 11,
+        "precinctsReported": 7,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 31,
+            "Precinct": [
+              {
+                "name": "Blairsville",
+                "votes": 4
+              },
+              {
+                "name": "Coosa",
+                "votes": 0
+              },
+              {
+                "name": "Choestoe",
+                "votes": 2
+              },
+              {
+                "name": "Jones Creek",
+                "votes": 2
+              },
+              {
+                "name": "Owltown",
+                "votes": 6
+              },
+              {
+                "name": "Ivy Log",
+                "votes": 4
+              },
+              {
+                "name": "Suches",
+                "votes": 1
+              },
+              {
+                "name": "Trackrock",
+                "votes": 2
+              },
+              {
+                "name": "Dooley",
+                "votes": 2
+              },
+              {
+                "name": "Gumlog",
+                "votes": 5
+              },
+              {
+                "name": "Pat Colwell",
+                "votes": 3
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Blairsville",
+                "votes": 0
+              },
+              {
+                "name": "Coosa",
+                "votes": 0
+              },
+              {
+                "name": "Choestoe",
+                "votes": 0
+              },
+              {
+                "name": "Jones Creek",
+                "votes": 0
+              },
+              {
+                "name": "Owltown",
+                "votes": 0
+              },
+              {
+                "name": "Ivy Log",
+                "votes": 0
+              },
+              {
+                "name": "Suches",
+                "votes": 0
+              },
+              {
+                "name": "Trackrock",
+                "votes": 0
+              },
+              {
+                "name": "Dooley",
+                "votes": 0
+              },
+              {
+                "name": "Gumlog",
+                "votes": 0
+              },
+              {
+                "name": "Pat Colwell",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 10150,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 2531,
+                "Precinct": [
+                  {
+                    "name": "Blairsville",
+                    "votes": 370
+                  },
+                  {
+                    "name": "Coosa",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Choestoe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jones Creek",
+                    "votes": 454
+                  },
+                  {
+                    "name": "Owltown",
+                    "votes": 268
+                  },
+                  {
+                    "name": "Ivy Log",
+                    "votes": 431
+                  },
+                  {
+                    "name": "Suches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trackrock",
+                    "votes": 235
+                  },
+                  {
+                    "name": "Dooley",
+                    "votes": 357
+                  },
+                  {
+                    "name": "Gumlog",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pat Colwell",
+                    "votes": 416
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 5894,
+                "Precinct": [
+                  {
+                    "name": "Blairsville",
+                    "votes": 710
+                  },
+                  {
+                    "name": "Coosa",
+                    "votes": 786
+                  },
+                  {
+                    "name": "Choestoe",
+                    "votes": 418
+                  },
+                  {
+                    "name": "Jones Creek",
+                    "votes": 583
+                  },
+                  {
+                    "name": "Owltown",
+                    "votes": 507
+                  },
+                  {
+                    "name": "Ivy Log",
+                    "votes": 647
+                  },
+                  {
+                    "name": "Suches",
+                    "votes": 81
+                  },
+                  {
+                    "name": "Trackrock",
+                    "votes": 350
+                  },
+                  {
+                    "name": "Dooley",
+                    "votes": 393
+                  },
+                  {
+                    "name": "Gumlog",
+                    "votes": 651
+                  },
+                  {
+                    "name": "Pat Colwell",
+                    "votes": 768
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1725,
+                "Precinct": [
+                  {
+                    "name": "Blairsville",
+                    "votes": 238
+                  },
+                  {
+                    "name": "Coosa",
+                    "votes": 178
+                  },
+                  {
+                    "name": "Choestoe",
+                    "votes": 122
+                  },
+                  {
+                    "name": "Jones Creek",
+                    "votes": 188
+                  },
+                  {
+                    "name": "Owltown",
+                    "votes": 140
+                  },
+                  {
+                    "name": "Ivy Log",
+                    "votes": 206
+                  },
+                  {
+                    "name": "Suches",
+                    "votes": 37
+                  },
+                  {
+                    "name": "Trackrock",
+                    "votes": 88
+                  },
+                  {
+                    "name": "Dooley",
+                    "votes": 127
+                  },
+                  {
+                    "name": "Gumlog",
+                    "votes": 208
+                  },
+                  {
+                    "name": "Pat Colwell",
+                    "votes": 193
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Blairsville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coosa",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Choestoe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jones Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Owltown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ivy Log",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Suches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trackrock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dooley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gumlog",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pat Colwell",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 2464,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 225,
+                "Precinct": [
+                  {
+                    "name": "Blairsville",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Coosa",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Choestoe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jones Creek",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Owltown",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Ivy Log",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Suches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trackrock",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Dooley",
+                    "votes": 48
+                  },
+                  {
+                    "name": "Gumlog",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pat Colwell",
+                    "votes": 39
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1044,
+                "Precinct": [
+                  {
+                    "name": "Blairsville",
+                    "votes": 138
+                  },
+                  {
+                    "name": "Coosa",
+                    "votes": 105
+                  },
+                  {
+                    "name": "Choestoe",
+                    "votes": 78
+                  },
+                  {
+                    "name": "Jones Creek",
+                    "votes": 106
+                  },
+                  {
+                    "name": "Owltown",
+                    "votes": 89
+                  },
+                  {
+                    "name": "Ivy Log",
+                    "votes": 105
+                  },
+                  {
+                    "name": "Suches",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Trackrock",
+                    "votes": 73
+                  },
+                  {
+                    "name": "Dooley",
+                    "votes": 94
+                  },
+                  {
+                    "name": "Gumlog",
+                    "votes": 101
+                  },
+                  {
+                    "name": "Pat Colwell",
+                    "votes": 141
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1195,
+                "Precinct": [
+                  {
+                    "name": "Blairsville",
+                    "votes": 169
+                  },
+                  {
+                    "name": "Coosa",
+                    "votes": 105
+                  },
+                  {
+                    "name": "Choestoe",
+                    "votes": 78
+                  },
+                  {
+                    "name": "Jones Creek",
+                    "votes": 113
+                  },
+                  {
+                    "name": "Owltown",
+                    "votes": 124
+                  },
+                  {
+                    "name": "Ivy Log",
+                    "votes": 113
+                  },
+                  {
+                    "name": "Suches",
+                    "votes": 47
+                  },
+                  {
+                    "name": "Trackrock",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Dooley",
+                    "votes": 111
+                  },
+                  {
+                    "name": "Gumlog",
+                    "votes": 113
+                  },
+                  {
+                    "name": "Pat Colwell",
+                    "votes": 152
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Blairsville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coosa",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Choestoe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jones Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Owltown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ivy Log",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Suches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trackrock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dooley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gumlog",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pat Colwell",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 11,
+        "precinctsReported": 7,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 199,
+            "Precinct": [
+              {
+                "name": "Blairsville",
+                "votes": 34
+              },
+              {
+                "name": "Coosa",
+                "votes": 22
+              },
+              {
+                "name": "Choestoe",
+                "votes": 12
+              },
+              {
+                "name": "Jones Creek",
+                "votes": 17
+              },
+              {
+                "name": "Owltown",
+                "votes": 15
+              },
+              {
+                "name": "Ivy Log",
+                "votes": 26
+              },
+              {
+                "name": "Suches",
+                "votes": 7
+              },
+              {
+                "name": "Trackrock",
+                "votes": 13
+              },
+              {
+                "name": "Dooley",
+                "votes": 19
+              },
+              {
+                "name": "Gumlog",
+                "votes": 19
+              },
+              {
+                "name": "Pat Colwell",
+                "votes": 15
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Blairsville",
+                "votes": 0
+              },
+              {
+                "name": "Coosa",
+                "votes": 0
+              },
+              {
+                "name": "Choestoe",
+                "votes": 0
+              },
+              {
+                "name": "Jones Creek",
+                "votes": 0
+              },
+              {
+                "name": "Owltown",
+                "votes": 0
+              },
+              {
+                "name": "Ivy Log",
+                "votes": 0
+              },
+              {
+                "name": "Suches",
+                "votes": 0
+              },
+              {
+                "name": "Trackrock",
+                "votes": 0
+              },
+              {
+                "name": "Dooley",
+                "votes": 0
+              },
+              {
+                "name": "Gumlog",
+                "votes": 0
+              },
+              {
+                "name": "Pat Colwell",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 10162,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 2527,
+                "Precinct": [
+                  {
+                    "name": "Blairsville",
+                    "votes": 369
+                  },
+                  {
+                    "name": "Coosa",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Choestoe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jones Creek",
+                    "votes": 452
+                  },
+                  {
+                    "name": "Owltown",
+                    "votes": 264
+                  },
+                  {
+                    "name": "Ivy Log",
+                    "votes": 433
+                  },
+                  {
+                    "name": "Suches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trackrock",
+                    "votes": 235
+                  },
+                  {
+                    "name": "Dooley",
+                    "votes": 357
+                  },
+                  {
+                    "name": "Gumlog",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pat Colwell",
+                    "votes": 417
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 5901,
+                "Precinct": [
+                  {
+                    "name": "Blairsville",
+                    "votes": 716
+                  },
+                  {
+                    "name": "Coosa",
+                    "votes": 780
+                  },
+                  {
+                    "name": "Choestoe",
+                    "votes": 420
+                  },
+                  {
+                    "name": "Jones Creek",
+                    "votes": 579
+                  },
+                  {
+                    "name": "Owltown",
+                    "votes": 514
+                  },
+                  {
+                    "name": "Ivy Log",
+                    "votes": 646
+                  },
+                  {
+                    "name": "Suches",
+                    "votes": 80
+                  },
+                  {
+                    "name": "Trackrock",
+                    "votes": 350
+                  },
+                  {
+                    "name": "Dooley",
+                    "votes": 394
+                  },
+                  {
+                    "name": "Gumlog",
+                    "votes": 654
+                  },
+                  {
+                    "name": "Pat Colwell",
+                    "votes": 768
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1734,
+                "Precinct": [
+                  {
+                    "name": "Blairsville",
+                    "votes": 239
+                  },
+                  {
+                    "name": "Coosa",
+                    "votes": 182
+                  },
+                  {
+                    "name": "Choestoe",
+                    "votes": 123
+                  },
+                  {
+                    "name": "Jones Creek",
+                    "votes": 189
+                  },
+                  {
+                    "name": "Owltown",
+                    "votes": 148
+                  },
+                  {
+                    "name": "Ivy Log",
+                    "votes": 199
+                  },
+                  {
+                    "name": "Suches",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Trackrock",
+                    "votes": 89
+                  },
+                  {
+                    "name": "Dooley",
+                    "votes": 128
+                  },
+                  {
+                    "name": "Gumlog",
+                    "votes": 203
+                  },
+                  {
+                    "name": "Pat Colwell",
+                    "votes": 199
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Blairsville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coosa",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Choestoe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jones Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Owltown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ivy Log",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Suches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trackrock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dooley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gumlog",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pat Colwell",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 2284,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 205,
+                "Precinct": [
+                  {
+                    "name": "Blairsville",
+                    "votes": 28
+                  },
+                  {
+                    "name": "Coosa",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Choestoe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jones Creek",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Owltown",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Ivy Log",
+                    "votes": 22
+                  },
+                  {
+                    "name": "Suches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trackrock",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Dooley",
+                    "votes": 45
+                  },
+                  {
+                    "name": "Gumlog",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pat Colwell",
+                    "votes": 33
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 966,
+                "Precinct": [
+                  {
+                    "name": "Blairsville",
+                    "votes": 119
+                  },
+                  {
+                    "name": "Coosa",
+                    "votes": 98
+                  },
+                  {
+                    "name": "Choestoe",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Jones Creek",
+                    "votes": 100
+                  },
+                  {
+                    "name": "Owltown",
+                    "votes": 82
+                  },
+                  {
+                    "name": "Ivy Log",
+                    "votes": 99
+                  },
+                  {
+                    "name": "Suches",
+                    "votes": 13
+                  },
+                  {
+                    "name": "Trackrock",
+                    "votes": 69
+                  },
+                  {
+                    "name": "Dooley",
+                    "votes": 86
+                  },
+                  {
+                    "name": "Gumlog",
+                    "votes": 95
+                  },
+                  {
+                    "name": "Pat Colwell",
+                    "votes": 135
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1113,
+                "Precinct": [
+                  {
+                    "name": "Blairsville",
+                    "votes": 154
+                  },
+                  {
+                    "name": "Coosa",
+                    "votes": 92
+                  },
+                  {
+                    "name": "Choestoe",
+                    "votes": 73
+                  },
+                  {
+                    "name": "Jones Creek",
+                    "votes": 110
+                  },
+                  {
+                    "name": "Owltown",
+                    "votes": 111
+                  },
+                  {
+                    "name": "Ivy Log",
+                    "votes": 108
+                  },
+                  {
+                    "name": "Suches",
+                    "votes": 45
+                  },
+                  {
+                    "name": "Trackrock",
+                    "votes": 65
+                  },
+                  {
+                    "name": "Dooley",
+                    "votes": 103
+                  },
+                  {
+                    "name": "Gumlog",
+                    "votes": 107
+                  },
+                  {
+                    "name": "Pat Colwell",
+                    "votes": 145
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Blairsville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coosa",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Choestoe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jones Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Owltown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ivy Log",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Suches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trackrock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dooley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gumlog",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pat Colwell",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

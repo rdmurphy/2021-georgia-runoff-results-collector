@@ -1,34 +1,34 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:19:53 PM EST",
+    "Timestamp": "1/5/2021 8:27:48 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
-    "Region": "Brantley",
+    "Region": "Turner",
     "VoterTurnout": {
-      "totalVoters": 11281,
-      "ballotsCast": 6629,
-      "voterTurnout": 58.76,
+      "totalVoters": 5708,
+      "ballotsCast": 3412,
+      "voterTurnout": 59.78,
       "Precincts": {
         "Precinct": [
           {
-            "name": "Hoboken",
-            "totalVoters": 3039,
-            "ballotsCast": 2040,
-            "voterTurnout": 67.13,
+            "name": "Ashburn",
+            "totalVoters": 3597,
+            "ballotsCast": 2044,
+            "voterTurnout": 56.83,
             "percentReporting": "4"
           },
           {
-            "name": "Nahunta",
-            "totalVoters": 4073,
-            "ballotsCast": 2431,
-            "voterTurnout": 59.69,
+            "name": "Sycamore",
+            "totalVoters": 1634,
+            "ballotsCast": 1075,
+            "voterTurnout": 65.79,
             "percentReporting": "4"
           },
           {
-            "name": "Waynesville",
-            "totalVoters": 4169,
-            "ballotsCast": 2158,
-            "voterTurnout": 51.76,
+            "name": "Rebecca",
+            "totalVoters": 477,
+            "ballotsCast": 293,
+            "voterTurnout": 61.43,
             "percentReporting": "4"
           }
         ]
@@ -45,19 +45,19 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 12,
+            "votes": 6,
             "Precinct": [
               {
-                "name": "Hoboken",
+                "name": "Ashburn",
                 "votes": 4
               },
               {
-                "name": "Nahunta",
-                "votes": 5
+                "name": "Sycamore",
+                "votes": 2
               },
               {
-                "name": "Waynesville",
-                "votes": 3
+                "name": "Rebecca",
+                "votes": 0
               }
             ]
           },
@@ -66,15 +66,15 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Hoboken",
+                "name": "Ashburn",
                 "votes": 0
               },
               {
-                "name": "Nahunta",
+                "name": "Sycamore",
                 "votes": 0
               },
               {
-                "name": "Waynesville",
+                "name": "Rebecca",
                 "votes": 0
               }
             ]
@@ -84,59 +84,59 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 6002,
+            "totalVotes": 2104,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2562,
+                "votes": 595,
                 "Precinct": [
                   {
-                    "name": "Hoboken",
-                    "votes": 856
+                    "name": "Ashburn",
+                    "votes": 230
                   },
                   {
-                    "name": "Nahunta",
-                    "votes": 768
+                    "name": "Sycamore",
+                    "votes": 225
                   },
                   {
-                    "name": "Waynesville",
-                    "votes": 938
+                    "name": "Rebecca",
+                    "votes": 140
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 2978,
+                "votes": 1329,
                 "Precinct": [
                   {
-                    "name": "Hoboken",
-                    "votes": 886
+                    "name": "Ashburn",
+                    "votes": 584
                   },
                   {
-                    "name": "Nahunta",
-                    "votes": 1246
+                    "name": "Sycamore",
+                    "votes": 647
                   },
                   {
-                    "name": "Waynesville",
-                    "votes": 846
+                    "name": "Rebecca",
+                    "votes": 98
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 462,
+                "votes": 180,
                 "Precinct": [
                   {
-                    "name": "Hoboken",
-                    "votes": 161
+                    "name": "Ashburn",
+                    "votes": 99
                   },
                   {
-                    "name": "Nahunta",
-                    "votes": 178
+                    "name": "Sycamore",
+                    "votes": 63
                   },
                   {
-                    "name": "Waynesville",
-                    "votes": 123
+                    "name": "Rebecca",
+                    "votes": 18
                   }
                 ]
               },
@@ -145,15 +145,15 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Hoboken",
+                    "name": "Ashburn",
                     "votes": 0
                   },
                   {
-                    "name": "Nahunta",
+                    "name": "Sycamore",
                     "votes": 0
                   },
                   {
-                    "name": "Waynesville",
+                    "name": "Rebecca",
                     "votes": 0
                   }
                 ]
@@ -163,59 +163,59 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 615,
+            "totalVotes": 1302,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 170,
+                "votes": 323,
                 "Precinct": [
                   {
-                    "name": "Hoboken",
-                    "votes": 42
+                    "name": "Ashburn",
+                    "votes": 284
                   },
                   {
-                    "name": "Nahunta",
-                    "votes": 66
+                    "name": "Sycamore",
+                    "votes": 26
                   },
                   {
-                    "name": "Waynesville",
-                    "votes": 62
+                    "name": "Rebecca",
+                    "votes": 13
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 269,
+                "votes": 739,
                 "Precinct": [
                   {
-                    "name": "Hoboken",
-                    "votes": 49
+                    "name": "Ashburn",
+                    "votes": 635
                   },
                   {
-                    "name": "Nahunta",
-                    "votes": 119
+                    "name": "Sycamore",
+                    "votes": 91
                   },
                   {
-                    "name": "Waynesville",
-                    "votes": 101
+                    "name": "Rebecca",
+                    "votes": 13
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 176,
+                "votes": 240,
                 "Precinct": [
                   {
-                    "name": "Hoboken",
-                    "votes": 42
+                    "name": "Ashburn",
+                    "votes": 208
                   },
                   {
-                    "name": "Nahunta",
-                    "votes": 49
+                    "name": "Sycamore",
+                    "votes": 21
                   },
                   {
-                    "name": "Waynesville",
-                    "votes": 85
+                    "name": "Rebecca",
+                    "votes": 11
                   }
                 ]
               },
@@ -224,15 +224,15 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Hoboken",
+                    "name": "Ashburn",
                     "votes": 0
                   },
                   {
-                    "name": "Nahunta",
+                    "name": "Sycamore",
                     "votes": 0
                   },
                   {
-                    "name": "Waynesville",
+                    "name": "Rebecca",
                     "votes": 0
                   }
                 ]
@@ -251,19 +251,19 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 18,
+            "votes": 4,
             "Precinct": [
               {
-                "name": "Hoboken",
-                "votes": 2
+                "name": "Ashburn",
+                "votes": 4
               },
               {
-                "name": "Nahunta",
-                "votes": 9
+                "name": "Sycamore",
+                "votes": 0
               },
               {
-                "name": "Waynesville",
-                "votes": 7
+                "name": "Rebecca",
+                "votes": 0
               }
             ]
           },
@@ -272,15 +272,15 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Hoboken",
+                "name": "Ashburn",
                 "votes": 0
               },
               {
-                "name": "Nahunta",
+                "name": "Sycamore",
                 "votes": 0
               },
               {
-                "name": "Waynesville",
+                "name": "Rebecca",
                 "votes": 0
               }
             ]
@@ -290,59 +290,59 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 5998,
+            "totalVotes": 2101,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2556,
+                "votes": 595,
                 "Precinct": [
                   {
-                    "name": "Hoboken",
-                    "votes": 856
+                    "name": "Ashburn",
+                    "votes": 230
                   },
                   {
-                    "name": "Nahunta",
-                    "votes": 767
+                    "name": "Sycamore",
+                    "votes": 225
                   },
                   {
-                    "name": "Waynesville",
-                    "votes": 933
+                    "name": "Rebecca",
+                    "votes": 140
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 2980,
+                "votes": 1331,
                 "Precinct": [
                   {
-                    "name": "Hoboken",
-                    "votes": 891
+                    "name": "Ashburn",
+                    "votes": 586
                   },
                   {
-                    "name": "Nahunta",
-                    "votes": 1246
+                    "name": "Sycamore",
+                    "votes": 647
                   },
                   {
-                    "name": "Waynesville",
-                    "votes": 843
+                    "name": "Rebecca",
+                    "votes": 98
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 462,
+                "votes": 175,
                 "Precinct": [
                   {
-                    "name": "Hoboken",
-                    "votes": 161
+                    "name": "Ashburn",
+                    "votes": 95
                   },
                   {
-                    "name": "Nahunta",
-                    "votes": 176
+                    "name": "Sycamore",
+                    "votes": 63
                   },
                   {
-                    "name": "Waynesville",
-                    "votes": 125
+                    "name": "Rebecca",
+                    "votes": 17
                   }
                 ]
               },
@@ -351,15 +351,15 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Hoboken",
+                    "name": "Ashburn",
                     "votes": 0
                   },
                   {
-                    "name": "Nahunta",
+                    "name": "Sycamore",
                     "votes": 0
                   },
                   {
-                    "name": "Waynesville",
+                    "name": "Rebecca",
                     "votes": 0
                   }
                 ]
@@ -369,59 +369,59 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 613,
+            "totalVotes": 1307,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 170,
+                "votes": 324,
                 "Precinct": [
                   {
-                    "name": "Hoboken",
-                    "votes": 41
+                    "name": "Ashburn",
+                    "votes": 285
                   },
                   {
-                    "name": "Nahunta",
-                    "votes": 65
+                    "name": "Sycamore",
+                    "votes": 26
                   },
                   {
-                    "name": "Waynesville",
-                    "votes": 64
+                    "name": "Rebecca",
+                    "votes": 13
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 268,
+                "votes": 738,
                 "Precinct": [
                   {
-                    "name": "Hoboken",
-                    "votes": 47
+                    "name": "Ashburn",
+                    "votes": 632
                   },
                   {
-                    "name": "Nahunta",
-                    "votes": 118
+                    "name": "Sycamore",
+                    "votes": 93
                   },
                   {
-                    "name": "Waynesville",
-                    "votes": 103
+                    "name": "Rebecca",
+                    "votes": 13
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 175,
+                "votes": 245,
                 "Precinct": [
                   {
-                    "name": "Hoboken",
-                    "votes": 42
+                    "name": "Ashburn",
+                    "votes": 212
                   },
                   {
-                    "name": "Nahunta",
-                    "votes": 50
+                    "name": "Sycamore",
+                    "votes": 21
                   },
                   {
-                    "name": "Waynesville",
-                    "votes": 83
+                    "name": "Rebecca",
+                    "votes": 12
                   }
                 ]
               },
@@ -430,15 +430,15 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Hoboken",
+                    "name": "Ashburn",
                     "votes": 0
                   },
                   {
-                    "name": "Nahunta",
+                    "name": "Sycamore",
                     "votes": 0
                   },
                   {
-                    "name": "Waynesville",
+                    "name": "Rebecca",
                     "votes": 0
                   }
                 ]
@@ -457,19 +457,19 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 99,
+            "votes": 53,
             "Precinct": [
               {
-                "name": "Hoboken",
-                "votes": 34
+                "name": "Ashburn",
+                "votes": 37
               },
               {
-                "name": "Nahunta",
-                "votes": 27
+                "name": "Sycamore",
+                "votes": 13
               },
               {
-                "name": "Waynesville",
-                "votes": 38
+                "name": "Rebecca",
+                "votes": 3
               }
             ]
           },
@@ -478,15 +478,15 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Hoboken",
+                "name": "Ashburn",
                 "votes": 0
               },
               {
-                "name": "Nahunta",
+                "name": "Sycamore",
                 "votes": 0
               },
               {
-                "name": "Waynesville",
+                "name": "Rebecca",
                 "votes": 0
               }
             ]
@@ -496,59 +496,59 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 5930,
+            "totalVotes": 2100,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2539,
+                "votes": 595,
                 "Precinct": [
                   {
-                    "name": "Hoboken",
-                    "votes": 855
+                    "name": "Ashburn",
+                    "votes": 229
                   },
                   {
-                    "name": "Nahunta",
-                    "votes": 757
+                    "name": "Sycamore",
+                    "votes": 225
                   },
                   {
-                    "name": "Waynesville",
-                    "votes": 927
+                    "name": "Rebecca",
+                    "votes": 141
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 2938,
+                "votes": 1330,
                 "Precinct": [
                   {
-                    "name": "Hoboken",
-                    "votes": 869
+                    "name": "Ashburn",
+                    "votes": 589
                   },
                   {
-                    "name": "Nahunta",
-                    "votes": 1239
+                    "name": "Sycamore",
+                    "votes": 643
                   },
                   {
-                    "name": "Waynesville",
-                    "votes": 830
+                    "name": "Rebecca",
+                    "votes": 98
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 453,
+                "votes": 175,
                 "Precinct": [
                   {
-                    "name": "Hoboken",
-                    "votes": 161
+                    "name": "Ashburn",
+                    "votes": 95
                   },
                   {
-                    "name": "Nahunta",
-                    "votes": 173
+                    "name": "Sycamore",
+                    "votes": 62
                   },
                   {
-                    "name": "Waynesville",
-                    "votes": 119
+                    "name": "Rebecca",
+                    "votes": 18
                   }
                 ]
               },
@@ -557,15 +557,15 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Hoboken",
+                    "name": "Ashburn",
                     "votes": 0
                   },
                   {
-                    "name": "Nahunta",
+                    "name": "Sycamore",
                     "votes": 0
                   },
                   {
-                    "name": "Waynesville",
+                    "name": "Rebecca",
                     "votes": 0
                   }
                 ]
@@ -575,59 +575,59 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 600,
+            "totalVotes": 1259,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 159,
+                "votes": 312,
                 "Precinct": [
                   {
-                    "name": "Hoboken",
-                    "votes": 32
+                    "name": "Ashburn",
+                    "votes": 278
                   },
                   {
-                    "name": "Nahunta",
-                    "votes": 66
+                    "name": "Sycamore",
+                    "votes": 24
                   },
                   {
-                    "name": "Waynesville",
-                    "votes": 61
+                    "name": "Rebecca",
+                    "votes": 10
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 269,
+                "votes": 712,
                 "Precinct": [
                   {
-                    "name": "Hoboken",
-                    "votes": 49
+                    "name": "Ashburn",
+                    "votes": 612
                   },
                   {
-                    "name": "Nahunta",
-                    "votes": 117
+                    "name": "Sycamore",
+                    "votes": 87
                   },
                   {
-                    "name": "Waynesville",
-                    "votes": 103
+                    "name": "Rebecca",
+                    "votes": 13
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 172,
+                "votes": 235,
                 "Precinct": [
                   {
-                    "name": "Hoboken",
-                    "votes": 40
+                    "name": "Ashburn",
+                    "votes": 204
                   },
                   {
-                    "name": "Nahunta",
-                    "votes": 52
+                    "name": "Sycamore",
+                    "votes": 21
                   },
                   {
-                    "name": "Waynesville",
-                    "votes": 80
+                    "name": "Rebecca",
+                    "votes": 10
                   }
                 ]
               },
@@ -636,15 +636,15 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Hoboken",
+                    "name": "Ashburn",
                     "votes": 0
                   },
                   {
-                    "name": "Nahunta",
+                    "name": "Sycamore",
                     "votes": 0
                   },
                   {
-                    "name": "Waynesville",
+                    "name": "Rebecca",
                     "votes": 0
                   }
                 ]

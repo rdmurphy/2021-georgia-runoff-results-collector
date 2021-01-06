@@ -1,49 +1,49 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:24:25 PM EST",
+    "Timestamp": "1/5/2021 8:27:25 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
-    "Region": "Calhoun",
+    "Region": "Clay",
     "VoterTurnout": {
-      "totalVoters": 3269,
-      "ballotsCast": 1368,
-      "voterTurnout": 41.85,
+      "totalVoters": 0,
+      "ballotsCast": 1314,
+      "voterTurnout": 0.0,
       "Precincts": {
         "Precinct": [
           {
-            "name": "Leary",
-            "totalVoters": 726,
-            "ballotsCast": 296,
-            "voterTurnout": 40.77,
-            "percentReporting": "2"
+            "name": "Bluffton",
+            "totalVoters": 0,
+            "ballotsCast": 254,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
           },
           {
-            "name": "Morgan",
-            "totalVoters": 668,
-            "ballotsCast": 351,
-            "voterTurnout": 52.54,
-            "percentReporting": "2"
+            "name": "Zetto",
+            "totalVoters": 0,
+            "ballotsCast": 210,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
           },
           {
-            "name": "Edison",
-            "totalVoters": 534,
-            "ballotsCast": 162,
-            "voterTurnout": 30.34,
-            "percentReporting": "2"
+            "name": "Court House",
+            "totalVoters": 0,
+            "ballotsCast": 235,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
           },
           {
-            "name": "Edison-Arlington",
-            "totalVoters": 651,
-            "ballotsCast": 251,
-            "voterTurnout": 38.56,
-            "percentReporting": "2"
+            "name": "Old Head Start",
+            "totalVoters": 0,
+            "ballotsCast": 295,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
           },
           {
-            "name": "Arlington",
-            "totalVoters": 690,
-            "ballotsCast": 308,
-            "voterTurnout": 44.64,
-            "percentReporting": "2"
+            "name": "Days Cross Road",
+            "totalVoters": 0,
+            "ballotsCast": 320,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
           }
         ]
       }
@@ -55,31 +55,31 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 5,
-        "precinctsReported": 0,
+        "precinctsReported": 5,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 7,
+            "votes": 5,
             "Precinct": [
               {
-                "name": "Leary",
+                "name": "Bluffton",
+                "votes": 1
+              },
+              {
+                "name": "Zetto",
+                "votes": 1
+              },
+              {
+                "name": "Court House",
+                "votes": 1
+              },
+              {
+                "name": "Old Head Start",
+                "votes": 2
+              },
+              {
+                "name": "Days Cross Road",
                 "votes": 0
-              },
-              {
-                "name": "Morgan",
-                "votes": 1
-              },
-              {
-                "name": "Edison",
-                "votes": 1
-              },
-              {
-                "name": "Edison-Arlington",
-                "votes": 1
-              },
-              {
-                "name": "Arlington",
-                "votes": 4
               }
             ]
           },
@@ -88,23 +88,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Leary",
+                "name": "Bluffton",
                 "votes": 0
               },
               {
-                "name": "Morgan",
+                "name": "Zetto",
                 "votes": 0
               },
               {
-                "name": "Edison",
+                "name": "Court House",
                 "votes": 0
               },
               {
-                "name": "Edison-Arlington",
+                "name": "Old Head Start",
                 "votes": 0
               },
               {
-                "name": "Arlington",
+                "name": "Days Cross Road",
                 "votes": 0
               }
             ]
@@ -114,83 +114,83 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 518,
+            "totalVotes": 581,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 167,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 0
+                    "name": "Bluffton",
+                    "votes": 62
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 0
+                    "name": "Zetto",
+                    "votes": 19
                   },
                   {
-                    "name": "Edison",
-                    "votes": 0
+                    "name": "Court House",
+                    "votes": 17
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 0
+                    "name": "Old Head Start",
+                    "votes": 28
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 0
+                    "name": "Days Cross Road",
+                    "votes": 41
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 410,
+                "votes": 316,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 97
+                    "name": "Bluffton",
+                    "votes": 77
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 182
+                    "name": "Zetto",
+                    "votes": 35
                   },
                   {
-                    "name": "Edison",
-                    "votes": 18
+                    "name": "Court House",
+                    "votes": 24
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 58
+                    "name": "Old Head Start",
+                    "votes": 70
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 55
+                    "name": "Days Cross Road",
+                    "votes": 110
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 108,
+                "votes": 98,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Bluffton",
+                    "votes": 22
+                  },
+                  {
+                    "name": "Zetto",
+                    "votes": 12
+                  },
+                  {
+                    "name": "Court House",
+                    "votes": 6
+                  },
+                  {
+                    "name": "Old Head Start",
                     "votes": 23
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 50
-                  },
-                  {
-                    "name": "Edison",
-                    "votes": 4
-                  },
-                  {
-                    "name": "Edison-Arlington",
-                    "votes": 21
-                  },
-                  {
-                    "name": "Arlington",
-                    "votes": 10
+                    "name": "Days Cross Road",
+                    "votes": 35
                   }
                 ]
               },
@@ -199,23 +199,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Bluffton",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Zetto",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Court House",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Old Head Start",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
+                    "name": "Days Cross Road",
                     "votes": 0
                   }
                 ]
@@ -225,108 +225,108 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 843,
+            "totalVotes": 728,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 221,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 0
+                    "name": "Bluffton",
+                    "votes": 30
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 0
+                    "name": "Zetto",
+                    "votes": 52
                   },
                   {
-                    "name": "Edison",
-                    "votes": 0
+                    "name": "Court House",
+                    "votes": 67
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 0
+                    "name": "Old Head Start",
+                    "votes": 41
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 0
+                    "name": "Days Cross Road",
+                    "votes": 31
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 406,
+                "votes": 258,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 81
+                    "name": "Bluffton",
+                    "votes": 27
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 60
+                    "name": "Zetto",
+                    "votes": 53
                   },
                   {
-                    "name": "Edison",
-                    "votes": 77
+                    "name": "Court House",
+                    "votes": 66
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 101
+                    "name": "Old Head Start",
+                    "votes": 64
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 87
+                    "name": "Days Cross Road",
+                    "votes": 48
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 437,
+                "votes": 248,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 95
+                    "name": "Bluffton",
+                    "votes": 35
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 58
+                    "name": "Zetto",
+                    "votes": 37
                   },
                   {
-                    "name": "Edison",
-                    "votes": 62
+                    "name": "Court House",
+                    "votes": 54
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 70
+                    "name": "Old Head Start",
+                    "votes": 67
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 152
+                    "name": "Days Cross Road",
+                    "votes": 55
                   }
                 ]
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Bluffton",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Zetto",
+                    "votes": 1
+                  },
+                  {
+                    "name": "Court House",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Old Head Start",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Arlington",
+                    "name": "Days Cross Road",
                     "votes": 0
                   }
                 ]
@@ -341,31 +341,31 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 5,
-        "precinctsReported": 0,
+        "precinctsReported": 5,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 5,
+            "votes": 6,
             "Precinct": [
               {
-                "name": "Leary",
-                "votes": 0
-              },
-              {
-                "name": "Morgan",
+                "name": "Bluffton",
                 "votes": 1
               },
               {
-                "name": "Edison",
+                "name": "Zetto",
                 "votes": 1
               },
               {
-                "name": "Edison-Arlington",
+                "name": "Court House",
                 "votes": 1
               },
               {
-                "name": "Arlington",
+                "name": "Old Head Start",
                 "votes": 2
+              },
+              {
+                "name": "Days Cross Road",
+                "votes": 1
               }
             ]
           },
@@ -374,23 +374,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Leary",
+                "name": "Bluffton",
                 "votes": 0
               },
               {
-                "name": "Morgan",
+                "name": "Zetto",
                 "votes": 0
               },
               {
-                "name": "Edison",
+                "name": "Court House",
                 "votes": 0
               },
               {
-                "name": "Edison-Arlington",
+                "name": "Old Head Start",
                 "votes": 0
               },
               {
-                "name": "Arlington",
+                "name": "Days Cross Road",
                 "votes": 0
               }
             ]
@@ -400,83 +400,83 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 521,
+            "totalVotes": 581,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 167,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 0
+                    "name": "Bluffton",
+                    "votes": 62
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 0
+                    "name": "Zetto",
+                    "votes": 19
                   },
                   {
-                    "name": "Edison",
-                    "votes": 0
+                    "name": "Court House",
+                    "votes": 17
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 0
+                    "name": "Old Head Start",
+                    "votes": 28
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 0
+                    "name": "Days Cross Road",
+                    "votes": 41
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 414,
+                "votes": 315,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 97
+                    "name": "Bluffton",
+                    "votes": 76
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 184
+                    "name": "Zetto",
+                    "votes": 36
                   },
                   {
-                    "name": "Edison",
-                    "votes": 20
+                    "name": "Court House",
+                    "votes": 25
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 58
+                    "name": "Old Head Start",
+                    "votes": 69
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 55
+                    "name": "Days Cross Road",
+                    "votes": 109
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 107,
+                "votes": 99,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 23
+                    "name": "Bluffton",
+                    "votes": 22
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 49
+                    "name": "Zetto",
+                    "votes": 12
                   },
                   {
-                    "name": "Edison",
-                    "votes": 4
+                    "name": "Court House",
+                    "votes": 6
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 21
+                    "name": "Old Head Start",
+                    "votes": 24
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 10
+                    "name": "Days Cross Road",
+                    "votes": 35
                   }
                 ]
               },
@@ -485,23 +485,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Bluffton",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Zetto",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Court House",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Old Head Start",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
+                    "name": "Days Cross Road",
                     "votes": 0
                   }
                 ]
@@ -511,108 +511,108 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 842,
+            "totalVotes": 727,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 221,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 0
+                    "name": "Bluffton",
+                    "votes": 30
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 0
+                    "name": "Zetto",
+                    "votes": 52
                   },
                   {
-                    "name": "Edison",
-                    "votes": 0
+                    "name": "Court House",
+                    "votes": 66
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 0
+                    "name": "Old Head Start",
+                    "votes": 42
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 0
+                    "name": "Days Cross Road",
+                    "votes": 31
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 403,
+                "votes": 258,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 81
+                    "name": "Bluffton",
+                    "votes": 28
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 58
+                    "name": "Zetto",
+                    "votes": 52
                   },
                   {
-                    "name": "Edison",
-                    "votes": 75
+                    "name": "Court House",
+                    "votes": 66
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 101
+                    "name": "Old Head Start",
+                    "votes": 64
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 88
+                    "name": "Days Cross Road",
+                    "votes": 48
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 439,
+                "votes": 247,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 95
+                    "name": "Bluffton",
+                    "votes": 35
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 59
+                    "name": "Zetto",
+                    "votes": 37
                   },
                   {
-                    "name": "Edison",
-                    "votes": 62
+                    "name": "Court House",
+                    "votes": 54
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 70
+                    "name": "Old Head Start",
+                    "votes": 66
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 153
+                    "name": "Days Cross Road",
+                    "votes": 55
                   }
                 ]
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Bluffton",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Zetto",
+                    "votes": 1
+                  },
+                  {
+                    "name": "Court House",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Old Head Start",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Arlington",
+                    "name": "Days Cross Road",
                     "votes": 0
                   }
                 ]
@@ -627,31 +627,31 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 5,
-        "precinctsReported": 0,
+        "precinctsReported": 5,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 29,
+            "votes": 25,
             "Precinct": [
               {
-                "name": "Leary",
-                "votes": 5
+                "name": "Bluffton",
+                "votes": 0
               },
               {
-                "name": "Morgan",
+                "name": "Zetto",
+                "votes": 6
+              },
+              {
+                "name": "Court House",
+                "votes": 6
+              },
+              {
+                "name": "Old Head Start",
                 "votes": 7
               },
               {
-                "name": "Edison",
-                "votes": 9
-              },
-              {
-                "name": "Edison-Arlington",
-                "votes": 4
-              },
-              {
-                "name": "Arlington",
-                "votes": 4
+                "name": "Days Cross Road",
+                "votes": 6
               }
             ]
           },
@@ -660,23 +660,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Leary",
+                "name": "Bluffton",
                 "votes": 0
               },
               {
-                "name": "Morgan",
+                "name": "Zetto",
                 "votes": 0
               },
               {
-                "name": "Edison",
+                "name": "Court House",
                 "votes": 0
               },
               {
-                "name": "Edison-Arlington",
+                "name": "Old Head Start",
                 "votes": 0
               },
               {
-                "name": "Arlington",
+                "name": "Days Cross Road",
                 "votes": 0
               }
             ]
@@ -686,83 +686,83 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 527,
+            "totalVotes": 593,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 171,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 0
+                    "name": "Bluffton",
+                    "votes": 64
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 0
+                    "name": "Zetto",
+                    "votes": 21
                   },
                   {
-                    "name": "Edison",
-                    "votes": 0
+                    "name": "Court House",
+                    "votes": 17
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 0
+                    "name": "Old Head Start",
+                    "votes": 27
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 0
+                    "name": "Days Cross Road",
+                    "votes": 42
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 415,
+                "votes": 320,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 97
+                    "name": "Bluffton",
+                    "votes": 75
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 182
+                    "name": "Zetto",
+                    "votes": 35
                   },
                   {
-                    "name": "Edison",
-                    "votes": 18
+                    "name": "Court House",
+                    "votes": 26
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 62
+                    "name": "Old Head Start",
+                    "votes": 71
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 56
+                    "name": "Days Cross Road",
+                    "votes": 113
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 112,
+                "votes": 102,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Bluffton",
                     "votes": 22
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 52
+                    "name": "Zetto",
+                    "votes": 12
                   },
                   {
-                    "name": "Edison",
-                    "votes": 7
+                    "name": "Court House",
+                    "votes": 9
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 21
+                    "name": "Old Head Start",
+                    "votes": 23
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 10
+                    "name": "Days Cross Road",
+                    "votes": 36
                   }
                 ]
               },
@@ -771,23 +771,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Bluffton",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Zetto",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Court House",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Old Head Start",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
+                    "name": "Days Cross Road",
                     "votes": 0
                   }
                 ]
@@ -797,108 +797,108 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 812,
+            "totalVotes": 693,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 215,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 0
+                    "name": "Bluffton",
+                    "votes": 29
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 0
+                    "name": "Zetto",
+                    "votes": 51
                   },
                   {
-                    "name": "Edison",
-                    "votes": 0
+                    "name": "Court House",
+                    "votes": 65
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 0
+                    "name": "Old Head Start",
+                    "votes": 41
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 0
+                    "name": "Days Cross Road",
+                    "votes": 29
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 387,
+                "votes": 246,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 78
+                    "name": "Bluffton",
+                    "votes": 29
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 55
+                    "name": "Zetto",
+                    "votes": 50
                   },
                   {
-                    "name": "Edison",
-                    "votes": 74
+                    "name": "Court House",
+                    "votes": 62
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 95
+                    "name": "Old Head Start",
+                    "votes": 61
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 85
+                    "name": "Days Cross Road",
+                    "votes": 44
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 425,
+                "votes": 231,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 94
+                    "name": "Bluffton",
+                    "votes": 35
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 55
+                    "name": "Zetto",
+                    "votes": 34
                   },
                   {
-                    "name": "Edison",
-                    "votes": 54
+                    "name": "Court House",
+                    "votes": 49
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 69
+                    "name": "Old Head Start",
+                    "votes": 64
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 153
+                    "name": "Days Cross Road",
+                    "votes": 49
                   }
                 ]
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Bluffton",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Zetto",
+                    "votes": 1
+                  },
+                  {
+                    "name": "Court House",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Old Head Start",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Arlington",
+                    "name": "Days Cross Road",
                     "votes": 0
                   }
                 ]

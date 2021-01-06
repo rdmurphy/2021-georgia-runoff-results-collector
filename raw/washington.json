@@ -1,0 +1,1293 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:13:51 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Washington",
+    "VoterTurnout": {
+      "totalVoters": 13152,
+      "ballotsCast": 5639,
+      "voterTurnout": 42.88,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Riddleville",
+            "totalVoters": 562,
+            "ballotsCast": 199,
+            "voterTurnout": 35.41,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Warthen",
+            "totalVoters": 751,
+            "ballotsCast": 284,
+            "voterTurnout": 37.82,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Tennille",
+            "totalVoters": 2549,
+            "ballotsCast": 1051,
+            "voterTurnout": 41.23,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Oconee",
+            "totalVoters": 590,
+            "ballotsCast": 201,
+            "voterTurnout": 34.07,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Harrison",
+            "totalVoters": 1032,
+            "ballotsCast": 380,
+            "voterTurnout": 36.82,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Davisboro",
+            "totalVoters": 831,
+            "ballotsCast": 281,
+            "voterTurnout": 33.81,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Sandersville",
+            "totalVoters": 6280,
+            "ballotsCast": 3069,
+            "voterTurnout": 48.87,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Deepstep",
+            "totalVoters": 557,
+            "ballotsCast": 174,
+            "voterTurnout": 31.24,
+            "percentReporting": "2"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 8,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 25,
+            "Precinct": [
+              {
+                "name": "Riddleville",
+                "votes": 2
+              },
+              {
+                "name": "Warthen",
+                "votes": 0
+              },
+              {
+                "name": "Tennille",
+                "votes": 5
+              },
+              {
+                "name": "Oconee",
+                "votes": 1
+              },
+              {
+                "name": "Harrison",
+                "votes": 3
+              },
+              {
+                "name": "Davisboro",
+                "votes": 2
+              },
+              {
+                "name": "Sandersville",
+                "votes": 12
+              },
+              {
+                "name": "Deepstep",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Riddleville",
+                "votes": 0
+              },
+              {
+                "name": "Warthen",
+                "votes": 0
+              },
+              {
+                "name": "Tennille",
+                "votes": 0
+              },
+              {
+                "name": "Oconee",
+                "votes": 0
+              },
+              {
+                "name": "Harrison",
+                "votes": 0
+              },
+              {
+                "name": "Davisboro",
+                "votes": 0
+              },
+              {
+                "name": "Sandersville",
+                "votes": 0
+              },
+              {
+                "name": "Deepstep",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 2447,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Riddleville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warthen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tennille",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oconee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Harrison",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davisboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sandersville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Deepstep",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1881,
+                "Precinct": [
+                  {
+                    "name": "Riddleville",
+                    "votes": 74
+                  },
+                  {
+                    "name": "Warthen",
+                    "votes": 92
+                  },
+                  {
+                    "name": "Tennille",
+                    "votes": 319
+                  },
+                  {
+                    "name": "Oconee",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Harrison",
+                    "votes": 174
+                  },
+                  {
+                    "name": "Davisboro",
+                    "votes": 104
+                  },
+                  {
+                    "name": "Sandersville",
+                    "votes": 985
+                  },
+                  {
+                    "name": "Deepstep",
+                    "votes": 77
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 566,
+                "Precinct": [
+                  {
+                    "name": "Riddleville",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Warthen",
+                    "votes": 48
+                  },
+                  {
+                    "name": "Tennille",
+                    "votes": 86
+                  },
+                  {
+                    "name": "Oconee",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Harrison",
+                    "votes": 53
+                  },
+                  {
+                    "name": "Davisboro",
+                    "votes": 43
+                  },
+                  {
+                    "name": "Sandersville",
+                    "votes": 274
+                  },
+                  {
+                    "name": "Deepstep",
+                    "votes": 18
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Riddleville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warthen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tennille",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oconee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Harrison",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davisboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sandersville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Deepstep",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 3167,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Riddleville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warthen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tennille",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oconee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Harrison",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davisboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sandersville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Deepstep",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1573,
+                "Precinct": [
+                  {
+                    "name": "Riddleville",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Warthen",
+                    "votes": 55
+                  },
+                  {
+                    "name": "Tennille",
+                    "votes": 378
+                  },
+                  {
+                    "name": "Oconee",
+                    "votes": 55
+                  },
+                  {
+                    "name": "Harrison",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Davisboro",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Sandersville",
+                    "votes": 896
+                  },
+                  {
+                    "name": "Deepstep",
+                    "votes": 33
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1594,
+                "Precinct": [
+                  {
+                    "name": "Riddleville",
+                    "votes": 59
+                  },
+                  {
+                    "name": "Warthen",
+                    "votes": 89
+                  },
+                  {
+                    "name": "Tennille",
+                    "votes": 263
+                  },
+                  {
+                    "name": "Oconee",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Harrison",
+                    "votes": 83
+                  },
+                  {
+                    "name": "Davisboro",
+                    "votes": 82
+                  },
+                  {
+                    "name": "Sandersville",
+                    "votes": 902
+                  },
+                  {
+                    "name": "Deepstep",
+                    "votes": 46
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Riddleville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warthen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tennille",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oconee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Harrison",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davisboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sandersville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Deepstep",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 8,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 13,
+            "Precinct": [
+              {
+                "name": "Riddleville",
+                "votes": 1
+              },
+              {
+                "name": "Warthen",
+                "votes": 0
+              },
+              {
+                "name": "Tennille",
+                "votes": 5
+              },
+              {
+                "name": "Oconee",
+                "votes": 0
+              },
+              {
+                "name": "Harrison",
+                "votes": 1
+              },
+              {
+                "name": "Davisboro",
+                "votes": 2
+              },
+              {
+                "name": "Sandersville",
+                "votes": 4
+              },
+              {
+                "name": "Deepstep",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Riddleville",
+                "votes": 0
+              },
+              {
+                "name": "Warthen",
+                "votes": 0
+              },
+              {
+                "name": "Tennille",
+                "votes": 0
+              },
+              {
+                "name": "Oconee",
+                "votes": 0
+              },
+              {
+                "name": "Harrison",
+                "votes": 0
+              },
+              {
+                "name": "Davisboro",
+                "votes": 0
+              },
+              {
+                "name": "Sandersville",
+                "votes": 0
+              },
+              {
+                "name": "Deepstep",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 2431,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Riddleville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warthen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tennille",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oconee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Harrison",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davisboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sandersville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Deepstep",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1866,
+                "Precinct": [
+                  {
+                    "name": "Riddleville",
+                    "votes": 74
+                  },
+                  {
+                    "name": "Warthen",
+                    "votes": 92
+                  },
+                  {
+                    "name": "Tennille",
+                    "votes": 316
+                  },
+                  {
+                    "name": "Oconee",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Harrison",
+                    "votes": 171
+                  },
+                  {
+                    "name": "Davisboro",
+                    "votes": 104
+                  },
+                  {
+                    "name": "Sandersville",
+                    "votes": 978
+                  },
+                  {
+                    "name": "Deepstep",
+                    "votes": 75
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 565,
+                "Precinct": [
+                  {
+                    "name": "Riddleville",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Warthen",
+                    "votes": 46
+                  },
+                  {
+                    "name": "Tennille",
+                    "votes": 87
+                  },
+                  {
+                    "name": "Oconee",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Harrison",
+                    "votes": 53
+                  },
+                  {
+                    "name": "Davisboro",
+                    "votes": 44
+                  },
+                  {
+                    "name": "Sandersville",
+                    "votes": 274
+                  },
+                  {
+                    "name": "Deepstep",
+                    "votes": 17
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Riddleville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warthen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tennille",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oconee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Harrison",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davisboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sandersville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Deepstep",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 3195,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Riddleville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warthen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tennille",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oconee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Harrison",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davisboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sandersville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Deepstep",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1591,
+                "Precinct": [
+                  {
+                    "name": "Riddleville",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Warthen",
+                    "votes": 55
+                  },
+                  {
+                    "name": "Tennille",
+                    "votes": 380
+                  },
+                  {
+                    "name": "Oconee",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Harrison",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Davisboro",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Sandersville",
+                    "votes": 905
+                  },
+                  {
+                    "name": "Deepstep",
+                    "votes": 35
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1604,
+                "Precinct": [
+                  {
+                    "name": "Riddleville",
+                    "votes": 60
+                  },
+                  {
+                    "name": "Warthen",
+                    "votes": 91
+                  },
+                  {
+                    "name": "Tennille",
+                    "votes": 263
+                  },
+                  {
+                    "name": "Oconee",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Harrison",
+                    "votes": 84
+                  },
+                  {
+                    "name": "Davisboro",
+                    "votes": 81
+                  },
+                  {
+                    "name": "Sandersville",
+                    "votes": 908
+                  },
+                  {
+                    "name": "Deepstep",
+                    "votes": 47
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Riddleville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warthen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tennille",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oconee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Harrison",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davisboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sandersville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Deepstep",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 8,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 168,
+            "Precinct": [
+              {
+                "name": "Riddleville",
+                "votes": 6
+              },
+              {
+                "name": "Warthen",
+                "votes": 4
+              },
+              {
+                "name": "Tennille",
+                "votes": 39
+              },
+              {
+                "name": "Oconee",
+                "votes": 9
+              },
+              {
+                "name": "Harrison",
+                "votes": 16
+              },
+              {
+                "name": "Davisboro",
+                "votes": 3
+              },
+              {
+                "name": "Sandersville",
+                "votes": 89
+              },
+              {
+                "name": "Deepstep",
+                "votes": 2
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Riddleville",
+                "votes": 0
+              },
+              {
+                "name": "Warthen",
+                "votes": 0
+              },
+              {
+                "name": "Tennille",
+                "votes": 0
+              },
+              {
+                "name": "Oconee",
+                "votes": 0
+              },
+              {
+                "name": "Harrison",
+                "votes": 0
+              },
+              {
+                "name": "Davisboro",
+                "votes": 0
+              },
+              {
+                "name": "Sandersville",
+                "votes": 0
+              },
+              {
+                "name": "Deepstep",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 2425,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Riddleville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warthen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tennille",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oconee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Harrison",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davisboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sandersville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Deepstep",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1850,
+                "Precinct": [
+                  {
+                    "name": "Riddleville",
+                    "votes": 74
+                  },
+                  {
+                    "name": "Warthen",
+                    "votes": 89
+                  },
+                  {
+                    "name": "Tennille",
+                    "votes": 315
+                  },
+                  {
+                    "name": "Oconee",
+                    "votes": 51
+                  },
+                  {
+                    "name": "Harrison",
+                    "votes": 170
+                  },
+                  {
+                    "name": "Davisboro",
+                    "votes": 102
+                  },
+                  {
+                    "name": "Sandersville",
+                    "votes": 973
+                  },
+                  {
+                    "name": "Deepstep",
+                    "votes": 76
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 575,
+                "Precinct": [
+                  {
+                    "name": "Riddleville",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Warthen",
+                    "votes": 51
+                  },
+                  {
+                    "name": "Tennille",
+                    "votes": 86
+                  },
+                  {
+                    "name": "Oconee",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Harrison",
+                    "votes": 52
+                  },
+                  {
+                    "name": "Davisboro",
+                    "votes": 43
+                  },
+                  {
+                    "name": "Sandersville",
+                    "votes": 282
+                  },
+                  {
+                    "name": "Deepstep",
+                    "votes": 18
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Riddleville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warthen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tennille",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oconee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Harrison",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davisboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sandersville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Deepstep",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 3046,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Riddleville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warthen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tennille",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oconee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Harrison",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davisboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sandersville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Deepstep",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1514,
+                "Precinct": [
+                  {
+                    "name": "Riddleville",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Warthen",
+                    "votes": 54
+                  },
+                  {
+                    "name": "Tennille",
+                    "votes": 363
+                  },
+                  {
+                    "name": "Oconee",
+                    "votes": 53
+                  },
+                  {
+                    "name": "Harrison",
+                    "votes": 66
+                  },
+                  {
+                    "name": "Davisboro",
+                    "votes": 51
+                  },
+                  {
+                    "name": "Sandersville",
+                    "votes": 855
+                  },
+                  {
+                    "name": "Deepstep",
+                    "votes": 33
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1532,
+                "Precinct": [
+                  {
+                    "name": "Riddleville",
+                    "votes": 55
+                  },
+                  {
+                    "name": "Warthen",
+                    "votes": 86
+                  },
+                  {
+                    "name": "Tennille",
+                    "votes": 248
+                  },
+                  {
+                    "name": "Oconee",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Harrison",
+                    "votes": 76
+                  },
+                  {
+                    "name": "Davisboro",
+                    "votes": 82
+                  },
+                  {
+                    "name": "Sandersville",
+                    "votes": 870
+                  },
+                  {
+                    "name": "Deepstep",
+                    "votes": 45
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Riddleville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warthen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tennille",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oconee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Harrison",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davisboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sandersville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Deepstep",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

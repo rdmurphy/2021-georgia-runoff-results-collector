@@ -1,0 +1,1293 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:23:59 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Cook",
+    "VoterTurnout": {
+      "totalVoters": 10887,
+      "ballotsCast": 6216,
+      "voterTurnout": 57.1,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Cecil",
+            "totalVoters": 1935,
+            "ballotsCast": 1006,
+            "voterTurnout": 51.99,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Delle Beamguard",
+            "totalVoters": 2499,
+            "ballotsCast": 1483,
+            "voterTurnout": 59.34,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Elm Pine",
+            "totalVoters": 535,
+            "ballotsCast": 266,
+            "voterTurnout": 49.72,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Lenox",
+            "totalVoters": 1301,
+            "ballotsCast": 800,
+            "voterTurnout": 61.49,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Massee",
+            "totalVoters": 944,
+            "ballotsCast": 578,
+            "voterTurnout": 61.23,
+            "percentReporting": "4"
+          },
+          {
+            "name": "New Life Baptist Church",
+            "totalVoters": 1270,
+            "ballotsCast": 784,
+            "voterTurnout": 61.73,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Riverbend",
+            "totalVoters": 1319,
+            "ballotsCast": 805,
+            "voterTurnout": 61.03,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Sparks",
+            "totalVoters": 1084,
+            "ballotsCast": 494,
+            "voterTurnout": 45.57,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 8,
+        "precinctsReported": 8,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 11,
+            "Precinct": [
+              {
+                "name": "Cecil",
+                "votes": 0
+              },
+              {
+                "name": "Delle Beamguard",
+                "votes": 3
+              },
+              {
+                "name": "Elm Pine",
+                "votes": 3
+              },
+              {
+                "name": "Lenox",
+                "votes": 0
+              },
+              {
+                "name": "Massee",
+                "votes": 0
+              },
+              {
+                "name": "New Life Baptist Church",
+                "votes": 2
+              },
+              {
+                "name": "Riverbend",
+                "votes": 0
+              },
+              {
+                "name": "Sparks",
+                "votes": 3
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Cecil",
+                "votes": 0
+              },
+              {
+                "name": "Delle Beamguard",
+                "votes": 0
+              },
+              {
+                "name": "Elm Pine",
+                "votes": 0
+              },
+              {
+                "name": "Lenox",
+                "votes": 0
+              },
+              {
+                "name": "Massee",
+                "votes": 0
+              },
+              {
+                "name": "New Life Baptist Church",
+                "votes": 0
+              },
+              {
+                "name": "Riverbend",
+                "votes": 0
+              },
+              {
+                "name": "Sparks",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 4313,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1523,
+                "Precinct": [
+                  {
+                    "name": "Cecil",
+                    "votes": 192
+                  },
+                  {
+                    "name": "Delle Beamguard",
+                    "votes": 331
+                  },
+                  {
+                    "name": "Elm Pine",
+                    "votes": 2
+                  },
+                  {
+                    "name": "Lenox",
+                    "votes": 299
+                  },
+                  {
+                    "name": "Massee",
+                    "votes": 143
+                  },
+                  {
+                    "name": "New Life Baptist Church",
+                    "votes": 285
+                  },
+                  {
+                    "name": "Riverbend",
+                    "votes": 197
+                  },
+                  {
+                    "name": "Sparks",
+                    "votes": 74
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2435,
+                "Precinct": [
+                  {
+                    "name": "Cecil",
+                    "votes": 319
+                  },
+                  {
+                    "name": "Delle Beamguard",
+                    "votes": 674
+                  },
+                  {
+                    "name": "Elm Pine",
+                    "votes": 7
+                  },
+                  {
+                    "name": "Lenox",
+                    "votes": 281
+                  },
+                  {
+                    "name": "Massee",
+                    "votes": 304
+                  },
+                  {
+                    "name": "New Life Baptist Church",
+                    "votes": 347
+                  },
+                  {
+                    "name": "Riverbend",
+                    "votes": 416
+                  },
+                  {
+                    "name": "Sparks",
+                    "votes": 87
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 355,
+                "Precinct": [
+                  {
+                    "name": "Cecil",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Delle Beamguard",
+                    "votes": 103
+                  },
+                  {
+                    "name": "Elm Pine",
+                    "votes": 3
+                  },
+                  {
+                    "name": "Lenox",
+                    "votes": 48
+                  },
+                  {
+                    "name": "Massee",
+                    "votes": 21
+                  },
+                  {
+                    "name": "New Life Baptist Church",
+                    "votes": 45
+                  },
+                  {
+                    "name": "Riverbend",
+                    "votes": 79
+                  },
+                  {
+                    "name": "Sparks",
+                    "votes": 17
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Cecil",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Delle Beamguard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Elm Pine",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lenox",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Massee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Life Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Riverbend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sparks",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 1892,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 541,
+                "Precinct": [
+                  {
+                    "name": "Cecil",
+                    "votes": 97
+                  },
+                  {
+                    "name": "Delle Beamguard",
+                    "votes": 93
+                  },
+                  {
+                    "name": "Elm Pine",
+                    "votes": 87
+                  },
+                  {
+                    "name": "Lenox",
+                    "votes": 79
+                  },
+                  {
+                    "name": "Massee",
+                    "votes": 19
+                  },
+                  {
+                    "name": "New Life Baptist Church",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Riverbend",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Sparks",
+                    "votes": 128
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 865,
+                "Precinct": [
+                  {
+                    "name": "Cecil",
+                    "votes": 246
+                  },
+                  {
+                    "name": "Delle Beamguard",
+                    "votes": 166
+                  },
+                  {
+                    "name": "Elm Pine",
+                    "votes": 99
+                  },
+                  {
+                    "name": "Lenox",
+                    "votes": 54
+                  },
+                  {
+                    "name": "Massee",
+                    "votes": 63
+                  },
+                  {
+                    "name": "New Life Baptist Church",
+                    "votes": 61
+                  },
+                  {
+                    "name": "Riverbend",
+                    "votes": 59
+                  },
+                  {
+                    "name": "Sparks",
+                    "votes": 117
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 486,
+                "Precinct": [
+                  {
+                    "name": "Cecil",
+                    "votes": 113
+                  },
+                  {
+                    "name": "Delle Beamguard",
+                    "votes": 113
+                  },
+                  {
+                    "name": "Elm Pine",
+                    "votes": 65
+                  },
+                  {
+                    "name": "Lenox",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Massee",
+                    "votes": 28
+                  },
+                  {
+                    "name": "New Life Baptist Church",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Riverbend",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Sparks",
+                    "votes": 68
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Cecil",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Delle Beamguard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Elm Pine",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lenox",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Massee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Life Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Riverbend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sparks",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 8,
+        "precinctsReported": 8,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 13,
+            "Precinct": [
+              {
+                "name": "Cecil",
+                "votes": 3
+              },
+              {
+                "name": "Delle Beamguard",
+                "votes": 3
+              },
+              {
+                "name": "Elm Pine",
+                "votes": 0
+              },
+              {
+                "name": "Lenox",
+                "votes": 2
+              },
+              {
+                "name": "Massee",
+                "votes": 0
+              },
+              {
+                "name": "New Life Baptist Church",
+                "votes": 2
+              },
+              {
+                "name": "Riverbend",
+                "votes": 0
+              },
+              {
+                "name": "Sparks",
+                "votes": 3
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Cecil",
+                "votes": 0
+              },
+              {
+                "name": "Delle Beamguard",
+                "votes": 0
+              },
+              {
+                "name": "Elm Pine",
+                "votes": 0
+              },
+              {
+                "name": "Lenox",
+                "votes": 0
+              },
+              {
+                "name": "Massee",
+                "votes": 0
+              },
+              {
+                "name": "New Life Baptist Church",
+                "votes": 0
+              },
+              {
+                "name": "Riverbend",
+                "votes": 0
+              },
+              {
+                "name": "Sparks",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 4310,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1521,
+                "Precinct": [
+                  {
+                    "name": "Cecil",
+                    "votes": 192
+                  },
+                  {
+                    "name": "Delle Beamguard",
+                    "votes": 329
+                  },
+                  {
+                    "name": "Elm Pine",
+                    "votes": 2
+                  },
+                  {
+                    "name": "Lenox",
+                    "votes": 297
+                  },
+                  {
+                    "name": "Massee",
+                    "votes": 143
+                  },
+                  {
+                    "name": "New Life Baptist Church",
+                    "votes": 287
+                  },
+                  {
+                    "name": "Riverbend",
+                    "votes": 197
+                  },
+                  {
+                    "name": "Sparks",
+                    "votes": 74
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2432,
+                "Precinct": [
+                  {
+                    "name": "Cecil",
+                    "votes": 319
+                  },
+                  {
+                    "name": "Delle Beamguard",
+                    "votes": 675
+                  },
+                  {
+                    "name": "Elm Pine",
+                    "votes": 5
+                  },
+                  {
+                    "name": "Lenox",
+                    "votes": 283
+                  },
+                  {
+                    "name": "Massee",
+                    "votes": 304
+                  },
+                  {
+                    "name": "New Life Baptist Church",
+                    "votes": 346
+                  },
+                  {
+                    "name": "Riverbend",
+                    "votes": 416
+                  },
+                  {
+                    "name": "Sparks",
+                    "votes": 84
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 357,
+                "Precinct": [
+                  {
+                    "name": "Cecil",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Delle Beamguard",
+                    "votes": 105
+                  },
+                  {
+                    "name": "Elm Pine",
+                    "votes": 3
+                  },
+                  {
+                    "name": "Lenox",
+                    "votes": 47
+                  },
+                  {
+                    "name": "Massee",
+                    "votes": 23
+                  },
+                  {
+                    "name": "New Life Baptist Church",
+                    "votes": 45
+                  },
+                  {
+                    "name": "Riverbend",
+                    "votes": 79
+                  },
+                  {
+                    "name": "Sparks",
+                    "votes": 16
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Cecil",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Delle Beamguard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Elm Pine",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lenox",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Massee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Life Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Riverbend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sparks",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 1893,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 545,
+                "Precinct": [
+                  {
+                    "name": "Cecil",
+                    "votes": 97
+                  },
+                  {
+                    "name": "Delle Beamguard",
+                    "votes": 95
+                  },
+                  {
+                    "name": "Elm Pine",
+                    "votes": 88
+                  },
+                  {
+                    "name": "Lenox",
+                    "votes": 80
+                  },
+                  {
+                    "name": "Massee",
+                    "votes": 19
+                  },
+                  {
+                    "name": "New Life Baptist Church",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Riverbend",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Sparks",
+                    "votes": 129
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 867,
+                "Precinct": [
+                  {
+                    "name": "Cecil",
+                    "votes": 246
+                  },
+                  {
+                    "name": "Delle Beamguard",
+                    "votes": 165
+                  },
+                  {
+                    "name": "Elm Pine",
+                    "votes": 102
+                  },
+                  {
+                    "name": "Lenox",
+                    "votes": 51
+                  },
+                  {
+                    "name": "Massee",
+                    "votes": 63
+                  },
+                  {
+                    "name": "New Life Baptist Church",
+                    "votes": 61
+                  },
+                  {
+                    "name": "Riverbend",
+                    "votes": 59
+                  },
+                  {
+                    "name": "Sparks",
+                    "votes": 120
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 481,
+                "Precinct": [
+                  {
+                    "name": "Cecil",
+                    "votes": 110
+                  },
+                  {
+                    "name": "Delle Beamguard",
+                    "votes": 111
+                  },
+                  {
+                    "name": "Elm Pine",
+                    "votes": 66
+                  },
+                  {
+                    "name": "Lenox",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Massee",
+                    "votes": 26
+                  },
+                  {
+                    "name": "New Life Baptist Church",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Riverbend",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Sparks",
+                    "votes": 68
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Cecil",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Delle Beamguard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Elm Pine",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lenox",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Massee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Life Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Riverbend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sparks",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 8,
+        "precinctsReported": 8,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 69,
+            "Precinct": [
+              {
+                "name": "Cecil",
+                "votes": 14
+              },
+              {
+                "name": "Delle Beamguard",
+                "votes": 13
+              },
+              {
+                "name": "Elm Pine",
+                "votes": 7
+              },
+              {
+                "name": "Lenox",
+                "votes": 10
+              },
+              {
+                "name": "Massee",
+                "votes": 3
+              },
+              {
+                "name": "New Life Baptist Church",
+                "votes": 9
+              },
+              {
+                "name": "Riverbend",
+                "votes": 5
+              },
+              {
+                "name": "Sparks",
+                "votes": 8
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Cecil",
+                "votes": 0
+              },
+              {
+                "name": "Delle Beamguard",
+                "votes": 0
+              },
+              {
+                "name": "Elm Pine",
+                "votes": 0
+              },
+              {
+                "name": "Lenox",
+                "votes": 0
+              },
+              {
+                "name": "Massee",
+                "votes": 0
+              },
+              {
+                "name": "New Life Baptist Church",
+                "votes": 0
+              },
+              {
+                "name": "Riverbend",
+                "votes": 0
+              },
+              {
+                "name": "Sparks",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 4310,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1525,
+                "Precinct": [
+                  {
+                    "name": "Cecil",
+                    "votes": 194
+                  },
+                  {
+                    "name": "Delle Beamguard",
+                    "votes": 328
+                  },
+                  {
+                    "name": "Elm Pine",
+                    "votes": 3
+                  },
+                  {
+                    "name": "Lenox",
+                    "votes": 300
+                  },
+                  {
+                    "name": "Massee",
+                    "votes": 144
+                  },
+                  {
+                    "name": "New Life Baptist Church",
+                    "votes": 283
+                  },
+                  {
+                    "name": "Riverbend",
+                    "votes": 197
+                  },
+                  {
+                    "name": "Sparks",
+                    "votes": 76
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2427,
+                "Precinct": [
+                  {
+                    "name": "Cecil",
+                    "votes": 315
+                  },
+                  {
+                    "name": "Delle Beamguard",
+                    "votes": 674
+                  },
+                  {
+                    "name": "Elm Pine",
+                    "votes": 6
+                  },
+                  {
+                    "name": "Lenox",
+                    "votes": 282
+                  },
+                  {
+                    "name": "Massee",
+                    "votes": 305
+                  },
+                  {
+                    "name": "New Life Baptist Church",
+                    "votes": 346
+                  },
+                  {
+                    "name": "Riverbend",
+                    "votes": 414
+                  },
+                  {
+                    "name": "Sparks",
+                    "votes": 85
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 358,
+                "Precinct": [
+                  {
+                    "name": "Cecil",
+                    "votes": 37
+                  },
+                  {
+                    "name": "Delle Beamguard",
+                    "votes": 104
+                  },
+                  {
+                    "name": "Elm Pine",
+                    "votes": 4
+                  },
+                  {
+                    "name": "Lenox",
+                    "votes": 47
+                  },
+                  {
+                    "name": "Massee",
+                    "votes": 22
+                  },
+                  {
+                    "name": "New Life Baptist Church",
+                    "votes": 46
+                  },
+                  {
+                    "name": "Riverbend",
+                    "votes": 80
+                  },
+                  {
+                    "name": "Sparks",
+                    "votes": 18
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Cecil",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Delle Beamguard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Elm Pine",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lenox",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Massee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Life Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Riverbend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sparks",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 1837,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 528,
+                "Precinct": [
+                  {
+                    "name": "Cecil",
+                    "votes": 93
+                  },
+                  {
+                    "name": "Delle Beamguard",
+                    "votes": 96
+                  },
+                  {
+                    "name": "Elm Pine",
+                    "votes": 84
+                  },
+                  {
+                    "name": "Lenox",
+                    "votes": 76
+                  },
+                  {
+                    "name": "Massee",
+                    "votes": 18
+                  },
+                  {
+                    "name": "New Life Baptist Church",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Riverbend",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Sparks",
+                    "votes": 123
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 840,
+                "Precinct": [
+                  {
+                    "name": "Cecil",
+                    "votes": 243
+                  },
+                  {
+                    "name": "Delle Beamguard",
+                    "votes": 158
+                  },
+                  {
+                    "name": "Elm Pine",
+                    "votes": 99
+                  },
+                  {
+                    "name": "Lenox",
+                    "votes": 47
+                  },
+                  {
+                    "name": "Massee",
+                    "votes": 59
+                  },
+                  {
+                    "name": "New Life Baptist Church",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Riverbend",
+                    "votes": 57
+                  },
+                  {
+                    "name": "Sparks",
+                    "votes": 119
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 469,
+                "Precinct": [
+                  {
+                    "name": "Cecil",
+                    "votes": 110
+                  },
+                  {
+                    "name": "Delle Beamguard",
+                    "votes": 110
+                  },
+                  {
+                    "name": "Elm Pine",
+                    "votes": 63
+                  },
+                  {
+                    "name": "Lenox",
+                    "votes": 38
+                  },
+                  {
+                    "name": "Massee",
+                    "votes": 27
+                  },
+                  {
+                    "name": "New Life Baptist Church",
+                    "votes": 22
+                  },
+                  {
+                    "name": "Riverbend",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Sparks",
+                    "votes": 65
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Cecil",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Delle Beamguard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Elm Pine",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lenox",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Massee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Life Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Riverbend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sparks",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
