@@ -1,48 +1,48 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:34:45 PM EST",
+    "Timestamp": "1/5/2021 9:55:39 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Clinch",
     "VoterTurnout": {
       "totalVoters": 4386,
-      "ballotsCast": 2201,
-      "voterTurnout": 50.18,
+      "ballotsCast": 2460,
+      "voterTurnout": 56.09,
       "Precincts": {
         "Precinct": [
           {
             "name": "Arabia",
             "totalVoters": 109,
-            "ballotsCast": 72,
-            "voterTurnout": 66.06,
+            "ballotsCast": 75,
+            "voterTurnout": 68.81,
             "percentReporting": "4"
           },
           {
             "name": "Argyle",
             "totalVoters": 377,
-            "ballotsCast": 196,
-            "voterTurnout": 51.99,
+            "ballotsCast": 210,
+            "voterTurnout": 55.7,
             "percentReporting": "4"
           },
           {
             "name": "Dupont",
             "totalVoters": 344,
-            "ballotsCast": 190,
-            "voterTurnout": 55.23,
+            "ballotsCast": 207,
+            "voterTurnout": 60.17,
             "percentReporting": "4"
           },
           {
             "name": "Fargo",
             "totalVoters": 268,
-            "ballotsCast": 147,
-            "voterTurnout": 54.85,
+            "ballotsCast": 156,
+            "voterTurnout": 58.21,
             "percentReporting": "4"
           },
           {
             "name": "Homerville",
             "totalVoters": 3288,
-            "ballotsCast": 1596,
-            "voterTurnout": 48.54,
+            "ballotsCast": 1812,
+            "voterTurnout": 55.11,
             "percentReporting": "4"
           }
         ]
@@ -59,7 +59,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 5,
+            "votes": 7,
             "Precinct": [
               {
                 "name": "Arabia",
@@ -79,7 +79,7 @@
               },
               {
                 "name": "Homerville",
-                "votes": 5
+                "votes": 7
               }
             ]
           },
@@ -114,7 +114,7 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 1692,
+            "totalVotes": 1839,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -170,7 +170,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 147,
                 "Precinct": [
                   {
                     "name": "Arabia",
@@ -178,19 +178,19 @@
                   },
                   {
                     "name": "Argyle",
-                    "votes": 0
+                    "votes": 9
                   },
                   {
                     "name": "Dupont",
-                    "votes": 0
+                    "votes": 6
                   },
                   {
                     "name": "Fargo",
-                    "votes": 0
+                    "votes": 6
                   },
                   {
                     "name": "Homerville",
-                    "votes": 0
+                    "votes": 126
                   }
                 ]
               },
@@ -225,7 +225,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 504,
+            "totalVotes": 614,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -281,27 +281,27 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 110,
                 "Precinct": [
                   {
                     "name": "Arabia",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Argyle",
-                    "votes": 0
+                    "votes": 5
                   },
                   {
                     "name": "Dupont",
-                    "votes": 0
+                    "votes": 11
                   },
                   {
                     "name": "Fargo",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Homerville",
-                    "votes": 0
+                    "votes": 88
                   }
                 ]
               },
@@ -345,7 +345,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 5,
+            "votes": 6,
             "Precinct": [
               {
                 "name": "Arabia",
@@ -365,7 +365,7 @@
               },
               {
                 "name": "Homerville",
-                "votes": 4
+                "votes": 5
               }
             ]
           },
@@ -400,7 +400,7 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 1689,
+            "totalVotes": 1839,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -456,7 +456,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 150,
                 "Precinct": [
                   {
                     "name": "Arabia",
@@ -464,19 +464,19 @@
                   },
                   {
                     "name": "Argyle",
-                    "votes": 0
+                    "votes": 9
                   },
                   {
                     "name": "Dupont",
-                    "votes": 0
+                    "votes": 6
                   },
                   {
                     "name": "Fargo",
-                    "votes": 0
+                    "votes": 7
                   },
                   {
                     "name": "Homerville",
-                    "votes": 0
+                    "votes": 128
                   }
                 ]
               },
@@ -511,7 +511,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 507,
+            "totalVotes": 615,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -567,27 +567,27 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 108,
                 "Precinct": [
                   {
                     "name": "Arabia",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Argyle",
-                    "votes": 0
+                    "votes": 5
                   },
                   {
                     "name": "Dupont",
-                    "votes": 0
+                    "votes": 11
                   },
                   {
                     "name": "Fargo",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Homerville",
-                    "votes": 0
+                    "votes": 87
                   }
                 ]
               },
@@ -631,7 +631,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 58,
+            "votes": 66,
             "Precinct": [
               {
                 "name": "Arabia",
@@ -639,7 +639,7 @@
               },
               {
                 "name": "Argyle",
-                "votes": 6
+                "votes": 8
               },
               {
                 "name": "Dupont",
@@ -651,7 +651,7 @@
               },
               {
                 "name": "Homerville",
-                "votes": 44
+                "votes": 50
               }
             ]
           },
@@ -686,7 +686,7 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 1667,
+            "totalVotes": 1810,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -742,7 +742,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 143,
                 "Precinct": [
                   {
                     "name": "Arabia",
@@ -750,19 +750,19 @@
                   },
                   {
                     "name": "Argyle",
-                    "votes": 0
+                    "votes": 7
                   },
                   {
                     "name": "Dupont",
-                    "votes": 0
+                    "votes": 5
                   },
                   {
                     "name": "Fargo",
-                    "votes": 0
+                    "votes": 7
                   },
                   {
                     "name": "Homerville",
-                    "votes": 0
+                    "votes": 124
                   }
                 ]
               },
@@ -797,7 +797,7 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 476,
+            "totalVotes": 583,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -853,27 +853,27 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 107,
                 "Precinct": [
                   {
                     "name": "Arabia",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Argyle",
-                    "votes": 0
+                    "votes": 5
                   },
                   {
                     "name": "Dupont",
-                    "votes": 0
+                    "votes": 12
                   },
                   {
                     "name": "Fargo",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Homerville",
-                    "votes": 0
+                    "votes": 86
                   }
                 ]
               },

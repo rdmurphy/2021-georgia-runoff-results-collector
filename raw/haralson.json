@@ -1,21 +1,21 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:48:25 PM EST",
+    "Timestamp": "1/5/2021 9:53:09 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Haralson",
     "VoterTurnout": {
       "totalVoters": 21062,
-      "ballotsCast": 8949,
-      "voterTurnout": 42.49,
+      "ballotsCast": 12175,
+      "voterTurnout": 57.81,
       "Precincts": {
         "Precinct": [
           {
             "name": "Bremen",
             "totalVoters": 6737,
-            "ballotsCast": 2382,
-            "voterTurnout": 35.36,
-            "percentReporting": "2"
+            "ballotsCast": 3805,
+            "voterTurnout": 56.48,
+            "percentReporting": "4"
           },
           {
             "name": "Buchanan",
@@ -27,16 +27,16 @@
           {
             "name": "Buncombe",
             "totalVoters": 1101,
-            "ballotsCast": 275,
-            "voterTurnout": 24.98,
-            "percentReporting": "2"
+            "ballotsCast": 603,
+            "voterTurnout": 54.77,
+            "percentReporting": "4"
           },
           {
             "name": "Corinth",
             "totalVoters": 1720,
-            "ballotsCast": 515,
-            "voterTurnout": 29.94,
-            "percentReporting": "2"
+            "ballotsCast": 985,
+            "voterTurnout": 57.27,
+            "percentReporting": "4"
           },
           {
             "name": "Twentieth",
@@ -76,16 +76,16 @@
           {
             "name": "Berea-Steadman",
             "totalVoters": 678,
-            "ballotsCast": 159,
-            "voterTurnout": 23.45,
-            "percentReporting": "2"
+            "ballotsCast": 408,
+            "voterTurnout": 60.18,
+            "percentReporting": "4"
           },
           {
             "name": "Tallapoosa",
             "totalVoters": 3126,
-            "ballotsCast": 979,
-            "voterTurnout": 31.32,
-            "percentReporting": "2"
+            "ballotsCast": 1735,
+            "voterTurnout": 55.5,
+            "percentReporting": "4"
           },
           {
             "name": "Waco",
@@ -104,11 +104,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 12,
-        "precinctsReported": 7,
+        "precinctsReported": 12,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 13,
+            "votes": 15,
             "Precinct": [
               {
                 "name": "Bremen",
@@ -148,11 +148,11 @@
               },
               {
                 "name": "Berea-Steadman",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Tallapoosa",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "Waco",
@@ -219,15 +219,15 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 7614,
+            "totalVotes": 10550,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2136,
+                "votes": 5072,
                 "Precinct": [
                   {
                     "name": "Bremen",
-                    "votes": 0
+                    "votes": 1281
                   },
                   {
                     "name": "Buchanan",
@@ -235,11 +235,11 @@
                   },
                   {
                     "name": "Buncombe",
-                    "votes": 0
+                    "votes": 304
                   },
                   {
                     "name": "Corinth",
-                    "votes": 0
+                    "votes": 445
                   },
                   {
                     "name": "Twentieth",
@@ -263,11 +263,11 @@
                   },
                   {
                     "name": "Berea-Steadman",
-                    "votes": 0
+                    "votes": 238
                   },
                   {
                     "name": "Tallapoosa",
-                    "votes": 0
+                    "votes": 668
                   },
                   {
                     "name": "Waco",
@@ -442,15 +442,15 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 1322,
+            "totalVotes": 1610,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 138,
+                "votes": 426,
                 "Precinct": [
                   {
                     "name": "Bremen",
-                    "votes": 0
+                    "votes": 142
                   },
                   {
                     "name": "Buchanan",
@@ -458,11 +458,11 @@
                   },
                   {
                     "name": "Buncombe",
-                    "votes": 0
+                    "votes": 24
                   },
                   {
                     "name": "Corinth",
-                    "votes": 0
+                    "votes": 25
                   },
                   {
                     "name": "Twentieth",
@@ -486,11 +486,11 @@
                   },
                   {
                     "name": "Berea-Steadman",
-                    "votes": 0
+                    "votes": 10
                   },
                   {
                     "name": "Tallapoosa",
-                    "votes": 0
+                    "votes": 87
                   },
                   {
                     "name": "Waco",
@@ -670,15 +670,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 12,
-        "precinctsReported": 7,
+        "precinctsReported": 12,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 14,
+            "votes": 19,
             "Precinct": [
               {
                 "name": "Bremen",
-                "votes": 5
+                "votes": 6
               },
               {
                 "name": "Buchanan",
@@ -714,11 +714,11 @@
               },
               {
                 "name": "Berea-Steadman",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Tallapoosa",
-                "votes": 2
+                "votes": 5
               },
               {
                 "name": "Waco",
@@ -785,15 +785,15 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 7597,
+            "totalVotes": 10530,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2127,
+                "votes": 5060,
                 "Precinct": [
                   {
                     "name": "Bremen",
-                    "votes": 0
+                    "votes": 1277
                   },
                   {
                     "name": "Buchanan",
@@ -801,11 +801,11 @@
                   },
                   {
                     "name": "Buncombe",
-                    "votes": 0
+                    "votes": 305
                   },
                   {
                     "name": "Corinth",
-                    "votes": 0
+                    "votes": 443
                   },
                   {
                     "name": "Twentieth",
@@ -829,11 +829,11 @@
                   },
                   {
                     "name": "Berea-Steadman",
-                    "votes": 0
+                    "votes": 238
                   },
                   {
                     "name": "Tallapoosa",
-                    "votes": 0
+                    "votes": 670
                   },
                   {
                     "name": "Waco",
@@ -1008,15 +1008,15 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 1338,
+            "totalVotes": 1626,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 146,
+                "votes": 434,
                 "Precinct": [
                   {
                     "name": "Bremen",
-                    "votes": 0
+                    "votes": 145
                   },
                   {
                     "name": "Buchanan",
@@ -1024,11 +1024,11 @@
                   },
                   {
                     "name": "Buncombe",
-                    "votes": 0
+                    "votes": 23
                   },
                   {
                     "name": "Corinth",
-                    "votes": 0
+                    "votes": 27
                   },
                   {
                     "name": "Twentieth",
@@ -1052,11 +1052,11 @@
                   },
                   {
                     "name": "Berea-Steadman",
-                    "votes": 0
+                    "votes": 10
                   },
                   {
                     "name": "Tallapoosa",
-                    "votes": 0
+                    "votes": 83
                   },
                   {
                     "name": "Waco",
@@ -1236,15 +1236,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 12,
-        "precinctsReported": 7,
+        "precinctsReported": 12,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 98,
+            "votes": 136,
             "Precinct": [
               {
                 "name": "Bremen",
-                "votes": 21
+                "votes": 27
               },
               {
                 "name": "Buchanan",
@@ -1252,11 +1252,11 @@
               },
               {
                 "name": "Buncombe",
-                "votes": 3
+                "votes": 10
               },
               {
                 "name": "Corinth",
-                "votes": 2
+                "votes": 6
               },
               {
                 "name": "Twentieth",
@@ -1280,11 +1280,11 @@
               },
               {
                 "name": "Berea-Steadman",
-                "votes": 1
+                "votes": 7
               },
               {
                 "name": "Tallapoosa",
-                "votes": 21
+                "votes": 36
               },
               {
                 "name": "Waco",
@@ -1351,15 +1351,15 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 7523,
+            "totalVotes": 10419,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2108,
+                "votes": 5004,
                 "Precinct": [
                   {
                     "name": "Bremen",
-                    "votes": 0
+                    "votes": 1281
                   },
                   {
                     "name": "Buchanan",
@@ -1367,11 +1367,11 @@
                   },
                   {
                     "name": "Buncombe",
-                    "votes": 0
+                    "votes": 292
                   },
                   {
                     "name": "Corinth",
-                    "votes": 0
+                    "votes": 441
                   },
                   {
                     "name": "Twentieth",
@@ -1395,11 +1395,11 @@
                   },
                   {
                     "name": "Berea-Steadman",
-                    "votes": 0
+                    "votes": 232
                   },
                   {
                     "name": "Tallapoosa",
-                    "votes": 0
+                    "votes": 650
                   },
                   {
                     "name": "Waco",
@@ -1574,15 +1574,15 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 1327,
+            "totalVotes": 1619,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 145,
+                "votes": 437,
                 "Precinct": [
                   {
                     "name": "Bremen",
-                    "votes": 0
+                    "votes": 136
                   },
                   {
                     "name": "Buchanan",
@@ -1590,11 +1590,11 @@
                   },
                   {
                     "name": "Buncombe",
-                    "votes": 0
+                    "votes": 29
                   },
                   {
                     "name": "Corinth",
-                    "votes": 0
+                    "votes": 25
                   },
                   {
                     "name": "Twentieth",
@@ -1618,11 +1618,11 @@
                   },
                   {
                     "name": "Berea-Steadman",
-                    "votes": 0
+                    "votes": 11
                   },
                   {
                     "name": "Tallapoosa",
-                    "votes": 0
+                    "votes": 91
                   },
                   {
                     "name": "Waco",
