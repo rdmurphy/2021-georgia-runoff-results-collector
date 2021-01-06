@@ -1,56 +1,56 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 9:49:53 PM EST",
+    "Timestamp": "1/5/2021 11:33:52 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Coffee",
     "VoterTurnout": {
-      "totalVoters": 0,
-      "ballotsCast": 4527,
-      "voterTurnout": 0.0,
+      "totalVoters": 25502,
+      "ballotsCast": 12002,
+      "voterTurnout": 47.06,
       "Precincts": {
         "Precinct": [
           {
             "name": "Douglas",
-            "totalVoters": 0,
-            "ballotsCast": 2378,
-            "voterTurnout": 0.0,
-            "percentReporting": "2"
+            "totalVoters": 17697,
+            "ballotsCast": 7803,
+            "voterTurnout": 44.09,
+            "percentReporting": "4"
           },
           {
             "name": "Ambrose",
-            "totalVoters": 0,
-            "ballotsCast": 503,
-            "voterTurnout": 0.0,
-            "percentReporting": "2"
+            "totalVoters": 2241,
+            "ballotsCast": 1106,
+            "voterTurnout": 49.35,
+            "percentReporting": "4"
           },
           {
             "name": "Bridgetown",
-            "totalVoters": 0,
-            "ballotsCast": 158,
-            "voterTurnout": 0.0,
-            "percentReporting": "2"
+            "totalVoters": 407,
+            "ballotsCast": 222,
+            "voterTurnout": 54.55,
+            "percentReporting": "4"
           },
           {
             "name": "Broxton",
-            "totalVoters": 0,
-            "ballotsCast": 602,
-            "voterTurnout": 0.0,
-            "percentReporting": "2"
+            "totalVoters": 3611,
+            "ballotsCast": 1331,
+            "voterTurnout": 36.86,
+            "percentReporting": "4"
           },
           {
             "name": "Nicholls",
-            "totalVoters": 0,
-            "ballotsCast": 534,
-            "voterTurnout": 0.0,
-            "percentReporting": "2"
+            "totalVoters": 1390,
+            "ballotsCast": 1001,
+            "voterTurnout": 72.01,
+            "percentReporting": "4"
           },
           {
             "name": "West Green",
-            "totalVoters": 0,
-            "ballotsCast": 352,
-            "voterTurnout": 0.0,
-            "percentReporting": "2"
+            "totalVoters": 156,
+            "ballotsCast": 539,
+            "voterTurnout": 345.51,
+            "percentReporting": "4"
           }
         ]
       }
@@ -62,19 +62,19 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 6,
-        "precinctsReported": 0,
+        "precinctsReported": 6,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 10,
+            "votes": 41,
             "Precinct": [
               {
                 "name": "Douglas",
-                "votes": 4
+                "votes": 30
               },
               {
                 "name": "Ambrose",
-                "votes": 2
+                "votes": 4
               },
               {
                 "name": "Bridgetown",
@@ -82,11 +82,11 @@
               },
               {
                 "name": "Broxton",
-                "votes": 1
+                "votes": 3
               },
               {
                 "name": "Nicholls",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "West Green",
@@ -129,7 +129,7 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 3297,
+            "totalVotes": 8580,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -163,31 +163,31 @@
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 5283,
                 "Precinct": [
                   {
                     "name": "Douglas",
-                    "votes": 0
+                    "votes": 3658
                   },
                   {
                     "name": "Ambrose",
-                    "votes": 0
+                    "votes": 475
                   },
                   {
                     "name": "Bridgetown",
-                    "votes": 0
+                    "votes": 46
                   },
                   {
                     "name": "Broxton",
-                    "votes": 0
+                    "votes": 558
                   },
                   {
                     "name": "Nicholls",
-                    "votes": 0
+                    "votes": 372
                   },
                   {
                     "name": "West Green",
-                    "votes": 0
+                    "votes": 174
                   }
                 ]
               },
@@ -256,7 +256,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 1220,
+            "totalVotes": 3381,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -290,31 +290,31 @@
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 2161,
                 "Precinct": [
                   {
                     "name": "Douglas",
-                    "votes": 0
+                    "votes": 1741
                   },
                   {
                     "name": "Ambrose",
-                    "votes": 0
+                    "votes": 126
                   },
                   {
                     "name": "Bridgetown",
-                    "votes": 0
+                    "votes": 18
                   },
                   {
                     "name": "Broxton",
-                    "votes": 0
+                    "votes": 169
                   },
                   {
                     "name": "Nicholls",
-                    "votes": 0
+                    "votes": 94
                   },
                   {
                     "name": "West Green",
-                    "votes": 0
+                    "votes": 13
                   }
                 ]
               },
@@ -388,15 +388,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 6,
-        "precinctsReported": 0,
+        "precinctsReported": 6,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 9,
+            "votes": 34,
             "Precinct": [
               {
                 "name": "Douglas",
-                "votes": 6
+                "votes": 27
               },
               {
                 "name": "Ambrose",
@@ -408,15 +408,15 @@
               },
               {
                 "name": "Broxton",
-                "votes": 1
+                "votes": 3
               },
               {
                 "name": "Nicholls",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "West Green",
-                "votes": 0
+                "votes": 1
               }
             ]
           },
@@ -455,7 +455,7 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 3277,
+            "totalVotes": 8561,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -489,31 +489,31 @@
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 5284,
                 "Precinct": [
                   {
                     "name": "Douglas",
-                    "votes": 0
+                    "votes": 3657
                   },
                   {
                     "name": "Ambrose",
-                    "votes": 0
+                    "votes": 475
                   },
                   {
                     "name": "Bridgetown",
-                    "votes": 0
+                    "votes": 46
                   },
                   {
                     "name": "Broxton",
-                    "votes": 0
+                    "votes": 559
                   },
                   {
                     "name": "Nicholls",
-                    "votes": 0
+                    "votes": 372
                   },
                   {
                     "name": "West Green",
-                    "votes": 0
+                    "votes": 175
                   }
                 ]
               },
@@ -582,7 +582,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 1241,
+            "totalVotes": 3407,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -616,31 +616,31 @@
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 2166,
                 "Precinct": [
                   {
                     "name": "Douglas",
-                    "votes": 0
+                    "votes": 1747
                   },
                   {
                     "name": "Ambrose",
-                    "votes": 0
+                    "votes": 128
                   },
                   {
                     "name": "Bridgetown",
-                    "votes": 0
+                    "votes": 18
                   },
                   {
                     "name": "Broxton",
-                    "votes": 0
+                    "votes": 168
                   },
                   {
                     "name": "Nicholls",
-                    "votes": 0
+                    "votes": 94
                   },
                   {
                     "name": "West Green",
-                    "votes": 0
+                    "votes": 11
                   }
                 ]
               },
@@ -714,19 +714,19 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 6,
-        "precinctsReported": 0,
+        "precinctsReported": 6,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 89,
+            "votes": 240,
             "Precinct": [
               {
                 "name": "Douglas",
-                "votes": 35
+                "votes": 142
               },
               {
                 "name": "Ambrose",
-                "votes": 12
+                "votes": 29
               },
               {
                 "name": "Bridgetown",
@@ -734,15 +734,15 @@
               },
               {
                 "name": "Broxton",
-                "votes": 22
+                "votes": 34
               },
               {
                 "name": "Nicholls",
-                "votes": 12
+                "votes": 22
               },
               {
                 "name": "West Green",
-                "votes": 5
+                "votes": 10
               }
             ]
           },
@@ -781,7 +781,7 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 3245,
+            "totalVotes": 8482,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -815,31 +815,31 @@
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 5237,
                 "Precinct": [
                   {
                     "name": "Douglas",
-                    "votes": 0
+                    "votes": 3635
                   },
                   {
                     "name": "Ambrose",
-                    "votes": 0
+                    "votes": 468
                   },
                   {
                     "name": "Bridgetown",
-                    "votes": 0
+                    "votes": 46
                   },
                   {
                     "name": "Broxton",
-                    "votes": 0
+                    "votes": 552
                   },
                   {
                     "name": "Nicholls",
-                    "votes": 0
+                    "votes": 365
                   },
                   {
                     "name": "West Green",
-                    "votes": 0
+                    "votes": 171
                   }
                 ]
               },
@@ -908,7 +908,7 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 1193,
+            "totalVotes": 3280,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -942,31 +942,31 @@
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 2087,
                 "Precinct": [
                   {
                     "name": "Douglas",
-                    "votes": 0
+                    "votes": 1683
                   },
                   {
                     "name": "Ambrose",
-                    "votes": 0
+                    "votes": 118
                   },
                   {
                     "name": "Bridgetown",
-                    "votes": 0
+                    "votes": 18
                   },
                   {
                     "name": "Broxton",
-                    "votes": 0
+                    "votes": 165
                   },
                   {
                     "name": "Nicholls",
-                    "votes": 0
+                    "votes": 92
                   },
                   {
                     "name": "West Green",
-                    "votes": 0
+                    "votes": 11
                   }
                 ]
               },
