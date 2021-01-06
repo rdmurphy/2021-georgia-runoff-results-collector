@@ -1,0 +1,31 @@
+name: Scrape GA precinct data
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repo
+        uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run scraper
+        run: python main.py
+
+      - name: Commit providers updates to GitHub
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update precinct data
+          file_pattern: "precincts.json precincts.csv raw/*.json"
