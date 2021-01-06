@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 10:06:34 PM EST",
+    "Timestamp": "1/5/2021 10:38:12 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Coweta",
     "VoterTurnout": {
       "totalVoters": 103616,
-      "ballotsCast": 60978,
-      "voterTurnout": 58.85,
+      "ballotsCast": 67342,
+      "voterTurnout": 64.99,
       "Precincts": {
         "Precinct": [
           {
@@ -20,8 +20,8 @@
           {
             "name": "Moreland",
             "totalVoters": 2805,
-            "ballotsCast": 1924,
-            "voterTurnout": 68.59,
+            "ballotsCast": 1974,
+            "voterTurnout": 70.37,
             "percentReporting": "4"
           },
           {
@@ -90,16 +90,16 @@
           {
             "name": "Panther Creek",
             "totalVoters": 3118,
-            "ballotsCast": 828,
-            "voterTurnout": 26.56,
-            "percentReporting": "2"
+            "ballotsCast": 1910,
+            "voterTurnout": 61.26,
+            "percentReporting": "4"
           },
           {
             "name": "Raymond",
             "totalVoters": 2257,
-            "ballotsCast": 865,
-            "voterTurnout": 38.33,
-            "percentReporting": "2"
+            "ballotsCast": 1714,
+            "voterTurnout": 75.94,
+            "percentReporting": "4"
           },
           {
             "name": "Turin",
@@ -125,9 +125,9 @@
           {
             "name": "Newnan Centre",
             "totalVoters": 21020,
-            "ballotsCast": 9179,
-            "voterTurnout": 43.67,
-            "percentReporting": "2"
+            "ballotsCast": 12469,
+            "voterTurnout": 59.32,
+            "percentReporting": "4"
           },
           {
             "name": "Greentop",
@@ -146,9 +146,9 @@
           {
             "name": "White Oak",
             "totalVoters": 4706,
-            "ballotsCast": 1980,
-            "voterTurnout": 42.07,
-            "percentReporting": "2"
+            "ballotsCast": 3073,
+            "voterTurnout": 65.3,
+            "percentReporting": "4"
           },
           {
             "name": "Madras",
@@ -202,11 +202,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 26,
-        "precinctsReported": 22,
+        "precinctsReported": 26,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 68,
+            "votes": 74,
             "Precinct": [
               {
                 "name": "Senoia",
@@ -254,7 +254,7 @@
               },
               {
                 "name": "Panther Creek",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Raymond",
@@ -274,7 +274,7 @@
               },
               {
                 "name": "Newnan Centre",
-                "votes": 9
+                "votes": 14
               },
               {
                 "name": "Greentop",
@@ -429,11 +429,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 40890,
+            "totalVotes": 45761,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 17156,
+                "votes": 22007,
                 "Precinct": [
                   {
                     "name": "Senoia",
@@ -481,11 +481,11 @@
                   },
                   {
                     "name": "Panther Creek",
-                    "votes": 0
+                    "votes": 941
                   },
                   {
                     "name": "Raymond",
-                    "votes": 0
+                    "votes": 740
                   },
                   {
                     "name": "Turin",
@@ -501,7 +501,7 @@
                   },
                   {
                     "name": "Newnan Centre",
-                    "votes": 0
+                    "votes": 2288
                   },
                   {
                     "name": "Greentop",
@@ -513,7 +513,7 @@
                   },
                   {
                     "name": "White Oak",
-                    "votes": 0
+                    "votes": 882
                   },
                   {
                     "name": "Madras",
@@ -653,7 +653,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 7687,
+                "votes": 7707,
                 "Precinct": [
                   {
                     "name": "Senoia",
@@ -661,7 +661,7 @@
                   },
                   {
                     "name": "Moreland",
-                    "votes": 212
+                    "votes": 232
                   },
                   {
                     "name": "Pine Road",
@@ -876,11 +876,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 20020,
+            "totalVotes": 21507,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 4123,
+                "votes": 5580,
                 "Precinct": [
                   {
                     "name": "Senoia",
@@ -928,11 +928,11 @@
                   },
                   {
                     "name": "Panther Creek",
-                    "votes": 0
+                    "votes": 140
                   },
                   {
                     "name": "Raymond",
-                    "votes": 0
+                    "votes": 109
                   },
                   {
                     "name": "Turin",
@@ -948,7 +948,7 @@
                   },
                   {
                     "name": "Newnan Centre",
-                    "votes": 0
+                    "votes": 997
                   },
                   {
                     "name": "Greentop",
@@ -960,7 +960,7 @@
                   },
                   {
                     "name": "White Oak",
-                    "votes": 0
+                    "votes": 211
                   },
                   {
                     "name": "Madras",
@@ -1100,7 +1100,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 8808,
+                "votes": 8838,
                 "Precinct": [
                   {
                     "name": "Senoia",
@@ -1108,7 +1108,7 @@
                   },
                   {
                     "name": "Moreland",
-                    "votes": 147
+                    "votes": 177
                   },
                   {
                     "name": "Pine Road",
@@ -1328,11 +1328,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 26,
-        "precinctsReported": 22,
+        "precinctsReported": 26,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 83,
+            "votes": 90,
             "Precinct": [
               {
                 "name": "Senoia",
@@ -1380,11 +1380,11 @@
               },
               {
                 "name": "Panther Creek",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Raymond",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "Turin",
@@ -1400,7 +1400,7 @@
               },
               {
                 "name": "Newnan Centre",
-                "votes": 14
+                "votes": 18
               },
               {
                 "name": "Greentop",
@@ -1555,11 +1555,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 40620,
+            "totalVotes": 45447,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 17078,
+                "votes": 21887,
                 "Precinct": [
                   {
                     "name": "Senoia",
@@ -1607,11 +1607,11 @@
                   },
                   {
                     "name": "Panther Creek",
-                    "votes": 0
+                    "votes": 937
                   },
                   {
                     "name": "Raymond",
-                    "votes": 0
+                    "votes": 737
                   },
                   {
                     "name": "Turin",
@@ -1627,7 +1627,7 @@
                   },
                   {
                     "name": "Newnan Centre",
-                    "votes": 0
+                    "votes": 2258
                   },
                   {
                     "name": "Greentop",
@@ -1639,7 +1639,7 @@
                   },
                   {
                     "name": "White Oak",
-                    "votes": 0
+                    "votes": 877
                   },
                   {
                     "name": "Madras",
@@ -1779,7 +1779,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 7575,
+                "votes": 7593,
                 "Precinct": [
                   {
                     "name": "Senoia",
@@ -1787,7 +1787,7 @@
                   },
                   {
                     "name": "Moreland",
-                    "votes": 211
+                    "votes": 229
                   },
                   {
                     "name": "Pine Road",
@@ -2002,11 +2002,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 20275,
+            "totalVotes": 21805,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 4190,
+                "votes": 5688,
                 "Precinct": [
                   {
                     "name": "Senoia",
@@ -2054,11 +2054,11 @@
                   },
                   {
                     "name": "Panther Creek",
-                    "votes": 0
+                    "votes": 143
                   },
                   {
                     "name": "Raymond",
-                    "votes": 0
+                    "votes": 111
                   },
                   {
                     "name": "Turin",
@@ -2074,7 +2074,7 @@
                   },
                   {
                     "name": "Newnan Centre",
-                    "votes": 0
+                    "votes": 1028
                   },
                   {
                     "name": "Greentop",
@@ -2086,7 +2086,7 @@
                   },
                   {
                     "name": "White Oak",
-                    "votes": 0
+                    "votes": 216
                   },
                   {
                     "name": "Madras",
@@ -2226,7 +2226,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 8926,
+                "votes": 8958,
                 "Precinct": [
                   {
                     "name": "Senoia",
@@ -2234,7 +2234,7 @@
                   },
                   {
                     "name": "Moreland",
-                    "votes": 148
+                    "votes": 180
                   },
                   {
                     "name": "Pine Road",
@@ -2454,11 +2454,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 26,
-        "precinctsReported": 22,
+        "precinctsReported": 26,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 663,
+            "votes": 705,
             "Precinct": [
               {
                 "name": "Senoia",
@@ -2466,7 +2466,7 @@
               },
               {
                 "name": "Moreland",
-                "votes": 22
+                "votes": 23
               },
               {
                 "name": "Pine Road",
@@ -2506,11 +2506,11 @@
               },
               {
                 "name": "Panther Creek",
-                "votes": 11
+                "votes": 23
               },
               {
                 "name": "Raymond",
-                "votes": 12
+                "votes": 16
               },
               {
                 "name": "Turin",
@@ -2526,7 +2526,7 @@
               },
               {
                 "name": "Newnan Centre",
-                "votes": 112
+                "votes": 133
               },
               {
                 "name": "Greentop",
@@ -2538,7 +2538,7 @@
               },
               {
                 "name": "White Oak",
-                "votes": 26
+                "votes": 30
               },
               {
                 "name": "Madras",
@@ -2681,11 +2681,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 41184,
+            "totalVotes": 46061,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 17315,
+                "votes": 22172,
                 "Precinct": [
                   {
                     "name": "Senoia",
@@ -2733,11 +2733,11 @@
                   },
                   {
                     "name": "Panther Creek",
-                    "votes": 0
+                    "votes": 933
                   },
                   {
                     "name": "Raymond",
-                    "votes": 0
+                    "votes": 747
                   },
                   {
                     "name": "Turin",
@@ -2753,7 +2753,7 @@
                   },
                   {
                     "name": "Newnan Centre",
-                    "votes": 0
+                    "votes": 2291
                   },
                   {
                     "name": "Greentop",
@@ -2765,7 +2765,7 @@
                   },
                   {
                     "name": "White Oak",
-                    "votes": 0
+                    "votes": 886
                   },
                   {
                     "name": "Madras",
@@ -2905,7 +2905,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 7758,
+                "votes": 7778,
                 "Precinct": [
                   {
                     "name": "Senoia",
@@ -2913,7 +2913,7 @@
                   },
                   {
                     "name": "Moreland",
-                    "votes": 216
+                    "votes": 236
                   },
                   {
                     "name": "Pine Road",
@@ -3128,11 +3128,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 19103,
+            "totalVotes": 20534,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 3828,
+                "votes": 5230,
                 "Precinct": [
                   {
                     "name": "Senoia",
@@ -3180,11 +3180,11 @@
                   },
                   {
                     "name": "Panther Creek",
-                    "votes": 0
+                    "votes": 137
                   },
                   {
                     "name": "Raymond",
-                    "votes": 0
+                    "votes": 98
                   },
                   {
                     "name": "Turin",
@@ -3200,7 +3200,7 @@
                   },
                   {
                     "name": "Newnan Centre",
-                    "votes": 0
+                    "votes": 964
                   },
                   {
                     "name": "Greentop",
@@ -3212,7 +3212,7 @@
                   },
                   {
                     "name": "White Oak",
-                    "votes": 0
+                    "votes": 203
                   },
                   {
                     "name": "Madras",
@@ -3352,7 +3352,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 8417,
+                "votes": 8446,
                 "Precinct": [
                   {
                     "name": "Senoia",
@@ -3360,7 +3360,7 @@
                   },
                   {
                     "name": "Moreland",
-                    "votes": 134
+                    "votes": 163
                   },
                   {
                     "name": "Pine Road",
