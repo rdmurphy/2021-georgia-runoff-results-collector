@@ -1,48 +1,48 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:34:45 PM EST",
+    "Timestamp": "1/5/2021 8:32:38 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
-    "Region": "Clinch",
+    "Region": "Early",
     "VoterTurnout": {
-      "totalVoters": 4386,
-      "ballotsCast": 2201,
-      "voterTurnout": 50.18,
+      "totalVoters": 7461,
+      "ballotsCast": 4561,
+      "voterTurnout": 61.13,
       "Precincts": {
         "Precinct": [
           {
-            "name": "Arabia",
-            "totalVoters": 109,
-            "ballotsCast": 72,
-            "voterTurnout": 66.06,
+            "name": "Arlington",
+            "totalVoters": 918,
+            "ballotsCast": 603,
+            "voterTurnout": 65.69,
             "percentReporting": "4"
           },
           {
-            "name": "Argyle",
-            "totalVoters": 377,
-            "ballotsCast": 196,
-            "voterTurnout": 51.99,
+            "name": "Blakely",
+            "totalVoters": 3518,
+            "ballotsCast": 1982,
+            "voterTurnout": 56.34,
             "percentReporting": "4"
           },
           {
-            "name": "Dupont",
-            "totalVoters": 344,
-            "ballotsCast": 190,
-            "voterTurnout": 55.23,
+            "name": "Cedar Springs",
+            "totalVoters": 1146,
+            "ballotsCast": 741,
+            "voterTurnout": 64.66,
             "percentReporting": "4"
           },
           {
-            "name": "Fargo",
-            "totalVoters": 268,
-            "ballotsCast": 147,
-            "voterTurnout": 54.85,
+            "name": "Cuba",
+            "totalVoters": 1199,
+            "ballotsCast": 755,
+            "voterTurnout": 62.97,
             "percentReporting": "4"
           },
           {
-            "name": "Homerville",
-            "totalVoters": 3288,
-            "ballotsCast": 1596,
-            "voterTurnout": 48.54,
+            "name": "Urquhart",
+            "totalVoters": 680,
+            "ballotsCast": 480,
+            "voterTurnout": 70.59,
             "percentReporting": "4"
           }
         ]
@@ -59,27 +59,27 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 5,
+            "votes": 11,
             "Precinct": [
               {
-                "name": "Arabia",
-                "votes": 0
+                "name": "Arlington",
+                "votes": 3
               },
               {
-                "name": "Argyle",
-                "votes": 0
+                "name": "Blakely",
+                "votes": 4
               },
               {
-                "name": "Dupont",
-                "votes": 0
+                "name": "Cedar Springs",
+                "votes": 2
               },
               {
-                "name": "Fargo",
-                "votes": 0
+                "name": "Cuba",
+                "votes": 1
               },
               {
-                "name": "Homerville",
-                "votes": 5
+                "name": "Urquhart",
+                "votes": 1
               }
             ]
           },
@@ -88,23 +88,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Arabia",
+                "name": "Arlington",
                 "votes": 0
               },
               {
-                "name": "Argyle",
+                "name": "Blakely",
                 "votes": 0
               },
               {
-                "name": "Dupont",
+                "name": "Cedar Springs",
                 "votes": 0
               },
               {
-                "name": "Fargo",
+                "name": "Cuba",
                 "votes": 0
               },
               {
-                "name": "Homerville",
+                "name": "Urquhart",
                 "votes": 0
               }
             ]
@@ -114,83 +114,83 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 1692,
+            "totalVotes": 2368,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 766,
+                "votes": 974,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 55
+                    "name": "Arlington",
+                    "votes": 131
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 107
+                    "name": "Blakely",
+                    "votes": 198
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 103
+                    "name": "Cedar Springs",
+                    "votes": 287
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 120
+                    "name": "Cuba",
+                    "votes": 214
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 381
+                    "name": "Urquhart",
+                    "votes": 144
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 926,
+                "votes": 1108,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 10
+                    "name": "Arlington",
+                    "votes": 94
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 62
+                    "name": "Blakely",
+                    "votes": 395
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 48
+                    "name": "Cedar Springs",
+                    "votes": 208
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 12
+                    "name": "Cuba",
+                    "votes": 222
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 794
+                    "name": "Urquhart",
+                    "votes": 189
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 286,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 0
+                    "name": "Arlington",
+                    "votes": 31
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 0
+                    "name": "Blakely",
+                    "votes": 111
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 0
+                    "name": "Cedar Springs",
+                    "votes": 59
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 0
+                    "name": "Cuba",
+                    "votes": 37
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 0
+                    "name": "Urquhart",
+                    "votes": 48
                   }
                 ]
               },
@@ -199,23 +199,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Arabia",
+                    "name": "Arlington",
                     "votes": 0
                   },
                   {
-                    "name": "Argyle",
+                    "name": "Blakely",
                     "votes": 0
                   },
                   {
-                    "name": "Dupont",
+                    "name": "Cedar Springs",
                     "votes": 0
                   },
                   {
-                    "name": "Fargo",
+                    "name": "Cuba",
                     "votes": 0
                   },
                   {
-                    "name": "Homerville",
+                    "name": "Urquhart",
                     "votes": 0
                   }
                 ]
@@ -225,83 +225,83 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 504,
+            "totalVotes": 2182,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 202,
+                "votes": 725,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 3
+                    "name": "Arlington",
+                    "votes": 126
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 13
+                    "name": "Blakely",
+                    "votes": 475
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 27
+                    "name": "Cedar Springs",
+                    "votes": 35
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 7
+                    "name": "Cuba",
+                    "votes": 65
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 152
+                    "name": "Urquhart",
+                    "votes": 24
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 302,
+                "votes": 858,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 4
+                    "name": "Arlington",
+                    "votes": 96
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 14
+                    "name": "Blakely",
+                    "votes": 530
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 12
+                    "name": "Cedar Springs",
+                    "votes": 74
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 8
+                    "name": "Cuba",
+                    "votes": 116
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 264
+                    "name": "Urquhart",
+                    "votes": 42
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 599,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 0
+                    "name": "Arlington",
+                    "votes": 122
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 0
+                    "name": "Blakely",
+                    "votes": 269
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 0
+                    "name": "Cedar Springs",
+                    "votes": 76
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 0
+                    "name": "Cuba",
+                    "votes": 100
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 0
+                    "name": "Urquhart",
+                    "votes": 32
                   }
                 ]
               },
@@ -310,23 +310,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Arabia",
+                    "name": "Arlington",
                     "votes": 0
                   },
                   {
-                    "name": "Argyle",
+                    "name": "Blakely",
                     "votes": 0
                   },
                   {
-                    "name": "Dupont",
+                    "name": "Cedar Springs",
                     "votes": 0
                   },
                   {
-                    "name": "Fargo",
+                    "name": "Cuba",
                     "votes": 0
                   },
                   {
-                    "name": "Homerville",
+                    "name": "Urquhart",
                     "votes": 0
                   }
                 ]
@@ -345,27 +345,27 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 5,
+            "votes": 12,
             "Precinct": [
               {
-                "name": "Arabia",
+                "name": "Arlington",
+                "votes": 3
+              },
+              {
+                "name": "Blakely",
+                "votes": 3
+              },
+              {
+                "name": "Cedar Springs",
                 "votes": 0
               },
               {
-                "name": "Argyle",
-                "votes": 1
+                "name": "Cuba",
+                "votes": 3
               },
               {
-                "name": "Dupont",
-                "votes": 0
-              },
-              {
-                "name": "Fargo",
-                "votes": 0
-              },
-              {
-                "name": "Homerville",
-                "votes": 4
+                "name": "Urquhart",
+                "votes": 3
               }
             ]
           },
@@ -374,23 +374,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Arabia",
+                "name": "Arlington",
                 "votes": 0
               },
               {
-                "name": "Argyle",
+                "name": "Blakely",
                 "votes": 0
               },
               {
-                "name": "Dupont",
+                "name": "Cedar Springs",
                 "votes": 0
               },
               {
-                "name": "Fargo",
+                "name": "Cuba",
                 "votes": 0
               },
               {
-                "name": "Homerville",
+                "name": "Urquhart",
                 "votes": 0
               }
             ]
@@ -400,83 +400,83 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 1689,
+            "totalVotes": 2377,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 763,
+                "votes": 976,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 55
+                    "name": "Arlington",
+                    "votes": 132
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 108
+                    "name": "Blakely",
+                    "votes": 198
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 104
+                    "name": "Cedar Springs",
+                    "votes": 289
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 119
+                    "name": "Cuba",
+                    "votes": 214
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 377
+                    "name": "Urquhart",
+                    "votes": 143
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 926,
+                "votes": 1112,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 10
+                    "name": "Arlington",
+                    "votes": 96
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 62
+                    "name": "Blakely",
+                    "votes": 394
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 48
+                    "name": "Cedar Springs",
+                    "votes": 209
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 12
+                    "name": "Cuba",
+                    "votes": 223
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 794
+                    "name": "Urquhart",
+                    "votes": 190
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 289,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 0
+                    "name": "Arlington",
+                    "votes": 31
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 0
+                    "name": "Blakely",
+                    "votes": 115
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 0
+                    "name": "Cedar Springs",
+                    "votes": 58
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 0
+                    "name": "Cuba",
+                    "votes": 36
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 0
+                    "name": "Urquhart",
+                    "votes": 49
                   }
                 ]
               },
@@ -485,23 +485,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Arabia",
+                    "name": "Arlington",
                     "votes": 0
                   },
                   {
-                    "name": "Argyle",
+                    "name": "Blakely",
                     "votes": 0
                   },
                   {
-                    "name": "Dupont",
+                    "name": "Cedar Springs",
                     "votes": 0
                   },
                   {
-                    "name": "Fargo",
+                    "name": "Cuba",
                     "votes": 0
                   },
                   {
-                    "name": "Homerville",
+                    "name": "Urquhart",
                     "votes": 0
                   }
                 ]
@@ -511,83 +511,83 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 507,
+            "totalVotes": 2172,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 206,
+                "votes": 723,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 3
+                    "name": "Arlington",
+                    "votes": 125
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 11
+                    "name": "Blakely",
+                    "votes": 475
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 26
+                    "name": "Cedar Springs",
+                    "votes": 34
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 8
+                    "name": "Cuba",
+                    "votes": 65
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 158
+                    "name": "Urquhart",
+                    "votes": 24
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 301,
+                "votes": 855,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 4
+                    "name": "Arlington",
+                    "votes": 94
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 14
+                    "name": "Blakely",
+                    "votes": 531
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 12
+                    "name": "Cedar Springs",
+                    "votes": 74
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 8
+                    "name": "Cuba",
+                    "votes": 114
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 263
+                    "name": "Urquhart",
+                    "votes": 42
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 594,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 0
+                    "name": "Arlington",
+                    "votes": 122
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 0
+                    "name": "Blakely",
+                    "votes": 266
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 0
+                    "name": "Cedar Springs",
+                    "votes": 77
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 0
+                    "name": "Cuba",
+                    "votes": 100
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 0
+                    "name": "Urquhart",
+                    "votes": 29
                   }
                 ]
               },
@@ -596,23 +596,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Arabia",
+                    "name": "Arlington",
                     "votes": 0
                   },
                   {
-                    "name": "Argyle",
+                    "name": "Blakely",
                     "votes": 0
                   },
                   {
-                    "name": "Dupont",
+                    "name": "Cedar Springs",
                     "votes": 0
                   },
                   {
-                    "name": "Fargo",
+                    "name": "Cuba",
                     "votes": 0
                   },
                   {
-                    "name": "Homerville",
+                    "name": "Urquhart",
                     "votes": 0
                   }
                 ]
@@ -631,27 +631,27 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 58,
+            "votes": 81,
             "Precinct": [
               {
-                "name": "Arabia",
-                "votes": 0
+                "name": "Arlington",
+                "votes": 8
               },
               {
-                "name": "Argyle",
-                "votes": 6
+                "name": "Blakely",
+                "votes": 40
               },
               {
-                "name": "Dupont",
-                "votes": 6
+                "name": "Cedar Springs",
+                "votes": 11
               },
               {
-                "name": "Fargo",
-                "votes": 2
+                "name": "Cuba",
+                "votes": 12
               },
               {
-                "name": "Homerville",
-                "votes": 44
+                "name": "Urquhart",
+                "votes": 10
               }
             ]
           },
@@ -660,23 +660,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Arabia",
+                "name": "Arlington",
                 "votes": 0
               },
               {
-                "name": "Argyle",
+                "name": "Blakely",
                 "votes": 0
               },
               {
-                "name": "Dupont",
+                "name": "Cedar Springs",
                 "votes": 0
               },
               {
-                "name": "Fargo",
+                "name": "Cuba",
                 "votes": 0
               },
               {
-                "name": "Homerville",
+                "name": "Urquhart",
                 "votes": 0
               }
             ]
@@ -686,83 +686,83 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 1667,
+            "totalVotes": 2367,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 762,
+                "votes": 971,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 57
+                    "name": "Arlington",
+                    "votes": 132
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 106
+                    "name": "Blakely",
+                    "votes": 199
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 103
+                    "name": "Cedar Springs",
+                    "votes": 284
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 116
+                    "name": "Cuba",
+                    "votes": 215
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 380
+                    "name": "Urquhart",
+                    "votes": 141
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 905,
+                "votes": 1111,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 10
+                    "name": "Arlington",
+                    "votes": 96
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 58
+                    "name": "Blakely",
+                    "votes": 403
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 46
+                    "name": "Cedar Springs",
+                    "votes": 205
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 12
+                    "name": "Cuba",
+                    "votes": 219
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 779
+                    "name": "Urquhart",
+                    "votes": 188
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 285,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 0
+                    "name": "Arlington",
+                    "votes": 31
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 0
+                    "name": "Blakely",
+                    "votes": 114
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 0
+                    "name": "Cedar Springs",
+                    "votes": 54
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 0
+                    "name": "Cuba",
+                    "votes": 37
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 0
+                    "name": "Urquhart",
+                    "votes": 49
                   }
                 ]
               },
@@ -771,23 +771,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Arabia",
+                    "name": "Arlington",
                     "votes": 0
                   },
                   {
-                    "name": "Argyle",
+                    "name": "Blakely",
                     "votes": 0
                   },
                   {
-                    "name": "Dupont",
+                    "name": "Cedar Springs",
                     "votes": 0
                   },
                   {
-                    "name": "Fargo",
+                    "name": "Cuba",
                     "votes": 0
                   },
                   {
-                    "name": "Homerville",
+                    "name": "Urquhart",
                     "votes": 0
                   }
                 ]
@@ -797,83 +797,83 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 476,
+            "totalVotes": 2113,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 192,
+                "votes": 709,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 1
+                    "name": "Arlington",
+                    "votes": 124
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 12
+                    "name": "Blakely",
+                    "votes": 465
                   },
                   {
-                    "name": "Dupont",
+                    "name": "Cedar Springs",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Cuba",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Urquhart",
                     "votes": 23
-                  },
-                  {
-                    "name": "Fargo",
-                    "votes": 9
-                  },
-                  {
-                    "name": "Homerville",
-                    "votes": 147
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 284,
+                "votes": 822,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 4
+                    "name": "Arlington",
+                    "votes": 92
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 14
+                    "name": "Blakely",
+                    "votes": 502
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 12
+                    "name": "Cedar Springs",
+                    "votes": 74
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 8
+                    "name": "Cuba",
+                    "votes": 113
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 246
+                    "name": "Urquhart",
+                    "votes": 41
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 582,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 0
+                    "name": "Arlington",
+                    "votes": 120
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 0
+                    "name": "Blakely",
+                    "votes": 259
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 0
+                    "name": "Cedar Springs",
+                    "votes": 78
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 0
+                    "name": "Cuba",
+                    "votes": 97
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 0
+                    "name": "Urquhart",
+                    "votes": 28
                   }
                 ]
               },
@@ -882,23 +882,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Arabia",
+                    "name": "Arlington",
                     "votes": 0
                   },
                   {
-                    "name": "Argyle",
+                    "name": "Blakely",
                     "votes": 0
                   },
                   {
-                    "name": "Dupont",
+                    "name": "Cedar Springs",
                     "votes": 0
                   },
                   {
-                    "name": "Fargo",
+                    "name": "Cuba",
                     "votes": 0
                   },
                   {
-                    "name": "Homerville",
+                    "name": "Urquhart",
                     "votes": 0
                   }
                 ]

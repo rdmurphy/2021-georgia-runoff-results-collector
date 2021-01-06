@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:13:51 PM EST",
+    "Timestamp": "1/5/2021 8:31:08 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Washington",
     "VoterTurnout": {
       "totalVoters": 13152,
-      "ballotsCast": 5639,
-      "voterTurnout": 42.88,
+      "ballotsCast": 7577,
+      "voterTurnout": 57.61,
       "Precincts": {
         "Precinct": [
           {
@@ -20,16 +20,16 @@
           {
             "name": "Warthen",
             "totalVoters": 751,
-            "ballotsCast": 284,
-            "voterTurnout": 37.82,
-            "percentReporting": "2"
+            "ballotsCast": 542,
+            "voterTurnout": 72.17,
+            "percentReporting": "4"
           },
           {
             "name": "Tennille",
             "totalVoters": 2549,
-            "ballotsCast": 1051,
-            "voterTurnout": 41.23,
-            "percentReporting": "2"
+            "ballotsCast": 1544,
+            "voterTurnout": 60.57,
+            "percentReporting": "4"
           },
           {
             "name": "Oconee",
@@ -55,16 +55,16 @@
           {
             "name": "Sandersville",
             "totalVoters": 6280,
-            "ballotsCast": 3069,
-            "voterTurnout": 48.87,
-            "percentReporting": "2"
+            "ballotsCast": 4031,
+            "voterTurnout": 64.19,
+            "percentReporting": "4"
           },
           {
             "name": "Deepstep",
             "totalVoters": 557,
-            "ballotsCast": 174,
-            "voterTurnout": 31.24,
-            "percentReporting": "2"
+            "ballotsCast": 399,
+            "voterTurnout": 71.63,
+            "percentReporting": "4"
           }
         ]
       }
@@ -76,11 +76,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 8,
-        "precinctsReported": 0,
+        "precinctsReported": 4,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 25,
+            "votes": 33,
             "Precinct": [
               {
                 "name": "Riddleville",
@@ -88,11 +88,11 @@
               },
               {
                 "name": "Warthen",
-                "votes": 0
+                "votes": 3
               },
               {
                 "name": "Tennille",
-                "votes": 5
+                "votes": 6
               },
               {
                 "name": "Oconee",
@@ -108,7 +108,7 @@
               },
               {
                 "name": "Sandersville",
-                "votes": 12
+                "votes": 16
               },
               {
                 "name": "Deepstep",
@@ -159,11 +159,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 2447,
+            "totalVotes": 3487,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 1040,
                 "Precinct": [
                   {
                     "name": "Riddleville",
@@ -171,11 +171,11 @@
                   },
                   {
                     "name": "Warthen",
-                    "votes": 0
+                    "votes": 161
                   },
                   {
                     "name": "Tennille",
-                    "votes": 0
+                    "votes": 222
                   },
                   {
                     "name": "Oconee",
@@ -191,11 +191,11 @@
                   },
                   {
                     "name": "Sandersville",
-                    "votes": 0
+                    "votes": 460
                   },
                   {
                     "name": "Deepstep",
-                    "votes": 0
+                    "votes": 197
                   }
                 ]
               },
@@ -318,11 +318,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 3167,
+            "totalVotes": 4057,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 890,
                 "Precinct": [
                   {
                     "name": "Riddleville",
@@ -330,11 +330,11 @@
                   },
                   {
                     "name": "Warthen",
-                    "votes": 0
+                    "votes": 94
                   },
                   {
                     "name": "Tennille",
-                    "votes": 0
+                    "votes": 270
                   },
                   {
                     "name": "Oconee",
@@ -350,11 +350,11 @@
                   },
                   {
                     "name": "Sandersville",
-                    "votes": 0
+                    "votes": 498
                   },
                   {
                     "name": "Deepstep",
-                    "votes": 0
+                    "votes": 28
                   }
                 ]
               },
@@ -482,11 +482,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 8,
-        "precinctsReported": 0,
+        "precinctsReported": 4,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 13,
+            "votes": 21,
             "Precinct": [
               {
                 "name": "Riddleville",
@@ -494,11 +494,11 @@
               },
               {
                 "name": "Warthen",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Tennille",
-                "votes": 5
+                "votes": 6
               },
               {
                 "name": "Oconee",
@@ -514,11 +514,11 @@
               },
               {
                 "name": "Sandersville",
-                "votes": 4
+                "votes": 8
               },
               {
                 "name": "Deepstep",
-                "votes": 0
+                "votes": 2
               }
             ]
           },
@@ -565,11 +565,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 2431,
+            "totalVotes": 3469,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 1038,
                 "Precinct": [
                   {
                     "name": "Riddleville",
@@ -577,11 +577,11 @@
                   },
                   {
                     "name": "Warthen",
-                    "votes": 0
+                    "votes": 161
                   },
                   {
                     "name": "Tennille",
-                    "votes": 0
+                    "votes": 221
                   },
                   {
                     "name": "Oconee",
@@ -597,11 +597,11 @@
                   },
                   {
                     "name": "Sandersville",
-                    "votes": 0
+                    "votes": 460
                   },
                   {
                     "name": "Deepstep",
-                    "votes": 0
+                    "votes": 196
                   }
                 ]
               },
@@ -724,11 +724,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 3195,
+            "totalVotes": 4087,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 892,
                 "Precinct": [
                   {
                     "name": "Riddleville",
@@ -736,11 +736,11 @@
                   },
                   {
                     "name": "Warthen",
-                    "votes": 0
+                    "votes": 96
                   },
                   {
                     "name": "Tennille",
-                    "votes": 0
+                    "votes": 271
                   },
                   {
                     "name": "Oconee",
@@ -756,11 +756,11 @@
                   },
                   {
                     "name": "Sandersville",
-                    "votes": 0
+                    "votes": 498
                   },
                   {
                     "name": "Deepstep",
-                    "votes": 0
+                    "votes": 27
                   }
                 ]
               },
@@ -888,11 +888,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 8,
-        "precinctsReported": 0,
+        "precinctsReported": 4,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 168,
+            "votes": 208,
             "Precinct": [
               {
                 "name": "Riddleville",
@@ -900,11 +900,11 @@
               },
               {
                 "name": "Warthen",
-                "votes": 4
+                "votes": 12
               },
               {
                 "name": "Tennille",
-                "votes": 39
+                "votes": 46
               },
               {
                 "name": "Oconee",
@@ -920,11 +920,11 @@
               },
               {
                 "name": "Sandersville",
-                "votes": 89
+                "votes": 110
               },
               {
                 "name": "Deepstep",
-                "votes": 2
+                "votes": 6
               }
             ]
           },
@@ -971,11 +971,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 2425,
+            "totalVotes": 3473,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 1048,
                 "Precinct": [
                   {
                     "name": "Riddleville",
@@ -983,11 +983,11 @@
                   },
                   {
                     "name": "Warthen",
-                    "votes": 0
+                    "votes": 158
                   },
                   {
                     "name": "Tennille",
-                    "votes": 0
+                    "votes": 226
                   },
                   {
                     "name": "Oconee",
@@ -1003,11 +1003,11 @@
                   },
                   {
                     "name": "Sandersville",
-                    "votes": 0
+                    "votes": 466
                   },
                   {
                     "name": "Deepstep",
-                    "votes": 0
+                    "votes": 198
                   }
                 ]
               },
@@ -1130,11 +1130,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 3046,
+            "totalVotes": 3896,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 850,
                 "Precinct": [
                   {
                     "name": "Riddleville",
@@ -1142,11 +1142,11 @@
                   },
                   {
                     "name": "Warthen",
-                    "votes": 0
+                    "votes": 92
                   },
                   {
                     "name": "Tennille",
-                    "votes": 0
+                    "votes": 260
                   },
                   {
                     "name": "Oconee",
@@ -1162,11 +1162,11 @@
                   },
                   {
                     "name": "Sandersville",
-                    "votes": 0
+                    "votes": 475
                   },
                   {
                     "name": "Deepstep",
-                    "votes": 0
+                    "votes": 23
                   }
                 ]
               },

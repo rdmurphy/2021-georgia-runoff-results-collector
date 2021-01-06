@@ -1,0 +1,1674 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:34:58 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Emanuel",
+    "VoterTurnout": {
+      "totalVoters": 14141,
+      "ballotsCast": 6764,
+      "voterTurnout": 47.83,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Oak Park",
+            "totalVoters": 704,
+            "ballotsCast": 441,
+            "voterTurnout": 62.64,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Cross-Green",
+            "totalVoters": 246,
+            "ballotsCast": 66,
+            "voterTurnout": 26.83,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Swainsboro",
+            "totalVoters": 7174,
+            "ballotsCast": 4011,
+            "voterTurnout": 55.91,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Summertown",
+            "totalVoters": 519,
+            "ballotsCast": 145,
+            "voterTurnout": 27.94,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Stillmore",
+            "totalVoters": 629,
+            "ballotsCast": 349,
+            "voterTurnout": 55.48,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Blundale",
+            "totalVoters": 772,
+            "ballotsCast": 257,
+            "voterTurnout": 33.29,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Canoochee",
+            "totalVoters": 692,
+            "ballotsCast": 180,
+            "voterTurnout": 26.01,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Garfield",
+            "totalVoters": 502,
+            "ballotsCast": 338,
+            "voterTurnout": 67.33,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Nunez",
+            "totalVoters": 383,
+            "ballotsCast": 244,
+            "voterTurnout": 63.71,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Twin City",
+            "totalVoters": 1689,
+            "ballotsCast": 508,
+            "voterTurnout": 30.08,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Adrian",
+            "totalVoters": 831,
+            "ballotsCast": 225,
+            "voterTurnout": 27.08,
+            "percentReporting": "2"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 11,
+        "precinctsReported": 5,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 19,
+            "Precinct": [
+              {
+                "name": "Oak Park",
+                "votes": 0
+              },
+              {
+                "name": "Cross-Green",
+                "votes": 1
+              },
+              {
+                "name": "Swainsboro",
+                "votes": 14
+              },
+              {
+                "name": "Summertown",
+                "votes": 0
+              },
+              {
+                "name": "Stillmore",
+                "votes": 2
+              },
+              {
+                "name": "Blundale",
+                "votes": 1
+              },
+              {
+                "name": "Canoochee",
+                "votes": 0
+              },
+              {
+                "name": "Garfield",
+                "votes": 1
+              },
+              {
+                "name": "Nunez",
+                "votes": 0
+              },
+              {
+                "name": "Twin City",
+                "votes": 0
+              },
+              {
+                "name": "Adrian",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Oak Park",
+                "votes": 0
+              },
+              {
+                "name": "Cross-Green",
+                "votes": 0
+              },
+              {
+                "name": "Swainsboro",
+                "votes": 0
+              },
+              {
+                "name": "Summertown",
+                "votes": 0
+              },
+              {
+                "name": "Stillmore",
+                "votes": 0
+              },
+              {
+                "name": "Blundale",
+                "votes": 0
+              },
+              {
+                "name": "Canoochee",
+                "votes": 0
+              },
+              {
+                "name": "Garfield",
+                "votes": 0
+              },
+              {
+                "name": "Nunez",
+                "votes": 0
+              },
+              {
+                "name": "Twin City",
+                "votes": 0
+              },
+              {
+                "name": "Adrian",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 4486,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1536,
+                "Precinct": [
+                  {
+                    "name": "Oak Park",
+                    "votes": 273
+                  },
+                  {
+                    "name": "Cross-Green",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Swainsboro",
+                    "votes": 797
+                  },
+                  {
+                    "name": "Summertown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stillmore",
+                    "votes": 151
+                  },
+                  {
+                    "name": "Blundale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Canoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Garfield",
+                    "votes": 184
+                  },
+                  {
+                    "name": "Nunez",
+                    "votes": 131
+                  },
+                  {
+                    "name": "Twin City",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Adrian",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2262,
+                "Precinct": [
+                  {
+                    "name": "Oak Park",
+                    "votes": 107
+                  },
+                  {
+                    "name": "Cross-Green",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Swainsboro",
+                    "votes": 1270
+                  },
+                  {
+                    "name": "Summertown",
+                    "votes": 66
+                  },
+                  {
+                    "name": "Stillmore",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Blundale",
+                    "votes": 180
+                  },
+                  {
+                    "name": "Canoochee",
+                    "votes": 99
+                  },
+                  {
+                    "name": "Garfield",
+                    "votes": 65
+                  },
+                  {
+                    "name": "Nunez",
+                    "votes": 48
+                  },
+                  {
+                    "name": "Twin City",
+                    "votes": 224
+                  },
+                  {
+                    "name": "Adrian",
+                    "votes": 122
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 688,
+                "Precinct": [
+                  {
+                    "name": "Oak Park",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Cross-Green",
+                    "votes": 5
+                  },
+                  {
+                    "name": "Swainsboro",
+                    "votes": 375
+                  },
+                  {
+                    "name": "Summertown",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Stillmore",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Blundale",
+                    "votes": 54
+                  },
+                  {
+                    "name": "Canoochee",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Garfield",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Nunez",
+                    "votes": 13
+                  },
+                  {
+                    "name": "Twin City",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Adrian",
+                    "votes": 64
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Oak Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cross-Green",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Swainsboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Summertown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stillmore",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blundale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Canoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Garfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nunez",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Twin City",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Adrian",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 2259,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 510,
+                "Precinct": [
+                  {
+                    "name": "Oak Park",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Cross-Green",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Swainsboro",
+                    "votes": 403
+                  },
+                  {
+                    "name": "Summertown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stillmore",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Blundale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Canoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Garfield",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Nunez",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Twin City",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Adrian",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1049,
+                "Precinct": [
+                  {
+                    "name": "Oak Park",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Cross-Green",
+                    "votes": 22
+                  },
+                  {
+                    "name": "Swainsboro",
+                    "votes": 728
+                  },
+                  {
+                    "name": "Summertown",
+                    "votes": 22
+                  },
+                  {
+                    "name": "Stillmore",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Blundale",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Canoochee",
+                    "votes": 38
+                  },
+                  {
+                    "name": "Garfield",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Nunez",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Twin City",
+                    "votes": 123
+                  },
+                  {
+                    "name": "Adrian",
+                    "votes": 21
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 700,
+                "Precinct": [
+                  {
+                    "name": "Oak Park",
+                    "votes": 9
+                  },
+                  {
+                    "name": "Cross-Green",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Swainsboro",
+                    "votes": 424
+                  },
+                  {
+                    "name": "Summertown",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Stillmore",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Blundale",
+                    "votes": 6
+                  },
+                  {
+                    "name": "Canoochee",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Garfield",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Nunez",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Twin City",
+                    "votes": 97
+                  },
+                  {
+                    "name": "Adrian",
+                    "votes": 18
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Oak Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cross-Green",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Swainsboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Summertown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stillmore",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blundale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Canoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Garfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nunez",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Twin City",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Adrian",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 11,
+        "precinctsReported": 5,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 18,
+            "Precinct": [
+              {
+                "name": "Oak Park",
+                "votes": 3
+              },
+              {
+                "name": "Cross-Green",
+                "votes": 0
+              },
+              {
+                "name": "Swainsboro",
+                "votes": 10
+              },
+              {
+                "name": "Summertown",
+                "votes": 1
+              },
+              {
+                "name": "Stillmore",
+                "votes": 2
+              },
+              {
+                "name": "Blundale",
+                "votes": 0
+              },
+              {
+                "name": "Canoochee",
+                "votes": 0
+              },
+              {
+                "name": "Garfield",
+                "votes": 2
+              },
+              {
+                "name": "Nunez",
+                "votes": 0
+              },
+              {
+                "name": "Twin City",
+                "votes": 0
+              },
+              {
+                "name": "Adrian",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Oak Park",
+                "votes": 0
+              },
+              {
+                "name": "Cross-Green",
+                "votes": 0
+              },
+              {
+                "name": "Swainsboro",
+                "votes": 0
+              },
+              {
+                "name": "Summertown",
+                "votes": 0
+              },
+              {
+                "name": "Stillmore",
+                "votes": 0
+              },
+              {
+                "name": "Blundale",
+                "votes": 0
+              },
+              {
+                "name": "Canoochee",
+                "votes": 0
+              },
+              {
+                "name": "Garfield",
+                "votes": 0
+              },
+              {
+                "name": "Nunez",
+                "votes": 0
+              },
+              {
+                "name": "Twin City",
+                "votes": 0
+              },
+              {
+                "name": "Adrian",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 4465,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1525,
+                "Precinct": [
+                  {
+                    "name": "Oak Park",
+                    "votes": 272
+                  },
+                  {
+                    "name": "Cross-Green",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Swainsboro",
+                    "votes": 788
+                  },
+                  {
+                    "name": "Summertown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stillmore",
+                    "votes": 150
+                  },
+                  {
+                    "name": "Blundale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Canoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Garfield",
+                    "votes": 184
+                  },
+                  {
+                    "name": "Nunez",
+                    "votes": 131
+                  },
+                  {
+                    "name": "Twin City",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Adrian",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2262,
+                "Precinct": [
+                  {
+                    "name": "Oak Park",
+                    "votes": 106
+                  },
+                  {
+                    "name": "Cross-Green",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Swainsboro",
+                    "votes": 1270
+                  },
+                  {
+                    "name": "Summertown",
+                    "votes": 66
+                  },
+                  {
+                    "name": "Stillmore",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Blundale",
+                    "votes": 180
+                  },
+                  {
+                    "name": "Canoochee",
+                    "votes": 99
+                  },
+                  {
+                    "name": "Garfield",
+                    "votes": 65
+                  },
+                  {
+                    "name": "Nunez",
+                    "votes": 48
+                  },
+                  {
+                    "name": "Twin City",
+                    "votes": 221
+                  },
+                  {
+                    "name": "Adrian",
+                    "votes": 124
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 678,
+                "Precinct": [
+                  {
+                    "name": "Oak Park",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Cross-Green",
+                    "votes": 4
+                  },
+                  {
+                    "name": "Swainsboro",
+                    "votes": 372
+                  },
+                  {
+                    "name": "Summertown",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Stillmore",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Blundale",
+                    "votes": 53
+                  },
+                  {
+                    "name": "Canoochee",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Garfield",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Nunez",
+                    "votes": 13
+                  },
+                  {
+                    "name": "Twin City",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Adrian",
+                    "votes": 64
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Oak Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cross-Green",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Swainsboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Summertown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stillmore",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blundale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Canoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Garfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nunez",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Twin City",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Adrian",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 2281,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 518,
+                "Precinct": [
+                  {
+                    "name": "Oak Park",
+                    "votes": 9
+                  },
+                  {
+                    "name": "Cross-Green",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Swainsboro",
+                    "votes": 412
+                  },
+                  {
+                    "name": "Summertown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stillmore",
+                    "votes": 51
+                  },
+                  {
+                    "name": "Blundale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Canoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Garfield",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Nunez",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Twin City",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Adrian",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1054,
+                "Precinct": [
+                  {
+                    "name": "Oak Park",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Cross-Green",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Swainsboro",
+                    "votes": 731
+                  },
+                  {
+                    "name": "Summertown",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Stillmore",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Blundale",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Canoochee",
+                    "votes": 38
+                  },
+                  {
+                    "name": "Garfield",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Nunez",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Twin City",
+                    "votes": 126
+                  },
+                  {
+                    "name": "Adrian",
+                    "votes": 19
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 709,
+                "Precinct": [
+                  {
+                    "name": "Oak Park",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Cross-Green",
+                    "votes": 22
+                  },
+                  {
+                    "name": "Swainsboro",
+                    "votes": 428
+                  },
+                  {
+                    "name": "Summertown",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Stillmore",
+                    "votes": 28
+                  },
+                  {
+                    "name": "Blundale",
+                    "votes": 7
+                  },
+                  {
+                    "name": "Canoochee",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Garfield",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Nunez",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Twin City",
+                    "votes": 97
+                  },
+                  {
+                    "name": "Adrian",
+                    "votes": 18
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Oak Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cross-Green",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Swainsboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Summertown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stillmore",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blundale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Canoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Garfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nunez",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Twin City",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Adrian",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 11,
+        "precinctsReported": 5,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 148,
+            "Precinct": [
+              {
+                "name": "Oak Park",
+                "votes": 4
+              },
+              {
+                "name": "Cross-Green",
+                "votes": 2
+              },
+              {
+                "name": "Swainsboro",
+                "votes": 100
+              },
+              {
+                "name": "Summertown",
+                "votes": 2
+              },
+              {
+                "name": "Stillmore",
+                "votes": 15
+              },
+              {
+                "name": "Blundale",
+                "votes": 2
+              },
+              {
+                "name": "Canoochee",
+                "votes": 5
+              },
+              {
+                "name": "Garfield",
+                "votes": 2
+              },
+              {
+                "name": "Nunez",
+                "votes": 2
+              },
+              {
+                "name": "Twin City",
+                "votes": 9
+              },
+              {
+                "name": "Adrian",
+                "votes": 5
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Oak Park",
+                "votes": 0
+              },
+              {
+                "name": "Cross-Green",
+                "votes": 0
+              },
+              {
+                "name": "Swainsboro",
+                "votes": 0
+              },
+              {
+                "name": "Summertown",
+                "votes": 0
+              },
+              {
+                "name": "Stillmore",
+                "votes": 0
+              },
+              {
+                "name": "Blundale",
+                "votes": 0
+              },
+              {
+                "name": "Canoochee",
+                "votes": 0
+              },
+              {
+                "name": "Garfield",
+                "votes": 0
+              },
+              {
+                "name": "Nunez",
+                "votes": 0
+              },
+              {
+                "name": "Twin City",
+                "votes": 0
+              },
+              {
+                "name": "Adrian",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 4456,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1514,
+                "Precinct": [
+                  {
+                    "name": "Oak Park",
+                    "votes": 267
+                  },
+                  {
+                    "name": "Cross-Green",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Swainsboro",
+                    "votes": 793
+                  },
+                  {
+                    "name": "Summertown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stillmore",
+                    "votes": 141
+                  },
+                  {
+                    "name": "Blundale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Canoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Garfield",
+                    "votes": 183
+                  },
+                  {
+                    "name": "Nunez",
+                    "votes": 130
+                  },
+                  {
+                    "name": "Twin City",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Adrian",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2259,
+                "Precinct": [
+                  {
+                    "name": "Oak Park",
+                    "votes": 106
+                  },
+                  {
+                    "name": "Cross-Green",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Swainsboro",
+                    "votes": 1274
+                  },
+                  {
+                    "name": "Summertown",
+                    "votes": 66
+                  },
+                  {
+                    "name": "Stillmore",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Blundale",
+                    "votes": 181
+                  },
+                  {
+                    "name": "Canoochee",
+                    "votes": 97
+                  },
+                  {
+                    "name": "Garfield",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Nunez",
+                    "votes": 48
+                  },
+                  {
+                    "name": "Twin City",
+                    "votes": 221
+                  },
+                  {
+                    "name": "Adrian",
+                    "votes": 120
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 683,
+                "Precinct": [
+                  {
+                    "name": "Oak Park",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Cross-Green",
+                    "votes": 7
+                  },
+                  {
+                    "name": "Swainsboro",
+                    "votes": 369
+                  },
+                  {
+                    "name": "Summertown",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Stillmore",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Blundale",
+                    "votes": 53
+                  },
+                  {
+                    "name": "Canoochee",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Garfield",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Nunez",
+                    "votes": 13
+                  },
+                  {
+                    "name": "Twin City",
+                    "votes": 63
+                  },
+                  {
+                    "name": "Adrian",
+                    "votes": 63
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Oak Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cross-Green",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Swainsboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Summertown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stillmore",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blundale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Canoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Garfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nunez",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Twin City",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Adrian",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 2160,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 500,
+                "Precinct": [
+                  {
+                    "name": "Oak Park",
+                    "votes": 13
+                  },
+                  {
+                    "name": "Cross-Green",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Swainsboro",
+                    "votes": 391
+                  },
+                  {
+                    "name": "Summertown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stillmore",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Blundale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Canoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Garfield",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Nunez",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Twin City",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Adrian",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 985,
+                "Precinct": [
+                  {
+                    "name": "Oak Park",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Cross-Green",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Swainsboro",
+                    "votes": 679
+                  },
+                  {
+                    "name": "Summertown",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Stillmore",
+                    "votes": 38
+                  },
+                  {
+                    "name": "Blundale",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Canoochee",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Garfield",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Nunez",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Twin City",
+                    "votes": 120
+                  },
+                  {
+                    "name": "Adrian",
+                    "votes": 19
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 675,
+                "Precinct": [
+                  {
+                    "name": "Oak Park",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Cross-Green",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Swainsboro",
+                    "votes": 405
+                  },
+                  {
+                    "name": "Summertown",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Stillmore",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Blundale",
+                    "votes": 7
+                  },
+                  {
+                    "name": "Canoochee",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Garfield",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Nunez",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Twin City",
+                    "votes": 95
+                  },
+                  {
+                    "name": "Adrian",
+                    "votes": 18
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Oak Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cross-Green",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Swainsboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Summertown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stillmore",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blundale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Canoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Garfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nunez",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Twin City",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Adrian",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

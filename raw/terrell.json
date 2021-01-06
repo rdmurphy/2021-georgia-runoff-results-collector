@@ -1,55 +1,55 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:27:41 PM EST",
+    "Timestamp": "1/5/2021 8:39:04 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
-    "Region": "Wilcox",
+    "Region": "Terrell",
     "VoterTurnout": {
-      "totalVoters": 4835,
-      "ballotsCast": 2857,
-      "voterTurnout": 59.09,
+      "totalVoters": 6667,
+      "ballotsCast": 3965,
+      "voterTurnout": 59.47,
       "Precincts": {
         "Precinct": [
           {
-            "name": "Rochelle North 1",
-            "totalVoters": 571,
-            "ballotsCast": 261,
-            "voterTurnout": 45.71,
+            "name": "Dawson",
+            "totalVoters": 3071,
+            "ballotsCast": 1766,
+            "voterTurnout": 57.51,
             "percentReporting": "4"
           },
           {
-            "name": "Abbeville North 2",
-            "totalVoters": 449,
-            "ballotsCast": 313,
-            "voterTurnout": 69.71,
+            "name": "Sasser",
+            "totalVoters": 1366,
+            "ballotsCast": 900,
+            "voterTurnout": 65.89,
             "percentReporting": "4"
           },
           {
-            "name": "Pineview 2",
-            "totalVoters": 648,
-            "ballotsCast": 411,
-            "voterTurnout": 63.43,
+            "name": "Bronwood",
+            "totalVoters": 900,
+            "ballotsCast": 559,
+            "voterTurnout": 62.11,
             "percentReporting": "4"
           },
           {
-            "name": "Pitts 3",
-            "totalVoters": 904,
-            "ballotsCast": 571,
-            "voterTurnout": 63.16,
+            "name": "Parrott",
+            "totalVoters": 416,
+            "ballotsCast": 137,
+            "voterTurnout": 32.93,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Graves",
+            "totalVoters": 610,
+            "ballotsCast": 404,
+            "voterTurnout": 66.23,
             "percentReporting": "4"
           },
           {
-            "name": "Rochelle South 4",
-            "totalVoters": 1066,
-            "ballotsCast": 674,
-            "voterTurnout": 63.23,
-            "percentReporting": "4"
-          },
-          {
-            "name": "Abbeville South 5",
-            "totalVoters": 1197,
-            "ballotsCast": 627,
-            "voterTurnout": 52.38,
+            "name": "Herod-Dover",
+            "totalVoters": 304,
+            "ballotsCast": 199,
+            "voterTurnout": 65.46,
             "percentReporting": "4"
           }
         ]
@@ -62,64 +62,64 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 6,
-        "precinctsReported": 6,
+        "precinctsReported": 5,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 9,
+            "votes": 3,
             "Precinct": [
               {
-                "name": "Rochelle North 1",
+                "name": "Dawson",
                 "votes": 0
               },
               {
-                "name": "Abbeville North 2",
+                "name": "Sasser",
                 "votes": 1
               },
               {
-                "name": "Pineview 2",
-                "votes": 2
-              },
-              {
-                "name": "Pitts 3",
+                "name": "Bronwood",
                 "votes": 1
               },
               {
-                "name": "Rochelle South 4",
-                "votes": 3
+                "name": "Parrott",
+                "votes": 0
               },
               {
-                "name": "Abbeville South 5",
-                "votes": 2
+                "name": "Graves",
+                "votes": 1
+              },
+              {
+                "name": "Herod-Dover",
+                "votes": 0
               }
             ]
           },
           {
             "name": "Overvotes",
-            "votes": 0,
+            "votes": 1,
             "Precinct": [
               {
-                "name": "Rochelle North 1",
+                "name": "Dawson",
+                "votes": 1
+              },
+              {
+                "name": "Sasser",
                 "votes": 0
               },
               {
-                "name": "Abbeville North 2",
+                "name": "Bronwood",
                 "votes": 0
               },
               {
-                "name": "Pineview 2",
+                "name": "Parrott",
                 "votes": 0
               },
               {
-                "name": "Pitts 3",
+                "name": "Graves",
                 "votes": 0
               },
               {
-                "name": "Rochelle South 4",
-                "votes": 0
-              },
-              {
-                "name": "Abbeville South 5",
+                "name": "Herod-Dover",
                 "votes": 0
               }
             ]
@@ -129,95 +129,95 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 2085,
+            "totalVotes": 1756,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 956,
+                "votes": 677,
                 "Precinct": [
                   {
-                    "name": "Rochelle North 1",
-                    "votes": 29
+                    "name": "Dawson",
+                    "votes": 106
                   },
                   {
-                    "name": "Abbeville North 2",
-                    "votes": 52
+                    "name": "Sasser",
+                    "votes": 255
                   },
                   {
-                    "name": "Pineview 2",
-                    "votes": 135
+                    "name": "Bronwood",
+                    "votes": 132
                   },
                   {
-                    "name": "Pitts 3",
-                    "votes": 291
+                    "name": "Parrott",
+                    "votes": 0
                   },
                   {
-                    "name": "Rochelle South 4",
-                    "votes": 272
+                    "name": "Graves",
+                    "votes": 125
                   },
                   {
-                    "name": "Abbeville South 5",
-                    "votes": 177
+                    "name": "Herod-Dover",
+                    "votes": 59
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 857,
+                "votes": 849,
                 "Precinct": [
                   {
-                    "name": "Rochelle North 1",
-                    "votes": 30
+                    "name": "Dawson",
+                    "votes": 214
                   },
                   {
-                    "name": "Abbeville North 2",
-                    "votes": 152
+                    "name": "Sasser",
+                    "votes": 303
                   },
                   {
-                    "name": "Pineview 2",
-                    "votes": 65
+                    "name": "Bronwood",
+                    "votes": 127
                   },
                   {
-                    "name": "Pitts 3",
-                    "votes": 148
+                    "name": "Parrott",
+                    "votes": 61
                   },
                   {
-                    "name": "Rochelle South 4",
-                    "votes": 237
+                    "name": "Graves",
+                    "votes": 104
                   },
                   {
-                    "name": "Abbeville South 5",
-                    "votes": 225
+                    "name": "Herod-Dover",
+                    "votes": 40
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 272,
+                "votes": 230,
                 "Precinct": [
                   {
-                    "name": "Rochelle North 1",
-                    "votes": 18
+                    "name": "Dawson",
+                    "votes": 72
                   },
                   {
-                    "name": "Abbeville North 2",
+                    "name": "Sasser",
+                    "votes": 53
+                  },
+                  {
+                    "name": "Bronwood",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Parrott",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Graves",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Herod-Dover",
                     "votes": 14
-                  },
-                  {
-                    "name": "Pineview 2",
-                    "votes": 26
-                  },
-                  {
-                    "name": "Pitts 3",
-                    "votes": 56
-                  },
-                  {
-                    "name": "Rochelle South 4",
-                    "votes": 83
-                  },
-                  {
-                    "name": "Abbeville South 5",
-                    "votes": 75
                   }
                 ]
               },
@@ -226,27 +226,27 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Rochelle North 1",
+                    "name": "Dawson",
                     "votes": 0
                   },
                   {
-                    "name": "Abbeville North 2",
+                    "name": "Sasser",
                     "votes": 0
                   },
                   {
-                    "name": "Pineview 2",
+                    "name": "Bronwood",
                     "votes": 0
                   },
                   {
-                    "name": "Pitts 3",
+                    "name": "Parrott",
                     "votes": 0
                   },
                   {
-                    "name": "Rochelle South 4",
+                    "name": "Graves",
                     "votes": 0
                   },
                   {
-                    "name": "Abbeville South 5",
+                    "name": "Herod-Dover",
                     "votes": 0
                   }
                 ]
@@ -256,95 +256,95 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 763,
+            "totalVotes": 2205,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 286,
+                "votes": 542,
                 "Precinct": [
                   {
-                    "name": "Rochelle North 1",
-                    "votes": 76
+                    "name": "Dawson",
+                    "votes": 335
                   },
                   {
-                    "name": "Abbeville North 2",
-                    "votes": 17
+                    "name": "Sasser",
+                    "votes": 78
                   },
                   {
-                    "name": "Pineview 2",
-                    "votes": 91
+                    "name": "Bronwood",
+                    "votes": 66
                   },
                   {
-                    "name": "Pitts 3",
-                    "votes": 34
+                    "name": "Parrott",
+                    "votes": 0
                   },
                   {
-                    "name": "Rochelle South 4",
-                    "votes": 29
+                    "name": "Graves",
+                    "votes": 32
                   },
                   {
-                    "name": "Abbeville South 5",
-                    "votes": 39
+                    "name": "Herod-Dover",
+                    "votes": 31
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 291,
+                "votes": 912,
                 "Precinct": [
                   {
-                    "name": "Rochelle North 1",
-                    "votes": 69
+                    "name": "Dawson",
+                    "votes": 597
                   },
                   {
-                    "name": "Abbeville North 2",
-                    "votes": 56
+                    "name": "Sasser",
+                    "votes": 129
                   },
                   {
-                    "name": "Pineview 2",
-                    "votes": 51
+                    "name": "Bronwood",
+                    "votes": 92
                   },
                   {
-                    "name": "Pitts 3",
-                    "votes": 20
+                    "name": "Parrott",
+                    "votes": 25
                   },
                   {
-                    "name": "Rochelle South 4",
-                    "votes": 27
+                    "name": "Graves",
+                    "votes": 44
                   },
                   {
-                    "name": "Abbeville South 5",
-                    "votes": 68
+                    "name": "Herod-Dover",
+                    "votes": 25
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 186,
+                "votes": 751,
                 "Precinct": [
                   {
-                    "name": "Rochelle North 1",
-                    "votes": 39
+                    "name": "Dawson",
+                    "votes": 441
                   },
                   {
-                    "name": "Abbeville North 2",
-                    "votes": 21
+                    "name": "Sasser",
+                    "votes": 81
                   },
                   {
-                    "name": "Pineview 2",
-                    "votes": 41
+                    "name": "Bronwood",
+                    "votes": 107
                   },
                   {
-                    "name": "Pitts 3",
-                    "votes": 21
+                    "name": "Parrott",
+                    "votes": 35
                   },
                   {
-                    "name": "Rochelle South 4",
-                    "votes": 23
+                    "name": "Graves",
+                    "votes": 57
                   },
                   {
-                    "name": "Abbeville South 5",
-                    "votes": 41
+                    "name": "Herod-Dover",
+                    "votes": 30
                   }
                 ]
               },
@@ -353,27 +353,27 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Rochelle North 1",
+                    "name": "Dawson",
                     "votes": 0
                   },
                   {
-                    "name": "Abbeville North 2",
+                    "name": "Sasser",
                     "votes": 0
                   },
                   {
-                    "name": "Pineview 2",
+                    "name": "Bronwood",
                     "votes": 0
                   },
                   {
-                    "name": "Pitts 3",
+                    "name": "Parrott",
                     "votes": 0
                   },
                   {
-                    "name": "Rochelle South 4",
+                    "name": "Graves",
                     "votes": 0
                   },
                   {
-                    "name": "Abbeville South 5",
+                    "name": "Herod-Dover",
                     "votes": 0
                   }
                 ]
@@ -388,64 +388,64 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 6,
-        "precinctsReported": 6,
+        "precinctsReported": 5,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 6,
+            "votes": 4,
             "Precinct": [
               {
-                "name": "Rochelle North 1",
+                "name": "Dawson",
+                "votes": 1
+              },
+              {
+                "name": "Sasser",
                 "votes": 0
               },
               {
-                "name": "Abbeville North 2",
+                "name": "Bronwood",
+                "votes": 1
+              },
+              {
+                "name": "Parrott",
                 "votes": 0
               },
               {
-                "name": "Pineview 2",
-                "votes": 0
-              },
-              {
-                "name": "Pitts 3",
+                "name": "Graves",
                 "votes": 2
               },
               {
-                "name": "Rochelle South 4",
-                "votes": 4
-              },
-              {
-                "name": "Abbeville South 5",
+                "name": "Herod-Dover",
                 "votes": 0
               }
             ]
           },
           {
             "name": "Overvotes",
-            "votes": 0,
+            "votes": 1,
             "Precinct": [
               {
-                "name": "Rochelle North 1",
+                "name": "Dawson",
                 "votes": 0
               },
               {
-                "name": "Abbeville North 2",
+                "name": "Sasser",
                 "votes": 0
               },
               {
-                "name": "Pineview 2",
+                "name": "Bronwood",
+                "votes": 1
+              },
+              {
+                "name": "Parrott",
                 "votes": 0
               },
               {
-                "name": "Pitts 3",
+                "name": "Graves",
                 "votes": 0
               },
               {
-                "name": "Rochelle South 4",
-                "votes": 0
-              },
-              {
-                "name": "Abbeville South 5",
+                "name": "Herod-Dover",
                 "votes": 0
               }
             ]
@@ -455,95 +455,95 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 2084,
+            "totalVotes": 1749,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 958,
+                "votes": 673,
                 "Precinct": [
                   {
-                    "name": "Rochelle North 1",
-                    "votes": 30
+                    "name": "Dawson",
+                    "votes": 104
                   },
                   {
-                    "name": "Abbeville North 2",
-                    "votes": 52
+                    "name": "Sasser",
+                    "votes": 253
                   },
                   {
-                    "name": "Pineview 2",
-                    "votes": 135
+                    "name": "Bronwood",
+                    "votes": 131
                   },
                   {
-                    "name": "Pitts 3",
-                    "votes": 292
+                    "name": "Parrott",
+                    "votes": 0
                   },
                   {
-                    "name": "Rochelle South 4",
-                    "votes": 273
+                    "name": "Graves",
+                    "votes": 126
                   },
                   {
-                    "name": "Abbeville South 5",
-                    "votes": 176
+                    "name": "Herod-Dover",
+                    "votes": 59
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 857,
+                "votes": 849,
                 "Precinct": [
                   {
-                    "name": "Rochelle North 1",
-                    "votes": 30
+                    "name": "Dawson",
+                    "votes": 212
                   },
                   {
-                    "name": "Abbeville North 2",
-                    "votes": 152
+                    "name": "Sasser",
+                    "votes": 303
                   },
                   {
-                    "name": "Pineview 2",
-                    "votes": 65
+                    "name": "Bronwood",
+                    "votes": 127
                   },
                   {
-                    "name": "Pitts 3",
-                    "votes": 148
+                    "name": "Parrott",
+                    "votes": 61
                   },
                   {
-                    "name": "Rochelle South 4",
-                    "votes": 238
+                    "name": "Graves",
+                    "votes": 104
                   },
                   {
-                    "name": "Abbeville South 5",
-                    "votes": 224
+                    "name": "Herod-Dover",
+                    "votes": 42
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 269,
+                "votes": 227,
                 "Precinct": [
                   {
-                    "name": "Rochelle North 1",
-                    "votes": 17
+                    "name": "Dawson",
+                    "votes": 73
                   },
                   {
-                    "name": "Abbeville North 2",
+                    "name": "Sasser",
+                    "votes": 53
+                  },
+                  {
+                    "name": "Bronwood",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Parrott",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Graves",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Herod-Dover",
                     "votes": 14
-                  },
-                  {
-                    "name": "Pineview 2",
-                    "votes": 27
-                  },
-                  {
-                    "name": "Pitts 3",
-                    "votes": 54
-                  },
-                  {
-                    "name": "Rochelle South 4",
-                    "votes": 82
-                  },
-                  {
-                    "name": "Abbeville South 5",
-                    "votes": 75
                   }
                 ]
               },
@@ -552,27 +552,27 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Rochelle North 1",
+                    "name": "Dawson",
                     "votes": 0
                   },
                   {
-                    "name": "Abbeville North 2",
+                    "name": "Sasser",
                     "votes": 0
                   },
                   {
-                    "name": "Pineview 2",
+                    "name": "Bronwood",
                     "votes": 0
                   },
                   {
-                    "name": "Pitts 3",
+                    "name": "Parrott",
                     "votes": 0
                   },
                   {
-                    "name": "Rochelle South 4",
+                    "name": "Graves",
                     "votes": 0
                   },
                   {
-                    "name": "Abbeville South 5",
+                    "name": "Herod-Dover",
                     "votes": 0
                   }
                 ]
@@ -582,95 +582,95 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 767,
+            "totalVotes": 2211,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 285,
+                "votes": 547,
                 "Precinct": [
                   {
-                    "name": "Rochelle North 1",
-                    "votes": 75
+                    "name": "Dawson",
+                    "votes": 337
                   },
                   {
-                    "name": "Abbeville North 2",
-                    "votes": 18
+                    "name": "Sasser",
+                    "votes": 80
                   },
                   {
-                    "name": "Pineview 2",
-                    "votes": 92
+                    "name": "Bronwood",
+                    "votes": 67
                   },
                   {
-                    "name": "Pitts 3",
+                    "name": "Parrott",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Graves",
                     "votes": 32
                   },
                   {
-                    "name": "Rochelle South 4",
-                    "votes": 27
-                  },
-                  {
-                    "name": "Abbeville South 5",
-                    "votes": 41
+                    "name": "Herod-Dover",
+                    "votes": 31
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 293,
+                "votes": 911,
                 "Precinct": [
                   {
-                    "name": "Rochelle North 1",
-                    "votes": 69
+                    "name": "Dawson",
+                    "votes": 598
                   },
                   {
-                    "name": "Abbeville North 2",
-                    "votes": 56
+                    "name": "Sasser",
+                    "votes": 129
                   },
                   {
-                    "name": "Pineview 2",
-                    "votes": 51
+                    "name": "Bronwood",
+                    "votes": 92
                   },
                   {
-                    "name": "Pitts 3",
-                    "votes": 20
+                    "name": "Parrott",
+                    "votes": 25
                   },
                   {
-                    "name": "Rochelle South 4",
-                    "votes": 27
+                    "name": "Graves",
+                    "votes": 44
                   },
                   {
-                    "name": "Abbeville South 5",
-                    "votes": 70
+                    "name": "Herod-Dover",
+                    "votes": 23
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 189,
+                "votes": 753,
                 "Precinct": [
                   {
-                    "name": "Rochelle North 1",
-                    "votes": 40
+                    "name": "Dawson",
+                    "votes": 441
                   },
                   {
-                    "name": "Abbeville North 2",
-                    "votes": 21
+                    "name": "Sasser",
+                    "votes": 82
                   },
                   {
-                    "name": "Pineview 2",
-                    "votes": 41
+                    "name": "Bronwood",
+                    "votes": 108
                   },
                   {
-                    "name": "Pitts 3",
-                    "votes": 23
+                    "name": "Parrott",
+                    "votes": 35
                   },
                   {
-                    "name": "Rochelle South 4",
-                    "votes": 23
+                    "name": "Graves",
+                    "votes": 57
                   },
                   {
-                    "name": "Abbeville South 5",
-                    "votes": 41
+                    "name": "Herod-Dover",
+                    "votes": 30
                   }
                 ]
               },
@@ -679,27 +679,27 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Rochelle North 1",
+                    "name": "Dawson",
                     "votes": 0
                   },
                   {
-                    "name": "Abbeville North 2",
+                    "name": "Sasser",
                     "votes": 0
                   },
                   {
-                    "name": "Pineview 2",
+                    "name": "Bronwood",
                     "votes": 0
                   },
                   {
-                    "name": "Pitts 3",
+                    "name": "Parrott",
                     "votes": 0
                   },
                   {
-                    "name": "Rochelle South 4",
+                    "name": "Graves",
                     "votes": 0
                   },
                   {
-                    "name": "Abbeville South 5",
+                    "name": "Herod-Dover",
                     "votes": 0
                   }
                 ]
@@ -714,35 +714,35 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 6,
-        "precinctsReported": 6,
+        "precinctsReported": 5,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 47,
+            "votes": 67,
             "Precinct": [
               {
-                "name": "Rochelle North 1",
+                "name": "Dawson",
+                "votes": 30
+              },
+              {
+                "name": "Sasser",
+                "votes": 11
+              },
+              {
+                "name": "Bronwood",
+                "votes": 11
+              },
+              {
+                "name": "Parrott",
+                "votes": 1
+              },
+              {
+                "name": "Graves",
                 "votes": 10
               },
               {
-                "name": "Abbeville North 2",
-                "votes": 6
-              },
-              {
-                "name": "Pineview 2",
-                "votes": 3
-              },
-              {
-                "name": "Pitts 3",
-                "votes": 10
-              },
-              {
-                "name": "Rochelle South 4",
-                "votes": 10
-              },
-              {
-                "name": "Abbeville South 5",
-                "votes": 8
+                "name": "Herod-Dover",
+                "votes": 4
               }
             ]
           },
@@ -751,27 +751,27 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Rochelle North 1",
+                "name": "Dawson",
                 "votes": 0
               },
               {
-                "name": "Abbeville North 2",
+                "name": "Sasser",
                 "votes": 0
               },
               {
-                "name": "Pineview 2",
+                "name": "Bronwood",
                 "votes": 0
               },
               {
-                "name": "Pitts 3",
+                "name": "Parrott",
                 "votes": 0
               },
               {
-                "name": "Rochelle South 4",
+                "name": "Graves",
                 "votes": 0
               },
               {
-                "name": "Abbeville South 5",
+                "name": "Herod-Dover",
                 "votes": 0
               }
             ]
@@ -781,95 +781,95 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 2080,
+            "totalVotes": 1743,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 966,
+                "votes": 671,
                 "Precinct": [
                   {
-                    "name": "Rochelle North 1",
-                    "votes": 34
+                    "name": "Dawson",
+                    "votes": 106
                   },
                   {
-                    "name": "Abbeville North 2",
-                    "votes": 52
+                    "name": "Sasser",
+                    "votes": 255
                   },
                   {
-                    "name": "Pineview 2",
-                    "votes": 136
+                    "name": "Bronwood",
+                    "votes": 129
                   },
                   {
-                    "name": "Pitts 3",
-                    "votes": 290
+                    "name": "Parrott",
+                    "votes": 0
                   },
                   {
-                    "name": "Rochelle South 4",
-                    "votes": 276
+                    "name": "Graves",
+                    "votes": 122
                   },
                   {
-                    "name": "Abbeville South 5",
-                    "votes": 178
+                    "name": "Herod-Dover",
+                    "votes": 59
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 851,
+                "votes": 849,
                 "Precinct": [
                   {
-                    "name": "Rochelle North 1",
-                    "votes": 30
+                    "name": "Dawson",
+                    "votes": 222
                   },
                   {
-                    "name": "Abbeville North 2",
-                    "votes": 153
+                    "name": "Sasser",
+                    "votes": 297
                   },
                   {
-                    "name": "Pineview 2",
-                    "votes": 67
+                    "name": "Bronwood",
+                    "votes": 124
                   },
                   {
-                    "name": "Pitts 3",
-                    "votes": 148
+                    "name": "Parrott",
+                    "votes": 61
                   },
                   {
-                    "name": "Rochelle South 4",
-                    "votes": 233
+                    "name": "Graves",
+                    "votes": 104
                   },
                   {
-                    "name": "Abbeville South 5",
-                    "votes": 220
+                    "name": "Herod-Dover",
+                    "votes": 41
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 263,
+                "votes": 223,
                 "Precinct": [
                   {
-                    "name": "Rochelle North 1",
-                    "votes": 17
+                    "name": "Dawson",
+                    "votes": 71
                   },
                   {
-                    "name": "Abbeville North 2",
+                    "name": "Sasser",
+                    "votes": 52
+                  },
+                  {
+                    "name": "Bronwood",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Parrott",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Graves",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Herod-Dover",
                     "votes": 14
-                  },
-                  {
-                    "name": "Pineview 2",
-                    "votes": 24
-                  },
-                  {
-                    "name": "Pitts 3",
-                    "votes": 56
-                  },
-                  {
-                    "name": "Rochelle South 4",
-                    "votes": 79
-                  },
-                  {
-                    "name": "Abbeville South 5",
-                    "votes": 73
                   }
                 ]
               },
@@ -878,27 +878,27 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Rochelle North 1",
+                    "name": "Dawson",
                     "votes": 0
                   },
                   {
-                    "name": "Abbeville North 2",
+                    "name": "Sasser",
                     "votes": 0
                   },
                   {
-                    "name": "Pineview 2",
+                    "name": "Bronwood",
                     "votes": 0
                   },
                   {
-                    "name": "Pitts 3",
+                    "name": "Parrott",
                     "votes": 0
                   },
                   {
-                    "name": "Rochelle South 4",
+                    "name": "Graves",
                     "votes": 0
                   },
                   {
-                    "name": "Abbeville South 5",
+                    "name": "Herod-Dover",
                     "votes": 0
                   }
                 ]
@@ -908,95 +908,95 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 730,
+            "totalVotes": 2155,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 264,
+                "votes": 537,
                 "Precinct": [
                   {
-                    "name": "Rochelle North 1",
-                    "votes": 67
+                    "name": "Dawson",
+                    "votes": 332
                   },
                   {
-                    "name": "Abbeville North 2",
-                    "votes": 17
+                    "name": "Sasser",
+                    "votes": 77
                   },
                   {
-                    "name": "Pineview 2",
-                    "votes": 88
+                    "name": "Bronwood",
+                    "votes": 66
                   },
                   {
-                    "name": "Pitts 3",
-                    "votes": 29
+                    "name": "Parrott",
+                    "votes": 0
                   },
                   {
-                    "name": "Rochelle South 4",
-                    "votes": 25
+                    "name": "Graves",
+                    "votes": 32
                   },
                   {
-                    "name": "Abbeville South 5",
-                    "votes": 38
+                    "name": "Herod-Dover",
+                    "votes": 30
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 284,
+                "votes": 888,
                 "Precinct": [
                   {
-                    "name": "Rochelle North 1",
-                    "votes": 67
+                    "name": "Dawson",
+                    "votes": 581
                   },
                   {
-                    "name": "Abbeville North 2",
-                    "votes": 53
+                    "name": "Sasser",
+                    "votes": 127
                   },
                   {
-                    "name": "Pineview 2",
-                    "votes": 49
+                    "name": "Bronwood",
+                    "votes": 91
                   },
                   {
-                    "name": "Pitts 3",
-                    "votes": 20
+                    "name": "Parrott",
+                    "votes": 25
                   },
                   {
-                    "name": "Rochelle South 4",
-                    "votes": 26
+                    "name": "Graves",
+                    "votes": 41
                   },
                   {
-                    "name": "Abbeville South 5",
-                    "votes": 69
+                    "name": "Herod-Dover",
+                    "votes": 23
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 182,
+                "votes": 730,
                 "Precinct": [
                   {
-                    "name": "Rochelle North 1",
-                    "votes": 36
+                    "name": "Dawson",
+                    "votes": 424
                   },
                   {
-                    "name": "Abbeville North 2",
-                    "votes": 18
+                    "name": "Sasser",
+                    "votes": 81
                   },
                   {
-                    "name": "Pineview 2",
-                    "votes": 44
+                    "name": "Bronwood",
+                    "votes": 107
                   },
                   {
-                    "name": "Pitts 3",
-                    "votes": 18
+                    "name": "Parrott",
+                    "votes": 34
                   },
                   {
-                    "name": "Rochelle South 4",
-                    "votes": 25
+                    "name": "Graves",
+                    "votes": 56
                   },
                   {
-                    "name": "Abbeville South 5",
-                    "votes": 41
+                    "name": "Herod-Dover",
+                    "votes": 28
                   }
                 ]
               },
@@ -1005,27 +1005,27 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Rochelle North 1",
+                    "name": "Dawson",
                     "votes": 0
                   },
                   {
-                    "name": "Abbeville North 2",
+                    "name": "Sasser",
                     "votes": 0
                   },
                   {
-                    "name": "Pineview 2",
+                    "name": "Bronwood",
                     "votes": 0
                   },
                   {
-                    "name": "Pitts 3",
+                    "name": "Parrott",
                     "votes": 0
                   },
                   {
-                    "name": "Rochelle South 4",
+                    "name": "Graves",
                     "votes": 0
                   },
                   {
-                    "name": "Abbeville South 5",
+                    "name": "Herod-Dover",
                     "votes": 0
                   }
                 ]

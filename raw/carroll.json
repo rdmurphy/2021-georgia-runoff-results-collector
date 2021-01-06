@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:19:54 PM EST",
+    "Timestamp": "1/5/2021 8:38:20 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Carroll",
     "VoterTurnout": {
       "totalVoters": 85118,
-      "ballotsCast": 27635,
-      "voterTurnout": 32.47,
+      "ballotsCast": 35310,
+      "voterTurnout": 41.48,
       "Precincts": {
         "Precinct": [
           {
@@ -27,16 +27,16 @@
           {
             "name": "Sandhill",
             "totalVoters": 4518,
-            "ballotsCast": 1552,
-            "voterTurnout": 34.35,
-            "percentReporting": "2"
+            "ballotsCast": 2461,
+            "voterTurnout": 54.47,
+            "percentReporting": "4"
           },
           {
             "name": "Center Point",
             "totalVoters": 1804,
-            "ballotsCast": 650,
-            "voterTurnout": 36.03,
-            "percentReporting": "2"
+            "ballotsCast": 1225,
+            "voterTurnout": 67.9,
+            "percentReporting": "4"
           },
           {
             "name": "Mt Zion",
@@ -55,23 +55,23 @@
           {
             "name": "Clem",
             "totalVoters": 3731,
-            "ballotsCast": 1503,
-            "voterTurnout": 40.28,
-            "percentReporting": "2"
+            "ballotsCast": 2387,
+            "voterTurnout": 63.98,
+            "percentReporting": "4"
           },
           {
             "name": "Bowdon Junction",
             "totalVoters": 1577,
-            "ballotsCast": 470,
-            "voterTurnout": 29.8,
-            "percentReporting": "2"
+            "ballotsCast": 852,
+            "voterTurnout": 54.03,
+            "percentReporting": "4"
           },
           {
             "name": "Tyus",
             "totalVoters": 1935,
-            "ballotsCast": 521,
-            "voterTurnout": 26.93,
-            "percentReporting": "2"
+            "ballotsCast": 1240,
+            "voterTurnout": 64.08,
+            "percentReporting": "4"
           },
           {
             "name": "Fairfield",
@@ -132,9 +132,9 @@
           {
             "name": "Whitesburg",
             "totalVoters": 2209,
-            "ballotsCast": 570,
-            "voterTurnout": 25.8,
-            "percentReporting": "2"
+            "ballotsCast": 1286,
+            "voterTurnout": 58.22,
+            "percentReporting": "4"
           },
           {
             "name": "Roopville",
@@ -146,23 +146,23 @@
           {
             "name": "West Carrollton",
             "totalVoters": 4451,
-            "ballotsCast": 1272,
-            "voterTurnout": 28.58,
-            "percentReporting": "2"
+            "ballotsCast": 1846,
+            "voterTurnout": 41.47,
+            "percentReporting": "4"
           },
           {
             "name": "Lakeshore Rec Center",
             "totalVoters": 1701,
-            "ballotsCast": 685,
-            "voterTurnout": 40.27,
-            "percentReporting": "2"
+            "ballotsCast": 941,
+            "voterTurnout": 55.32,
+            "percentReporting": "4"
           },
           {
             "name": "Bonner",
             "totalVoters": 3769,
-            "ballotsCast": 1540,
-            "voterTurnout": 40.86,
-            "percentReporting": "2"
+            "ballotsCast": 2149,
+            "voterTurnout": 57.02,
+            "percentReporting": "4"
           },
           {
             "name": "University of W GA",
@@ -174,37 +174,37 @@
           {
             "name": "County Admin Bldg",
             "totalVoters": 2656,
-            "ballotsCast": 1135,
-            "voterTurnout": 42.73,
-            "percentReporting": "2"
+            "ballotsCast": 1546,
+            "voterTurnout": 58.21,
+            "percentReporting": "4"
           },
           {
             "name": "Tabernacle Church",
             "totalVoters": 1640,
-            "ballotsCast": 719,
-            "voterTurnout": 43.84,
-            "percentReporting": "2"
+            "ballotsCast": 991,
+            "voterTurnout": 60.43,
+            "percentReporting": "4"
           },
           {
             "name": "Burson Center",
             "totalVoters": 1483,
-            "ballotsCast": 612,
-            "voterTurnout": 41.27,
-            "percentReporting": "2"
+            "ballotsCast": 868,
+            "voterTurnout": 58.53,
+            "percentReporting": "4"
           },
           {
             "name": "Old Camp Church",
             "totalVoters": 2342,
-            "ballotsCast": 894,
-            "voterTurnout": 38.17,
-            "percentReporting": "2"
+            "ballotsCast": 1516,
+            "voterTurnout": 64.73,
+            "percentReporting": "4"
           },
           {
             "name": "Oak Grove",
             "totalVoters": 1681,
-            "ballotsCast": 553,
-            "voterTurnout": 32.9,
-            "percentReporting": "2"
+            "ballotsCast": 1043,
+            "voterTurnout": 62.05,
+            "percentReporting": "4"
           }
         ]
       }
@@ -216,11 +216,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 28,
-        "precinctsReported": 0,
+        "precinctsReported": 14,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 36,
+            "votes": 50,
             "Precinct": [
               {
                 "name": "Kansas",
@@ -232,11 +232,11 @@
               },
               {
                 "name": "Sandhill",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "Center Point",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "Mt Zion",
@@ -248,7 +248,7 @@
               },
               {
                 "name": "Clem",
-                "votes": 1
+                "votes": 5
               },
               {
                 "name": "Bowdon Junction",
@@ -300,7 +300,7 @@
               },
               {
                 "name": "West Carrollton",
-                "votes": 2
+                "votes": 4
               },
               {
                 "name": "Lakeshore Rec Center",
@@ -308,7 +308,7 @@
               },
               {
                 "name": "Bonner",
-                "votes": 4
+                "votes": 6
               },
               {
                 "name": "University of W GA",
@@ -316,11 +316,11 @@
               },
               {
                 "name": "County Admin Bldg",
-                "votes": 3
+                "votes": 5
               },
               {
                 "name": "Tabernacle Church",
-                "votes": 3
+                "votes": 4
               },
               {
                 "name": "Burson Center",
@@ -332,7 +332,7 @@
               },
               {
                 "name": "Oak Grove",
-                "votes": 0
+                "votes": 1
               }
             ]
           },
@@ -459,11 +459,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 17130,
+            "totalVotes": 23156,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 6026,
                 "Precinct": [
                   {
                     "name": "Kansas",
@@ -475,11 +475,11 @@
                   },
                   {
                     "name": "Sandhill",
-                    "votes": 0
+                    "votes": 727
                   },
                   {
                     "name": "Center Point",
-                    "votes": 0
+                    "votes": 540
                   },
                   {
                     "name": "Mt Zion",
@@ -491,15 +491,15 @@
                   },
                   {
                     "name": "Clem",
-                    "votes": 0
+                    "votes": 750
                   },
                   {
                     "name": "Bowdon Junction",
-                    "votes": 0
+                    "votes": 326
                   },
                   {
                     "name": "Tyus",
-                    "votes": 0
+                    "votes": 670
                   },
                   {
                     "name": "Fairfield",
@@ -535,7 +535,7 @@
                   },
                   {
                     "name": "Whitesburg",
-                    "votes": 0
+                    "votes": 648
                   },
                   {
                     "name": "Roopville",
@@ -543,15 +543,15 @@
                   },
                   {
                     "name": "West Carrollton",
-                    "votes": 0
+                    "votes": 204
                   },
                   {
                     "name": "Lakeshore Rec Center",
-                    "votes": 0
+                    "votes": 173
                   },
                   {
                     "name": "Bonner",
-                    "votes": 0
+                    "votes": 384
                   },
                   {
                     "name": "University of W GA",
@@ -559,23 +559,23 @@
                   },
                   {
                     "name": "County Admin Bldg",
-                    "votes": 0
+                    "votes": 284
                   },
                   {
                     "name": "Tabernacle Church",
-                    "votes": 0
+                    "votes": 179
                   },
                   {
                     "name": "Burson Center",
-                    "votes": 0
+                    "votes": 192
                   },
                   {
                     "name": "Old Camp Church",
-                    "votes": 0
+                    "votes": 528
                   },
                   {
                     "name": "Oak Grove",
-                    "votes": 0
+                    "votes": 421
                   }
                 ]
               },
@@ -938,11 +938,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 10467,
+            "totalVotes": 12102,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 1635,
                 "Precinct": [
                   {
                     "name": "Kansas",
@@ -954,11 +954,11 @@
                   },
                   {
                     "name": "Sandhill",
-                    "votes": 0
+                    "votes": 181
                   },
                   {
                     "name": "Center Point",
-                    "votes": 0
+                    "votes": 34
                   },
                   {
                     "name": "Mt Zion",
@@ -970,15 +970,15 @@
                   },
                   {
                     "name": "Clem",
-                    "votes": 0
+                    "votes": 130
                   },
                   {
                     "name": "Bowdon Junction",
-                    "votes": 0
+                    "votes": 56
                   },
                   {
                     "name": "Tyus",
-                    "votes": 0
+                    "votes": 49
                   },
                   {
                     "name": "Fairfield",
@@ -1014,7 +1014,7 @@
                   },
                   {
                     "name": "Whitesburg",
-                    "votes": 0
+                    "votes": 68
                   },
                   {
                     "name": "Roopville",
@@ -1022,15 +1022,15 @@
                   },
                   {
                     "name": "West Carrollton",
-                    "votes": 0
+                    "votes": 368
                   },
                   {
                     "name": "Lakeshore Rec Center",
-                    "votes": 0
+                    "votes": 83
                   },
                   {
                     "name": "Bonner",
-                    "votes": 0
+                    "votes": 223
                   },
                   {
                     "name": "University of W GA",
@@ -1038,23 +1038,23 @@
                   },
                   {
                     "name": "County Admin Bldg",
-                    "votes": 0
+                    "votes": 125
                   },
                   {
                     "name": "Tabernacle Church",
-                    "votes": 0
+                    "votes": 92
                   },
                   {
                     "name": "Burson Center",
-                    "votes": 0
+                    "votes": 64
                   },
                   {
                     "name": "Old Camp Church",
-                    "votes": 0
+                    "votes": 94
                   },
                   {
                     "name": "Oak Grove",
-                    "votes": 0
+                    "votes": 68
                   }
                 ]
               },
@@ -1422,11 +1422,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 28,
-        "precinctsReported": 0,
+        "precinctsReported": 14,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 38,
+            "votes": 52,
             "Precinct": [
               {
                 "name": "Kansas",
@@ -1438,11 +1438,11 @@
               },
               {
                 "name": "Sandhill",
-                "votes": 4
+                "votes": 5
               },
               {
                 "name": "Center Point",
-                "votes": 1
+                "votes": 3
               },
               {
                 "name": "Mt Zion",
@@ -1454,7 +1454,7 @@
               },
               {
                 "name": "Clem",
-                "votes": 3
+                "votes": 5
               },
               {
                 "name": "Bowdon Junction",
@@ -1462,7 +1462,7 @@
               },
               {
                 "name": "Tyus",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Fairfield",
@@ -1506,7 +1506,7 @@
               },
               {
                 "name": "West Carrollton",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Lakeshore Rec Center",
@@ -1514,7 +1514,7 @@
               },
               {
                 "name": "Bonner",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "University of W GA",
@@ -1522,11 +1522,11 @@
               },
               {
                 "name": "County Admin Bldg",
-                "votes": 1
+                "votes": 3
               },
               {
                 "name": "Tabernacle Church",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Burson Center",
@@ -1534,11 +1534,11 @@
               },
               {
                 "name": "Old Camp Church",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Oak Grove",
-                "votes": 0
+                "votes": 1
               }
             ]
           },
@@ -1665,11 +1665,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 16984,
+            "totalVotes": 22963,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 5979,
                 "Precinct": [
                   {
                     "name": "Kansas",
@@ -1681,11 +1681,11 @@
                   },
                   {
                     "name": "Sandhill",
-                    "votes": 0
+                    "votes": 724
                   },
                   {
                     "name": "Center Point",
-                    "votes": 0
+                    "votes": 537
                   },
                   {
                     "name": "Mt Zion",
@@ -1697,15 +1697,15 @@
                   },
                   {
                     "name": "Clem",
-                    "votes": 0
+                    "votes": 745
                   },
                   {
                     "name": "Bowdon Junction",
-                    "votes": 0
+                    "votes": 324
                   },
                   {
                     "name": "Tyus",
-                    "votes": 0
+                    "votes": 668
                   },
                   {
                     "name": "Fairfield",
@@ -1741,7 +1741,7 @@
                   },
                   {
                     "name": "Whitesburg",
-                    "votes": 0
+                    "votes": 648
                   },
                   {
                     "name": "Roopville",
@@ -1749,15 +1749,15 @@
                   },
                   {
                     "name": "West Carrollton",
-                    "votes": 0
+                    "votes": 201
                   },
                   {
                     "name": "Lakeshore Rec Center",
-                    "votes": 0
+                    "votes": 169
                   },
                   {
                     "name": "Bonner",
-                    "votes": 0
+                    "votes": 385
                   },
                   {
                     "name": "University of W GA",
@@ -1765,23 +1765,23 @@
                   },
                   {
                     "name": "County Admin Bldg",
-                    "votes": 0
+                    "votes": 278
                   },
                   {
                     "name": "Tabernacle Church",
-                    "votes": 0
+                    "votes": 175
                   },
                   {
                     "name": "Burson Center",
-                    "votes": 0
+                    "votes": 191
                   },
                   {
                     "name": "Old Camp Church",
-                    "votes": 0
+                    "votes": 517
                   },
                   {
                     "name": "Oak Grove",
-                    "votes": 0
+                    "votes": 417
                   }
                 ]
               },
@@ -2144,11 +2144,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 10611,
+            "totalVotes": 12293,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 1682,
                 "Precinct": [
                   {
                     "name": "Kansas",
@@ -2160,11 +2160,11 @@
                   },
                   {
                     "name": "Sandhill",
-                    "votes": 0
+                    "votes": 184
                   },
                   {
                     "name": "Center Point",
-                    "votes": 0
+                    "votes": 36
                   },
                   {
                     "name": "Mt Zion",
@@ -2176,15 +2176,15 @@
                   },
                   {
                     "name": "Clem",
-                    "votes": 0
+                    "votes": 137
                   },
                   {
                     "name": "Bowdon Junction",
-                    "votes": 0
+                    "votes": 58
                   },
                   {
                     "name": "Tyus",
-                    "votes": 0
+                    "votes": 50
                   },
                   {
                     "name": "Fairfield",
@@ -2220,7 +2220,7 @@
                   },
                   {
                     "name": "Whitesburg",
-                    "votes": 0
+                    "votes": 68
                   },
                   {
                     "name": "Roopville",
@@ -2228,15 +2228,15 @@
                   },
                   {
                     "name": "West Carrollton",
-                    "votes": 0
+                    "votes": 371
                   },
                   {
                     "name": "Lakeshore Rec Center",
-                    "votes": 0
+                    "votes": 87
                   },
                   {
                     "name": "Bonner",
-                    "votes": 0
+                    "votes": 223
                   },
                   {
                     "name": "University of W GA",
@@ -2244,23 +2244,23 @@
                   },
                   {
                     "name": "County Admin Bldg",
-                    "votes": 0
+                    "votes": 131
                   },
                   {
                     "name": "Tabernacle Church",
-                    "votes": 0
+                    "votes": 96
                   },
                   {
                     "name": "Burson Center",
-                    "votes": 0
+                    "votes": 65
                   },
                   {
                     "name": "Old Camp Church",
-                    "votes": 0
+                    "votes": 104
                   },
                   {
                     "name": "Oak Grove",
-                    "votes": 0
+                    "votes": 72
                   }
                 ]
               },
@@ -2628,11 +2628,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 28,
-        "precinctsReported": 0,
+        "precinctsReported": 14,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 339,
+            "votes": 385,
             "Precinct": [
               {
                 "name": "Kansas",
@@ -2644,11 +2644,11 @@
               },
               {
                 "name": "Sandhill",
-                "votes": 21
+                "votes": 24
               },
               {
                 "name": "Center Point",
-                "votes": 7
+                "votes": 12
               },
               {
                 "name": "Mt Zion",
@@ -2660,15 +2660,15 @@
               },
               {
                 "name": "Clem",
-                "votes": 17
+                "votes": 21
               },
               {
                 "name": "Bowdon Junction",
-                "votes": 4
+                "votes": 6
               },
               {
                 "name": "Tyus",
-                "votes": 9
+                "votes": 11
               },
               {
                 "name": "Fairfield",
@@ -2704,7 +2704,7 @@
               },
               {
                 "name": "Whitesburg",
-                "votes": 8
+                "votes": 17
               },
               {
                 "name": "Roopville",
@@ -2712,15 +2712,15 @@
               },
               {
                 "name": "West Carrollton",
-                "votes": 14
+                "votes": 20
               },
               {
                 "name": "Lakeshore Rec Center",
-                "votes": 11
+                "votes": 14
               },
               {
                 "name": "Bonner",
-                "votes": 22
+                "votes": 28
               },
               {
                 "name": "University of W GA",
@@ -2728,11 +2728,11 @@
               },
               {
                 "name": "County Admin Bldg",
-                "votes": 20
+                "votes": 21
               },
               {
                 "name": "Tabernacle Church",
-                "votes": 6
+                "votes": 8
               },
               {
                 "name": "Burson Center",
@@ -2740,11 +2740,11 @@
               },
               {
                 "name": "Old Camp Church",
-                "votes": 6
+                "votes": 7
               },
               {
                 "name": "Oak Grove",
-                "votes": 4
+                "votes": 6
               }
             ]
           },
@@ -2871,11 +2871,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 17109,
+            "totalVotes": 23175,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 6066,
                 "Precinct": [
                   {
                     "name": "Kansas",
@@ -2887,11 +2887,11 @@
                   },
                   {
                     "name": "Sandhill",
-                    "votes": 0
+                    "votes": 734
                   },
                   {
                     "name": "Center Point",
-                    "votes": 0
+                    "votes": 537
                   },
                   {
                     "name": "Mt Zion",
@@ -2903,15 +2903,15 @@
                   },
                   {
                     "name": "Clem",
-                    "votes": 0
+                    "votes": 751
                   },
                   {
                     "name": "Bowdon Junction",
-                    "votes": 0
+                    "votes": 323
                   },
                   {
                     "name": "Tyus",
-                    "votes": 0
+                    "votes": 668
                   },
                   {
                     "name": "Fairfield",
@@ -2947,7 +2947,7 @@
                   },
                   {
                     "name": "Whitesburg",
-                    "votes": 0
+                    "votes": 643
                   },
                   {
                     "name": "Roopville",
@@ -2955,15 +2955,15 @@
                   },
                   {
                     "name": "West Carrollton",
-                    "votes": 0
+                    "votes": 209
                   },
                   {
                     "name": "Lakeshore Rec Center",
-                    "votes": 0
+                    "votes": 178
                   },
                   {
                     "name": "Bonner",
-                    "votes": 0
+                    "votes": 388
                   },
                   {
                     "name": "University of W GA",
@@ -2971,23 +2971,23 @@
                   },
                   {
                     "name": "County Admin Bldg",
-                    "votes": 0
+                    "votes": 286
                   },
                   {
                     "name": "Tabernacle Church",
-                    "votes": 0
+                    "votes": 184
                   },
                   {
                     "name": "Burson Center",
-                    "votes": 0
+                    "votes": 198
                   },
                   {
                     "name": "Old Camp Church",
-                    "votes": 0
+                    "votes": 542
                   },
                   {
                     "name": "Oak Grove",
-                    "votes": 0
+                    "votes": 425
                   }
                 ]
               },
@@ -3350,11 +3350,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 10162,
+            "totalVotes": 11725,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 1563,
                 "Precinct": [
                   {
                     "name": "Kansas",
@@ -3366,11 +3366,11 @@
                   },
                   {
                     "name": "Sandhill",
-                    "votes": 0
+                    "votes": 172
                   },
                   {
                     "name": "Center Point",
-                    "votes": 0
+                    "votes": 33
                   },
                   {
                     "name": "Mt Zion",
@@ -3382,15 +3382,15 @@
                   },
                   {
                     "name": "Clem",
-                    "votes": 0
+                    "votes": 129
                   },
                   {
                     "name": "Bowdon Junction",
-                    "votes": 0
+                    "votes": 57
                   },
                   {
                     "name": "Tyus",
-                    "votes": 0
+                    "votes": 49
                   },
                   {
                     "name": "Fairfield",
@@ -3426,7 +3426,7 @@
                   },
                   {
                     "name": "Whitesburg",
-                    "votes": 0
+                    "votes": 64
                   },
                   {
                     "name": "Roopville",
@@ -3434,15 +3434,15 @@
                   },
                   {
                     "name": "West Carrollton",
-                    "votes": 0
+                    "votes": 359
                   },
                   {
                     "name": "Lakeshore Rec Center",
-                    "votes": 0
+                    "votes": 75
                   },
                   {
                     "name": "Bonner",
-                    "votes": 0
+                    "votes": 215
                   },
                   {
                     "name": "University of W GA",
@@ -3450,23 +3450,23 @@
                   },
                   {
                     "name": "County Admin Bldg",
-                    "votes": 0
+                    "votes": 124
                   },
                   {
                     "name": "Tabernacle Church",
-                    "votes": 0
+                    "votes": 86
                   },
                   {
                     "name": "Burson Center",
-                    "votes": 0
+                    "votes": 58
                   },
                   {
                     "name": "Old Camp Church",
-                    "votes": 0
+                    "votes": 79
                   },
                   {
                     "name": "Oak Grove",
-                    "votes": 0
+                    "votes": 63
                   }
                 ]
               },

@@ -1,0 +1,1801 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:34:42 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Tift",
+    "VoterTurnout": {
+      "totalVoters": 25062,
+      "ballotsCast": 14423,
+      "voterTurnout": 57.55,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Tifton Northeast",
+            "totalVoters": 3457,
+            "ballotsCast": 1847,
+            "voterTurnout": 53.43,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Brighton",
+            "totalVoters": 2257,
+            "ballotsCast": 1646,
+            "voterTurnout": 72.93,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Brookfield",
+            "totalVoters": 1531,
+            "ballotsCast": 902,
+            "voterTurnout": 58.92,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Chula",
+            "totalVoters": 1347,
+            "ballotsCast": 976,
+            "voterTurnout": 72.46,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Docia",
+            "totalVoters": 1061,
+            "ballotsCast": 761,
+            "voterTurnout": 71.72,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Eldorado",
+            "totalVoters": 1307,
+            "ballotsCast": 804,
+            "voterTurnout": 61.51,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Omega",
+            "totalVoters": 885,
+            "ballotsCast": 470,
+            "voterTurnout": 53.11,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Ty Ty",
+            "totalVoters": 1254,
+            "ballotsCast": 769,
+            "voterTurnout": 61.32,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Tifton Northwest",
+            "totalVoters": 3421,
+            "ballotsCast": 2086,
+            "voterTurnout": 60.98,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Tifton South",
+            "totalVoters": 2407,
+            "ballotsCast": 1046,
+            "voterTurnout": 43.46,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Mott-Litman Gym",
+            "totalVoters": 2951,
+            "ballotsCast": 1284,
+            "voterTurnout": 43.51,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Tifton Lodge",
+            "totalVoters": 3184,
+            "ballotsCast": 1832,
+            "voterTurnout": 57.54,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 12,
+        "precinctsReported": 12,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 35,
+            "Precinct": [
+              {
+                "name": "Tifton Northeast",
+                "votes": 8
+              },
+              {
+                "name": "Brighton",
+                "votes": 1
+              },
+              {
+                "name": "Brookfield",
+                "votes": 1
+              },
+              {
+                "name": "Chula",
+                "votes": 3
+              },
+              {
+                "name": "Docia",
+                "votes": 1
+              },
+              {
+                "name": "Eldorado",
+                "votes": 2
+              },
+              {
+                "name": "Omega",
+                "votes": 0
+              },
+              {
+                "name": "Ty Ty",
+                "votes": 2
+              },
+              {
+                "name": "Tifton Northwest",
+                "votes": 2
+              },
+              {
+                "name": "Tifton South",
+                "votes": 3
+              },
+              {
+                "name": "Mott-Litman Gym",
+                "votes": 9
+              },
+              {
+                "name": "Tifton Lodge",
+                "votes": 3
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Tifton Northeast",
+                "votes": 0
+              },
+              {
+                "name": "Brighton",
+                "votes": 0
+              },
+              {
+                "name": "Brookfield",
+                "votes": 0
+              },
+              {
+                "name": "Chula",
+                "votes": 0
+              },
+              {
+                "name": "Docia",
+                "votes": 0
+              },
+              {
+                "name": "Eldorado",
+                "votes": 0
+              },
+              {
+                "name": "Omega",
+                "votes": 0
+              },
+              {
+                "name": "Ty Ty",
+                "votes": 0
+              },
+              {
+                "name": "Tifton Northwest",
+                "votes": 0
+              },
+              {
+                "name": "Tifton South",
+                "votes": 0
+              },
+              {
+                "name": "Mott-Litman Gym",
+                "votes": 0
+              },
+              {
+                "name": "Tifton Lodge",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 9666,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 3603,
+                "Precinct": [
+                  {
+                    "name": "Tifton Northeast",
+                    "votes": 314
+                  },
+                  {
+                    "name": "Brighton",
+                    "votes": 494
+                  },
+                  {
+                    "name": "Brookfield",
+                    "votes": 348
+                  },
+                  {
+                    "name": "Chula",
+                    "votes": 398
+                  },
+                  {
+                    "name": "Docia",
+                    "votes": 283
+                  },
+                  {
+                    "name": "Eldorado",
+                    "votes": 347
+                  },
+                  {
+                    "name": "Omega",
+                    "votes": 251
+                  },
+                  {
+                    "name": "Ty Ty",
+                    "votes": 295
+                  },
+                  {
+                    "name": "Tifton Northwest",
+                    "votes": 401
+                  },
+                  {
+                    "name": "Tifton South",
+                    "votes": 82
+                  },
+                  {
+                    "name": "Mott-Litman Gym",
+                    "votes": 46
+                  },
+                  {
+                    "name": "Tifton Lodge",
+                    "votes": 344
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 5161,
+                "Precinct": [
+                  {
+                    "name": "Tifton Northeast",
+                    "votes": 677
+                  },
+                  {
+                    "name": "Brighton",
+                    "votes": 785
+                  },
+                  {
+                    "name": "Brookfield",
+                    "votes": 375
+                  },
+                  {
+                    "name": "Chula",
+                    "votes": 356
+                  },
+                  {
+                    "name": "Docia",
+                    "votes": 348
+                  },
+                  {
+                    "name": "Eldorado",
+                    "votes": 306
+                  },
+                  {
+                    "name": "Omega",
+                    "votes": 90
+                  },
+                  {
+                    "name": "Ty Ty",
+                    "votes": 238
+                  },
+                  {
+                    "name": "Tifton Northwest",
+                    "votes": 911
+                  },
+                  {
+                    "name": "Tifton South",
+                    "votes": 208
+                  },
+                  {
+                    "name": "Mott-Litman Gym",
+                    "votes": 152
+                  },
+                  {
+                    "name": "Tifton Lodge",
+                    "votes": 715
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 902,
+                "Precinct": [
+                  {
+                    "name": "Tifton Northeast",
+                    "votes": 149
+                  },
+                  {
+                    "name": "Brighton",
+                    "votes": 92
+                  },
+                  {
+                    "name": "Brookfield",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Chula",
+                    "votes": 74
+                  },
+                  {
+                    "name": "Docia",
+                    "votes": 53
+                  },
+                  {
+                    "name": "Eldorado",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Omega",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Ty Ty",
+                    "votes": 55
+                  },
+                  {
+                    "name": "Tifton Northwest",
+                    "votes": 153
+                  },
+                  {
+                    "name": "Tifton South",
+                    "votes": 37
+                  },
+                  {
+                    "name": "Mott-Litman Gym",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Tifton Lodge",
+                    "votes": 144
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Tifton Northeast",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brighton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brookfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chula",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Docia",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Eldorado",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Omega",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ty Ty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tifton Northwest",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tifton South",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mott-Litman Gym",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tifton Lodge",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 4722,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1170,
+                "Precinct": [
+                  {
+                    "name": "Tifton Northeast",
+                    "votes": 147
+                  },
+                  {
+                    "name": "Brighton",
+                    "votes": 38
+                  },
+                  {
+                    "name": "Brookfield",
+                    "votes": 43
+                  },
+                  {
+                    "name": "Chula",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Docia",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Eldorado",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Omega",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Ty Ty",
+                    "votes": 81
+                  },
+                  {
+                    "name": "Tifton Northwest",
+                    "votes": 132
+                  },
+                  {
+                    "name": "Tifton South",
+                    "votes": 186
+                  },
+                  {
+                    "name": "Mott-Litman Gym",
+                    "votes": 251
+                  },
+                  {
+                    "name": "Tifton Lodge",
+                    "votes": 149
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2326,
+                "Precinct": [
+                  {
+                    "name": "Tifton Northeast",
+                    "votes": 398
+                  },
+                  {
+                    "name": "Brighton",
+                    "votes": 146
+                  },
+                  {
+                    "name": "Brookfield",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Chula",
+                    "votes": 76
+                  },
+                  {
+                    "name": "Docia",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Eldorado",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Omega",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Ty Ty",
+                    "votes": 72
+                  },
+                  {
+                    "name": "Tifton Northwest",
+                    "votes": 339
+                  },
+                  {
+                    "name": "Tifton South",
+                    "votes": 312
+                  },
+                  {
+                    "name": "Mott-Litman Gym",
+                    "votes": 520
+                  },
+                  {
+                    "name": "Tifton Lodge",
+                    "votes": 317
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1226,
+                "Precinct": [
+                  {
+                    "name": "Tifton Northeast",
+                    "votes": 154
+                  },
+                  {
+                    "name": "Brighton",
+                    "votes": 90
+                  },
+                  {
+                    "name": "Brookfield",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Chula",
+                    "votes": 43
+                  },
+                  {
+                    "name": "Docia",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Eldorado",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Omega",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Ty Ty",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Tifton Northwest",
+                    "votes": 148
+                  },
+                  {
+                    "name": "Tifton South",
+                    "votes": 218
+                  },
+                  {
+                    "name": "Mott-Litman Gym",
+                    "votes": 285
+                  },
+                  {
+                    "name": "Tifton Lodge",
+                    "votes": 160
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Tifton Northeast",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brighton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brookfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chula",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Docia",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Eldorado",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Omega",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ty Ty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tifton Northwest",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tifton South",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mott-Litman Gym",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tifton Lodge",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 12,
+        "precinctsReported": 12,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 24,
+            "Precinct": [
+              {
+                "name": "Tifton Northeast",
+                "votes": 2
+              },
+              {
+                "name": "Brighton",
+                "votes": 4
+              },
+              {
+                "name": "Brookfield",
+                "votes": 1
+              },
+              {
+                "name": "Chula",
+                "votes": 3
+              },
+              {
+                "name": "Docia",
+                "votes": 3
+              },
+              {
+                "name": "Eldorado",
+                "votes": 1
+              },
+              {
+                "name": "Omega",
+                "votes": 0
+              },
+              {
+                "name": "Ty Ty",
+                "votes": 1
+              },
+              {
+                "name": "Tifton Northwest",
+                "votes": 1
+              },
+              {
+                "name": "Tifton South",
+                "votes": 2
+              },
+              {
+                "name": "Mott-Litman Gym",
+                "votes": 3
+              },
+              {
+                "name": "Tifton Lodge",
+                "votes": 3
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Tifton Northeast",
+                "votes": 0
+              },
+              {
+                "name": "Brighton",
+                "votes": 0
+              },
+              {
+                "name": "Brookfield",
+                "votes": 0
+              },
+              {
+                "name": "Chula",
+                "votes": 0
+              },
+              {
+                "name": "Docia",
+                "votes": 0
+              },
+              {
+                "name": "Eldorado",
+                "votes": 0
+              },
+              {
+                "name": "Omega",
+                "votes": 0
+              },
+              {
+                "name": "Ty Ty",
+                "votes": 0
+              },
+              {
+                "name": "Tifton Northwest",
+                "votes": 0
+              },
+              {
+                "name": "Tifton South",
+                "votes": 0
+              },
+              {
+                "name": "Mott-Litman Gym",
+                "votes": 0
+              },
+              {
+                "name": "Tifton Lodge",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 9649,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 3599,
+                "Precinct": [
+                  {
+                    "name": "Tifton Northeast",
+                    "votes": 309
+                  },
+                  {
+                    "name": "Brighton",
+                    "votes": 493
+                  },
+                  {
+                    "name": "Brookfield",
+                    "votes": 347
+                  },
+                  {
+                    "name": "Chula",
+                    "votes": 399
+                  },
+                  {
+                    "name": "Docia",
+                    "votes": 284
+                  },
+                  {
+                    "name": "Eldorado",
+                    "votes": 349
+                  },
+                  {
+                    "name": "Omega",
+                    "votes": 249
+                  },
+                  {
+                    "name": "Ty Ty",
+                    "votes": 296
+                  },
+                  {
+                    "name": "Tifton Northwest",
+                    "votes": 401
+                  },
+                  {
+                    "name": "Tifton South",
+                    "votes": 83
+                  },
+                  {
+                    "name": "Mott-Litman Gym",
+                    "votes": 46
+                  },
+                  {
+                    "name": "Tifton Lodge",
+                    "votes": 343
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 5155,
+                "Precinct": [
+                  {
+                    "name": "Tifton Northeast",
+                    "votes": 678
+                  },
+                  {
+                    "name": "Brighton",
+                    "votes": 784
+                  },
+                  {
+                    "name": "Brookfield",
+                    "votes": 373
+                  },
+                  {
+                    "name": "Chula",
+                    "votes": 355
+                  },
+                  {
+                    "name": "Docia",
+                    "votes": 347
+                  },
+                  {
+                    "name": "Eldorado",
+                    "votes": 306
+                  },
+                  {
+                    "name": "Omega",
+                    "votes": 88
+                  },
+                  {
+                    "name": "Ty Ty",
+                    "votes": 240
+                  },
+                  {
+                    "name": "Tifton Northwest",
+                    "votes": 912
+                  },
+                  {
+                    "name": "Tifton South",
+                    "votes": 211
+                  },
+                  {
+                    "name": "Mott-Litman Gym",
+                    "votes": 148
+                  },
+                  {
+                    "name": "Tifton Lodge",
+                    "votes": 713
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 895,
+                "Precinct": [
+                  {
+                    "name": "Tifton Northeast",
+                    "votes": 146
+                  },
+                  {
+                    "name": "Brighton",
+                    "votes": 93
+                  },
+                  {
+                    "name": "Brookfield",
+                    "votes": 43
+                  },
+                  {
+                    "name": "Chula",
+                    "votes": 73
+                  },
+                  {
+                    "name": "Docia",
+                    "votes": 51
+                  },
+                  {
+                    "name": "Eldorado",
+                    "votes": 57
+                  },
+                  {
+                    "name": "Omega",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Ty Ty",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Tifton Northwest",
+                    "votes": 153
+                  },
+                  {
+                    "name": "Tifton South",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Mott-Litman Gym",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Tifton Lodge",
+                    "votes": 146
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Tifton Northeast",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brighton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brookfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chula",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Docia",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Eldorado",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Omega",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ty Ty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tifton Northwest",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tifton South",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mott-Litman Gym",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tifton Lodge",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 4750,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1175,
+                "Precinct": [
+                  {
+                    "name": "Tifton Northeast",
+                    "votes": 152
+                  },
+                  {
+                    "name": "Brighton",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Brookfield",
+                    "votes": 45
+                  },
+                  {
+                    "name": "Chula",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Docia",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Eldorado",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Omega",
+                    "votes": 66
+                  },
+                  {
+                    "name": "Ty Ty",
+                    "votes": 80
+                  },
+                  {
+                    "name": "Tifton Northwest",
+                    "votes": 132
+                  },
+                  {
+                    "name": "Tifton South",
+                    "votes": 185
+                  },
+                  {
+                    "name": "Mott-Litman Gym",
+                    "votes": 252
+                  },
+                  {
+                    "name": "Tifton Lodge",
+                    "votes": 149
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2338,
+                "Precinct": [
+                  {
+                    "name": "Tifton Northeast",
+                    "votes": 401
+                  },
+                  {
+                    "name": "Brighton",
+                    "votes": 146
+                  },
+                  {
+                    "name": "Brookfield",
+                    "votes": 59
+                  },
+                  {
+                    "name": "Chula",
+                    "votes": 77
+                  },
+                  {
+                    "name": "Docia",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Eldorado",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Omega",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Ty Ty",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Tifton Northwest",
+                    "votes": 339
+                  },
+                  {
+                    "name": "Tifton South",
+                    "votes": 308
+                  },
+                  {
+                    "name": "Mott-Litman Gym",
+                    "votes": 526
+                  },
+                  {
+                    "name": "Tifton Lodge",
+                    "votes": 320
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1237,
+                "Precinct": [
+                  {
+                    "name": "Tifton Northeast",
+                    "votes": 159
+                  },
+                  {
+                    "name": "Brighton",
+                    "votes": 86
+                  },
+                  {
+                    "name": "Brookfield",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Chula",
+                    "votes": 44
+                  },
+                  {
+                    "name": "Docia",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Eldorado",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Omega",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Ty Ty",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Tifton Northwest",
+                    "votes": 148
+                  },
+                  {
+                    "name": "Tifton South",
+                    "votes": 221
+                  },
+                  {
+                    "name": "Mott-Litman Gym",
+                    "votes": 291
+                  },
+                  {
+                    "name": "Tifton Lodge",
+                    "votes": 158
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Tifton Northeast",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brighton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brookfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chula",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Docia",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Eldorado",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Omega",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ty Ty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tifton Northwest",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tifton South",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mott-Litman Gym",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tifton Lodge",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 12,
+        "precinctsReported": 12,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 216,
+            "Precinct": [
+              {
+                "name": "Tifton Northeast",
+                "votes": 24
+              },
+              {
+                "name": "Brighton",
+                "votes": 20
+              },
+              {
+                "name": "Brookfield",
+                "votes": 9
+              },
+              {
+                "name": "Chula",
+                "votes": 7
+              },
+              {
+                "name": "Docia",
+                "votes": 6
+              },
+              {
+                "name": "Eldorado",
+                "votes": 11
+              },
+              {
+                "name": "Omega",
+                "votes": 7
+              },
+              {
+                "name": "Ty Ty",
+                "votes": 11
+              },
+              {
+                "name": "Tifton Northwest",
+                "votes": 28
+              },
+              {
+                "name": "Tifton South",
+                "votes": 27
+              },
+              {
+                "name": "Mott-Litman Gym",
+                "votes": 40
+              },
+              {
+                "name": "Tifton Lodge",
+                "votes": 26
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Tifton Northeast",
+                "votes": 0
+              },
+              {
+                "name": "Brighton",
+                "votes": 0
+              },
+              {
+                "name": "Brookfield",
+                "votes": 0
+              },
+              {
+                "name": "Chula",
+                "votes": 0
+              },
+              {
+                "name": "Docia",
+                "votes": 0
+              },
+              {
+                "name": "Eldorado",
+                "votes": 0
+              },
+              {
+                "name": "Omega",
+                "votes": 0
+              },
+              {
+                "name": "Ty Ty",
+                "votes": 0
+              },
+              {
+                "name": "Tifton Northwest",
+                "votes": 0
+              },
+              {
+                "name": "Tifton South",
+                "votes": 0
+              },
+              {
+                "name": "Mott-Litman Gym",
+                "votes": 0
+              },
+              {
+                "name": "Tifton Lodge",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 9706,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 3597,
+                "Precinct": [
+                  {
+                    "name": "Tifton Northeast",
+                    "votes": 305
+                  },
+                  {
+                    "name": "Brighton",
+                    "votes": 494
+                  },
+                  {
+                    "name": "Brookfield",
+                    "votes": 349
+                  },
+                  {
+                    "name": "Chula",
+                    "votes": 396
+                  },
+                  {
+                    "name": "Docia",
+                    "votes": 282
+                  },
+                  {
+                    "name": "Eldorado",
+                    "votes": 347
+                  },
+                  {
+                    "name": "Omega",
+                    "votes": 250
+                  },
+                  {
+                    "name": "Ty Ty",
+                    "votes": 293
+                  },
+                  {
+                    "name": "Tifton Northwest",
+                    "votes": 404
+                  },
+                  {
+                    "name": "Tifton South",
+                    "votes": 80
+                  },
+                  {
+                    "name": "Mott-Litman Gym",
+                    "votes": 45
+                  },
+                  {
+                    "name": "Tifton Lodge",
+                    "votes": 352
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 5180,
+                "Precinct": [
+                  {
+                    "name": "Tifton Northeast",
+                    "votes": 694
+                  },
+                  {
+                    "name": "Brighton",
+                    "votes": 788
+                  },
+                  {
+                    "name": "Brookfield",
+                    "votes": 376
+                  },
+                  {
+                    "name": "Chula",
+                    "votes": 357
+                  },
+                  {
+                    "name": "Docia",
+                    "votes": 351
+                  },
+                  {
+                    "name": "Eldorado",
+                    "votes": 300
+                  },
+                  {
+                    "name": "Omega",
+                    "votes": 89
+                  },
+                  {
+                    "name": "Ty Ty",
+                    "votes": 240
+                  },
+                  {
+                    "name": "Tifton Northwest",
+                    "votes": 913
+                  },
+                  {
+                    "name": "Tifton South",
+                    "votes": 210
+                  },
+                  {
+                    "name": "Mott-Litman Gym",
+                    "votes": 151
+                  },
+                  {
+                    "name": "Tifton Lodge",
+                    "votes": 711
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 929,
+                "Precinct": [
+                  {
+                    "name": "Tifton Northeast",
+                    "votes": 153
+                  },
+                  {
+                    "name": "Brighton",
+                    "votes": 98
+                  },
+                  {
+                    "name": "Brookfield",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Chula",
+                    "votes": 76
+                  },
+                  {
+                    "name": "Docia",
+                    "votes": 59
+                  },
+                  {
+                    "name": "Eldorado",
+                    "votes": 63
+                  },
+                  {
+                    "name": "Omega",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Ty Ty",
+                    "votes": 52
+                  },
+                  {
+                    "name": "Tifton Northwest",
+                    "votes": 152
+                  },
+                  {
+                    "name": "Tifton South",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Mott-Litman Gym",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Tifton Lodge",
+                    "votes": 151
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Tifton Northeast",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brighton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brookfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chula",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Docia",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Eldorado",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Omega",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ty Ty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tifton Northwest",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tifton South",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mott-Litman Gym",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tifton Lodge",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 4501,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1124,
+                "Precinct": [
+                  {
+                    "name": "Tifton Northeast",
+                    "votes": 148
+                  },
+                  {
+                    "name": "Brighton",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Brookfield",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Chula",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Docia",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Eldorado",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Omega",
+                    "votes": 59
+                  },
+                  {
+                    "name": "Ty Ty",
+                    "votes": 79
+                  },
+                  {
+                    "name": "Tifton Northwest",
+                    "votes": 122
+                  },
+                  {
+                    "name": "Tifton South",
+                    "votes": 185
+                  },
+                  {
+                    "name": "Mott-Litman Gym",
+                    "votes": 247
+                  },
+                  {
+                    "name": "Tifton Lodge",
+                    "votes": 139
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2226,
+                "Precinct": [
+                  {
+                    "name": "Tifton Northeast",
+                    "votes": 381
+                  },
+                  {
+                    "name": "Brighton",
+                    "votes": 131
+                  },
+                  {
+                    "name": "Brookfield",
+                    "votes": 52
+                  },
+                  {
+                    "name": "Chula",
+                    "votes": 76
+                  },
+                  {
+                    "name": "Docia",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Eldorado",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Omega",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Ty Ty",
+                    "votes": 68
+                  },
+                  {
+                    "name": "Tifton Northwest",
+                    "votes": 328
+                  },
+                  {
+                    "name": "Tifton South",
+                    "votes": 297
+                  },
+                  {
+                    "name": "Mott-Litman Gym",
+                    "votes": 502
+                  },
+                  {
+                    "name": "Tifton Lodge",
+                    "votes": 305
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1151,
+                "Precinct": [
+                  {
+                    "name": "Tifton Northeast",
+                    "votes": 142
+                  },
+                  {
+                    "name": "Brighton",
+                    "votes": 81
+                  },
+                  {
+                    "name": "Brookfield",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Chula",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Docia",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Eldorado",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Omega",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Ty Ty",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Tifton Northwest",
+                    "votes": 139
+                  },
+                  {
+                    "name": "Tifton South",
+                    "votes": 208
+                  },
+                  {
+                    "name": "Mott-Litman Gym",
+                    "votes": 279
+                  },
+                  {
+                    "name": "Tifton Lodge",
+                    "votes": 148
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Tifton Northeast",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brighton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brookfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Chula",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Docia",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Eldorado",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Omega",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ty Ty",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tifton Northwest",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tifton South",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mott-Litman Gym",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tifton Lodge",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

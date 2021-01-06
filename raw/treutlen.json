@@ -1,20 +1,27 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:37:43 PM EST",
+    "Timestamp": "1/5/2021 8:31:10 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
-    "Region": "Butts",
+    "Region": "Treutlen",
     "VoterTurnout": {
-      "totalVoters": 0,
-      "ballotsCast": 9750,
-      "voterTurnout": 0.0,
+      "totalVoters": 4318,
+      "ballotsCast": 2719,
+      "voterTurnout": 62.97,
       "Precincts": {
         "Precinct": [
           {
-            "name": "Butts County Admin Bldg",
-            "totalVoters": 0,
-            "ballotsCast": 9750,
-            "voterTurnout": 0.0,
+            "name": "Annex",
+            "totalVoters": 1979,
+            "ballotsCast": 1326,
+            "voterTurnout": 67.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Soperton",
+            "totalVoters": 2339,
+            "ballotsCast": 1393,
+            "voterTurnout": 59.56,
             "percentReporting": "4"
           }
         ]
@@ -26,26 +33,34 @@
         "text": "US Senate (Perdue)",
         "voteFor": 1,
         "isQuestion": "false",
-        "precinctsReporting": 1,
-        "precinctsReported": 1,
+        "precinctsReporting": 2,
+        "precinctsReported": 2,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 13,
+            "votes": 15,
             "Precinct": [
               {
-                "name": "Butts County Admin Bldg",
-                "votes": 13
+                "name": "Annex",
+                "votes": 7
+              },
+              {
+                "name": "Soperton",
+                "votes": 8
               }
             ]
           },
           {
             "name": "Overvotes",
-            "votes": 1,
+            "votes": 0,
             "Precinct": [
               {
-                "name": "Butts County Admin Bldg",
-                "votes": 1
+                "name": "Annex",
+                "votes": 0
+              },
+              {
+                "name": "Soperton",
+                "votes": 0
               }
             ]
           }
@@ -54,35 +69,47 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 6964,
+            "totalVotes": 1858,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1896,
+                "votes": 586,
                 "Precinct": [
                   {
-                    "name": "Butts County Admin Bldg",
-                    "votes": 1896
+                    "name": "Annex",
+                    "votes": 361
+                  },
+                  {
+                    "name": "Soperton",
+                    "votes": 225
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 4483,
+                "votes": 1094,
                 "Precinct": [
                   {
-                    "name": "Butts County Admin Bldg",
-                    "votes": 4483
+                    "name": "Annex",
+                    "votes": 683
+                  },
+                  {
+                    "name": "Soperton",
+                    "votes": 411
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 585,
+                "votes": 178,
                 "Precinct": [
                   {
-                    "name": "Butts County Admin Bldg",
-                    "votes": 585
+                    "name": "Annex",
+                    "votes": 108
+                  },
+                  {
+                    "name": "Soperton",
+                    "votes": 70
                   }
                 ]
               },
@@ -91,7 +118,11 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Butts County Admin Bldg",
+                    "name": "Annex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Soperton",
                     "votes": 0
                   }
                 ]
@@ -101,35 +132,47 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 2772,
+            "totalVotes": 846,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 591,
+                "votes": 196,
                 "Precinct": [
                   {
-                    "name": "Butts County Admin Bldg",
-                    "votes": 591
+                    "name": "Annex",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Soperton",
+                    "votes": 173
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 1577,
+                "votes": 414,
                 "Precinct": [
                   {
-                    "name": "Butts County Admin Bldg",
-                    "votes": 1577
+                    "name": "Annex",
+                    "votes": 66
+                  },
+                  {
+                    "name": "Soperton",
+                    "votes": 348
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 604,
+                "votes": 236,
                 "Precinct": [
                   {
-                    "name": "Butts County Admin Bldg",
-                    "votes": 604
+                    "name": "Annex",
+                    "votes": 78
+                  },
+                  {
+                    "name": "Soperton",
+                    "votes": 158
                   }
                 ]
               },
@@ -138,7 +181,11 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Butts County Admin Bldg",
+                    "name": "Annex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Soperton",
                     "votes": 0
                   }
                 ]
@@ -152,26 +199,34 @@
         "text": "US Senate (Loeffler) - Special",
         "voteFor": 1,
         "isQuestion": "false",
-        "precinctsReporting": 1,
-        "precinctsReported": 1,
+        "precinctsReporting": 2,
+        "precinctsReported": 2,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 12,
+            "votes": 8,
             "Precinct": [
               {
-                "name": "Butts County Admin Bldg",
-                "votes": 12
+                "name": "Annex",
+                "votes": 4
+              },
+              {
+                "name": "Soperton",
+                "votes": 4
               }
             ]
           },
           {
             "name": "Overvotes",
-            "votes": 2,
+            "votes": 0,
             "Precinct": [
               {
-                "name": "Butts County Admin Bldg",
-                "votes": 2
+                "name": "Annex",
+                "votes": 0
+              },
+              {
+                "name": "Soperton",
+                "votes": 0
               }
             ]
           }
@@ -180,35 +235,47 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 6945,
+            "totalVotes": 1861,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1893,
+                "votes": 583,
                 "Precinct": [
                   {
-                    "name": "Butts County Admin Bldg",
-                    "votes": 1893
+                    "name": "Annex",
+                    "votes": 361
+                  },
+                  {
+                    "name": "Soperton",
+                    "votes": 222
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 4468,
+                "votes": 1100,
                 "Precinct": [
                   {
-                    "name": "Butts County Admin Bldg",
-                    "votes": 4468
+                    "name": "Annex",
+                    "votes": 685
+                  },
+                  {
+                    "name": "Soperton",
+                    "votes": 415
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 584,
+                "votes": 178,
                 "Precinct": [
                   {
-                    "name": "Butts County Admin Bldg",
-                    "votes": 584
+                    "name": "Annex",
+                    "votes": 107
+                  },
+                  {
+                    "name": "Soperton",
+                    "votes": 71
                   }
                 ]
               },
@@ -217,7 +284,11 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Butts County Admin Bldg",
+                    "name": "Annex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Soperton",
                     "votes": 0
                   }
                 ]
@@ -227,35 +298,47 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 2791,
+            "totalVotes": 850,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 594,
+                "votes": 199,
                 "Precinct": [
                   {
-                    "name": "Butts County Admin Bldg",
-                    "votes": 594
+                    "name": "Annex",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Soperton",
+                    "votes": 175
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 1592,
+                "votes": 414,
                 "Precinct": [
                   {
-                    "name": "Butts County Admin Bldg",
-                    "votes": 1592
+                    "name": "Annex",
+                    "votes": 66
+                  },
+                  {
+                    "name": "Soperton",
+                    "votes": 348
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 605,
+                "votes": 237,
                 "Precinct": [
                   {
-                    "name": "Butts County Admin Bldg",
-                    "votes": 605
+                    "name": "Annex",
+                    "votes": 79
+                  },
+                  {
+                    "name": "Soperton",
+                    "votes": 158
                   }
                 ]
               },
@@ -264,7 +347,11 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Butts County Admin Bldg",
+                    "name": "Annex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Soperton",
                     "votes": 0
                   }
                 ]
@@ -278,16 +365,20 @@
         "text": "Public Service Commission District 4",
         "voteFor": 1,
         "isQuestion": "false",
-        "precinctsReporting": 1,
-        "precinctsReported": 1,
+        "precinctsReporting": 2,
+        "precinctsReported": 2,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 112,
+            "votes": 73,
             "Precinct": [
               {
-                "name": "Butts County Admin Bldg",
-                "votes": 112
+                "name": "Annex",
+                "votes": 20
+              },
+              {
+                "name": "Soperton",
+                "votes": 53
               }
             ]
           },
@@ -296,7 +387,11 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Butts County Admin Bldg",
+                "name": "Annex",
+                "votes": 0
+              },
+              {
+                "name": "Soperton",
                 "votes": 0
               }
             ]
@@ -306,35 +401,47 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 6993,
+            "totalVotes": 1853,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1903,
+                "votes": 581,
                 "Precinct": [
                   {
-                    "name": "Butts County Admin Bldg",
-                    "votes": 1903
+                    "name": "Annex",
+                    "votes": 358
+                  },
+                  {
+                    "name": "Soperton",
+                    "votes": 223
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 4502,
+                "votes": 1090,
                 "Precinct": [
                   {
-                    "name": "Butts County Admin Bldg",
-                    "votes": 4502
+                    "name": "Annex",
+                    "votes": 676
+                  },
+                  {
+                    "name": "Soperton",
+                    "votes": 414
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 588,
+                "votes": 182,
                 "Precinct": [
                   {
-                    "name": "Butts County Admin Bldg",
-                    "votes": 588
+                    "name": "Annex",
+                    "votes": 107
+                  },
+                  {
+                    "name": "Soperton",
+                    "votes": 75
                   }
                 ]
               },
@@ -343,7 +450,11 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Butts County Admin Bldg",
+                    "name": "Annex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Soperton",
                     "votes": 0
                   }
                 ]
@@ -353,35 +464,47 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 2645,
+            "totalVotes": 793,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 558,
+                "votes": 182,
                 "Precinct": [
                   {
-                    "name": "Butts County Admin Bldg",
-                    "votes": 558
+                    "name": "Annex",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Soperton",
+                    "votes": 158
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 1514,
+                "votes": 387,
                 "Precinct": [
                   {
-                    "name": "Butts County Admin Bldg",
-                    "votes": 1514
+                    "name": "Annex",
+                    "votes": 63
+                  },
+                  {
+                    "name": "Soperton",
+                    "votes": 324
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 573,
+                "votes": 224,
                 "Precinct": [
                   {
-                    "name": "Butts County Admin Bldg",
-                    "votes": 573
+                    "name": "Annex",
+                    "votes": 78
+                  },
+                  {
+                    "name": "Soperton",
+                    "votes": 146
                   }
                 ]
               },
@@ -390,7 +513,11 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Butts County Admin Bldg",
+                    "name": "Annex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Soperton",
                     "votes": 0
                   }
                 ]

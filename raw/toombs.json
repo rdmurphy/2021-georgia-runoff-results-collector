@@ -1,49 +1,49 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:34:45 PM EST",
+    "Timestamp": "1/5/2021 8:33:27 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
-    "Region": "Clinch",
+    "Region": "Toombs",
     "VoterTurnout": {
-      "totalVoters": 4386,
-      "ballotsCast": 2201,
-      "voterTurnout": 50.18,
+      "totalVoters": 16621,
+      "ballotsCast": 8240,
+      "voterTurnout": 49.58,
       "Precincts": {
         "Precinct": [
           {
-            "name": "Arabia",
-            "totalVoters": 109,
-            "ballotsCast": 72,
-            "voterTurnout": 66.06,
+            "name": "15361 Lyons",
+            "totalVoters": 3809,
+            "ballotsCast": 1389,
+            "voterTurnout": 36.47,
+            "percentReporting": "2"
+          },
+          {
+            "name": "39 Newbranch",
+            "totalVoters": 1458,
+            "ballotsCast": 966,
+            "voterTurnout": 66.26,
             "percentReporting": "4"
           },
           {
-            "name": "Argyle",
-            "totalVoters": 377,
-            "ballotsCast": 196,
-            "voterTurnout": 51.99,
+            "name": "43 Cedar Crossing",
+            "totalVoters": 1503,
+            "ballotsCast": 879,
+            "voterTurnout": 58.48,
             "percentReporting": "4"
           },
           {
-            "name": "Dupont",
-            "totalVoters": 344,
-            "ballotsCast": 190,
-            "voterTurnout": 55.23,
+            "name": "513 VPD",
+            "totalVoters": 5879,
+            "ballotsCast": 3444,
+            "voterTurnout": 58.58,
             "percentReporting": "4"
           },
           {
-            "name": "Fargo",
-            "totalVoters": 268,
-            "ballotsCast": 147,
-            "voterTurnout": 54.85,
-            "percentReporting": "4"
-          },
-          {
-            "name": "Homerville",
-            "totalVoters": 3288,
-            "ballotsCast": 1596,
-            "voterTurnout": 48.54,
-            "percentReporting": "4"
+            "name": "514 STIALC",
+            "totalVoters": 3972,
+            "ballotsCast": 1562,
+            "voterTurnout": 39.33,
+            "percentReporting": "2"
           }
         ]
       }
@@ -55,31 +55,31 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 5,
-        "precinctsReported": 5,
+        "precinctsReported": 3,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 5,
+            "votes": 28,
             "Precinct": [
               {
-                "name": "Arabia",
-                "votes": 0
-              },
-              {
-                "name": "Argyle",
-                "votes": 0
-              },
-              {
-                "name": "Dupont",
-                "votes": 0
-              },
-              {
-                "name": "Fargo",
-                "votes": 0
-              },
-              {
-                "name": "Homerville",
+                "name": "15361 Lyons",
                 "votes": 5
+              },
+              {
+                "name": "39 Newbranch",
+                "votes": 1
+              },
+              {
+                "name": "43 Cedar Crossing",
+                "votes": 2
+              },
+              {
+                "name": "513 VPD",
+                "votes": 6
+              },
+              {
+                "name": "514 STIALC",
+                "votes": 14
               }
             ]
           },
@@ -88,23 +88,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Arabia",
+                "name": "15361 Lyons",
                 "votes": 0
               },
               {
-                "name": "Argyle",
+                "name": "39 Newbranch",
                 "votes": 0
               },
               {
-                "name": "Dupont",
+                "name": "43 Cedar Crossing",
                 "votes": 0
               },
               {
-                "name": "Fargo",
+                "name": "513 VPD",
                 "votes": 0
               },
               {
-                "name": "Homerville",
+                "name": "514 STIALC",
                 "votes": 0
               }
             ]
@@ -114,83 +114,83 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 1692,
+            "totalVotes": 6017,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 766,
+                "votes": 1422,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 55
+                    "name": "15361 Lyons",
+                    "votes": 0
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 107
+                    "name": "39 Newbranch",
+                    "votes": 427
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 103
+                    "name": "43 Cedar Crossing",
+                    "votes": 399
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 120
+                    "name": "513 VPD",
+                    "votes": 596
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 381
+                    "name": "514 STIALC",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 926,
+                "votes": 3733,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 10
+                    "name": "15361 Lyons",
+                    "votes": 821
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 62
+                    "name": "39 Newbranch",
+                    "votes": 360
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 48
+                    "name": "43 Cedar Crossing",
+                    "votes": 346
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 12
+                    "name": "513 VPD",
+                    "votes": 1427
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 794
+                    "name": "514 STIALC",
+                    "votes": 779
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 862,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 0
+                    "name": "15361 Lyons",
+                    "votes": 185
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 0
+                    "name": "39 Newbranch",
+                    "votes": 76
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 0
+                    "name": "43 Cedar Crossing",
+                    "votes": 70
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 0
+                    "name": "513 VPD",
+                    "votes": 343
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 0
+                    "name": "514 STIALC",
+                    "votes": 188
                   }
                 ]
               },
@@ -199,23 +199,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Arabia",
+                    "name": "15361 Lyons",
                     "votes": 0
                   },
                   {
-                    "name": "Argyle",
+                    "name": "39 Newbranch",
                     "votes": 0
                   },
                   {
-                    "name": "Dupont",
+                    "name": "43 Cedar Crossing",
                     "votes": 0
                   },
                   {
-                    "name": "Fargo",
+                    "name": "513 VPD",
                     "votes": 0
                   },
                   {
-                    "name": "Homerville",
+                    "name": "514 STIALC",
                     "votes": 0
                   }
                 ]
@@ -225,83 +225,83 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 504,
+            "totalVotes": 2195,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 202,
+                "votes": 284,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 3
+                    "name": "15361 Lyons",
+                    "votes": 0
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 13
+                    "name": "39 Newbranch",
+                    "votes": 22
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 27
+                    "name": "43 Cedar Crossing",
+                    "votes": 23
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 7
+                    "name": "513 VPD",
+                    "votes": 239
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 152
+                    "name": "514 STIALC",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 302,
+                "votes": 1075,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 4
+                    "name": "15361 Lyons",
+                    "votes": 228
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 14
+                    "name": "39 Newbranch",
+                    "votes": 28
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 12
+                    "name": "43 Cedar Crossing",
+                    "votes": 20
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 8
+                    "name": "513 VPD",
+                    "votes": 479
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 264
+                    "name": "514 STIALC",
+                    "votes": 320
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 836,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 0
+                    "name": "15361 Lyons",
+                    "votes": 150
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 0
+                    "name": "39 Newbranch",
+                    "votes": 52
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 0
+                    "name": "43 Cedar Crossing",
+                    "votes": 19
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 0
+                    "name": "513 VPD",
+                    "votes": 354
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 0
+                    "name": "514 STIALC",
+                    "votes": 261
                   }
                 ]
               },
@@ -310,23 +310,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Arabia",
+                    "name": "15361 Lyons",
                     "votes": 0
                   },
                   {
-                    "name": "Argyle",
+                    "name": "39 Newbranch",
                     "votes": 0
                   },
                   {
-                    "name": "Dupont",
+                    "name": "43 Cedar Crossing",
                     "votes": 0
                   },
                   {
-                    "name": "Fargo",
+                    "name": "513 VPD",
                     "votes": 0
                   },
                   {
-                    "name": "Homerville",
+                    "name": "514 STIALC",
                     "votes": 0
                   }
                 ]
@@ -341,57 +341,57 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 5,
-        "precinctsReported": 5,
+        "precinctsReported": 3,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 5,
+            "votes": 10,
             "Precinct": [
               {
-                "name": "Arabia",
-                "votes": 0
+                "name": "15361 Lyons",
+                "votes": 3
               },
               {
-                "name": "Argyle",
+                "name": "39 Newbranch",
+                "votes": 2
+              },
+              {
+                "name": "43 Cedar Crossing",
+                "votes": 2
+              },
+              {
+                "name": "513 VPD",
+                "votes": 2
+              },
+              {
+                "name": "514 STIALC",
                 "votes": 1
-              },
-              {
-                "name": "Dupont",
-                "votes": 0
-              },
-              {
-                "name": "Fargo",
-                "votes": 0
-              },
-              {
-                "name": "Homerville",
-                "votes": 4
               }
             ]
           },
           {
             "name": "Overvotes",
-            "votes": 0,
+            "votes": 1,
             "Precinct": [
               {
-                "name": "Arabia",
+                "name": "15361 Lyons",
                 "votes": 0
               },
               {
-                "name": "Argyle",
+                "name": "39 Newbranch",
                 "votes": 0
               },
               {
-                "name": "Dupont",
+                "name": "43 Cedar Crossing",
                 "votes": 0
               },
               {
-                "name": "Fargo",
+                "name": "513 VPD",
                 "votes": 0
               },
               {
-                "name": "Homerville",
-                "votes": 0
+                "name": "514 STIALC",
+                "votes": 1
               }
             ]
           }
@@ -400,83 +400,83 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 1689,
+            "totalVotes": 6004,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 763,
+                "votes": 1417,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 55
+                    "name": "15361 Lyons",
+                    "votes": 0
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 108
+                    "name": "39 Newbranch",
+                    "votes": 426
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 104
+                    "name": "43 Cedar Crossing",
+                    "votes": 397
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 119
+                    "name": "513 VPD",
+                    "votes": 594
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 377
+                    "name": "514 STIALC",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 926,
+                "votes": 3734,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 10
+                    "name": "15361 Lyons",
+                    "votes": 823
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 62
+                    "name": "39 Newbranch",
+                    "votes": 361
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 48
+                    "name": "43 Cedar Crossing",
+                    "votes": 345
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 12
+                    "name": "513 VPD",
+                    "votes": 1428
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 794
+                    "name": "514 STIALC",
+                    "votes": 777
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 853,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 0
+                    "name": "15361 Lyons",
+                    "votes": 183
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 0
+                    "name": "39 Newbranch",
+                    "votes": 77
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 0
+                    "name": "43 Cedar Crossing",
+                    "votes": 69
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 0
+                    "name": "513 VPD",
+                    "votes": 339
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 0
+                    "name": "514 STIALC",
+                    "votes": 185
                   }
                 ]
               },
@@ -485,23 +485,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Arabia",
+                    "name": "15361 Lyons",
                     "votes": 0
                   },
                   {
-                    "name": "Argyle",
+                    "name": "39 Newbranch",
                     "votes": 0
                   },
                   {
-                    "name": "Dupont",
+                    "name": "43 Cedar Crossing",
                     "votes": 0
                   },
                   {
-                    "name": "Fargo",
+                    "name": "513 VPD",
                     "votes": 0
                   },
                   {
-                    "name": "Homerville",
+                    "name": "514 STIALC",
                     "votes": 0
                   }
                 ]
@@ -511,83 +511,83 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 507,
+            "totalVotes": 2225,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 206,
+                "votes": 289,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 3
+                    "name": "15361 Lyons",
+                    "votes": 0
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 11
+                    "name": "39 Newbranch",
+                    "votes": 23
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 26
+                    "name": "43 Cedar Crossing",
+                    "votes": 25
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 8
+                    "name": "513 VPD",
+                    "votes": 241
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 158
+                    "name": "514 STIALC",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 301,
+                "votes": 1082,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 4
+                    "name": "15361 Lyons",
+                    "votes": 229
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 14
+                    "name": "39 Newbranch",
+                    "votes": 26
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 12
+                    "name": "43 Cedar Crossing",
+                    "votes": 21
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 8
+                    "name": "513 VPD",
+                    "votes": 482
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 263
+                    "name": "514 STIALC",
+                    "votes": 324
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 854,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 0
+                    "name": "15361 Lyons",
+                    "votes": 151
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 0
+                    "name": "39 Newbranch",
+                    "votes": 51
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 0
+                    "name": "43 Cedar Crossing",
+                    "votes": 20
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 0
+                    "name": "513 VPD",
+                    "votes": 358
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 0
+                    "name": "514 STIALC",
+                    "votes": 274
                   }
                 ]
               },
@@ -596,23 +596,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Arabia",
+                    "name": "15361 Lyons",
                     "votes": 0
                   },
                   {
-                    "name": "Argyle",
+                    "name": "39 Newbranch",
                     "votes": 0
                   },
                   {
-                    "name": "Dupont",
+                    "name": "43 Cedar Crossing",
                     "votes": 0
                   },
                   {
-                    "name": "Fargo",
+                    "name": "513 VPD",
                     "votes": 0
                   },
                   {
-                    "name": "Homerville",
+                    "name": "514 STIALC",
                     "votes": 0
                   }
                 ]
@@ -627,31 +627,31 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 5,
-        "precinctsReported": 5,
+        "precinctsReported": 3,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 58,
+            "votes": 149,
             "Precinct": [
               {
-                "name": "Arabia",
-                "votes": 0
+                "name": "15361 Lyons",
+                "votes": 33
               },
               {
-                "name": "Argyle",
-                "votes": 6
+                "name": "39 Newbranch",
+                "votes": 15
               },
               {
-                "name": "Dupont",
-                "votes": 6
+                "name": "43 Cedar Crossing",
+                "votes": 15
               },
               {
-                "name": "Fargo",
-                "votes": 2
+                "name": "513 VPD",
+                "votes": 55
               },
               {
-                "name": "Homerville",
-                "votes": 44
+                "name": "514 STIALC",
+                "votes": 31
               }
             ]
           },
@@ -660,23 +660,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Arabia",
+                "name": "15361 Lyons",
                 "votes": 0
               },
               {
-                "name": "Argyle",
+                "name": "39 Newbranch",
                 "votes": 0
               },
               {
-                "name": "Dupont",
+                "name": "43 Cedar Crossing",
                 "votes": 0
               },
               {
-                "name": "Fargo",
+                "name": "513 VPD",
                 "votes": 0
               },
               {
-                "name": "Homerville",
+                "name": "514 STIALC",
                 "votes": 0
               }
             ]
@@ -686,83 +686,83 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 1667,
+            "totalVotes": 5971,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 762,
+                "votes": 1406,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 57
+                    "name": "15361 Lyons",
+                    "votes": 0
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 106
+                    "name": "39 Newbranch",
+                    "votes": 423
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 103
+                    "name": "43 Cedar Crossing",
+                    "votes": 395
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 116
+                    "name": "513 VPD",
+                    "votes": 588
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 380
+                    "name": "514 STIALC",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 905,
+                "votes": 3711,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 10
+                    "name": "15361 Lyons",
+                    "votes": 818
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 58
+                    "name": "39 Newbranch",
+                    "votes": 357
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 46
+                    "name": "43 Cedar Crossing",
+                    "votes": 340
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 12
+                    "name": "513 VPD",
+                    "votes": 1429
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 779
+                    "name": "514 STIALC",
+                    "votes": 767
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 854,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 0
+                    "name": "15361 Lyons",
+                    "votes": 178
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 0
+                    "name": "39 Newbranch",
+                    "votes": 77
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 0
+                    "name": "43 Cedar Crossing",
+                    "votes": 68
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 0
+                    "name": "513 VPD",
+                    "votes": 345
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 0
+                    "name": "514 STIALC",
+                    "votes": 186
                   }
                 ]
               },
@@ -771,23 +771,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Arabia",
+                    "name": "15361 Lyons",
                     "votes": 0
                   },
                   {
-                    "name": "Argyle",
+                    "name": "39 Newbranch",
                     "votes": 0
                   },
                   {
-                    "name": "Dupont",
+                    "name": "43 Cedar Crossing",
                     "votes": 0
                   },
                   {
-                    "name": "Fargo",
+                    "name": "513 VPD",
                     "votes": 0
                   },
                   {
-                    "name": "Homerville",
+                    "name": "514 STIALC",
                     "votes": 0
                   }
                 ]
@@ -797,83 +797,83 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 476,
+            "totalVotes": 2120,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 192,
+                "votes": 274,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 1
+                    "name": "15361 Lyons",
+                    "votes": 0
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 12
+                    "name": "39 Newbranch",
+                    "votes": 18
                   },
                   {
-                    "name": "Dupont",
+                    "name": "43 Cedar Crossing",
                     "votes": 23
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 9
+                    "name": "513 VPD",
+                    "votes": 233
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 147
+                    "name": "514 STIALC",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 284,
+                "votes": 1044,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 4
+                    "name": "15361 Lyons",
+                    "votes": 218
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 14
+                    "name": "39 Newbranch",
+                    "votes": 25
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 12
+                    "name": "43 Cedar Crossing",
+                    "votes": 19
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 8
+                    "name": "513 VPD",
+                    "votes": 462
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 246
+                    "name": "514 STIALC",
+                    "votes": 320
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 802,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 0
+                    "name": "15361 Lyons",
+                    "votes": 142
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 0
+                    "name": "39 Newbranch",
+                    "votes": 51
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 0
+                    "name": "43 Cedar Crossing",
+                    "votes": 19
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 0
+                    "name": "513 VPD",
+                    "votes": 332
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 0
+                    "name": "514 STIALC",
+                    "votes": 258
                   }
                 ]
               },
@@ -882,23 +882,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Arabia",
+                    "name": "15361 Lyons",
                     "votes": 0
                   },
                   {
-                    "name": "Argyle",
+                    "name": "39 Newbranch",
                     "votes": 0
                   },
                   {
-                    "name": "Dupont",
+                    "name": "43 Cedar Crossing",
                     "votes": 0
                   },
                   {
-                    "name": "Fargo",
+                    "name": "513 VPD",
                     "votes": 0
                   },
                   {
-                    "name": "Homerville",
+                    "name": "514 STIALC",
                     "votes": 0
                   }
                 ]

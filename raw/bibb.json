@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:05:33 PM EST",
+    "Timestamp": "1/5/2021 8:35:09 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Bibb",
     "VoterTurnout": {
       "totalVoters": 110077,
-      "ballotsCast": 40582,
-      "voterTurnout": 36.87,
+      "ballotsCast": 43042,
+      "voterTurnout": 39.1,
       "Precincts": {
         "Precinct": [
           {
@@ -55,16 +55,16 @@
           {
             "name": "Godfrey 2",
             "totalVoters": 2229,
-            "ballotsCast": 517,
-            "voterTurnout": 23.19,
-            "percentReporting": "2"
+            "ballotsCast": 762,
+            "voterTurnout": 34.19,
+            "percentReporting": "4"
           },
           {
             "name": "Godfrey 3",
             "totalVoters": 3360,
-            "ballotsCast": 1069,
-            "voterTurnout": 31.82,
-            "percentReporting": "2"
+            "ballotsCast": 1505,
+            "voterTurnout": 44.79,
+            "percentReporting": "4"
           },
           {
             "name": "Godfrey 4",
@@ -216,16 +216,16 @@
           {
             "name": "Warrior 1",
             "totalVoters": 2662,
-            "ballotsCast": 875,
-            "voterTurnout": 32.87,
-            "percentReporting": "2"
+            "ballotsCast": 1773,
+            "voterTurnout": 66.6,
+            "percentReporting": "4"
           },
           {
             "name": "Warrior 2",
             "totalVoters": 8082,
-            "ballotsCast": 1292,
-            "voterTurnout": 15.99,
-            "percentReporting": "2"
+            "ballotsCast": 2173,
+            "voterTurnout": 26.89,
+            "percentReporting": "4"
           }
         ]
       }
@@ -237,11 +237,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 31,
-        "precinctsReported": 0,
+        "precinctsReported": 4,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 100,
+            "votes": 110,
             "Precinct": [
               {
                 "name": "East Macon 1",
@@ -269,11 +269,11 @@
               },
               {
                 "name": "Godfrey 2",
-                "votes": 7
+                "votes": 13
               },
               {
                 "name": "Godfrey 3",
-                "votes": 5
+                "votes": 6
               },
               {
                 "name": "Godfrey 4",
@@ -361,11 +361,11 @@
               },
               {
                 "name": "Warrior 1",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Warrior 2",
-                "votes": 3
+                "votes": 5
               }
             ]
           },
@@ -504,11 +504,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 12496,
+            "totalVotes": 14044,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 1548,
                 "Precinct": [
                   {
                     "name": "East Macon 1",
@@ -536,11 +536,11 @@
                   },
                   {
                     "name": "Godfrey 2",
-                    "votes": 0
+                    "votes": 31
                   },
                   {
                     "name": "Godfrey 3",
-                    "votes": 0
+                    "votes": 36
                   },
                   {
                     "name": "Godfrey 4",
@@ -628,11 +628,11 @@
                   },
                   {
                     "name": "Warrior 1",
-                    "votes": 0
+                    "votes": 744
                   },
                   {
                     "name": "Warrior 2",
-                    "votes": 0
+                    "votes": 737
                   }
                 ]
               },
@@ -1031,11 +1031,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 27986,
+            "totalVotes": 28888,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 902,
                 "Precinct": [
                   {
                     "name": "East Macon 1",
@@ -1063,11 +1063,11 @@
                   },
                   {
                     "name": "Godfrey 2",
-                    "votes": 0
+                    "votes": 208
                   },
                   {
                     "name": "Godfrey 3",
-                    "votes": 0
+                    "votes": 399
                   },
                   {
                     "name": "Godfrey 4",
@@ -1155,11 +1155,11 @@
                   },
                   {
                     "name": "Warrior 1",
-                    "votes": 0
+                    "votes": 153
                   },
                   {
                     "name": "Warrior 2",
-                    "votes": 0
+                    "votes": 142
                   }
                 ]
               },
@@ -1563,11 +1563,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 31,
-        "precinctsReported": 0,
+        "precinctsReported": 4,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 58,
+            "votes": 60,
             "Precinct": [
               {
                 "name": "East Macon 1",
@@ -1599,7 +1599,7 @@
               },
               {
                 "name": "Godfrey 3",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Godfrey 4",
@@ -1691,7 +1691,7 @@
               },
               {
                 "name": "Warrior 2",
-                "votes": 2
+                "votes": 3
               }
             ]
           },
@@ -1830,11 +1830,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 12390,
+            "totalVotes": 13931,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 1541,
                 "Precinct": [
                   {
                     "name": "East Macon 1",
@@ -1862,11 +1862,11 @@
                   },
                   {
                     "name": "Godfrey 2",
-                    "votes": 0
+                    "votes": 29
                   },
                   {
                     "name": "Godfrey 3",
-                    "votes": 0
+                    "votes": 36
                   },
                   {
                     "name": "Godfrey 4",
@@ -1954,11 +1954,11 @@
                   },
                   {
                     "name": "Warrior 1",
-                    "votes": 0
+                    "votes": 736
                   },
                   {
                     "name": "Warrior 2",
-                    "votes": 0
+                    "votes": 740
                   }
                 ]
               },
@@ -2357,11 +2357,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 28134,
+            "totalVotes": 29051,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 917,
                 "Precinct": [
                   {
                     "name": "East Macon 1",
@@ -2389,11 +2389,11 @@
                   },
                   {
                     "name": "Godfrey 2",
-                    "votes": 0
+                    "votes": 216
                   },
                   {
                     "name": "Godfrey 3",
-                    "votes": 0
+                    "votes": 399
                   },
                   {
                     "name": "Godfrey 4",
@@ -2481,11 +2481,11 @@
                   },
                   {
                     "name": "Warrior 1",
-                    "votes": 0
+                    "votes": 162
                   },
                   {
                     "name": "Warrior 2",
-                    "votes": 0
+                    "votes": 140
                   }
                 ]
               },
@@ -2889,11 +2889,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 31,
-        "precinctsReported": 0,
+        "precinctsReported": 4,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 630,
+            "votes": 648,
             "Precinct": [
               {
                 "name": "East Macon 1",
@@ -2921,11 +2921,11 @@
               },
               {
                 "name": "Godfrey 2",
-                "votes": 14
+                "votes": 16
               },
               {
                 "name": "Godfrey 3",
-                "votes": 20
+                "votes": 23
               },
               {
                 "name": "Godfrey 4",
@@ -3013,11 +3013,11 @@
               },
               {
                 "name": "Warrior 1",
-                "votes": 12
+                "votes": 18
               },
               {
                 "name": "Warrior 2",
-                "votes": 20
+                "votes": 27
               }
             ]
           },
@@ -3156,11 +3156,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 12768,
+            "totalVotes": 14323,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 1555,
                 "Precinct": [
                   {
                     "name": "East Macon 1",
@@ -3188,11 +3188,11 @@
                   },
                   {
                     "name": "Godfrey 2",
-                    "votes": 0
+                    "votes": 28
                   },
                   {
                     "name": "Godfrey 3",
-                    "votes": 0
+                    "votes": 44
                   },
                   {
                     "name": "Godfrey 4",
@@ -3280,11 +3280,11 @@
                   },
                   {
                     "name": "Warrior 1",
-                    "votes": 0
+                    "votes": 744
                   },
                   {
                     "name": "Warrior 2",
-                    "votes": 0
+                    "votes": 739
                   }
                 ]
               },
@@ -3683,11 +3683,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 27184,
+            "totalVotes": 28071,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 887,
                 "Precinct": [
                   {
                     "name": "East Macon 1",
@@ -3715,11 +3715,11 @@
                   },
                   {
                     "name": "Godfrey 2",
-                    "votes": 0
+                    "votes": 215
                   },
                   {
                     "name": "Godfrey 3",
-                    "votes": 0
+                    "votes": 389
                   },
                   {
                     "name": "Godfrey 4",
@@ -3807,11 +3807,11 @@
                   },
                   {
                     "name": "Warrior 1",
-                    "votes": 0
+                    "votes": 148
                   },
                   {
                     "name": "Warrior 2",
-                    "votes": 0
+                    "votes": 135
                   }
                 ]
               },

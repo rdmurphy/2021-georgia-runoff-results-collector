@@ -1,48 +1,48 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:34:45 PM EST",
+    "Timestamp": "1/5/2021 8:30:51 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
-    "Region": "Clinch",
+    "Region": "Dooly",
     "VoterTurnout": {
-      "totalVoters": 4386,
-      "ballotsCast": 2201,
-      "voterTurnout": 50.18,
+      "totalVoters": 0,
+      "ballotsCast": 3745,
+      "voterTurnout": 0.0,
       "Precincts": {
         "Precinct": [
           {
-            "name": "Arabia",
-            "totalVoters": 109,
-            "ballotsCast": 72,
-            "voterTurnout": 66.06,
+            "name": "Lilly",
+            "totalVoters": 0,
+            "ballotsCast": 329,
+            "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
-            "name": "Argyle",
-            "totalVoters": 377,
-            "ballotsCast": 196,
-            "voterTurnout": 51.99,
+            "name": "Byromville",
+            "totalVoters": 0,
+            "ballotsCast": 408,
+            "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
-            "name": "Dupont",
-            "totalVoters": 344,
-            "ballotsCast": 190,
-            "voterTurnout": 55.23,
+            "name": "Unadilla",
+            "totalVoters": 0,
+            "ballotsCast": 1001,
+            "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
-            "name": "Fargo",
-            "totalVoters": 268,
-            "ballotsCast": 147,
-            "voterTurnout": 54.85,
+            "name": "Vienna",
+            "totalVoters": 0,
+            "ballotsCast": 1649,
+            "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
-            "name": "Homerville",
-            "totalVoters": 3288,
-            "ballotsCast": 1596,
-            "voterTurnout": 48.54,
+            "name": "Pinehurst",
+            "totalVoters": 0,
+            "ballotsCast": 358,
+            "voterTurnout": 0.0,
             "percentReporting": "4"
           }
         ]
@@ -59,27 +59,27 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 5,
+            "votes": 15,
             "Precinct": [
               {
-                "name": "Arabia",
-                "votes": 0
+                "name": "Lilly",
+                "votes": 1
               },
               {
-                "name": "Argyle",
-                "votes": 0
+                "name": "Byromville",
+                "votes": 1
               },
               {
-                "name": "Dupont",
-                "votes": 0
+                "name": "Unadilla",
+                "votes": 2
               },
               {
-                "name": "Fargo",
-                "votes": 0
+                "name": "Vienna",
+                "votes": 9
               },
               {
-                "name": "Homerville",
-                "votes": 5
+                "name": "Pinehurst",
+                "votes": 2
               }
             ]
           },
@@ -88,23 +88,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Arabia",
+                "name": "Lilly",
                 "votes": 0
               },
               {
-                "name": "Argyle",
+                "name": "Byromville",
                 "votes": 0
               },
               {
-                "name": "Dupont",
+                "name": "Unadilla",
                 "votes": 0
               },
               {
-                "name": "Fargo",
+                "name": "Vienna",
                 "votes": 0
               },
               {
-                "name": "Homerville",
+                "name": "Pinehurst",
                 "votes": 0
               }
             ]
@@ -114,83 +114,83 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 1692,
+            "totalVotes": 1932,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 766,
+                "votes": 699,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 55
+                    "name": "Lilly",
+                    "votes": 63
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 107
+                    "name": "Byromville",
+                    "votes": 110
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 103
+                    "name": "Unadilla",
+                    "votes": 214
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 120
+                    "name": "Vienna",
+                    "votes": 187
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 381
+                    "name": "Pinehurst",
+                    "votes": 125
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 926,
+                "votes": 1039,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 10
+                    "name": "Lilly",
+                    "votes": 72
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 62
+                    "name": "Byromville",
+                    "votes": 71
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 48
+                    "name": "Unadilla",
+                    "votes": 210
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 12
+                    "name": "Vienna",
+                    "votes": 578
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 794
+                    "name": "Pinehurst",
+                    "votes": 108
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 194,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 0
+                    "name": "Lilly",
+                    "votes": 13
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 0
+                    "name": "Byromville",
+                    "votes": 22
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 0
+                    "name": "Unadilla",
+                    "votes": 58
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 0
+                    "name": "Vienna",
+                    "votes": 68
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 0
+                    "name": "Pinehurst",
+                    "votes": 33
                   }
                 ]
               },
@@ -199,23 +199,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Arabia",
+                    "name": "Lilly",
                     "votes": 0
                   },
                   {
-                    "name": "Argyle",
+                    "name": "Byromville",
                     "votes": 0
                   },
                   {
-                    "name": "Dupont",
+                    "name": "Unadilla",
                     "votes": 0
                   },
                   {
-                    "name": "Fargo",
+                    "name": "Vienna",
                     "votes": 0
                   },
                   {
-                    "name": "Homerville",
+                    "name": "Pinehurst",
                     "votes": 0
                   }
                 ]
@@ -225,83 +225,83 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 504,
+            "totalVotes": 1798,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 202,
+                "votes": 555,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 3
+                    "name": "Lilly",
+                    "votes": 70
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 13
+                    "name": "Byromville",
+                    "votes": 80
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 27
+                    "name": "Unadilla",
+                    "votes": 185
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 7
+                    "name": "Vienna",
+                    "votes": 183
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 152
+                    "name": "Pinehurst",
+                    "votes": 37
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 302,
+                "votes": 810,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 4
+                    "name": "Lilly",
+                    "votes": 72
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 14
+                    "name": "Byromville",
+                    "votes": 69
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 12
+                    "name": "Unadilla",
+                    "votes": 199
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 8
+                    "name": "Vienna",
+                    "votes": 436
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 264
+                    "name": "Pinehurst",
+                    "votes": 34
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 433,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 0
+                    "name": "Lilly",
+                    "votes": 38
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 0
+                    "name": "Byromville",
+                    "votes": 55
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 0
+                    "name": "Unadilla",
+                    "votes": 133
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 0
+                    "name": "Vienna",
+                    "votes": 188
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 0
+                    "name": "Pinehurst",
+                    "votes": 19
                   }
                 ]
               },
@@ -310,23 +310,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Arabia",
+                    "name": "Lilly",
                     "votes": 0
                   },
                   {
-                    "name": "Argyle",
+                    "name": "Byromville",
                     "votes": 0
                   },
                   {
-                    "name": "Dupont",
+                    "name": "Unadilla",
                     "votes": 0
                   },
                   {
-                    "name": "Fargo",
+                    "name": "Vienna",
                     "votes": 0
                   },
                   {
-                    "name": "Homerville",
+                    "name": "Pinehurst",
                     "votes": 0
                   }
                 ]
@@ -345,27 +345,27 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 5,
+            "votes": 11,
             "Precinct": [
               {
-                "name": "Arabia",
+                "name": "Lilly",
+                "votes": 2
+              },
+              {
+                "name": "Byromville",
                 "votes": 0
               },
               {
-                "name": "Argyle",
+                "name": "Unadilla",
                 "votes": 1
               },
               {
-                "name": "Dupont",
-                "votes": 0
+                "name": "Vienna",
+                "votes": 8
               },
               {
-                "name": "Fargo",
+                "name": "Pinehurst",
                 "votes": 0
-              },
-              {
-                "name": "Homerville",
-                "votes": 4
               }
             ]
           },
@@ -374,23 +374,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Arabia",
+                "name": "Lilly",
                 "votes": 0
               },
               {
-                "name": "Argyle",
+                "name": "Byromville",
                 "votes": 0
               },
               {
-                "name": "Dupont",
+                "name": "Unadilla",
                 "votes": 0
               },
               {
-                "name": "Fargo",
+                "name": "Vienna",
                 "votes": 0
               },
               {
-                "name": "Homerville",
+                "name": "Pinehurst",
                 "votes": 0
               }
             ]
@@ -400,83 +400,83 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 1689,
+            "totalVotes": 1926,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 763,
+                "votes": 703,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 55
+                    "name": "Lilly",
+                    "votes": 64
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 108
+                    "name": "Byromville",
+                    "votes": 111
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 104
+                    "name": "Unadilla",
+                    "votes": 219
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 119
+                    "name": "Vienna",
+                    "votes": 183
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 377
+                    "name": "Pinehurst",
+                    "votes": 126
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 926,
+                "votes": 1034,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 10
+                    "name": "Lilly",
+                    "votes": 72
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 62
+                    "name": "Byromville",
+                    "votes": 71
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 48
+                    "name": "Unadilla",
+                    "votes": 210
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 12
+                    "name": "Vienna",
+                    "votes": 573
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 794
+                    "name": "Pinehurst",
+                    "votes": 108
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 189,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 0
+                    "name": "Lilly",
+                    "votes": 13
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 0
+                    "name": "Byromville",
+                    "votes": 21
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 0
+                    "name": "Unadilla",
+                    "votes": 57
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 0
+                    "name": "Vienna",
+                    "votes": 65
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 0
+                    "name": "Pinehurst",
+                    "votes": 33
                   }
                 ]
               },
@@ -485,23 +485,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Arabia",
+                    "name": "Lilly",
                     "votes": 0
                   },
                   {
-                    "name": "Argyle",
+                    "name": "Byromville",
                     "votes": 0
                   },
                   {
-                    "name": "Dupont",
+                    "name": "Unadilla",
                     "votes": 0
                   },
                   {
-                    "name": "Fargo",
+                    "name": "Vienna",
                     "votes": 0
                   },
                   {
-                    "name": "Homerville",
+                    "name": "Pinehurst",
                     "votes": 0
                   }
                 ]
@@ -511,83 +511,83 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 507,
+            "totalVotes": 1808,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 206,
+                "votes": 552,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 3
+                    "name": "Lilly",
+                    "votes": 69
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 11
+                    "name": "Byromville",
+                    "votes": 80
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 26
+                    "name": "Unadilla",
+                    "votes": 180
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 8
+                    "name": "Vienna",
+                    "votes": 186
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 158
+                    "name": "Pinehurst",
+                    "votes": 37
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 301,
+                "votes": 820,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 4
+                    "name": "Lilly",
+                    "votes": 72
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 14
+                    "name": "Byromville",
+                    "votes": 69
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 12
+                    "name": "Unadilla",
+                    "votes": 201
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 8
+                    "name": "Vienna",
+                    "votes": 443
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 263
+                    "name": "Pinehurst",
+                    "votes": 35
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 436,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 0
+                    "name": "Lilly",
+                    "votes": 37
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 0
+                    "name": "Byromville",
+                    "votes": 56
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 0
+                    "name": "Unadilla",
+                    "votes": 133
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 0
+                    "name": "Vienna",
+                    "votes": 191
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 0
+                    "name": "Pinehurst",
+                    "votes": 19
                   }
                 ]
               },
@@ -596,23 +596,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Arabia",
+                    "name": "Lilly",
                     "votes": 0
                   },
                   {
-                    "name": "Argyle",
+                    "name": "Byromville",
                     "votes": 0
                   },
                   {
-                    "name": "Dupont",
+                    "name": "Unadilla",
                     "votes": 0
                   },
                   {
-                    "name": "Fargo",
+                    "name": "Vienna",
                     "votes": 0
                   },
                   {
-                    "name": "Homerville",
+                    "name": "Pinehurst",
                     "votes": 0
                   }
                 ]
@@ -631,27 +631,27 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 58,
+            "votes": 100,
             "Precinct": [
               {
-                "name": "Arabia",
-                "votes": 0
+                "name": "Lilly",
+                "votes": 10
               },
               {
-                "name": "Argyle",
-                "votes": 6
+                "name": "Byromville",
+                "votes": 9
               },
               {
-                "name": "Dupont",
-                "votes": 6
+                "name": "Unadilla",
+                "votes": 29
               },
               {
-                "name": "Fargo",
-                "votes": 2
+                "name": "Vienna",
+                "votes": 45
               },
               {
-                "name": "Homerville",
-                "votes": 44
+                "name": "Pinehurst",
+                "votes": 7
               }
             ]
           },
@@ -660,23 +660,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Arabia",
+                "name": "Lilly",
                 "votes": 0
               },
               {
-                "name": "Argyle",
+                "name": "Byromville",
                 "votes": 0
               },
               {
-                "name": "Dupont",
+                "name": "Unadilla",
                 "votes": 0
               },
               {
-                "name": "Fargo",
+                "name": "Vienna",
                 "votes": 0
               },
               {
-                "name": "Homerville",
+                "name": "Pinehurst",
                 "votes": 0
               }
             ]
@@ -686,83 +686,83 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 1667,
+            "totalVotes": 1914,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 762,
+                "votes": 699,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 57
+                    "name": "Lilly",
+                    "votes": 66
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 106
+                    "name": "Byromville",
+                    "votes": 110
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 103
+                    "name": "Unadilla",
+                    "votes": 210
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 116
+                    "name": "Vienna",
+                    "votes": 187
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 380
+                    "name": "Pinehurst",
+                    "votes": 126
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 905,
+                "votes": 1018,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 10
+                    "name": "Lilly",
+                    "votes": 71
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 58
+                    "name": "Byromville",
+                    "votes": 71
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 46
+                    "name": "Unadilla",
+                    "votes": 205
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 12
+                    "name": "Vienna",
+                    "votes": 565
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 779
+                    "name": "Pinehurst",
+                    "votes": 106
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 197,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 0
+                    "name": "Lilly",
+                    "votes": 13
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 0
+                    "name": "Byromville",
+                    "votes": 22
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 0
+                    "name": "Unadilla",
+                    "votes": 59
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 0
+                    "name": "Vienna",
+                    "votes": 70
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 0
+                    "name": "Pinehurst",
+                    "votes": 33
                   }
                 ]
               },
@@ -771,23 +771,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Arabia",
+                    "name": "Lilly",
                     "votes": 0
                   },
                   {
-                    "name": "Argyle",
+                    "name": "Byromville",
                     "votes": 0
                   },
                   {
-                    "name": "Dupont",
+                    "name": "Unadilla",
                     "votes": 0
                   },
                   {
-                    "name": "Fargo",
+                    "name": "Vienna",
                     "votes": 0
                   },
                   {
-                    "name": "Homerville",
+                    "name": "Pinehurst",
                     "votes": 0
                   }
                 ]
@@ -797,83 +797,83 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 476,
+            "totalVotes": 1730,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 192,
+                "votes": 523,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 1
+                    "name": "Lilly",
+                    "votes": 62
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 12
+                    "name": "Byromville",
+                    "votes": 78
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 23
+                    "name": "Unadilla",
+                    "votes": 174
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 9
+                    "name": "Vienna",
+                    "votes": 175
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 147
+                    "name": "Pinehurst",
+                    "votes": 34
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 284,
+                "votes": 789,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 4
+                    "name": "Lilly",
+                    "votes": 69
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 14
+                    "name": "Byromville",
+                    "votes": 63
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 12
+                    "name": "Unadilla",
+                    "votes": 193
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 8
+                    "name": "Vienna",
+                    "votes": 429
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 246
+                    "name": "Pinehurst",
+                    "votes": 35
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 418,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 0
+                    "name": "Lilly",
+                    "votes": 38
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 0
+                    "name": "Byromville",
+                    "votes": 55
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 0
+                    "name": "Unadilla",
+                    "votes": 131
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 0
+                    "name": "Vienna",
+                    "votes": 178
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 0
+                    "name": "Pinehurst",
+                    "votes": 16
                   }
                 ]
               },
@@ -882,23 +882,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Arabia",
+                    "name": "Lilly",
                     "votes": 0
                   },
                   {
-                    "name": "Argyle",
+                    "name": "Byromville",
                     "votes": 0
                   },
                   {
-                    "name": "Dupont",
+                    "name": "Unadilla",
                     "votes": 0
                   },
                   {
-                    "name": "Fargo",
+                    "name": "Vienna",
                     "votes": 0
                   },
                   {
-                    "name": "Homerville",
+                    "name": "Pinehurst",
                     "votes": 0
                   }
                 ]

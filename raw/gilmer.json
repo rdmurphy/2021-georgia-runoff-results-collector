@@ -1,0 +1,1928 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:39:07 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Gilmer",
+    "VoterTurnout": {
+      "totalVoters": 22781,
+      "ballotsCast": 8099,
+      "voterTurnout": 35.55,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Ellijay South",
+            "totalVoters": 3226,
+            "ballotsCast": 985,
+            "voterTurnout": 30.53,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Cartecay",
+            "totalVoters": 1624,
+            "ballotsCast": 426,
+            "voterTurnout": 26.23,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Tails Creek",
+            "totalVoters": 1845,
+            "ballotsCast": 393,
+            "voterTurnout": 21.3,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Town Creek",
+            "totalVoters": 1270,
+            "ballotsCast": 241,
+            "voterTurnout": 18.98,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Leaches",
+            "totalVoters": 3022,
+            "ballotsCast": 857,
+            "voterTurnout": 28.36,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Cherry Log",
+            "totalVoters": 953,
+            "ballotsCast": 559,
+            "voterTurnout": 58.66,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Boardtown",
+            "totalVoters": 1428,
+            "ballotsCast": 859,
+            "voterTurnout": 60.15,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Mountaintown",
+            "totalVoters": 1170,
+            "ballotsCast": 672,
+            "voterTurnout": 57.44,
+            "percentReporting": "4"
+          },
+          {
+            "name": "East Ellijay",
+            "totalVoters": 1700,
+            "ballotsCast": 502,
+            "voterTurnout": 29.53,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Ellijay North",
+            "totalVoters": 1844,
+            "ballotsCast": 507,
+            "voterTurnout": 27.49,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Yukon",
+            "totalVoters": 1322,
+            "ballotsCast": 704,
+            "voterTurnout": 53.25,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Big Creek",
+            "totalVoters": 1503,
+            "ballotsCast": 391,
+            "voterTurnout": 26.01,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Ellijay Northeast",
+            "totalVoters": 1874,
+            "ballotsCast": 1003,
+            "voterTurnout": 53.52,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 13,
+        "precinctsReported": 5,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 11,
+            "Precinct": [
+              {
+                "name": "Ellijay South",
+                "votes": 3
+              },
+              {
+                "name": "Cartecay",
+                "votes": 0
+              },
+              {
+                "name": "Tails Creek",
+                "votes": 0
+              },
+              {
+                "name": "Town Creek",
+                "votes": 1
+              },
+              {
+                "name": "Leaches",
+                "votes": 2
+              },
+              {
+                "name": "Cherry Log",
+                "votes": 0
+              },
+              {
+                "name": "Boardtown",
+                "votes": 2
+              },
+              {
+                "name": "Mountaintown",
+                "votes": 1
+              },
+              {
+                "name": "East Ellijay",
+                "votes": 0
+              },
+              {
+                "name": "Ellijay North",
+                "votes": 2
+              },
+              {
+                "name": "Yukon",
+                "votes": 0
+              },
+              {
+                "name": "Big Creek",
+                "votes": 0
+              },
+              {
+                "name": "Ellijay Northeast",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Ellijay South",
+                "votes": 0
+              },
+              {
+                "name": "Cartecay",
+                "votes": 0
+              },
+              {
+                "name": "Tails Creek",
+                "votes": 0
+              },
+              {
+                "name": "Town Creek",
+                "votes": 0
+              },
+              {
+                "name": "Leaches",
+                "votes": 0
+              },
+              {
+                "name": "Cherry Log",
+                "votes": 0
+              },
+              {
+                "name": "Boardtown",
+                "votes": 0
+              },
+              {
+                "name": "Mountaintown",
+                "votes": 0
+              },
+              {
+                "name": "East Ellijay",
+                "votes": 0
+              },
+              {
+                "name": "Ellijay North",
+                "votes": 0
+              },
+              {
+                "name": "Yukon",
+                "votes": 0
+              },
+              {
+                "name": "Big Creek",
+                "votes": 0
+              },
+              {
+                "name": "Ellijay Northeast",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 6965,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1647,
+                "Precinct": [
+                  {
+                    "name": "Ellijay South",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cartecay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tails Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leaches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cherry Log",
+                    "votes": 279
+                  },
+                  {
+                    "name": "Boardtown",
+                    "votes": 337
+                  },
+                  {
+                    "name": "Mountaintown",
+                    "votes": 305
+                  },
+                  {
+                    "name": "East Ellijay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay North",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Yukon",
+                    "votes": 377
+                  },
+                  {
+                    "name": "Big Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay Northeast",
+                    "votes": 349
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 5318,
+                "Precinct": [
+                  {
+                    "name": "Ellijay South",
+                    "votes": 817
+                  },
+                  {
+                    "name": "Cartecay",
+                    "votes": 369
+                  },
+                  {
+                    "name": "Tails Creek",
+                    "votes": 339
+                  },
+                  {
+                    "name": "Town Creek",
+                    "votes": 216
+                  },
+                  {
+                    "name": "Leaches",
+                    "votes": 707
+                  },
+                  {
+                    "name": "Cherry Log",
+                    "votes": 185
+                  },
+                  {
+                    "name": "Boardtown",
+                    "votes": 423
+                  },
+                  {
+                    "name": "Mountaintown",
+                    "votes": 283
+                  },
+                  {
+                    "name": "East Ellijay",
+                    "votes": 442
+                  },
+                  {
+                    "name": "Ellijay North",
+                    "votes": 423
+                  },
+                  {
+                    "name": "Yukon",
+                    "votes": 258
+                  },
+                  {
+                    "name": "Big Creek",
+                    "votes": 329
+                  },
+                  {
+                    "name": "Ellijay Northeast",
+                    "votes": 527
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Ellijay South",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cartecay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tails Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leaches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cherry Log",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boardtown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mountaintown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Ellijay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay North",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Yukon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Big Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay Northeast",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Ellijay South",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cartecay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tails Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leaches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cherry Log",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boardtown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mountaintown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Ellijay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay North",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Yukon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Big Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay Northeast",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 1123,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 158,
+                "Precinct": [
+                  {
+                    "name": "Ellijay South",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cartecay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tails Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leaches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cherry Log",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Boardtown",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Mountaintown",
+                    "votes": 35
+                  },
+                  {
+                    "name": "East Ellijay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay North",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Yukon",
+                    "votes": 37
+                  },
+                  {
+                    "name": "Big Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay Northeast",
+                    "votes": 17
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 965,
+                "Precinct": [
+                  {
+                    "name": "Ellijay South",
+                    "votes": 165
+                  },
+                  {
+                    "name": "Cartecay",
+                    "votes": 57
+                  },
+                  {
+                    "name": "Tails Creek",
+                    "votes": 54
+                  },
+                  {
+                    "name": "Town Creek",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Leaches",
+                    "votes": 148
+                  },
+                  {
+                    "name": "Cherry Log",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Boardtown",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Mountaintown",
+                    "votes": 48
+                  },
+                  {
+                    "name": "East Ellijay",
+                    "votes": 60
+                  },
+                  {
+                    "name": "Ellijay North",
+                    "votes": 82
+                  },
+                  {
+                    "name": "Yukon",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Big Creek",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Ellijay Northeast",
+                    "votes": 110
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Ellijay South",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cartecay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tails Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leaches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cherry Log",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boardtown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mountaintown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Ellijay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay North",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Yukon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Big Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay Northeast",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Ellijay South",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cartecay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tails Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leaches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cherry Log",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boardtown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mountaintown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Ellijay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay North",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Yukon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Big Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay Northeast",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 13,
+        "precinctsReported": 5,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 7,
+            "Precinct": [
+              {
+                "name": "Ellijay South",
+                "votes": 2
+              },
+              {
+                "name": "Cartecay",
+                "votes": 0
+              },
+              {
+                "name": "Tails Creek",
+                "votes": 1
+              },
+              {
+                "name": "Town Creek",
+                "votes": 0
+              },
+              {
+                "name": "Leaches",
+                "votes": 1
+              },
+              {
+                "name": "Cherry Log",
+                "votes": 0
+              },
+              {
+                "name": "Boardtown",
+                "votes": 1
+              },
+              {
+                "name": "Mountaintown",
+                "votes": 1
+              },
+              {
+                "name": "East Ellijay",
+                "votes": 0
+              },
+              {
+                "name": "Ellijay North",
+                "votes": 0
+              },
+              {
+                "name": "Yukon",
+                "votes": 1
+              },
+              {
+                "name": "Big Creek",
+                "votes": 0
+              },
+              {
+                "name": "Ellijay Northeast",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Ellijay South",
+                "votes": 0
+              },
+              {
+                "name": "Cartecay",
+                "votes": 0
+              },
+              {
+                "name": "Tails Creek",
+                "votes": 0
+              },
+              {
+                "name": "Town Creek",
+                "votes": 0
+              },
+              {
+                "name": "Leaches",
+                "votes": 0
+              },
+              {
+                "name": "Cherry Log",
+                "votes": 0
+              },
+              {
+                "name": "Boardtown",
+                "votes": 0
+              },
+              {
+                "name": "Mountaintown",
+                "votes": 0
+              },
+              {
+                "name": "East Ellijay",
+                "votes": 0
+              },
+              {
+                "name": "Ellijay North",
+                "votes": 0
+              },
+              {
+                "name": "Yukon",
+                "votes": 0
+              },
+              {
+                "name": "Big Creek",
+                "votes": 0
+              },
+              {
+                "name": "Ellijay Northeast",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 6959,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1647,
+                "Precinct": [
+                  {
+                    "name": "Ellijay South",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cartecay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tails Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leaches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cherry Log",
+                    "votes": 278
+                  },
+                  {
+                    "name": "Boardtown",
+                    "votes": 339
+                  },
+                  {
+                    "name": "Mountaintown",
+                    "votes": 305
+                  },
+                  {
+                    "name": "East Ellijay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay North",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Yukon",
+                    "votes": 376
+                  },
+                  {
+                    "name": "Big Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay Northeast",
+                    "votes": 349
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 5312,
+                "Precinct": [
+                  {
+                    "name": "Ellijay South",
+                    "votes": 816
+                  },
+                  {
+                    "name": "Cartecay",
+                    "votes": 370
+                  },
+                  {
+                    "name": "Tails Creek",
+                    "votes": 339
+                  },
+                  {
+                    "name": "Town Creek",
+                    "votes": 214
+                  },
+                  {
+                    "name": "Leaches",
+                    "votes": 704
+                  },
+                  {
+                    "name": "Cherry Log",
+                    "votes": 187
+                  },
+                  {
+                    "name": "Boardtown",
+                    "votes": 423
+                  },
+                  {
+                    "name": "Mountaintown",
+                    "votes": 281
+                  },
+                  {
+                    "name": "East Ellijay",
+                    "votes": 443
+                  },
+                  {
+                    "name": "Ellijay North",
+                    "votes": 425
+                  },
+                  {
+                    "name": "Yukon",
+                    "votes": 258
+                  },
+                  {
+                    "name": "Big Creek",
+                    "votes": 326
+                  },
+                  {
+                    "name": "Ellijay Northeast",
+                    "votes": 526
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Ellijay South",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cartecay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tails Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leaches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cherry Log",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boardtown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mountaintown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Ellijay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay North",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Yukon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Big Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay Northeast",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Ellijay South",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cartecay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tails Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leaches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cherry Log",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boardtown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mountaintown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Ellijay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay North",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Yukon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Big Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay Northeast",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 1133,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 157,
+                "Precinct": [
+                  {
+                    "name": "Ellijay South",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cartecay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tails Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leaches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cherry Log",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Boardtown",
+                    "votes": 28
+                  },
+                  {
+                    "name": "Mountaintown",
+                    "votes": 35
+                  },
+                  {
+                    "name": "East Ellijay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay North",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Yukon",
+                    "votes": 37
+                  },
+                  {
+                    "name": "Big Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay Northeast",
+                    "votes": 17
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 976,
+                "Precinct": [
+                  {
+                    "name": "Ellijay South",
+                    "votes": 167
+                  },
+                  {
+                    "name": "Cartecay",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Tails Creek",
+                    "votes": 53
+                  },
+                  {
+                    "name": "Town Creek",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Leaches",
+                    "votes": 152
+                  },
+                  {
+                    "name": "Cherry Log",
+                    "votes": 54
+                  },
+                  {
+                    "name": "Boardtown",
+                    "votes": 68
+                  },
+                  {
+                    "name": "Mountaintown",
+                    "votes": 50
+                  },
+                  {
+                    "name": "East Ellijay",
+                    "votes": 59
+                  },
+                  {
+                    "name": "Ellijay North",
+                    "votes": 82
+                  },
+                  {
+                    "name": "Yukon",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Big Creek",
+                    "votes": 65
+                  },
+                  {
+                    "name": "Ellijay Northeast",
+                    "votes": 111
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Ellijay South",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cartecay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tails Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leaches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cherry Log",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boardtown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mountaintown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Ellijay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay North",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Yukon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Big Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay Northeast",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Ellijay South",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cartecay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tails Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leaches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cherry Log",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boardtown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mountaintown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Ellijay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay North",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Yukon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Big Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay Northeast",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 13,
+        "precinctsReported": 5,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 93,
+            "Precinct": [
+              {
+                "name": "Ellijay South",
+                "votes": 15
+              },
+              {
+                "name": "Cartecay",
+                "votes": 3
+              },
+              {
+                "name": "Tails Creek",
+                "votes": 6
+              },
+              {
+                "name": "Town Creek",
+                "votes": 1
+              },
+              {
+                "name": "Leaches",
+                "votes": 10
+              },
+              {
+                "name": "Cherry Log",
+                "votes": 9
+              },
+              {
+                "name": "Boardtown",
+                "votes": 10
+              },
+              {
+                "name": "Mountaintown",
+                "votes": 4
+              },
+              {
+                "name": "East Ellijay",
+                "votes": 7
+              },
+              {
+                "name": "Ellijay North",
+                "votes": 11
+              },
+              {
+                "name": "Yukon",
+                "votes": 3
+              },
+              {
+                "name": "Big Creek",
+                "votes": 9
+              },
+              {
+                "name": "Ellijay Northeast",
+                "votes": 5
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Ellijay South",
+                "votes": 0
+              },
+              {
+                "name": "Cartecay",
+                "votes": 0
+              },
+              {
+                "name": "Tails Creek",
+                "votes": 0
+              },
+              {
+                "name": "Town Creek",
+                "votes": 0
+              },
+              {
+                "name": "Leaches",
+                "votes": 0
+              },
+              {
+                "name": "Cherry Log",
+                "votes": 0
+              },
+              {
+                "name": "Boardtown",
+                "votes": 0
+              },
+              {
+                "name": "Mountaintown",
+                "votes": 0
+              },
+              {
+                "name": "East Ellijay",
+                "votes": 0
+              },
+              {
+                "name": "Ellijay North",
+                "votes": 0
+              },
+              {
+                "name": "Yukon",
+                "votes": 0
+              },
+              {
+                "name": "Big Creek",
+                "votes": 0
+              },
+              {
+                "name": "Ellijay Northeast",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 6931,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1635,
+                "Precinct": [
+                  {
+                    "name": "Ellijay South",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cartecay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tails Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leaches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cherry Log",
+                    "votes": 277
+                  },
+                  {
+                    "name": "Boardtown",
+                    "votes": 335
+                  },
+                  {
+                    "name": "Mountaintown",
+                    "votes": 303
+                  },
+                  {
+                    "name": "East Ellijay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay North",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Yukon",
+                    "votes": 374
+                  },
+                  {
+                    "name": "Big Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay Northeast",
+                    "votes": 346
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 5296,
+                "Precinct": [
+                  {
+                    "name": "Ellijay South",
+                    "votes": 819
+                  },
+                  {
+                    "name": "Cartecay",
+                    "votes": 369
+                  },
+                  {
+                    "name": "Tails Creek",
+                    "votes": 335
+                  },
+                  {
+                    "name": "Town Creek",
+                    "votes": 216
+                  },
+                  {
+                    "name": "Leaches",
+                    "votes": 705
+                  },
+                  {
+                    "name": "Cherry Log",
+                    "votes": 186
+                  },
+                  {
+                    "name": "Boardtown",
+                    "votes": 419
+                  },
+                  {
+                    "name": "Mountaintown",
+                    "votes": 280
+                  },
+                  {
+                    "name": "East Ellijay",
+                    "votes": 439
+                  },
+                  {
+                    "name": "Ellijay North",
+                    "votes": 421
+                  },
+                  {
+                    "name": "Yukon",
+                    "votes": 260
+                  },
+                  {
+                    "name": "Big Creek",
+                    "votes": 324
+                  },
+                  {
+                    "name": "Ellijay Northeast",
+                    "votes": 523
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Ellijay South",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cartecay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tails Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leaches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cherry Log",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boardtown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mountaintown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Ellijay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay North",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Yukon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Big Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay Northeast",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Ellijay South",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cartecay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tails Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leaches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cherry Log",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boardtown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mountaintown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Ellijay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay North",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Yukon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Big Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay Northeast",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 1075,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 153,
+                "Precinct": [
+                  {
+                    "name": "Ellijay South",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cartecay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tails Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leaches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cherry Log",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Boardtown",
+                    "votes": 28
+                  },
+                  {
+                    "name": "Mountaintown",
+                    "votes": 37
+                  },
+                  {
+                    "name": "East Ellijay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay North",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Yukon",
+                    "votes": 37
+                  },
+                  {
+                    "name": "Big Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay Northeast",
+                    "votes": 18
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 922,
+                "Precinct": [
+                  {
+                    "name": "Ellijay South",
+                    "votes": 151
+                  },
+                  {
+                    "name": "Cartecay",
+                    "votes": 54
+                  },
+                  {
+                    "name": "Tails Creek",
+                    "votes": 52
+                  },
+                  {
+                    "name": "Town Creek",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Leaches",
+                    "votes": 142
+                  },
+                  {
+                    "name": "Cherry Log",
+                    "votes": 54
+                  },
+                  {
+                    "name": "Boardtown",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Mountaintown",
+                    "votes": 48
+                  },
+                  {
+                    "name": "East Ellijay",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Ellijay North",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Yukon",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Big Creek",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Ellijay Northeast",
+                    "votes": 111
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Ellijay South",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cartecay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tails Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leaches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cherry Log",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boardtown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mountaintown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Ellijay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay North",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Yukon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Big Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay Northeast",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Ellijay South",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cartecay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tails Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leaches",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cherry Log",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boardtown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mountaintown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Ellijay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay North",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Yukon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Big Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellijay Northeast",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

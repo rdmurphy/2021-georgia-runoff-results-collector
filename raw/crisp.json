@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:25:52 PM EST",
+    "Timestamp": "1/5/2021 8:34:29 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Crisp",
     "VoterTurnout": {
       "totalVoters": 12792,
-      "ballotsCast": 6387,
-      "voterTurnout": 49.93,
+      "ballotsCast": 7144,
+      "voterTurnout": 55.85,
       "Precincts": {
         "Precinct": [
           {
@@ -20,9 +20,9 @@
           {
             "name": "Coney",
             "totalVoters": 857,
-            "ballotsCast": 461,
-            "voterTurnout": 53.79,
-            "percentReporting": "2"
+            "ballotsCast": 681,
+            "voterTurnout": 79.46,
+            "percentReporting": "4"
           },
           {
             "name": "Cordele",
@@ -34,16 +34,16 @@
           {
             "name": "Jamestown",
             "totalVoters": 1220,
-            "ballotsCast": 588,
-            "voterTurnout": 48.2,
-            "percentReporting": "2"
+            "ballotsCast": 891,
+            "voterTurnout": 73.03,
+            "percentReporting": "4"
           },
           {
             "name": "Listonia",
             "totalVoters": 851,
-            "ballotsCast": 330,
-            "voterTurnout": 38.78,
-            "percentReporting": "2"
+            "ballotsCast": 564,
+            "voterTurnout": 66.27,
+            "percentReporting": "4"
           }
         ]
       }
@@ -55,7 +55,7 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 5,
-        "precinctsReported": 2,
+        "precinctsReported": 5,
         "VoteType": [
           {
             "name": "Undervotes",
@@ -114,11 +114,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 3740,
+            "totalVotes": 4453,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 654,
+                "votes": 1367,
                 "Precinct": [
                   {
                     "name": "Arabi",
@@ -126,7 +126,7 @@
                   },
                   {
                     "name": "Coney",
-                    "votes": 0
+                    "votes": 206
                   },
                   {
                     "name": "Cordele",
@@ -134,11 +134,11 @@
                   },
                   {
                     "name": "Jamestown",
-                    "votes": 0
+                    "votes": 284
                   },
                   {
                     "name": "Listonia",
-                    "votes": 0
+                    "votes": 223
                   }
                 ]
               },
@@ -225,11 +225,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 2637,
+            "totalVotes": 2681,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 604,
+                "votes": 648,
                 "Precinct": [
                   {
                     "name": "Arabi",
@@ -237,7 +237,7 @@
                   },
                   {
                     "name": "Coney",
-                    "votes": 0
+                    "votes": 14
                   },
                   {
                     "name": "Cordele",
@@ -245,11 +245,11 @@
                   },
                   {
                     "name": "Jamestown",
-                    "votes": 0
+                    "votes": 19
                   },
                   {
                     "name": "Listonia",
-                    "votes": 0
+                    "votes": 11
                   }
                 ]
               },
@@ -341,11 +341,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 5,
-        "precinctsReported": 2,
+        "precinctsReported": 5,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 6,
+            "votes": 7,
             "Precinct": [
               {
                 "name": "Arabi",
@@ -365,7 +365,7 @@
               },
               {
                 "name": "Listonia",
-                "votes": 0
+                "votes": 1
               }
             ]
           },
@@ -400,11 +400,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 3723,
+            "totalVotes": 4435,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 648,
+                "votes": 1360,
                 "Precinct": [
                   {
                     "name": "Arabi",
@@ -412,7 +412,7 @@
                   },
                   {
                     "name": "Coney",
-                    "votes": 0
+                    "votes": 205
                   },
                   {
                     "name": "Cordele",
@@ -420,11 +420,11 @@
                   },
                   {
                     "name": "Jamestown",
-                    "votes": 0
+                    "votes": 285
                   },
                   {
                     "name": "Listonia",
-                    "votes": 0
+                    "votes": 222
                   }
                 ]
               },
@@ -511,11 +511,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 2658,
+            "totalVotes": 2702,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 610,
+                "votes": 654,
                 "Precinct": [
                   {
                     "name": "Arabi",
@@ -523,7 +523,7 @@
                   },
                   {
                     "name": "Coney",
-                    "votes": 0
+                    "votes": 15
                   },
                   {
                     "name": "Cordele",
@@ -531,11 +531,11 @@
                   },
                   {
                     "name": "Jamestown",
-                    "votes": 0
+                    "votes": 18
                   },
                   {
                     "name": "Listonia",
-                    "votes": 0
+                    "votes": 11
                   }
                 ]
               },
@@ -627,11 +627,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 5,
-        "precinctsReported": 2,
+        "precinctsReported": 5,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 118,
+            "votes": 124,
             "Precinct": [
               {
                 "name": "Arabi",
@@ -647,11 +647,11 @@
               },
               {
                 "name": "Jamestown",
-                "votes": 9
+                "votes": 10
               },
               {
                 "name": "Listonia",
-                "votes": 2
+                "votes": 7
               }
             ]
           },
@@ -686,11 +686,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 3761,
+            "totalVotes": 4476,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 644,
+                "votes": 1359,
                 "Precinct": [
                   {
                     "name": "Arabi",
@@ -698,7 +698,7 @@
                   },
                   {
                     "name": "Coney",
-                    "votes": 0
+                    "votes": 208
                   },
                   {
                     "name": "Cordele",
@@ -706,11 +706,11 @@
                   },
                   {
                     "name": "Jamestown",
-                    "votes": 0
+                    "votes": 286
                   },
                   {
                     "name": "Listonia",
-                    "votes": 0
+                    "votes": 221
                   }
                 ]
               },
@@ -797,11 +797,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 2497,
+            "totalVotes": 2533,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 577,
+                "votes": 613,
                 "Precinct": [
                   {
                     "name": "Arabi",
@@ -809,7 +809,7 @@
                   },
                   {
                     "name": "Coney",
-                    "votes": 0
+                    "votes": 12
                   },
                   {
                     "name": "Cordele",
@@ -817,11 +817,11 @@
                   },
                   {
                     "name": "Jamestown",
-                    "votes": 0
+                    "votes": 16
                   },
                   {
                     "name": "Listonia",
-                    "votes": 0
+                    "votes": 8
                   }
                 ]
               },

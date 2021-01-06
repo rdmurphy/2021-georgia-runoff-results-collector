@@ -1,42 +1,35 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:31:20 PM EST",
+    "Timestamp": "1/5/2021 8:32:15 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
-    "Region": "Atkinson",
+    "Region": "Towns",
     "VoterTurnout": {
-      "totalVoters": 4877,
-      "ballotsCast": 1056,
-      "voterTurnout": 21.65,
+      "totalVoters": 0,
+      "ballotsCast": 0,
+      "voterTurnout": 0.0,
       "Precincts": {
         "Precinct": [
           {
-            "name": "Pearson County",
-            "totalVoters": 1841,
-            "ballotsCast": 483,
-            "voterTurnout": 26.24,
-            "percentReporting": "2"
-          },
-          {
-            "name": "Axson",
-            "totalVoters": 751,
-            "ballotsCast": 287,
-            "voterTurnout": 38.22,
-            "percentReporting": "2"
-          },
-          {
-            "name": "Willacoochee",
-            "totalVoters": 1342,
-            "ballotsCast": 69,
-            "voterTurnout": 5.14,
+            "name": "Young Harris",
+            "totalVoters": 0,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
             "percentReporting": "1"
           },
           {
-            "name": "Pearson City",
-            "totalVoters": 943,
-            "ballotsCast": 217,
-            "voterTurnout": 23.01,
-            "percentReporting": "2"
+            "name": "Macedonia",
+            "totalVoters": 0,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Hiawassee",
+            "totalVoters": 0,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
           }
         ]
       }
@@ -47,27 +40,23 @@
         "text": "US Senate (Perdue)",
         "voteFor": 1,
         "isQuestion": "false",
-        "precinctsReporting": 4,
+        "precinctsReporting": 3,
         "precinctsReported": 0,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 3,
+            "votes": 0,
             "Precinct": [
               {
-                "name": "Pearson County",
-                "votes": 1
-              },
-              {
-                "name": "Axson",
-                "votes": 2
-              },
-              {
-                "name": "Willacoochee",
+                "name": "Young Harris",
                 "votes": 0
               },
               {
-                "name": "Pearson City",
+                "name": "Macedonia",
+                "votes": 0
+              },
+              {
+                "name": "Hiawassee",
                 "votes": 0
               }
             ]
@@ -77,19 +66,15 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Pearson County",
+                "name": "Young Harris",
                 "votes": 0
               },
               {
-                "name": "Axson",
+                "name": "Macedonia",
                 "votes": 0
               },
               {
-                "name": "Willacoochee",
-                "votes": 0
-              },
-              {
-                "name": "Pearson City",
+                "name": "Hiawassee",
                 "votes": 0
               }
             ]
@@ -99,27 +84,23 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 788,
+            "totalVotes": 0,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 656,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Pearson County",
-                    "votes": 354
-                  },
-                  {
-                    "name": "Axson",
-                    "votes": 240
-                  },
-                  {
-                    "name": "Willacoochee",
+                    "name": "Young Harris",
                     "votes": 0
                   },
                   {
-                    "name": "Pearson City",
-                    "votes": 62
+                    "name": "Macedonia",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hiawassee",
+                    "votes": 0
                   }
                 ]
               },
@@ -128,42 +109,34 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Pearson County",
+                    "name": "Young Harris",
                     "votes": 0
                   },
                   {
-                    "name": "Axson",
+                    "name": "Macedonia",
                     "votes": 0
                   },
                   {
-                    "name": "Willacoochee",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Pearson City",
+                    "name": "Hiawassee",
                     "votes": 0
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 132,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Pearson County",
-                    "votes": 58
+                    "name": "Young Harris",
+                    "votes": 0
                   },
                   {
-                    "name": "Axson",
-                    "votes": 23
+                    "name": "Macedonia",
+                    "votes": 0
                   },
                   {
-                    "name": "Willacoochee",
-                    "votes": 32
-                  },
-                  {
-                    "name": "Pearson City",
-                    "votes": 19
+                    "name": "Hiawassee",
+                    "votes": 0
                   }
                 ]
               },
@@ -172,19 +145,15 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Pearson County",
+                    "name": "Young Harris",
                     "votes": 0
                   },
                   {
-                    "name": "Axson",
+                    "name": "Macedonia",
                     "votes": 0
                   },
                   {
-                    "name": "Willacoochee",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Pearson City",
+                    "name": "Hiawassee",
                     "votes": 0
                   }
                 ]
@@ -194,27 +163,23 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 265,
+            "totalVotes": 0,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 153,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Pearson County",
-                    "votes": 41
-                  },
-                  {
-                    "name": "Axson",
-                    "votes": 19
-                  },
-                  {
-                    "name": "Willacoochee",
+                    "name": "Young Harris",
                     "votes": 0
                   },
                   {
-                    "name": "Pearson City",
-                    "votes": 93
+                    "name": "Macedonia",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hiawassee",
+                    "votes": 0
                   }
                 ]
               },
@@ -223,42 +188,34 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Pearson County",
+                    "name": "Young Harris",
                     "votes": 0
                   },
                   {
-                    "name": "Axson",
+                    "name": "Macedonia",
                     "votes": 0
                   },
                   {
-                    "name": "Willacoochee",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Pearson City",
+                    "name": "Hiawassee",
                     "votes": 0
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 112,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Pearson County",
-                    "votes": 29
+                    "name": "Young Harris",
+                    "votes": 0
                   },
                   {
-                    "name": "Axson",
-                    "votes": 3
+                    "name": "Macedonia",
+                    "votes": 0
                   },
                   {
-                    "name": "Willacoochee",
-                    "votes": 37
-                  },
-                  {
-                    "name": "Pearson City",
-                    "votes": 43
+                    "name": "Hiawassee",
+                    "votes": 0
                   }
                 ]
               },
@@ -267,19 +224,15 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Pearson County",
+                    "name": "Young Harris",
                     "votes": 0
                   },
                   {
-                    "name": "Axson",
+                    "name": "Macedonia",
                     "votes": 0
                   },
                   {
-                    "name": "Willacoochee",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Pearson City",
+                    "name": "Hiawassee",
                     "votes": 0
                   }
                 ]
@@ -293,27 +246,23 @@
         "text": "US Senate (Loeffler) - Special",
         "voteFor": 1,
         "isQuestion": "false",
-        "precinctsReporting": 4,
+        "precinctsReporting": 3,
         "precinctsReported": 0,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 2,
+            "votes": 0,
             "Precinct": [
               {
-                "name": "Pearson County",
+                "name": "Young Harris",
                 "votes": 0
               },
               {
-                "name": "Axson",
-                "votes": 1
+                "name": "Macedonia",
+                "votes": 0
               },
               {
-                "name": "Willacoochee",
-                "votes": 1
-              },
-              {
-                "name": "Pearson City",
+                "name": "Hiawassee",
                 "votes": 0
               }
             ]
@@ -323,19 +272,15 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Pearson County",
+                "name": "Young Harris",
                 "votes": 0
               },
               {
-                "name": "Axson",
+                "name": "Macedonia",
                 "votes": 0
               },
               {
-                "name": "Willacoochee",
-                "votes": 0
-              },
-              {
-                "name": "Pearson City",
+                "name": "Hiawassee",
                 "votes": 0
               }
             ]
@@ -345,27 +290,23 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 790,
+            "totalVotes": 0,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 658,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Pearson County",
-                    "votes": 356
-                  },
-                  {
-                    "name": "Axson",
-                    "votes": 241
-                  },
-                  {
-                    "name": "Willacoochee",
+                    "name": "Young Harris",
                     "votes": 0
                   },
                   {
-                    "name": "Pearson City",
-                    "votes": 61
+                    "name": "Macedonia",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hiawassee",
+                    "votes": 0
                   }
                 ]
               },
@@ -374,42 +315,34 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Pearson County",
+                    "name": "Young Harris",
                     "votes": 0
                   },
                   {
-                    "name": "Axson",
+                    "name": "Macedonia",
                     "votes": 0
                   },
                   {
-                    "name": "Willacoochee",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Pearson City",
+                    "name": "Hiawassee",
                     "votes": 0
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 132,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Pearson County",
-                    "votes": 59
+                    "name": "Young Harris",
+                    "votes": 0
                   },
                   {
-                    "name": "Axson",
-                    "votes": 22
+                    "name": "Macedonia",
+                    "votes": 0
                   },
                   {
-                    "name": "Willacoochee",
-                    "votes": 31
-                  },
-                  {
-                    "name": "Pearson City",
-                    "votes": 20
+                    "name": "Hiawassee",
+                    "votes": 0
                   }
                 ]
               },
@@ -418,19 +351,15 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Pearson County",
+                    "name": "Young Harris",
                     "votes": 0
                   },
                   {
-                    "name": "Axson",
+                    "name": "Macedonia",
                     "votes": 0
                   },
                   {
-                    "name": "Willacoochee",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Pearson City",
+                    "name": "Hiawassee",
                     "votes": 0
                   }
                 ]
@@ -440,27 +369,23 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 264,
+            "totalVotes": 0,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 153,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Pearson County",
-                    "votes": 40
-                  },
-                  {
-                    "name": "Axson",
-                    "votes": 19
-                  },
-                  {
-                    "name": "Willacoochee",
+                    "name": "Young Harris",
                     "votes": 0
                   },
                   {
-                    "name": "Pearson City",
-                    "votes": 94
+                    "name": "Macedonia",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hiawassee",
+                    "votes": 0
                   }
                 ]
               },
@@ -469,42 +394,34 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Pearson County",
+                    "name": "Young Harris",
                     "votes": 0
                   },
                   {
-                    "name": "Axson",
+                    "name": "Macedonia",
                     "votes": 0
                   },
                   {
-                    "name": "Willacoochee",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Pearson City",
+                    "name": "Hiawassee",
                     "votes": 0
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 111,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Pearson County",
-                    "votes": 28
+                    "name": "Young Harris",
+                    "votes": 0
                   },
                   {
-                    "name": "Axson",
-                    "votes": 4
+                    "name": "Macedonia",
+                    "votes": 0
                   },
                   {
-                    "name": "Willacoochee",
-                    "votes": 37
-                  },
-                  {
-                    "name": "Pearson City",
-                    "votes": 42
+                    "name": "Hiawassee",
+                    "votes": 0
                   }
                 ]
               },
@@ -513,19 +430,15 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Pearson County",
+                    "name": "Young Harris",
                     "votes": 0
                   },
                   {
-                    "name": "Axson",
+                    "name": "Macedonia",
                     "votes": 0
                   },
                   {
-                    "name": "Willacoochee",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Pearson City",
+                    "name": "Hiawassee",
                     "votes": 0
                   }
                 ]
@@ -539,28 +452,24 @@
         "text": "Public Service Commission District 4",
         "voteFor": 1,
         "isQuestion": "false",
-        "precinctsReporting": 4,
+        "precinctsReporting": 3,
         "precinctsReported": 0,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 29,
+            "votes": 0,
             "Precinct": [
               {
-                "name": "Pearson County",
-                "votes": 14
+                "name": "Young Harris",
+                "votes": 0
               },
               {
-                "name": "Axson",
-                "votes": 11
+                "name": "Macedonia",
+                "votes": 0
               },
               {
-                "name": "Willacoochee",
-                "votes": 1
-              },
-              {
-                "name": "Pearson City",
-                "votes": 3
+                "name": "Hiawassee",
+                "votes": 0
               }
             ]
           },
@@ -569,19 +478,15 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Pearson County",
+                "name": "Young Harris",
                 "votes": 0
               },
               {
-                "name": "Axson",
+                "name": "Macedonia",
                 "votes": 0
               },
               {
-                "name": "Willacoochee",
-                "votes": 0
-              },
-              {
-                "name": "Pearson City",
+                "name": "Hiawassee",
                 "votes": 0
               }
             ]
@@ -591,27 +496,23 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 760,
+            "totalVotes": 0,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 630,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Pearson County",
-                    "votes": 343
-                  },
-                  {
-                    "name": "Axson",
-                    "votes": 230
-                  },
-                  {
-                    "name": "Willacoochee",
+                    "name": "Young Harris",
                     "votes": 0
                   },
                   {
-                    "name": "Pearson City",
-                    "votes": 57
+                    "name": "Macedonia",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hiawassee",
+                    "votes": 0
                   }
                 ]
               },
@@ -620,42 +521,34 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Pearson County",
+                    "name": "Young Harris",
                     "votes": 0
                   },
                   {
-                    "name": "Axson",
+                    "name": "Macedonia",
                     "votes": 0
                   },
                   {
-                    "name": "Willacoochee",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Pearson City",
+                    "name": "Hiawassee",
                     "votes": 0
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 130,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Pearson County",
-                    "votes": 56
+                    "name": "Young Harris",
+                    "votes": 0
                   },
                   {
-                    "name": "Axson",
-                    "votes": 23
+                    "name": "Macedonia",
+                    "votes": 0
                   },
                   {
-                    "name": "Willacoochee",
-                    "votes": 32
-                  },
-                  {
-                    "name": "Pearson City",
-                    "votes": 19
+                    "name": "Hiawassee",
+                    "votes": 0
                   }
                 ]
               },
@@ -664,19 +557,15 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Pearson County",
+                    "name": "Young Harris",
                     "votes": 0
                   },
                   {
-                    "name": "Axson",
+                    "name": "Macedonia",
                     "votes": 0
                   },
                   {
-                    "name": "Willacoochee",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Pearson City",
+                    "name": "Hiawassee",
                     "votes": 0
                   }
                 ]
@@ -686,27 +575,23 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 266,
+            "totalVotes": 0,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 157,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Pearson County",
-                    "votes": 41
-                  },
-                  {
-                    "name": "Axson",
-                    "votes": 20
-                  },
-                  {
-                    "name": "Willacoochee",
+                    "name": "Young Harris",
                     "votes": 0
                   },
                   {
-                    "name": "Pearson City",
-                    "votes": 96
+                    "name": "Macedonia",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hiawassee",
+                    "votes": 0
                   }
                 ]
               },
@@ -715,42 +600,34 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Pearson County",
+                    "name": "Young Harris",
                     "votes": 0
                   },
                   {
-                    "name": "Axson",
+                    "name": "Macedonia",
                     "votes": 0
                   },
                   {
-                    "name": "Willacoochee",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Pearson City",
+                    "name": "Hiawassee",
                     "votes": 0
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 109,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Pearson County",
-                    "votes": 28
+                    "name": "Young Harris",
+                    "votes": 0
                   },
                   {
-                    "name": "Axson",
-                    "votes": 3
+                    "name": "Macedonia",
+                    "votes": 0
                   },
                   {
-                    "name": "Willacoochee",
-                    "votes": 36
-                  },
-                  {
-                    "name": "Pearson City",
-                    "votes": 42
+                    "name": "Hiawassee",
+                    "votes": 0
                   }
                 ]
               },
@@ -759,19 +636,15 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Pearson County",
+                    "name": "Young Harris",
                     "votes": 0
                   },
                   {
-                    "name": "Axson",
+                    "name": "Macedonia",
                     "votes": 0
                   },
                   {
-                    "name": "Willacoochee",
-                    "votes": 0
-                  },
-                  {
-                    "name": "Pearson City",
+                    "name": "Hiawassee",
                     "votes": 0
                   }
                 ]

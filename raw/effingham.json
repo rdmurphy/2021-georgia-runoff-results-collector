@@ -1,0 +1,2436 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:33:46 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Effingham",
+    "VoterTurnout": {
+      "totalVoters": 45313,
+      "ballotsCast": 3149,
+      "voterTurnout": 6.95,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "1A",
+            "totalVoters": 2019,
+            "ballotsCast": 140,
+            "voterTurnout": 6.93,
+            "percentReporting": "2"
+          },
+          {
+            "name": "1B",
+            "totalVoters": 3071,
+            "ballotsCast": 209,
+            "voterTurnout": 6.81,
+            "percentReporting": "2"
+          },
+          {
+            "name": "1C",
+            "totalVoters": 1466,
+            "ballotsCast": 71,
+            "voterTurnout": 4.84,
+            "percentReporting": "2"
+          },
+          {
+            "name": "1D",
+            "totalVoters": 2075,
+            "ballotsCast": 107,
+            "voterTurnout": 5.16,
+            "percentReporting": "2"
+          },
+          {
+            "name": "2A",
+            "totalVoters": 3133,
+            "ballotsCast": 228,
+            "voterTurnout": 7.28,
+            "percentReporting": "2"
+          },
+          {
+            "name": "2B",
+            "totalVoters": 3064,
+            "ballotsCast": 172,
+            "voterTurnout": 5.61,
+            "percentReporting": "2"
+          },
+          {
+            "name": "2C",
+            "totalVoters": 4769,
+            "ballotsCast": 413,
+            "voterTurnout": 8.66,
+            "percentReporting": "2"
+          },
+          {
+            "name": "3A",
+            "totalVoters": 1430,
+            "ballotsCast": 78,
+            "voterTurnout": 5.45,
+            "percentReporting": "2"
+          },
+          {
+            "name": "3B",
+            "totalVoters": 1573,
+            "ballotsCast": 94,
+            "voterTurnout": 5.98,
+            "percentReporting": "2"
+          },
+          {
+            "name": "3C",
+            "totalVoters": 2111,
+            "ballotsCast": 130,
+            "voterTurnout": 6.16,
+            "percentReporting": "2"
+          },
+          {
+            "name": "3D",
+            "totalVoters": 3191,
+            "ballotsCast": 219,
+            "voterTurnout": 6.86,
+            "percentReporting": "2"
+          },
+          {
+            "name": "4A",
+            "totalVoters": 3811,
+            "ballotsCast": 294,
+            "voterTurnout": 7.71,
+            "percentReporting": "2"
+          },
+          {
+            "name": "4B",
+            "totalVoters": 1912,
+            "ballotsCast": 120,
+            "voterTurnout": 6.28,
+            "percentReporting": "2"
+          },
+          {
+            "name": "4C",
+            "totalVoters": 2912,
+            "ballotsCast": 212,
+            "voterTurnout": 7.28,
+            "percentReporting": "2"
+          },
+          {
+            "name": "5A",
+            "totalVoters": 2980,
+            "ballotsCast": 249,
+            "voterTurnout": 8.36,
+            "percentReporting": "2"
+          },
+          {
+            "name": "5B",
+            "totalVoters": 4059,
+            "ballotsCast": 279,
+            "voterTurnout": 6.87,
+            "percentReporting": "2"
+          },
+          {
+            "name": "5C",
+            "totalVoters": 1737,
+            "ballotsCast": 134,
+            "voterTurnout": 7.71,
+            "percentReporting": "2"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 17,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 2,
+            "Precinct": [
+              {
+                "name": "1A",
+                "votes": 0
+              },
+              {
+                "name": "1B",
+                "votes": 0
+              },
+              {
+                "name": "1C",
+                "votes": 1
+              },
+              {
+                "name": "1D",
+                "votes": 0
+              },
+              {
+                "name": "2A",
+                "votes": 0
+              },
+              {
+                "name": "2B",
+                "votes": 0
+              },
+              {
+                "name": "2C",
+                "votes": 0
+              },
+              {
+                "name": "3A",
+                "votes": 0
+              },
+              {
+                "name": "3B",
+                "votes": 0
+              },
+              {
+                "name": "3C",
+                "votes": 0
+              },
+              {
+                "name": "3D",
+                "votes": 0
+              },
+              {
+                "name": "4A",
+                "votes": 0
+              },
+              {
+                "name": "4B",
+                "votes": 0
+              },
+              {
+                "name": "4C",
+                "votes": 0
+              },
+              {
+                "name": "5A",
+                "votes": 0
+              },
+              {
+                "name": "5B",
+                "votes": 0
+              },
+              {
+                "name": "5C",
+                "votes": 1
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "1A",
+                "votes": 0
+              },
+              {
+                "name": "1B",
+                "votes": 0
+              },
+              {
+                "name": "1C",
+                "votes": 0
+              },
+              {
+                "name": "1D",
+                "votes": 0
+              },
+              {
+                "name": "2A",
+                "votes": 0
+              },
+              {
+                "name": "2B",
+                "votes": 0
+              },
+              {
+                "name": "2C",
+                "votes": 0
+              },
+              {
+                "name": "3A",
+                "votes": 0
+              },
+              {
+                "name": "3B",
+                "votes": 0
+              },
+              {
+                "name": "3C",
+                "votes": 0
+              },
+              {
+                "name": "3D",
+                "votes": 0
+              },
+              {
+                "name": "4A",
+                "votes": 0
+              },
+              {
+                "name": "4B",
+                "votes": 0
+              },
+              {
+                "name": "4C",
+                "votes": 0
+              },
+              {
+                "name": "5A",
+                "votes": 0
+              },
+              {
+                "name": "5B",
+                "votes": 0
+              },
+              {
+                "name": "5C",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 2323,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "1A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1D",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3D",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5C",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2071,
+                "Precinct": [
+                  {
+                    "name": "1A",
+                    "votes": 112
+                  },
+                  {
+                    "name": "1B",
+                    "votes": 161
+                  },
+                  {
+                    "name": "1C",
+                    "votes": 42
+                  },
+                  {
+                    "name": "1D",
+                    "votes": 70
+                  },
+                  {
+                    "name": "2A",
+                    "votes": 164
+                  },
+                  {
+                    "name": "2B",
+                    "votes": 95
+                  },
+                  {
+                    "name": "2C",
+                    "votes": 248
+                  },
+                  {
+                    "name": "3A",
+                    "votes": 55
+                  },
+                  {
+                    "name": "3B",
+                    "votes": 57
+                  },
+                  {
+                    "name": "3C",
+                    "votes": 88
+                  },
+                  {
+                    "name": "3D",
+                    "votes": 148
+                  },
+                  {
+                    "name": "4A",
+                    "votes": 198
+                  },
+                  {
+                    "name": "4B",
+                    "votes": 71
+                  },
+                  {
+                    "name": "4C",
+                    "votes": 161
+                  },
+                  {
+                    "name": "5A",
+                    "votes": 166
+                  },
+                  {
+                    "name": "5B",
+                    "votes": 153
+                  },
+                  {
+                    "name": "5C",
+                    "votes": 82
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 252,
+                "Precinct": [
+                  {
+                    "name": "1A",
+                    "votes": 7
+                  },
+                  {
+                    "name": "1B",
+                    "votes": 16
+                  },
+                  {
+                    "name": "1C",
+                    "votes": 7
+                  },
+                  {
+                    "name": "1D",
+                    "votes": 22
+                  },
+                  {
+                    "name": "2A",
+                    "votes": 9
+                  },
+                  {
+                    "name": "2B",
+                    "votes": 17
+                  },
+                  {
+                    "name": "2C",
+                    "votes": 37
+                  },
+                  {
+                    "name": "3A",
+                    "votes": 9
+                  },
+                  {
+                    "name": "3B",
+                    "votes": 10
+                  },
+                  {
+                    "name": "3C",
+                    "votes": 14
+                  },
+                  {
+                    "name": "3D",
+                    "votes": 17
+                  },
+                  {
+                    "name": "4A",
+                    "votes": 20
+                  },
+                  {
+                    "name": "4B",
+                    "votes": 12
+                  },
+                  {
+                    "name": "4C",
+                    "votes": 15
+                  },
+                  {
+                    "name": "5A",
+                    "votes": 19
+                  },
+                  {
+                    "name": "5B",
+                    "votes": 11
+                  },
+                  {
+                    "name": "5C",
+                    "votes": 10
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "1A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1D",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3D",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5C",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 824,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "1A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1D",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3D",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5C",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 478,
+                "Precinct": [
+                  {
+                    "name": "1A",
+                    "votes": 13
+                  },
+                  {
+                    "name": "1B",
+                    "votes": 18
+                  },
+                  {
+                    "name": "1C",
+                    "votes": 7
+                  },
+                  {
+                    "name": "1D",
+                    "votes": 8
+                  },
+                  {
+                    "name": "2A",
+                    "votes": 37
+                  },
+                  {
+                    "name": "2B",
+                    "votes": 34
+                  },
+                  {
+                    "name": "2C",
+                    "votes": 78
+                  },
+                  {
+                    "name": "3A",
+                    "votes": 6
+                  },
+                  {
+                    "name": "3B",
+                    "votes": 17
+                  },
+                  {
+                    "name": "3C",
+                    "votes": 20
+                  },
+                  {
+                    "name": "3D",
+                    "votes": 35
+                  },
+                  {
+                    "name": "4A",
+                    "votes": 47
+                  },
+                  {
+                    "name": "4B",
+                    "votes": 19
+                  },
+                  {
+                    "name": "4C",
+                    "votes": 17
+                  },
+                  {
+                    "name": "5A",
+                    "votes": 35
+                  },
+                  {
+                    "name": "5B",
+                    "votes": 66
+                  },
+                  {
+                    "name": "5C",
+                    "votes": 21
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 346,
+                "Precinct": [
+                  {
+                    "name": "1A",
+                    "votes": 8
+                  },
+                  {
+                    "name": "1B",
+                    "votes": 14
+                  },
+                  {
+                    "name": "1C",
+                    "votes": 14
+                  },
+                  {
+                    "name": "1D",
+                    "votes": 7
+                  },
+                  {
+                    "name": "2A",
+                    "votes": 18
+                  },
+                  {
+                    "name": "2B",
+                    "votes": 26
+                  },
+                  {
+                    "name": "2C",
+                    "votes": 50
+                  },
+                  {
+                    "name": "3A",
+                    "votes": 8
+                  },
+                  {
+                    "name": "3B",
+                    "votes": 10
+                  },
+                  {
+                    "name": "3C",
+                    "votes": 8
+                  },
+                  {
+                    "name": "3D",
+                    "votes": 19
+                  },
+                  {
+                    "name": "4A",
+                    "votes": 29
+                  },
+                  {
+                    "name": "4B",
+                    "votes": 18
+                  },
+                  {
+                    "name": "4C",
+                    "votes": 19
+                  },
+                  {
+                    "name": "5A",
+                    "votes": 29
+                  },
+                  {
+                    "name": "5B",
+                    "votes": 49
+                  },
+                  {
+                    "name": "5C",
+                    "votes": 20
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "1A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1D",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3D",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5C",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 17,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 4,
+            "Precinct": [
+              {
+                "name": "1A",
+                "votes": 0
+              },
+              {
+                "name": "1B",
+                "votes": 0
+              },
+              {
+                "name": "1C",
+                "votes": 1
+              },
+              {
+                "name": "1D",
+                "votes": 0
+              },
+              {
+                "name": "2A",
+                "votes": 1
+              },
+              {
+                "name": "2B",
+                "votes": 0
+              },
+              {
+                "name": "2C",
+                "votes": 2
+              },
+              {
+                "name": "3A",
+                "votes": 0
+              },
+              {
+                "name": "3B",
+                "votes": 0
+              },
+              {
+                "name": "3C",
+                "votes": 0
+              },
+              {
+                "name": "3D",
+                "votes": 0
+              },
+              {
+                "name": "4A",
+                "votes": 0
+              },
+              {
+                "name": "4B",
+                "votes": 0
+              },
+              {
+                "name": "4C",
+                "votes": 0
+              },
+              {
+                "name": "5A",
+                "votes": 0
+              },
+              {
+                "name": "5B",
+                "votes": 0
+              },
+              {
+                "name": "5C",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "1A",
+                "votes": 0
+              },
+              {
+                "name": "1B",
+                "votes": 0
+              },
+              {
+                "name": "1C",
+                "votes": 0
+              },
+              {
+                "name": "1D",
+                "votes": 0
+              },
+              {
+                "name": "2A",
+                "votes": 0
+              },
+              {
+                "name": "2B",
+                "votes": 0
+              },
+              {
+                "name": "2C",
+                "votes": 0
+              },
+              {
+                "name": "3A",
+                "votes": 0
+              },
+              {
+                "name": "3B",
+                "votes": 0
+              },
+              {
+                "name": "3C",
+                "votes": 0
+              },
+              {
+                "name": "3D",
+                "votes": 0
+              },
+              {
+                "name": "4A",
+                "votes": 0
+              },
+              {
+                "name": "4B",
+                "votes": 0
+              },
+              {
+                "name": "4C",
+                "votes": 0
+              },
+              {
+                "name": "5A",
+                "votes": 0
+              },
+              {
+                "name": "5B",
+                "votes": 0
+              },
+              {
+                "name": "5C",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 2320,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "1A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1D",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3D",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5C",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2066,
+                "Precinct": [
+                  {
+                    "name": "1A",
+                    "votes": 112
+                  },
+                  {
+                    "name": "1B",
+                    "votes": 161
+                  },
+                  {
+                    "name": "1C",
+                    "votes": 42
+                  },
+                  {
+                    "name": "1D",
+                    "votes": 70
+                  },
+                  {
+                    "name": "2A",
+                    "votes": 164
+                  },
+                  {
+                    "name": "2B",
+                    "votes": 93
+                  },
+                  {
+                    "name": "2C",
+                    "votes": 246
+                  },
+                  {
+                    "name": "3A",
+                    "votes": 55
+                  },
+                  {
+                    "name": "3B",
+                    "votes": 57
+                  },
+                  {
+                    "name": "3C",
+                    "votes": 88
+                  },
+                  {
+                    "name": "3D",
+                    "votes": 148
+                  },
+                  {
+                    "name": "4A",
+                    "votes": 197
+                  },
+                  {
+                    "name": "4B",
+                    "votes": 68
+                  },
+                  {
+                    "name": "4C",
+                    "votes": 162
+                  },
+                  {
+                    "name": "5A",
+                    "votes": 165
+                  },
+                  {
+                    "name": "5B",
+                    "votes": 155
+                  },
+                  {
+                    "name": "5C",
+                    "votes": 83
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 254,
+                "Precinct": [
+                  {
+                    "name": "1A",
+                    "votes": 7
+                  },
+                  {
+                    "name": "1B",
+                    "votes": 17
+                  },
+                  {
+                    "name": "1C",
+                    "votes": 7
+                  },
+                  {
+                    "name": "1D",
+                    "votes": 22
+                  },
+                  {
+                    "name": "2A",
+                    "votes": 9
+                  },
+                  {
+                    "name": "2B",
+                    "votes": 17
+                  },
+                  {
+                    "name": "2C",
+                    "votes": 35
+                  },
+                  {
+                    "name": "3A",
+                    "votes": 9
+                  },
+                  {
+                    "name": "3B",
+                    "votes": 11
+                  },
+                  {
+                    "name": "3C",
+                    "votes": 15
+                  },
+                  {
+                    "name": "3D",
+                    "votes": 18
+                  },
+                  {
+                    "name": "4A",
+                    "votes": 20
+                  },
+                  {
+                    "name": "4B",
+                    "votes": 12
+                  },
+                  {
+                    "name": "4C",
+                    "votes": 15
+                  },
+                  {
+                    "name": "5A",
+                    "votes": 19
+                  },
+                  {
+                    "name": "5B",
+                    "votes": 11
+                  },
+                  {
+                    "name": "5C",
+                    "votes": 10
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "1A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1D",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3D",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5C",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 825,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "1A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1D",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3D",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5C",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 482,
+                "Precinct": [
+                  {
+                    "name": "1A",
+                    "votes": 13
+                  },
+                  {
+                    "name": "1B",
+                    "votes": 18
+                  },
+                  {
+                    "name": "1C",
+                    "votes": 7
+                  },
+                  {
+                    "name": "1D",
+                    "votes": 8
+                  },
+                  {
+                    "name": "2A",
+                    "votes": 36
+                  },
+                  {
+                    "name": "2B",
+                    "votes": 36
+                  },
+                  {
+                    "name": "2C",
+                    "votes": 79
+                  },
+                  {
+                    "name": "3A",
+                    "votes": 6
+                  },
+                  {
+                    "name": "3B",
+                    "votes": 17
+                  },
+                  {
+                    "name": "3C",
+                    "votes": 20
+                  },
+                  {
+                    "name": "3D",
+                    "votes": 35
+                  },
+                  {
+                    "name": "4A",
+                    "votes": 48
+                  },
+                  {
+                    "name": "4B",
+                    "votes": 22
+                  },
+                  {
+                    "name": "4C",
+                    "votes": 16
+                  },
+                  {
+                    "name": "5A",
+                    "votes": 36
+                  },
+                  {
+                    "name": "5B",
+                    "votes": 64
+                  },
+                  {
+                    "name": "5C",
+                    "votes": 21
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 343,
+                "Precinct": [
+                  {
+                    "name": "1A",
+                    "votes": 8
+                  },
+                  {
+                    "name": "1B",
+                    "votes": 13
+                  },
+                  {
+                    "name": "1C",
+                    "votes": 14
+                  },
+                  {
+                    "name": "1D",
+                    "votes": 7
+                  },
+                  {
+                    "name": "2A",
+                    "votes": 18
+                  },
+                  {
+                    "name": "2B",
+                    "votes": 26
+                  },
+                  {
+                    "name": "2C",
+                    "votes": 51
+                  },
+                  {
+                    "name": "3A",
+                    "votes": 8
+                  },
+                  {
+                    "name": "3B",
+                    "votes": 9
+                  },
+                  {
+                    "name": "3C",
+                    "votes": 7
+                  },
+                  {
+                    "name": "3D",
+                    "votes": 18
+                  },
+                  {
+                    "name": "4A",
+                    "votes": 29
+                  },
+                  {
+                    "name": "4B",
+                    "votes": 18
+                  },
+                  {
+                    "name": "4C",
+                    "votes": 19
+                  },
+                  {
+                    "name": "5A",
+                    "votes": 29
+                  },
+                  {
+                    "name": "5B",
+                    "votes": 49
+                  },
+                  {
+                    "name": "5C",
+                    "votes": 20
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "1A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1D",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3D",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5C",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 17,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 36,
+            "Precinct": [
+              {
+                "name": "1A",
+                "votes": 1
+              },
+              {
+                "name": "1B",
+                "votes": 3
+              },
+              {
+                "name": "1C",
+                "votes": 5
+              },
+              {
+                "name": "1D",
+                "votes": 0
+              },
+              {
+                "name": "2A",
+                "votes": 0
+              },
+              {
+                "name": "2B",
+                "votes": 1
+              },
+              {
+                "name": "2C",
+                "votes": 2
+              },
+              {
+                "name": "3A",
+                "votes": 1
+              },
+              {
+                "name": "3B",
+                "votes": 5
+              },
+              {
+                "name": "3C",
+                "votes": 5
+              },
+              {
+                "name": "3D",
+                "votes": 1
+              },
+              {
+                "name": "4A",
+                "votes": 2
+              },
+              {
+                "name": "4B",
+                "votes": 1
+              },
+              {
+                "name": "4C",
+                "votes": 5
+              },
+              {
+                "name": "5A",
+                "votes": 0
+              },
+              {
+                "name": "5B",
+                "votes": 2
+              },
+              {
+                "name": "5C",
+                "votes": 2
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "1A",
+                "votes": 0
+              },
+              {
+                "name": "1B",
+                "votes": 0
+              },
+              {
+                "name": "1C",
+                "votes": 0
+              },
+              {
+                "name": "1D",
+                "votes": 0
+              },
+              {
+                "name": "2A",
+                "votes": 0
+              },
+              {
+                "name": "2B",
+                "votes": 0
+              },
+              {
+                "name": "2C",
+                "votes": 0
+              },
+              {
+                "name": "3A",
+                "votes": 0
+              },
+              {
+                "name": "3B",
+                "votes": 0
+              },
+              {
+                "name": "3C",
+                "votes": 0
+              },
+              {
+                "name": "3D",
+                "votes": 0
+              },
+              {
+                "name": "4A",
+                "votes": 0
+              },
+              {
+                "name": "4B",
+                "votes": 0
+              },
+              {
+                "name": "4C",
+                "votes": 0
+              },
+              {
+                "name": "5A",
+                "votes": 0
+              },
+              {
+                "name": "5B",
+                "votes": 0
+              },
+              {
+                "name": "5C",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 2321,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "1A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1D",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3D",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5C",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2064,
+                "Precinct": [
+                  {
+                    "name": "1A",
+                    "votes": 111
+                  },
+                  {
+                    "name": "1B",
+                    "votes": 160
+                  },
+                  {
+                    "name": "1C",
+                    "votes": 40
+                  },
+                  {
+                    "name": "1D",
+                    "votes": 71
+                  },
+                  {
+                    "name": "2A",
+                    "votes": 163
+                  },
+                  {
+                    "name": "2B",
+                    "votes": 96
+                  },
+                  {
+                    "name": "2C",
+                    "votes": 252
+                  },
+                  {
+                    "name": "3A",
+                    "votes": 54
+                  },
+                  {
+                    "name": "3B",
+                    "votes": 55
+                  },
+                  {
+                    "name": "3C",
+                    "votes": 84
+                  },
+                  {
+                    "name": "3D",
+                    "votes": 151
+                  },
+                  {
+                    "name": "4A",
+                    "votes": 199
+                  },
+                  {
+                    "name": "4B",
+                    "votes": 71
+                  },
+                  {
+                    "name": "4C",
+                    "votes": 157
+                  },
+                  {
+                    "name": "5A",
+                    "votes": 164
+                  },
+                  {
+                    "name": "5B",
+                    "votes": 154
+                  },
+                  {
+                    "name": "5C",
+                    "votes": 82
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 257,
+                "Precinct": [
+                  {
+                    "name": "1A",
+                    "votes": 7
+                  },
+                  {
+                    "name": "1B",
+                    "votes": 17
+                  },
+                  {
+                    "name": "1C",
+                    "votes": 6
+                  },
+                  {
+                    "name": "1D",
+                    "votes": 22
+                  },
+                  {
+                    "name": "2A",
+                    "votes": 10
+                  },
+                  {
+                    "name": "2B",
+                    "votes": 16
+                  },
+                  {
+                    "name": "2C",
+                    "votes": 39
+                  },
+                  {
+                    "name": "3A",
+                    "votes": 10
+                  },
+                  {
+                    "name": "3B",
+                    "votes": 10
+                  },
+                  {
+                    "name": "3C",
+                    "votes": 14
+                  },
+                  {
+                    "name": "3D",
+                    "votes": 17
+                  },
+                  {
+                    "name": "4A",
+                    "votes": 21
+                  },
+                  {
+                    "name": "4B",
+                    "votes": 12
+                  },
+                  {
+                    "name": "4C",
+                    "votes": 13
+                  },
+                  {
+                    "name": "5A",
+                    "votes": 20
+                  },
+                  {
+                    "name": "5B",
+                    "votes": 13
+                  },
+                  {
+                    "name": "5C",
+                    "votes": 10
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "1A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1D",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3D",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5C",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 792,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "1A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1D",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3D",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5C",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 464,
+                "Precinct": [
+                  {
+                    "name": "1A",
+                    "votes": 13
+                  },
+                  {
+                    "name": "1B",
+                    "votes": 17
+                  },
+                  {
+                    "name": "1C",
+                    "votes": 7
+                  },
+                  {
+                    "name": "1D",
+                    "votes": 7
+                  },
+                  {
+                    "name": "2A",
+                    "votes": 38
+                  },
+                  {
+                    "name": "2B",
+                    "votes": 33
+                  },
+                  {
+                    "name": "2C",
+                    "votes": 74
+                  },
+                  {
+                    "name": "3A",
+                    "votes": 6
+                  },
+                  {
+                    "name": "3B",
+                    "votes": 15
+                  },
+                  {
+                    "name": "3C",
+                    "votes": 20
+                  },
+                  {
+                    "name": "3D",
+                    "votes": 32
+                  },
+                  {
+                    "name": "4A",
+                    "votes": 44
+                  },
+                  {
+                    "name": "4B",
+                    "votes": 18
+                  },
+                  {
+                    "name": "4C",
+                    "votes": 18
+                  },
+                  {
+                    "name": "5A",
+                    "votes": 37
+                  },
+                  {
+                    "name": "5B",
+                    "votes": 65
+                  },
+                  {
+                    "name": "5C",
+                    "votes": 20
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 328,
+                "Precinct": [
+                  {
+                    "name": "1A",
+                    "votes": 8
+                  },
+                  {
+                    "name": "1B",
+                    "votes": 12
+                  },
+                  {
+                    "name": "1C",
+                    "votes": 13
+                  },
+                  {
+                    "name": "1D",
+                    "votes": 7
+                  },
+                  {
+                    "name": "2A",
+                    "votes": 17
+                  },
+                  {
+                    "name": "2B",
+                    "votes": 26
+                  },
+                  {
+                    "name": "2C",
+                    "votes": 46
+                  },
+                  {
+                    "name": "3A",
+                    "votes": 7
+                  },
+                  {
+                    "name": "3B",
+                    "votes": 9
+                  },
+                  {
+                    "name": "3C",
+                    "votes": 7
+                  },
+                  {
+                    "name": "3D",
+                    "votes": 18
+                  },
+                  {
+                    "name": "4A",
+                    "votes": 28
+                  },
+                  {
+                    "name": "4B",
+                    "votes": 18
+                  },
+                  {
+                    "name": "4C",
+                    "votes": 19
+                  },
+                  {
+                    "name": "5A",
+                    "votes": 28
+                  },
+                  {
+                    "name": "5B",
+                    "votes": 45
+                  },
+                  {
+                    "name": "5C",
+                    "votes": 20
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "1A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "1D",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "2C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "3D",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "4C",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "5C",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

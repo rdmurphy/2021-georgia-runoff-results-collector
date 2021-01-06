@@ -1,48 +1,48 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:34:45 PM EST",
+    "Timestamp": "1/5/2021 8:39:03 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
-    "Region": "Clinch",
+    "Region": "Macon",
     "VoterTurnout": {
-      "totalVoters": 4386,
-      "ballotsCast": 2201,
-      "voterTurnout": 50.18,
+      "totalVoters": 7153,
+      "ballotsCast": 4282,
+      "voterTurnout": 59.86,
       "Precincts": {
         "Precinct": [
           {
-            "name": "Arabia",
-            "totalVoters": 109,
-            "ballotsCast": 72,
-            "voterTurnout": 66.06,
+            "name": "Ideal",
+            "totalVoters": 1417,
+            "ballotsCast": 859,
+            "voterTurnout": 60.62,
             "percentReporting": "4"
           },
           {
-            "name": "Argyle",
-            "totalVoters": 377,
-            "ballotsCast": 196,
-            "voterTurnout": 51.99,
+            "name": "Oglethorpe",
+            "totalVoters": 1329,
+            "ballotsCast": 780,
+            "voterTurnout": 58.69,
             "percentReporting": "4"
           },
           {
-            "name": "Dupont",
-            "totalVoters": 344,
-            "ballotsCast": 190,
-            "voterTurnout": 55.23,
+            "name": "Marshallville",
+            "totalVoters": 1386,
+            "ballotsCast": 858,
+            "voterTurnout": 61.9,
             "percentReporting": "4"
           },
           {
-            "name": "Fargo",
-            "totalVoters": 268,
-            "ballotsCast": 147,
-            "voterTurnout": 54.85,
+            "name": "Montezuma #4",
+            "totalVoters": 1628,
+            "ballotsCast": 975,
+            "voterTurnout": 59.89,
             "percentReporting": "4"
           },
           {
-            "name": "Homerville",
-            "totalVoters": 3288,
-            "ballotsCast": 1596,
-            "voterTurnout": 48.54,
+            "name": "Montezuma #5",
+            "totalVoters": 1393,
+            "ballotsCast": 810,
+            "voterTurnout": 58.15,
             "percentReporting": "4"
           }
         ]
@@ -59,27 +59,27 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 5,
+            "votes": 21,
             "Precinct": [
               {
-                "name": "Arabia",
-                "votes": 0
+                "name": "Ideal",
+                "votes": 7
               },
               {
-                "name": "Argyle",
-                "votes": 0
+                "name": "Oglethorpe",
+                "votes": 3
               },
               {
-                "name": "Dupont",
-                "votes": 0
+                "name": "Marshallville",
+                "votes": 3
               },
               {
-                "name": "Fargo",
-                "votes": 0
+                "name": "Montezuma #4",
+                "votes": 2
               },
               {
-                "name": "Homerville",
-                "votes": 5
+                "name": "Montezuma #5",
+                "votes": 6
               }
             ]
           },
@@ -88,23 +88,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Arabia",
+                "name": "Ideal",
                 "votes": 0
               },
               {
-                "name": "Argyle",
+                "name": "Oglethorpe",
                 "votes": 0
               },
               {
-                "name": "Dupont",
+                "name": "Marshallville",
                 "votes": 0
               },
               {
-                "name": "Fargo",
+                "name": "Montezuma #4",
                 "votes": 0
               },
               {
-                "name": "Homerville",
+                "name": "Montezuma #5",
                 "votes": 0
               }
             ]
@@ -114,83 +114,83 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 1692,
+            "totalVotes": 1599,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 766,
+                "votes": 446,
                 "Precinct": [
                   {
-                    "name": "Arabia",
+                    "name": "Ideal",
+                    "votes": 160
+                  },
+                  {
+                    "name": "Oglethorpe",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Marshallville",
+                    "votes": 127
+                  },
+                  {
+                    "name": "Montezuma #4",
                     "votes": 55
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 107
-                  },
-                  {
-                    "name": "Dupont",
-                    "votes": 103
-                  },
-                  {
-                    "name": "Fargo",
-                    "votes": 120
-                  },
-                  {
-                    "name": "Homerville",
-                    "votes": 381
+                    "name": "Montezuma #5",
+                    "votes": 34
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 926,
+                "votes": 1057,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 10
+                    "name": "Ideal",
+                    "votes": 297
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 62
+                    "name": "Oglethorpe",
+                    "votes": 232
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 48
+                    "name": "Marshallville",
+                    "votes": 192
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 12
+                    "name": "Montezuma #4",
+                    "votes": 215
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 794
+                    "name": "Montezuma #5",
+                    "votes": 121
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 96,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 0
+                    "name": "Ideal",
+                    "votes": 25
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 0
+                    "name": "Oglethorpe",
+                    "votes": 14
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 0
+                    "name": "Marshallville",
+                    "votes": 17
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 0
+                    "name": "Montezuma #4",
+                    "votes": 26
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 0
+                    "name": "Montezuma #5",
+                    "votes": 14
                   }
                 ]
               },
@@ -199,23 +199,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Arabia",
+                    "name": "Ideal",
                     "votes": 0
                   },
                   {
-                    "name": "Argyle",
+                    "name": "Oglethorpe",
                     "votes": 0
                   },
                   {
-                    "name": "Dupont",
+                    "name": "Marshallville",
                     "votes": 0
                   },
                   {
-                    "name": "Fargo",
+                    "name": "Montezuma #4",
                     "votes": 0
                   },
                   {
-                    "name": "Homerville",
+                    "name": "Montezuma #5",
                     "votes": 0
                   }
                 ]
@@ -225,83 +225,83 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 504,
+            "totalVotes": 2662,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 202,
+                "votes": 716,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 3
+                    "name": "Ideal",
+                    "votes": 87
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 13
+                    "name": "Oglethorpe",
+                    "votes": 79
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 27
+                    "name": "Marshallville",
+                    "votes": 232
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 7
+                    "name": "Montezuma #4",
+                    "votes": 154
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 152
+                    "name": "Montezuma #5",
+                    "votes": 164
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 302,
+                "votes": 1323,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 4
+                    "name": "Ideal",
+                    "votes": 210
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 14
+                    "name": "Oglethorpe",
+                    "votes": 290
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 12
+                    "name": "Marshallville",
+                    "votes": 173
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 8
+                    "name": "Montezuma #4",
+                    "votes": 341
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 264
+                    "name": "Montezuma #5",
+                    "votes": 309
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 623,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 0
+                    "name": "Ideal",
+                    "votes": 73
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 0
+                    "name": "Oglethorpe",
+                    "votes": 92
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 0
+                    "name": "Marshallville",
+                    "votes": 114
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 0
+                    "name": "Montezuma #4",
+                    "votes": 182
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 0
+                    "name": "Montezuma #5",
+                    "votes": 162
                   }
                 ]
               },
@@ -310,23 +310,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Arabia",
+                    "name": "Ideal",
                     "votes": 0
                   },
                   {
-                    "name": "Argyle",
+                    "name": "Oglethorpe",
                     "votes": 0
                   },
                   {
-                    "name": "Dupont",
+                    "name": "Marshallville",
                     "votes": 0
                   },
                   {
-                    "name": "Fargo",
+                    "name": "Montezuma #4",
                     "votes": 0
                   },
                   {
-                    "name": "Homerville",
+                    "name": "Montezuma #5",
                     "votes": 0
                   }
                 ]
@@ -345,26 +345,26 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 5,
+            "votes": 8,
             "Precinct": [
               {
-                "name": "Arabia",
+                "name": "Ideal",
+                "votes": 2
+              },
+              {
+                "name": "Oglethorpe",
                 "votes": 0
               },
               {
-                "name": "Argyle",
-                "votes": 1
-              },
-              {
-                "name": "Dupont",
+                "name": "Marshallville",
                 "votes": 0
               },
               {
-                "name": "Fargo",
-                "votes": 0
+                "name": "Montezuma #4",
+                "votes": 2
               },
               {
-                "name": "Homerville",
+                "name": "Montezuma #5",
                 "votes": 4
               }
             ]
@@ -374,23 +374,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Arabia",
+                "name": "Ideal",
                 "votes": 0
               },
               {
-                "name": "Argyle",
+                "name": "Oglethorpe",
                 "votes": 0
               },
               {
-                "name": "Dupont",
+                "name": "Marshallville",
                 "votes": 0
               },
               {
-                "name": "Fargo",
+                "name": "Montezuma #4",
                 "votes": 0
               },
               {
-                "name": "Homerville",
+                "name": "Montezuma #5",
                 "votes": 0
               }
             ]
@@ -400,83 +400,83 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 1689,
+            "totalVotes": 1591,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 763,
+                "votes": 439,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 55
+                    "name": "Ideal",
+                    "votes": 157
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 108
+                    "name": "Oglethorpe",
+                    "votes": 68
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 104
+                    "name": "Marshallville",
+                    "votes": 126
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 119
+                    "name": "Montezuma #4",
+                    "votes": 54
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 377
+                    "name": "Montezuma #5",
+                    "votes": 34
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 926,
+                "votes": 1056,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 10
+                    "name": "Ideal",
+                    "votes": 297
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 62
+                    "name": "Oglethorpe",
+                    "votes": 230
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 48
+                    "name": "Marshallville",
+                    "votes": 193
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 12
+                    "name": "Montezuma #4",
+                    "votes": 218
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 794
+                    "name": "Montezuma #5",
+                    "votes": 118
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 96,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 0
+                    "name": "Ideal",
+                    "votes": 25
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 0
+                    "name": "Oglethorpe",
+                    "votes": 14
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 0
+                    "name": "Marshallville",
+                    "votes": 17
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 0
+                    "name": "Montezuma #4",
+                    "votes": 27
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 0
+                    "name": "Montezuma #5",
+                    "votes": 13
                   }
                 ]
               },
@@ -485,23 +485,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Arabia",
+                    "name": "Ideal",
                     "votes": 0
                   },
                   {
-                    "name": "Argyle",
+                    "name": "Oglethorpe",
                     "votes": 0
                   },
                   {
-                    "name": "Dupont",
+                    "name": "Marshallville",
                     "votes": 0
                   },
                   {
-                    "name": "Fargo",
+                    "name": "Montezuma #4",
                     "votes": 0
                   },
                   {
-                    "name": "Homerville",
+                    "name": "Montezuma #5",
                     "votes": 0
                   }
                 ]
@@ -511,83 +511,83 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 507,
+            "totalVotes": 2683,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 206,
+                "votes": 729,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 3
+                    "name": "Ideal",
+                    "votes": 93
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 11
+                    "name": "Oglethorpe",
+                    "votes": 82
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 26
+                    "name": "Marshallville",
+                    "votes": 234
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 8
+                    "name": "Montezuma #4",
+                    "votes": 156
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 158
+                    "name": "Montezuma #5",
+                    "votes": 164
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 301,
+                "votes": 1327,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 4
+                    "name": "Ideal",
+                    "votes": 211
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 14
+                    "name": "Oglethorpe",
+                    "votes": 294
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 12
+                    "name": "Marshallville",
+                    "votes": 174
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 8
+                    "name": "Montezuma #4",
+                    "votes": 337
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 263
+                    "name": "Montezuma #5",
+                    "votes": 311
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 627,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 0
+                    "name": "Ideal",
+                    "votes": 74
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 0
+                    "name": "Oglethorpe",
+                    "votes": 92
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 0
+                    "name": "Marshallville",
+                    "votes": 114
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 0
+                    "name": "Montezuma #4",
+                    "votes": 181
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 0
+                    "name": "Montezuma #5",
+                    "votes": 166
                   }
                 ]
               },
@@ -596,23 +596,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Arabia",
+                    "name": "Ideal",
                     "votes": 0
                   },
                   {
-                    "name": "Argyle",
+                    "name": "Oglethorpe",
                     "votes": 0
                   },
                   {
-                    "name": "Dupont",
+                    "name": "Marshallville",
                     "votes": 0
                   },
                   {
-                    "name": "Fargo",
+                    "name": "Montezuma #4",
                     "votes": 0
                   },
                   {
-                    "name": "Homerville",
+                    "name": "Montezuma #5",
                     "votes": 0
                   }
                 ]
@@ -631,27 +631,27 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 58,
+            "votes": 105,
             "Precinct": [
               {
-                "name": "Arabia",
-                "votes": 0
+                "name": "Ideal",
+                "votes": 17
               },
               {
-                "name": "Argyle",
-                "votes": 6
+                "name": "Oglethorpe",
+                "votes": 22
               },
               {
-                "name": "Dupont",
-                "votes": 6
+                "name": "Marshallville",
+                "votes": 21
               },
               {
-                "name": "Fargo",
-                "votes": 2
+                "name": "Montezuma #4",
+                "votes": 23
               },
               {
-                "name": "Homerville",
-                "votes": 44
+                "name": "Montezuma #5",
+                "votes": 22
               }
             ]
           },
@@ -660,23 +660,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Arabia",
+                "name": "Ideal",
                 "votes": 0
               },
               {
-                "name": "Argyle",
+                "name": "Oglethorpe",
                 "votes": 0
               },
               {
-                "name": "Dupont",
+                "name": "Marshallville",
                 "votes": 0
               },
               {
-                "name": "Fargo",
+                "name": "Montezuma #4",
                 "votes": 0
               },
               {
-                "name": "Homerville",
+                "name": "Montezuma #5",
                 "votes": 0
               }
             ]
@@ -686,83 +686,83 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 1667,
+            "totalVotes": 1580,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 762,
+                "votes": 434,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 57
+                    "name": "Ideal",
+                    "votes": 157
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 106
+                    "name": "Oglethorpe",
+                    "votes": 67
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 103
+                    "name": "Marshallville",
+                    "votes": 128
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 116
+                    "name": "Montezuma #4",
+                    "votes": 52
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 380
+                    "name": "Montezuma #5",
+                    "votes": 30
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 905,
+                "votes": 1043,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 10
+                    "name": "Ideal",
+                    "votes": 293
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 58
+                    "name": "Oglethorpe",
+                    "votes": 228
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 46
+                    "name": "Marshallville",
+                    "votes": 192
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 12
+                    "name": "Montezuma #4",
+                    "votes": 212
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 779
+                    "name": "Montezuma #5",
+                    "votes": 118
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 103,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 0
+                    "name": "Ideal",
+                    "votes": 25
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 0
+                    "name": "Oglethorpe",
+                    "votes": 14
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 0
+                    "name": "Marshallville",
+                    "votes": 17
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 0
+                    "name": "Montezuma #4",
+                    "votes": 30
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 0
+                    "name": "Montezuma #5",
+                    "votes": 17
                   }
                 ]
               },
@@ -771,23 +771,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Arabia",
+                    "name": "Ideal",
                     "votes": 0
                   },
                   {
-                    "name": "Argyle",
+                    "name": "Oglethorpe",
                     "votes": 0
                   },
                   {
-                    "name": "Dupont",
+                    "name": "Marshallville",
                     "votes": 0
                   },
                   {
-                    "name": "Fargo",
+                    "name": "Montezuma #4",
                     "votes": 0
                   },
                   {
-                    "name": "Homerville",
+                    "name": "Montezuma #5",
                     "votes": 0
                   }
                 ]
@@ -797,83 +797,83 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 476,
+            "totalVotes": 2596,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 192,
+                "votes": 708,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 1
+                    "name": "Ideal",
+                    "votes": 89
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 12
+                    "name": "Oglethorpe",
+                    "votes": 80
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 23
+                    "name": "Marshallville",
+                    "votes": 224
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 9
+                    "name": "Montezuma #4",
+                    "votes": 153
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 147
+                    "name": "Montezuma #5",
+                    "votes": 162
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 284,
+                "votes": 1282,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 4
+                    "name": "Ideal",
+                    "votes": 205
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 14
+                    "name": "Oglethorpe",
+                    "votes": 280
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 12
+                    "name": "Marshallville",
+                    "votes": 166
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 8
+                    "name": "Montezuma #4",
+                    "votes": 330
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 246
+                    "name": "Montezuma #5",
+                    "votes": 301
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 606,
                 "Precinct": [
                   {
-                    "name": "Arabia",
-                    "votes": 0
+                    "name": "Ideal",
+                    "votes": 73
                   },
                   {
-                    "name": "Argyle",
-                    "votes": 0
+                    "name": "Oglethorpe",
+                    "votes": 89
                   },
                   {
-                    "name": "Dupont",
-                    "votes": 0
+                    "name": "Marshallville",
+                    "votes": 110
                   },
                   {
-                    "name": "Fargo",
-                    "votes": 0
+                    "name": "Montezuma #4",
+                    "votes": 175
                   },
                   {
-                    "name": "Homerville",
-                    "votes": 0
+                    "name": "Montezuma #5",
+                    "votes": 159
                   }
                 ]
               },
@@ -882,23 +882,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Arabia",
+                    "name": "Ideal",
                     "votes": 0
                   },
                   {
-                    "name": "Argyle",
+                    "name": "Oglethorpe",
                     "votes": 0
                   },
                   {
-                    "name": "Dupont",
+                    "name": "Marshallville",
                     "votes": 0
                   },
                   {
-                    "name": "Fargo",
+                    "name": "Montezuma #4",
                     "votes": 0
                   },
                   {
-                    "name": "Homerville",
+                    "name": "Montezuma #5",
                     "votes": 0
                   }
                 ]
