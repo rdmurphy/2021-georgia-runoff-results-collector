@@ -1,35 +1,35 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:44:04 PM EST",
+    "Timestamp": "1/5/2021 9:36:20 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Taylor",
     "VoterTurnout": {
       "totalVoters": 0,
-      "ballotsCast": 0,
+      "ballotsCast": 2820,
       "voterTurnout": 0.0,
       "Precincts": {
         "Precinct": [
           {
             "name": "Precinct 1",
             "totalVoters": 0,
-            "ballotsCast": 0,
+            "ballotsCast": 498,
             "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "percentReporting": "4"
           },
           {
             "name": "Precinct 5",
             "totalVoters": 0,
-            "ballotsCast": 0,
+            "ballotsCast": 1251,
             "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "percentReporting": "4"
           },
           {
             "name": "Precinct 6",
             "totalVoters": 0,
-            "ballotsCast": 0,
+            "ballotsCast": 1071,
             "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "percentReporting": "4"
           }
         ]
       }
@@ -41,19 +41,19 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 3,
-        "precinctsReported": 0,
+        "precinctsReported": 3,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 0,
+            "votes": 9,
             "Precinct": [
               {
                 "name": "Precinct 1",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Precinct 5",
-                "votes": 0
+                "votes": 7
               },
               {
                 "name": "Precinct 6",
@@ -84,41 +84,41 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 0,
+            "totalVotes": 1896,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 688,
                 "Precinct": [
                   {
                     "name": "Precinct 1",
-                    "votes": 0
+                    "votes": 29
                   },
                   {
                     "name": "Precinct 5",
-                    "votes": 0
+                    "votes": 345
                   },
                   {
                     "name": "Precinct 6",
-                    "votes": 0
+                    "votes": 314
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 1208,
                 "Precinct": [
                   {
                     "name": "Precinct 1",
-                    "votes": 0
+                    "votes": 50
                   },
                   {
                     "name": "Precinct 5",
-                    "votes": 0
+                    "votes": 738
                   },
                   {
                     "name": "Precinct 6",
-                    "votes": 0
+                    "votes": 420
                   }
                 ]
               },
@@ -163,41 +163,41 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 0,
+            "totalVotes": 915,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 369,
                 "Precinct": [
                   {
                     "name": "Precinct 1",
-                    "votes": 0
+                    "votes": 181
                   },
                   {
                     "name": "Precinct 5",
-                    "votes": 0
+                    "votes": 47
                   },
                   {
                     "name": "Precinct 6",
-                    "votes": 0
+                    "votes": 141
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 546,
                 "Precinct": [
                   {
                     "name": "Precinct 1",
-                    "votes": 0
+                    "votes": 236
                   },
                   {
                     "name": "Precinct 5",
-                    "votes": 0
+                    "votes": 114
                   },
                   {
                     "name": "Precinct 6",
-                    "votes": 0
+                    "votes": 196
                   }
                 ]
               },
@@ -247,11 +247,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 3,
-        "precinctsReported": 0,
+        "precinctsReported": 3,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 0,
+            "votes": 4,
             "Precinct": [
               {
                 "name": "Precinct 1",
@@ -259,11 +259,11 @@
               },
               {
                 "name": "Precinct 5",
-                "votes": 0
+                "votes": 3
               },
               {
                 "name": "Precinct 6",
-                "votes": 0
+                "votes": 1
               }
             ]
           },
@@ -290,41 +290,41 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 0,
+            "totalVotes": 1896,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 689,
                 "Precinct": [
                   {
                     "name": "Precinct 1",
-                    "votes": 0
+                    "votes": 29
                   },
                   {
                     "name": "Precinct 5",
-                    "votes": 0
+                    "votes": 347
                   },
                   {
                     "name": "Precinct 6",
-                    "votes": 0
+                    "votes": 313
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 1207,
                 "Precinct": [
                   {
                     "name": "Precinct 1",
-                    "votes": 0
+                    "votes": 50
                   },
                   {
                     "name": "Precinct 5",
-                    "votes": 0
+                    "votes": 739
                   },
                   {
                     "name": "Precinct 6",
-                    "votes": 0
+                    "votes": 418
                   }
                 ]
               },
@@ -369,41 +369,41 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 0,
+            "totalVotes": 920,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 370,
                 "Precinct": [
                   {
                     "name": "Precinct 1",
-                    "votes": 0
+                    "votes": 181
                   },
                   {
                     "name": "Precinct 5",
-                    "votes": 0
+                    "votes": 47
                   },
                   {
                     "name": "Precinct 6",
-                    "votes": 0
+                    "votes": 142
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 550,
                 "Precinct": [
                   {
                     "name": "Precinct 1",
-                    "votes": 0
+                    "votes": 238
                   },
                   {
                     "name": "Precinct 5",
-                    "votes": 0
+                    "votes": 115
                   },
                   {
                     "name": "Precinct 6",
-                    "votes": 0
+                    "votes": 197
                   }
                 ]
               },
@@ -453,23 +453,23 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 3,
-        "precinctsReported": 0,
+        "precinctsReported": 3,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 0,
+            "votes": 50,
             "Precinct": [
               {
                 "name": "Precinct 1",
-                "votes": 0
+                "votes": 12
               },
               {
                 "name": "Precinct 5",
-                "votes": 0
+                "votes": 26
               },
               {
                 "name": "Precinct 6",
-                "votes": 0
+                "votes": 12
               }
             ]
           },
@@ -496,41 +496,41 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 0,
+            "totalVotes": 1888,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 684,
                 "Precinct": [
                   {
                     "name": "Precinct 1",
-                    "votes": 0
+                    "votes": 30
                   },
                   {
                     "name": "Precinct 5",
-                    "votes": 0
+                    "votes": 342
                   },
                   {
                     "name": "Precinct 6",
-                    "votes": 0
+                    "votes": 312
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 1204,
                 "Precinct": [
                   {
                     "name": "Precinct 1",
-                    "votes": 0
+                    "votes": 59
                   },
                   {
                     "name": "Precinct 5",
-                    "votes": 0
+                    "votes": 732
                   },
                   {
                     "name": "Precinct 6",
-                    "votes": 0
+                    "votes": 413
                   }
                 ]
               },
@@ -575,41 +575,41 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 0,
+            "totalVotes": 882,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 359,
                 "Precinct": [
                   {
                     "name": "Precinct 1",
-                    "votes": 0
+                    "votes": 175
                   },
                   {
                     "name": "Precinct 5",
-                    "votes": 0
+                    "votes": 45
                   },
                   {
                     "name": "Precinct 6",
-                    "votes": 0
+                    "votes": 139
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 523,
                 "Precinct": [
                   {
                     "name": "Precinct 1",
-                    "votes": 0
+                    "votes": 222
                   },
                   {
                     "name": "Precinct 5",
-                    "votes": 0
+                    "votes": 106
                   },
                   {
                     "name": "Precinct 6",
-                    "votes": 0
+                    "votes": 195
                   }
                 ]
               },

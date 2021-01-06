@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:38:41 PM EST",
+    "Timestamp": "1/5/2021 9:36:42 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Dade",
     "VoterTurnout": {
       "totalVoters": 11962,
-      "ballotsCast": 4942,
-      "voterTurnout": 41.31,
+      "ballotsCast": 6373,
+      "voterTurnout": 53.28,
       "Precincts": {
         "Precinct": [
           {
@@ -20,44 +20,44 @@
           {
             "name": "New Salem",
             "totalVoters": 1292,
-            "ballotsCast": 839,
-            "voterTurnout": 64.94,
+            "ballotsCast": 840,
+            "voterTurnout": 65.02,
             "percentReporting": "4"
           },
           {
             "name": "Davis",
             "totalVoters": 2052,
-            "ballotsCast": 1134,
-            "voterTurnout": 55.26,
+            "ballotsCast": 1135,
+            "voterTurnout": 55.31,
             "percentReporting": "4"
           },
           {
             "name": "New Home",
             "totalVoters": 724,
-            "ballotsCast": 172,
-            "voterTurnout": 23.76,
-            "percentReporting": "2"
+            "ballotsCast": 433,
+            "voterTurnout": 59.81,
+            "percentReporting": "4"
           },
           {
             "name": "West Brow",
             "totalVoters": 1275,
-            "ballotsCast": 428,
-            "voterTurnout": 33.57,
-            "percentReporting": "2"
+            "ballotsCast": 741,
+            "voterTurnout": 58.12,
+            "percentReporting": "4"
           },
           {
             "name": "Trenton",
             "totalVoters": 3696,
-            "ballotsCast": 1103,
-            "voterTurnout": 29.84,
-            "percentReporting": "2"
+            "ballotsCast": 1585,
+            "voterTurnout": 42.88,
+            "percentReporting": "4"
           },
           {
             "name": "North Dade",
             "totalVoters": 1912,
-            "ballotsCast": 682,
-            "voterTurnout": 35.67,
-            "percentReporting": "2"
+            "ballotsCast": 1055,
+            "voterTurnout": 55.18,
+            "percentReporting": "4"
           }
         ]
       }
@@ -69,11 +69,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 7,
-        "precinctsReported": 3,
+        "precinctsReported": 7,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 13,
+            "votes": 15,
             "Precinct": [
               {
                 "name": "South Dade",
@@ -93,7 +93,7 @@
               },
               {
                 "name": "West Brow",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Trenton",
@@ -101,7 +101,7 @@
               },
               {
                 "name": "North Dade",
-                "votes": 0
+                "votes": 1
               }
             ]
           },
@@ -144,11 +144,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 3988,
+            "totalVotes": 5227,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 992,
+                "votes": 2228,
                 "Precinct": [
                   {
                     "name": "South Dade",
@@ -164,19 +164,19 @@
                   },
                   {
                     "name": "New Home",
-                    "votes": 0
+                    "votes": 227
                   },
                   {
                     "name": "West Brow",
-                    "votes": 0
+                    "votes": 264
                   },
                   {
                     "name": "Trenton",
-                    "votes": 0
+                    "votes": 434
                   },
                   {
                     "name": "North Dade",
-                    "votes": 0
+                    "votes": 311
                   }
                 ]
               },
@@ -250,7 +250,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 3,
                 "Precinct": [
                   {
                     "name": "South Dade",
@@ -262,7 +262,7 @@
                   },
                   {
                     "name": "Davis",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "New Home",
@@ -270,7 +270,7 @@
                   },
                   {
                     "name": "West Brow",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Trenton",
@@ -287,11 +287,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 941,
+            "totalVotes": 1131,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 104,
+                "votes": 293,
                 "Precinct": [
                   {
                     "name": "South Dade",
@@ -307,19 +307,19 @@
                   },
                   {
                     "name": "New Home",
-                    "votes": 0
+                    "votes": 34
                   },
                   {
                     "name": "West Brow",
-                    "votes": 0
+                    "votes": 46
                   },
                   {
                     "name": "Trenton",
-                    "votes": 0
+                    "votes": 48
                   },
                   {
                     "name": "North Dade",
-                    "votes": 0
+                    "votes": 61
                   }
                 ]
               },
@@ -393,7 +393,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
                     "name": "South Dade",
@@ -401,7 +401,7 @@
                   },
                   {
                     "name": "New Salem",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Davis",
@@ -435,11 +435,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 7,
-        "precinctsReported": 3,
+        "precinctsReported": 7,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 29,
+            "votes": 35,
             "Precinct": [
               {
                 "name": "South Dade",
@@ -455,19 +455,19 @@
               },
               {
                 "name": "New Home",
-                "votes": 2
-              },
-              {
-                "name": "West Brow",
                 "votes": 3
               },
               {
-                "name": "Trenton",
+                "name": "West Brow",
                 "votes": 5
               },
               {
+                "name": "Trenton",
+                "votes": 6
+              },
+              {
                 "name": "North Dade",
-                "votes": 4
+                "votes": 6
               }
             ]
           },
@@ -510,11 +510,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 3990,
+            "totalVotes": 5227,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 991,
+                "votes": 2224,
                 "Precinct": [
                   {
                     "name": "South Dade",
@@ -530,19 +530,19 @@
                   },
                   {
                     "name": "New Home",
-                    "votes": 0
+                    "votes": 229
                   },
                   {
                     "name": "West Brow",
-                    "votes": 0
+                    "votes": 262
                   },
                   {
                     "name": "Trenton",
-                    "votes": 0
+                    "votes": 433
                   },
                   {
                     "name": "North Dade",
-                    "votes": 0
+                    "votes": 309
                   }
                 ]
               },
@@ -616,7 +616,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 4,
                 "Precinct": [
                   {
                     "name": "South Dade",
@@ -624,11 +624,11 @@
                   },
                   {
                     "name": "New Salem",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Davis",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "New Home",
@@ -636,7 +636,7 @@
                   },
                   {
                     "name": "West Brow",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Trenton",
@@ -653,11 +653,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 923,
+            "totalVotes": 1111,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 103,
+                "votes": 291,
                 "Precinct": [
                   {
                     "name": "South Dade",
@@ -673,19 +673,19 @@
                   },
                   {
                     "name": "New Home",
-                    "votes": 0
+                    "votes": 31
                   },
                   {
                     "name": "West Brow",
-                    "votes": 0
+                    "votes": 47
                   },
                   {
                     "name": "Trenton",
-                    "votes": 0
+                    "votes": 48
                   },
                   {
                     "name": "North Dade",
-                    "votes": 0
+                    "votes": 62
                   }
                 ]
               },
@@ -801,11 +801,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 7,
-        "precinctsReported": 3,
+        "precinctsReported": 7,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 102,
+            "votes": 128,
             "Precinct": [
               {
                 "name": "South Dade",
@@ -821,19 +821,19 @@
               },
               {
                 "name": "New Home",
-                "votes": 1
+                "votes": 3
               },
               {
                 "name": "West Brow",
-                "votes": 9
+                "votes": 18
               },
               {
                 "name": "Trenton",
-                "votes": 23
+                "votes": 30
               },
               {
                 "name": "North Dade",
-                "votes": 15
+                "votes": 23
               }
             ]
           },
@@ -876,11 +876,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 3947,
+            "totalVotes": 5179,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 981,
+                "votes": 2210,
                 "Precinct": [
                   {
                     "name": "South Dade",
@@ -896,19 +896,19 @@
                   },
                   {
                     "name": "New Home",
-                    "votes": 0
+                    "votes": 227
                   },
                   {
                     "name": "West Brow",
-                    "votes": 0
+                    "votes": 267
                   },
                   {
                     "name": "Trenton",
-                    "votes": 0
+                    "votes": 428
                   },
                   {
                     "name": "North Dade",
-                    "votes": 0
+                    "votes": 307
                   }
                 ]
               },
@@ -982,7 +982,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 3,
                 "Precinct": [
                   {
                     "name": "South Dade",
@@ -990,11 +990,11 @@
                   },
                   {
                     "name": "New Salem",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Davis",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "New Home",
@@ -1002,7 +1002,7 @@
                   },
                   {
                     "name": "West Brow",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Trenton",
@@ -1019,11 +1019,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 893,
+            "totalVotes": 1066,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 102,
+                "votes": 275,
                 "Precinct": [
                   {
                     "name": "South Dade",
@@ -1039,19 +1039,19 @@
                   },
                   {
                     "name": "New Home",
-                    "votes": 0
+                    "votes": 32
                   },
                   {
                     "name": "West Brow",
-                    "votes": 0
+                    "votes": 36
                   },
                   {
                     "name": "Trenton",
-                    "votes": 0
+                    "votes": 47
                   },
                   {
                     "name": "North Dade",
-                    "votes": 0
+                    "votes": 58
                   }
                 ]
               },

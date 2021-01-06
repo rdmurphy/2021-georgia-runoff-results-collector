@@ -1,69 +1,69 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:55:57 PM EST",
+    "Timestamp": "1/5/2021 9:36:11 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Jefferson",
     "VoterTurnout": {
       "totalVoters": 11518,
-      "ballotsCast": 6772,
-      "voterTurnout": 58.79,
+      "ballotsCast": 6937,
+      "voterTurnout": 60.23,
       "Precincts": {
         "Precinct": [
           {
             "name": "Stapleton Crossroads",
             "totalVoters": 448,
-            "ballotsCast": 280,
-            "voterTurnout": 62.5,
+            "ballotsCast": 287,
+            "voterTurnout": 64.06,
             "percentReporting": "4"
           },
           {
             "name": "Matthews",
             "totalVoters": 632,
-            "ballotsCast": 411,
-            "voterTurnout": 65.03,
+            "ballotsCast": 418,
+            "voterTurnout": 66.14,
             "percentReporting": "4"
           },
           {
             "name": "Wrens",
             "totalVoters": 2916,
-            "ballotsCast": 1678,
-            "voterTurnout": 57.54,
+            "ballotsCast": 1733,
+            "voterTurnout": 59.43,
             "percentReporting": "4"
           },
           {
             "name": "Louisville",
             "totalVoters": 3960,
-            "ballotsCast": 2348,
-            "voterTurnout": 59.29,
+            "ballotsCast": 2388,
+            "voterTurnout": 60.3,
             "percentReporting": "4"
           },
           {
             "name": "Wadley",
             "totalVoters": 1931,
-            "ballotsCast": 1079,
-            "voterTurnout": 55.88,
+            "ballotsCast": 1117,
+            "voterTurnout": 57.85,
             "percentReporting": "4"
           },
           {
             "name": "Bartow",
             "totalVoters": 543,
-            "ballotsCast": 323,
-            "voterTurnout": 59.48,
+            "ballotsCast": 330,
+            "voterTurnout": 60.77,
             "percentReporting": "4"
           },
           {
             "name": "Stapleton",
             "totalVoters": 699,
-            "ballotsCast": 401,
-            "voterTurnout": 57.37,
+            "ballotsCast": 405,
+            "voterTurnout": 57.94,
             "percentReporting": "4"
           },
           {
             "name": "Avera",
             "totalVoters": 389,
-            "ballotsCast": 252,
-            "voterTurnout": 64.78,
+            "ballotsCast": 259,
+            "voterTurnout": 66.58,
             "percentReporting": "4"
           }
         ]
@@ -159,7 +159,7 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 3125,
+            "totalVotes": 3171,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -239,35 +239,35 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 278,
+                "votes": 324,
                 "Precinct": [
                   {
                     "name": "Stapleton Crossroads",
-                    "votes": 13
+                    "votes": 16
                   },
                   {
                     "name": "Matthews",
-                    "votes": 27
+                    "votes": 32
                   },
                   {
                     "name": "Wrens",
-                    "votes": 63
+                    "votes": 81
                   },
                   {
                     "name": "Louisville",
-                    "votes": 102
+                    "votes": 109
                   },
                   {
                     "name": "Wadley",
-                    "votes": 26
+                    "votes": 31
                   },
                   {
                     "name": "Bartow",
-                    "votes": 15
+                    "votes": 20
                   },
                   {
                     "name": "Stapleton",
-                    "votes": 16
+                    "votes": 19
                   },
                   {
                     "name": "Avera",
@@ -318,7 +318,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 3629,
+            "totalVotes": 3748,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -398,39 +398,39 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 987,
+                "votes": 1106,
                 "Precinct": [
                   {
                     "name": "Stapleton Crossroads",
-                    "votes": 42
+                    "votes": 46
                   },
                   {
                     "name": "Matthews",
-                    "votes": 30
-                  },
-                  {
-                    "name": "Wrens",
-                    "votes": 249
-                  },
-                  {
-                    "name": "Louisville",
-                    "votes": 347
-                  },
-                  {
-                    "name": "Wadley",
-                    "votes": 239
-                  },
-                  {
-                    "name": "Bartow",
                     "votes": 32
                   },
                   {
-                    "name": "Stapleton",
+                    "name": "Wrens",
+                    "votes": 286
+                  },
+                  {
+                    "name": "Louisville",
+                    "votes": 380
+                  },
+                  {
+                    "name": "Wadley",
+                    "votes": 272
+                  },
+                  {
+                    "name": "Bartow",
                     "votes": 34
                   },
                   {
+                    "name": "Stapleton",
+                    "votes": 35
+                  },
+                  {
                     "name": "Avera",
-                    "votes": 14
+                    "votes": 21
                   }
                 ]
               },
@@ -486,7 +486,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 17,
+            "votes": 18,
             "Precinct": [
               {
                 "name": "Stapleton Crossroads",
@@ -498,7 +498,7 @@
               },
               {
                 "name": "Wrens",
-                "votes": 7
+                "votes": 8
               },
               {
                 "name": "Louisville",
@@ -565,7 +565,7 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 3112,
+            "totalVotes": 3156,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -645,35 +645,35 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 275,
+                "votes": 319,
                 "Precinct": [
                   {
                     "name": "Stapleton Crossroads",
-                    "votes": 14
+                    "votes": 17
                   },
                   {
                     "name": "Matthews",
-                    "votes": 28
+                    "votes": 33
                   },
                   {
                     "name": "Wrens",
-                    "votes": 60
+                    "votes": 78
                   },
                   {
                     "name": "Louisville",
-                    "votes": 100
+                    "votes": 105
                   },
                   {
                     "name": "Wadley",
-                    "votes": 26
+                    "votes": 31
                   },
                   {
                     "name": "Bartow",
-                    "votes": 15
+                    "votes": 20
                   },
                   {
                     "name": "Stapleton",
-                    "votes": 16
+                    "votes": 19
                   },
                   {
                     "name": "Avera",
@@ -724,7 +724,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 3643,
+            "totalVotes": 3763,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -804,39 +804,39 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 988,
+                "votes": 1108,
                 "Precinct": [
                   {
                     "name": "Stapleton Crossroads",
-                    "votes": 41
+                    "votes": 45
                   },
                   {
                     "name": "Matthews",
-                    "votes": 29
+                    "votes": 31
                   },
                   {
                     "name": "Wrens",
-                    "votes": 250
+                    "votes": 286
                   },
                   {
                     "name": "Louisville",
-                    "votes": 349
+                    "votes": 384
                   },
                   {
                     "name": "Wadley",
-                    "votes": 239
+                    "votes": 272
                   },
                   {
                     "name": "Bartow",
-                    "votes": 32
-                  },
-                  {
-                    "name": "Stapleton",
                     "votes": 34
                   },
                   {
+                    "name": "Stapleton",
+                    "votes": 35
+                  },
+                  {
                     "name": "Avera",
-                    "votes": 14
+                    "votes": 21
                   }
                 ]
               },
@@ -892,7 +892,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 199,
+            "votes": 202,
             "Precinct": [
               {
                 "name": "Stapleton Crossroads",
@@ -904,11 +904,11 @@
               },
               {
                 "name": "Wrens",
-                "votes": 43
+                "votes": 44
               },
               {
                 "name": "Louisville",
-                "votes": 72
+                "votes": 73
               },
               {
                 "name": "Wadley",
@@ -920,7 +920,7 @@
               },
               {
                 "name": "Stapleton",
-                "votes": 10
+                "votes": 11
               },
               {
                 "name": "Avera",
@@ -971,7 +971,7 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 3115,
+            "totalVotes": 3158,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1051,35 +1051,35 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 280,
+                "votes": 323,
                 "Precinct": [
                   {
                     "name": "Stapleton Crossroads",
-                    "votes": 14
+                    "votes": 17
                   },
                   {
                     "name": "Matthews",
-                    "votes": 25
+                    "votes": 30
                   },
                   {
                     "name": "Wrens",
-                    "votes": 65
+                    "votes": 82
                   },
                   {
                     "name": "Louisville",
-                    "votes": 104
+                    "votes": 110
                   },
                   {
                     "name": "Wadley",
-                    "votes": 25
+                    "votes": 30
                   },
                   {
                     "name": "Bartow",
-                    "votes": 15
+                    "votes": 20
                   },
                   {
                     "name": "Stapleton",
-                    "votes": 16
+                    "votes": 18
                   },
                   {
                     "name": "Avera",
@@ -1130,7 +1130,7 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 3458,
+            "totalVotes": 3577,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1210,39 +1210,39 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 947,
+                "votes": 1066,
                 "Precinct": [
                   {
                     "name": "Stapleton Crossroads",
-                    "votes": 40
+                    "votes": 44
                   },
                   {
                     "name": "Matthews",
-                    "votes": 30
-                  },
-                  {
-                    "name": "Wrens",
-                    "votes": 240
-                  },
-                  {
-                    "name": "Louisville",
-                    "votes": 332
-                  },
-                  {
-                    "name": "Wadley",
-                    "votes": 226
-                  },
-                  {
-                    "name": "Bartow",
                     "votes": 32
                   },
                   {
-                    "name": "Stapleton",
+                    "name": "Wrens",
+                    "votes": 277
+                  },
+                  {
+                    "name": "Louisville",
+                    "votes": 365
+                  },
+                  {
+                    "name": "Wadley",
+                    "votes": 259
+                  },
+                  {
+                    "name": "Bartow",
                     "votes": 34
                   },
                   {
+                    "name": "Stapleton",
+                    "votes": 35
+                  },
+                  {
                     "name": "Avera",
-                    "votes": 13
+                    "votes": 20
                   }
                 ]
               },

@@ -1,28 +1,28 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:59:56 PM EST",
+    "Timestamp": "1/5/2021 9:38:28 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Bartow",
     "VoterTurnout": {
       "totalVoters": 75882,
-      "ballotsCast": 8186,
-      "voterTurnout": 10.79,
+      "ballotsCast": 13336,
+      "voterTurnout": 17.57,
       "Precincts": {
         "Precinct": [
           {
             "name": "Adairsville",
             "totalVoters": 7148,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 1493,
+            "voterTurnout": 20.89,
+            "percentReporting": "2"
           },
           {
             "name": "Allatoona",
             "totalVoters": 4834,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 886,
+            "voterTurnout": 18.33,
+            "percentReporting": "2"
           },
           {
             "name": "Cartersville East",
@@ -41,9 +41,9 @@
           {
             "name": "Cassville",
             "totalVoters": 4661,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 695,
+            "voterTurnout": 14.91,
+            "percentReporting": "2"
           },
           {
             "name": "Center",
@@ -76,16 +76,16 @@
           {
             "name": "Hamilton Crossing",
             "totalVoters": 6735,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 1267,
+            "voterTurnout": 18.81,
+            "percentReporting": "2"
           },
           {
             "name": "Kingston",
             "totalVoters": 2747,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 809,
+            "voterTurnout": 29.45,
+            "percentReporting": "2"
           },
           {
             "name": "Mission Road",
@@ -143,11 +143,11 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 9,
+            "votes": 17,
             "Precinct": [
               {
                 "name": "Adairsville",
-                "votes": 0
+                "votes": 3
               },
               {
                 "name": "Allatoona",
@@ -163,7 +163,7 @@
               },
               {
                 "name": "Cassville",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Center",
@@ -183,7 +183,7 @@
               },
               {
                 "name": "Hamilton Crossing",
-                "votes": 0
+                "votes": 3
               },
               {
                 "name": "Kingston",
@@ -294,19 +294,19 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 6894,
+            "totalVotes": 11164,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 6894,
+                "votes": 11164,
                 "Precinct": [
                   {
                     "name": "Adairsville",
-                    "votes": 0
+                    "votes": 1289
                   },
                   {
                     "name": "Allatoona",
-                    "votes": 0
+                    "votes": 688
                   },
                   {
                     "name": "Cartersville East",
@@ -318,7 +318,7 @@
                   },
                   {
                     "name": "Cassville",
-                    "votes": 0
+                    "votes": 522
                   },
                   {
                     "name": "Center",
@@ -338,11 +338,11 @@
                   },
                   {
                     "name": "Hamilton Crossing",
-                    "votes": 0
+                    "votes": 1067
                   },
                   {
                     "name": "Kingston",
-                    "votes": 0
+                    "votes": 704
                   },
                   {
                     "name": "Mission Road",
@@ -597,19 +597,19 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 1283,
+            "totalVotes": 2155,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1283,
+                "votes": 2155,
                 "Precinct": [
                   {
                     "name": "Adairsville",
-                    "votes": 0
+                    "votes": 201
                   },
                   {
                     "name": "Allatoona",
-                    "votes": 0
+                    "votes": 198
                   },
                   {
                     "name": "Cartersville East",
@@ -621,7 +621,7 @@
                   },
                   {
                     "name": "Cassville",
-                    "votes": 0
+                    "votes": 171
                   },
                   {
                     "name": "Center",
@@ -641,11 +641,11 @@
                   },
                   {
                     "name": "Hamilton Crossing",
-                    "votes": 0
+                    "votes": 197
                   },
                   {
                     "name": "Kingston",
-                    "votes": 0
+                    "votes": 105
                   },
                   {
                     "name": "Mission Road",
@@ -909,15 +909,15 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 13,
+            "votes": 21,
             "Precinct": [
               {
                 "name": "Adairsville",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Allatoona",
-                "votes": 0
+                "votes": 3
               },
               {
                 "name": "Cartersville East",
@@ -929,7 +929,7 @@
               },
               {
                 "name": "Cassville",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Center",
@@ -949,7 +949,7 @@
               },
               {
                 "name": "Hamilton Crossing",
-                "votes": 0
+                "votes": 3
               },
               {
                 "name": "Kingston",
@@ -1060,19 +1060,19 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 6863,
+            "totalVotes": 11112,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 6863,
+                "votes": 11112,
                 "Precinct": [
                   {
                     "name": "Adairsville",
-                    "votes": 0
+                    "votes": 1279
                   },
                   {
                     "name": "Allatoona",
-                    "votes": 0
+                    "votes": 689
                   },
                   {
                     "name": "Cartersville East",
@@ -1084,7 +1084,7 @@
                   },
                   {
                     "name": "Cassville",
-                    "votes": 0
+                    "votes": 520
                   },
                   {
                     "name": "Center",
@@ -1104,11 +1104,11 @@
                   },
                   {
                     "name": "Hamilton Crossing",
-                    "votes": 0
+                    "votes": 1058
                   },
                   {
                     "name": "Kingston",
-                    "votes": 0
+                    "votes": 703
                   },
                   {
                     "name": "Mission Road",
@@ -1363,19 +1363,19 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 1310,
+            "totalVotes": 2203,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1310,
+                "votes": 2203,
                 "Precinct": [
                   {
                     "name": "Adairsville",
-                    "votes": 0
+                    "votes": 213
                   },
                   {
                     "name": "Allatoona",
-                    "votes": 0
+                    "votes": 194
                   },
                   {
                     "name": "Cartersville East",
@@ -1387,7 +1387,7 @@
                   },
                   {
                     "name": "Cassville",
-                    "votes": 0
+                    "votes": 174
                   },
                   {
                     "name": "Center",
@@ -1407,11 +1407,11 @@
                   },
                   {
                     "name": "Hamilton Crossing",
-                    "votes": 0
+                    "votes": 206
                   },
                   {
                     "name": "Kingston",
-                    "votes": 0
+                    "votes": 106
                   },
                   {
                     "name": "Mission Road",
@@ -1675,15 +1675,15 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 70,
+            "votes": 117,
             "Precinct": [
               {
                 "name": "Adairsville",
-                "votes": 0
+                "votes": 17
               },
               {
                 "name": "Allatoona",
-                "votes": 0
+                "votes": 9
               },
               {
                 "name": "Cartersville East",
@@ -1695,7 +1695,7 @@
               },
               {
                 "name": "Cassville",
-                "votes": 0
+                "votes": 5
               },
               {
                 "name": "Center",
@@ -1715,11 +1715,11 @@
               },
               {
                 "name": "Hamilton Crossing",
-                "votes": 0
+                "votes": 9
               },
               {
                 "name": "Kingston",
-                "votes": 0
+                "votes": 7
               },
               {
                 "name": "Mission Road",
@@ -1826,19 +1826,19 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 6883,
+            "totalVotes": 11136,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 6883,
+                "votes": 11136,
                 "Precinct": [
                   {
                     "name": "Adairsville",
-                    "votes": 0
+                    "votes": 1281
                   },
                   {
                     "name": "Allatoona",
-                    "votes": 0
+                    "votes": 686
                   },
                   {
                     "name": "Cartersville East",
@@ -1850,7 +1850,7 @@
                   },
                   {
                     "name": "Cassville",
-                    "votes": 0
+                    "votes": 524
                   },
                   {
                     "name": "Center",
@@ -1870,11 +1870,11 @@
                   },
                   {
                     "name": "Hamilton Crossing",
-                    "votes": 0
+                    "votes": 1062
                   },
                   {
                     "name": "Kingston",
-                    "votes": 0
+                    "votes": 700
                   },
                   {
                     "name": "Mission Road",
@@ -2129,19 +2129,19 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 1233,
+            "totalVotes": 2083,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1233,
+                "votes": 2083,
                 "Precinct": [
                   {
                     "name": "Adairsville",
-                    "votes": 0
+                    "votes": 195
                   },
                   {
                     "name": "Allatoona",
-                    "votes": 0
+                    "votes": 191
                   },
                   {
                     "name": "Cartersville East",
@@ -2153,7 +2153,7 @@
                   },
                   {
                     "name": "Cassville",
-                    "votes": 0
+                    "votes": 166
                   },
                   {
                     "name": "Center",
@@ -2173,11 +2173,11 @@
                   },
                   {
                     "name": "Hamilton Crossing",
-                    "votes": 0
+                    "votes": 196
                   },
                   {
                     "name": "Kingston",
-                    "votes": 0
+                    "votes": 102
                   },
                   {
                     "name": "Mission Road",
