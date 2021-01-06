@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:19:50 PM EST",
+    "Timestamp": "1/5/2021 8:54:17 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Walker",
     "VoterTurnout": {
       "totalVoters": 44180,
-      "ballotsCast": 17112,
-      "voterTurnout": 38.73,
+      "ballotsCast": 21152,
+      "voterTurnout": 47.88,
       "Precincts": {
         "Precinct": [
           {
@@ -20,16 +20,16 @@
           {
             "name": "Walnut Grove",
             "totalVoters": 2281,
-            "ballotsCast": 775,
-            "voterTurnout": 33.98,
-            "percentReporting": "2"
+            "ballotsCast": 1346,
+            "voterTurnout": 59.01,
+            "percentReporting": "4"
           },
           {
             "name": "Rock Spring",
             "totalVoters": 6436,
-            "ballotsCast": 2632,
-            "voterTurnout": 40.89,
-            "percentReporting": "2"
+            "ballotsCast": 3870,
+            "voterTurnout": 60.13,
+            "percentReporting": "4"
           },
           {
             "name": "Armuchee Valley",
@@ -41,9 +41,9 @@
           {
             "name": "Mountain",
             "totalVoters": 1277,
-            "ballotsCast": 321,
-            "voterTurnout": 25.14,
-            "percentReporting": "2"
+            "ballotsCast": 810,
+            "voterTurnout": 63.43,
+            "percentReporting": "4"
           },
           {
             "name": "Chattanooga Valley",
@@ -62,9 +62,9 @@
           {
             "name": "Rossville",
             "totalVoters": 6473,
-            "ballotsCast": 1890,
-            "voterTurnout": 29.2,
-            "percentReporting": "2"
+            "ballotsCast": 2987,
+            "voterTurnout": 46.15,
+            "percentReporting": "4"
           },
           {
             "name": "Chickamauga",
@@ -83,9 +83,9 @@
           {
             "name": "Fairview",
             "totalVoters": 3194,
-            "ballotsCast": 874,
-            "voterTurnout": 27.36,
-            "percentReporting": "2"
+            "ballotsCast": 1519,
+            "voterTurnout": 47.56,
+            "percentReporting": "4"
           }
         ]
       }
@@ -97,11 +97,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 11,
-        "precinctsReported": 3,
+        "precinctsReported": 8,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 29,
+            "votes": 33,
             "Precinct": [
               {
                 "name": "La Fayette",
@@ -109,11 +109,11 @@
               },
               {
                 "name": "Walnut Grove",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Rock Spring",
-                "votes": 3
+                "votes": 4
               },
               {
                 "name": "Armuchee Valley",
@@ -133,7 +133,7 @@
               },
               {
                 "name": "Rossville",
-                "votes": 4
+                "votes": 6
               },
               {
                 "name": "Chickamauga",
@@ -204,11 +204,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 13172,
+            "totalVotes": 16648,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1959,
+                "votes": 5435,
                 "Precinct": [
                   {
                     "name": "La Fayette",
@@ -216,11 +216,11 @@
                   },
                   {
                     "name": "Walnut Grove",
-                    "votes": 0
+                    "votes": 535
                   },
                   {
                     "name": "Rock Spring",
-                    "votes": 0
+                    "votes": 1120
                   },
                   {
                     "name": "Armuchee Valley",
@@ -228,7 +228,7 @@
                   },
                   {
                     "name": "Mountain",
-                    "votes": 0
+                    "votes": 436
                   },
                   {
                     "name": "Chattanooga Valley",
@@ -240,7 +240,7 @@
                   },
                   {
                     "name": "Rossville",
-                    "votes": 0
+                    "votes": 842
                   },
                   {
                     "name": "Chickamauga",
@@ -252,7 +252,7 @@
                   },
                   {
                     "name": "Fairview",
-                    "votes": 0
+                    "votes": 543
                   }
                 ]
               },
@@ -411,11 +411,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 3911,
+            "totalVotes": 4471,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 259,
+                "votes": 819,
                 "Precinct": [
                   {
                     "name": "La Fayette",
@@ -423,11 +423,11 @@
                   },
                   {
                     "name": "Walnut Grove",
-                    "votes": 0
+                    "votes": 35
                   },
                   {
                     "name": "Rock Spring",
-                    "votes": 0
+                    "votes": 117
                   },
                   {
                     "name": "Armuchee Valley",
@@ -435,7 +435,7 @@
                   },
                   {
                     "name": "Mountain",
-                    "votes": 0
+                    "votes": 53
                   },
                   {
                     "name": "Chattanooga Valley",
@@ -447,7 +447,7 @@
                   },
                   {
                     "name": "Rossville",
-                    "votes": 0
+                    "votes": 253
                   },
                   {
                     "name": "Chickamauga",
@@ -459,7 +459,7 @@
                   },
                   {
                     "name": "Fairview",
-                    "votes": 0
+                    "votes": 102
                   }
                 ]
               },
@@ -623,11 +623,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 11,
-        "precinctsReported": 3,
+        "precinctsReported": 8,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 42,
+            "votes": 46,
             "Precinct": [
               {
                 "name": "La Fayette",
@@ -635,11 +635,11 @@
               },
               {
                 "name": "Walnut Grove",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Rock Spring",
-                "votes": 4
+                "votes": 5
               },
               {
                 "name": "Armuchee Valley",
@@ -647,7 +647,7 @@
               },
               {
                 "name": "Mountain",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Chattanooga Valley",
@@ -659,7 +659,7 @@
               },
               {
                 "name": "Rossville",
-                "votes": 8
+                "votes": 9
               },
               {
                 "name": "Chickamauga",
@@ -730,11 +730,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 13201,
+            "totalVotes": 16680,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1964,
+                "votes": 5443,
                 "Precinct": [
                   {
                     "name": "La Fayette",
@@ -742,11 +742,11 @@
                   },
                   {
                     "name": "Walnut Grove",
-                    "votes": 0
+                    "votes": 534
                   },
                   {
                     "name": "Rock Spring",
-                    "votes": 0
+                    "votes": 1125
                   },
                   {
                     "name": "Armuchee Valley",
@@ -754,7 +754,7 @@
                   },
                   {
                     "name": "Mountain",
-                    "votes": 0
+                    "votes": 436
                   },
                   {
                     "name": "Chattanooga Valley",
@@ -766,7 +766,7 @@
                   },
                   {
                     "name": "Rossville",
-                    "votes": 0
+                    "votes": 840
                   },
                   {
                     "name": "Chickamauga",
@@ -778,7 +778,7 @@
                   },
                   {
                     "name": "Fairview",
-                    "votes": 0
+                    "votes": 544
                   }
                 ]
               },
@@ -937,11 +937,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 3869,
+            "totalVotes": 4426,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 256,
+                "votes": 813,
                 "Precinct": [
                   {
                     "name": "La Fayette",
@@ -949,11 +949,11 @@
                   },
                   {
                     "name": "Walnut Grove",
-                    "votes": 0
+                    "votes": 36
                   },
                   {
                     "name": "Rock Spring",
-                    "votes": 0
+                    "votes": 112
                   },
                   {
                     "name": "Armuchee Valley",
@@ -961,7 +961,7 @@
                   },
                   {
                     "name": "Mountain",
-                    "votes": 0
+                    "votes": 52
                   },
                   {
                     "name": "Chattanooga Valley",
@@ -973,7 +973,7 @@
                   },
                   {
                     "name": "Rossville",
-                    "votes": 0
+                    "votes": 256
                   },
                   {
                     "name": "Chickamauga",
@@ -985,7 +985,7 @@
                   },
                   {
                     "name": "Fairview",
-                    "votes": 0
+                    "votes": 101
                   }
                 ]
               },
@@ -1149,11 +1149,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 11,
-        "precinctsReported": 3,
+        "precinctsReported": 8,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 265,
+            "votes": 303,
             "Precinct": [
               {
                 "name": "La Fayette",
@@ -1161,11 +1161,11 @@
               },
               {
                 "name": "Walnut Grove",
-                "votes": 7
+                "votes": 13
               },
               {
                 "name": "Rock Spring",
-                "votes": 43
+                "votes": 54
               },
               {
                 "name": "Armuchee Valley",
@@ -1173,7 +1173,7 @@
               },
               {
                 "name": "Mountain",
-                "votes": 2
+                "votes": 8
               },
               {
                 "name": "Chattanooga Valley",
@@ -1185,7 +1185,7 @@
               },
               {
                 "name": "Rossville",
-                "votes": 36
+                "votes": 49
               },
               {
                 "name": "Chickamauga",
@@ -1197,7 +1197,7 @@
               },
               {
                 "name": "Fairview",
-                "votes": 22
+                "votes": 24
               }
             ]
           },
@@ -1256,11 +1256,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 13123,
+            "totalVotes": 16595,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1948,
+                "votes": 5420,
                 "Precinct": [
                   {
                     "name": "La Fayette",
@@ -1268,11 +1268,11 @@
                   },
                   {
                     "name": "Walnut Grove",
-                    "votes": 0
+                    "votes": 537
                   },
                   {
                     "name": "Rock Spring",
-                    "votes": 0
+                    "votes": 1119
                   },
                   {
                     "name": "Armuchee Valley",
@@ -1280,7 +1280,7 @@
                   },
                   {
                     "name": "Mountain",
-                    "votes": 0
+                    "votes": 438
                   },
                   {
                     "name": "Chattanooga Valley",
@@ -1292,7 +1292,7 @@
                   },
                   {
                     "name": "Rossville",
-                    "votes": 0
+                    "votes": 838
                   },
                   {
                     "name": "Chickamauga",
@@ -1304,7 +1304,7 @@
                   },
                   {
                     "name": "Fairview",
-                    "votes": 0
+                    "votes": 540
                   }
                 ]
               },
@@ -1463,11 +1463,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 3720,
+            "totalVotes": 4250,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 247,
+                "votes": 777,
                 "Precinct": [
                   {
                     "name": "La Fayette",
@@ -1475,11 +1475,11 @@
                   },
                   {
                     "name": "Walnut Grove",
-                    "votes": 0
+                    "votes": 28
                   },
                   {
                     "name": "Rock Spring",
-                    "votes": 0
+                    "votes": 108
                   },
                   {
                     "name": "Armuchee Valley",
@@ -1487,7 +1487,7 @@
                   },
                   {
                     "name": "Mountain",
-                    "votes": 0
+                    "votes": 45
                   },
                   {
                     "name": "Chattanooga Valley",
@@ -1499,7 +1499,7 @@
                   },
                   {
                     "name": "Rossville",
-                    "votes": 0
+                    "votes": 246
                   },
                   {
                     "name": "Chickamauga",
@@ -1511,7 +1511,7 @@
                   },
                   {
                     "name": "Fairview",
-                    "votes": 0
+                    "votes": 103
                   }
                 ]
               },

@@ -1,0 +1,1166 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:53:12 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Murray",
+    "VoterTurnout": {
+      "totalVoters": 22981,
+      "ballotsCast": 11938,
+      "voterTurnout": 51.95,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "McDonald",
+            "totalVoters": 2601,
+            "ballotsCast": 1402,
+            "voterTurnout": 53.9,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Shuck Pen",
+            "totalVoters": 3042,
+            "ballotsCast": 1696,
+            "voterTurnout": 55.75,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Southwest",
+            "totalVoters": 3352,
+            "ballotsCast": 1721,
+            "voterTurnout": 51.34,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Spring Place",
+            "totalVoters": 3752,
+            "ballotsCast": 2186,
+            "voterTurnout": 58.26,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Town",
+            "totalVoters": 5927,
+            "ballotsCast": 2423,
+            "voterTurnout": 40.88,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Carters-Doolittle",
+            "totalVoters": 2112,
+            "ballotsCast": 1168,
+            "voterTurnout": 55.3,
+            "percentReporting": "4"
+          },
+          {
+            "name": "North",
+            "totalVoters": 2195,
+            "ballotsCast": 1342,
+            "voterTurnout": 61.14,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 7,
+        "precinctsReported": 6,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 11,
+            "Precinct": [
+              {
+                "name": "McDonald",
+                "votes": 2
+              },
+              {
+                "name": "Shuck Pen",
+                "votes": 1
+              },
+              {
+                "name": "Southwest",
+                "votes": 1
+              },
+              {
+                "name": "Spring Place",
+                "votes": 5
+              },
+              {
+                "name": "Town",
+                "votes": 1
+              },
+              {
+                "name": "Carters-Doolittle",
+                "votes": 0
+              },
+              {
+                "name": "North",
+                "votes": 1
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "McDonald",
+                "votes": 0
+              },
+              {
+                "name": "Shuck Pen",
+                "votes": 0
+              },
+              {
+                "name": "Southwest",
+                "votes": 0
+              },
+              {
+                "name": "Spring Place",
+                "votes": 0
+              },
+              {
+                "name": "Town",
+                "votes": 0
+              },
+              {
+                "name": "Carters-Doolittle",
+                "votes": 0
+              },
+              {
+                "name": "North",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 10039,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 3887,
+                "Precinct": [
+                  {
+                    "name": "McDonald",
+                    "votes": 409
+                  },
+                  {
+                    "name": "Shuck Pen",
+                    "votes": 740
+                  },
+                  {
+                    "name": "Southwest",
+                    "votes": 795
+                  },
+                  {
+                    "name": "Spring Place",
+                    "votes": 730
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Carters-Doolittle",
+                    "votes": 554
+                  },
+                  {
+                    "name": "North",
+                    "votes": 659
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 5128,
+                "Precinct": [
+                  {
+                    "name": "McDonald",
+                    "votes": 667
+                  },
+                  {
+                    "name": "Shuck Pen",
+                    "votes": 566
+                  },
+                  {
+                    "name": "Southwest",
+                    "votes": 580
+                  },
+                  {
+                    "name": "Spring Place",
+                    "votes": 886
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 1617
+                  },
+                  {
+                    "name": "Carters-Doolittle",
+                    "votes": 389
+                  },
+                  {
+                    "name": "North",
+                    "votes": 423
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1024,
+                "Precinct": [
+                  {
+                    "name": "McDonald",
+                    "votes": 116
+                  },
+                  {
+                    "name": "Shuck Pen",
+                    "votes": 112
+                  },
+                  {
+                    "name": "Southwest",
+                    "votes": 137
+                  },
+                  {
+                    "name": "Spring Place",
+                    "votes": 151
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 317
+                  },
+                  {
+                    "name": "Carters-Doolittle",
+                    "votes": 93
+                  },
+                  {
+                    "name": "North",
+                    "votes": 98
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "McDonald",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shuck Pen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Southwest",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Spring Place",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Carters-Doolittle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 1888,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 489,
+                "Precinct": [
+                  {
+                    "name": "McDonald",
+                    "votes": 55
+                  },
+                  {
+                    "name": "Shuck Pen",
+                    "votes": 118
+                  },
+                  {
+                    "name": "Southwest",
+                    "votes": 81
+                  },
+                  {
+                    "name": "Spring Place",
+                    "votes": 147
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Carters-Doolittle",
+                    "votes": 44
+                  },
+                  {
+                    "name": "North",
+                    "votes": 44
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 758,
+                "Precinct": [
+                  {
+                    "name": "McDonald",
+                    "votes": 86
+                  },
+                  {
+                    "name": "Shuck Pen",
+                    "votes": 91
+                  },
+                  {
+                    "name": "Southwest",
+                    "votes": 72
+                  },
+                  {
+                    "name": "Spring Place",
+                    "votes": 148
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 265
+                  },
+                  {
+                    "name": "Carters-Doolittle",
+                    "votes": 46
+                  },
+                  {
+                    "name": "North",
+                    "votes": 50
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 641,
+                "Precinct": [
+                  {
+                    "name": "McDonald",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Shuck Pen",
+                    "votes": 68
+                  },
+                  {
+                    "name": "Southwest",
+                    "votes": 55
+                  },
+                  {
+                    "name": "Spring Place",
+                    "votes": 119
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 223
+                  },
+                  {
+                    "name": "Carters-Doolittle",
+                    "votes": 42
+                  },
+                  {
+                    "name": "North",
+                    "votes": 67
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "McDonald",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shuck Pen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Southwest",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Spring Place",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Carters-Doolittle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 7,
+        "precinctsReported": 6,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 14,
+            "Precinct": [
+              {
+                "name": "McDonald",
+                "votes": 3
+              },
+              {
+                "name": "Shuck Pen",
+                "votes": 2
+              },
+              {
+                "name": "Southwest",
+                "votes": 2
+              },
+              {
+                "name": "Spring Place",
+                "votes": 3
+              },
+              {
+                "name": "Town",
+                "votes": 2
+              },
+              {
+                "name": "Carters-Doolittle",
+                "votes": 0
+              },
+              {
+                "name": "North",
+                "votes": 2
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 2,
+            "Precinct": [
+              {
+                "name": "McDonald",
+                "votes": 0
+              },
+              {
+                "name": "Shuck Pen",
+                "votes": 0
+              },
+              {
+                "name": "Southwest",
+                "votes": 0
+              },
+              {
+                "name": "Spring Place",
+                "votes": 0
+              },
+              {
+                "name": "Town",
+                "votes": 1
+              },
+              {
+                "name": "Carters-Doolittle",
+                "votes": 1
+              },
+              {
+                "name": "North",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 10042,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 3888,
+                "Precinct": [
+                  {
+                    "name": "McDonald",
+                    "votes": 409
+                  },
+                  {
+                    "name": "Shuck Pen",
+                    "votes": 738
+                  },
+                  {
+                    "name": "Southwest",
+                    "votes": 795
+                  },
+                  {
+                    "name": "Spring Place",
+                    "votes": 730
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Carters-Doolittle",
+                    "votes": 554
+                  },
+                  {
+                    "name": "North",
+                    "votes": 662
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 5130,
+                "Precinct": [
+                  {
+                    "name": "McDonald",
+                    "votes": 668
+                  },
+                  {
+                    "name": "Shuck Pen",
+                    "votes": 565
+                  },
+                  {
+                    "name": "Southwest",
+                    "votes": 582
+                  },
+                  {
+                    "name": "Spring Place",
+                    "votes": 886
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 1616
+                  },
+                  {
+                    "name": "Carters-Doolittle",
+                    "votes": 390
+                  },
+                  {
+                    "name": "North",
+                    "votes": 423
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1024,
+                "Precinct": [
+                  {
+                    "name": "McDonald",
+                    "votes": 116
+                  },
+                  {
+                    "name": "Shuck Pen",
+                    "votes": 112
+                  },
+                  {
+                    "name": "Southwest",
+                    "votes": 139
+                  },
+                  {
+                    "name": "Spring Place",
+                    "votes": 151
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 315
+                  },
+                  {
+                    "name": "Carters-Doolittle",
+                    "votes": 93
+                  },
+                  {
+                    "name": "North",
+                    "votes": 98
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "McDonald",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shuck Pen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Southwest",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Spring Place",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Carters-Doolittle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 1880,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 488,
+                "Precinct": [
+                  {
+                    "name": "McDonald",
+                    "votes": 55
+                  },
+                  {
+                    "name": "Shuck Pen",
+                    "votes": 119
+                  },
+                  {
+                    "name": "Southwest",
+                    "votes": 80
+                  },
+                  {
+                    "name": "Spring Place",
+                    "votes": 149
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Carters-Doolittle",
+                    "votes": 44
+                  },
+                  {
+                    "name": "North",
+                    "votes": 41
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 756,
+                "Precinct": [
+                  {
+                    "name": "McDonald",
+                    "votes": 85
+                  },
+                  {
+                    "name": "Shuck Pen",
+                    "votes": 92
+                  },
+                  {
+                    "name": "Southwest",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Spring Place",
+                    "votes": 148
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 266
+                  },
+                  {
+                    "name": "Carters-Doolittle",
+                    "votes": 45
+                  },
+                  {
+                    "name": "North",
+                    "votes": 50
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 636,
+                "Precinct": [
+                  {
+                    "name": "McDonald",
+                    "votes": 66
+                  },
+                  {
+                    "name": "Shuck Pen",
+                    "votes": 68
+                  },
+                  {
+                    "name": "Southwest",
+                    "votes": 53
+                  },
+                  {
+                    "name": "Spring Place",
+                    "votes": 119
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 223
+                  },
+                  {
+                    "name": "Carters-Doolittle",
+                    "votes": 41
+                  },
+                  {
+                    "name": "North",
+                    "votes": 66
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "McDonald",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shuck Pen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Southwest",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Spring Place",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Carters-Doolittle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 7,
+        "precinctsReported": 6,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 193,
+            "Precinct": [
+              {
+                "name": "McDonald",
+                "votes": 24
+              },
+              {
+                "name": "Shuck Pen",
+                "votes": 18
+              },
+              {
+                "name": "Southwest",
+                "votes": 41
+              },
+              {
+                "name": "Spring Place",
+                "votes": 27
+              },
+              {
+                "name": "Town",
+                "votes": 39
+              },
+              {
+                "name": "Carters-Doolittle",
+                "votes": 22
+              },
+              {
+                "name": "North",
+                "votes": 22
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "McDonald",
+                "votes": 0
+              },
+              {
+                "name": "Shuck Pen",
+                "votes": 0
+              },
+              {
+                "name": "Southwest",
+                "votes": 0
+              },
+              {
+                "name": "Spring Place",
+                "votes": 0
+              },
+              {
+                "name": "Town",
+                "votes": 0
+              },
+              {
+                "name": "Carters-Doolittle",
+                "votes": 0
+              },
+              {
+                "name": "North",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 9912,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 3847,
+                "Precinct": [
+                  {
+                    "name": "McDonald",
+                    "votes": 405
+                  },
+                  {
+                    "name": "Shuck Pen",
+                    "votes": 735
+                  },
+                  {
+                    "name": "Southwest",
+                    "votes": 781
+                  },
+                  {
+                    "name": "Spring Place",
+                    "votes": 729
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Carters-Doolittle",
+                    "votes": 544
+                  },
+                  {
+                    "name": "North",
+                    "votes": 653
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 5071,
+                "Precinct": [
+                  {
+                    "name": "McDonald",
+                    "votes": 652
+                  },
+                  {
+                    "name": "Shuck Pen",
+                    "votes": 564
+                  },
+                  {
+                    "name": "Southwest",
+                    "votes": 566
+                  },
+                  {
+                    "name": "Spring Place",
+                    "votes": 877
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 1609
+                  },
+                  {
+                    "name": "Carters-Doolittle",
+                    "votes": 381
+                  },
+                  {
+                    "name": "North",
+                    "votes": 422
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 994,
+                "Precinct": [
+                  {
+                    "name": "McDonald",
+                    "votes": 115
+                  },
+                  {
+                    "name": "Shuck Pen",
+                    "votes": 113
+                  },
+                  {
+                    "name": "Southwest",
+                    "votes": 130
+                  },
+                  {
+                    "name": "Spring Place",
+                    "votes": 149
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 302
+                  },
+                  {
+                    "name": "Carters-Doolittle",
+                    "votes": 91
+                  },
+                  {
+                    "name": "North",
+                    "votes": 94
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "McDonald",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shuck Pen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Southwest",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Spring Place",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Carters-Doolittle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 1832,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 477,
+                "Precinct": [
+                  {
+                    "name": "McDonald",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Shuck Pen",
+                    "votes": 115
+                  },
+                  {
+                    "name": "Southwest",
+                    "votes": 80
+                  },
+                  {
+                    "name": "Spring Place",
+                    "votes": 144
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Carters-Doolittle",
+                    "votes": 44
+                  },
+                  {
+                    "name": "North",
+                    "votes": 36
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 718,
+                "Precinct": [
+                  {
+                    "name": "McDonald",
+                    "votes": 84
+                  },
+                  {
+                    "name": "Shuck Pen",
+                    "votes": 86
+                  },
+                  {
+                    "name": "Southwest",
+                    "votes": 68
+                  },
+                  {
+                    "name": "Spring Place",
+                    "votes": 141
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 249
+                  },
+                  {
+                    "name": "Carters-Doolittle",
+                    "votes": 45
+                  },
+                  {
+                    "name": "North",
+                    "votes": 45
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 637,
+                "Precinct": [
+                  {
+                    "name": "McDonald",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Shuck Pen",
+                    "votes": 65
+                  },
+                  {
+                    "name": "Southwest",
+                    "votes": 55
+                  },
+                  {
+                    "name": "Spring Place",
+                    "votes": 119
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 223
+                  },
+                  {
+                    "name": "Carters-Doolittle",
+                    "votes": 41
+                  },
+                  {
+                    "name": "North",
+                    "votes": 70
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "McDonald",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shuck Pen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Southwest",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Spring Place",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Carters-Doolittle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

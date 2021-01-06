@@ -1,0 +1,1674 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:53:40 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Sumter",
+    "VoterTurnout": {
+      "totalVoters": 0,
+      "ballotsCast": 9497,
+      "voterTurnout": 0.0,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Agri-Center",
+            "totalVoters": 0,
+            "ballotsCast": 1318,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Airport",
+            "totalVoters": 0,
+            "ballotsCast": 1276,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Andersonville",
+            "totalVoters": 0,
+            "ballotsCast": 301,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Browns Mill",
+            "totalVoters": 0,
+            "ballotsCast": 666,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Concord",
+            "totalVoters": 0,
+            "ballotsCast": 121,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "GSW Conf Center",
+            "totalVoters": 0,
+            "ballotsCast": 1485,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Leslie",
+            "totalVoters": 0,
+            "ballotsCast": 706,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Plains",
+            "totalVoters": 0,
+            "ballotsCast": 402,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Rec Dept",
+            "totalVoters": 0,
+            "ballotsCast": 1259,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Reese Park",
+            "totalVoters": 0,
+            "ballotsCast": 1551,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Thompson",
+            "totalVoters": 0,
+            "ballotsCast": 412,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 11,
+        "precinctsReported": 6,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 13,
+            "Precinct": [
+              {
+                "name": "Agri-Center",
+                "votes": 1
+              },
+              {
+                "name": "Airport",
+                "votes": 1
+              },
+              {
+                "name": "Andersonville",
+                "votes": 0
+              },
+              {
+                "name": "Browns Mill",
+                "votes": 2
+              },
+              {
+                "name": "Concord",
+                "votes": 0
+              },
+              {
+                "name": "GSW Conf Center",
+                "votes": 0
+              },
+              {
+                "name": "Leslie",
+                "votes": 1
+              },
+              {
+                "name": "Plains",
+                "votes": 1
+              },
+              {
+                "name": "Rec Dept",
+                "votes": 5
+              },
+              {
+                "name": "Reese Park",
+                "votes": 1
+              },
+              {
+                "name": "Thompson",
+                "votes": 1
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Agri-Center",
+                "votes": 0
+              },
+              {
+                "name": "Airport",
+                "votes": 0
+              },
+              {
+                "name": "Andersonville",
+                "votes": 0
+              },
+              {
+                "name": "Browns Mill",
+                "votes": 0
+              },
+              {
+                "name": "Concord",
+                "votes": 0
+              },
+              {
+                "name": "GSW Conf Center",
+                "votes": 0
+              },
+              {
+                "name": "Leslie",
+                "votes": 0
+              },
+              {
+                "name": "Plains",
+                "votes": 0
+              },
+              {
+                "name": "Rec Dept",
+                "votes": 0
+              },
+              {
+                "name": "Reese Park",
+                "votes": 0
+              },
+              {
+                "name": "Thompson",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 4281,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 929,
+                "Precinct": [
+                  {
+                    "name": "Agri-Center",
+                    "votes": 213
+                  },
+                  {
+                    "name": "Airport",
+                    "votes": 206
+                  },
+                  {
+                    "name": "Andersonville",
+                    "votes": 167
+                  },
+                  {
+                    "name": "Browns Mill",
+                    "votes": 171
+                  },
+                  {
+                    "name": "Concord",
+                    "votes": 0
+                  },
+                  {
+                    "name": "GSW Conf Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leslie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Plains",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rec Dept",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Reese Park",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Thompson",
+                    "votes": 108
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2661,
+                "Precinct": [
+                  {
+                    "name": "Agri-Center",
+                    "votes": 467
+                  },
+                  {
+                    "name": "Airport",
+                    "votes": 403
+                  },
+                  {
+                    "name": "Andersonville",
+                    "votes": 43
+                  },
+                  {
+                    "name": "Browns Mill",
+                    "votes": 240
+                  },
+                  {
+                    "name": "Concord",
+                    "votes": 68
+                  },
+                  {
+                    "name": "GSW Conf Center",
+                    "votes": 581
+                  },
+                  {
+                    "name": "Leslie",
+                    "votes": 326
+                  },
+                  {
+                    "name": "Plains",
+                    "votes": 135
+                  },
+                  {
+                    "name": "Rec Dept",
+                    "votes": 164
+                  },
+                  {
+                    "name": "Reese Park",
+                    "votes": 160
+                  },
+                  {
+                    "name": "Thompson",
+                    "votes": 74
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 691,
+                "Precinct": [
+                  {
+                    "name": "Agri-Center",
+                    "votes": 91
+                  },
+                  {
+                    "name": "Airport",
+                    "votes": 93
+                  },
+                  {
+                    "name": "Andersonville",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Browns Mill",
+                    "votes": 28
+                  },
+                  {
+                    "name": "Concord",
+                    "votes": 21
+                  },
+                  {
+                    "name": "GSW Conf Center",
+                    "votes": 184
+                  },
+                  {
+                    "name": "Leslie",
+                    "votes": 73
+                  },
+                  {
+                    "name": "Plains",
+                    "votes": 45
+                  },
+                  {
+                    "name": "Rec Dept",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Reese Park",
+                    "votes": 78
+                  },
+                  {
+                    "name": "Thompson",
+                    "votes": 31
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Agri-Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Airport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Andersonville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Browns Mill",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Concord",
+                    "votes": 0
+                  },
+                  {
+                    "name": "GSW Conf Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leslie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Plains",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rec Dept",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Reese Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thompson",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 5203,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 548,
+                "Precinct": [
+                  {
+                    "name": "Agri-Center",
+                    "votes": 89
+                  },
+                  {
+                    "name": "Airport",
+                    "votes": 88
+                  },
+                  {
+                    "name": "Andersonville",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Browns Mill",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Concord",
+                    "votes": 0
+                  },
+                  {
+                    "name": "GSW Conf Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leslie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Plains",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rec Dept",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Reese Park",
+                    "votes": 237
+                  },
+                  {
+                    "name": "Thompson",
+                    "votes": 61
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2667,
+                "Precinct": [
+                  {
+                    "name": "Agri-Center",
+                    "votes": 240
+                  },
+                  {
+                    "name": "Airport",
+                    "votes": 298
+                  },
+                  {
+                    "name": "Andersonville",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Browns Mill",
+                    "votes": 100
+                  },
+                  {
+                    "name": "Concord",
+                    "votes": 21
+                  },
+                  {
+                    "name": "GSW Conf Center",
+                    "votes": 466
+                  },
+                  {
+                    "name": "Leslie",
+                    "votes": 167
+                  },
+                  {
+                    "name": "Plains",
+                    "votes": 105
+                  },
+                  {
+                    "name": "Rec Dept",
+                    "votes": 579
+                  },
+                  {
+                    "name": "Reese Park",
+                    "votes": 596
+                  },
+                  {
+                    "name": "Thompson",
+                    "votes": 74
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1988,
+                "Precinct": [
+                  {
+                    "name": "Agri-Center",
+                    "votes": 217
+                  },
+                  {
+                    "name": "Airport",
+                    "votes": 187
+                  },
+                  {
+                    "name": "Andersonville",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Browns Mill",
+                    "votes": 83
+                  },
+                  {
+                    "name": "Concord",
+                    "votes": 11
+                  },
+                  {
+                    "name": "GSW Conf Center",
+                    "votes": 254
+                  },
+                  {
+                    "name": "Leslie",
+                    "votes": 139
+                  },
+                  {
+                    "name": "Plains",
+                    "votes": 116
+                  },
+                  {
+                    "name": "Rec Dept",
+                    "votes": 480
+                  },
+                  {
+                    "name": "Reese Park",
+                    "votes": 415
+                  },
+                  {
+                    "name": "Thompson",
+                    "votes": 63
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Agri-Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Airport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Andersonville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Browns Mill",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Concord",
+                    "votes": 0
+                  },
+                  {
+                    "name": "GSW Conf Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leslie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Plains",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rec Dept",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Reese Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thompson",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 11,
+        "precinctsReported": 6,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 12,
+            "Precinct": [
+              {
+                "name": "Agri-Center",
+                "votes": 1
+              },
+              {
+                "name": "Airport",
+                "votes": 0
+              },
+              {
+                "name": "Andersonville",
+                "votes": 1
+              },
+              {
+                "name": "Browns Mill",
+                "votes": 0
+              },
+              {
+                "name": "Concord",
+                "votes": 0
+              },
+              {
+                "name": "GSW Conf Center",
+                "votes": 0
+              },
+              {
+                "name": "Leslie",
+                "votes": 4
+              },
+              {
+                "name": "Plains",
+                "votes": 1
+              },
+              {
+                "name": "Rec Dept",
+                "votes": 1
+              },
+              {
+                "name": "Reese Park",
+                "votes": 4
+              },
+              {
+                "name": "Thompson",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Agri-Center",
+                "votes": 0
+              },
+              {
+                "name": "Airport",
+                "votes": 0
+              },
+              {
+                "name": "Andersonville",
+                "votes": 0
+              },
+              {
+                "name": "Browns Mill",
+                "votes": 0
+              },
+              {
+                "name": "Concord",
+                "votes": 0
+              },
+              {
+                "name": "GSW Conf Center",
+                "votes": 0
+              },
+              {
+                "name": "Leslie",
+                "votes": 0
+              },
+              {
+                "name": "Plains",
+                "votes": 0
+              },
+              {
+                "name": "Rec Dept",
+                "votes": 0
+              },
+              {
+                "name": "Reese Park",
+                "votes": 0
+              },
+              {
+                "name": "Thompson",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 4264,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 924,
+                "Precinct": [
+                  {
+                    "name": "Agri-Center",
+                    "votes": 209
+                  },
+                  {
+                    "name": "Airport",
+                    "votes": 203
+                  },
+                  {
+                    "name": "Andersonville",
+                    "votes": 168
+                  },
+                  {
+                    "name": "Browns Mill",
+                    "votes": 171
+                  },
+                  {
+                    "name": "Concord",
+                    "votes": 0
+                  },
+                  {
+                    "name": "GSW Conf Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leslie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Plains",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rec Dept",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Reese Park",
+                    "votes": 65
+                  },
+                  {
+                    "name": "Thompson",
+                    "votes": 108
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2656,
+                "Precinct": [
+                  {
+                    "name": "Agri-Center",
+                    "votes": 468
+                  },
+                  {
+                    "name": "Airport",
+                    "votes": 402
+                  },
+                  {
+                    "name": "Andersonville",
+                    "votes": 43
+                  },
+                  {
+                    "name": "Browns Mill",
+                    "votes": 240
+                  },
+                  {
+                    "name": "Concord",
+                    "votes": 68
+                  },
+                  {
+                    "name": "GSW Conf Center",
+                    "votes": 581
+                  },
+                  {
+                    "name": "Leslie",
+                    "votes": 323
+                  },
+                  {
+                    "name": "Plains",
+                    "votes": 134
+                  },
+                  {
+                    "name": "Rec Dept",
+                    "votes": 163
+                  },
+                  {
+                    "name": "Reese Park",
+                    "votes": 160
+                  },
+                  {
+                    "name": "Thompson",
+                    "votes": 74
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 684,
+                "Precinct": [
+                  {
+                    "name": "Agri-Center",
+                    "votes": 91
+                  },
+                  {
+                    "name": "Airport",
+                    "votes": 91
+                  },
+                  {
+                    "name": "Andersonville",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Browns Mill",
+                    "votes": 28
+                  },
+                  {
+                    "name": "Concord",
+                    "votes": 21
+                  },
+                  {
+                    "name": "GSW Conf Center",
+                    "votes": 183
+                  },
+                  {
+                    "name": "Leslie",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Plains",
+                    "votes": 45
+                  },
+                  {
+                    "name": "Rec Dept",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Reese Park",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Thompson",
+                    "votes": 31
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Agri-Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Airport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Andersonville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Browns Mill",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Concord",
+                    "votes": 0
+                  },
+                  {
+                    "name": "GSW Conf Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leslie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Plains",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rec Dept",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Reese Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thompson",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 5221,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 552,
+                "Precinct": [
+                  {
+                    "name": "Agri-Center",
+                    "votes": 93
+                  },
+                  {
+                    "name": "Airport",
+                    "votes": 91
+                  },
+                  {
+                    "name": "Andersonville",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Browns Mill",
+                    "votes": 43
+                  },
+                  {
+                    "name": "Concord",
+                    "votes": 0
+                  },
+                  {
+                    "name": "GSW Conf Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leslie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Plains",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rec Dept",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Reese Park",
+                    "votes": 234
+                  },
+                  {
+                    "name": "Thompson",
+                    "votes": 62
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2673,
+                "Precinct": [
+                  {
+                    "name": "Agri-Center",
+                    "votes": 239
+                  },
+                  {
+                    "name": "Airport",
+                    "votes": 299
+                  },
+                  {
+                    "name": "Andersonville",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Browns Mill",
+                    "votes": 101
+                  },
+                  {
+                    "name": "Concord",
+                    "votes": 21
+                  },
+                  {
+                    "name": "GSW Conf Center",
+                    "votes": 466
+                  },
+                  {
+                    "name": "Leslie",
+                    "votes": 169
+                  },
+                  {
+                    "name": "Plains",
+                    "votes": 106
+                  },
+                  {
+                    "name": "Rec Dept",
+                    "votes": 580
+                  },
+                  {
+                    "name": "Reese Park",
+                    "votes": 597
+                  },
+                  {
+                    "name": "Thompson",
+                    "votes": 74
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1996,
+                "Precinct": [
+                  {
+                    "name": "Agri-Center",
+                    "votes": 217
+                  },
+                  {
+                    "name": "Airport",
+                    "votes": 190
+                  },
+                  {
+                    "name": "Andersonville",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Browns Mill",
+                    "votes": 83
+                  },
+                  {
+                    "name": "Concord",
+                    "votes": 11
+                  },
+                  {
+                    "name": "GSW Conf Center",
+                    "votes": 255
+                  },
+                  {
+                    "name": "Leslie",
+                    "votes": 139
+                  },
+                  {
+                    "name": "Plains",
+                    "votes": 116
+                  },
+                  {
+                    "name": "Rec Dept",
+                    "votes": 483
+                  },
+                  {
+                    "name": "Reese Park",
+                    "votes": 416
+                  },
+                  {
+                    "name": "Thompson",
+                    "votes": 63
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Agri-Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Airport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Andersonville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Browns Mill",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Concord",
+                    "votes": 0
+                  },
+                  {
+                    "name": "GSW Conf Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leslie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Plains",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rec Dept",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Reese Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thompson",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 11,
+        "precinctsReported": 6,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 130,
+            "Precinct": [
+              {
+                "name": "Agri-Center",
+                "votes": 10
+              },
+              {
+                "name": "Airport",
+                "votes": 13
+              },
+              {
+                "name": "Andersonville",
+                "votes": 2
+              },
+              {
+                "name": "Browns Mill",
+                "votes": 8
+              },
+              {
+                "name": "Concord",
+                "votes": 3
+              },
+              {
+                "name": "GSW Conf Center",
+                "votes": 17
+              },
+              {
+                "name": "Leslie",
+                "votes": 17
+              },
+              {
+                "name": "Plains",
+                "votes": 8
+              },
+              {
+                "name": "Rec Dept",
+                "votes": 29
+              },
+              {
+                "name": "Reese Park",
+                "votes": 17
+              },
+              {
+                "name": "Thompson",
+                "votes": 6
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Agri-Center",
+                "votes": 0
+              },
+              {
+                "name": "Airport",
+                "votes": 0
+              },
+              {
+                "name": "Andersonville",
+                "votes": 0
+              },
+              {
+                "name": "Browns Mill",
+                "votes": 0
+              },
+              {
+                "name": "Concord",
+                "votes": 0
+              },
+              {
+                "name": "GSW Conf Center",
+                "votes": 0
+              },
+              {
+                "name": "Leslie",
+                "votes": 0
+              },
+              {
+                "name": "Plains",
+                "votes": 0
+              },
+              {
+                "name": "Rec Dept",
+                "votes": 0
+              },
+              {
+                "name": "Reese Park",
+                "votes": 0
+              },
+              {
+                "name": "Thompson",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 4278,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 925,
+                "Precinct": [
+                  {
+                    "name": "Agri-Center",
+                    "votes": 209
+                  },
+                  {
+                    "name": "Airport",
+                    "votes": 206
+                  },
+                  {
+                    "name": "Andersonville",
+                    "votes": 171
+                  },
+                  {
+                    "name": "Browns Mill",
+                    "votes": 168
+                  },
+                  {
+                    "name": "Concord",
+                    "votes": 0
+                  },
+                  {
+                    "name": "GSW Conf Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leslie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Plains",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rec Dept",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Reese Park",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Thompson",
+                    "votes": 107
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2662,
+                "Precinct": [
+                  {
+                    "name": "Agri-Center",
+                    "votes": 460
+                  },
+                  {
+                    "name": "Airport",
+                    "votes": 403
+                  },
+                  {
+                    "name": "Andersonville",
+                    "votes": 44
+                  },
+                  {
+                    "name": "Browns Mill",
+                    "votes": 234
+                  },
+                  {
+                    "name": "Concord",
+                    "votes": 64
+                  },
+                  {
+                    "name": "GSW Conf Center",
+                    "votes": 592
+                  },
+                  {
+                    "name": "Leslie",
+                    "votes": 325
+                  },
+                  {
+                    "name": "Plains",
+                    "votes": 127
+                  },
+                  {
+                    "name": "Rec Dept",
+                    "votes": 171
+                  },
+                  {
+                    "name": "Reese Park",
+                    "votes": 170
+                  },
+                  {
+                    "name": "Thompson",
+                    "votes": 72
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 691,
+                "Precinct": [
+                  {
+                    "name": "Agri-Center",
+                    "votes": 87
+                  },
+                  {
+                    "name": "Airport",
+                    "votes": 90
+                  },
+                  {
+                    "name": "Andersonville",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Browns Mill",
+                    "votes": 28
+                  },
+                  {
+                    "name": "Concord",
+                    "votes": 20
+                  },
+                  {
+                    "name": "GSW Conf Center",
+                    "votes": 184
+                  },
+                  {
+                    "name": "Leslie",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Plains",
+                    "votes": 46
+                  },
+                  {
+                    "name": "Rec Dept",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Reese Park",
+                    "votes": 81
+                  },
+                  {
+                    "name": "Thompson",
+                    "votes": 33
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Agri-Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Airport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Andersonville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Browns Mill",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Concord",
+                    "votes": 0
+                  },
+                  {
+                    "name": "GSW Conf Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leslie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Plains",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rec Dept",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Reese Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thompson",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 5089,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 543,
+                "Precinct": [
+                  {
+                    "name": "Agri-Center",
+                    "votes": 92
+                  },
+                  {
+                    "name": "Airport",
+                    "votes": 87
+                  },
+                  {
+                    "name": "Andersonville",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Browns Mill",
+                    "votes": 43
+                  },
+                  {
+                    "name": "Concord",
+                    "votes": 0
+                  },
+                  {
+                    "name": "GSW Conf Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leslie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Plains",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rec Dept",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Reese Park",
+                    "votes": 235
+                  },
+                  {
+                    "name": "Thompson",
+                    "votes": 60
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2600,
+                "Precinct": [
+                  {
+                    "name": "Agri-Center",
+                    "votes": 243
+                  },
+                  {
+                    "name": "Airport",
+                    "votes": 292
+                  },
+                  {
+                    "name": "Andersonville",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Browns Mill",
+                    "votes": 102
+                  },
+                  {
+                    "name": "Concord",
+                    "votes": 22
+                  },
+                  {
+                    "name": "GSW Conf Center",
+                    "votes": 449
+                  },
+                  {
+                    "name": "Leslie",
+                    "votes": 157
+                  },
+                  {
+                    "name": "Plains",
+                    "votes": 107
+                  },
+                  {
+                    "name": "Rec Dept",
+                    "votes": 556
+                  },
+                  {
+                    "name": "Reese Park",
+                    "votes": 578
+                  },
+                  {
+                    "name": "Thompson",
+                    "votes": 74
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1946,
+                "Precinct": [
+                  {
+                    "name": "Agri-Center",
+                    "votes": 217
+                  },
+                  {
+                    "name": "Airport",
+                    "votes": 185
+                  },
+                  {
+                    "name": "Andersonville",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Browns Mill",
+                    "votes": 83
+                  },
+                  {
+                    "name": "Concord",
+                    "votes": 12
+                  },
+                  {
+                    "name": "GSW Conf Center",
+                    "votes": 243
+                  },
+                  {
+                    "name": "Leslie",
+                    "votes": 132
+                  },
+                  {
+                    "name": "Plains",
+                    "votes": 114
+                  },
+                  {
+                    "name": "Rec Dept",
+                    "votes": 470
+                  },
+                  {
+                    "name": "Reese Park",
+                    "votes": 406
+                  },
+                  {
+                    "name": "Thompson",
+                    "votes": 60
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Agri-Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Airport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Andersonville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Browns Mill",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Concord",
+                    "votes": 0
+                  },
+                  {
+                    "name": "GSW Conf Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leslie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Plains",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rec Dept",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Reese Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Thompson",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

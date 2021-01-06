@@ -1,0 +1,1801 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:58:07 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Oconee",
+    "VoterTurnout": {
+      "totalVoters": 30444,
+      "ballotsCast": 23560,
+      "voterTurnout": 77.39,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "City Hall",
+            "totalVoters": 3940,
+            "ballotsCast": 3014,
+            "voterTurnout": 76.5,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Colham Ferry",
+            "totalVoters": 1888,
+            "ballotsCast": 1496,
+            "voterTurnout": 79.24,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Antioch",
+            "totalVoters": 1414,
+            "ballotsCast": 1084,
+            "voterTurnout": 76.66,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Farmington",
+            "totalVoters": 743,
+            "ballotsCast": 528,
+            "voterTurnout": 71.06,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Bishop",
+            "totalVoters": 1948,
+            "ballotsCast": 1525,
+            "voterTurnout": 78.29,
+            "percentReporting": "4"
+          },
+          {
+            "name": "High Shoals",
+            "totalVoters": 1950,
+            "ballotsCast": 1572,
+            "voterTurnout": 80.62,
+            "percentReporting": "4"
+          },
+          {
+            "name": "North Oconee",
+            "totalVoters": 1270,
+            "ballotsCast": 1009,
+            "voterTurnout": 79.45,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Dark Corner",
+            "totalVoters": 3630,
+            "ballotsCast": 2893,
+            "voterTurnout": 79.7,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Bogart",
+            "totalVoters": 2401,
+            "ballotsCast": 1705,
+            "voterTurnout": 71.01,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Marswood Hall",
+            "totalVoters": 4124,
+            "ballotsCast": 3297,
+            "voterTurnout": 79.95,
+            "percentReporting": "4"
+          },
+          {
+            "name": "East Oconee",
+            "totalVoters": 2697,
+            "ballotsCast": 2023,
+            "voterTurnout": 75.01,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Civic Center",
+            "totalVoters": 4439,
+            "ballotsCast": 3414,
+            "voterTurnout": 76.91,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 12,
+        "precinctsReported": 12,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 23,
+            "Precinct": [
+              {
+                "name": "City Hall",
+                "votes": 1
+              },
+              {
+                "name": "Colham Ferry",
+                "votes": 0
+              },
+              {
+                "name": "Antioch",
+                "votes": 2
+              },
+              {
+                "name": "Farmington",
+                "votes": 1
+              },
+              {
+                "name": "Bishop",
+                "votes": 0
+              },
+              {
+                "name": "High Shoals",
+                "votes": 1
+              },
+              {
+                "name": "North Oconee",
+                "votes": 0
+              },
+              {
+                "name": "Dark Corner",
+                "votes": 4
+              },
+              {
+                "name": "Bogart",
+                "votes": 0
+              },
+              {
+                "name": "Marswood Hall",
+                "votes": 4
+              },
+              {
+                "name": "East Oconee",
+                "votes": 6
+              },
+              {
+                "name": "Civic Center",
+                "votes": 4
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "City Hall",
+                "votes": 0
+              },
+              {
+                "name": "Colham Ferry",
+                "votes": 0
+              },
+              {
+                "name": "Antioch",
+                "votes": 0
+              },
+              {
+                "name": "Farmington",
+                "votes": 0
+              },
+              {
+                "name": "Bishop",
+                "votes": 0
+              },
+              {
+                "name": "High Shoals",
+                "votes": 0
+              },
+              {
+                "name": "North Oconee",
+                "votes": 0
+              },
+              {
+                "name": "Dark Corner",
+                "votes": 0
+              },
+              {
+                "name": "Bogart",
+                "votes": 0
+              },
+              {
+                "name": "Marswood Hall",
+                "votes": 0
+              },
+              {
+                "name": "East Oconee",
+                "votes": 0
+              },
+              {
+                "name": "Civic Center",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 16217,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 4538,
+                "Precinct": [
+                  {
+                    "name": "City Hall",
+                    "votes": 507
+                  },
+                  {
+                    "name": "Colham Ferry",
+                    "votes": 290
+                  },
+                  {
+                    "name": "Antioch",
+                    "votes": 328
+                  },
+                  {
+                    "name": "Farmington",
+                    "votes": 160
+                  },
+                  {
+                    "name": "Bishop",
+                    "votes": 293
+                  },
+                  {
+                    "name": "High Shoals",
+                    "votes": 288
+                  },
+                  {
+                    "name": "North Oconee",
+                    "votes": 241
+                  },
+                  {
+                    "name": "Dark Corner",
+                    "votes": 770
+                  },
+                  {
+                    "name": "Bogart",
+                    "votes": 404
+                  },
+                  {
+                    "name": "Marswood Hall",
+                    "votes": 506
+                  },
+                  {
+                    "name": "East Oconee",
+                    "votes": 250
+                  },
+                  {
+                    "name": "Civic Center",
+                    "votes": 501
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 9648,
+                "Precinct": [
+                  {
+                    "name": "City Hall",
+                    "votes": 1062
+                  },
+                  {
+                    "name": "Colham Ferry",
+                    "votes": 626
+                  },
+                  {
+                    "name": "Antioch",
+                    "votes": 405
+                  },
+                  {
+                    "name": "Farmington",
+                    "votes": 175
+                  },
+                  {
+                    "name": "Bishop",
+                    "votes": 684
+                  },
+                  {
+                    "name": "High Shoals",
+                    "votes": 744
+                  },
+                  {
+                    "name": "North Oconee",
+                    "votes": 451
+                  },
+                  {
+                    "name": "Dark Corner",
+                    "votes": 1305
+                  },
+                  {
+                    "name": "Bogart",
+                    "votes": 665
+                  },
+                  {
+                    "name": "Marswood Hall",
+                    "votes": 1301
+                  },
+                  {
+                    "name": "East Oconee",
+                    "votes": 846
+                  },
+                  {
+                    "name": "Civic Center",
+                    "votes": 1384
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 2031,
+                "Precinct": [
+                  {
+                    "name": "City Hall",
+                    "votes": 258
+                  },
+                  {
+                    "name": "Colham Ferry",
+                    "votes": 128
+                  },
+                  {
+                    "name": "Antioch",
+                    "votes": 90
+                  },
+                  {
+                    "name": "Farmington",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Bishop",
+                    "votes": 90
+                  },
+                  {
+                    "name": "High Shoals",
+                    "votes": 115
+                  },
+                  {
+                    "name": "North Oconee",
+                    "votes": 83
+                  },
+                  {
+                    "name": "Dark Corner",
+                    "votes": 207
+                  },
+                  {
+                    "name": "Bogart",
+                    "votes": 147
+                  },
+                  {
+                    "name": "Marswood Hall",
+                    "votes": 418
+                  },
+                  {
+                    "name": "East Oconee",
+                    "votes": 145
+                  },
+                  {
+                    "name": "Civic Center",
+                    "votes": 321
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "City Hall",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Colham Ferry",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Antioch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Farmington",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bishop",
+                    "votes": 0
+                  },
+                  {
+                    "name": "High Shoals",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Oconee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dark Corner",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bogart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Marswood Hall",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Oconee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Civic Center",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 7320,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1156,
+                "Precinct": [
+                  {
+                    "name": "City Hall",
+                    "votes": 156
+                  },
+                  {
+                    "name": "Colham Ferry",
+                    "votes": 74
+                  },
+                  {
+                    "name": "Antioch",
+                    "votes": 51
+                  },
+                  {
+                    "name": "Farmington",
+                    "votes": 38
+                  },
+                  {
+                    "name": "Bishop",
+                    "votes": 75
+                  },
+                  {
+                    "name": "High Shoals",
+                    "votes": 73
+                  },
+                  {
+                    "name": "North Oconee",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Dark Corner",
+                    "votes": 110
+                  },
+                  {
+                    "name": "Bogart",
+                    "votes": 119
+                  },
+                  {
+                    "name": "Marswood Hall",
+                    "votes": 136
+                  },
+                  {
+                    "name": "East Oconee",
+                    "votes": 116
+                  },
+                  {
+                    "name": "Civic Center",
+                    "votes": 167
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 3820,
+                "Precinct": [
+                  {
+                    "name": "City Hall",
+                    "votes": 670
+                  },
+                  {
+                    "name": "Colham Ferry",
+                    "votes": 233
+                  },
+                  {
+                    "name": "Antioch",
+                    "votes": 111
+                  },
+                  {
+                    "name": "Farmington",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Bishop",
+                    "votes": 255
+                  },
+                  {
+                    "name": "High Shoals",
+                    "votes": 253
+                  },
+                  {
+                    "name": "North Oconee",
+                    "votes": 122
+                  },
+                  {
+                    "name": "Dark Corner",
+                    "votes": 331
+                  },
+                  {
+                    "name": "Bogart",
+                    "votes": 241
+                  },
+                  {
+                    "name": "Marswood Hall",
+                    "votes": 514
+                  },
+                  {
+                    "name": "East Oconee",
+                    "votes": 376
+                  },
+                  {
+                    "name": "Civic Center",
+                    "votes": 639
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 2344,
+                "Precinct": [
+                  {
+                    "name": "City Hall",
+                    "votes": 360
+                  },
+                  {
+                    "name": "Colham Ferry",
+                    "votes": 145
+                  },
+                  {
+                    "name": "Antioch",
+                    "votes": 97
+                  },
+                  {
+                    "name": "Farmington",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Bishop",
+                    "votes": 128
+                  },
+                  {
+                    "name": "High Shoals",
+                    "votes": 98
+                  },
+                  {
+                    "name": "North Oconee",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Dark Corner",
+                    "votes": 166
+                  },
+                  {
+                    "name": "Bogart",
+                    "votes": 129
+                  },
+                  {
+                    "name": "Marswood Hall",
+                    "votes": 418
+                  },
+                  {
+                    "name": "East Oconee",
+                    "votes": 284
+                  },
+                  {
+                    "name": "Civic Center",
+                    "votes": 398
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "City Hall",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Colham Ferry",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Antioch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Farmington",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bishop",
+                    "votes": 0
+                  },
+                  {
+                    "name": "High Shoals",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Oconee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dark Corner",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bogart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Marswood Hall",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Oconee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Civic Center",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 12,
+        "precinctsReported": 12,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 28,
+            "Precinct": [
+              {
+                "name": "City Hall",
+                "votes": 2
+              },
+              {
+                "name": "Colham Ferry",
+                "votes": 1
+              },
+              {
+                "name": "Antioch",
+                "votes": 0
+              },
+              {
+                "name": "Farmington",
+                "votes": 1
+              },
+              {
+                "name": "Bishop",
+                "votes": 1
+              },
+              {
+                "name": "High Shoals",
+                "votes": 2
+              },
+              {
+                "name": "North Oconee",
+                "votes": 4
+              },
+              {
+                "name": "Dark Corner",
+                "votes": 2
+              },
+              {
+                "name": "Bogart",
+                "votes": 1
+              },
+              {
+                "name": "Marswood Hall",
+                "votes": 7
+              },
+              {
+                "name": "East Oconee",
+                "votes": 3
+              },
+              {
+                "name": "Civic Center",
+                "votes": 4
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "City Hall",
+                "votes": 0
+              },
+              {
+                "name": "Colham Ferry",
+                "votes": 0
+              },
+              {
+                "name": "Antioch",
+                "votes": 0
+              },
+              {
+                "name": "Farmington",
+                "votes": 0
+              },
+              {
+                "name": "Bishop",
+                "votes": 0
+              },
+              {
+                "name": "High Shoals",
+                "votes": 0
+              },
+              {
+                "name": "North Oconee",
+                "votes": 0
+              },
+              {
+                "name": "Dark Corner",
+                "votes": 0
+              },
+              {
+                "name": "Bogart",
+                "votes": 0
+              },
+              {
+                "name": "Marswood Hall",
+                "votes": 0
+              },
+              {
+                "name": "East Oconee",
+                "votes": 0
+              },
+              {
+                "name": "Civic Center",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 16038,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 4486,
+                "Precinct": [
+                  {
+                    "name": "City Hall",
+                    "votes": 499
+                  },
+                  {
+                    "name": "Colham Ferry",
+                    "votes": 287
+                  },
+                  {
+                    "name": "Antioch",
+                    "votes": 324
+                  },
+                  {
+                    "name": "Farmington",
+                    "votes": 157
+                  },
+                  {
+                    "name": "Bishop",
+                    "votes": 290
+                  },
+                  {
+                    "name": "High Shoals",
+                    "votes": 284
+                  },
+                  {
+                    "name": "North Oconee",
+                    "votes": 237
+                  },
+                  {
+                    "name": "Dark Corner",
+                    "votes": 768
+                  },
+                  {
+                    "name": "Bogart",
+                    "votes": 402
+                  },
+                  {
+                    "name": "Marswood Hall",
+                    "votes": 502
+                  },
+                  {
+                    "name": "East Oconee",
+                    "votes": 246
+                  },
+                  {
+                    "name": "Civic Center",
+                    "votes": 490
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 9563,
+                "Precinct": [
+                  {
+                    "name": "City Hall",
+                    "votes": 1047
+                  },
+                  {
+                    "name": "Colham Ferry",
+                    "votes": 620
+                  },
+                  {
+                    "name": "Antioch",
+                    "votes": 402
+                  },
+                  {
+                    "name": "Farmington",
+                    "votes": 176
+                  },
+                  {
+                    "name": "Bishop",
+                    "votes": 674
+                  },
+                  {
+                    "name": "High Shoals",
+                    "votes": 737
+                  },
+                  {
+                    "name": "North Oconee",
+                    "votes": 452
+                  },
+                  {
+                    "name": "Dark Corner",
+                    "votes": 1296
+                  },
+                  {
+                    "name": "Bogart",
+                    "votes": 659
+                  },
+                  {
+                    "name": "Marswood Hall",
+                    "votes": 1291
+                  },
+                  {
+                    "name": "East Oconee",
+                    "votes": 843
+                  },
+                  {
+                    "name": "Civic Center",
+                    "votes": 1366
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1989,
+                "Precinct": [
+                  {
+                    "name": "City Hall",
+                    "votes": 256
+                  },
+                  {
+                    "name": "Colham Ferry",
+                    "votes": 125
+                  },
+                  {
+                    "name": "Antioch",
+                    "votes": 83
+                  },
+                  {
+                    "name": "Farmington",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Bishop",
+                    "votes": 89
+                  },
+                  {
+                    "name": "High Shoals",
+                    "votes": 113
+                  },
+                  {
+                    "name": "North Oconee",
+                    "votes": 81
+                  },
+                  {
+                    "name": "Dark Corner",
+                    "votes": 203
+                  },
+                  {
+                    "name": "Bogart",
+                    "votes": 143
+                  },
+                  {
+                    "name": "Marswood Hall",
+                    "votes": 408
+                  },
+                  {
+                    "name": "East Oconee",
+                    "votes": 142
+                  },
+                  {
+                    "name": "Civic Center",
+                    "votes": 316
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "City Hall",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Colham Ferry",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Antioch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Farmington",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bishop",
+                    "votes": 0
+                  },
+                  {
+                    "name": "High Shoals",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Oconee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dark Corner",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bogart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Marswood Hall",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Oconee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Civic Center",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 7494,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1204,
+                "Precinct": [
+                  {
+                    "name": "City Hall",
+                    "votes": 163
+                  },
+                  {
+                    "name": "Colham Ferry",
+                    "votes": 77
+                  },
+                  {
+                    "name": "Antioch",
+                    "votes": 55
+                  },
+                  {
+                    "name": "Farmington",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Bishop",
+                    "votes": 78
+                  },
+                  {
+                    "name": "High Shoals",
+                    "votes": 77
+                  },
+                  {
+                    "name": "North Oconee",
+                    "votes": 44
+                  },
+                  {
+                    "name": "Dark Corner",
+                    "votes": 111
+                  },
+                  {
+                    "name": "Bogart",
+                    "votes": 121
+                  },
+                  {
+                    "name": "Marswood Hall",
+                    "votes": 140
+                  },
+                  {
+                    "name": "East Oconee",
+                    "votes": 120
+                  },
+                  {
+                    "name": "Civic Center",
+                    "votes": 177
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 3905,
+                "Precinct": [
+                  {
+                    "name": "City Hall",
+                    "votes": 685
+                  },
+                  {
+                    "name": "Colham Ferry",
+                    "votes": 238
+                  },
+                  {
+                    "name": "Antioch",
+                    "votes": 115
+                  },
+                  {
+                    "name": "Farmington",
+                    "votes": 74
+                  },
+                  {
+                    "name": "Bishop",
+                    "votes": 264
+                  },
+                  {
+                    "name": "High Shoals",
+                    "votes": 260
+                  },
+                  {
+                    "name": "North Oconee",
+                    "votes": 120
+                  },
+                  {
+                    "name": "Dark Corner",
+                    "votes": 342
+                  },
+                  {
+                    "name": "Bogart",
+                    "votes": 247
+                  },
+                  {
+                    "name": "Marswood Hall",
+                    "votes": 523
+                  },
+                  {
+                    "name": "East Oconee",
+                    "votes": 380
+                  },
+                  {
+                    "name": "Civic Center",
+                    "votes": 657
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 2385,
+                "Precinct": [
+                  {
+                    "name": "City Hall",
+                    "votes": 362
+                  },
+                  {
+                    "name": "Colham Ferry",
+                    "votes": 148
+                  },
+                  {
+                    "name": "Antioch",
+                    "votes": 105
+                  },
+                  {
+                    "name": "Farmington",
+                    "votes": 49
+                  },
+                  {
+                    "name": "Bishop",
+                    "votes": 129
+                  },
+                  {
+                    "name": "High Shoals",
+                    "votes": 99
+                  },
+                  {
+                    "name": "North Oconee",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Dark Corner",
+                    "votes": 171
+                  },
+                  {
+                    "name": "Bogart",
+                    "votes": 132
+                  },
+                  {
+                    "name": "Marswood Hall",
+                    "votes": 426
+                  },
+                  {
+                    "name": "East Oconee",
+                    "votes": 289
+                  },
+                  {
+                    "name": "Civic Center",
+                    "votes": 404
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "City Hall",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Colham Ferry",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Antioch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Farmington",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bishop",
+                    "votes": 0
+                  },
+                  {
+                    "name": "High Shoals",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Oconee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dark Corner",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bogart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Marswood Hall",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Oconee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Civic Center",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 12,
+        "precinctsReported": 12,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 253,
+            "Precinct": [
+              {
+                "name": "City Hall",
+                "votes": 36
+              },
+              {
+                "name": "Colham Ferry",
+                "votes": 15
+              },
+              {
+                "name": "Antioch",
+                "votes": 16
+              },
+              {
+                "name": "Farmington",
+                "votes": 8
+              },
+              {
+                "name": "Bishop",
+                "votes": 20
+              },
+              {
+                "name": "High Shoals",
+                "votes": 12
+              },
+              {
+                "name": "North Oconee",
+                "votes": 10
+              },
+              {
+                "name": "Dark Corner",
+                "votes": 24
+              },
+              {
+                "name": "Bogart",
+                "votes": 14
+              },
+              {
+                "name": "Marswood Hall",
+                "votes": 39
+              },
+              {
+                "name": "East Oconee",
+                "votes": 24
+              },
+              {
+                "name": "Civic Center",
+                "votes": 35
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "City Hall",
+                "votes": 0
+              },
+              {
+                "name": "Colham Ferry",
+                "votes": 0
+              },
+              {
+                "name": "Antioch",
+                "votes": 0
+              },
+              {
+                "name": "Farmington",
+                "votes": 0
+              },
+              {
+                "name": "Bishop",
+                "votes": 0
+              },
+              {
+                "name": "High Shoals",
+                "votes": 0
+              },
+              {
+                "name": "North Oconee",
+                "votes": 0
+              },
+              {
+                "name": "Dark Corner",
+                "votes": 0
+              },
+              {
+                "name": "Bogart",
+                "votes": 0
+              },
+              {
+                "name": "Marswood Hall",
+                "votes": 0
+              },
+              {
+                "name": "East Oconee",
+                "votes": 0
+              },
+              {
+                "name": "Civic Center",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 16551,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 4610,
+                "Precinct": [
+                  {
+                    "name": "City Hall",
+                    "votes": 508
+                  },
+                  {
+                    "name": "Colham Ferry",
+                    "votes": 295
+                  },
+                  {
+                    "name": "Antioch",
+                    "votes": 330
+                  },
+                  {
+                    "name": "Farmington",
+                    "votes": 161
+                  },
+                  {
+                    "name": "Bishop",
+                    "votes": 293
+                  },
+                  {
+                    "name": "High Shoals",
+                    "votes": 295
+                  },
+                  {
+                    "name": "North Oconee",
+                    "votes": 246
+                  },
+                  {
+                    "name": "Dark Corner",
+                    "votes": 782
+                  },
+                  {
+                    "name": "Bogart",
+                    "votes": 409
+                  },
+                  {
+                    "name": "Marswood Hall",
+                    "votes": 519
+                  },
+                  {
+                    "name": "East Oconee",
+                    "votes": 252
+                  },
+                  {
+                    "name": "Civic Center",
+                    "votes": 520
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 9839,
+                "Precinct": [
+                  {
+                    "name": "City Hall",
+                    "votes": 1093
+                  },
+                  {
+                    "name": "Colham Ferry",
+                    "votes": 628
+                  },
+                  {
+                    "name": "Antioch",
+                    "votes": 405
+                  },
+                  {
+                    "name": "Farmington",
+                    "votes": 182
+                  },
+                  {
+                    "name": "Bishop",
+                    "votes": 700
+                  },
+                  {
+                    "name": "High Shoals",
+                    "votes": 755
+                  },
+                  {
+                    "name": "North Oconee",
+                    "votes": 458
+                  },
+                  {
+                    "name": "Dark Corner",
+                    "votes": 1326
+                  },
+                  {
+                    "name": "Bogart",
+                    "votes": 679
+                  },
+                  {
+                    "name": "Marswood Hall",
+                    "votes": 1334
+                  },
+                  {
+                    "name": "East Oconee",
+                    "votes": 868
+                  },
+                  {
+                    "name": "Civic Center",
+                    "votes": 1411
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 2102,
+                "Precinct": [
+                  {
+                    "name": "City Hall",
+                    "votes": 267
+                  },
+                  {
+                    "name": "Colham Ferry",
+                    "votes": 128
+                  },
+                  {
+                    "name": "Antioch",
+                    "votes": 90
+                  },
+                  {
+                    "name": "Farmington",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Bishop",
+                    "votes": 90
+                  },
+                  {
+                    "name": "High Shoals",
+                    "votes": 123
+                  },
+                  {
+                    "name": "North Oconee",
+                    "votes": 81
+                  },
+                  {
+                    "name": "Dark Corner",
+                    "votes": 213
+                  },
+                  {
+                    "name": "Bogart",
+                    "votes": 142
+                  },
+                  {
+                    "name": "Marswood Hall",
+                    "votes": 439
+                  },
+                  {
+                    "name": "East Oconee",
+                    "votes": 158
+                  },
+                  {
+                    "name": "Civic Center",
+                    "votes": 340
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "City Hall",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Colham Ferry",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Antioch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Farmington",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bishop",
+                    "votes": 0
+                  },
+                  {
+                    "name": "High Shoals",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Oconee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dark Corner",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bogart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Marswood Hall",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Oconee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Civic Center",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 6750,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1037,
+                "Precinct": [
+                  {
+                    "name": "City Hall",
+                    "votes": 149
+                  },
+                  {
+                    "name": "Colham Ferry",
+                    "votes": 65
+                  },
+                  {
+                    "name": "Antioch",
+                    "votes": 44
+                  },
+                  {
+                    "name": "Farmington",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Bishop",
+                    "votes": 68
+                  },
+                  {
+                    "name": "High Shoals",
+                    "votes": 63
+                  },
+                  {
+                    "name": "North Oconee",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Dark Corner",
+                    "votes": 93
+                  },
+                  {
+                    "name": "Bogart",
+                    "votes": 110
+                  },
+                  {
+                    "name": "Marswood Hall",
+                    "votes": 119
+                  },
+                  {
+                    "name": "East Oconee",
+                    "votes": 112
+                  },
+                  {
+                    "name": "Civic Center",
+                    "votes": 145
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 3535,
+                "Precinct": [
+                  {
+                    "name": "City Hall",
+                    "votes": 621
+                  },
+                  {
+                    "name": "Colham Ferry",
+                    "votes": 227
+                  },
+                  {
+                    "name": "Antioch",
+                    "votes": 105
+                  },
+                  {
+                    "name": "Farmington",
+                    "votes": 68
+                  },
+                  {
+                    "name": "Bishop",
+                    "votes": 230
+                  },
+                  {
+                    "name": "High Shoals",
+                    "votes": 240
+                  },
+                  {
+                    "name": "North Oconee",
+                    "votes": 110
+                  },
+                  {
+                    "name": "Dark Corner",
+                    "votes": 305
+                  },
+                  {
+                    "name": "Bogart",
+                    "votes": 224
+                  },
+                  {
+                    "name": "Marswood Hall",
+                    "votes": 468
+                  },
+                  {
+                    "name": "East Oconee",
+                    "votes": 348
+                  },
+                  {
+                    "name": "Civic Center",
+                    "votes": 589
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 2178,
+                "Precinct": [
+                  {
+                    "name": "City Hall",
+                    "votes": 340
+                  },
+                  {
+                    "name": "Colham Ferry",
+                    "votes": 137
+                  },
+                  {
+                    "name": "Antioch",
+                    "votes": 94
+                  },
+                  {
+                    "name": "Farmington",
+                    "votes": 44
+                  },
+                  {
+                    "name": "Bishop",
+                    "votes": 124
+                  },
+                  {
+                    "name": "High Shoals",
+                    "votes": 83
+                  },
+                  {
+                    "name": "North Oconee",
+                    "votes": 69
+                  },
+                  {
+                    "name": "Dark Corner",
+                    "votes": 150
+                  },
+                  {
+                    "name": "Bogart",
+                    "votes": 127
+                  },
+                  {
+                    "name": "Marswood Hall",
+                    "votes": 378
+                  },
+                  {
+                    "name": "East Oconee",
+                    "votes": 261
+                  },
+                  {
+                    "name": "Civic Center",
+                    "votes": 371
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "City Hall",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Colham Ferry",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Antioch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Farmington",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bishop",
+                    "votes": 0
+                  },
+                  {
+                    "name": "High Shoals",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Oconee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dark Corner",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bogart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Marswood Hall",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Oconee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Civic Center",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

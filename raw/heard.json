@@ -1,55 +1,55 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:57:26 PM EST",
+    "Timestamp": "1/5/2021 8:51:33 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
-    "Region": "McIntosh",
+    "Region": "Heard",
     "VoterTurnout": {
-      "totalVoters": 10046,
-      "ballotsCast": 5534,
-      "voterTurnout": 55.09,
+      "totalVoters": 7901,
+      "ballotsCast": 4676,
+      "voterTurnout": 59.18,
       "Precincts": {
         "Precinct": [
           {
-            "name": "Sapelo Island",
-            "totalVoters": 53,
-            "ballotsCast": 36,
-            "voterTurnout": 67.92,
+            "name": "Centralhatchee",
+            "totalVoters": 1798,
+            "ballotsCast": 1184,
+            "voterTurnout": 65.85,
             "percentReporting": "4"
           },
           {
-            "name": "Townsend",
-            "totalVoters": 602,
-            "ballotsCast": 352,
-            "voterTurnout": 58.47,
+            "name": "Cooksville-Corinth",
+            "totalVoters": 722,
+            "ballotsCast": 370,
+            "voterTurnout": 51.25,
             "percentReporting": "4"
           },
           {
-            "name": "Crescent",
-            "totalVoters": 2116,
-            "ballotsCast": 1247,
-            "voterTurnout": 58.93,
+            "name": "Enon Grove",
+            "totalVoters": 1169,
+            "ballotsCast": 618,
+            "voterTurnout": 52.87,
             "percentReporting": "4"
           },
           {
-            "name": "Darien",
-            "totalVoters": 2651,
-            "ballotsCast": 1502,
-            "voterTurnout": 56.66,
+            "name": "Ephesus",
+            "totalVoters": 1346,
+            "ballotsCast": 840,
+            "voterTurnout": 62.41,
             "percentReporting": "4"
           },
           {
-            "name": "South Newport",
-            "totalVoters": 2257,
-            "ballotsCast": 1096,
-            "voterTurnout": 48.56,
-            "percentReporting": "2"
+            "name": "Franklin",
+            "totalVoters": 2223,
+            "ballotsCast": 1268,
+            "voterTurnout": 57.04,
+            "percentReporting": "4"
           },
           {
-            "name": "North Darien",
-            "totalVoters": 2367,
-            "ballotsCast": 1301,
-            "voterTurnout": 54.96,
+            "name": "Southwest",
+            "totalVoters": 643,
+            "ballotsCast": 396,
+            "voterTurnout": 61.59,
             "percentReporting": "4"
           }
         ]
@@ -62,35 +62,35 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 6,
-        "precinctsReported": 5,
+        "precinctsReported": 6,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 20,
+            "votes": 5,
             "Precinct": [
               {
-                "name": "Sapelo Island",
+                "name": "Centralhatchee",
+                "votes": 2
+              },
+              {
+                "name": "Cooksville-Corinth",
                 "votes": 0
               },
               {
-                "name": "Townsend",
-                "votes": 0
-              },
-              {
-                "name": "Crescent",
-                "votes": 10
-              },
-              {
-                "name": "Darien",
+                "name": "Enon Grove",
                 "votes": 1
               },
               {
-                "name": "South Newport",
-                "votes": 3
+                "name": "Ephesus",
+                "votes": 1
               },
               {
-                "name": "North Darien",
-                "votes": 6
+                "name": "Franklin",
+                "votes": 1
+              },
+              {
+                "name": "Southwest",
+                "votes": 0
               }
             ]
           },
@@ -99,27 +99,27 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Sapelo Island",
+                "name": "Centralhatchee",
                 "votes": 0
               },
               {
-                "name": "Townsend",
+                "name": "Cooksville-Corinth",
                 "votes": 0
               },
               {
-                "name": "Crescent",
+                "name": "Enon Grove",
                 "votes": 0
               },
               {
-                "name": "Darien",
+                "name": "Ephesus",
                 "votes": 0
               },
               {
-                "name": "South Newport",
+                "name": "Franklin",
                 "votes": 0
               },
               {
-                "name": "North Darien",
+                "name": "Southwest",
                 "votes": 0
               }
             ]
@@ -129,95 +129,95 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 3155,
+            "totalVotes": 3892,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 702,
+                "votes": 1861,
                 "Precinct": [
                   {
-                    "name": "Sapelo Island",
-                    "votes": 4
+                    "name": "Centralhatchee",
+                    "votes": 460
                   },
                   {
-                    "name": "Townsend",
-                    "votes": 107
+                    "name": "Cooksville-Corinth",
+                    "votes": 165
                   },
                   {
-                    "name": "Crescent",
-                    "votes": 155
+                    "name": "Enon Grove",
+                    "votes": 279
                   },
                   {
-                    "name": "Darien",
-                    "votes": 206
+                    "name": "Ephesus",
+                    "votes": 455
                   },
                   {
-                    "name": "South Newport",
-                    "votes": 0
+                    "name": "Franklin",
+                    "votes": 336
                   },
                   {
-                    "name": "North Darien",
-                    "votes": 230
+                    "name": "Southwest",
+                    "votes": 166
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 1891,
+                "votes": 1530,
                 "Precinct": [
                   {
-                    "name": "Sapelo Island",
-                    "votes": 0
+                    "name": "Centralhatchee",
+                    "votes": 420
                   },
                   {
-                    "name": "Townsend",
-                    "votes": 78
+                    "name": "Cooksville-Corinth",
+                    "votes": 127
                   },
                   {
-                    "name": "Crescent",
-                    "votes": 220
+                    "name": "Enon Grove",
+                    "votes": 207
                   },
                   {
-                    "name": "Darien",
-                    "votes": 551
+                    "name": "Ephesus",
+                    "votes": 211
                   },
                   {
-                    "name": "South Newport",
-                    "votes": 542
+                    "name": "Franklin",
+                    "votes": 462
                   },
                   {
-                    "name": "North Darien",
-                    "votes": 500
+                    "name": "Southwest",
+                    "votes": 103
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 562,
+                "votes": 501,
                 "Precinct": [
                   {
-                    "name": "Sapelo Island",
-                    "votes": 2
+                    "name": "Centralhatchee",
+                    "votes": 129
                   },
                   {
-                    "name": "Townsend",
+                    "name": "Cooksville-Corinth",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Enon Grove",
                     "votes": 57
                   },
                   {
-                    "name": "Crescent",
-                    "votes": 55
+                    "name": "Ephesus",
+                    "votes": 98
                   },
                   {
-                    "name": "Darien",
-                    "votes": 152
+                    "name": "Franklin",
+                    "votes": 149
                   },
                   {
-                    "name": "South Newport",
-                    "votes": 202
-                  },
-                  {
-                    "name": "North Darien",
-                    "votes": 94
+                    "name": "Southwest",
+                    "votes": 34
                   }
                 ]
               },
@@ -226,27 +226,27 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Sapelo Island",
+                    "name": "Centralhatchee",
                     "votes": 0
                   },
                   {
-                    "name": "Townsend",
+                    "name": "Cooksville-Corinth",
                     "votes": 0
                   },
                   {
-                    "name": "Crescent",
+                    "name": "Enon Grove",
                     "votes": 0
                   },
                   {
-                    "name": "Darien",
+                    "name": "Ephesus",
                     "votes": 0
                   },
                   {
-                    "name": "South Newport",
+                    "name": "Franklin",
                     "votes": 0
                   },
                   {
-                    "name": "North Darien",
+                    "name": "Southwest",
                     "votes": 0
                   }
                 ]
@@ -256,95 +256,95 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 2359,
+            "totalVotes": 779,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 436,
+                "votes": 197,
                 "Precinct": [
                   {
-                    "name": "Sapelo Island",
+                    "name": "Centralhatchee",
+                    "votes": 44
+                  },
+                  {
+                    "name": "Cooksville-Corinth",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Enon Grove",
                     "votes": 14
                   },
                   {
-                    "name": "Townsend",
-                    "votes": 11
+                    "name": "Ephesus",
+                    "votes": 22
                   },
                   {
-                    "name": "Crescent",
-                    "votes": 212
+                    "name": "Franklin",
+                    "votes": 74
                   },
                   {
-                    "name": "Darien",
-                    "votes": 104
-                  },
-                  {
-                    "name": "South Newport",
-                    "votes": 0
-                  },
-                  {
-                    "name": "North Darien",
-                    "votes": 95
+                    "name": "Southwest",
+                    "votes": 20
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 1185,
+                "votes": 310,
                 "Precinct": [
                   {
-                    "name": "Sapelo Island",
-                    "votes": 5
+                    "name": "Centralhatchee",
+                    "votes": 67
                   },
                   {
-                    "name": "Townsend",
-                    "votes": 56
+                    "name": "Cooksville-Corinth",
+                    "votes": 17
                   },
                   {
-                    "name": "Crescent",
-                    "votes": 390
+                    "name": "Enon Grove",
+                    "votes": 32
                   },
                   {
-                    "name": "Darien",
-                    "votes": 315
+                    "name": "Ephesus",
+                    "votes": 29
                   },
                   {
-                    "name": "South Newport",
-                    "votes": 179
+                    "name": "Franklin",
+                    "votes": 129
                   },
                   {
-                    "name": "North Darien",
-                    "votes": 240
+                    "name": "Southwest",
+                    "votes": 36
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 738,
+                "votes": 272,
                 "Precinct": [
                   {
-                    "name": "Sapelo Island",
-                    "votes": 11
+                    "name": "Centralhatchee",
+                    "votes": 62
                   },
                   {
-                    "name": "Townsend",
-                    "votes": 43
+                    "name": "Cooksville-Corinth",
+                    "votes": 4
                   },
                   {
-                    "name": "Crescent",
-                    "votes": 205
+                    "name": "Enon Grove",
+                    "votes": 28
                   },
                   {
-                    "name": "Darien",
-                    "votes": 173
+                    "name": "Ephesus",
+                    "votes": 24
                   },
                   {
-                    "name": "South Newport",
-                    "votes": 170
+                    "name": "Franklin",
+                    "votes": 117
                   },
                   {
-                    "name": "North Darien",
-                    "votes": 136
+                    "name": "Southwest",
+                    "votes": 37
                   }
                 ]
               },
@@ -353,27 +353,27 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Sapelo Island",
+                    "name": "Centralhatchee",
                     "votes": 0
                   },
                   {
-                    "name": "Townsend",
+                    "name": "Cooksville-Corinth",
                     "votes": 0
                   },
                   {
-                    "name": "Crescent",
+                    "name": "Enon Grove",
                     "votes": 0
                   },
                   {
-                    "name": "Darien",
+                    "name": "Ephesus",
                     "votes": 0
                   },
                   {
-                    "name": "South Newport",
+                    "name": "Franklin",
                     "votes": 0
                   },
                   {
-                    "name": "North Darien",
+                    "name": "Southwest",
                     "votes": 0
                   }
                 ]
@@ -388,34 +388,34 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 6,
-        "precinctsReported": 5,
+        "precinctsReported": 6,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 10,
+            "votes": 2,
             "Precinct": [
               {
-                "name": "Sapelo Island",
-                "votes": 0
-              },
-              {
-                "name": "Townsend",
+                "name": "Centralhatchee",
                 "votes": 1
               },
               {
-                "name": "Crescent",
-                "votes": 3
+                "name": "Cooksville-Corinth",
+                "votes": 0
               },
               {
-                "name": "Darien",
-                "votes": 3
+                "name": "Enon Grove",
+                "votes": 0
               },
               {
-                "name": "South Newport",
-                "votes": 3
+                "name": "Ephesus",
+                "votes": 1
               },
               {
-                "name": "North Darien",
+                "name": "Franklin",
+                "votes": 0
+              },
+              {
+                "name": "Southwest",
                 "votes": 0
               }
             ]
@@ -425,27 +425,27 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Sapelo Island",
+                "name": "Centralhatchee",
                 "votes": 0
               },
               {
-                "name": "Townsend",
+                "name": "Cooksville-Corinth",
                 "votes": 0
               },
               {
-                "name": "Crescent",
+                "name": "Enon Grove",
                 "votes": 0
               },
               {
-                "name": "Darien",
+                "name": "Ephesus",
                 "votes": 0
               },
               {
-                "name": "South Newport",
+                "name": "Franklin",
                 "votes": 0
               },
               {
-                "name": "North Darien",
+                "name": "Southwest",
                 "votes": 0
               }
             ]
@@ -455,95 +455,95 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 3148,
+            "totalVotes": 3874,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 694,
+                "votes": 1849,
                 "Precinct": [
                   {
-                    "name": "Sapelo Island",
-                    "votes": 4
+                    "name": "Centralhatchee",
+                    "votes": 459
                   },
                   {
-                    "name": "Townsend",
-                    "votes": 106
+                    "name": "Cooksville-Corinth",
+                    "votes": 163
                   },
                   {
-                    "name": "Crescent",
-                    "votes": 155
+                    "name": "Enon Grove",
+                    "votes": 277
                   },
                   {
-                    "name": "Darien",
-                    "votes": 205
+                    "name": "Ephesus",
+                    "votes": 452
                   },
                   {
-                    "name": "South Newport",
-                    "votes": 0
+                    "name": "Franklin",
+                    "votes": 333
                   },
                   {
-                    "name": "North Darien",
-                    "votes": 224
+                    "name": "Southwest",
+                    "votes": 165
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 1897,
+                "votes": 1531,
                 "Precinct": [
                   {
-                    "name": "Sapelo Island",
-                    "votes": 0
+                    "name": "Centralhatchee",
+                    "votes": 420
                   },
                   {
-                    "name": "Townsend",
-                    "votes": 78
+                    "name": "Cooksville-Corinth",
+                    "votes": 127
                   },
                   {
-                    "name": "Crescent",
-                    "votes": 222
+                    "name": "Enon Grove",
+                    "votes": 208
                   },
                   {
-                    "name": "Darien",
-                    "votes": 549
+                    "name": "Ephesus",
+                    "votes": 212
                   },
                   {
-                    "name": "South Newport",
-                    "votes": 542
+                    "name": "Franklin",
+                    "votes": 462
                   },
                   {
-                    "name": "North Darien",
-                    "votes": 506
+                    "name": "Southwest",
+                    "votes": 102
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 557,
+                "votes": 494,
                 "Precinct": [
                   {
-                    "name": "Sapelo Island",
-                    "votes": 3
+                    "name": "Centralhatchee",
+                    "votes": 128
                   },
                   {
-                    "name": "Townsend",
-                    "votes": 57
+                    "name": "Cooksville-Corinth",
+                    "votes": 34
                   },
                   {
-                    "name": "Crescent",
-                    "votes": 52
+                    "name": "Enon Grove",
+                    "votes": 56
                   },
                   {
-                    "name": "Darien",
-                    "votes": 150
+                    "name": "Ephesus",
+                    "votes": 96
                   },
                   {
-                    "name": "South Newport",
-                    "votes": 203
+                    "name": "Franklin",
+                    "votes": 146
                   },
                   {
-                    "name": "North Darien",
-                    "votes": 92
+                    "name": "Southwest",
+                    "votes": 34
                   }
                 ]
               },
@@ -552,27 +552,27 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Sapelo Island",
+                    "name": "Centralhatchee",
                     "votes": 0
                   },
                   {
-                    "name": "Townsend",
+                    "name": "Cooksville-Corinth",
                     "votes": 0
                   },
                   {
-                    "name": "Crescent",
+                    "name": "Enon Grove",
                     "votes": 0
                   },
                   {
-                    "name": "Darien",
+                    "name": "Ephesus",
                     "votes": 0
                   },
                   {
-                    "name": "South Newport",
+                    "name": "Franklin",
                     "votes": 0
                   },
                   {
-                    "name": "North Darien",
+                    "name": "Southwest",
                     "votes": 0
                   }
                 ]
@@ -582,95 +582,95 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 2376,
+            "totalVotes": 800,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 444,
+                "votes": 210,
                 "Precinct": [
                   {
-                    "name": "Sapelo Island",
-                    "votes": 14
+                    "name": "Centralhatchee",
+                    "votes": 46
                   },
                   {
-                    "name": "Townsend",
-                    "votes": 11
+                    "name": "Cooksville-Corinth",
+                    "votes": 25
                   },
                   {
-                    "name": "Crescent",
-                    "votes": 212
+                    "name": "Enon Grove",
+                    "votes": 17
                   },
                   {
-                    "name": "Darien",
-                    "votes": 105
+                    "name": "Ephesus",
+                    "votes": 24
                   },
                   {
-                    "name": "South Newport",
-                    "votes": 0
+                    "name": "Franklin",
+                    "votes": 77
                   },
                   {
-                    "name": "North Darien",
-                    "votes": 102
+                    "name": "Southwest",
+                    "votes": 21
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 1186,
+                "votes": 311,
                 "Precinct": [
                   {
-                    "name": "Sapelo Island",
-                    "votes": 5
+                    "name": "Centralhatchee",
+                    "votes": 67
                   },
                   {
-                    "name": "Townsend",
-                    "votes": 56
+                    "name": "Cooksville-Corinth",
+                    "votes": 17
                   },
                   {
-                    "name": "Crescent",
-                    "votes": 394
+                    "name": "Enon Grove",
+                    "votes": 31
                   },
                   {
-                    "name": "Darien",
-                    "votes": 315
+                    "name": "Ephesus",
+                    "votes": 29
                   },
                   {
-                    "name": "South Newport",
-                    "votes": 179
+                    "name": "Franklin",
+                    "votes": 130
                   },
                   {
-                    "name": "North Darien",
-                    "votes": 237
+                    "name": "Southwest",
+                    "votes": 37
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 746,
+                "votes": 279,
                 "Precinct": [
                   {
-                    "name": "Sapelo Island",
-                    "votes": 10
+                    "name": "Centralhatchee",
+                    "votes": 63
                   },
                   {
-                    "name": "Townsend",
-                    "votes": 43
+                    "name": "Cooksville-Corinth",
+                    "votes": 4
                   },
                   {
-                    "name": "Crescent",
-                    "votes": 209
+                    "name": "Enon Grove",
+                    "votes": 29
                   },
                   {
-                    "name": "Darien",
-                    "votes": 175
+                    "name": "Ephesus",
+                    "votes": 26
                   },
                   {
-                    "name": "South Newport",
-                    "votes": 169
+                    "name": "Franklin",
+                    "votes": 120
                   },
                   {
-                    "name": "North Darien",
-                    "votes": 140
+                    "name": "Southwest",
+                    "votes": 37
                   }
                 ]
               },
@@ -679,27 +679,27 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Sapelo Island",
+                    "name": "Centralhatchee",
                     "votes": 0
                   },
                   {
-                    "name": "Townsend",
+                    "name": "Cooksville-Corinth",
                     "votes": 0
                   },
                   {
-                    "name": "Crescent",
+                    "name": "Enon Grove",
                     "votes": 0
                   },
                   {
-                    "name": "Darien",
+                    "name": "Ephesus",
                     "votes": 0
                   },
                   {
-                    "name": "South Newport",
+                    "name": "Franklin",
                     "votes": 0
                   },
                   {
-                    "name": "North Darien",
+                    "name": "Southwest",
                     "votes": 0
                   }
                 ]
@@ -714,35 +714,35 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 6,
-        "precinctsReported": 5,
+        "precinctsReported": 6,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 90,
+            "votes": 53,
             "Precinct": [
               {
-                "name": "Sapelo Island",
-                "votes": 2
+                "name": "Centralhatchee",
+                "votes": 10
               },
               {
-                "name": "Townsend",
-                "votes": 7
+                "name": "Cooksville-Corinth",
+                "votes": 4
               },
               {
-                "name": "Crescent",
-                "votes": 25
+                "name": "Enon Grove",
+                "votes": 9
               },
               {
-                "name": "Darien",
-                "votes": 16
+                "name": "Ephesus",
+                "votes": 10
               },
               {
-                "name": "South Newport",
-                "votes": 19
+                "name": "Franklin",
+                "votes": 12
               },
               {
-                "name": "North Darien",
-                "votes": 21
+                "name": "Southwest",
+                "votes": 8
               }
             ]
           },
@@ -751,27 +751,27 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Sapelo Island",
+                "name": "Centralhatchee",
                 "votes": 0
               },
               {
-                "name": "Townsend",
+                "name": "Cooksville-Corinth",
                 "votes": 0
               },
               {
-                "name": "Crescent",
+                "name": "Enon Grove",
                 "votes": 0
               },
               {
-                "name": "Darien",
+                "name": "Ephesus",
                 "votes": 0
               },
               {
-                "name": "South Newport",
+                "name": "Franklin",
                 "votes": 0
               },
               {
-                "name": "North Darien",
+                "name": "Southwest",
                 "votes": 0
               }
             ]
@@ -781,95 +781,95 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 3174,
+            "totalVotes": 3878,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 706,
+                "votes": 1850,
                 "Precinct": [
                   {
-                    "name": "Sapelo Island",
-                    "votes": 4
+                    "name": "Centralhatchee",
+                    "votes": 459
                   },
                   {
-                    "name": "Townsend",
-                    "votes": 106
+                    "name": "Cooksville-Corinth",
+                    "votes": 164
                   },
                   {
-                    "name": "Crescent",
-                    "votes": 159
+                    "name": "Enon Grove",
+                    "votes": 274
                   },
                   {
-                    "name": "Darien",
-                    "votes": 208
+                    "name": "Ephesus",
+                    "votes": 452
                   },
                   {
-                    "name": "South Newport",
-                    "votes": 0
+                    "name": "Franklin",
+                    "votes": 334
                   },
                   {
-                    "name": "North Darien",
-                    "votes": 229
+                    "name": "Southwest",
+                    "votes": 167
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 1894,
+                "votes": 1527,
                 "Precinct": [
                   {
-                    "name": "Sapelo Island",
-                    "votes": 0
+                    "name": "Centralhatchee",
+                    "votes": 416
                   },
                   {
-                    "name": "Townsend",
-                    "votes": 79
+                    "name": "Cooksville-Corinth",
+                    "votes": 127
                   },
                   {
-                    "name": "Crescent",
-                    "votes": 214
+                    "name": "Enon Grove",
+                    "votes": 209
                   },
                   {
-                    "name": "Darien",
-                    "votes": 552
+                    "name": "Ephesus",
+                    "votes": 212
                   },
                   {
-                    "name": "South Newport",
-                    "votes": 549
+                    "name": "Franklin",
+                    "votes": 461
                   },
                   {
-                    "name": "North Darien",
-                    "votes": 500
+                    "name": "Southwest",
+                    "votes": 102
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 574,
+                "votes": 501,
                 "Precinct": [
                   {
-                    "name": "Sapelo Island",
-                    "votes": 2
+                    "name": "Centralhatchee",
+                    "votes": 135
                   },
                   {
-                    "name": "Townsend",
-                    "votes": 54
+                    "name": "Cooksville-Corinth",
+                    "votes": 33
                   },
                   {
-                    "name": "Crescent",
-                    "votes": 62
+                    "name": "Enon Grove",
+                    "votes": 56
                   },
                   {
-                    "name": "Darien",
-                    "votes": 153
+                    "name": "Ephesus",
+                    "votes": 94
                   },
                   {
-                    "name": "South Newport",
-                    "votes": 211
+                    "name": "Franklin",
+                    "votes": 150
                   },
                   {
-                    "name": "North Darien",
-                    "votes": 92
+                    "name": "Southwest",
+                    "votes": 33
                   }
                 ]
               },
@@ -878,27 +878,27 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Sapelo Island",
+                    "name": "Centralhatchee",
                     "votes": 0
                   },
                   {
-                    "name": "Townsend",
+                    "name": "Cooksville-Corinth",
                     "votes": 0
                   },
                   {
-                    "name": "Crescent",
+                    "name": "Enon Grove",
                     "votes": 0
                   },
                   {
-                    "name": "Darien",
+                    "name": "Ephesus",
                     "votes": 0
                   },
                   {
-                    "name": "South Newport",
+                    "name": "Franklin",
                     "votes": 0
                   },
                   {
-                    "name": "North Darien",
+                    "name": "Southwest",
                     "votes": 0
                   }
                 ]
@@ -908,95 +908,95 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 2262,
+            "totalVotes": 745,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 422,
+                "votes": 187,
                 "Precinct": [
                   {
-                    "name": "Sapelo Island",
-                    "votes": 12
+                    "name": "Centralhatchee",
+                    "votes": 41
                   },
                   {
-                    "name": "Townsend",
-                    "votes": 11
+                    "name": "Cooksville-Corinth",
+                    "votes": 22
                   },
                   {
-                    "name": "Crescent",
-                    "votes": 205
+                    "name": "Enon Grove",
+                    "votes": 13
                   },
                   {
-                    "name": "Darien",
-                    "votes": 100
+                    "name": "Ephesus",
+                    "votes": 19
                   },
                   {
-                    "name": "South Newport",
-                    "votes": 0
+                    "name": "Franklin",
+                    "votes": 76
                   },
                   {
-                    "name": "North Darien",
-                    "votes": 94
+                    "name": "Southwest",
+                    "votes": 16
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 1142,
+                "votes": 293,
                 "Precinct": [
                   {
-                    "name": "Sapelo Island",
-                    "votes": 5
+                    "name": "Centralhatchee",
+                    "votes": 69
                   },
                   {
-                    "name": "Townsend",
-                    "votes": 54
+                    "name": "Cooksville-Corinth",
+                    "votes": 16
                   },
                   {
-                    "name": "Crescent",
-                    "votes": 386
+                    "name": "Enon Grove",
+                    "votes": 29
                   },
                   {
-                    "name": "Darien",
-                    "votes": 305
+                    "name": "Ephesus",
+                    "votes": 25
                   },
                   {
-                    "name": "South Newport",
-                    "votes": 160
+                    "name": "Franklin",
+                    "votes": 121
                   },
                   {
-                    "name": "North Darien",
-                    "votes": 232
+                    "name": "Southwest",
+                    "votes": 33
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 698,
+                "votes": 265,
                 "Precinct": [
                   {
-                    "name": "Sapelo Island",
-                    "votes": 11
+                    "name": "Centralhatchee",
+                    "votes": 54
                   },
                   {
-                    "name": "Townsend",
-                    "votes": 41
+                    "name": "Cooksville-Corinth",
+                    "votes": 4
                   },
                   {
-                    "name": "Crescent",
-                    "votes": 195
+                    "name": "Enon Grove",
+                    "votes": 28
                   },
                   {
-                    "name": "Darien",
-                    "votes": 166
+                    "name": "Ephesus",
+                    "votes": 28
                   },
                   {
-                    "name": "South Newport",
-                    "votes": 153
+                    "name": "Franklin",
+                    "votes": 114
                   },
                   {
-                    "name": "North Darien",
-                    "votes": 132
+                    "name": "Southwest",
+                    "votes": 37
                   }
                 ]
               },
@@ -1005,27 +1005,27 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Sapelo Island",
+                    "name": "Centralhatchee",
                     "votes": 0
                   },
                   {
-                    "name": "Townsend",
+                    "name": "Cooksville-Corinth",
                     "votes": 0
                   },
                   {
-                    "name": "Crescent",
+                    "name": "Enon Grove",
                     "votes": 0
                   },
                   {
-                    "name": "Darien",
+                    "name": "Ephesus",
                     "votes": 0
                   },
                   {
-                    "name": "South Newport",
+                    "name": "Franklin",
                     "votes": 0
                   },
                   {
-                    "name": "North Darien",
+                    "name": "Southwest",
                     "votes": 0
                   }
                 ]

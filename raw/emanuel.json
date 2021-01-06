@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:34:58 PM EST",
+    "Timestamp": "1/5/2021 8:52:30 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Emanuel",
     "VoterTurnout": {
       "totalVoters": 14141,
-      "ballotsCast": 6764,
-      "voterTurnout": 47.83,
+      "ballotsCast": 8371,
+      "voterTurnout": 59.2,
       "Precincts": {
         "Precinct": [
           {
@@ -20,9 +20,9 @@
           {
             "name": "Cross-Green",
             "totalVoters": 246,
-            "ballotsCast": 66,
-            "voterTurnout": 26.83,
-            "percentReporting": "2"
+            "ballotsCast": 170,
+            "voterTurnout": 69.11,
+            "percentReporting": "4"
           },
           {
             "name": "Swainsboro",
@@ -34,9 +34,9 @@
           {
             "name": "Summertown",
             "totalVoters": 519,
-            "ballotsCast": 145,
-            "voterTurnout": 27.94,
-            "percentReporting": "2"
+            "ballotsCast": 336,
+            "voterTurnout": 64.74,
+            "percentReporting": "4"
           },
           {
             "name": "Stillmore",
@@ -48,16 +48,16 @@
           {
             "name": "Blundale",
             "totalVoters": 772,
-            "ballotsCast": 257,
-            "voterTurnout": 33.29,
-            "percentReporting": "2"
+            "ballotsCast": 526,
+            "voterTurnout": 68.13,
+            "percentReporting": "4"
           },
           {
             "name": "Canoochee",
             "totalVoters": 692,
-            "ballotsCast": 180,
-            "voterTurnout": 26.01,
-            "percentReporting": "2"
+            "ballotsCast": 467,
+            "voterTurnout": 67.49,
+            "percentReporting": "4"
           },
           {
             "name": "Garfield",
@@ -76,16 +76,16 @@
           {
             "name": "Twin City",
             "totalVoters": 1689,
-            "ballotsCast": 508,
-            "voterTurnout": 30.08,
-            "percentReporting": "2"
+            "ballotsCast": 1000,
+            "voterTurnout": 59.21,
+            "percentReporting": "4"
           },
           {
             "name": "Adrian",
             "totalVoters": 831,
-            "ballotsCast": 225,
-            "voterTurnout": 27.08,
-            "percentReporting": "2"
+            "ballotsCast": 489,
+            "voterTurnout": 58.84,
+            "percentReporting": "4"
           }
         ]
       }
@@ -97,11 +97,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 11,
-        "precinctsReported": 5,
+        "precinctsReported": 11,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 19,
+            "votes": 23,
             "Precinct": [
               {
                 "name": "Oak Park",
@@ -109,7 +109,7 @@
               },
               {
                 "name": "Cross-Green",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Swainsboro",
@@ -129,7 +129,7 @@
               },
               {
                 "name": "Canoochee",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Garfield",
@@ -141,11 +141,11 @@
               },
               {
                 "name": "Twin City",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Adrian",
-                "votes": 0
+                "votes": 1
               }
             ]
           },
@@ -204,11 +204,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 4486,
+            "totalVotes": 5801,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1536,
+                "votes": 2851,
                 "Precinct": [
                   {
                     "name": "Oak Park",
@@ -216,7 +216,7 @@
                   },
                   {
                     "name": "Cross-Green",
-                    "votes": 0
+                    "votes": 37
                   },
                   {
                     "name": "Swainsboro",
@@ -224,7 +224,7 @@
                   },
                   {
                     "name": "Summertown",
-                    "votes": 0
+                    "votes": 158
                   },
                   {
                     "name": "Stillmore",
@@ -232,11 +232,11 @@
                   },
                   {
                     "name": "Blundale",
-                    "votes": 0
+                    "votes": 265
                   },
                   {
                     "name": "Canoochee",
-                    "votes": 0
+                    "votes": 259
                   },
                   {
                     "name": "Garfield",
@@ -248,11 +248,11 @@
                   },
                   {
                     "name": "Twin City",
-                    "votes": 0
+                    "votes": 366
                   },
                   {
                     "name": "Adrian",
-                    "votes": 0
+                    "votes": 230
                   }
                 ]
               },
@@ -411,11 +411,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 2259,
+            "totalVotes": 2547,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 510,
+                "votes": 798,
                 "Precinct": [
                   {
                     "name": "Oak Park",
@@ -423,7 +423,7 @@
                   },
                   {
                     "name": "Cross-Green",
-                    "votes": 0
+                    "votes": 66
                   },
                   {
                     "name": "Swainsboro",
@@ -431,7 +431,7 @@
                   },
                   {
                     "name": "Summertown",
-                    "votes": 0
+                    "votes": 33
                   },
                   {
                     "name": "Stillmore",
@@ -439,11 +439,11 @@
                   },
                   {
                     "name": "Blundale",
-                    "votes": 0
+                    "votes": 4
                   },
                   {
                     "name": "Canoochee",
-                    "votes": 0
+                    "votes": 27
                   },
                   {
                     "name": "Garfield",
@@ -455,11 +455,11 @@
                   },
                   {
                     "name": "Twin City",
-                    "votes": 0
+                    "votes": 125
                   },
                   {
                     "name": "Adrian",
-                    "votes": 0
+                    "votes": 33
                   }
                 ]
               },
@@ -623,11 +623,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 11,
-        "precinctsReported": 5,
+        "precinctsReported": 11,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 18,
+            "votes": 21,
             "Precinct": [
               {
                 "name": "Oak Park",
@@ -635,7 +635,7 @@
               },
               {
                 "name": "Cross-Green",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Swainsboro",
@@ -667,11 +667,11 @@
               },
               {
                 "name": "Twin City",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Adrian",
-                "votes": 0
+                "votes": 1
               }
             ]
           },
@@ -730,11 +730,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 4465,
+            "totalVotes": 5781,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1525,
+                "votes": 2841,
                 "Precinct": [
                   {
                     "name": "Oak Park",
@@ -742,7 +742,7 @@
                   },
                   {
                     "name": "Cross-Green",
-                    "votes": 0
+                    "votes": 37
                   },
                   {
                     "name": "Swainsboro",
@@ -750,7 +750,7 @@
                   },
                   {
                     "name": "Summertown",
-                    "votes": 0
+                    "votes": 158
                   },
                   {
                     "name": "Stillmore",
@@ -758,11 +758,11 @@
                   },
                   {
                     "name": "Blundale",
-                    "votes": 0
+                    "votes": 265
                   },
                   {
                     "name": "Canoochee",
-                    "votes": 0
+                    "votes": 259
                   },
                   {
                     "name": "Garfield",
@@ -774,11 +774,11 @@
                   },
                   {
                     "name": "Twin City",
-                    "votes": 0
+                    "votes": 366
                   },
                   {
                     "name": "Adrian",
-                    "votes": 0
+                    "votes": 231
                   }
                 ]
               },
@@ -937,11 +937,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 2281,
+            "totalVotes": 2569,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 518,
+                "votes": 806,
                 "Precinct": [
                   {
                     "name": "Oak Park",
@@ -949,7 +949,7 @@
                   },
                   {
                     "name": "Cross-Green",
-                    "votes": 0
+                    "votes": 66
                   },
                   {
                     "name": "Swainsboro",
@@ -957,7 +957,7 @@
                   },
                   {
                     "name": "Summertown",
-                    "votes": 0
+                    "votes": 33
                   },
                   {
                     "name": "Stillmore",
@@ -965,11 +965,11 @@
                   },
                   {
                     "name": "Blundale",
-                    "votes": 0
+                    "votes": 4
                   },
                   {
                     "name": "Canoochee",
-                    "votes": 0
+                    "votes": 28
                   },
                   {
                     "name": "Garfield",
@@ -981,11 +981,11 @@
                   },
                   {
                     "name": "Twin City",
-                    "votes": 0
+                    "votes": 125
                   },
                   {
                     "name": "Adrian",
-                    "votes": 0
+                    "votes": 32
                   }
                 ]
               },
@@ -1149,11 +1149,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 11,
-        "precinctsReported": 5,
+        "precinctsReported": 11,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 148,
+            "votes": 185,
             "Precinct": [
               {
                 "name": "Oak Park",
@@ -1161,7 +1161,7 @@
               },
               {
                 "name": "Cross-Green",
-                "votes": 2
+                "votes": 6
               },
               {
                 "name": "Swainsboro",
@@ -1169,7 +1169,7 @@
               },
               {
                 "name": "Summertown",
-                "votes": 2
+                "votes": 4
               },
               {
                 "name": "Stillmore",
@@ -1177,11 +1177,11 @@
               },
               {
                 "name": "Blundale",
-                "votes": 2
+                "votes": 6
               },
               {
                 "name": "Canoochee",
-                "votes": 5
+                "votes": 11
               },
               {
                 "name": "Garfield",
@@ -1193,11 +1193,11 @@
               },
               {
                 "name": "Twin City",
-                "votes": 9
+                "votes": 19
               },
               {
                 "name": "Adrian",
-                "votes": 5
+                "votes": 16
               }
             ]
           },
@@ -1256,11 +1256,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 4456,
+            "totalVotes": 5756,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1514,
+                "votes": 2814,
                 "Precinct": [
                   {
                     "name": "Oak Park",
@@ -1268,7 +1268,7 @@
                   },
                   {
                     "name": "Cross-Green",
-                    "votes": 0
+                    "votes": 37
                   },
                   {
                     "name": "Swainsboro",
@@ -1276,7 +1276,7 @@
                   },
                   {
                     "name": "Summertown",
-                    "votes": 0
+                    "votes": 159
                   },
                   {
                     "name": "Stillmore",
@@ -1284,11 +1284,11 @@
                   },
                   {
                     "name": "Blundale",
-                    "votes": 0
+                    "votes": 261
                   },
                   {
                     "name": "Canoochee",
-                    "votes": 0
+                    "votes": 257
                   },
                   {
                     "name": "Garfield",
@@ -1300,11 +1300,11 @@
                   },
                   {
                     "name": "Twin City",
-                    "votes": 0
+                    "votes": 362
                   },
                   {
                     "name": "Adrian",
-                    "votes": 0
+                    "votes": 224
                   }
                 ]
               },
@@ -1463,11 +1463,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 2160,
+            "totalVotes": 2430,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 500,
+                "votes": 770,
                 "Precinct": [
                   {
                     "name": "Oak Park",
@@ -1475,7 +1475,7 @@
                   },
                   {
                     "name": "Cross-Green",
-                    "votes": 0
+                    "votes": 63
                   },
                   {
                     "name": "Swainsboro",
@@ -1483,7 +1483,7 @@
                   },
                   {
                     "name": "Summertown",
-                    "votes": 0
+                    "votes": 30
                   },
                   {
                     "name": "Stillmore",
@@ -1491,11 +1491,11 @@
                   },
                   {
                     "name": "Blundale",
-                    "votes": 0
+                    "votes": 4
                   },
                   {
                     "name": "Canoochee",
-                    "votes": 0
+                    "votes": 24
                   },
                   {
                     "name": "Garfield",
@@ -1507,11 +1507,11 @@
                   },
                   {
                     "name": "Twin City",
-                    "votes": 0
+                    "votes": 120
                   },
                   {
                     "name": "Adrian",
-                    "votes": 0
+                    "votes": 29
                   }
                 ]
               },

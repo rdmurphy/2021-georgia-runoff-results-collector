@@ -1,21 +1,21 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:35:09 PM EST",
+    "Timestamp": "1/5/2021 8:57:49 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Bibb",
     "VoterTurnout": {
       "totalVoters": 110077,
-      "ballotsCast": 43042,
-      "voterTurnout": 39.1,
+      "ballotsCast": 46801,
+      "voterTurnout": 42.52,
       "Precincts": {
         "Precinct": [
           {
             "name": "East Macon 1",
             "totalVoters": 2145,
-            "ballotsCast": 567,
-            "voterTurnout": 26.43,
-            "percentReporting": "2"
+            "ballotsCast": 814,
+            "voterTurnout": 37.95,
+            "percentReporting": "4"
           },
           {
             "name": "East Macon 2",
@@ -34,16 +34,16 @@
           {
             "name": "East Macon 4",
             "totalVoters": 2324,
-            "ballotsCast": 842,
-            "voterTurnout": 36.23,
-            "percentReporting": "2"
+            "ballotsCast": 1193,
+            "voterTurnout": 51.33,
+            "percentReporting": "4"
           },
           {
             "name": "East Macon 5",
             "totalVoters": 2594,
-            "ballotsCast": 1068,
-            "voterTurnout": 41.17,
-            "percentReporting": "2"
+            "ballotsCast": 1494,
+            "voterTurnout": 57.59,
+            "percentReporting": "4"
           },
           {
             "name": "Godfrey 1",
@@ -69,9 +69,9 @@
           {
             "name": "Godfrey 4",
             "totalVoters": 1482,
-            "ballotsCast": 531,
-            "voterTurnout": 35.83,
-            "percentReporting": "2"
+            "ballotsCast": 805,
+            "voterTurnout": 54.32,
+            "percentReporting": "4"
           },
           {
             "name": "Godfrey 5",
@@ -146,9 +146,9 @@
           {
             "name": "Howard 6",
             "totalVoters": 2224,
-            "ballotsCast": 948,
-            "voterTurnout": 42.63,
-            "percentReporting": "2"
+            "ballotsCast": 1394,
+            "voterTurnout": 62.68,
+            "percentReporting": "4"
           },
           {
             "name": "Howard 7",
@@ -167,9 +167,9 @@
           {
             "name": "Rutland 2",
             "totalVoters": 3576,
-            "ballotsCast": 1111,
-            "voterTurnout": 31.07,
-            "percentReporting": "2"
+            "ballotsCast": 2193,
+            "voterTurnout": 61.33,
+            "percentReporting": "4"
           },
           {
             "name": "Vineville 1",
@@ -188,9 +188,9 @@
           {
             "name": "Vineville 3",
             "totalVoters": 3196,
-            "ballotsCast": 1150,
-            "voterTurnout": 35.98,
-            "percentReporting": "2"
+            "ballotsCast": 1552,
+            "voterTurnout": 48.56,
+            "percentReporting": "4"
           },
           {
             "name": "Vineville 4",
@@ -202,9 +202,9 @@
           {
             "name": "Vineville 5",
             "totalVoters": 2387,
-            "ballotsCast": 1046,
-            "voterTurnout": 43.82,
-            "percentReporting": "2"
+            "ballotsCast": 1577,
+            "voterTurnout": 66.07,
+            "percentReporting": "4"
           },
           {
             "name": "Vineville 6",
@@ -237,11 +237,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 31,
-        "precinctsReported": 4,
+        "precinctsReported": 12,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 110,
+            "votes": 120,
             "Precinct": [
               {
                 "name": "East Macon 1",
@@ -257,11 +257,11 @@
               },
               {
                 "name": "East Macon 4",
-                "votes": 7
+                "votes": 8
               },
               {
                 "name": "East Macon 5",
-                "votes": 1
+                "votes": 4
               },
               {
                 "name": "Godfrey 1",
@@ -277,7 +277,7 @@
               },
               {
                 "name": "Godfrey 4",
-                "votes": 3
+                "votes": 6
               },
               {
                 "name": "Godfrey 5",
@@ -345,7 +345,7 @@
               },
               {
                 "name": "Vineville 3",
-                "votes": 4
+                "votes": 7
               },
               {
                 "name": "Vineville 4",
@@ -504,15 +504,15 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 14044,
+            "totalVotes": 15751,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1548,
+                "votes": 3255,
                 "Precinct": [
                   {
                     "name": "East Macon 1",
-                    "votes": 0
+                    "votes": 7
                   },
                   {
                     "name": "East Macon 2",
@@ -524,11 +524,11 @@
                   },
                   {
                     "name": "East Macon 4",
-                    "votes": 0
+                    "votes": 25
                   },
                   {
                     "name": "East Macon 5",
-                    "votes": 0
+                    "votes": 124
                   },
                   {
                     "name": "Godfrey 1",
@@ -544,7 +544,7 @@
                   },
                   {
                     "name": "Godfrey 4",
-                    "votes": 0
+                    "votes": 29
                   },
                   {
                     "name": "Godfrey 5",
@@ -588,7 +588,7 @@
                   },
                   {
                     "name": "Howard 6",
-                    "votes": 0
+                    "votes": 295
                   },
                   {
                     "name": "Howard 7",
@@ -600,7 +600,7 @@
                   },
                   {
                     "name": "Rutland 2",
-                    "votes": 0
+                    "votes": 856
                   },
                   {
                     "name": "Vineville 1",
@@ -612,7 +612,7 @@
                   },
                   {
                     "name": "Vineville 3",
-                    "votes": 0
+                    "votes": 36
                   },
                   {
                     "name": "Vineville 4",
@@ -620,7 +620,7 @@
                   },
                   {
                     "name": "Vineville 5",
-                    "votes": 0
+                    "votes": 335
                   },
                   {
                     "name": "Vineville 6",
@@ -1031,15 +1031,15 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 28888,
+            "totalVotes": 30930,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 902,
+                "votes": 2944,
                 "Precinct": [
                   {
                     "name": "East Macon 1",
-                    "votes": 0
+                    "votes": 240
                   },
                   {
                     "name": "East Macon 2",
@@ -1051,11 +1051,11 @@
                   },
                   {
                     "name": "East Macon 4",
-                    "votes": 0
+                    "votes": 325
                   },
                   {
                     "name": "East Macon 5",
-                    "votes": 0
+                    "votes": 299
                   },
                   {
                     "name": "Godfrey 1",
@@ -1071,7 +1071,7 @@
                   },
                   {
                     "name": "Godfrey 4",
-                    "votes": 0
+                    "votes": 242
                   },
                   {
                     "name": "Godfrey 5",
@@ -1115,7 +1115,7 @@
                   },
                   {
                     "name": "Howard 6",
-                    "votes": 0
+                    "votes": 151
                   },
                   {
                     "name": "Howard 7",
@@ -1127,7 +1127,7 @@
                   },
                   {
                     "name": "Rutland 2",
-                    "votes": 0
+                    "votes": 226
                   },
                   {
                     "name": "Vineville 1",
@@ -1139,7 +1139,7 @@
                   },
                   {
                     "name": "Vineville 3",
-                    "votes": 0
+                    "votes": 363
                   },
                   {
                     "name": "Vineville 4",
@@ -1147,7 +1147,7 @@
                   },
                   {
                     "name": "Vineville 5",
-                    "votes": 0
+                    "votes": 196
                   },
                   {
                     "name": "Vineville 6",
@@ -1563,11 +1563,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 31,
-        "precinctsReported": 4,
+        "precinctsReported": 12,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 60,
+            "votes": 66,
             "Precinct": [
               {
                 "name": "East Macon 1",
@@ -1583,11 +1583,11 @@
               },
               {
                 "name": "East Macon 4",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "East Macon 5",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "Godfrey 1",
@@ -1603,7 +1603,7 @@
               },
               {
                 "name": "Godfrey 4",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Godfrey 5",
@@ -1671,7 +1671,7 @@
               },
               {
                 "name": "Vineville 3",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "Vineville 4",
@@ -1679,7 +1679,7 @@
               },
               {
                 "name": "Vineville 5",
-                "votes": 1
+                "votes": 3
               },
               {
                 "name": "Vineville 6",
@@ -1830,15 +1830,15 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 13931,
+            "totalVotes": 15639,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1541,
+                "votes": 3249,
                 "Precinct": [
                   {
                     "name": "East Macon 1",
-                    "votes": 0
+                    "votes": 6
                   },
                   {
                     "name": "East Macon 2",
@@ -1850,11 +1850,11 @@
                   },
                   {
                     "name": "East Macon 4",
-                    "votes": 0
+                    "votes": 27
                   },
                   {
                     "name": "East Macon 5",
-                    "votes": 0
+                    "votes": 125
                   },
                   {
                     "name": "Godfrey 1",
@@ -1870,7 +1870,7 @@
                   },
                   {
                     "name": "Godfrey 4",
-                    "votes": 0
+                    "votes": 28
                   },
                   {
                     "name": "Godfrey 5",
@@ -1914,7 +1914,7 @@
                   },
                   {
                     "name": "Howard 6",
-                    "votes": 0
+                    "votes": 295
                   },
                   {
                     "name": "Howard 7",
@@ -1926,7 +1926,7 @@
                   },
                   {
                     "name": "Rutland 2",
-                    "votes": 0
+                    "votes": 861
                   },
                   {
                     "name": "Vineville 1",
@@ -1938,7 +1938,7 @@
                   },
                   {
                     "name": "Vineville 3",
-                    "votes": 0
+                    "votes": 34
                   },
                   {
                     "name": "Vineville 4",
@@ -1946,7 +1946,7 @@
                   },
                   {
                     "name": "Vineville 5",
-                    "votes": 0
+                    "votes": 332
                   },
                   {
                     "name": "Vineville 6",
@@ -2357,15 +2357,15 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 29051,
+            "totalVotes": 31096,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 917,
+                "votes": 2962,
                 "Precinct": [
                   {
                     "name": "East Macon 1",
-                    "votes": 0
+                    "votes": 241
                   },
                   {
                     "name": "East Macon 2",
@@ -2377,11 +2377,11 @@
                   },
                   {
                     "name": "East Macon 4",
-                    "votes": 0
+                    "votes": 323
                   },
                   {
                     "name": "East Macon 5",
-                    "votes": 0
+                    "votes": 300
                   },
                   {
                     "name": "Godfrey 1",
@@ -2397,7 +2397,7 @@
                   },
                   {
                     "name": "Godfrey 4",
-                    "votes": 0
+                    "votes": 245
                   },
                   {
                     "name": "Godfrey 5",
@@ -2441,7 +2441,7 @@
                   },
                   {
                     "name": "Howard 6",
-                    "votes": 0
+                    "votes": 151
                   },
                   {
                     "name": "Howard 7",
@@ -2453,7 +2453,7 @@
                   },
                   {
                     "name": "Rutland 2",
-                    "votes": 0
+                    "votes": 221
                   },
                   {
                     "name": "Vineville 1",
@@ -2465,7 +2465,7 @@
                   },
                   {
                     "name": "Vineville 3",
-                    "votes": 0
+                    "votes": 367
                   },
                   {
                     "name": "Vineville 4",
@@ -2473,7 +2473,7 @@
                   },
                   {
                     "name": "Vineville 5",
-                    "votes": 0
+                    "votes": 197
                   },
                   {
                     "name": "Vineville 6",
@@ -2889,15 +2889,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 31,
-        "precinctsReported": 4,
+        "precinctsReported": 12,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 648,
+            "votes": 682,
             "Precinct": [
               {
                 "name": "East Macon 1",
-                "votes": 10
+                "votes": 11
               },
               {
                 "name": "East Macon 2",
@@ -2909,11 +2909,11 @@
               },
               {
                 "name": "East Macon 4",
-                "votes": 17
+                "votes": 21
               },
               {
                 "name": "East Macon 5",
-                "votes": 13
+                "votes": 18
               },
               {
                 "name": "Godfrey 1",
@@ -2929,7 +2929,7 @@
               },
               {
                 "name": "Godfrey 4",
-                "votes": 6
+                "votes": 10
               },
               {
                 "name": "Godfrey 5",
@@ -2973,7 +2973,7 @@
               },
               {
                 "name": "Howard 6",
-                "votes": 11
+                "votes": 15
               },
               {
                 "name": "Howard 7",
@@ -2985,7 +2985,7 @@
               },
               {
                 "name": "Rutland 2",
-                "votes": 21
+                "votes": 27
               },
               {
                 "name": "Vineville 1",
@@ -2997,7 +2997,7 @@
               },
               {
                 "name": "Vineville 3",
-                "votes": 26
+                "votes": 29
               },
               {
                 "name": "Vineville 4",
@@ -3005,7 +3005,7 @@
               },
               {
                 "name": "Vineville 5",
-                "votes": 18
+                "votes": 25
               },
               {
                 "name": "Vineville 6",
@@ -3156,15 +3156,15 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 14323,
+            "totalVotes": 16061,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1555,
+                "votes": 3293,
                 "Precinct": [
                   {
                     "name": "East Macon 1",
-                    "votes": 0
+                    "votes": 7
                   },
                   {
                     "name": "East Macon 2",
@@ -3176,11 +3176,11 @@
                   },
                   {
                     "name": "East Macon 4",
-                    "votes": 0
+                    "votes": 27
                   },
                   {
                     "name": "East Macon 5",
-                    "votes": 0
+                    "votes": 124
                   },
                   {
                     "name": "Godfrey 1",
@@ -3196,7 +3196,7 @@
                   },
                   {
                     "name": "Godfrey 4",
-                    "votes": 0
+                    "votes": 34
                   },
                   {
                     "name": "Godfrey 5",
@@ -3240,7 +3240,7 @@
                   },
                   {
                     "name": "Howard 6",
-                    "votes": 0
+                    "votes": 305
                   },
                   {
                     "name": "Howard 7",
@@ -3252,7 +3252,7 @@
                   },
                   {
                     "name": "Rutland 2",
-                    "votes": 0
+                    "votes": 858
                   },
                   {
                     "name": "Vineville 1",
@@ -3264,7 +3264,7 @@
                   },
                   {
                     "name": "Vineville 3",
-                    "votes": 0
+                    "votes": 39
                   },
                   {
                     "name": "Vineville 4",
@@ -3272,7 +3272,7 @@
                   },
                   {
                     "name": "Vineville 5",
-                    "votes": 0
+                    "votes": 344
                   },
                   {
                     "name": "Vineville 6",
@@ -3683,15 +3683,15 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 28071,
+            "totalVotes": 30058,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 887,
+                "votes": 2874,
                 "Precinct": [
                   {
                     "name": "East Macon 1",
-                    "votes": 0
+                    "votes": 239
                   },
                   {
                     "name": "East Macon 2",
@@ -3703,11 +3703,11 @@
                   },
                   {
                     "name": "East Macon 4",
-                    "votes": 0
+                    "votes": 320
                   },
                   {
                     "name": "East Macon 5",
-                    "votes": 0
+                    "votes": 297
                   },
                   {
                     "name": "Godfrey 1",
@@ -3723,7 +3723,7 @@
                   },
                   {
                     "name": "Godfrey 4",
-                    "votes": 0
+                    "votes": 236
                   },
                   {
                     "name": "Godfrey 5",
@@ -3767,7 +3767,7 @@
                   },
                   {
                     "name": "Howard 6",
-                    "votes": 0
+                    "votes": 137
                   },
                   {
                     "name": "Howard 7",
@@ -3779,7 +3779,7 @@
                   },
                   {
                     "name": "Rutland 2",
-                    "votes": 0
+                    "votes": 218
                   },
                   {
                     "name": "Vineville 1",
@@ -3791,7 +3791,7 @@
                   },
                   {
                     "name": "Vineville 3",
-                    "votes": 0
+                    "votes": 360
                   },
                   {
                     "name": "Vineville 4",
@@ -3799,7 +3799,7 @@
                   },
                   {
                     "name": "Vineville 5",
-                    "votes": 0
+                    "votes": 180
                   },
                   {
                     "name": "Vineville 6",

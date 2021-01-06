@@ -1,90 +1,90 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:45:39 PM EST",
+    "Timestamp": "1/5/2021 8:50:17 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
-    "Region": "Elbert",
+    "Region": "Mitchell",
     "VoterTurnout": {
-      "totalVoters": 12589,
-      "ballotsCast": 7968,
-      "voterTurnout": 63.29,
+      "totalVoters": 0,
+      "ballotsCast": 7874,
+      "voterTurnout": 0.0,
       "Precincts": {
         "Precinct": [
           {
-            "name": "Elberton",
-            "totalVoters": 3888,
-            "ballotsCast": 2200,
-            "voterTurnout": 56.58,
+            "name": "Baconton",
+            "totalVoters": 0,
+            "ballotsCast": 647,
+            "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
-            "name": "Longstreet",
-            "totalVoters": 636,
-            "ballotsCast": 407,
-            "voterTurnout": 63.99,
+            "name": "Branchville",
+            "totalVoters": 0,
+            "ballotsCast": 437,
+            "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
-            "name": "Eliam",
-            "totalVoters": 756,
-            "ballotsCast": 538,
-            "voterTurnout": 71.16,
+            "name": "Camilla North",
+            "totalVoters": 0,
+            "ballotsCast": 1111,
+            "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
-            "name": "Petersburg",
-            "totalVoters": 380,
-            "ballotsCast": 278,
-            "voterTurnout": 73.16,
+            "name": "Camilla South",
+            "totalVoters": 0,
+            "ballotsCast": 2095,
+            "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
-            "name": "Wyche",
-            "totalVoters": 1117,
-            "ballotsCast": 790,
-            "voterTurnout": 70.73,
+            "name": "Cotton",
+            "totalVoters": 0,
+            "ballotsCast": 281,
+            "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
-            "name": "Moss-Ruckersville",
-            "totalVoters": 477,
-            "ballotsCast": 320,
-            "voterTurnout": 67.09,
+            "name": "Hopeful",
+            "totalVoters": 0,
+            "ballotsCast": 234,
+            "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
-            "name": "Pike",
-            "totalVoters": 1631,
-            "ballotsCast": 1021,
-            "voterTurnout": 62.6,
+            "name": "Hinsonton",
+            "totalVoters": 0,
+            "ballotsCast": 112,
+            "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
-            "name": "Gaines",
-            "totalVoters": 584,
-            "ballotsCast": 393,
-            "voterTurnout": 67.29,
+            "name": "Lester",
+            "totalVoters": 0,
+            "ballotsCast": 765,
+            "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
-            "name": "Goshen",
-            "totalVoters": 1661,
-            "ballotsCast": 1080,
-            "voterTurnout": 65.02,
+            "name": "Pebble City",
+            "totalVoters": 0,
+            "ballotsCast": 122,
+            "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
-            "name": "Webbsboro",
-            "totalVoters": 419,
-            "ballotsCast": 286,
-            "voterTurnout": 68.26,
+            "name": "Pelham",
+            "totalVoters": 0,
+            "ballotsCast": 1835,
+            "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
-            "name": "Centerville",
-            "totalVoters": 1040,
-            "ballotsCast": 655,
-            "voterTurnout": 62.98,
+            "name": "Sale City",
+            "totalVoters": 0,
+            "ballotsCast": 235,
+            "voterTurnout": 0.0,
             "percentReporting": "4"
           }
         ]
@@ -101,50 +101,50 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 18,
+            "votes": 30,
             "Precinct": [
               {
-                "name": "Elberton",
-                "votes": 7
-              },
-              {
-                "name": "Longstreet",
+                "name": "Baconton",
                 "votes": 1
               },
               {
-                "name": "Eliam",
+                "name": "Branchville",
+                "votes": 0
+              },
+              {
+                "name": "Camilla North",
+                "votes": 6
+              },
+              {
+                "name": "Camilla South",
+                "votes": 5
+              },
+              {
+                "name": "Cotton",
+                "votes": 0
+              },
+              {
+                "name": "Hopeful",
                 "votes": 1
               },
               {
-                "name": "Petersburg",
+                "name": "Hinsonton",
                 "votes": 0
               },
               {
-                "name": "Wyche",
-                "votes": 2
+                "name": "Lester",
+                "votes": 4
               },
               {
-                "name": "Moss-Ruckersville",
-                "votes": 0
-              },
-              {
-                "name": "Pike",
+                "name": "Pebble City",
                 "votes": 1
               },
               {
-                "name": "Gaines",
-                "votes": 0
+                "name": "Pelham",
+                "votes": 11
               },
               {
-                "name": "Goshen",
-                "votes": 2
-              },
-              {
-                "name": "Webbsboro",
-                "votes": 3
-              },
-              {
-                "name": "Centerville",
+                "name": "Sale City",
                 "votes": 1
               }
             ]
@@ -154,47 +154,47 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Elberton",
+                "name": "Baconton",
                 "votes": 0
               },
               {
-                "name": "Longstreet",
+                "name": "Branchville",
                 "votes": 0
               },
               {
-                "name": "Eliam",
+                "name": "Camilla North",
                 "votes": 0
               },
               {
-                "name": "Petersburg",
+                "name": "Camilla South",
                 "votes": 0
               },
               {
-                "name": "Wyche",
+                "name": "Cotton",
                 "votes": 0
               },
               {
-                "name": "Moss-Ruckersville",
+                "name": "Hopeful",
                 "votes": 0
               },
               {
-                "name": "Pike",
+                "name": "Hinsonton",
                 "votes": 0
               },
               {
-                "name": "Gaines",
+                "name": "Lester",
                 "votes": 0
               },
               {
-                "name": "Goshen",
+                "name": "Pebble City",
                 "votes": 0
               },
               {
-                "name": "Webbsboro",
+                "name": "Pelham",
                 "votes": 0
               },
               {
-                "name": "Centerville",
+                "name": "Sale City",
                 "votes": 0
               }
             ]
@@ -204,155 +204,155 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 5481,
+            "totalVotes": 4304,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2343,
+                "votes": 1902,
                 "Precinct": [
                   {
-                    "name": "Elberton",
-                    "votes": 279
+                    "name": "Baconton",
+                    "votes": 186
                   },
                   {
-                    "name": "Longstreet",
-                    "votes": 148
+                    "name": "Branchville",
+                    "votes": 237
                   },
                   {
-                    "name": "Eliam",
-                    "votes": 190
+                    "name": "Camilla North",
+                    "votes": 51
                   },
                   {
-                    "name": "Petersburg",
-                    "votes": 130
+                    "name": "Camilla South",
+                    "votes": 213
                   },
                   {
-                    "name": "Wyche",
-                    "votes": 194
+                    "name": "Cotton",
+                    "votes": 180
                   },
                   {
-                    "name": "Moss-Ruckersville",
-                    "votes": 112
+                    "name": "Hopeful",
+                    "votes": 115
                   },
                   {
-                    "name": "Pike",
-                    "votes": 259
+                    "name": "Hinsonton",
+                    "votes": 80
                   },
                   {
-                    "name": "Gaines",
-                    "votes": 204
+                    "name": "Lester",
+                    "votes": 310
                   },
                   {
-                    "name": "Goshen",
-                    "votes": 446
+                    "name": "Pebble City",
+                    "votes": 74
                   },
                   {
-                    "name": "Webbsboro",
-                    "votes": 105
+                    "name": "Pelham",
+                    "votes": 321
                   },
                   {
-                    "name": "Centerville",
-                    "votes": 276
+                    "name": "Sale City",
+                    "votes": 135
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 2438,
+                "votes": 1954,
                 "Precinct": [
                   {
-                    "name": "Elberton",
-                    "votes": 637
+                    "name": "Baconton",
+                    "votes": 131
                   },
                   {
-                    "name": "Longstreet",
-                    "votes": 128
+                    "name": "Branchville",
+                    "votes": 109
                   },
                   {
-                    "name": "Eliam",
-                    "votes": 186
+                    "name": "Camilla North",
+                    "votes": 133
                   },
                   {
-                    "name": "Petersburg",
-                    "votes": 76
+                    "name": "Camilla South",
+                    "votes": 706
                   },
                   {
-                    "name": "Wyche",
-                    "votes": 306
+                    "name": "Cotton",
+                    "votes": 47
                   },
                   {
-                    "name": "Moss-Ruckersville",
-                    "votes": 98
+                    "name": "Hopeful",
+                    "votes": 64
                   },
                   {
-                    "name": "Pike",
-                    "votes": 322
+                    "name": "Hinsonton",
+                    "votes": 11
                   },
                   {
-                    "name": "Gaines",
-                    "votes": 90
+                    "name": "Lester",
+                    "votes": 233
                   },
                   {
-                    "name": "Goshen",
-                    "votes": 316
+                    "name": "Pebble City",
+                    "votes": 17
                   },
                   {
-                    "name": "Webbsboro",
-                    "votes": 82
+                    "name": "Pelham",
+                    "votes": 472
                   },
                   {
-                    "name": "Centerville",
-                    "votes": 197
+                    "name": "Sale City",
+                    "votes": 31
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 700,
+                "votes": 448,
                 "Precinct": [
                   {
-                    "name": "Elberton",
-                    "votes": 191
+                    "name": "Baconton",
+                    "votes": 28
                   },
                   {
-                    "name": "Longstreet",
-                    "votes": 40
+                    "name": "Branchville",
+                    "votes": 22
                   },
                   {
-                    "name": "Eliam",
-                    "votes": 50
+                    "name": "Camilla North",
+                    "votes": 18
                   },
                   {
-                    "name": "Petersburg",
-                    "votes": 26
+                    "name": "Camilla South",
+                    "votes": 142
                   },
                   {
-                    "name": "Wyche",
-                    "votes": 85
+                    "name": "Cotton",
+                    "votes": 30
                   },
                   {
-                    "name": "Moss-Ruckersville",
-                    "votes": 31
+                    "name": "Hopeful",
+                    "votes": 15
                   },
                   {
-                    "name": "Pike",
-                    "votes": 75
+                    "name": "Hinsonton",
+                    "votes": 6
                   },
                   {
-                    "name": "Gaines",
-                    "votes": 44
+                    "name": "Lester",
+                    "votes": 61
                   },
                   {
-                    "name": "Goshen",
-                    "votes": 78
+                    "name": "Pebble City",
+                    "votes": 12
                   },
                   {
-                    "name": "Webbsboro",
-                    "votes": 29
+                    "name": "Pelham",
+                    "votes": 104
                   },
                   {
-                    "name": "Centerville",
-                    "votes": 51
+                    "name": "Sale City",
+                    "votes": 10
                   }
                 ]
               },
@@ -361,47 +361,47 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Elberton",
+                    "name": "Baconton",
                     "votes": 0
                   },
                   {
-                    "name": "Longstreet",
+                    "name": "Branchville",
                     "votes": 0
                   },
                   {
-                    "name": "Eliam",
+                    "name": "Camilla North",
                     "votes": 0
                   },
                   {
-                    "name": "Petersburg",
+                    "name": "Camilla South",
                     "votes": 0
                   },
                   {
-                    "name": "Wyche",
+                    "name": "Cotton",
                     "votes": 0
                   },
                   {
-                    "name": "Moss-Ruckersville",
+                    "name": "Hopeful",
                     "votes": 0
                   },
                   {
-                    "name": "Pike",
+                    "name": "Hinsonton",
                     "votes": 0
                   },
                   {
-                    "name": "Gaines",
+                    "name": "Lester",
                     "votes": 0
                   },
                   {
-                    "name": "Goshen",
+                    "name": "Pebble City",
                     "votes": 0
                   },
                   {
-                    "name": "Webbsboro",
+                    "name": "Pelham",
                     "votes": 0
                   },
                   {
-                    "name": "Centerville",
+                    "name": "Sale City",
                     "votes": 0
                   }
                 ]
@@ -411,155 +411,155 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 2469,
+            "totalVotes": 3540,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 536,
+                "votes": 826,
                 "Precinct": [
                   {
-                    "name": "Elberton",
-                    "votes": 230
+                    "name": "Baconton",
+                    "votes": 90
                   },
                   {
-                    "name": "Longstreet",
-                    "votes": 20
-                  },
-                  {
-                    "name": "Eliam",
+                    "name": "Branchville",
                     "votes": 19
                   },
                   {
-                    "name": "Petersburg",
+                    "name": "Camilla North",
+                    "votes": 214
+                  },
+                  {
+                    "name": "Camilla South",
+                    "votes": 178
+                  },
+                  {
+                    "name": "Cotton",
                     "votes": 9
                   },
                   {
-                    "name": "Wyche",
-                    "votes": 41
+                    "name": "Hopeful",
+                    "votes": 11
                   },
                   {
-                    "name": "Moss-Ruckersville",
-                    "votes": 19
+                    "name": "Hinsonton",
+                    "votes": 2
                   },
                   {
-                    "name": "Pike",
-                    "votes": 50
+                    "name": "Lester",
+                    "votes": 25
                   },
                   {
-                    "name": "Gaines",
-                    "votes": 15
+                    "name": "Pebble City",
+                    "votes": 8
                   },
                   {
-                    "name": "Goshen",
-                    "votes": 80
+                    "name": "Pelham",
+                    "votes": 243
                   },
                   {
-                    "name": "Webbsboro",
-                    "votes": 21
-                  },
-                  {
-                    "name": "Centerville",
-                    "votes": 32
+                    "name": "Sale City",
+                    "votes": 27
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 1001,
+                "votes": 1574,
                 "Precinct": [
                   {
-                    "name": "Elberton",
-                    "votes": 483
+                    "name": "Baconton",
+                    "votes": 127
                   },
                   {
-                    "name": "Longstreet",
-                    "votes": 43
+                    "name": "Branchville",
+                    "votes": 26
                   },
                   {
-                    "name": "Eliam",
-                    "votes": 47
+                    "name": "Camilla North",
+                    "votes": 386
                   },
                   {
-                    "name": "Petersburg",
-                    "votes": 13
+                    "name": "Camilla South",
+                    "votes": 546
                   },
                   {
-                    "name": "Wyche",
-                    "votes": 94
+                    "name": "Cotton",
+                    "votes": 5
                   },
                   {
-                    "name": "Moss-Ruckersville",
-                    "votes": 23
+                    "name": "Hopeful",
+                    "votes": 15
                   },
                   {
-                    "name": "Pike",
-                    "votes": 136
+                    "name": "Hinsonton",
+                    "votes": 5
                   },
                   {
-                    "name": "Gaines",
-                    "votes": 17
+                    "name": "Lester",
+                    "votes": 58
                   },
                   {
-                    "name": "Goshen",
-                    "votes": 69
+                    "name": "Pebble City",
+                    "votes": 8
                   },
                   {
-                    "name": "Webbsboro",
-                    "votes": 27
+                    "name": "Pelham",
+                    "votes": 380
                   },
                   {
-                    "name": "Centerville",
-                    "votes": 49
+                    "name": "Sale City",
+                    "votes": 18
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 932,
+                "votes": 1140,
                 "Precinct": [
                   {
-                    "name": "Elberton",
-                    "votes": 373
+                    "name": "Baconton",
+                    "votes": 84
                   },
                   {
-                    "name": "Longstreet",
-                    "votes": 27
-                  },
-                  {
-                    "name": "Eliam",
-                    "votes": 45
-                  },
-                  {
-                    "name": "Petersburg",
+                    "name": "Branchville",
                     "votes": 24
                   },
                   {
-                    "name": "Wyche",
-                    "votes": 68
+                    "name": "Camilla North",
+                    "votes": 303
                   },
                   {
-                    "name": "Moss-Ruckersville",
-                    "votes": 37
+                    "name": "Camilla South",
+                    "votes": 305
                   },
                   {
-                    "name": "Pike",
-                    "votes": 178
+                    "name": "Cotton",
+                    "votes": 10
                   },
                   {
-                    "name": "Gaines",
-                    "votes": 23
+                    "name": "Hopeful",
+                    "votes": 13
                   },
                   {
-                    "name": "Goshen",
-                    "votes": 89
+                    "name": "Hinsonton",
+                    "votes": 8
                   },
                   {
-                    "name": "Webbsboro",
-                    "votes": 19
+                    "name": "Lester",
+                    "votes": 74
                   },
                   {
-                    "name": "Centerville",
-                    "votes": 49
+                    "name": "Pebble City",
+                    "votes": 2
+                  },
+                  {
+                    "name": "Pelham",
+                    "votes": 304
+                  },
+                  {
+                    "name": "Sale City",
+                    "votes": 13
                   }
                 ]
               },
@@ -568,47 +568,47 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Elberton",
+                    "name": "Baconton",
                     "votes": 0
                   },
                   {
-                    "name": "Longstreet",
+                    "name": "Branchville",
                     "votes": 0
                   },
                   {
-                    "name": "Eliam",
+                    "name": "Camilla North",
                     "votes": 0
                   },
                   {
-                    "name": "Petersburg",
+                    "name": "Camilla South",
                     "votes": 0
                   },
                   {
-                    "name": "Wyche",
+                    "name": "Cotton",
                     "votes": 0
                   },
                   {
-                    "name": "Moss-Ruckersville",
+                    "name": "Hopeful",
                     "votes": 0
                   },
                   {
-                    "name": "Pike",
+                    "name": "Hinsonton",
                     "votes": 0
                   },
                   {
-                    "name": "Gaines",
+                    "name": "Lester",
                     "votes": 0
                   },
                   {
-                    "name": "Goshen",
+                    "name": "Pebble City",
                     "votes": 0
                   },
                   {
-                    "name": "Webbsboro",
+                    "name": "Pelham",
                     "votes": 0
                   },
                   {
-                    "name": "Centerville",
+                    "name": "Sale City",
                     "votes": 0
                   }
                 ]
@@ -627,50 +627,50 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 20,
+            "votes": 16,
             "Precinct": [
               {
-                "name": "Elberton",
-                "votes": 6
-              },
-              {
-                "name": "Longstreet",
-                "votes": 2
-              },
-              {
-                "name": "Eliam",
-                "votes": 1
-              },
-              {
-                "name": "Petersburg",
-                "votes": 1
-              },
-              {
-                "name": "Wyche",
-                "votes": 2
-              },
-              {
-                "name": "Moss-Ruckersville",
+                "name": "Baconton",
                 "votes": 0
               },
               {
-                "name": "Pike",
-                "votes": 2
+                "name": "Branchville",
+                "votes": 1
               },
               {
-                "name": "Gaines",
+                "name": "Camilla North",
+                "votes": 1
+              },
+              {
+                "name": "Camilla South",
+                "votes": 5
+              },
+              {
+                "name": "Cotton",
                 "votes": 0
               },
               {
-                "name": "Goshen",
-                "votes": 3
-              },
-              {
-                "name": "Webbsboro",
+                "name": "Hopeful",
                 "votes": 2
               },
               {
-                "name": "Centerville",
+                "name": "Hinsonton",
+                "votes": 0
+              },
+              {
+                "name": "Lester",
+                "votes": 2
+              },
+              {
+                "name": "Pebble City",
+                "votes": 0
+              },
+              {
+                "name": "Pelham",
+                "votes": 4
+              },
+              {
+                "name": "Sale City",
                 "votes": 1
               }
             ]
@@ -680,47 +680,47 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Elberton",
+                "name": "Baconton",
                 "votes": 0
               },
               {
-                "name": "Longstreet",
+                "name": "Branchville",
                 "votes": 0
               },
               {
-                "name": "Eliam",
+                "name": "Camilla North",
                 "votes": 0
               },
               {
-                "name": "Petersburg",
+                "name": "Camilla South",
                 "votes": 0
               },
               {
-                "name": "Wyche",
+                "name": "Cotton",
                 "votes": 0
               },
               {
-                "name": "Moss-Ruckersville",
+                "name": "Hopeful",
                 "votes": 0
               },
               {
-                "name": "Pike",
+                "name": "Hinsonton",
                 "votes": 0
               },
               {
-                "name": "Gaines",
+                "name": "Lester",
                 "votes": 0
               },
               {
-                "name": "Goshen",
+                "name": "Pebble City",
                 "votes": 0
               },
               {
-                "name": "Webbsboro",
+                "name": "Pelham",
                 "votes": 0
               },
               {
-                "name": "Centerville",
+                "name": "Sale City",
                 "votes": 0
               }
             ]
@@ -730,155 +730,155 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 5493,
+            "totalVotes": 4295,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2343,
+                "votes": 1896,
                 "Precinct": [
                   {
-                    "name": "Elberton",
-                    "votes": 279
+                    "name": "Baconton",
+                    "votes": 185
                   },
                   {
-                    "name": "Longstreet",
-                    "votes": 148
+                    "name": "Branchville",
+                    "votes": 236
                   },
                   {
-                    "name": "Eliam",
-                    "votes": 190
+                    "name": "Camilla North",
+                    "votes": 49
                   },
                   {
-                    "name": "Petersburg",
-                    "votes": 129
+                    "name": "Camilla South",
+                    "votes": 213
                   },
                   {
-                    "name": "Wyche",
-                    "votes": 194
+                    "name": "Cotton",
+                    "votes": 180
                   },
                   {
-                    "name": "Moss-Ruckersville",
+                    "name": "Hopeful",
                     "votes": 113
                   },
                   {
-                    "name": "Pike",
-                    "votes": 261
+                    "name": "Hinsonton",
+                    "votes": 81
                   },
                   {
-                    "name": "Gaines",
-                    "votes": 205
+                    "name": "Lester",
+                    "votes": 309
                   },
                   {
-                    "name": "Goshen",
-                    "votes": 447
+                    "name": "Pebble City",
+                    "votes": 74
                   },
                   {
-                    "name": "Webbsboro",
-                    "votes": 102
+                    "name": "Pelham",
+                    "votes": 320
                   },
                   {
-                    "name": "Centerville",
-                    "votes": 275
+                    "name": "Sale City",
+                    "votes": 136
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 2444,
+                "votes": 1951,
                 "Precinct": [
                   {
-                    "name": "Elberton",
-                    "votes": 642
+                    "name": "Baconton",
+                    "votes": 131
                   },
                   {
-                    "name": "Longstreet",
-                    "votes": 130
+                    "name": "Branchville",
+                    "votes": 109
                   },
                   {
-                    "name": "Eliam",
-                    "votes": 186
+                    "name": "Camilla North",
+                    "votes": 136
                   },
                   {
-                    "name": "Petersburg",
-                    "votes": 75
+                    "name": "Camilla South",
+                    "votes": 702
                   },
                   {
-                    "name": "Wyche",
-                    "votes": 305
+                    "name": "Cotton",
+                    "votes": 47
                   },
                   {
-                    "name": "Moss-Ruckersville",
-                    "votes": 99
+                    "name": "Hopeful",
+                    "votes": 63
                   },
                   {
-                    "name": "Pike",
-                    "votes": 323
+                    "name": "Hinsonton",
+                    "votes": 12
                   },
                   {
-                    "name": "Gaines",
-                    "votes": 91
+                    "name": "Lester",
+                    "votes": 232
                   },
                   {
-                    "name": "Goshen",
-                    "votes": 316
+                    "name": "Pebble City",
+                    "votes": 17
                   },
                   {
-                    "name": "Webbsboro",
-                    "votes": 82
+                    "name": "Pelham",
+                    "votes": 471
                   },
                   {
-                    "name": "Centerville",
-                    "votes": 195
+                    "name": "Sale City",
+                    "votes": 31
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 706,
+                "votes": 448,
                 "Precinct": [
                   {
-                    "name": "Elberton",
-                    "votes": 191
+                    "name": "Baconton",
+                    "votes": 27
                   },
                   {
-                    "name": "Longstreet",
-                    "votes": 40
+                    "name": "Branchville",
+                    "votes": 22
                   },
                   {
-                    "name": "Eliam",
-                    "votes": 51
+                    "name": "Camilla North",
+                    "votes": 18
                   },
                   {
-                    "name": "Petersburg",
-                    "votes": 28
+                    "name": "Camilla South",
+                    "votes": 140
                   },
                   {
-                    "name": "Wyche",
-                    "votes": 86
-                  },
-                  {
-                    "name": "Moss-Ruckersville",
+                    "name": "Cotton",
                     "votes": 31
                   },
                   {
-                    "name": "Pike",
-                    "votes": 76
+                    "name": "Hopeful",
+                    "votes": 15
                   },
                   {
-                    "name": "Gaines",
-                    "votes": 45
+                    "name": "Hinsonton",
+                    "votes": 6
                   },
                   {
-                    "name": "Goshen",
-                    "votes": 79
+                    "name": "Lester",
+                    "votes": 60
                   },
                   {
-                    "name": "Webbsboro",
-                    "votes": 28
+                    "name": "Pebble City",
+                    "votes": 12
                   },
                   {
-                    "name": "Centerville",
-                    "votes": 51
+                    "name": "Pelham",
+                    "votes": 107
+                  },
+                  {
+                    "name": "Sale City",
+                    "votes": 10
                   }
                 ]
               },
@@ -887,47 +887,47 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Elberton",
+                    "name": "Baconton",
                     "votes": 0
                   },
                   {
-                    "name": "Longstreet",
+                    "name": "Branchville",
                     "votes": 0
                   },
                   {
-                    "name": "Eliam",
+                    "name": "Camilla North",
                     "votes": 0
                   },
                   {
-                    "name": "Petersburg",
+                    "name": "Camilla South",
                     "votes": 0
                   },
                   {
-                    "name": "Wyche",
+                    "name": "Cotton",
                     "votes": 0
                   },
                   {
-                    "name": "Moss-Ruckersville",
+                    "name": "Hopeful",
                     "votes": 0
                   },
                   {
-                    "name": "Pike",
+                    "name": "Hinsonton",
                     "votes": 0
                   },
                   {
-                    "name": "Gaines",
+                    "name": "Lester",
                     "votes": 0
                   },
                   {
-                    "name": "Goshen",
+                    "name": "Pebble City",
                     "votes": 0
                   },
                   {
-                    "name": "Webbsboro",
+                    "name": "Pelham",
                     "votes": 0
                   },
                   {
-                    "name": "Centerville",
+                    "name": "Sale City",
                     "votes": 0
                   }
                 ]
@@ -937,155 +937,155 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 2455,
+            "totalVotes": 3563,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 532,
+                "votes": 840,
                 "Precinct": [
                   {
-                    "name": "Elberton",
-                    "votes": 229
+                    "name": "Baconton",
+                    "votes": 92
                   },
                   {
-                    "name": "Longstreet",
+                    "name": "Branchville",
                     "votes": 19
                   },
                   {
-                    "name": "Eliam",
-                    "votes": 19
+                    "name": "Camilla North",
+                    "votes": 217
                   },
                   {
-                    "name": "Petersburg",
-                    "votes": 10
+                    "name": "Camilla South",
+                    "votes": 181
                   },
                   {
-                    "name": "Wyche",
-                    "votes": 41
+                    "name": "Cotton",
+                    "votes": 9
                   },
                   {
-                    "name": "Moss-Ruckersville",
-                    "votes": 18
+                    "name": "Hopeful",
+                    "votes": 12
                   },
                   {
-                    "name": "Pike",
-                    "votes": 48
+                    "name": "Hinsonton",
+                    "votes": 1
                   },
                   {
-                    "name": "Gaines",
-                    "votes": 14
+                    "name": "Lester",
+                    "votes": 27
                   },
                   {
-                    "name": "Goshen",
-                    "votes": 78
+                    "name": "Pebble City",
+                    "votes": 9
                   },
                   {
-                    "name": "Webbsboro",
-                    "votes": 23
+                    "name": "Pelham",
+                    "votes": 247
                   },
                   {
-                    "name": "Centerville",
-                    "votes": 33
+                    "name": "Sale City",
+                    "votes": 26
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 998,
+                "votes": 1578,
                 "Precinct": [
                   {
-                    "name": "Elberton",
-                    "votes": 481
+                    "name": "Baconton",
+                    "votes": 127
                   },
                   {
-                    "name": "Longstreet",
-                    "votes": 41
+                    "name": "Branchville",
+                    "votes": 26
                   },
                   {
-                    "name": "Eliam",
-                    "votes": 47
+                    "name": "Camilla North",
+                    "votes": 385
                   },
                   {
-                    "name": "Petersburg",
-                    "votes": 13
+                    "name": "Camilla South",
+                    "votes": 548
                   },
                   {
-                    "name": "Wyche",
-                    "votes": 94
+                    "name": "Cotton",
+                    "votes": 5
                   },
                   {
-                    "name": "Moss-Ruckersville",
-                    "votes": 22
+                    "name": "Hopeful",
+                    "votes": 15
                   },
                   {
-                    "name": "Pike",
-                    "votes": 135
+                    "name": "Hinsonton",
+                    "votes": 4
                   },
                   {
-                    "name": "Gaines",
-                    "votes": 16
+                    "name": "Lester",
+                    "votes": 60
                   },
                   {
-                    "name": "Goshen",
-                    "votes": 69
+                    "name": "Pebble City",
+                    "votes": 8
                   },
                   {
-                    "name": "Webbsboro",
-                    "votes": 29
+                    "name": "Pelham",
+                    "votes": 382
                   },
                   {
-                    "name": "Centerville",
-                    "votes": 51
+                    "name": "Sale City",
+                    "votes": 18
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 925,
+                "votes": 1145,
                 "Precinct": [
                   {
-                    "name": "Elberton",
-                    "votes": 372
+                    "name": "Baconton",
+                    "votes": 85
                   },
                   {
-                    "name": "Longstreet",
-                    "votes": 27
+                    "name": "Branchville",
+                    "votes": 24
                   },
                   {
-                    "name": "Eliam",
-                    "votes": 44
+                    "name": "Camilla North",
+                    "votes": 305
                   },
                   {
-                    "name": "Petersburg",
-                    "votes": 22
+                    "name": "Camilla South",
+                    "votes": 306
                   },
                   {
-                    "name": "Wyche",
-                    "votes": 68
+                    "name": "Cotton",
+                    "votes": 9
                   },
                   {
-                    "name": "Moss-Ruckersville",
-                    "votes": 37
+                    "name": "Hopeful",
+                    "votes": 14
                   },
                   {
-                    "name": "Pike",
-                    "votes": 176
+                    "name": "Hinsonton",
+                    "votes": 8
                   },
                   {
-                    "name": "Gaines",
-                    "votes": 22
+                    "name": "Lester",
+                    "votes": 75
                   },
                   {
-                    "name": "Goshen",
-                    "votes": 88
+                    "name": "Pebble City",
+                    "votes": 2
                   },
                   {
-                    "name": "Webbsboro",
-                    "votes": 20
+                    "name": "Pelham",
+                    "votes": 304
                   },
                   {
-                    "name": "Centerville",
-                    "votes": 49
+                    "name": "Sale City",
+                    "votes": 13
                   }
                 ]
               },
@@ -1094,47 +1094,47 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Elberton",
+                    "name": "Baconton",
                     "votes": 0
                   },
                   {
-                    "name": "Longstreet",
+                    "name": "Branchville",
                     "votes": 0
                   },
                   {
-                    "name": "Eliam",
+                    "name": "Camilla North",
                     "votes": 0
                   },
                   {
-                    "name": "Petersburg",
+                    "name": "Camilla South",
                     "votes": 0
                   },
                   {
-                    "name": "Wyche",
+                    "name": "Cotton",
                     "votes": 0
                   },
                   {
-                    "name": "Moss-Ruckersville",
+                    "name": "Hopeful",
                     "votes": 0
                   },
                   {
-                    "name": "Pike",
+                    "name": "Hinsonton",
                     "votes": 0
                   },
                   {
-                    "name": "Gaines",
+                    "name": "Lester",
                     "votes": 0
                   },
                   {
-                    "name": "Goshen",
+                    "name": "Pebble City",
                     "votes": 0
                   },
                   {
-                    "name": "Webbsboro",
+                    "name": "Pelham",
                     "votes": 0
                   },
                   {
-                    "name": "Centerville",
+                    "name": "Sale City",
                     "votes": 0
                   }
                 ]
@@ -1153,51 +1153,51 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 88,
+            "votes": 91,
             "Precinct": [
               {
-                "name": "Elberton",
-                "votes": 34
-              },
-              {
-                "name": "Longstreet",
+                "name": "Baconton",
                 "votes": 4
               },
               {
-                "name": "Eliam",
-                "votes": 3
-              },
-              {
-                "name": "Petersburg",
-                "votes": 1
-              },
-              {
-                "name": "Wyche",
-                "votes": 6
-              },
-              {
-                "name": "Moss-Ruckersville",
-                "votes": 3
-              },
-              {
-                "name": "Pike",
-                "votes": 9
-              },
-              {
-                "name": "Gaines",
+                "name": "Branchville",
                 "votes": 4
               },
               {
-                "name": "Goshen",
-                "votes": 15
+                "name": "Camilla North",
+                "votes": 11
               },
               {
-                "name": "Webbsboro",
-                "votes": 3
+                "name": "Camilla South",
+                "votes": 26
               },
               {
-                "name": "Centerville",
-                "votes": 6
+                "name": "Cotton",
+                "votes": 4
+              },
+              {
+                "name": "Hopeful",
+                "votes": 2
+              },
+              {
+                "name": "Hinsonton",
+                "votes": 0
+              },
+              {
+                "name": "Lester",
+                "votes": 7
+              },
+              {
+                "name": "Pebble City",
+                "votes": 2
+              },
+              {
+                "name": "Pelham",
+                "votes": 27
+              },
+              {
+                "name": "Sale City",
+                "votes": 4
               }
             ]
           },
@@ -1206,47 +1206,47 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Elberton",
+                "name": "Baconton",
                 "votes": 0
               },
               {
-                "name": "Longstreet",
+                "name": "Branchville",
                 "votes": 0
               },
               {
-                "name": "Eliam",
+                "name": "Camilla North",
                 "votes": 0
               },
               {
-                "name": "Petersburg",
+                "name": "Camilla South",
                 "votes": 0
               },
               {
-                "name": "Wyche",
+                "name": "Cotton",
                 "votes": 0
               },
               {
-                "name": "Moss-Ruckersville",
+                "name": "Hopeful",
                 "votes": 0
               },
               {
-                "name": "Pike",
+                "name": "Hinsonton",
                 "votes": 0
               },
               {
-                "name": "Gaines",
+                "name": "Lester",
                 "votes": 0
               },
               {
-                "name": "Goshen",
+                "name": "Pebble City",
                 "votes": 0
               },
               {
-                "name": "Webbsboro",
+                "name": "Pelham",
                 "votes": 0
               },
               {
-                "name": "Centerville",
+                "name": "Sale City",
                 "votes": 0
               }
             ]
@@ -1256,155 +1256,155 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 5500,
+            "totalVotes": 4349,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2340,
+                "votes": 1905,
                 "Precinct": [
                   {
-                    "name": "Elberton",
-                    "votes": 278
+                    "name": "Baconton",
+                    "votes": 185
                   },
                   {
-                    "name": "Longstreet",
-                    "votes": 147
+                    "name": "Branchville",
+                    "votes": 237
                   },
                   {
-                    "name": "Eliam",
-                    "votes": 189
+                    "name": "Camilla North",
+                    "votes": 59
                   },
                   {
-                    "name": "Petersburg",
-                    "votes": 132
+                    "name": "Camilla South",
+                    "votes": 211
                   },
                   {
-                    "name": "Wyche",
-                    "votes": 195
+                    "name": "Cotton",
+                    "votes": 179
                   },
                   {
-                    "name": "Moss-Ruckersville",
-                    "votes": 110
+                    "name": "Hopeful",
+                    "votes": 115
                   },
                   {
-                    "name": "Pike",
-                    "votes": 263
+                    "name": "Hinsonton",
+                    "votes": 81
                   },
                   {
-                    "name": "Gaines",
-                    "votes": 201
+                    "name": "Lester",
+                    "votes": 310
                   },
                   {
-                    "name": "Goshen",
-                    "votes": 450
+                    "name": "Pebble City",
+                    "votes": 75
                   },
                   {
-                    "name": "Webbsboro",
-                    "votes": 103
+                    "name": "Pelham",
+                    "votes": 317
                   },
                   {
-                    "name": "Centerville",
-                    "votes": 272
+                    "name": "Sale City",
+                    "votes": 136
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 2454,
+                "votes": 1974,
                 "Precinct": [
                   {
-                    "name": "Elberton",
-                    "votes": 656
+                    "name": "Baconton",
+                    "votes": 132
                   },
                   {
-                    "name": "Longstreet",
-                    "votes": 129
+                    "name": "Branchville",
+                    "votes": 110
                   },
                   {
-                    "name": "Eliam",
-                    "votes": 188
+                    "name": "Camilla North",
+                    "votes": 141
                   },
                   {
-                    "name": "Petersburg",
-                    "votes": 76
+                    "name": "Camilla South",
+                    "votes": 712
                   },
                   {
-                    "name": "Wyche",
-                    "votes": 306
+                    "name": "Cotton",
+                    "votes": 47
                   },
                   {
-                    "name": "Moss-Ruckersville",
-                    "votes": 99
+                    "name": "Hopeful",
+                    "votes": 61
                   },
                   {
-                    "name": "Pike",
-                    "votes": 320
+                    "name": "Hinsonton",
+                    "votes": 12
                   },
                   {
-                    "name": "Gaines",
-                    "votes": 91
+                    "name": "Lester",
+                    "votes": 236
                   },
                   {
-                    "name": "Goshen",
-                    "votes": 309
+                    "name": "Pebble City",
+                    "votes": 17
                   },
                   {
-                    "name": "Webbsboro",
-                    "votes": 82
+                    "name": "Pelham",
+                    "votes": 474
                   },
                   {
-                    "name": "Centerville",
-                    "votes": 198
+                    "name": "Sale City",
+                    "votes": 32
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 706,
+                "votes": 470,
                 "Precinct": [
                   {
-                    "name": "Elberton",
-                    "votes": 192
-                  },
-                  {
-                    "name": "Longstreet",
-                    "votes": 40
-                  },
-                  {
-                    "name": "Eliam",
-                    "votes": 51
-                  },
-                  {
-                    "name": "Petersburg",
+                    "name": "Baconton",
                     "votes": 27
                   },
                   {
-                    "name": "Wyche",
-                    "votes": 86
+                    "name": "Branchville",
+                    "votes": 22
                   },
                   {
-                    "name": "Moss-Ruckersville",
+                    "name": "Camilla North",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Camilla South",
+                    "votes": 153
+                  },
+                  {
+                    "name": "Cotton",
                     "votes": 32
                   },
                   {
-                    "name": "Pike",
-                    "votes": 75
+                    "name": "Hopeful",
+                    "votes": 15
                   },
                   {
-                    "name": "Gaines",
-                    "votes": 47
+                    "name": "Hinsonton",
+                    "votes": 6
                   },
                   {
-                    "name": "Goshen",
-                    "votes": 76
+                    "name": "Lester",
+                    "votes": 59
                   },
                   {
-                    "name": "Webbsboro",
-                    "votes": 29
+                    "name": "Pebble City",
+                    "votes": 12
                   },
                   {
-                    "name": "Centerville",
-                    "votes": 51
+                    "name": "Pelham",
+                    "votes": 112
+                  },
+                  {
+                    "name": "Sale City",
+                    "votes": 11
                   }
                 ]
               },
@@ -1413,47 +1413,47 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Elberton",
+                    "name": "Baconton",
                     "votes": 0
                   },
                   {
-                    "name": "Longstreet",
+                    "name": "Branchville",
                     "votes": 0
                   },
                   {
-                    "name": "Eliam",
+                    "name": "Camilla North",
                     "votes": 0
                   },
                   {
-                    "name": "Petersburg",
+                    "name": "Camilla South",
                     "votes": 0
                   },
                   {
-                    "name": "Wyche",
+                    "name": "Cotton",
                     "votes": 0
                   },
                   {
-                    "name": "Moss-Ruckersville",
+                    "name": "Hopeful",
                     "votes": 0
                   },
                   {
-                    "name": "Pike",
+                    "name": "Hinsonton",
                     "votes": 0
                   },
                   {
-                    "name": "Gaines",
+                    "name": "Lester",
                     "votes": 0
                   },
                   {
-                    "name": "Goshen",
+                    "name": "Pebble City",
                     "votes": 0
                   },
                   {
-                    "name": "Webbsboro",
+                    "name": "Pelham",
                     "votes": 0
                   },
                   {
-                    "name": "Centerville",
+                    "name": "Sale City",
                     "votes": 0
                   }
                 ]
@@ -1463,155 +1463,155 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 2380,
+            "totalVotes": 3434,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 515,
+                "votes": 809,
                 "Precinct": [
                   {
-                    "name": "Elberton",
-                    "votes": 227
+                    "name": "Baconton",
+                    "votes": 90
                   },
                   {
-                    "name": "Longstreet",
-                    "votes": 21
+                    "name": "Branchville",
+                    "votes": 15
                   },
                   {
-                    "name": "Eliam",
-                    "votes": 18
+                    "name": "Camilla North",
+                    "votes": 206
                   },
                   {
-                    "name": "Petersburg",
+                    "name": "Camilla South",
+                    "votes": 177
+                  },
+                  {
+                    "name": "Cotton",
+                    "votes": 9
+                  },
+                  {
+                    "name": "Hopeful",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Hinsonton",
+                    "votes": 1
+                  },
+                  {
+                    "name": "Lester",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Pebble City",
                     "votes": 7
                   },
                   {
-                    "name": "Wyche",
-                    "votes": 38
+                    "name": "Pelham",
+                    "votes": 245
                   },
                   {
-                    "name": "Moss-Ruckersville",
-                    "votes": 19
-                  },
-                  {
-                    "name": "Pike",
-                    "votes": 44
-                  },
-                  {
-                    "name": "Gaines",
-                    "votes": 14
-                  },
-                  {
-                    "name": "Goshen",
-                    "votes": 71
-                  },
-                  {
-                    "name": "Webbsboro",
-                    "votes": 21
-                  },
-                  {
-                    "name": "Centerville",
-                    "votes": 35
+                    "name": "Sale City",
+                    "votes": 24
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 961,
+                "votes": 1524,
                 "Precinct": [
                   {
-                    "name": "Elberton",
-                    "votes": 455
+                    "name": "Baconton",
+                    "votes": 125
                   },
                   {
-                    "name": "Longstreet",
-                    "votes": 40
+                    "name": "Branchville",
+                    "votes": 25
                   },
                   {
-                    "name": "Eliam",
-                    "votes": 44
+                    "name": "Camilla North",
+                    "votes": 376
                   },
                   {
-                    "name": "Petersburg",
-                    "votes": 13
+                    "name": "Camilla South",
+                    "votes": 527
                   },
                   {
-                    "name": "Wyche",
-                    "votes": 93
+                    "name": "Cotton",
+                    "votes": 4
                   },
                   {
-                    "name": "Moss-Ruckersville",
-                    "votes": 22
+                    "name": "Hopeful",
+                    "votes": 17
                   },
                   {
-                    "name": "Pike",
-                    "votes": 135
+                    "name": "Hinsonton",
+                    "votes": 4
                   },
                   {
-                    "name": "Gaines",
+                    "name": "Lester",
+                    "votes": 55
+                  },
+                  {
+                    "name": "Pebble City",
+                    "votes": 7
+                  },
+                  {
+                    "name": "Pelham",
+                    "votes": 368
+                  },
+                  {
+                    "name": "Sale City",
                     "votes": 16
-                  },
-                  {
-                    "name": "Goshen",
-                    "votes": 70
-                  },
-                  {
-                    "name": "Webbsboro",
-                    "votes": 29
-                  },
-                  {
-                    "name": "Centerville",
-                    "votes": 44
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 904,
+                "votes": 1101,
                 "Precinct": [
                   {
-                    "name": "Elberton",
-                    "votes": 358
+                    "name": "Baconton",
+                    "votes": 84
                   },
                   {
-                    "name": "Longstreet",
-                    "votes": 26
+                    "name": "Branchville",
+                    "votes": 24
                   },
                   {
-                    "name": "Eliam",
-                    "votes": 45
+                    "name": "Camilla North",
+                    "votes": 297
                   },
                   {
-                    "name": "Petersburg",
-                    "votes": 22
+                    "name": "Camilla South",
+                    "votes": 289
                   },
                   {
-                    "name": "Wyche",
-                    "votes": 66
+                    "name": "Cotton",
+                    "votes": 6
                   },
                   {
-                    "name": "Moss-Ruckersville",
-                    "votes": 35
+                    "name": "Hopeful",
+                    "votes": 14
                   },
                   {
-                    "name": "Pike",
-                    "votes": 175
+                    "name": "Hinsonton",
+                    "votes": 8
                   },
                   {
-                    "name": "Gaines",
-                    "votes": 20
+                    "name": "Lester",
+                    "votes": 73
                   },
                   {
-                    "name": "Goshen",
-                    "votes": 89
+                    "name": "Pebble City",
+                    "votes": 2
                   },
                   {
-                    "name": "Webbsboro",
-                    "votes": 19
+                    "name": "Pelham",
+                    "votes": 292
                   },
                   {
-                    "name": "Centerville",
-                    "votes": 49
+                    "name": "Sale City",
+                    "votes": 12
                   }
                 ]
               },
@@ -1620,47 +1620,47 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Elberton",
+                    "name": "Baconton",
                     "votes": 0
                   },
                   {
-                    "name": "Longstreet",
+                    "name": "Branchville",
                     "votes": 0
                   },
                   {
-                    "name": "Eliam",
+                    "name": "Camilla North",
                     "votes": 0
                   },
                   {
-                    "name": "Petersburg",
+                    "name": "Camilla South",
                     "votes": 0
                   },
                   {
-                    "name": "Wyche",
+                    "name": "Cotton",
                     "votes": 0
                   },
                   {
-                    "name": "Moss-Ruckersville",
+                    "name": "Hopeful",
                     "votes": 0
                   },
                   {
-                    "name": "Pike",
+                    "name": "Hinsonton",
                     "votes": 0
                   },
                   {
-                    "name": "Gaines",
+                    "name": "Lester",
                     "votes": 0
                   },
                   {
-                    "name": "Goshen",
+                    "name": "Pebble City",
                     "votes": 0
                   },
                   {
-                    "name": "Webbsboro",
+                    "name": "Pelham",
                     "votes": 0
                   },
                   {
-                    "name": "Centerville",
+                    "name": "Sale City",
                     "votes": 0
                   }
                 ]

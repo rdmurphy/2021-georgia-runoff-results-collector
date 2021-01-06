@@ -1,0 +1,3071 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:54:51 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Newton",
+    "VoterTurnout": {
+      "totalVoters": 80538,
+      "ballotsCast": 24911,
+      "voterTurnout": 30.93,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "City Pond",
+            "totalVoters": 1889,
+            "ballotsCast": 295,
+            "voterTurnout": 15.62,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Town",
+            "totalVoters": 4487,
+            "ballotsCast": 859,
+            "voterTurnout": 19.14,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Almon",
+            "totalVoters": 5097,
+            "ballotsCast": 1374,
+            "voterTurnout": 26.96,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Alcovy",
+            "totalVoters": 4737,
+            "ballotsCast": 1366,
+            "voterTurnout": 28.84,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Covington Mills",
+            "totalVoters": 3181,
+            "ballotsCast": 1311,
+            "voterTurnout": 41.21,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Brewers",
+            "totalVoters": 3624,
+            "ballotsCast": 1807,
+            "voterTurnout": 49.86,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Brick Store",
+            "totalVoters": 2677,
+            "ballotsCast": 1412,
+            "voterTurnout": 52.75,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Cedar Shoals",
+            "totalVoters": 2879,
+            "ballotsCast": 501,
+            "voterTurnout": 17.4,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Livingston",
+            "totalVoters": 4693,
+            "ballotsCast": 1115,
+            "voterTurnout": 23.76,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Downs",
+            "totalVoters": 6349,
+            "ballotsCast": 1701,
+            "voterTurnout": 26.79,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Gum Creek",
+            "totalVoters": 4170,
+            "ballotsCast": 1162,
+            "voterTurnout": 27.87,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Beaverdam",
+            "totalVoters": 5541,
+            "ballotsCast": 1468,
+            "voterTurnout": 26.49,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Leguinn",
+            "totalVoters": 2206,
+            "ballotsCast": 428,
+            "voterTurnout": 19.4,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Mansfield",
+            "totalVoters": 1535,
+            "ballotsCast": 929,
+            "voterTurnout": 60.52,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Newborn",
+            "totalVoters": 806,
+            "ballotsCast": 488,
+            "voterTurnout": 60.55,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Oxford",
+            "totalVoters": 2464,
+            "ballotsCast": 422,
+            "voterTurnout": 17.13,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Rocky Plains",
+            "totalVoters": 3724,
+            "ballotsCast": 1634,
+            "voterTurnout": 43.88,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Buck Creek",
+            "totalVoters": 4912,
+            "ballotsCast": 1197,
+            "voterTurnout": 24.37,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Stansells",
+            "totalVoters": 5076,
+            "ballotsCast": 1278,
+            "voterTurnout": 25.18,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Fairview",
+            "totalVoters": 3008,
+            "ballotsCast": 671,
+            "voterTurnout": 22.31,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Crowell",
+            "totalVoters": 5092,
+            "ballotsCast": 2000,
+            "voterTurnout": 39.28,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Hub",
+            "totalVoters": 2391,
+            "ballotsCast": 1493,
+            "voterTurnout": 62.44,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 22,
+        "precinctsReported": 8,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 27,
+            "Precinct": [
+              {
+                "name": "City Pond",
+                "votes": 1
+              },
+              {
+                "name": "Town",
+                "votes": 4
+              },
+              {
+                "name": "Almon",
+                "votes": 2
+              },
+              {
+                "name": "Alcovy",
+                "votes": 1
+              },
+              {
+                "name": "Covington Mills",
+                "votes": 1
+              },
+              {
+                "name": "Brewers",
+                "votes": 2
+              },
+              {
+                "name": "Brick Store",
+                "votes": 0
+              },
+              {
+                "name": "Cedar Shoals",
+                "votes": 1
+              },
+              {
+                "name": "Livingston",
+                "votes": 1
+              },
+              {
+                "name": "Downs",
+                "votes": 1
+              },
+              {
+                "name": "Gum Creek",
+                "votes": 0
+              },
+              {
+                "name": "Beaverdam",
+                "votes": 2
+              },
+              {
+                "name": "Leguinn",
+                "votes": 1
+              },
+              {
+                "name": "Mansfield",
+                "votes": 2
+              },
+              {
+                "name": "Newborn",
+                "votes": 2
+              },
+              {
+                "name": "Oxford",
+                "votes": 1
+              },
+              {
+                "name": "Rocky Plains",
+                "votes": 0
+              },
+              {
+                "name": "Buck Creek",
+                "votes": 0
+              },
+              {
+                "name": "Stansells",
+                "votes": 0
+              },
+              {
+                "name": "Fairview",
+                "votes": 3
+              },
+              {
+                "name": "Crowell",
+                "votes": 0
+              },
+              {
+                "name": "Hub",
+                "votes": 2
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "City Pond",
+                "votes": 0
+              },
+              {
+                "name": "Town",
+                "votes": 0
+              },
+              {
+                "name": "Almon",
+                "votes": 0
+              },
+              {
+                "name": "Alcovy",
+                "votes": 0
+              },
+              {
+                "name": "Covington Mills",
+                "votes": 0
+              },
+              {
+                "name": "Brewers",
+                "votes": 0
+              },
+              {
+                "name": "Brick Store",
+                "votes": 0
+              },
+              {
+                "name": "Cedar Shoals",
+                "votes": 0
+              },
+              {
+                "name": "Livingston",
+                "votes": 0
+              },
+              {
+                "name": "Downs",
+                "votes": 0
+              },
+              {
+                "name": "Gum Creek",
+                "votes": 0
+              },
+              {
+                "name": "Beaverdam",
+                "votes": 0
+              },
+              {
+                "name": "Leguinn",
+                "votes": 0
+              },
+              {
+                "name": "Mansfield",
+                "votes": 0
+              },
+              {
+                "name": "Newborn",
+                "votes": 0
+              },
+              {
+                "name": "Oxford",
+                "votes": 0
+              },
+              {
+                "name": "Rocky Plains",
+                "votes": 0
+              },
+              {
+                "name": "Buck Creek",
+                "votes": 0
+              },
+              {
+                "name": "Stansells",
+                "votes": 0
+              },
+              {
+                "name": "Fairview",
+                "votes": 0
+              },
+              {
+                "name": "Crowell",
+                "votes": 0
+              },
+              {
+                "name": "Hub",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 11650,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 4260,
+                "Precinct": [
+                  {
+                    "name": "City Pond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Almon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alcovy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Covington Mills",
+                    "votes": 324
+                  },
+                  {
+                    "name": "Brewers",
+                    "votes": 985
+                  },
+                  {
+                    "name": "Brick Store",
+                    "votes": 527
+                  },
+                  {
+                    "name": "Cedar Shoals",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Livingston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Downs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beaverdam",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leguinn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mansfield",
+                    "votes": 631
+                  },
+                  {
+                    "name": "Newborn",
+                    "votes": 342
+                  },
+                  {
+                    "name": "Oxford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rocky Plains",
+                    "votes": 563
+                  },
+                  {
+                    "name": "Buck Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stansells",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crowell",
+                    "votes": 126
+                  },
+                  {
+                    "name": "Hub",
+                    "votes": 762
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 7390,
+                "Precinct": [
+                  {
+                    "name": "City Pond",
+                    "votes": 124
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 218
+                  },
+                  {
+                    "name": "Almon",
+                    "votes": 210
+                  },
+                  {
+                    "name": "Alcovy",
+                    "votes": 647
+                  },
+                  {
+                    "name": "Covington Mills",
+                    "votes": 304
+                  },
+                  {
+                    "name": "Brewers",
+                    "votes": 428
+                  },
+                  {
+                    "name": "Brick Store",
+                    "votes": 566
+                  },
+                  {
+                    "name": "Cedar Shoals",
+                    "votes": 183
+                  },
+                  {
+                    "name": "Livingston",
+                    "votes": 253
+                  },
+                  {
+                    "name": "Downs",
+                    "votes": 722
+                  },
+                  {
+                    "name": "Gum Creek",
+                    "votes": 770
+                  },
+                  {
+                    "name": "Beaverdam",
+                    "votes": 231
+                  },
+                  {
+                    "name": "Leguinn",
+                    "votes": 309
+                  },
+                  {
+                    "name": "Mansfield",
+                    "votes": 227
+                  },
+                  {
+                    "name": "Newborn",
+                    "votes": 81
+                  },
+                  {
+                    "name": "Oxford",
+                    "votes": 294
+                  },
+                  {
+                    "name": "Rocky Plains",
+                    "votes": 384
+                  },
+                  {
+                    "name": "Buck Creek",
+                    "votes": 503
+                  },
+                  {
+                    "name": "Stansells",
+                    "votes": 246
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 69
+                  },
+                  {
+                    "name": "Crowell",
+                    "votes": 103
+                  },
+                  {
+                    "name": "Hub",
+                    "votes": 518
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "City Pond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Almon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alcovy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Covington Mills",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brewers",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brick Store",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cedar Shoals",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Livingston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Downs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beaverdam",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leguinn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mansfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Newborn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oxford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rocky Plains",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buck Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stansells",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crowell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hub",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "City Pond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Almon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alcovy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Covington Mills",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brewers",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brick Store",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cedar Shoals",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Livingston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Downs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beaverdam",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leguinn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mansfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Newborn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oxford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rocky Plains",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buck Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stansells",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crowell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hub",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 13234,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1611,
+                "Precinct": [
+                  {
+                    "name": "City Pond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Almon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alcovy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Covington Mills",
+                    "votes": 261
+                  },
+                  {
+                    "name": "Brewers",
+                    "votes": 188
+                  },
+                  {
+                    "name": "Brick Store",
+                    "votes": 108
+                  },
+                  {
+                    "name": "Cedar Shoals",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Livingston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Downs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beaverdam",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leguinn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mansfield",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Newborn",
+                    "votes": 44
+                  },
+                  {
+                    "name": "Oxford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rocky Plains",
+                    "votes": 286
+                  },
+                  {
+                    "name": "Buck Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stansells",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crowell",
+                    "votes": 599
+                  },
+                  {
+                    "name": "Hub",
+                    "votes": 90
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 11623,
+                "Precinct": [
+                  {
+                    "name": "City Pond",
+                    "votes": 170
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 637
+                  },
+                  {
+                    "name": "Almon",
+                    "votes": 1162
+                  },
+                  {
+                    "name": "Alcovy",
+                    "votes": 718
+                  },
+                  {
+                    "name": "Covington Mills",
+                    "votes": 421
+                  },
+                  {
+                    "name": "Brewers",
+                    "votes": 204
+                  },
+                  {
+                    "name": "Brick Store",
+                    "votes": 211
+                  },
+                  {
+                    "name": "Cedar Shoals",
+                    "votes": 317
+                  },
+                  {
+                    "name": "Livingston",
+                    "votes": 861
+                  },
+                  {
+                    "name": "Downs",
+                    "votes": 978
+                  },
+                  {
+                    "name": "Gum Creek",
+                    "votes": 392
+                  },
+                  {
+                    "name": "Beaverdam",
+                    "votes": 1235
+                  },
+                  {
+                    "name": "Leguinn",
+                    "votes": 118
+                  },
+                  {
+                    "name": "Mansfield",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Newborn",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Oxford",
+                    "votes": 127
+                  },
+                  {
+                    "name": "Rocky Plains",
+                    "votes": 401
+                  },
+                  {
+                    "name": "Buck Creek",
+                    "votes": 694
+                  },
+                  {
+                    "name": "Stansells",
+                    "votes": 1032
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 599
+                  },
+                  {
+                    "name": "Crowell",
+                    "votes": 1172
+                  },
+                  {
+                    "name": "Hub",
+                    "votes": 121
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "City Pond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Almon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alcovy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Covington Mills",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brewers",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brick Store",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cedar Shoals",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Livingston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Downs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beaverdam",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leguinn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mansfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Newborn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oxford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rocky Plains",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buck Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stansells",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crowell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hub",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "City Pond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Almon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alcovy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Covington Mills",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brewers",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brick Store",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cedar Shoals",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Livingston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Downs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beaverdam",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leguinn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mansfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Newborn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oxford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rocky Plains",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buck Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stansells",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crowell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hub",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 22,
+        "precinctsReported": 8,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 16,
+            "Precinct": [
+              {
+                "name": "City Pond",
+                "votes": 1
+              },
+              {
+                "name": "Town",
+                "votes": 2
+              },
+              {
+                "name": "Almon",
+                "votes": 2
+              },
+              {
+                "name": "Alcovy",
+                "votes": 0
+              },
+              {
+                "name": "Covington Mills",
+                "votes": 0
+              },
+              {
+                "name": "Brewers",
+                "votes": 1
+              },
+              {
+                "name": "Brick Store",
+                "votes": 0
+              },
+              {
+                "name": "Cedar Shoals",
+                "votes": 0
+              },
+              {
+                "name": "Livingston",
+                "votes": 1
+              },
+              {
+                "name": "Downs",
+                "votes": 0
+              },
+              {
+                "name": "Gum Creek",
+                "votes": 0
+              },
+              {
+                "name": "Beaverdam",
+                "votes": 1
+              },
+              {
+                "name": "Leguinn",
+                "votes": 1
+              },
+              {
+                "name": "Mansfield",
+                "votes": 0
+              },
+              {
+                "name": "Newborn",
+                "votes": 1
+              },
+              {
+                "name": "Oxford",
+                "votes": 0
+              },
+              {
+                "name": "Rocky Plains",
+                "votes": 0
+              },
+              {
+                "name": "Buck Creek",
+                "votes": 1
+              },
+              {
+                "name": "Stansells",
+                "votes": 2
+              },
+              {
+                "name": "Fairview",
+                "votes": 1
+              },
+              {
+                "name": "Crowell",
+                "votes": 1
+              },
+              {
+                "name": "Hub",
+                "votes": 1
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "City Pond",
+                "votes": 0
+              },
+              {
+                "name": "Town",
+                "votes": 0
+              },
+              {
+                "name": "Almon",
+                "votes": 0
+              },
+              {
+                "name": "Alcovy",
+                "votes": 0
+              },
+              {
+                "name": "Covington Mills",
+                "votes": 0
+              },
+              {
+                "name": "Brewers",
+                "votes": 0
+              },
+              {
+                "name": "Brick Store",
+                "votes": 0
+              },
+              {
+                "name": "Cedar Shoals",
+                "votes": 0
+              },
+              {
+                "name": "Livingston",
+                "votes": 0
+              },
+              {
+                "name": "Downs",
+                "votes": 0
+              },
+              {
+                "name": "Gum Creek",
+                "votes": 0
+              },
+              {
+                "name": "Beaverdam",
+                "votes": 0
+              },
+              {
+                "name": "Leguinn",
+                "votes": 0
+              },
+              {
+                "name": "Mansfield",
+                "votes": 0
+              },
+              {
+                "name": "Newborn",
+                "votes": 0
+              },
+              {
+                "name": "Oxford",
+                "votes": 0
+              },
+              {
+                "name": "Rocky Plains",
+                "votes": 0
+              },
+              {
+                "name": "Buck Creek",
+                "votes": 0
+              },
+              {
+                "name": "Stansells",
+                "votes": 0
+              },
+              {
+                "name": "Fairview",
+                "votes": 0
+              },
+              {
+                "name": "Crowell",
+                "votes": 0
+              },
+              {
+                "name": "Hub",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 11592,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 4243,
+                "Precinct": [
+                  {
+                    "name": "City Pond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Almon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alcovy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Covington Mills",
+                    "votes": 319
+                  },
+                  {
+                    "name": "Brewers",
+                    "votes": 984
+                  },
+                  {
+                    "name": "Brick Store",
+                    "votes": 523
+                  },
+                  {
+                    "name": "Cedar Shoals",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Livingston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Downs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beaverdam",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leguinn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mansfield",
+                    "votes": 627
+                  },
+                  {
+                    "name": "Newborn",
+                    "votes": 344
+                  },
+                  {
+                    "name": "Oxford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rocky Plains",
+                    "votes": 561
+                  },
+                  {
+                    "name": "Buck Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stansells",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crowell",
+                    "votes": 123
+                  },
+                  {
+                    "name": "Hub",
+                    "votes": 762
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 7349,
+                "Precinct": [
+                  {
+                    "name": "City Pond",
+                    "votes": 125
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 216
+                  },
+                  {
+                    "name": "Almon",
+                    "votes": 208
+                  },
+                  {
+                    "name": "Alcovy",
+                    "votes": 644
+                  },
+                  {
+                    "name": "Covington Mills",
+                    "votes": 304
+                  },
+                  {
+                    "name": "Brewers",
+                    "votes": 424
+                  },
+                  {
+                    "name": "Brick Store",
+                    "votes": 563
+                  },
+                  {
+                    "name": "Cedar Shoals",
+                    "votes": 180
+                  },
+                  {
+                    "name": "Livingston",
+                    "votes": 250
+                  },
+                  {
+                    "name": "Downs",
+                    "votes": 721
+                  },
+                  {
+                    "name": "Gum Creek",
+                    "votes": 766
+                  },
+                  {
+                    "name": "Beaverdam",
+                    "votes": 225
+                  },
+                  {
+                    "name": "Leguinn",
+                    "votes": 307
+                  },
+                  {
+                    "name": "Mansfield",
+                    "votes": 226
+                  },
+                  {
+                    "name": "Newborn",
+                    "votes": 81
+                  },
+                  {
+                    "name": "Oxford",
+                    "votes": 292
+                  },
+                  {
+                    "name": "Rocky Plains",
+                    "votes": 385
+                  },
+                  {
+                    "name": "Buck Creek",
+                    "votes": 503
+                  },
+                  {
+                    "name": "Stansells",
+                    "votes": 245
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 65
+                  },
+                  {
+                    "name": "Crowell",
+                    "votes": 102
+                  },
+                  {
+                    "name": "Hub",
+                    "votes": 517
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "City Pond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Almon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alcovy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Covington Mills",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brewers",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brick Store",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cedar Shoals",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Livingston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Downs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beaverdam",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leguinn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mansfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Newborn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oxford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rocky Plains",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buck Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stansells",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crowell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hub",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "City Pond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Almon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alcovy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Covington Mills",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brewers",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brick Store",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cedar Shoals",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Livingston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Downs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beaverdam",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leguinn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mansfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Newborn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oxford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rocky Plains",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buck Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stansells",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crowell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hub",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 13303,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1632,
+                "Precinct": [
+                  {
+                    "name": "City Pond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Almon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alcovy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Covington Mills",
+                    "votes": 267
+                  },
+                  {
+                    "name": "Brewers",
+                    "votes": 189
+                  },
+                  {
+                    "name": "Brick Store",
+                    "votes": 112
+                  },
+                  {
+                    "name": "Cedar Shoals",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Livingston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Downs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beaverdam",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leguinn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mansfield",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Newborn",
+                    "votes": 43
+                  },
+                  {
+                    "name": "Oxford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rocky Plains",
+                    "votes": 288
+                  },
+                  {
+                    "name": "Buck Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stansells",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crowell",
+                    "votes": 602
+                  },
+                  {
+                    "name": "Hub",
+                    "votes": 90
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 11671,
+                "Precinct": [
+                  {
+                    "name": "City Pond",
+                    "votes": 169
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 641
+                  },
+                  {
+                    "name": "Almon",
+                    "votes": 1164
+                  },
+                  {
+                    "name": "Alcovy",
+                    "votes": 722
+                  },
+                  {
+                    "name": "Covington Mills",
+                    "votes": 421
+                  },
+                  {
+                    "name": "Brewers",
+                    "votes": 209
+                  },
+                  {
+                    "name": "Brick Store",
+                    "votes": 214
+                  },
+                  {
+                    "name": "Cedar Shoals",
+                    "votes": 321
+                  },
+                  {
+                    "name": "Livingston",
+                    "votes": 864
+                  },
+                  {
+                    "name": "Downs",
+                    "votes": 980
+                  },
+                  {
+                    "name": "Gum Creek",
+                    "votes": 396
+                  },
+                  {
+                    "name": "Beaverdam",
+                    "votes": 1242
+                  },
+                  {
+                    "name": "Leguinn",
+                    "votes": 120
+                  },
+                  {
+                    "name": "Mansfield",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Newborn",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Oxford",
+                    "votes": 130
+                  },
+                  {
+                    "name": "Rocky Plains",
+                    "votes": 400
+                  },
+                  {
+                    "name": "Buck Creek",
+                    "votes": 693
+                  },
+                  {
+                    "name": "Stansells",
+                    "votes": 1031
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 605
+                  },
+                  {
+                    "name": "Crowell",
+                    "votes": 1172
+                  },
+                  {
+                    "name": "Hub",
+                    "votes": 123
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "City Pond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Almon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alcovy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Covington Mills",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brewers",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brick Store",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cedar Shoals",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Livingston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Downs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beaverdam",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leguinn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mansfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Newborn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oxford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rocky Plains",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buck Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stansells",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crowell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hub",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "City Pond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Almon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alcovy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Covington Mills",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brewers",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brick Store",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cedar Shoals",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Livingston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Downs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beaverdam",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leguinn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mansfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Newborn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oxford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rocky Plains",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buck Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stansells",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crowell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hub",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 22,
+        "precinctsReported": 8,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 169,
+            "Precinct": [
+              {
+                "name": "City Pond",
+                "votes": 9
+              },
+              {
+                "name": "Town",
+                "votes": 6
+              },
+              {
+                "name": "Almon",
+                "votes": 8
+              },
+              {
+                "name": "Alcovy",
+                "votes": 8
+              },
+              {
+                "name": "Covington Mills",
+                "votes": 12
+              },
+              {
+                "name": "Brewers",
+                "votes": 14
+              },
+              {
+                "name": "Brick Store",
+                "votes": 16
+              },
+              {
+                "name": "Cedar Shoals",
+                "votes": 6
+              },
+              {
+                "name": "Livingston",
+                "votes": 6
+              },
+              {
+                "name": "Downs",
+                "votes": 11
+              },
+              {
+                "name": "Gum Creek",
+                "votes": 5
+              },
+              {
+                "name": "Beaverdam",
+                "votes": 8
+              },
+              {
+                "name": "Leguinn",
+                "votes": 5
+              },
+              {
+                "name": "Mansfield",
+                "votes": 2
+              },
+              {
+                "name": "Newborn",
+                "votes": 3
+              },
+              {
+                "name": "Oxford",
+                "votes": 2
+              },
+              {
+                "name": "Rocky Plains",
+                "votes": 5
+              },
+              {
+                "name": "Buck Creek",
+                "votes": 12
+              },
+              {
+                "name": "Stansells",
+                "votes": 6
+              },
+              {
+                "name": "Fairview",
+                "votes": 4
+              },
+              {
+                "name": "Crowell",
+                "votes": 11
+              },
+              {
+                "name": "Hub",
+                "votes": 10
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "City Pond",
+                "votes": 0
+              },
+              {
+                "name": "Town",
+                "votes": 0
+              },
+              {
+                "name": "Almon",
+                "votes": 0
+              },
+              {
+                "name": "Alcovy",
+                "votes": 0
+              },
+              {
+                "name": "Covington Mills",
+                "votes": 0
+              },
+              {
+                "name": "Brewers",
+                "votes": 0
+              },
+              {
+                "name": "Brick Store",
+                "votes": 0
+              },
+              {
+                "name": "Cedar Shoals",
+                "votes": 0
+              },
+              {
+                "name": "Livingston",
+                "votes": 0
+              },
+              {
+                "name": "Downs",
+                "votes": 0
+              },
+              {
+                "name": "Gum Creek",
+                "votes": 0
+              },
+              {
+                "name": "Beaverdam",
+                "votes": 0
+              },
+              {
+                "name": "Leguinn",
+                "votes": 0
+              },
+              {
+                "name": "Mansfield",
+                "votes": 0
+              },
+              {
+                "name": "Newborn",
+                "votes": 0
+              },
+              {
+                "name": "Oxford",
+                "votes": 0
+              },
+              {
+                "name": "Rocky Plains",
+                "votes": 0
+              },
+              {
+                "name": "Buck Creek",
+                "votes": 0
+              },
+              {
+                "name": "Stansells",
+                "votes": 0
+              },
+              {
+                "name": "Fairview",
+                "votes": 0
+              },
+              {
+                "name": "Crowell",
+                "votes": 0
+              },
+              {
+                "name": "Hub",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 11714,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 4269,
+                "Precinct": [
+                  {
+                    "name": "City Pond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Almon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alcovy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Covington Mills",
+                    "votes": 325
+                  },
+                  {
+                    "name": "Brewers",
+                    "votes": 980
+                  },
+                  {
+                    "name": "Brick Store",
+                    "votes": 524
+                  },
+                  {
+                    "name": "Cedar Shoals",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Livingston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Downs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beaverdam",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leguinn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mansfield",
+                    "votes": 632
+                  },
+                  {
+                    "name": "Newborn",
+                    "votes": 348
+                  },
+                  {
+                    "name": "Oxford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rocky Plains",
+                    "votes": 564
+                  },
+                  {
+                    "name": "Buck Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stansells",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crowell",
+                    "votes": 130
+                  },
+                  {
+                    "name": "Hub",
+                    "votes": 766
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 7445,
+                "Precinct": [
+                  {
+                    "name": "City Pond",
+                    "votes": 127
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 225
+                  },
+                  {
+                    "name": "Almon",
+                    "votes": 221
+                  },
+                  {
+                    "name": "Alcovy",
+                    "votes": 659
+                  },
+                  {
+                    "name": "Covington Mills",
+                    "votes": 316
+                  },
+                  {
+                    "name": "Brewers",
+                    "votes": 425
+                  },
+                  {
+                    "name": "Brick Store",
+                    "votes": 562
+                  },
+                  {
+                    "name": "Cedar Shoals",
+                    "votes": 187
+                  },
+                  {
+                    "name": "Livingston",
+                    "votes": 254
+                  },
+                  {
+                    "name": "Downs",
+                    "votes": 717
+                  },
+                  {
+                    "name": "Gum Creek",
+                    "votes": 775
+                  },
+                  {
+                    "name": "Beaverdam",
+                    "votes": 238
+                  },
+                  {
+                    "name": "Leguinn",
+                    "votes": 305
+                  },
+                  {
+                    "name": "Mansfield",
+                    "votes": 226
+                  },
+                  {
+                    "name": "Newborn",
+                    "votes": 81
+                  },
+                  {
+                    "name": "Oxford",
+                    "votes": 289
+                  },
+                  {
+                    "name": "Rocky Plains",
+                    "votes": 390
+                  },
+                  {
+                    "name": "Buck Creek",
+                    "votes": 503
+                  },
+                  {
+                    "name": "Stansells",
+                    "votes": 246
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Crowell",
+                    "votes": 108
+                  },
+                  {
+                    "name": "Hub",
+                    "votes": 520
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "City Pond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Almon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alcovy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Covington Mills",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brewers",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brick Store",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cedar Shoals",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Livingston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Downs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beaverdam",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leguinn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mansfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Newborn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oxford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rocky Plains",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buck Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stansells",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crowell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hub",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "City Pond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Almon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alcovy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Covington Mills",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brewers",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brick Store",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cedar Shoals",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Livingston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Downs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beaverdam",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leguinn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mansfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Newborn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oxford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rocky Plains",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buck Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stansells",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crowell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hub",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 13028,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1576,
+                "Precinct": [
+                  {
+                    "name": "City Pond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Almon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alcovy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Covington Mills",
+                    "votes": 257
+                  },
+                  {
+                    "name": "Brewers",
+                    "votes": 186
+                  },
+                  {
+                    "name": "Brick Store",
+                    "votes": 105
+                  },
+                  {
+                    "name": "Cedar Shoals",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Livingston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Downs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beaverdam",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leguinn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mansfield",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Newborn",
+                    "votes": 38
+                  },
+                  {
+                    "name": "Oxford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rocky Plains",
+                    "votes": 283
+                  },
+                  {
+                    "name": "Buck Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stansells",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crowell",
+                    "votes": 592
+                  },
+                  {
+                    "name": "Hub",
+                    "votes": 80
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 11452,
+                "Precinct": [
+                  {
+                    "name": "City Pond",
+                    "votes": 159
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 628
+                  },
+                  {
+                    "name": "Almon",
+                    "votes": 1145
+                  },
+                  {
+                    "name": "Alcovy",
+                    "votes": 699
+                  },
+                  {
+                    "name": "Covington Mills",
+                    "votes": 401
+                  },
+                  {
+                    "name": "Brewers",
+                    "votes": 202
+                  },
+                  {
+                    "name": "Brick Store",
+                    "votes": 205
+                  },
+                  {
+                    "name": "Cedar Shoals",
+                    "votes": 308
+                  },
+                  {
+                    "name": "Livingston",
+                    "votes": 855
+                  },
+                  {
+                    "name": "Downs",
+                    "votes": 973
+                  },
+                  {
+                    "name": "Gum Creek",
+                    "votes": 382
+                  },
+                  {
+                    "name": "Beaverdam",
+                    "votes": 1222
+                  },
+                  {
+                    "name": "Leguinn",
+                    "votes": 118
+                  },
+                  {
+                    "name": "Mansfield",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Newborn",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Oxford",
+                    "votes": 131
+                  },
+                  {
+                    "name": "Rocky Plains",
+                    "votes": 392
+                  },
+                  {
+                    "name": "Buck Creek",
+                    "votes": 682
+                  },
+                  {
+                    "name": "Stansells",
+                    "votes": 1026
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 596
+                  },
+                  {
+                    "name": "Crowell",
+                    "votes": 1159
+                  },
+                  {
+                    "name": "Hub",
+                    "votes": 117
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "City Pond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Almon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alcovy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Covington Mills",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brewers",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brick Store",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cedar Shoals",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Livingston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Downs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beaverdam",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leguinn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mansfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Newborn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oxford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rocky Plains",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buck Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stansells",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crowell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hub",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "City Pond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Almon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alcovy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Covington Mills",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brewers",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brick Store",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cedar Shoals",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Livingston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Downs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beaverdam",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leguinn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mansfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Newborn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oxford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rocky Plains",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buck Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stansells",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairview",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crowell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hub",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

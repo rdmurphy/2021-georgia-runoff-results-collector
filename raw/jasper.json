@@ -1,0 +1,658 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:54:39 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Jasper",
+    "VoterTurnout": {
+      "totalVoters": 10582,
+      "ballotsCast": 6802,
+      "voterTurnout": 64.28,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Wyatt",
+            "totalVoters": 1978,
+            "ballotsCast": 1202,
+            "voterTurnout": 60.77,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Monticello",
+            "totalVoters": 4590,
+            "ballotsCast": 3072,
+            "voterTurnout": 66.93,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Martin-Burney",
+            "totalVoters": 4014,
+            "ballotsCast": 2528,
+            "voterTurnout": 62.98,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 3,
+        "precinctsReported": 3,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 16,
+            "Precinct": [
+              {
+                "name": "Wyatt",
+                "votes": 1
+              },
+              {
+                "name": "Monticello",
+                "votes": 12
+              },
+              {
+                "name": "Martin-Burney",
+                "votes": 3
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Wyatt",
+                "votes": 0
+              },
+              {
+                "name": "Monticello",
+                "votes": 0
+              },
+              {
+                "name": "Martin-Burney",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 5136,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1910,
+                "Precinct": [
+                  {
+                    "name": "Wyatt",
+                    "votes": 476
+                  },
+                  {
+                    "name": "Monticello",
+                    "votes": 454
+                  },
+                  {
+                    "name": "Martin-Burney",
+                    "votes": 980
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2612,
+                "Precinct": [
+                  {
+                    "name": "Wyatt",
+                    "votes": 380
+                  },
+                  {
+                    "name": "Monticello",
+                    "votes": 1210
+                  },
+                  {
+                    "name": "Martin-Burney",
+                    "votes": 1022
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 614,
+                "Precinct": [
+                  {
+                    "name": "Wyatt",
+                    "votes": 86
+                  },
+                  {
+                    "name": "Monticello",
+                    "votes": 283
+                  },
+                  {
+                    "name": "Martin-Burney",
+                    "votes": 245
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Wyatt",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monticello",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martin-Burney",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 1650,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 355,
+                "Precinct": [
+                  {
+                    "name": "Wyatt",
+                    "votes": 77
+                  },
+                  {
+                    "name": "Monticello",
+                    "votes": 220
+                  },
+                  {
+                    "name": "Martin-Burney",
+                    "votes": 58
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 677,
+                "Precinct": [
+                  {
+                    "name": "Wyatt",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Monticello",
+                    "votes": 499
+                  },
+                  {
+                    "name": "Martin-Burney",
+                    "votes": 111
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 618,
+                "Precinct": [
+                  {
+                    "name": "Wyatt",
+                    "votes": 115
+                  },
+                  {
+                    "name": "Monticello",
+                    "votes": 394
+                  },
+                  {
+                    "name": "Martin-Burney",
+                    "votes": 109
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Wyatt",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monticello",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martin-Burney",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 3,
+        "precinctsReported": 3,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 13,
+            "Precinct": [
+              {
+                "name": "Wyatt",
+                "votes": 2
+              },
+              {
+                "name": "Monticello",
+                "votes": 8
+              },
+              {
+                "name": "Martin-Burney",
+                "votes": 3
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Wyatt",
+                "votes": 0
+              },
+              {
+                "name": "Monticello",
+                "votes": 0
+              },
+              {
+                "name": "Martin-Burney",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 5109,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1903,
+                "Precinct": [
+                  {
+                    "name": "Wyatt",
+                    "votes": 474
+                  },
+                  {
+                    "name": "Monticello",
+                    "votes": 453
+                  },
+                  {
+                    "name": "Martin-Burney",
+                    "votes": 976
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2599,
+                "Precinct": [
+                  {
+                    "name": "Wyatt",
+                    "votes": 378
+                  },
+                  {
+                    "name": "Monticello",
+                    "votes": 1203
+                  },
+                  {
+                    "name": "Martin-Burney",
+                    "votes": 1018
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 607,
+                "Precinct": [
+                  {
+                    "name": "Wyatt",
+                    "votes": 86
+                  },
+                  {
+                    "name": "Monticello",
+                    "votes": 281
+                  },
+                  {
+                    "name": "Martin-Burney",
+                    "votes": 240
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Wyatt",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monticello",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martin-Burney",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 1680,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 364,
+                "Precinct": [
+                  {
+                    "name": "Wyatt",
+                    "votes": 80
+                  },
+                  {
+                    "name": "Monticello",
+                    "votes": 222
+                  },
+                  {
+                    "name": "Martin-Burney",
+                    "votes": 62
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 688,
+                "Precinct": [
+                  {
+                    "name": "Wyatt",
+                    "votes": 68
+                  },
+                  {
+                    "name": "Monticello",
+                    "votes": 504
+                  },
+                  {
+                    "name": "Martin-Burney",
+                    "votes": 116
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 628,
+                "Precinct": [
+                  {
+                    "name": "Wyatt",
+                    "votes": 114
+                  },
+                  {
+                    "name": "Monticello",
+                    "votes": 401
+                  },
+                  {
+                    "name": "Martin-Burney",
+                    "votes": 113
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Wyatt",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monticello",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martin-Burney",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 3,
+        "precinctsReported": 3,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 76,
+            "Precinct": [
+              {
+                "name": "Wyatt",
+                "votes": 12
+              },
+              {
+                "name": "Monticello",
+                "votes": 44
+              },
+              {
+                "name": "Martin-Burney",
+                "votes": 20
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Wyatt",
+                "votes": 0
+              },
+              {
+                "name": "Monticello",
+                "votes": 0
+              },
+              {
+                "name": "Martin-Burney",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 5152,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1906,
+                "Precinct": [
+                  {
+                    "name": "Wyatt",
+                    "votes": 480
+                  },
+                  {
+                    "name": "Monticello",
+                    "votes": 452
+                  },
+                  {
+                    "name": "Martin-Burney",
+                    "votes": 974
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2623,
+                "Precinct": [
+                  {
+                    "name": "Wyatt",
+                    "votes": 376
+                  },
+                  {
+                    "name": "Monticello",
+                    "votes": 1220
+                  },
+                  {
+                    "name": "Martin-Burney",
+                    "votes": 1027
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 623,
+                "Precinct": [
+                  {
+                    "name": "Wyatt",
+                    "votes": 91
+                  },
+                  {
+                    "name": "Monticello",
+                    "votes": 285
+                  },
+                  {
+                    "name": "Martin-Burney",
+                    "votes": 247
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Wyatt",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monticello",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martin-Burney",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 1574,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 350,
+                "Precinct": [
+                  {
+                    "name": "Wyatt",
+                    "votes": 73
+                  },
+                  {
+                    "name": "Monticello",
+                    "votes": 219
+                  },
+                  {
+                    "name": "Martin-Burney",
+                    "votes": 58
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 636,
+                "Precinct": [
+                  {
+                    "name": "Wyatt",
+                    "votes": 61
+                  },
+                  {
+                    "name": "Monticello",
+                    "votes": 474
+                  },
+                  {
+                    "name": "Martin-Burney",
+                    "votes": 101
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 588,
+                "Precinct": [
+                  {
+                    "name": "Wyatt",
+                    "votes": 109
+                  },
+                  {
+                    "name": "Monticello",
+                    "votes": 378
+                  },
+                  {
+                    "name": "Martin-Burney",
+                    "votes": 101
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Wyatt",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Monticello",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martin-Burney",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

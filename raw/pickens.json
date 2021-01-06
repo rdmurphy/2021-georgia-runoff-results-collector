@@ -1,0 +1,1801 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:59:03 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Pickens",
+    "VoterTurnout": {
+      "totalVoters": 0,
+      "ballotsCast": 8594,
+      "voterTurnout": 0.0,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Yellow Creek",
+            "totalVoters": 0,
+            "ballotsCast": 1298,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Sharptop",
+            "totalVoters": 0,
+            "ballotsCast": 1076,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Appalachian",
+            "totalVoters": 0,
+            "ballotsCast": 1169,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Refuge",
+            "totalVoters": 0,
+            "ballotsCast": 735,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Hill",
+            "totalVoters": 0,
+            "ballotsCast": 1254,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Hinton",
+            "totalVoters": 0,
+            "ballotsCast": 113,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Jerusalem",
+            "totalVoters": 0,
+            "ballotsCast": 172,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Ludville",
+            "totalVoters": 0,
+            "ballotsCast": 89,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Nelson",
+            "totalVoters": 0,
+            "ballotsCast": 308,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Talking Rock",
+            "totalVoters": 0,
+            "ballotsCast": 464,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Jasper",
+            "totalVoters": 0,
+            "ballotsCast": 1213,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Tate",
+            "totalVoters": 0,
+            "ballotsCast": 703,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 12,
+        "precinctsReported": 3,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 13,
+            "Precinct": [
+              {
+                "name": "Yellow Creek",
+                "votes": 1
+              },
+              {
+                "name": "Sharptop",
+                "votes": 0
+              },
+              {
+                "name": "Appalachian",
+                "votes": 2
+              },
+              {
+                "name": "Refuge",
+                "votes": 5
+              },
+              {
+                "name": "Hill",
+                "votes": 1
+              },
+              {
+                "name": "Hinton",
+                "votes": 0
+              },
+              {
+                "name": "Jerusalem",
+                "votes": 0
+              },
+              {
+                "name": "Ludville",
+                "votes": 0
+              },
+              {
+                "name": "Nelson",
+                "votes": 1
+              },
+              {
+                "name": "Talking Rock",
+                "votes": 1
+              },
+              {
+                "name": "Jasper",
+                "votes": 2
+              },
+              {
+                "name": "Tate",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Yellow Creek",
+                "votes": 0
+              },
+              {
+                "name": "Sharptop",
+                "votes": 0
+              },
+              {
+                "name": "Appalachian",
+                "votes": 0
+              },
+              {
+                "name": "Refuge",
+                "votes": 0
+              },
+              {
+                "name": "Hill",
+                "votes": 0
+              },
+              {
+                "name": "Hinton",
+                "votes": 0
+              },
+              {
+                "name": "Jerusalem",
+                "votes": 0
+              },
+              {
+                "name": "Ludville",
+                "votes": 0
+              },
+              {
+                "name": "Nelson",
+                "votes": 0
+              },
+              {
+                "name": "Talking Rock",
+                "votes": 0
+              },
+              {
+                "name": "Jasper",
+                "votes": 0
+              },
+              {
+                "name": "Tate",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 6889,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1537,
+                "Precinct": [
+                  {
+                    "name": "Yellow Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sharptop",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Appalachian",
+                    "votes": 484
+                  },
+                  {
+                    "name": "Refuge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hill",
+                    "votes": 594
+                  },
+                  {
+                    "name": "Hinton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jerusalem",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ludville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nelson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Talking Rock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jasper",
+                    "votes": 459
+                  },
+                  {
+                    "name": "Tate",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 4258,
+                "Precinct": [
+                  {
+                    "name": "Yellow Creek",
+                    "votes": 782
+                  },
+                  {
+                    "name": "Sharptop",
+                    "votes": 587
+                  },
+                  {
+                    "name": "Appalachian",
+                    "votes": 411
+                  },
+                  {
+                    "name": "Refuge",
+                    "votes": 495
+                  },
+                  {
+                    "name": "Hill",
+                    "votes": 377
+                  },
+                  {
+                    "name": "Hinton",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Jerusalem",
+                    "votes": 108
+                  },
+                  {
+                    "name": "Ludville",
+                    "votes": 63
+                  },
+                  {
+                    "name": "Nelson",
+                    "votes": 172
+                  },
+                  {
+                    "name": "Talking Rock",
+                    "votes": 310
+                  },
+                  {
+                    "name": "Jasper",
+                    "votes": 390
+                  },
+                  {
+                    "name": "Tate",
+                    "votes": 496
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1094,
+                "Precinct": [
+                  {
+                    "name": "Yellow Creek",
+                    "votes": 190
+                  },
+                  {
+                    "name": "Sharptop",
+                    "votes": 199
+                  },
+                  {
+                    "name": "Appalachian",
+                    "votes": 86
+                  },
+                  {
+                    "name": "Refuge",
+                    "votes": 110
+                  },
+                  {
+                    "name": "Hill",
+                    "votes": 105
+                  },
+                  {
+                    "name": "Hinton",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Jerusalem",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Ludville",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Nelson",
+                    "votes": 59
+                  },
+                  {
+                    "name": "Talking Rock",
+                    "votes": 88
+                  },
+                  {
+                    "name": "Jasper",
+                    "votes": 101
+                  },
+                  {
+                    "name": "Tate",
+                    "votes": 96
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Yellow Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sharptop",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Appalachian",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Refuge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hill",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jerusalem",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ludville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nelson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Talking Rock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jasper",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tate",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 1692,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 228,
+                "Precinct": [
+                  {
+                    "name": "Yellow Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sharptop",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Appalachian",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Refuge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hill",
+                    "votes": 65
+                  },
+                  {
+                    "name": "Hinton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jerusalem",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ludville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nelson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Talking Rock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jasper",
+                    "votes": 99
+                  },
+                  {
+                    "name": "Tate",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 724,
+                "Precinct": [
+                  {
+                    "name": "Yellow Creek",
+                    "votes": 154
+                  },
+                  {
+                    "name": "Sharptop",
+                    "votes": 127
+                  },
+                  {
+                    "name": "Appalachian",
+                    "votes": 72
+                  },
+                  {
+                    "name": "Refuge",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Hill",
+                    "votes": 48
+                  },
+                  {
+                    "name": "Hinton",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Jerusalem",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Ludville",
+                    "votes": 7
+                  },
+                  {
+                    "name": "Nelson",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Talking Rock",
+                    "votes": 37
+                  },
+                  {
+                    "name": "Jasper",
+                    "votes": 91
+                  },
+                  {
+                    "name": "Tate",
+                    "votes": 64
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 740,
+                "Precinct": [
+                  {
+                    "name": "Yellow Creek",
+                    "votes": 171
+                  },
+                  {
+                    "name": "Sharptop",
+                    "votes": 163
+                  },
+                  {
+                    "name": "Appalachian",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Refuge",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Hill",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Hinton",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Jerusalem",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Ludville",
+                    "votes": 9
+                  },
+                  {
+                    "name": "Nelson",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Talking Rock",
+                    "votes": 28
+                  },
+                  {
+                    "name": "Jasper",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Tate",
+                    "votes": 47
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Yellow Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sharptop",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Appalachian",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Refuge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hill",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jerusalem",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ludville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nelson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Talking Rock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jasper",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tate",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 12,
+        "precinctsReported": 3,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 15,
+            "Precinct": [
+              {
+                "name": "Yellow Creek",
+                "votes": 5
+              },
+              {
+                "name": "Sharptop",
+                "votes": 3
+              },
+              {
+                "name": "Appalachian",
+                "votes": 1
+              },
+              {
+                "name": "Refuge",
+                "votes": 1
+              },
+              {
+                "name": "Hill",
+                "votes": 1
+              },
+              {
+                "name": "Hinton",
+                "votes": 0
+              },
+              {
+                "name": "Jerusalem",
+                "votes": 0
+              },
+              {
+                "name": "Ludville",
+                "votes": 0
+              },
+              {
+                "name": "Nelson",
+                "votes": 0
+              },
+              {
+                "name": "Talking Rock",
+                "votes": 0
+              },
+              {
+                "name": "Jasper",
+                "votes": 2
+              },
+              {
+                "name": "Tate",
+                "votes": 2
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Yellow Creek",
+                "votes": 0
+              },
+              {
+                "name": "Sharptop",
+                "votes": 0
+              },
+              {
+                "name": "Appalachian",
+                "votes": 0
+              },
+              {
+                "name": "Refuge",
+                "votes": 0
+              },
+              {
+                "name": "Hill",
+                "votes": 0
+              },
+              {
+                "name": "Hinton",
+                "votes": 0
+              },
+              {
+                "name": "Jerusalem",
+                "votes": 0
+              },
+              {
+                "name": "Ludville",
+                "votes": 0
+              },
+              {
+                "name": "Nelson",
+                "votes": 0
+              },
+              {
+                "name": "Talking Rock",
+                "votes": 0
+              },
+              {
+                "name": "Jasper",
+                "votes": 0
+              },
+              {
+                "name": "Tate",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 6845,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1536,
+                "Precinct": [
+                  {
+                    "name": "Yellow Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sharptop",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Appalachian",
+                    "votes": 485
+                  },
+                  {
+                    "name": "Refuge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hill",
+                    "votes": 589
+                  },
+                  {
+                    "name": "Hinton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jerusalem",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ludville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nelson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Talking Rock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jasper",
+                    "votes": 462
+                  },
+                  {
+                    "name": "Tate",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 4232,
+                "Precinct": [
+                  {
+                    "name": "Yellow Creek",
+                    "votes": 771
+                  },
+                  {
+                    "name": "Sharptop",
+                    "votes": 580
+                  },
+                  {
+                    "name": "Appalachian",
+                    "votes": 412
+                  },
+                  {
+                    "name": "Refuge",
+                    "votes": 495
+                  },
+                  {
+                    "name": "Hill",
+                    "votes": 374
+                  },
+                  {
+                    "name": "Hinton",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Jerusalem",
+                    "votes": 108
+                  },
+                  {
+                    "name": "Ludville",
+                    "votes": 63
+                  },
+                  {
+                    "name": "Nelson",
+                    "votes": 172
+                  },
+                  {
+                    "name": "Talking Rock",
+                    "votes": 309
+                  },
+                  {
+                    "name": "Jasper",
+                    "votes": 387
+                  },
+                  {
+                    "name": "Tate",
+                    "votes": 494
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1077,
+                "Precinct": [
+                  {
+                    "name": "Yellow Creek",
+                    "votes": 185
+                  },
+                  {
+                    "name": "Sharptop",
+                    "votes": 197
+                  },
+                  {
+                    "name": "Appalachian",
+                    "votes": 85
+                  },
+                  {
+                    "name": "Refuge",
+                    "votes": 109
+                  },
+                  {
+                    "name": "Hill",
+                    "votes": 105
+                  },
+                  {
+                    "name": "Hinton",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Jerusalem",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Ludville",
+                    "votes": 8
+                  },
+                  {
+                    "name": "Nelson",
+                    "votes": 59
+                  },
+                  {
+                    "name": "Talking Rock",
+                    "votes": 87
+                  },
+                  {
+                    "name": "Jasper",
+                    "votes": 100
+                  },
+                  {
+                    "name": "Tate",
+                    "votes": 94
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Yellow Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sharptop",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Appalachian",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Refuge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hill",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jerusalem",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ludville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nelson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Talking Rock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jasper",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tate",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 1734,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 230,
+                "Precinct": [
+                  {
+                    "name": "Yellow Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sharptop",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Appalachian",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Refuge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hill",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Hinton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jerusalem",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ludville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nelson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Talking Rock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jasper",
+                    "votes": 97
+                  },
+                  {
+                    "name": "Tate",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 749,
+                "Precinct": [
+                  {
+                    "name": "Yellow Creek",
+                    "votes": 161
+                  },
+                  {
+                    "name": "Sharptop",
+                    "votes": 131
+                  },
+                  {
+                    "name": "Appalachian",
+                    "votes": 73
+                  },
+                  {
+                    "name": "Refuge",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Hill",
+                    "votes": 51
+                  },
+                  {
+                    "name": "Hinton",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Jerusalem",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Ludville",
+                    "votes": 7
+                  },
+                  {
+                    "name": "Nelson",
+                    "votes": 37
+                  },
+                  {
+                    "name": "Talking Rock",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Jasper",
+                    "votes": 94
+                  },
+                  {
+                    "name": "Tate",
+                    "votes": 64
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 755,
+                "Precinct": [
+                  {
+                    "name": "Yellow Creek",
+                    "votes": 176
+                  },
+                  {
+                    "name": "Sharptop",
+                    "votes": 165
+                  },
+                  {
+                    "name": "Appalachian",
+                    "votes": 51
+                  },
+                  {
+                    "name": "Refuge",
+                    "votes": 59
+                  },
+                  {
+                    "name": "Hill",
+                    "votes": 63
+                  },
+                  {
+                    "name": "Hinton",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Jerusalem",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Ludville",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Nelson",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Talking Rock",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Jasper",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Tate",
+                    "votes": 49
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Yellow Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sharptop",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Appalachian",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Refuge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hill",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jerusalem",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ludville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nelson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Talking Rock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jasper",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tate",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 12,
+        "precinctsReported": 3,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 132,
+            "Precinct": [
+              {
+                "name": "Yellow Creek",
+                "votes": 27
+              },
+              {
+                "name": "Sharptop",
+                "votes": 16
+              },
+              {
+                "name": "Appalachian",
+                "votes": 15
+              },
+              {
+                "name": "Refuge",
+                "votes": 15
+              },
+              {
+                "name": "Hill",
+                "votes": 12
+              },
+              {
+                "name": "Hinton",
+                "votes": 1
+              },
+              {
+                "name": "Jerusalem",
+                "votes": 2
+              },
+              {
+                "name": "Ludville",
+                "votes": 1
+              },
+              {
+                "name": "Nelson",
+                "votes": 7
+              },
+              {
+                "name": "Talking Rock",
+                "votes": 10
+              },
+              {
+                "name": "Jasper",
+                "votes": 15
+              },
+              {
+                "name": "Tate",
+                "votes": 11
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Yellow Creek",
+                "votes": 0
+              },
+              {
+                "name": "Sharptop",
+                "votes": 0
+              },
+              {
+                "name": "Appalachian",
+                "votes": 0
+              },
+              {
+                "name": "Refuge",
+                "votes": 0
+              },
+              {
+                "name": "Hill",
+                "votes": 0
+              },
+              {
+                "name": "Hinton",
+                "votes": 0
+              },
+              {
+                "name": "Jerusalem",
+                "votes": 0
+              },
+              {
+                "name": "Ludville",
+                "votes": 0
+              },
+              {
+                "name": "Nelson",
+                "votes": 0
+              },
+              {
+                "name": "Talking Rock",
+                "votes": 0
+              },
+              {
+                "name": "Jasper",
+                "votes": 0
+              },
+              {
+                "name": "Tate",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 6870,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1541,
+                "Precinct": [
+                  {
+                    "name": "Yellow Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sharptop",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Appalachian",
+                    "votes": 489
+                  },
+                  {
+                    "name": "Refuge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hill",
+                    "votes": 592
+                  },
+                  {
+                    "name": "Hinton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jerusalem",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ludville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nelson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Talking Rock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jasper",
+                    "votes": 460
+                  },
+                  {
+                    "name": "Tate",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 4226,
+                "Precinct": [
+                  {
+                    "name": "Yellow Creek",
+                    "votes": 777
+                  },
+                  {
+                    "name": "Sharptop",
+                    "votes": 583
+                  },
+                  {
+                    "name": "Appalachian",
+                    "votes": 408
+                  },
+                  {
+                    "name": "Refuge",
+                    "votes": 491
+                  },
+                  {
+                    "name": "Hill",
+                    "votes": 375
+                  },
+                  {
+                    "name": "Hinton",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Jerusalem",
+                    "votes": 107
+                  },
+                  {
+                    "name": "Ludville",
+                    "votes": 63
+                  },
+                  {
+                    "name": "Nelson",
+                    "votes": 172
+                  },
+                  {
+                    "name": "Talking Rock",
+                    "votes": 306
+                  },
+                  {
+                    "name": "Jasper",
+                    "votes": 383
+                  },
+                  {
+                    "name": "Tate",
+                    "votes": 494
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1103,
+                "Precinct": [
+                  {
+                    "name": "Yellow Creek",
+                    "votes": 192
+                  },
+                  {
+                    "name": "Sharptop",
+                    "votes": 201
+                  },
+                  {
+                    "name": "Appalachian",
+                    "votes": 87
+                  },
+                  {
+                    "name": "Refuge",
+                    "votes": 114
+                  },
+                  {
+                    "name": "Hill",
+                    "votes": 105
+                  },
+                  {
+                    "name": "Hinton",
+                    "votes": 22
+                  },
+                  {
+                    "name": "Jerusalem",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Ludville",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Nelson",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Talking Rock",
+                    "votes": 86
+                  },
+                  {
+                    "name": "Jasper",
+                    "votes": 103
+                  },
+                  {
+                    "name": "Tate",
+                    "votes": 96
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Yellow Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sharptop",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Appalachian",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Refuge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hill",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jerusalem",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ludville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nelson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Talking Rock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jasper",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tate",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 1592,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 209,
+                "Precinct": [
+                  {
+                    "name": "Yellow Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sharptop",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Appalachian",
+                    "votes": 53
+                  },
+                  {
+                    "name": "Refuge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hill",
+                    "votes": 63
+                  },
+                  {
+                    "name": "Hinton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jerusalem",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ludville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nelson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Talking Rock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jasper",
+                    "votes": 93
+                  },
+                  {
+                    "name": "Tate",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 687,
+                "Precinct": [
+                  {
+                    "name": "Yellow Creek",
+                    "votes": 140
+                  },
+                  {
+                    "name": "Sharptop",
+                    "votes": 123
+                  },
+                  {
+                    "name": "Appalachian",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Refuge",
+                    "votes": 66
+                  },
+                  {
+                    "name": "Hill",
+                    "votes": 46
+                  },
+                  {
+                    "name": "Hinton",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Jerusalem",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Ludville",
+                    "votes": 6
+                  },
+                  {
+                    "name": "Nelson",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Talking Rock",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Jasper",
+                    "votes": 90
+                  },
+                  {
+                    "name": "Tate",
+                    "votes": 59
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 696,
+                "Precinct": [
+                  {
+                    "name": "Yellow Creek",
+                    "votes": 162
+                  },
+                  {
+                    "name": "Sharptop",
+                    "votes": 153
+                  },
+                  {
+                    "name": "Appalachian",
+                    "votes": 47
+                  },
+                  {
+                    "name": "Refuge",
+                    "votes": 49
+                  },
+                  {
+                    "name": "Hill",
+                    "votes": 61
+                  },
+                  {
+                    "name": "Hinton",
+                    "votes": 12
+                  },
+                  {
+                    "name": "Jerusalem",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Ludville",
+                    "votes": 9
+                  },
+                  {
+                    "name": "Nelson",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Talking Rock",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Jasper",
+                    "votes": 69
+                  },
+                  {
+                    "name": "Tate",
+                    "votes": 43
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Yellow Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sharptop",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Appalachian",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Refuge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hill",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jerusalem",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ludville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nelson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Talking Rock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jasper",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tate",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

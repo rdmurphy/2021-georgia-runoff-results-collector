@@ -1,0 +1,785 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:57:17 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Johnson",
+    "VoterTurnout": {
+      "totalVoters": 5611,
+      "ballotsCast": 3583,
+      "voterTurnout": 63.86,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Wrightsville",
+            "totalVoters": 3113,
+            "ballotsCast": 1904,
+            "voterTurnout": 61.16,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Smith",
+            "totalVoters": 796,
+            "ballotsCast": 526,
+            "voterTurnout": 66.08,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Bray",
+            "totalVoters": 790,
+            "ballotsCast": 559,
+            "voterTurnout": 70.76,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Kite",
+            "totalVoters": 912,
+            "ballotsCast": 594,
+            "voterTurnout": 65.13,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 4,
+        "precinctsReported": 4,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 10,
+            "Precinct": [
+              {
+                "name": "Wrightsville",
+                "votes": 6
+              },
+              {
+                "name": "Smith",
+                "votes": 1
+              },
+              {
+                "name": "Bray",
+                "votes": 2
+              },
+              {
+                "name": "Kite",
+                "votes": 1
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Wrightsville",
+                "votes": 0
+              },
+              {
+                "name": "Smith",
+                "votes": 0
+              },
+              {
+                "name": "Bray",
+                "votes": 0
+              },
+              {
+                "name": "Kite",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 2529,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 947,
+                "Precinct": [
+                  {
+                    "name": "Wrightsville",
+                    "votes": 258
+                  },
+                  {
+                    "name": "Smith",
+                    "votes": 250
+                  },
+                  {
+                    "name": "Bray",
+                    "votes": 169
+                  },
+                  {
+                    "name": "Kite",
+                    "votes": 270
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1332,
+                "Precinct": [
+                  {
+                    "name": "Wrightsville",
+                    "votes": 721
+                  },
+                  {
+                    "name": "Smith",
+                    "votes": 170
+                  },
+                  {
+                    "name": "Bray",
+                    "votes": 211
+                  },
+                  {
+                    "name": "Kite",
+                    "votes": 230
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 250,
+                "Precinct": [
+                  {
+                    "name": "Wrightsville",
+                    "votes": 118
+                  },
+                  {
+                    "name": "Smith",
+                    "votes": 46
+                  },
+                  {
+                    "name": "Bray",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Kite",
+                    "votes": 45
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Wrightsville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Smith",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bray",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kite",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 1044,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 259,
+                "Precinct": [
+                  {
+                    "name": "Wrightsville",
+                    "votes": 176
+                  },
+                  {
+                    "name": "Smith",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Bray",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Kite",
+                    "votes": 19
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 489,
+                "Precinct": [
+                  {
+                    "name": "Wrightsville",
+                    "votes": 400
+                  },
+                  {
+                    "name": "Smith",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Bray",
+                    "votes": 59
+                  },
+                  {
+                    "name": "Kite",
+                    "votes": 14
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 296,
+                "Precinct": [
+                  {
+                    "name": "Wrightsville",
+                    "votes": 225
+                  },
+                  {
+                    "name": "Smith",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Bray",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Kite",
+                    "votes": 15
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Wrightsville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Smith",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bray",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kite",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 4,
+        "precinctsReported": 4,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 7,
+            "Precinct": [
+              {
+                "name": "Wrightsville",
+                "votes": 5
+              },
+              {
+                "name": "Smith",
+                "votes": 0
+              },
+              {
+                "name": "Bray",
+                "votes": 1
+              },
+              {
+                "name": "Kite",
+                "votes": 1
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Wrightsville",
+                "votes": 0
+              },
+              {
+                "name": "Smith",
+                "votes": 0
+              },
+              {
+                "name": "Bray",
+                "votes": 0
+              },
+              {
+                "name": "Kite",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 2529,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 950,
+                "Precinct": [
+                  {
+                    "name": "Wrightsville",
+                    "votes": 260
+                  },
+                  {
+                    "name": "Smith",
+                    "votes": 250
+                  },
+                  {
+                    "name": "Bray",
+                    "votes": 169
+                  },
+                  {
+                    "name": "Kite",
+                    "votes": 271
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1333,
+                "Precinct": [
+                  {
+                    "name": "Wrightsville",
+                    "votes": 722
+                  },
+                  {
+                    "name": "Smith",
+                    "votes": 171
+                  },
+                  {
+                    "name": "Bray",
+                    "votes": 210
+                  },
+                  {
+                    "name": "Kite",
+                    "votes": 230
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 246,
+                "Precinct": [
+                  {
+                    "name": "Wrightsville",
+                    "votes": 115
+                  },
+                  {
+                    "name": "Smith",
+                    "votes": 46
+                  },
+                  {
+                    "name": "Bray",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Kite",
+                    "votes": 45
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Wrightsville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Smith",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bray",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kite",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 1047,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 257,
+                "Precinct": [
+                  {
+                    "name": "Wrightsville",
+                    "votes": 174
+                  },
+                  {
+                    "name": "Smith",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Bray",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Kite",
+                    "votes": 19
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 489,
+                "Precinct": [
+                  {
+                    "name": "Wrightsville",
+                    "votes": 398
+                  },
+                  {
+                    "name": "Smith",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Bray",
+                    "votes": 61
+                  },
+                  {
+                    "name": "Kite",
+                    "votes": 14
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 301,
+                "Precinct": [
+                  {
+                    "name": "Wrightsville",
+                    "votes": 230
+                  },
+                  {
+                    "name": "Smith",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Bray",
+                    "votes": 43
+                  },
+                  {
+                    "name": "Kite",
+                    "votes": 14
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Wrightsville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Smith",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bray",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kite",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 4,
+        "precinctsReported": 4,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 56,
+            "Precinct": [
+              {
+                "name": "Wrightsville",
+                "votes": 34
+              },
+              {
+                "name": "Smith",
+                "votes": 9
+              },
+              {
+                "name": "Bray",
+                "votes": 8
+              },
+              {
+                "name": "Kite",
+                "votes": 5
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Wrightsville",
+                "votes": 0
+              },
+              {
+                "name": "Smith",
+                "votes": 0
+              },
+              {
+                "name": "Bray",
+                "votes": 0
+              },
+              {
+                "name": "Kite",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 2514,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 942,
+                "Precinct": [
+                  {
+                    "name": "Wrightsville",
+                    "votes": 258
+                  },
+                  {
+                    "name": "Smith",
+                    "votes": 246
+                  },
+                  {
+                    "name": "Bray",
+                    "votes": 169
+                  },
+                  {
+                    "name": "Kite",
+                    "votes": 269
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1328,
+                "Precinct": [
+                  {
+                    "name": "Wrightsville",
+                    "votes": 721
+                  },
+                  {
+                    "name": "Smith",
+                    "votes": 169
+                  },
+                  {
+                    "name": "Bray",
+                    "votes": 207
+                  },
+                  {
+                    "name": "Kite",
+                    "votes": 231
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 244,
+                "Precinct": [
+                  {
+                    "name": "Wrightsville",
+                    "votes": 119
+                  },
+                  {
+                    "name": "Smith",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Bray",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Kite",
+                    "votes": 44
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Wrightsville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Smith",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bray",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kite",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 1013,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 254,
+                "Precinct": [
+                  {
+                    "name": "Wrightsville",
+                    "votes": 170
+                  },
+                  {
+                    "name": "Smith",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Bray",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Kite",
+                    "votes": 20
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 474,
+                "Precinct": [
+                  {
+                    "name": "Wrightsville",
+                    "votes": 386
+                  },
+                  {
+                    "name": "Smith",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Bray",
+                    "votes": 60
+                  },
+                  {
+                    "name": "Kite",
+                    "votes": 12
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 285,
+                "Precinct": [
+                  {
+                    "name": "Wrightsville",
+                    "votes": 216
+                  },
+                  {
+                    "name": "Smith",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Bray",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Kite",
+                    "votes": 13
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Wrightsville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Smith",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bray",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kite",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1166 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:58:12 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Peach",
+    "VoterTurnout": {
+      "totalVoters": 0,
+      "ballotsCast": 7621,
+      "voterTurnout": 0.0,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Byron 1",
+            "totalVoters": 0,
+            "ballotsCast": 1320,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Byron 2",
+            "totalVoters": 0,
+            "ballotsCast": 2455,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Claude",
+            "totalVoters": 0,
+            "ballotsCast": 341,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Fort Valley 1",
+            "totalVoters": 0,
+            "ballotsCast": 965,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Fort Valley 2",
+            "totalVoters": 0,
+            "ballotsCast": 959,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Fort Valley 3",
+            "totalVoters": 0,
+            "ballotsCast": 994,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Powersville",
+            "totalVoters": 0,
+            "ballotsCast": 587,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 7,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 10,
+            "Precinct": [
+              {
+                "name": "Byron 1",
+                "votes": 1
+              },
+              {
+                "name": "Byron 2",
+                "votes": 2
+              },
+              {
+                "name": "Claude",
+                "votes": 0
+              },
+              {
+                "name": "Fort Valley 1",
+                "votes": 4
+              },
+              {
+                "name": "Fort Valley 2",
+                "votes": 0
+              },
+              {
+                "name": "Fort Valley 3",
+                "votes": 2
+              },
+              {
+                "name": "Powersville",
+                "votes": 1
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Byron 1",
+                "votes": 0
+              },
+              {
+                "name": "Byron 2",
+                "votes": 0
+              },
+              {
+                "name": "Claude",
+                "votes": 0
+              },
+              {
+                "name": "Fort Valley 1",
+                "votes": 0
+              },
+              {
+                "name": "Fort Valley 2",
+                "votes": 0
+              },
+              {
+                "name": "Fort Valley 3",
+                "votes": 0
+              },
+              {
+                "name": "Powersville",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 3927,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Byron 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Byron 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Claude",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Powersville",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 3625,
+                "Precinct": [
+                  {
+                    "name": "Byron 1",
+                    "votes": 856
+                  },
+                  {
+                    "name": "Byron 2",
+                    "votes": 1373
+                  },
+                  {
+                    "name": "Claude",
+                    "votes": 248
+                  },
+                  {
+                    "name": "Fort Valley 1",
+                    "votes": 336
+                  },
+                  {
+                    "name": "Fort Valley 2",
+                    "votes": 288
+                  },
+                  {
+                    "name": "Fort Valley 3",
+                    "votes": 147
+                  },
+                  {
+                    "name": "Powersville",
+                    "votes": 377
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 302,
+                "Precinct": [
+                  {
+                    "name": "Byron 1",
+                    "votes": 57
+                  },
+                  {
+                    "name": "Byron 2",
+                    "votes": 132
+                  },
+                  {
+                    "name": "Claude",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Fort Valley 1",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Fort Valley 2",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Fort Valley 3",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Powersville",
+                    "votes": 18
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Byron 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Byron 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Claude",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Powersville",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 3684,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Byron 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Byron 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Claude",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Powersville",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2874,
+                "Precinct": [
+                  {
+                    "name": "Byron 1",
+                    "votes": 328
+                  },
+                  {
+                    "name": "Byron 2",
+                    "votes": 750
+                  },
+                  {
+                    "name": "Claude",
+                    "votes": 60
+                  },
+                  {
+                    "name": "Fort Valley 1",
+                    "votes": 475
+                  },
+                  {
+                    "name": "Fort Valley 2",
+                    "votes": 517
+                  },
+                  {
+                    "name": "Fort Valley 3",
+                    "votes": 592
+                  },
+                  {
+                    "name": "Powersville",
+                    "votes": 152
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 810,
+                "Precinct": [
+                  {
+                    "name": "Byron 1",
+                    "votes": 78
+                  },
+                  {
+                    "name": "Byron 2",
+                    "votes": 198
+                  },
+                  {
+                    "name": "Claude",
+                    "votes": 12
+                  },
+                  {
+                    "name": "Fort Valley 1",
+                    "votes": 120
+                  },
+                  {
+                    "name": "Fort Valley 2",
+                    "votes": 124
+                  },
+                  {
+                    "name": "Fort Valley 3",
+                    "votes": 239
+                  },
+                  {
+                    "name": "Powersville",
+                    "votes": 39
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Byron 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Byron 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Claude",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Powersville",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 7,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 13,
+            "Precinct": [
+              {
+                "name": "Byron 1",
+                "votes": 2
+              },
+              {
+                "name": "Byron 2",
+                "votes": 2
+              },
+              {
+                "name": "Claude",
+                "votes": 3
+              },
+              {
+                "name": "Fort Valley 1",
+                "votes": 3
+              },
+              {
+                "name": "Fort Valley 2",
+                "votes": 1
+              },
+              {
+                "name": "Fort Valley 3",
+                "votes": 1
+              },
+              {
+                "name": "Powersville",
+                "votes": 1
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Byron 1",
+                "votes": 0
+              },
+              {
+                "name": "Byron 2",
+                "votes": 0
+              },
+              {
+                "name": "Claude",
+                "votes": 0
+              },
+              {
+                "name": "Fort Valley 1",
+                "votes": 0
+              },
+              {
+                "name": "Fort Valley 2",
+                "votes": 0
+              },
+              {
+                "name": "Fort Valley 3",
+                "votes": 0
+              },
+              {
+                "name": "Powersville",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 3915,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Byron 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Byron 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Claude",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Powersville",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 3614,
+                "Precinct": [
+                  {
+                    "name": "Byron 1",
+                    "votes": 852
+                  },
+                  {
+                    "name": "Byron 2",
+                    "votes": 1368
+                  },
+                  {
+                    "name": "Claude",
+                    "votes": 248
+                  },
+                  {
+                    "name": "Fort Valley 1",
+                    "votes": 337
+                  },
+                  {
+                    "name": "Fort Valley 2",
+                    "votes": 287
+                  },
+                  {
+                    "name": "Fort Valley 3",
+                    "votes": 145
+                  },
+                  {
+                    "name": "Powersville",
+                    "votes": 377
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 301,
+                "Precinct": [
+                  {
+                    "name": "Byron 1",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Byron 2",
+                    "votes": 132
+                  },
+                  {
+                    "name": "Claude",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Fort Valley 1",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Fort Valley 2",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Fort Valley 3",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Powersville",
+                    "votes": 18
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Byron 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Byron 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Claude",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Powersville",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 3693,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Byron 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Byron 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Claude",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Powersville",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2886,
+                "Precinct": [
+                  {
+                    "name": "Byron 1",
+                    "votes": 331
+                  },
+                  {
+                    "name": "Byron 2",
+                    "votes": 756
+                  },
+                  {
+                    "name": "Claude",
+                    "votes": 60
+                  },
+                  {
+                    "name": "Fort Valley 1",
+                    "votes": 475
+                  },
+                  {
+                    "name": "Fort Valley 2",
+                    "votes": 517
+                  },
+                  {
+                    "name": "Fort Valley 3",
+                    "votes": 595
+                  },
+                  {
+                    "name": "Powersville",
+                    "votes": 152
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 807,
+                "Precinct": [
+                  {
+                    "name": "Byron 1",
+                    "votes": 79
+                  },
+                  {
+                    "name": "Byron 2",
+                    "votes": 197
+                  },
+                  {
+                    "name": "Claude",
+                    "votes": 9
+                  },
+                  {
+                    "name": "Fort Valley 1",
+                    "votes": 121
+                  },
+                  {
+                    "name": "Fort Valley 2",
+                    "votes": 124
+                  },
+                  {
+                    "name": "Fort Valley 3",
+                    "votes": 238
+                  },
+                  {
+                    "name": "Powersville",
+                    "votes": 39
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Byron 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Byron 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Claude",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Powersville",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 7,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 94,
+            "Precinct": [
+              {
+                "name": "Byron 1",
+                "votes": 16
+              },
+              {
+                "name": "Byron 2",
+                "votes": 23
+              },
+              {
+                "name": "Claude",
+                "votes": 4
+              },
+              {
+                "name": "Fort Valley 1",
+                "votes": 15
+              },
+              {
+                "name": "Fort Valley 2",
+                "votes": 17
+              },
+              {
+                "name": "Fort Valley 3",
+                "votes": 12
+              },
+              {
+                "name": "Powersville",
+                "votes": 7
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Byron 1",
+                "votes": 0
+              },
+              {
+                "name": "Byron 2",
+                "votes": 0
+              },
+              {
+                "name": "Claude",
+                "votes": 0
+              },
+              {
+                "name": "Fort Valley 1",
+                "votes": 0
+              },
+              {
+                "name": "Fort Valley 2",
+                "votes": 0
+              },
+              {
+                "name": "Fort Valley 3",
+                "votes": 0
+              },
+              {
+                "name": "Powersville",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 3935,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Byron 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Byron 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Claude",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Powersville",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 3614,
+                "Precinct": [
+                  {
+                    "name": "Byron 1",
+                    "votes": 861
+                  },
+                  {
+                    "name": "Byron 2",
+                    "votes": 1375
+                  },
+                  {
+                    "name": "Claude",
+                    "votes": 242
+                  },
+                  {
+                    "name": "Fort Valley 1",
+                    "votes": 334
+                  },
+                  {
+                    "name": "Fort Valley 2",
+                    "votes": 284
+                  },
+                  {
+                    "name": "Fort Valley 3",
+                    "votes": 144
+                  },
+                  {
+                    "name": "Powersville",
+                    "votes": 374
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 321,
+                "Precinct": [
+                  {
+                    "name": "Byron 1",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Byron 2",
+                    "votes": 140
+                  },
+                  {
+                    "name": "Claude",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Fort Valley 1",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Fort Valley 2",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Fort Valley 3",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Powersville",
+                    "votes": 19
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Byron 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Byron 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Claude",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Powersville",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 3592,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Byron 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Byron 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Claude",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Powersville",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2814,
+                "Precinct": [
+                  {
+                    "name": "Byron 1",
+                    "votes": 309
+                  },
+                  {
+                    "name": "Byron 2",
+                    "votes": 730
+                  },
+                  {
+                    "name": "Claude",
+                    "votes": 63
+                  },
+                  {
+                    "name": "Fort Valley 1",
+                    "votes": 471
+                  },
+                  {
+                    "name": "Fort Valley 2",
+                    "votes": 507
+                  },
+                  {
+                    "name": "Fort Valley 3",
+                    "votes": 585
+                  },
+                  {
+                    "name": "Powersville",
+                    "votes": 149
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 778,
+                "Precinct": [
+                  {
+                    "name": "Byron 1",
+                    "votes": 72
+                  },
+                  {
+                    "name": "Byron 2",
+                    "votes": 187
+                  },
+                  {
+                    "name": "Claude",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Fort Valley 1",
+                    "votes": 112
+                  },
+                  {
+                    "name": "Fort Valley 2",
+                    "votes": 120
+                  },
+                  {
+                    "name": "Fort Valley 3",
+                    "votes": 238
+                  },
+                  {
+                    "name": "Powersville",
+                    "votes": 38
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Byron 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Byron 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Claude",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fort Valley 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Powersville",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

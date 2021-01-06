@@ -1,0 +1,658 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:56:34 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Oglethorpe",
+    "VoterTurnout": {
+      "totalVoters": 11111,
+      "ballotsCast": 7228,
+      "voterTurnout": 65.05,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Beaverdam",
+            "totalVoters": 3610,
+            "ballotsCast": 2357,
+            "voterTurnout": 65.29,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Crawford",
+            "totalVoters": 3108,
+            "ballotsCast": 1925,
+            "voterTurnout": 61.94,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Lexington",
+            "totalVoters": 4393,
+            "ballotsCast": 2946,
+            "voterTurnout": 67.06,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 3,
+        "precinctsReported": 3,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 9,
+            "Precinct": [
+              {
+                "name": "Beaverdam",
+                "votes": 3
+              },
+              {
+                "name": "Crawford",
+                "votes": 3
+              },
+              {
+                "name": "Lexington",
+                "votes": 3
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Beaverdam",
+                "votes": 0
+              },
+              {
+                "name": "Crawford",
+                "votes": 0
+              },
+              {
+                "name": "Lexington",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 4983,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1536,
+                "Precinct": [
+                  {
+                    "name": "Beaverdam",
+                    "votes": 639
+                  },
+                  {
+                    "name": "Crawford",
+                    "votes": 366
+                  },
+                  {
+                    "name": "Lexington",
+                    "votes": 531
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2715,
+                "Precinct": [
+                  {
+                    "name": "Beaverdam",
+                    "votes": 769
+                  },
+                  {
+                    "name": "Crawford",
+                    "votes": 722
+                  },
+                  {
+                    "name": "Lexington",
+                    "votes": 1224
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 732,
+                "Precinct": [
+                  {
+                    "name": "Beaverdam",
+                    "votes": 250
+                  },
+                  {
+                    "name": "Crawford",
+                    "votes": 182
+                  },
+                  {
+                    "name": "Lexington",
+                    "votes": 300
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Beaverdam",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crawford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lexington",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 2236,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 441,
+                "Precinct": [
+                  {
+                    "name": "Beaverdam",
+                    "votes": 138
+                  },
+                  {
+                    "name": "Crawford",
+                    "votes": 155
+                  },
+                  {
+                    "name": "Lexington",
+                    "votes": 148
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1013,
+                "Precinct": [
+                  {
+                    "name": "Beaverdam",
+                    "votes": 315
+                  },
+                  {
+                    "name": "Crawford",
+                    "votes": 289
+                  },
+                  {
+                    "name": "Lexington",
+                    "votes": 409
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 782,
+                "Precinct": [
+                  {
+                    "name": "Beaverdam",
+                    "votes": 243
+                  },
+                  {
+                    "name": "Crawford",
+                    "votes": 208
+                  },
+                  {
+                    "name": "Lexington",
+                    "votes": 331
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Beaverdam",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crawford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lexington",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 3,
+        "precinctsReported": 3,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 13,
+            "Precinct": [
+              {
+                "name": "Beaverdam",
+                "votes": 2
+              },
+              {
+                "name": "Crawford",
+                "votes": 6
+              },
+              {
+                "name": "Lexington",
+                "votes": 5
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Beaverdam",
+                "votes": 0
+              },
+              {
+                "name": "Crawford",
+                "votes": 0
+              },
+              {
+                "name": "Lexington",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 4957,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1524,
+                "Precinct": [
+                  {
+                    "name": "Beaverdam",
+                    "votes": 635
+                  },
+                  {
+                    "name": "Crawford",
+                    "votes": 364
+                  },
+                  {
+                    "name": "Lexington",
+                    "votes": 525
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2703,
+                "Precinct": [
+                  {
+                    "name": "Beaverdam",
+                    "votes": 768
+                  },
+                  {
+                    "name": "Crawford",
+                    "votes": 719
+                  },
+                  {
+                    "name": "Lexington",
+                    "votes": 1216
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 730,
+                "Precinct": [
+                  {
+                    "name": "Beaverdam",
+                    "votes": 247
+                  },
+                  {
+                    "name": "Crawford",
+                    "votes": 182
+                  },
+                  {
+                    "name": "Lexington",
+                    "votes": 301
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Beaverdam",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crawford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lexington",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 2258,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 454,
+                "Precinct": [
+                  {
+                    "name": "Beaverdam",
+                    "votes": 143
+                  },
+                  {
+                    "name": "Crawford",
+                    "votes": 158
+                  },
+                  {
+                    "name": "Lexington",
+                    "votes": 153
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1022,
+                "Precinct": [
+                  {
+                    "name": "Beaverdam",
+                    "votes": 317
+                  },
+                  {
+                    "name": "Crawford",
+                    "votes": 288
+                  },
+                  {
+                    "name": "Lexington",
+                    "votes": 417
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 782,
+                "Precinct": [
+                  {
+                    "name": "Beaverdam",
+                    "votes": 245
+                  },
+                  {
+                    "name": "Crawford",
+                    "votes": 208
+                  },
+                  {
+                    "name": "Lexington",
+                    "votes": 329
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Beaverdam",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crawford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lexington",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 3,
+        "precinctsReported": 3,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 88,
+            "Precinct": [
+              {
+                "name": "Beaverdam",
+                "votes": 34
+              },
+              {
+                "name": "Crawford",
+                "votes": 19
+              },
+              {
+                "name": "Lexington",
+                "votes": 35
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Beaverdam",
+                "votes": 0
+              },
+              {
+                "name": "Crawford",
+                "votes": 0
+              },
+              {
+                "name": "Lexington",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 4997,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1535,
+                "Precinct": [
+                  {
+                    "name": "Beaverdam",
+                    "votes": 640
+                  },
+                  {
+                    "name": "Crawford",
+                    "votes": 371
+                  },
+                  {
+                    "name": "Lexington",
+                    "votes": 524
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2721,
+                "Precinct": [
+                  {
+                    "name": "Beaverdam",
+                    "votes": 770
+                  },
+                  {
+                    "name": "Crawford",
+                    "votes": 721
+                  },
+                  {
+                    "name": "Lexington",
+                    "votes": 1230
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 741,
+                "Precinct": [
+                  {
+                    "name": "Beaverdam",
+                    "votes": 244
+                  },
+                  {
+                    "name": "Crawford",
+                    "votes": 196
+                  },
+                  {
+                    "name": "Lexington",
+                    "votes": 301
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Beaverdam",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crawford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lexington",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 2143,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 426,
+                "Precinct": [
+                  {
+                    "name": "Beaverdam",
+                    "votes": 129
+                  },
+                  {
+                    "name": "Crawford",
+                    "votes": 145
+                  },
+                  {
+                    "name": "Lexington",
+                    "votes": 152
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 967,
+                "Precinct": [
+                  {
+                    "name": "Beaverdam",
+                    "votes": 301
+                  },
+                  {
+                    "name": "Crawford",
+                    "votes": 281
+                  },
+                  {
+                    "name": "Lexington",
+                    "votes": 385
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 750,
+                "Precinct": [
+                  {
+                    "name": "Beaverdam",
+                    "votes": 239
+                  },
+                  {
+                    "name": "Crawford",
+                    "votes": 192
+                  },
+                  {
+                    "name": "Lexington",
+                    "votes": 319
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Beaverdam",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crawford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lexington",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

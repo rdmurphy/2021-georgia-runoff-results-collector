@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 7:49:33 PM EST",
+    "Timestamp": "1/5/2021 8:55:04 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Baldwin",
     "VoterTurnout": {
       "totalVoters": 27088,
-      "ballotsCast": 12861,
-      "voterTurnout": 47.48,
+      "ballotsCast": 15980,
+      "voterTurnout": 58.99,
       "Precincts": {
         "Precinct": [
           {
@@ -20,23 +20,23 @@
           {
             "name": "City Hall Annex",
             "totalVoters": 969,
-            "ballotsCast": 306,
-            "voterTurnout": 31.58,
-            "percentReporting": "2"
+            "ballotsCast": 427,
+            "voterTurnout": 44.07,
+            "percentReporting": "4"
           },
           {
             "name": "Boddie",
             "totalVoters": 1406,
-            "ballotsCast": 406,
-            "voterTurnout": 28.88,
-            "percentReporting": "2"
+            "ballotsCast": 567,
+            "voterTurnout": 40.33,
+            "percentReporting": "4"
           },
           {
             "name": "Courthouse",
             "totalVoters": 511,
-            "ballotsCast": 178,
-            "voterTurnout": 34.83,
-            "percentReporting": "2"
+            "ballotsCast": 232,
+            "voterTurnout": 45.4,
+            "percentReporting": "4"
           },
           {
             "name": "Fire Dept",
@@ -62,51 +62,51 @@
           {
             "name": "East Baldwin",
             "totalVoters": 3877,
-            "ballotsCast": 1889,
-            "voterTurnout": 48.72,
-            "percentReporting": "2"
+            "ballotsCast": 2547,
+            "voterTurnout": 65.7,
+            "percentReporting": "4"
           },
           {
             "name": "Scottsboro",
             "totalVoters": 1131,
-            "ballotsCast": 399,
-            "voterTurnout": 35.28,
-            "percentReporting": "2"
+            "ballotsCast": 628,
+            "voterTurnout": 55.53,
+            "percentReporting": "4"
           },
           {
             "name": "North Baldwin",
             "totalVoters": 3550,
-            "ballotsCast": 1925,
-            "voterTurnout": 54.23,
-            "percentReporting": "2"
+            "ballotsCast": 2500,
+            "voterTurnout": 70.42,
+            "percentReporting": "4"
           },
           {
             "name": "West Baldwin",
             "totalVoters": 1900,
-            "ballotsCast": 912,
-            "voterTurnout": 48.0,
-            "percentReporting": "2"
+            "ballotsCast": 1265,
+            "voterTurnout": 66.58,
+            "percentReporting": "4"
           },
           {
             "name": "East Hardwick",
             "totalVoters": 1322,
-            "ballotsCast": 327,
-            "voterTurnout": 24.74,
-            "percentReporting": "2"
+            "ballotsCast": 503,
+            "voterTurnout": 38.05,
+            "percentReporting": "4"
           },
           {
             "name": "West Hardwick",
             "totalVoters": 2933,
-            "ballotsCast": 1301,
-            "voterTurnout": 44.36,
-            "percentReporting": "2"
+            "ballotsCast": 1708,
+            "voterTurnout": 58.23,
+            "percentReporting": "4"
           },
           {
             "name": "Coopers",
             "totalVoters": 1587,
-            "ballotsCast": 626,
-            "voterTurnout": 39.45,
-            "percentReporting": "2"
+            "ballotsCast": 1011,
+            "voterTurnout": 63.71,
+            "percentReporting": "4"
           }
         ]
       }
@@ -118,11 +118,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 14,
-        "precinctsReported": 3,
+        "precinctsReported": 13,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 37,
+            "votes": 43,
             "Precinct": [
               {
                 "name": "South Milledgeville",
@@ -134,7 +134,7 @@
               },
               {
                 "name": "Boddie",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Courthouse",
@@ -154,15 +154,15 @@
               },
               {
                 "name": "East Baldwin",
-                "votes": 3
+                "votes": 5
               },
               {
                 "name": "Scottsboro",
-                "votes": 1
+                "votes": 3
               },
               {
                 "name": "North Baldwin",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "West Baldwin",
@@ -249,11 +249,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 5777,
+            "totalVotes": 7563,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 256,
+                "votes": 2042,
                 "Precinct": [
                   {
                     "name": "South Milledgeville",
@@ -261,15 +261,15 @@
                   },
                   {
                     "name": "City Hall Annex",
-                    "votes": 0
+                    "votes": 50
                   },
                   {
                     "name": "Boddie",
-                    "votes": 0
+                    "votes": 33
                   },
                   {
                     "name": "Courthouse",
-                    "votes": 0
+                    "votes": 29
                   },
                   {
                     "name": "Fire Dept",
@@ -285,31 +285,31 @@
                   },
                   {
                     "name": "East Baldwin",
-                    "votes": 0
+                    "votes": 419
                   },
                   {
                     "name": "Scottsboro",
-                    "votes": 0
+                    "votes": 148
                   },
                   {
                     "name": "North Baldwin",
-                    "votes": 0
+                    "votes": 449
                   },
                   {
                     "name": "West Baldwin",
-                    "votes": 0
+                    "votes": 226
                   },
                   {
                     "name": "East Hardwick",
-                    "votes": 0
+                    "votes": 28
                   },
                   {
                     "name": "West Hardwick",
-                    "votes": 0
+                    "votes": 90
                   },
                   {
                     "name": "Coopers",
-                    "votes": 0
+                    "votes": 314
                   }
                 ]
               },
@@ -504,11 +504,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 7047,
+            "totalVotes": 8374,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 394,
+                "votes": 1721,
                 "Precinct": [
                   {
                     "name": "South Milledgeville",
@@ -516,15 +516,15 @@
                   },
                   {
                     "name": "City Hall Annex",
-                    "votes": 0
+                    "votes": 71
                   },
                   {
                     "name": "Boddie",
-                    "votes": 0
+                    "votes": 127
                   },
                   {
                     "name": "Courthouse",
-                    "votes": 0
+                    "votes": 25
                   },
                   {
                     "name": "Fire Dept",
@@ -540,31 +540,31 @@
                   },
                   {
                     "name": "East Baldwin",
-                    "votes": 0
+                    "votes": 237
                   },
                   {
                     "name": "Scottsboro",
-                    "votes": 0
+                    "votes": 79
                   },
                   {
                     "name": "North Baldwin",
-                    "votes": 0
+                    "votes": 125
                   },
                   {
                     "name": "West Baldwin",
-                    "votes": 0
+                    "votes": 127
                   },
                   {
                     "name": "East Hardwick",
-                    "votes": 0
+                    "votes": 148
                   },
                   {
                     "name": "West Hardwick",
-                    "votes": 0
+                    "votes": 317
                   },
                   {
                     "name": "Coopers",
-                    "votes": 0
+                    "votes": 71
                   }
                 ]
               },
@@ -764,11 +764,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 14,
-        "precinctsReported": 3,
+        "precinctsReported": 13,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 19,
+            "votes": 22,
             "Precinct": [
               {
                 "name": "South Milledgeville",
@@ -780,7 +780,7 @@
               },
               {
                 "name": "Boddie",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Courthouse",
@@ -800,7 +800,7 @@
               },
               {
                 "name": "East Baldwin",
-                "votes": 4
+                "votes": 5
               },
               {
                 "name": "Scottsboro",
@@ -812,7 +812,7 @@
               },
               {
                 "name": "West Baldwin",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "East Hardwick",
@@ -895,11 +895,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 5757,
+            "totalVotes": 7529,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 258,
+                "votes": 2030,
                 "Precinct": [
                   {
                     "name": "South Milledgeville",
@@ -907,15 +907,15 @@
                   },
                   {
                     "name": "City Hall Annex",
-                    "votes": 0
+                    "votes": 49
                   },
                   {
                     "name": "Boddie",
-                    "votes": 0
+                    "votes": 32
                   },
                   {
                     "name": "Courthouse",
-                    "votes": 0
+                    "votes": 29
                   },
                   {
                     "name": "Fire Dept",
@@ -931,31 +931,31 @@
                   },
                   {
                     "name": "East Baldwin",
-                    "votes": 0
+                    "votes": 416
                   },
                   {
                     "name": "Scottsboro",
-                    "votes": 0
+                    "votes": 149
                   },
                   {
                     "name": "North Baldwin",
-                    "votes": 0
+                    "votes": 445
                   },
                   {
                     "name": "West Baldwin",
-                    "votes": 0
+                    "votes": 226
                   },
                   {
                     "name": "East Hardwick",
-                    "votes": 0
+                    "votes": 28
                   },
                   {
                     "name": "West Hardwick",
-                    "votes": 0
+                    "votes": 87
                   },
                   {
                     "name": "Coopers",
-                    "votes": 0
+                    "votes": 311
                   }
                 ]
               },
@@ -1150,11 +1150,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 7085,
+            "totalVotes": 8429,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 392,
+                "votes": 1736,
                 "Precinct": [
                   {
                     "name": "South Milledgeville",
@@ -1162,15 +1162,15 @@
                   },
                   {
                     "name": "City Hall Annex",
-                    "votes": 0
+                    "votes": 72
                   },
                   {
                     "name": "Boddie",
-                    "votes": 0
+                    "votes": 128
                   },
                   {
                     "name": "Courthouse",
-                    "votes": 0
+                    "votes": 25
                   },
                   {
                     "name": "Fire Dept",
@@ -1186,31 +1186,31 @@
                   },
                   {
                     "name": "East Baldwin",
-                    "votes": 0
+                    "votes": 241
                   },
                   {
                     "name": "Scottsboro",
-                    "votes": 0
+                    "votes": 80
                   },
                   {
                     "name": "North Baldwin",
-                    "votes": 0
+                    "votes": 130
                   },
                   {
                     "name": "West Baldwin",
-                    "votes": 0
+                    "votes": 126
                   },
                   {
                     "name": "East Hardwick",
-                    "votes": 0
+                    "votes": 148
                   },
                   {
                     "name": "West Hardwick",
-                    "votes": 0
+                    "votes": 320
                   },
                   {
                     "name": "Coopers",
-                    "votes": 0
+                    "votes": 74
                   }
                 ]
               },
@@ -1410,11 +1410,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 14,
-        "precinctsReported": 3,
+        "precinctsReported": 13,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 229,
+            "votes": 267,
             "Precinct": [
               {
                 "name": "South Milledgeville",
@@ -1422,15 +1422,15 @@
               },
               {
                 "name": "City Hall Annex",
-                "votes": 7
+                "votes": 8
               },
               {
                 "name": "Boddie",
-                "votes": 9
+                "votes": 12
               },
               {
                 "name": "Courthouse",
-                "votes": 4
+                "votes": 6
               },
               {
                 "name": "Fire Dept",
@@ -1446,23 +1446,23 @@
               },
               {
                 "name": "East Baldwin",
-                "votes": 28
+                "votes": 38
               },
               {
                 "name": "Scottsboro",
-                "votes": 11
-              },
-              {
-                "name": "North Baldwin",
-                "votes": 16
-              },
-              {
-                "name": "West Baldwin",
                 "votes": 18
               },
               {
+                "name": "North Baldwin",
+                "votes": 21
+              },
+              {
+                "name": "West Baldwin",
+                "votes": 23
+              },
+              {
                 "name": "East Hardwick",
-                "votes": 12
+                "votes": 14
               },
               {
                 "name": "West Hardwick",
@@ -1470,7 +1470,7 @@
               },
               {
                 "name": "Coopers",
-                "votes": 14
+                "votes": 17
               }
             ]
           },
@@ -1541,11 +1541,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 5816,
+            "totalVotes": 7604,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 259,
+                "votes": 2047,
                 "Precinct": [
                   {
                     "name": "South Milledgeville",
@@ -1553,15 +1553,15 @@
                   },
                   {
                     "name": "City Hall Annex",
-                    "votes": 0
+                    "votes": 51
                   },
                   {
                     "name": "Boddie",
-                    "votes": 0
+                    "votes": 32
                   },
                   {
                     "name": "Courthouse",
-                    "votes": 0
+                    "votes": 28
                   },
                   {
                     "name": "Fire Dept",
@@ -1577,31 +1577,31 @@
                   },
                   {
                     "name": "East Baldwin",
-                    "votes": 0
+                    "votes": 423
                   },
                   {
                     "name": "Scottsboro",
-                    "votes": 0
+                    "votes": 145
                   },
                   {
                     "name": "North Baldwin",
-                    "votes": 0
+                    "votes": 448
                   },
                   {
                     "name": "West Baldwin",
-                    "votes": 0
+                    "votes": 227
                   },
                   {
                     "name": "East Hardwick",
-                    "votes": 0
+                    "votes": 30
                   },
                   {
                     "name": "West Hardwick",
-                    "votes": 0
+                    "votes": 93
                   },
                   {
                     "name": "Coopers",
-                    "votes": 0
+                    "votes": 311
                   }
                 ]
               },
@@ -1796,11 +1796,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 6815,
+            "totalVotes": 8108,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 384,
+                "votes": 1677,
                 "Precinct": [
                   {
                     "name": "South Milledgeville",
@@ -1808,15 +1808,15 @@
                   },
                   {
                     "name": "City Hall Annex",
-                    "votes": 0
+                    "votes": 69
                   },
                   {
                     "name": "Boddie",
-                    "votes": 0
+                    "votes": 126
                   },
                   {
                     "name": "Courthouse",
-                    "votes": 0
+                    "votes": 24
                   },
                   {
                     "name": "Fire Dept",
@@ -1832,31 +1832,31 @@
                   },
                   {
                     "name": "East Baldwin",
-                    "votes": 0
+                    "votes": 225
                   },
                   {
                     "name": "Scottsboro",
-                    "votes": 0
+                    "votes": 77
                   },
                   {
                     "name": "North Baldwin",
-                    "votes": 0
+                    "votes": 122
                   },
                   {
                     "name": "West Baldwin",
-                    "votes": 0
+                    "votes": 121
                   },
                   {
                     "name": "East Hardwick",
-                    "votes": 0
+                    "votes": 144
                   },
                   {
                     "name": "West Hardwick",
-                    "votes": 0
+                    "votes": 314
                   },
                   {
                     "name": "Coopers",
-                    "votes": 0
+                    "votes": 71
                   }
                 ]
               },

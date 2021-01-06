@@ -1,69 +1,69 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:59:12 PM EST",
+    "Timestamp": "1/5/2021 8:59:49 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
-    "Region": "Tattnall",
+    "Region": "Pierce",
     "VoterTurnout": {
-      "totalVoters": 12463,
-      "ballotsCast": 6226,
-      "voterTurnout": 49.96,
+      "totalVoters": 12971,
+      "ballotsCast": 7946,
+      "voterTurnout": 61.26,
       "Precincts": {
         "Precinct": [
           {
-            "name": "Cobbtown",
-            "totalVoters": 782,
-            "ballotsCast": 460,
-            "voterTurnout": 58.82,
+            "name": "Hacklebarney-Cason",
+            "totalVoters": 3598,
+            "ballotsCast": 2130,
+            "voterTurnout": 59.2,
             "percentReporting": "4"
           },
           {
-            "name": "Shiloh",
-            "totalVoters": 1153,
-            "ballotsCast": 461,
-            "voterTurnout": 39.98,
+            "name": "Blackshear",
+            "totalVoters": 3284,
+            "ballotsCast": 1929,
+            "voterTurnout": 58.74,
             "percentReporting": "4"
           },
           {
-            "name": "Collins",
-            "totalVoters": 1527,
-            "ballotsCast": 539,
-            "voterTurnout": 35.3,
-            "percentReporting": "2"
-          },
-          {
-            "name": "Manassas",
-            "totalVoters": 271,
-            "ballotsCast": 178,
-            "voterTurnout": 65.68,
+            "name": "St Johns-Blackshear",
+            "totalVoters": 1631,
+            "ballotsCast": 1036,
+            "voterTurnout": 63.52,
             "percentReporting": "4"
           },
           {
-            "name": "District II",
-            "totalVoters": 2546,
-            "ballotsCast": 1393,
-            "voterTurnout": 54.71,
+            "name": "Otter Creek",
+            "totalVoters": 1431,
+            "ballotsCast": 903,
+            "voterTurnout": 63.1,
             "percentReporting": "4"
           },
           {
-            "name": "East Glennville",
-            "totalVoters": 2560,
-            "ballotsCast": 992,
-            "voterTurnout": 38.75,
-            "percentReporting": "2"
-          },
-          {
-            "name": "District IV",
-            "totalVoters": 2545,
-            "ballotsCast": 1571,
-            "voterTurnout": 61.73,
+            "name": "Patterson",
+            "totalVoters": 1329,
+            "ballotsCast": 824,
+            "voterTurnout": 62.0,
             "percentReporting": "4"
           },
           {
-            "name": "District V",
-            "totalVoters": 1079,
-            "ballotsCast": 632,
-            "voterTurnout": 58.57,
+            "name": "Mershon",
+            "totalVoters": 480,
+            "ballotsCast": 323,
+            "voterTurnout": 67.29,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Alabaha",
+            "totalVoters": 945,
+            "ballotsCast": 594,
+            "voterTurnout": 62.86,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Sunset-Sweat",
+            "totalVoters": 273,
+            "ballotsCast": 207,
+            "voterTurnout": 75.82,
             "percentReporting": "4"
           }
         ]
@@ -76,43 +76,43 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 8,
-        "precinctsReported": 6,
+        "precinctsReported": 8,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 10,
+            "votes": 19,
             "Precinct": [
               {
-                "name": "Cobbtown",
+                "name": "Hacklebarney-Cason",
+                "votes": 7
+              },
+              {
+                "name": "Blackshear",
+                "votes": 5
+              },
+              {
+                "name": "St Johns-Blackshear",
                 "votes": 0
               },
               {
-                "name": "Shiloh",
+                "name": "Otter Creek",
+                "votes": 2
+              },
+              {
+                "name": "Patterson",
+                "votes": 2
+              },
+              {
+                "name": "Mershon",
+                "votes": 2
+              },
+              {
+                "name": "Alabaha",
                 "votes": 1
               },
               {
-                "name": "Collins",
-                "votes": 1
-              },
-              {
-                "name": "Manassas",
+                "name": "Sunset-Sweat",
                 "votes": 0
-              },
-              {
-                "name": "District II",
-                "votes": 3
-              },
-              {
-                "name": "East Glennville",
-                "votes": 1
-              },
-              {
-                "name": "District IV",
-                "votes": 3
-              },
-              {
-                "name": "District V",
-                "votes": 1
               }
             ]
           },
@@ -121,35 +121,35 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Cobbtown",
+                "name": "Hacklebarney-Cason",
                 "votes": 0
               },
               {
-                "name": "Shiloh",
+                "name": "Blackshear",
                 "votes": 0
               },
               {
-                "name": "Collins",
+                "name": "St Johns-Blackshear",
                 "votes": 0
               },
               {
-                "name": "Manassas",
+                "name": "Otter Creek",
                 "votes": 0
               },
               {
-                "name": "District II",
+                "name": "Patterson",
                 "votes": 0
               },
               {
-                "name": "East Glennville",
+                "name": "Mershon",
                 "votes": 0
               },
               {
-                "name": "District IV",
+                "name": "Alabaha",
                 "votes": 0
               },
               {
-                "name": "District V",
+                "name": "Sunset-Sweat",
                 "votes": 0
               }
             ]
@@ -159,119 +159,119 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 4502,
+            "totalVotes": 6971,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1365,
+                "votes": 2287,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 212
+                    "name": "Hacklebarney-Cason",
+                    "votes": 511
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 119
+                    "name": "Blackshear",
+                    "votes": 578
                   },
                   {
-                    "name": "Collins",
-                    "votes": 0
+                    "name": "St Johns-Blackshear",
+                    "votes": 301
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 78
+                    "name": "Otter Creek",
+                    "votes": 298
                   },
                   {
-                    "name": "District II",
-                    "votes": 279
+                    "name": "Patterson",
+                    "votes": 286
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 0
+                    "name": "Mershon",
+                    "votes": 87
                   },
                   {
-                    "name": "District IV",
-                    "votes": 382
+                    "name": "Alabaha",
+                    "votes": 165
                   },
                   {
-                    "name": "District V",
-                    "votes": 295
+                    "name": "Sunset-Sweat",
+                    "votes": 61
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 2571,
+                "votes": 4008,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 108
+                    "name": "Hacklebarney-Cason",
+                    "votes": 1032
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 162
+                    "name": "Blackshear",
+                    "votes": 965
                   },
                   {
-                    "name": "Collins",
-                    "votes": 306
+                    "name": "St Johns-Blackshear",
+                    "votes": 561
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 43
+                    "name": "Otter Creek",
+                    "votes": 444
                   },
                   {
-                    "name": "District II",
-                    "votes": 542
+                    "name": "Patterson",
+                    "votes": 372
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 604
+                    "name": "Mershon",
+                    "votes": 180
                   },
                   {
-                    "name": "District IV",
-                    "votes": 601
+                    "name": "Alabaha",
+                    "votes": 340
                   },
                   {
-                    "name": "District V",
-                    "votes": 205
+                    "name": "Sunset-Sweat",
+                    "votes": 114
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 566,
+                "votes": 676,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 46
-                  },
-                  {
-                    "name": "Shiloh",
-                    "votes": 25
-                  },
-                  {
-                    "name": "Collins",
-                    "votes": 67
-                  },
-                  {
-                    "name": "Manassas",
-                    "votes": 6
-                  },
-                  {
-                    "name": "District II",
-                    "votes": 95
-                  },
-                  {
-                    "name": "East Glennville",
+                    "name": "Hacklebarney-Cason",
                     "votes": 164
                   },
                   {
-                    "name": "District IV",
-                    "votes": 115
+                    "name": "Blackshear",
+                    "votes": 182
                   },
                   {
-                    "name": "District V",
-                    "votes": 48
+                    "name": "St Johns-Blackshear",
+                    "votes": 92
+                  },
+                  {
+                    "name": "Otter Creek",
+                    "votes": 87
+                  },
+                  {
+                    "name": "Patterson",
+                    "votes": 46
+                  },
+                  {
+                    "name": "Mershon",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Alabaha",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Sunset-Sweat",
+                    "votes": 31
                   }
                 ]
               },
@@ -280,35 +280,35 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
+                    "name": "Hacklebarney-Cason",
                     "votes": 0
                   },
                   {
-                    "name": "Shiloh",
+                    "name": "Blackshear",
                     "votes": 0
                   },
                   {
-                    "name": "Collins",
+                    "name": "St Johns-Blackshear",
                     "votes": 0
                   },
                   {
-                    "name": "Manassas",
+                    "name": "Otter Creek",
                     "votes": 0
                   },
                   {
-                    "name": "District II",
+                    "name": "Patterson",
                     "votes": 0
                   },
                   {
-                    "name": "East Glennville",
+                    "name": "Mershon",
                     "votes": 0
                   },
                   {
-                    "name": "District IV",
+                    "name": "Alabaha",
                     "votes": 0
                   },
                   {
-                    "name": "District V",
+                    "name": "Sunset-Sweat",
                     "votes": 0
                   }
                 ]
@@ -318,119 +318,119 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 1714,
+            "totalVotes": 956,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 352,
+                "votes": 180,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 35
+                    "name": "Hacklebarney-Cason",
+                    "votes": 67
                   },
                   {
-                    "name": "Shiloh",
+                    "name": "Blackshear",
                     "votes": 38
                   },
                   {
-                    "name": "Collins",
-                    "votes": 0
+                    "name": "St Johns-Blackshear",
+                    "votes": 10
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 20
+                    "name": "Otter Creek",
+                    "votes": 13
                   },
                   {
-                    "name": "District II",
-                    "votes": 114
+                    "name": "Patterson",
+                    "votes": 37
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 0
+                    "name": "Mershon",
+                    "votes": 2
                   },
                   {
-                    "name": "District IV",
-                    "votes": 128
+                    "name": "Alabaha",
+                    "votes": 12
                   },
                   {
-                    "name": "District V",
-                    "votes": 17
+                    "name": "Sunset-Sweat",
+                    "votes": 1
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 869,
+                "votes": 497,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 30
+                    "name": "Hacklebarney-Cason",
+                    "votes": 226
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 74
+                    "name": "Blackshear",
+                    "votes": 111
                   },
                   {
-                    "name": "Collins",
-                    "votes": 95
+                    "name": "St Johns-Blackshear",
+                    "votes": 48
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 16
+                    "name": "Otter Creek",
+                    "votes": 36
                   },
                   {
-                    "name": "District II",
-                    "votes": 262
+                    "name": "Patterson",
+                    "votes": 45
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 139
+                    "name": "Mershon",
+                    "votes": 11
                   },
                   {
-                    "name": "District IV",
-                    "votes": 206
+                    "name": "Alabaha",
+                    "votes": 20
                   },
                   {
-                    "name": "District V",
-                    "votes": 47
+                    "name": "Sunset-Sweat",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 493,
+                "votes": 279,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 29
+                    "name": "Hacklebarney-Cason",
+                    "votes": 123
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 42
+                    "name": "Blackshear",
+                    "votes": 50
                   },
                   {
-                    "name": "Collins",
-                    "votes": 70
+                    "name": "St Johns-Blackshear",
+                    "votes": 24
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 15
+                    "name": "Otter Creek",
+                    "votes": 23
                   },
                   {
-                    "name": "District II",
-                    "votes": 98
+                    "name": "Patterson",
+                    "votes": 36
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 84
+                    "name": "Mershon",
+                    "votes": 6
                   },
                   {
-                    "name": "District IV",
-                    "votes": 136
+                    "name": "Alabaha",
+                    "votes": 17
                   },
                   {
-                    "name": "District V",
-                    "votes": 19
+                    "name": "Sunset-Sweat",
+                    "votes": 0
                   }
                 ]
               },
@@ -439,35 +439,35 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
+                    "name": "Hacklebarney-Cason",
                     "votes": 0
                   },
                   {
-                    "name": "Shiloh",
+                    "name": "Blackshear",
                     "votes": 0
                   },
                   {
-                    "name": "Collins",
+                    "name": "St Johns-Blackshear",
                     "votes": 0
                   },
                   {
-                    "name": "Manassas",
+                    "name": "Otter Creek",
                     "votes": 0
                   },
                   {
-                    "name": "District II",
+                    "name": "Patterson",
                     "votes": 0
                   },
                   {
-                    "name": "East Glennville",
+                    "name": "Mershon",
                     "votes": 0
                   },
                   {
-                    "name": "District IV",
+                    "name": "Alabaha",
                     "votes": 0
                   },
                   {
-                    "name": "District V",
+                    "name": "Sunset-Sweat",
                     "votes": 0
                   }
                 ]
@@ -482,80 +482,80 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 8,
-        "precinctsReported": 6,
+        "precinctsReported": 8,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 11,
+            "votes": 19,
             "Precinct": [
               {
-                "name": "Cobbtown",
-                "votes": 0
+                "name": "Hacklebarney-Cason",
+                "votes": 5
               },
               {
-                "name": "Shiloh",
-                "votes": 1
+                "name": "Blackshear",
+                "votes": 5
               },
               {
-                "name": "Collins",
+                "name": "St Johns-Blackshear",
                 "votes": 2
               },
               {
-                "name": "Manassas",
-                "votes": 0
+                "name": "Otter Creek",
+                "votes": 3
               },
               {
-                "name": "District II",
+                "name": "Patterson",
                 "votes": 2
               },
               {
-                "name": "East Glennville",
-                "votes": 1
+                "name": "Mershon",
+                "votes": 2
               },
               {
-                "name": "District IV",
-                "votes": 4
+                "name": "Alabaha",
+                "votes": 0
               },
               {
-                "name": "District V",
-                "votes": 1
+                "name": "Sunset-Sweat",
+                "votes": 0
               }
             ]
           },
           {
             "name": "Overvotes",
-            "votes": 0,
+            "votes": 1,
             "Precinct": [
               {
-                "name": "Cobbtown",
+                "name": "Hacklebarney-Cason",
+                "votes": 1
+              },
+              {
+                "name": "Blackshear",
                 "votes": 0
               },
               {
-                "name": "Shiloh",
+                "name": "St Johns-Blackshear",
                 "votes": 0
               },
               {
-                "name": "Collins",
+                "name": "Otter Creek",
                 "votes": 0
               },
               {
-                "name": "Manassas",
+                "name": "Patterson",
                 "votes": 0
               },
               {
-                "name": "District II",
+                "name": "Mershon",
                 "votes": 0
               },
               {
-                "name": "East Glennville",
+                "name": "Alabaha",
                 "votes": 0
               },
               {
-                "name": "District IV",
-                "votes": 0
-              },
-              {
-                "name": "District V",
+                "name": "Sunset-Sweat",
                 "votes": 0
               }
             ]
@@ -565,119 +565,119 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 4501,
+            "totalVotes": 6979,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1365,
+                "votes": 2292,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 215
+                    "name": "Hacklebarney-Cason",
+                    "votes": 511
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 118
+                    "name": "Blackshear",
+                    "votes": 581
                   },
                   {
-                    "name": "Collins",
-                    "votes": 0
+                    "name": "St Johns-Blackshear",
+                    "votes": 301
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 78
+                    "name": "Otter Creek",
+                    "votes": 297
                   },
                   {
-                    "name": "District II",
-                    "votes": 275
+                    "name": "Patterson",
+                    "votes": 288
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 0
+                    "name": "Mershon",
+                    "votes": 87
                   },
                   {
-                    "name": "District IV",
-                    "votes": 383
+                    "name": "Alabaha",
+                    "votes": 166
                   },
                   {
-                    "name": "District V",
-                    "votes": 296
+                    "name": "Sunset-Sweat",
+                    "votes": 61
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 2567,
+                "votes": 4014,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 109
+                    "name": "Hacklebarney-Cason",
+                    "votes": 1036
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 165
+                    "name": "Blackshear",
+                    "votes": 965
                   },
                   {
-                    "name": "Collins",
-                    "votes": 307
+                    "name": "St Johns-Blackshear",
+                    "votes": 562
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 43
+                    "name": "Otter Creek",
+                    "votes": 443
                   },
                   {
-                    "name": "District II",
-                    "votes": 537
+                    "name": "Patterson",
+                    "votes": 373
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 602
+                    "name": "Mershon",
+                    "votes": 181
                   },
                   {
-                    "name": "District IV",
-                    "votes": 598
+                    "name": "Alabaha",
+                    "votes": 340
                   },
                   {
-                    "name": "District V",
-                    "votes": 206
+                    "name": "Sunset-Sweat",
+                    "votes": 114
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 569,
+                "votes": 673,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 47
+                    "name": "Hacklebarney-Cason",
+                    "votes": 161
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 25
+                    "name": "Blackshear",
+                    "votes": 180
                   },
                   {
-                    "name": "Collins",
-                    "votes": 66
+                    "name": "St Johns-Blackshear",
+                    "votes": 92
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 6
+                    "name": "Otter Creek",
+                    "votes": 88
                   },
                   {
-                    "name": "District II",
-                    "votes": 97
+                    "name": "Patterson",
+                    "votes": 46
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 165
+                    "name": "Mershon",
+                    "votes": 35
                   },
                   {
-                    "name": "District IV",
-                    "votes": 115
+                    "name": "Alabaha",
+                    "votes": 40
                   },
                   {
-                    "name": "District V",
-                    "votes": 48
+                    "name": "Sunset-Sweat",
+                    "votes": 31
                   }
                 ]
               },
@@ -686,35 +686,35 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
+                    "name": "Hacklebarney-Cason",
                     "votes": 0
                   },
                   {
-                    "name": "Shiloh",
+                    "name": "Blackshear",
                     "votes": 0
                   },
                   {
-                    "name": "Collins",
+                    "name": "St Johns-Blackshear",
                     "votes": 0
                   },
                   {
-                    "name": "Manassas",
+                    "name": "Otter Creek",
                     "votes": 0
                   },
                   {
-                    "name": "District II",
+                    "name": "Patterson",
                     "votes": 0
                   },
                   {
-                    "name": "East Glennville",
+                    "name": "Mershon",
                     "votes": 0
                   },
                   {
-                    "name": "District IV",
+                    "name": "Alabaha",
                     "votes": 0
                   },
                   {
-                    "name": "District V",
+                    "name": "Sunset-Sweat",
                     "votes": 0
                   }
                 ]
@@ -724,119 +724,119 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 1714,
+            "totalVotes": 947,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 351,
+                "votes": 176,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 32
+                    "name": "Hacklebarney-Cason",
+                    "votes": 68
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 38
+                    "name": "Blackshear",
+                    "votes": 35
                   },
                   {
-                    "name": "Collins",
-                    "votes": 0
+                    "name": "St Johns-Blackshear",
+                    "votes": 10
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 20
+                    "name": "Otter Creek",
+                    "votes": 13
                   },
                   {
-                    "name": "District II",
-                    "votes": 119
+                    "name": "Patterson",
+                    "votes": 36
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 0
+                    "name": "Mershon",
+                    "votes": 2
                   },
                   {
-                    "name": "District IV",
-                    "votes": 126
+                    "name": "Alabaha",
+                    "votes": 11
                   },
                   {
-                    "name": "District V",
-                    "votes": 16
+                    "name": "Sunset-Sweat",
+                    "votes": 1
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 874,
+                "votes": 492,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 29
+                    "name": "Hacklebarney-Cason",
+                    "votes": 223
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 72
+                    "name": "Blackshear",
+                    "votes": 111
                   },
                   {
-                    "name": "Collins",
-                    "votes": 94
+                    "name": "St Johns-Blackshear",
+                    "votes": 45
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 16
+                    "name": "Otter Creek",
+                    "votes": 37
                   },
                   {
-                    "name": "District II",
-                    "votes": 267
+                    "name": "Patterson",
+                    "votes": 45
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 141
+                    "name": "Mershon",
+                    "votes": 10
                   },
                   {
-                    "name": "District IV",
-                    "votes": 209
+                    "name": "Alabaha",
+                    "votes": 21
                   },
                   {
-                    "name": "District V",
-                    "votes": 46
+                    "name": "Sunset-Sweat",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 489,
+                "votes": 279,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 28
+                    "name": "Hacklebarney-Cason",
+                    "votes": 125
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 42
+                    "name": "Blackshear",
+                    "votes": 52
                   },
                   {
-                    "name": "Collins",
-                    "votes": 70
+                    "name": "St Johns-Blackshear",
+                    "votes": 24
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 15
+                    "name": "Otter Creek",
+                    "votes": 22
                   },
                   {
-                    "name": "District II",
-                    "votes": 96
+                    "name": "Patterson",
+                    "votes": 34
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 83
+                    "name": "Mershon",
+                    "votes": 6
                   },
                   {
-                    "name": "District IV",
-                    "votes": 136
+                    "name": "Alabaha",
+                    "votes": 16
                   },
                   {
-                    "name": "District V",
-                    "votes": 19
+                    "name": "Sunset-Sweat",
+                    "votes": 0
                   }
                 ]
               },
@@ -845,35 +845,35 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
+                    "name": "Hacklebarney-Cason",
                     "votes": 0
                   },
                   {
-                    "name": "Shiloh",
+                    "name": "Blackshear",
                     "votes": 0
                   },
                   {
-                    "name": "Collins",
+                    "name": "St Johns-Blackshear",
                     "votes": 0
                   },
                   {
-                    "name": "Manassas",
+                    "name": "Otter Creek",
                     "votes": 0
                   },
                   {
-                    "name": "District II",
+                    "name": "Patterson",
                     "votes": 0
                   },
                   {
-                    "name": "East Glennville",
+                    "name": "Mershon",
                     "votes": 0
                   },
                   {
-                    "name": "District IV",
+                    "name": "Alabaha",
                     "votes": 0
                   },
                   {
-                    "name": "District V",
+                    "name": "Sunset-Sweat",
                     "votes": 0
                   }
                 ]
@@ -888,43 +888,43 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 8,
-        "precinctsReported": 6,
+        "precinctsReported": 8,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 125,
+            "votes": 100,
             "Precinct": [
               {
-                "name": "Cobbtown",
-                "votes": 7
+                "name": "Hacklebarney-Cason",
+                "votes": 24
               },
               {
-                "name": "Shiloh",
+                "name": "Blackshear",
+                "votes": 24
+              },
+              {
+                "name": "St Johns-Blackshear",
                 "votes": 12
               },
               {
-                "name": "Collins",
+                "name": "Otter Creek",
+                "votes": 9
+              },
+              {
+                "name": "Patterson",
                 "votes": 12
               },
               {
-                "name": "Manassas",
-                "votes": 1
+                "name": "Mershon",
+                "votes": 5
               },
               {
-                "name": "District II",
-                "votes": 34
+                "name": "Alabaha",
+                "votes": 12
               },
               {
-                "name": "East Glennville",
-                "votes": 10
-              },
-              {
-                "name": "District IV",
-                "votes": 34
-              },
-              {
-                "name": "District V",
-                "votes": 15
+                "name": "Sunset-Sweat",
+                "votes": 2
               }
             ]
           },
@@ -933,35 +933,35 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Cobbtown",
+                "name": "Hacklebarney-Cason",
                 "votes": 0
               },
               {
-                "name": "Shiloh",
+                "name": "Blackshear",
                 "votes": 0
               },
               {
-                "name": "Collins",
+                "name": "St Johns-Blackshear",
                 "votes": 0
               },
               {
-                "name": "Manassas",
+                "name": "Otter Creek",
                 "votes": 0
               },
               {
-                "name": "District II",
+                "name": "Patterson",
                 "votes": 0
               },
               {
-                "name": "East Glennville",
+                "name": "Mershon",
                 "votes": 0
               },
               {
-                "name": "District IV",
+                "name": "Alabaha",
                 "votes": 0
               },
               {
-                "name": "District V",
+                "name": "Sunset-Sweat",
                 "votes": 0
               }
             ]
@@ -971,119 +971,119 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 4477,
+            "totalVotes": 6929,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1359,
+                "votes": 2271,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 216
+                    "name": "Hacklebarney-Cason",
+                    "votes": 507
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 117
+                    "name": "Blackshear",
+                    "votes": 577
                   },
                   {
-                    "name": "Collins",
-                    "votes": 0
+                    "name": "St Johns-Blackshear",
+                    "votes": 298
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 78
+                    "name": "Otter Creek",
+                    "votes": 294
                   },
                   {
-                    "name": "District II",
-                    "votes": 275
+                    "name": "Patterson",
+                    "votes": 284
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 0
+                    "name": "Mershon",
+                    "votes": 86
                   },
                   {
-                    "name": "District IV",
-                    "votes": 384
+                    "name": "Alabaha",
+                    "votes": 164
                   },
                   {
-                    "name": "District V",
-                    "votes": 289
+                    "name": "Sunset-Sweat",
+                    "votes": 61
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 2547,
+                "votes": 3983,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 107
+                    "name": "Hacklebarney-Cason",
+                    "votes": 1035
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 164
+                    "name": "Blackshear",
+                    "votes": 960
                   },
                   {
-                    "name": "Collins",
-                    "votes": 309
+                    "name": "St Johns-Blackshear",
+                    "votes": 555
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 43
+                    "name": "Otter Creek",
+                    "votes": 443
                   },
                   {
-                    "name": "District II",
-                    "votes": 536
+                    "name": "Patterson",
+                    "votes": 369
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 596
+                    "name": "Mershon",
+                    "votes": 178
                   },
                   {
-                    "name": "District IV",
-                    "votes": 587
+                    "name": "Alabaha",
+                    "votes": 331
                   },
                   {
-                    "name": "District V",
-                    "votes": 205
+                    "name": "Sunset-Sweat",
+                    "votes": 112
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 571,
+                "votes": 675,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
+                    "name": "Hacklebarney-Cason",
+                    "votes": 160
+                  },
+                  {
+                    "name": "Blackshear",
+                    "votes": 181
+                  },
+                  {
+                    "name": "St Johns-Blackshear",
+                    "votes": 93
+                  },
+                  {
+                    "name": "Otter Creek",
+                    "votes": 88
+                  },
+                  {
+                    "name": "Patterson",
+                    "votes": 45
+                  },
+                  {
+                    "name": "Mershon",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Alabaha",
                     "votes": 42
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 26
-                  },
-                  {
-                    "name": "Collins",
-                    "votes": 70
-                  },
-                  {
-                    "name": "Manassas",
-                    "votes": 6
-                  },
-                  {
-                    "name": "District II",
-                    "votes": 97
-                  },
-                  {
-                    "name": "East Glennville",
-                    "votes": 167
-                  },
-                  {
-                    "name": "District IV",
-                    "votes": 116
-                  },
-                  {
-                    "name": "District V",
-                    "votes": 47
+                    "name": "Sunset-Sweat",
+                    "votes": 31
                   }
                 ]
               },
@@ -1092,35 +1092,35 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
+                    "name": "Hacklebarney-Cason",
                     "votes": 0
                   },
                   {
-                    "name": "Shiloh",
+                    "name": "Blackshear",
                     "votes": 0
                   },
                   {
-                    "name": "Collins",
+                    "name": "St Johns-Blackshear",
                     "votes": 0
                   },
                   {
-                    "name": "Manassas",
+                    "name": "Otter Creek",
                     "votes": 0
                   },
                   {
-                    "name": "District II",
+                    "name": "Patterson",
                     "votes": 0
                   },
                   {
-                    "name": "East Glennville",
+                    "name": "Mershon",
                     "votes": 0
                   },
                   {
-                    "name": "District IV",
+                    "name": "Alabaha",
                     "votes": 0
                   },
                   {
-                    "name": "District V",
+                    "name": "Sunset-Sweat",
                     "votes": 0
                   }
                 ]
@@ -1130,119 +1130,119 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 1621,
+            "totalVotes": 917,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 337,
+                "votes": 169,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 28
+                    "name": "Hacklebarney-Cason",
+                    "votes": 66
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 37
+                    "name": "Blackshear",
+                    "votes": 33
                   },
                   {
-                    "name": "Collins",
-                    "votes": 0
+                    "name": "St Johns-Blackshear",
+                    "votes": 10
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 20
+                    "name": "Otter Creek",
+                    "votes": 12
                   },
                   {
-                    "name": "District II",
-                    "votes": 114
+                    "name": "Patterson",
+                    "votes": 35
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 0
+                    "name": "Mershon",
+                    "votes": 2
                   },
                   {
-                    "name": "District IV",
-                    "votes": 122
+                    "name": "Alabaha",
+                    "votes": 10
                   },
                   {
-                    "name": "District V",
-                    "votes": 16
+                    "name": "Sunset-Sweat",
+                    "votes": 1
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 819,
+                "votes": 482,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 31
+                    "name": "Hacklebarney-Cason",
+                    "votes": 217
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 68
+                    "name": "Blackshear",
+                    "votes": 105
                   },
                   {
-                    "name": "Collins",
-                    "votes": 84
+                    "name": "St Johns-Blackshear",
+                    "votes": 47
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 15
+                    "name": "Otter Creek",
+                    "votes": 36
                   },
                   {
-                    "name": "District II",
-                    "votes": 243
+                    "name": "Patterson",
+                    "votes": 43
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 139
+                    "name": "Mershon",
+                    "votes": 11
                   },
                   {
-                    "name": "District IV",
-                    "votes": 197
+                    "name": "Alabaha",
+                    "votes": 23
                   },
                   {
-                    "name": "District V",
-                    "votes": 42
+                    "name": "Sunset-Sweat",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 465,
+                "votes": 266,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 26
+                    "name": "Hacklebarney-Cason",
+                    "votes": 121
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 37
+                    "name": "Blackshear",
+                    "votes": 49
                   },
                   {
-                    "name": "Collins",
-                    "votes": 64
+                    "name": "St Johns-Blackshear",
+                    "votes": 21
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 15
+                    "name": "Otter Creek",
+                    "votes": 21
                   },
                   {
-                    "name": "District II",
-                    "votes": 94
+                    "name": "Patterson",
+                    "votes": 36
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 80
+                    "name": "Mershon",
+                    "votes": 6
                   },
                   {
-                    "name": "District IV",
-                    "votes": 131
+                    "name": "Alabaha",
+                    "votes": 12
                   },
                   {
-                    "name": "District V",
-                    "votes": 18
+                    "name": "Sunset-Sweat",
+                    "votes": 0
                   }
                 ]
               },
@@ -1251,35 +1251,35 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
+                    "name": "Hacklebarney-Cason",
                     "votes": 0
                   },
                   {
-                    "name": "Shiloh",
+                    "name": "Blackshear",
                     "votes": 0
                   },
                   {
-                    "name": "Collins",
+                    "name": "St Johns-Blackshear",
                     "votes": 0
                   },
                   {
-                    "name": "Manassas",
+                    "name": "Otter Creek",
                     "votes": 0
                   },
                   {
-                    "name": "District II",
+                    "name": "Patterson",
                     "votes": 0
                   },
                   {
-                    "name": "East Glennville",
+                    "name": "Mershon",
                     "votes": 0
                   },
                   {
-                    "name": "District IV",
+                    "name": "Alabaha",
                     "votes": 0
                   },
                   {
-                    "name": "District V",
+                    "name": "Sunset-Sweat",
                     "votes": 0
                   }
                 ]

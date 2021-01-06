@@ -1,0 +1,1547 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:57:54 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Jones",
+    "VoterTurnout": {
+      "totalVoters": 0,
+      "ballotsCast": 11283,
+      "voterTurnout": 0.0,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Gray",
+            "totalVoters": 0,
+            "ballotsCast": 1859,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Hawkins",
+            "totalVoters": 0,
+            "ballotsCast": 2042,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Ethridge",
+            "totalVoters": 0,
+            "ballotsCast": 1118,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Clinton",
+            "totalVoters": 0,
+            "ballotsCast": 1605,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Roberts",
+            "totalVoters": 0,
+            "ballotsCast": 871,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Davidson",
+            "totalVoters": 0,
+            "ballotsCast": 505,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Pope",
+            "totalVoters": 0,
+            "ballotsCast": 1245,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Barron",
+            "totalVoters": 0,
+            "ballotsCast": 929,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Sanders",
+            "totalVoters": 0,
+            "ballotsCast": 129,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Finney",
+            "totalVoters": 0,
+            "ballotsCast": 980,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 10,
+        "precinctsReported": 7,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 23,
+            "Precinct": [
+              {
+                "name": "Gray",
+                "votes": 4
+              },
+              {
+                "name": "Hawkins",
+                "votes": 5
+              },
+              {
+                "name": "Ethridge",
+                "votes": 3
+              },
+              {
+                "name": "Clinton",
+                "votes": 5
+              },
+              {
+                "name": "Roberts",
+                "votes": 2
+              },
+              {
+                "name": "Davidson",
+                "votes": 0
+              },
+              {
+                "name": "Pope",
+                "votes": 3
+              },
+              {
+                "name": "Barron",
+                "votes": 1
+              },
+              {
+                "name": "Sanders",
+                "votes": 0
+              },
+              {
+                "name": "Finney",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Gray",
+                "votes": 0
+              },
+              {
+                "name": "Hawkins",
+                "votes": 0
+              },
+              {
+                "name": "Ethridge",
+                "votes": 0
+              },
+              {
+                "name": "Clinton",
+                "votes": 0
+              },
+              {
+                "name": "Roberts",
+                "votes": 0
+              },
+              {
+                "name": "Davidson",
+                "votes": 0
+              },
+              {
+                "name": "Pope",
+                "votes": 0
+              },
+              {
+                "name": "Barron",
+                "votes": 0
+              },
+              {
+                "name": "Sanders",
+                "votes": 0
+              },
+              {
+                "name": "Finney",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 7088,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 2391,
+                "Precinct": [
+                  {
+                    "name": "Gray",
+                    "votes": 469
+                  },
+                  {
+                    "name": "Hawkins",
+                    "votes": 319
+                  },
+                  {
+                    "name": "Ethridge",
+                    "votes": 287
+                  },
+                  {
+                    "name": "Clinton",
+                    "votes": 428
+                  },
+                  {
+                    "name": "Roberts",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davidson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pope",
+                    "votes": 418
+                  },
+                  {
+                    "name": "Barron",
+                    "votes": 381
+                  },
+                  {
+                    "name": "Sanders",
+                    "votes": 89
+                  },
+                  {
+                    "name": "Finney",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 3711,
+                "Precinct": [
+                  {
+                    "name": "Gray",
+                    "votes": 749
+                  },
+                  {
+                    "name": "Hawkins",
+                    "votes": 347
+                  },
+                  {
+                    "name": "Ethridge",
+                    "votes": 324
+                  },
+                  {
+                    "name": "Clinton",
+                    "votes": 609
+                  },
+                  {
+                    "name": "Roberts",
+                    "votes": 346
+                  },
+                  {
+                    "name": "Davidson",
+                    "votes": 301
+                  },
+                  {
+                    "name": "Pope",
+                    "votes": 329
+                  },
+                  {
+                    "name": "Barron",
+                    "votes": 223
+                  },
+                  {
+                    "name": "Sanders",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Finney",
+                    "votes": 468
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 986,
+                "Precinct": [
+                  {
+                    "name": "Gray",
+                    "votes": 164
+                  },
+                  {
+                    "name": "Hawkins",
+                    "votes": 87
+                  },
+                  {
+                    "name": "Ethridge",
+                    "votes": 94
+                  },
+                  {
+                    "name": "Clinton",
+                    "votes": 138
+                  },
+                  {
+                    "name": "Roberts",
+                    "votes": 129
+                  },
+                  {
+                    "name": "Davidson",
+                    "votes": 73
+                  },
+                  {
+                    "name": "Pope",
+                    "votes": 83
+                  },
+                  {
+                    "name": "Barron",
+                    "votes": 69
+                  },
+                  {
+                    "name": "Sanders",
+                    "votes": 3
+                  },
+                  {
+                    "name": "Finney",
+                    "votes": 146
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Gray",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hawkins",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ethridge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Clinton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Roberts",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davidson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pope",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Barron",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sanders",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Finney",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 4172,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 700,
+                "Precinct": [
+                  {
+                    "name": "Gray",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Hawkins",
+                    "votes": 254
+                  },
+                  {
+                    "name": "Ethridge",
+                    "votes": 93
+                  },
+                  {
+                    "name": "Clinton",
+                    "votes": 74
+                  },
+                  {
+                    "name": "Roberts",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davidson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pope",
+                    "votes": 123
+                  },
+                  {
+                    "name": "Barron",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Sanders",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Finney",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1843,
+                "Precinct": [
+                  {
+                    "name": "Gray",
+                    "votes": 239
+                  },
+                  {
+                    "name": "Hawkins",
+                    "votes": 527
+                  },
+                  {
+                    "name": "Ethridge",
+                    "votes": 173
+                  },
+                  {
+                    "name": "Clinton",
+                    "votes": 197
+                  },
+                  {
+                    "name": "Roberts",
+                    "votes": 214
+                  },
+                  {
+                    "name": "Davidson",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Pope",
+                    "votes": 150
+                  },
+                  {
+                    "name": "Barron",
+                    "votes": 92
+                  },
+                  {
+                    "name": "Sanders",
+                    "votes": 3
+                  },
+                  {
+                    "name": "Finney",
+                    "votes": 177
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1629,
+                "Precinct": [
+                  {
+                    "name": "Gray",
+                    "votes": 159
+                  },
+                  {
+                    "name": "Hawkins",
+                    "votes": 503
+                  },
+                  {
+                    "name": "Ethridge",
+                    "votes": 144
+                  },
+                  {
+                    "name": "Clinton",
+                    "votes": 154
+                  },
+                  {
+                    "name": "Roberts",
+                    "votes": 180
+                  },
+                  {
+                    "name": "Davidson",
+                    "votes": 60
+                  },
+                  {
+                    "name": "Pope",
+                    "votes": 139
+                  },
+                  {
+                    "name": "Barron",
+                    "votes": 96
+                  },
+                  {
+                    "name": "Sanders",
+                    "votes": 5
+                  },
+                  {
+                    "name": "Finney",
+                    "votes": 189
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Gray",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hawkins",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ethridge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Clinton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Roberts",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davidson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pope",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Barron",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sanders",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Finney",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 10,
+        "precinctsReported": 7,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 20,
+            "Precinct": [
+              {
+                "name": "Gray",
+                "votes": 1
+              },
+              {
+                "name": "Hawkins",
+                "votes": 4
+              },
+              {
+                "name": "Ethridge",
+                "votes": 4
+              },
+              {
+                "name": "Clinton",
+                "votes": 2
+              },
+              {
+                "name": "Roberts",
+                "votes": 2
+              },
+              {
+                "name": "Davidson",
+                "votes": 1
+              },
+              {
+                "name": "Pope",
+                "votes": 4
+              },
+              {
+                "name": "Barron",
+                "votes": 1
+              },
+              {
+                "name": "Sanders",
+                "votes": 0
+              },
+              {
+                "name": "Finney",
+                "votes": 1
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Gray",
+                "votes": 0
+              },
+              {
+                "name": "Hawkins",
+                "votes": 0
+              },
+              {
+                "name": "Ethridge",
+                "votes": 0
+              },
+              {
+                "name": "Clinton",
+                "votes": 0
+              },
+              {
+                "name": "Roberts",
+                "votes": 0
+              },
+              {
+                "name": "Davidson",
+                "votes": 0
+              },
+              {
+                "name": "Pope",
+                "votes": 0
+              },
+              {
+                "name": "Barron",
+                "votes": 0
+              },
+              {
+                "name": "Sanders",
+                "votes": 0
+              },
+              {
+                "name": "Finney",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 7078,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 2380,
+                "Precinct": [
+                  {
+                    "name": "Gray",
+                    "votes": 469
+                  },
+                  {
+                    "name": "Hawkins",
+                    "votes": 317
+                  },
+                  {
+                    "name": "Ethridge",
+                    "votes": 286
+                  },
+                  {
+                    "name": "Clinton",
+                    "votes": 427
+                  },
+                  {
+                    "name": "Roberts",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davidson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pope",
+                    "votes": 416
+                  },
+                  {
+                    "name": "Barron",
+                    "votes": 377
+                  },
+                  {
+                    "name": "Sanders",
+                    "votes": 88
+                  },
+                  {
+                    "name": "Finney",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 3706,
+                "Precinct": [
+                  {
+                    "name": "Gray",
+                    "votes": 751
+                  },
+                  {
+                    "name": "Hawkins",
+                    "votes": 345
+                  },
+                  {
+                    "name": "Ethridge",
+                    "votes": 322
+                  },
+                  {
+                    "name": "Clinton",
+                    "votes": 608
+                  },
+                  {
+                    "name": "Roberts",
+                    "votes": 346
+                  },
+                  {
+                    "name": "Davidson",
+                    "votes": 303
+                  },
+                  {
+                    "name": "Pope",
+                    "votes": 327
+                  },
+                  {
+                    "name": "Barron",
+                    "votes": 221
+                  },
+                  {
+                    "name": "Sanders",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Finney",
+                    "votes": 468
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 992,
+                "Precinct": [
+                  {
+                    "name": "Gray",
+                    "votes": 165
+                  },
+                  {
+                    "name": "Hawkins",
+                    "votes": 89
+                  },
+                  {
+                    "name": "Ethridge",
+                    "votes": 99
+                  },
+                  {
+                    "name": "Clinton",
+                    "votes": 142
+                  },
+                  {
+                    "name": "Roberts",
+                    "votes": 127
+                  },
+                  {
+                    "name": "Davidson",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Pope",
+                    "votes": 82
+                  },
+                  {
+                    "name": "Barron",
+                    "votes": 69
+                  },
+                  {
+                    "name": "Sanders",
+                    "votes": 3
+                  },
+                  {
+                    "name": "Finney",
+                    "votes": 145
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Gray",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hawkins",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ethridge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Clinton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Roberts",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davidson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pope",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Barron",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sanders",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Finney",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 4185,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 714,
+                "Precinct": [
+                  {
+                    "name": "Gray",
+                    "votes": 77
+                  },
+                  {
+                    "name": "Hawkins",
+                    "votes": 257
+                  },
+                  {
+                    "name": "Ethridge",
+                    "votes": 94
+                  },
+                  {
+                    "name": "Clinton",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Roberts",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davidson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pope",
+                    "votes": 125
+                  },
+                  {
+                    "name": "Barron",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Sanders",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Finney",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1850,
+                "Precinct": [
+                  {
+                    "name": "Gray",
+                    "votes": 238
+                  },
+                  {
+                    "name": "Hawkins",
+                    "votes": 530
+                  },
+                  {
+                    "name": "Ethridge",
+                    "votes": 175
+                  },
+                  {
+                    "name": "Clinton",
+                    "votes": 199
+                  },
+                  {
+                    "name": "Roberts",
+                    "votes": 214
+                  },
+                  {
+                    "name": "Davidson",
+                    "votes": 69
+                  },
+                  {
+                    "name": "Pope",
+                    "votes": 152
+                  },
+                  {
+                    "name": "Barron",
+                    "votes": 94
+                  },
+                  {
+                    "name": "Sanders",
+                    "votes": 3
+                  },
+                  {
+                    "name": "Finney",
+                    "votes": 176
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1621,
+                "Precinct": [
+                  {
+                    "name": "Gray",
+                    "votes": 158
+                  },
+                  {
+                    "name": "Hawkins",
+                    "votes": 500
+                  },
+                  {
+                    "name": "Ethridge",
+                    "votes": 138
+                  },
+                  {
+                    "name": "Clinton",
+                    "votes": 152
+                  },
+                  {
+                    "name": "Roberts",
+                    "votes": 182
+                  },
+                  {
+                    "name": "Davidson",
+                    "votes": 61
+                  },
+                  {
+                    "name": "Pope",
+                    "votes": 139
+                  },
+                  {
+                    "name": "Barron",
+                    "votes": 96
+                  },
+                  {
+                    "name": "Sanders",
+                    "votes": 5
+                  },
+                  {
+                    "name": "Finney",
+                    "votes": 190
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Gray",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hawkins",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ethridge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Clinton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Roberts",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davidson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pope",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Barron",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sanders",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Finney",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 10,
+        "precinctsReported": 7,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 159,
+            "Precinct": [
+              {
+                "name": "Gray",
+                "votes": 23
+              },
+              {
+                "name": "Hawkins",
+                "votes": 27
+              },
+              {
+                "name": "Ethridge",
+                "votes": 19
+              },
+              {
+                "name": "Clinton",
+                "votes": 15
+              },
+              {
+                "name": "Roberts",
+                "votes": 13
+              },
+              {
+                "name": "Davidson",
+                "votes": 9
+              },
+              {
+                "name": "Pope",
+                "votes": 17
+              },
+              {
+                "name": "Barron",
+                "votes": 12
+              },
+              {
+                "name": "Sanders",
+                "votes": 1
+              },
+              {
+                "name": "Finney",
+                "votes": 23
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Gray",
+                "votes": 0
+              },
+              {
+                "name": "Hawkins",
+                "votes": 0
+              },
+              {
+                "name": "Ethridge",
+                "votes": 0
+              },
+              {
+                "name": "Clinton",
+                "votes": 0
+              },
+              {
+                "name": "Roberts",
+                "votes": 0
+              },
+              {
+                "name": "Davidson",
+                "votes": 0
+              },
+              {
+                "name": "Pope",
+                "votes": 0
+              },
+              {
+                "name": "Barron",
+                "votes": 0
+              },
+              {
+                "name": "Sanders",
+                "votes": 0
+              },
+              {
+                "name": "Finney",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 7144,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 2407,
+                "Precinct": [
+                  {
+                    "name": "Gray",
+                    "votes": 477
+                  },
+                  {
+                    "name": "Hawkins",
+                    "votes": 326
+                  },
+                  {
+                    "name": "Ethridge",
+                    "votes": 285
+                  },
+                  {
+                    "name": "Clinton",
+                    "votes": 431
+                  },
+                  {
+                    "name": "Roberts",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davidson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pope",
+                    "votes": 421
+                  },
+                  {
+                    "name": "Barron",
+                    "votes": 377
+                  },
+                  {
+                    "name": "Sanders",
+                    "votes": 90
+                  },
+                  {
+                    "name": "Finney",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 3725,
+                "Precinct": [
+                  {
+                    "name": "Gray",
+                    "votes": 756
+                  },
+                  {
+                    "name": "Hawkins",
+                    "votes": 347
+                  },
+                  {
+                    "name": "Ethridge",
+                    "votes": 326
+                  },
+                  {
+                    "name": "Clinton",
+                    "votes": 608
+                  },
+                  {
+                    "name": "Roberts",
+                    "votes": 344
+                  },
+                  {
+                    "name": "Davidson",
+                    "votes": 305
+                  },
+                  {
+                    "name": "Pope",
+                    "votes": 330
+                  },
+                  {
+                    "name": "Barron",
+                    "votes": 224
+                  },
+                  {
+                    "name": "Sanders",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Finney",
+                    "votes": 469
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1012,
+                "Precinct": [
+                  {
+                    "name": "Gray",
+                    "votes": 172
+                  },
+                  {
+                    "name": "Hawkins",
+                    "votes": 90
+                  },
+                  {
+                    "name": "Ethridge",
+                    "votes": 97
+                  },
+                  {
+                    "name": "Clinton",
+                    "votes": 142
+                  },
+                  {
+                    "name": "Roberts",
+                    "votes": 129
+                  },
+                  {
+                    "name": "Davidson",
+                    "votes": 74
+                  },
+                  {
+                    "name": "Pope",
+                    "votes": 86
+                  },
+                  {
+                    "name": "Barron",
+                    "votes": 68
+                  },
+                  {
+                    "name": "Sanders",
+                    "votes": 4
+                  },
+                  {
+                    "name": "Finney",
+                    "votes": 150
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Gray",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hawkins",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ethridge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Clinton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Roberts",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davidson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pope",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Barron",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sanders",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Finney",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 3977,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 665,
+                "Precinct": [
+                  {
+                    "name": "Gray",
+                    "votes": 66
+                  },
+                  {
+                    "name": "Hawkins",
+                    "votes": 243
+                  },
+                  {
+                    "name": "Ethridge",
+                    "votes": 89
+                  },
+                  {
+                    "name": "Clinton",
+                    "votes": 68
+                  },
+                  {
+                    "name": "Roberts",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davidson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pope",
+                    "votes": 118
+                  },
+                  {
+                    "name": "Barron",
+                    "votes": 69
+                  },
+                  {
+                    "name": "Sanders",
+                    "votes": 12
+                  },
+                  {
+                    "name": "Finney",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1767,
+                "Precinct": [
+                  {
+                    "name": "Gray",
+                    "votes": 219
+                  },
+                  {
+                    "name": "Hawkins",
+                    "votes": 516
+                  },
+                  {
+                    "name": "Ethridge",
+                    "votes": 166
+                  },
+                  {
+                    "name": "Clinton",
+                    "votes": 192
+                  },
+                  {
+                    "name": "Roberts",
+                    "votes": 211
+                  },
+                  {
+                    "name": "Davidson",
+                    "votes": 63
+                  },
+                  {
+                    "name": "Pope",
+                    "votes": 140
+                  },
+                  {
+                    "name": "Barron",
+                    "votes": 87
+                  },
+                  {
+                    "name": "Sanders",
+                    "votes": 2
+                  },
+                  {
+                    "name": "Finney",
+                    "votes": 171
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1545,
+                "Precinct": [
+                  {
+                    "name": "Gray",
+                    "votes": 146
+                  },
+                  {
+                    "name": "Hawkins",
+                    "votes": 493
+                  },
+                  {
+                    "name": "Ethridge",
+                    "votes": 133
+                  },
+                  {
+                    "name": "Clinton",
+                    "votes": 149
+                  },
+                  {
+                    "name": "Roberts",
+                    "votes": 174
+                  },
+                  {
+                    "name": "Davidson",
+                    "votes": 54
+                  },
+                  {
+                    "name": "Pope",
+                    "votes": 133
+                  },
+                  {
+                    "name": "Barron",
+                    "votes": 92
+                  },
+                  {
+                    "name": "Sanders",
+                    "votes": 4
+                  },
+                  {
+                    "name": "Finney",
+                    "votes": 167
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Gray",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hawkins",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ethridge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Clinton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Roberts",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Davidson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pope",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Barron",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sanders",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Finney",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

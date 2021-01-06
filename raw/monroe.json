@@ -1,0 +1,2055 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:51:08 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Monroe",
+    "VoterTurnout": {
+      "totalVoters": 21393,
+      "ballotsCast": 14136,
+      "voterTurnout": 66.08,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Bentons",
+            "totalVoters": 2314,
+            "ballotsCast": 1749,
+            "voterTurnout": 75.58,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Brantleys",
+            "totalVoters": 1127,
+            "ballotsCast": 870,
+            "voterTurnout": 77.2,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Burgays",
+            "totalVoters": 2298,
+            "ballotsCast": 1839,
+            "voterTurnout": 80.03,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Cabaniss",
+            "totalVoters": 807,
+            "ballotsCast": 502,
+            "voterTurnout": 62.21,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Cox",
+            "totalVoters": 728,
+            "ballotsCast": 535,
+            "voterTurnout": 73.49,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Culloden",
+            "totalVoters": 466,
+            "ballotsCast": 311,
+            "voterTurnout": 66.74,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Dillards",
+            "totalVoters": 1006,
+            "ballotsCast": 639,
+            "voterTurnout": 63.52,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Evers",
+            "totalVoters": 2161,
+            "ballotsCast": 1439,
+            "voterTurnout": 66.59,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Forsyth",
+            "totalVoters": 4699,
+            "ballotsCast": 2764,
+            "voterTurnout": 58.82,
+            "percentReporting": "4"
+          },
+          {
+            "name": "High Falls",
+            "totalVoters": 2019,
+            "ballotsCast": 1126,
+            "voterTurnout": 55.77,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Kelseys",
+            "totalVoters": 727,
+            "ballotsCast": 493,
+            "voterTurnout": 67.81,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Middlebrooks",
+            "totalVoters": 1328,
+            "ballotsCast": 858,
+            "voterTurnout": 64.61,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Proctors",
+            "totalVoters": 1237,
+            "ballotsCast": 700,
+            "voterTurnout": 56.59,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Russellville",
+            "totalVoters": 476,
+            "ballotsCast": 311,
+            "voterTurnout": 65.34,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 14,
+        "precinctsReported": 14,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 29,
+            "Precinct": [
+              {
+                "name": "Bentons",
+                "votes": 1
+              },
+              {
+                "name": "Brantleys",
+                "votes": 2
+              },
+              {
+                "name": "Burgays",
+                "votes": 2
+              },
+              {
+                "name": "Cabaniss",
+                "votes": 1
+              },
+              {
+                "name": "Cox",
+                "votes": 1
+              },
+              {
+                "name": "Culloden",
+                "votes": 3
+              },
+              {
+                "name": "Dillards",
+                "votes": 2
+              },
+              {
+                "name": "Evers",
+                "votes": 2
+              },
+              {
+                "name": "Forsyth",
+                "votes": 10
+              },
+              {
+                "name": "High Falls",
+                "votes": 1
+              },
+              {
+                "name": "Kelseys",
+                "votes": 2
+              },
+              {
+                "name": "Middlebrooks",
+                "votes": 0
+              },
+              {
+                "name": "Proctors",
+                "votes": 1
+              },
+              {
+                "name": "Russellville",
+                "votes": 1
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Bentons",
+                "votes": 0
+              },
+              {
+                "name": "Brantleys",
+                "votes": 0
+              },
+              {
+                "name": "Burgays",
+                "votes": 0
+              },
+              {
+                "name": "Cabaniss",
+                "votes": 0
+              },
+              {
+                "name": "Cox",
+                "votes": 0
+              },
+              {
+                "name": "Culloden",
+                "votes": 0
+              },
+              {
+                "name": "Dillards",
+                "votes": 0
+              },
+              {
+                "name": "Evers",
+                "votes": 0
+              },
+              {
+                "name": "Forsyth",
+                "votes": 0
+              },
+              {
+                "name": "High Falls",
+                "votes": 0
+              },
+              {
+                "name": "Kelseys",
+                "votes": 0
+              },
+              {
+                "name": "Middlebrooks",
+                "votes": 0
+              },
+              {
+                "name": "Proctors",
+                "votes": 0
+              },
+              {
+                "name": "Russellville",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 10082,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 3903,
+                "Precinct": [
+                  {
+                    "name": "Bentons",
+                    "votes": 471
+                  },
+                  {
+                    "name": "Brantleys",
+                    "votes": 291
+                  },
+                  {
+                    "name": "Burgays",
+                    "votes": 543
+                  },
+                  {
+                    "name": "Cabaniss",
+                    "votes": 205
+                  },
+                  {
+                    "name": "Cox",
+                    "votes": 181
+                  },
+                  {
+                    "name": "Culloden",
+                    "votes": 114
+                  },
+                  {
+                    "name": "Dillards",
+                    "votes": 208
+                  },
+                  {
+                    "name": "Evers",
+                    "votes": 399
+                  },
+                  {
+                    "name": "Forsyth",
+                    "votes": 285
+                  },
+                  {
+                    "name": "High Falls",
+                    "votes": 421
+                  },
+                  {
+                    "name": "Kelseys",
+                    "votes": 125
+                  },
+                  {
+                    "name": "Middlebrooks",
+                    "votes": 240
+                  },
+                  {
+                    "name": "Proctors",
+                    "votes": 273
+                  },
+                  {
+                    "name": "Russellville",
+                    "votes": 147
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 5450,
+                "Precinct": [
+                  {
+                    "name": "Bentons",
+                    "votes": 793
+                  },
+                  {
+                    "name": "Brantleys",
+                    "votes": 419
+                  },
+                  {
+                    "name": "Burgays",
+                    "votes": 826
+                  },
+                  {
+                    "name": "Cabaniss",
+                    "votes": 131
+                  },
+                  {
+                    "name": "Cox",
+                    "votes": 220
+                  },
+                  {
+                    "name": "Culloden",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Dillards",
+                    "votes": 277
+                  },
+                  {
+                    "name": "Evers",
+                    "votes": 638
+                  },
+                  {
+                    "name": "Forsyth",
+                    "votes": 768
+                  },
+                  {
+                    "name": "High Falls",
+                    "votes": 431
+                  },
+                  {
+                    "name": "Kelseys",
+                    "votes": 121
+                  },
+                  {
+                    "name": "Middlebrooks",
+                    "votes": 443
+                  },
+                  {
+                    "name": "Proctors",
+                    "votes": 212
+                  },
+                  {
+                    "name": "Russellville",
+                    "votes": 104
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 729,
+                "Precinct": [
+                  {
+                    "name": "Bentons",
+                    "votes": 120
+                  },
+                  {
+                    "name": "Brantleys",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Burgays",
+                    "votes": 126
+                  },
+                  {
+                    "name": "Cabaniss",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Cox",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Culloden",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Dillards",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Evers",
+                    "votes": 90
+                  },
+                  {
+                    "name": "Forsyth",
+                    "votes": 104
+                  },
+                  {
+                    "name": "High Falls",
+                    "votes": 81
+                  },
+                  {
+                    "name": "Kelseys",
+                    "votes": 9
+                  },
+                  {
+                    "name": "Middlebrooks",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Proctors",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Russellville",
+                    "votes": 8
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Bentons",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brantleys",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Burgays",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cabaniss",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cox",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Culloden",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dillards",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Evers",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Forsyth",
+                    "votes": 0
+                  },
+                  {
+                    "name": "High Falls",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kelseys",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Middlebrooks",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Proctors",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Russellville",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 4025,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 873,
+                "Precinct": [
+                  {
+                    "name": "Bentons",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Brantleys",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Burgays",
+                    "votes": 63
+                  },
+                  {
+                    "name": "Cabaniss",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Cox",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Culloden",
+                    "votes": 45
+                  },
+                  {
+                    "name": "Dillards",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Evers",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Forsyth",
+                    "votes": 284
+                  },
+                  {
+                    "name": "High Falls",
+                    "votes": 48
+                  },
+                  {
+                    "name": "Kelseys",
+                    "votes": 61
+                  },
+                  {
+                    "name": "Middlebrooks",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Proctors",
+                    "votes": 57
+                  },
+                  {
+                    "name": "Russellville",
+                    "votes": 20
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1991,
+                "Precinct": [
+                  {
+                    "name": "Bentons",
+                    "votes": 175
+                  },
+                  {
+                    "name": "Brantleys",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Burgays",
+                    "votes": 182
+                  },
+                  {
+                    "name": "Cabaniss",
+                    "votes": 69
+                  },
+                  {
+                    "name": "Cox",
+                    "votes": 57
+                  },
+                  {
+                    "name": "Culloden",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Dillards",
+                    "votes": 60
+                  },
+                  {
+                    "name": "Evers",
+                    "votes": 167
+                  },
+                  {
+                    "name": "Forsyth",
+                    "votes": 812
+                  },
+                  {
+                    "name": "High Falls",
+                    "votes": 86
+                  },
+                  {
+                    "name": "Kelseys",
+                    "votes": 106
+                  },
+                  {
+                    "name": "Middlebrooks",
+                    "votes": 80
+                  },
+                  {
+                    "name": "Proctors",
+                    "votes": 90
+                  },
+                  {
+                    "name": "Russellville",
+                    "votes": 16
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1161,
+                "Precinct": [
+                  {
+                    "name": "Bentons",
+                    "votes": 122
+                  },
+                  {
+                    "name": "Brantleys",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Burgays",
+                    "votes": 97
+                  },
+                  {
+                    "name": "Cabaniss",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Cox",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Culloden",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Dillards",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Evers",
+                    "votes": 73
+                  },
+                  {
+                    "name": "Forsyth",
+                    "votes": 501
+                  },
+                  {
+                    "name": "High Falls",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Kelseys",
+                    "votes": 69
+                  },
+                  {
+                    "name": "Middlebrooks",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Proctors",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Russellville",
+                    "votes": 15
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Bentons",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brantleys",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Burgays",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cabaniss",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cox",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Culloden",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dillards",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Evers",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Forsyth",
+                    "votes": 0
+                  },
+                  {
+                    "name": "High Falls",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kelseys",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Middlebrooks",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Proctors",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Russellville",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 14,
+        "precinctsReported": 14,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 25,
+            "Precinct": [
+              {
+                "name": "Bentons",
+                "votes": 1
+              },
+              {
+                "name": "Brantleys",
+                "votes": 0
+              },
+              {
+                "name": "Burgays",
+                "votes": 1
+              },
+              {
+                "name": "Cabaniss",
+                "votes": 3
+              },
+              {
+                "name": "Cox",
+                "votes": 0
+              },
+              {
+                "name": "Culloden",
+                "votes": 1
+              },
+              {
+                "name": "Dillards",
+                "votes": 2
+              },
+              {
+                "name": "Evers",
+                "votes": 1
+              },
+              {
+                "name": "Forsyth",
+                "votes": 7
+              },
+              {
+                "name": "High Falls",
+                "votes": 4
+              },
+              {
+                "name": "Kelseys",
+                "votes": 2
+              },
+              {
+                "name": "Middlebrooks",
+                "votes": 0
+              },
+              {
+                "name": "Proctors",
+                "votes": 2
+              },
+              {
+                "name": "Russellville",
+                "votes": 1
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Bentons",
+                "votes": 0
+              },
+              {
+                "name": "Brantleys",
+                "votes": 0
+              },
+              {
+                "name": "Burgays",
+                "votes": 0
+              },
+              {
+                "name": "Cabaniss",
+                "votes": 0
+              },
+              {
+                "name": "Cox",
+                "votes": 0
+              },
+              {
+                "name": "Culloden",
+                "votes": 0
+              },
+              {
+                "name": "Dillards",
+                "votes": 0
+              },
+              {
+                "name": "Evers",
+                "votes": 0
+              },
+              {
+                "name": "Forsyth",
+                "votes": 0
+              },
+              {
+                "name": "High Falls",
+                "votes": 0
+              },
+              {
+                "name": "Kelseys",
+                "votes": 0
+              },
+              {
+                "name": "Middlebrooks",
+                "votes": 0
+              },
+              {
+                "name": "Proctors",
+                "votes": 0
+              },
+              {
+                "name": "Russellville",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 10055,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 3894,
+                "Precinct": [
+                  {
+                    "name": "Bentons",
+                    "votes": 474
+                  },
+                  {
+                    "name": "Brantleys",
+                    "votes": 293
+                  },
+                  {
+                    "name": "Burgays",
+                    "votes": 542
+                  },
+                  {
+                    "name": "Cabaniss",
+                    "votes": 203
+                  },
+                  {
+                    "name": "Cox",
+                    "votes": 179
+                  },
+                  {
+                    "name": "Culloden",
+                    "votes": 114
+                  },
+                  {
+                    "name": "Dillards",
+                    "votes": 206
+                  },
+                  {
+                    "name": "Evers",
+                    "votes": 397
+                  },
+                  {
+                    "name": "Forsyth",
+                    "votes": 282
+                  },
+                  {
+                    "name": "High Falls",
+                    "votes": 416
+                  },
+                  {
+                    "name": "Kelseys",
+                    "votes": 125
+                  },
+                  {
+                    "name": "Middlebrooks",
+                    "votes": 241
+                  },
+                  {
+                    "name": "Proctors",
+                    "votes": 273
+                  },
+                  {
+                    "name": "Russellville",
+                    "votes": 149
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 5435,
+                "Precinct": [
+                  {
+                    "name": "Bentons",
+                    "votes": 794
+                  },
+                  {
+                    "name": "Brantleys",
+                    "votes": 420
+                  },
+                  {
+                    "name": "Burgays",
+                    "votes": 824
+                  },
+                  {
+                    "name": "Cabaniss",
+                    "votes": 129
+                  },
+                  {
+                    "name": "Cox",
+                    "votes": 220
+                  },
+                  {
+                    "name": "Culloden",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Dillards",
+                    "votes": 277
+                  },
+                  {
+                    "name": "Evers",
+                    "votes": 637
+                  },
+                  {
+                    "name": "Forsyth",
+                    "votes": 764
+                  },
+                  {
+                    "name": "High Falls",
+                    "votes": 425
+                  },
+                  {
+                    "name": "Kelseys",
+                    "votes": 120
+                  },
+                  {
+                    "name": "Middlebrooks",
+                    "votes": 443
+                  },
+                  {
+                    "name": "Proctors",
+                    "votes": 212
+                  },
+                  {
+                    "name": "Russellville",
+                    "votes": 103
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 726,
+                "Precinct": [
+                  {
+                    "name": "Bentons",
+                    "votes": 119
+                  },
+                  {
+                    "name": "Brantleys",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Burgays",
+                    "votes": 127
+                  },
+                  {
+                    "name": "Cabaniss",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Cox",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Culloden",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Dillards",
+                    "votes": 28
+                  },
+                  {
+                    "name": "Evers",
+                    "votes": 89
+                  },
+                  {
+                    "name": "Forsyth",
+                    "votes": 104
+                  },
+                  {
+                    "name": "High Falls",
+                    "votes": 80
+                  },
+                  {
+                    "name": "Kelseys",
+                    "votes": 9
+                  },
+                  {
+                    "name": "Middlebrooks",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Proctors",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Russellville",
+                    "votes": 8
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Bentons",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brantleys",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Burgays",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cabaniss",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cox",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Culloden",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dillards",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Evers",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Forsyth",
+                    "votes": 0
+                  },
+                  {
+                    "name": "High Falls",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kelseys",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Middlebrooks",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Proctors",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Russellville",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 4056,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 879,
+                "Precinct": [
+                  {
+                    "name": "Bentons",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Brantleys",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Burgays",
+                    "votes": 63
+                  },
+                  {
+                    "name": "Cabaniss",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Cox",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Culloden",
+                    "votes": 47
+                  },
+                  {
+                    "name": "Dillards",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Evers",
+                    "votes": 72
+                  },
+                  {
+                    "name": "Forsyth",
+                    "votes": 288
+                  },
+                  {
+                    "name": "High Falls",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Kelseys",
+                    "votes": 61
+                  },
+                  {
+                    "name": "Middlebrooks",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Proctors",
+                    "votes": 57
+                  },
+                  {
+                    "name": "Russellville",
+                    "votes": 18
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2007,
+                "Precinct": [
+                  {
+                    "name": "Bentons",
+                    "votes": 174
+                  },
+                  {
+                    "name": "Brantleys",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Burgays",
+                    "votes": 186
+                  },
+                  {
+                    "name": "Cabaniss",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Cox",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Culloden",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Dillards",
+                    "votes": 60
+                  },
+                  {
+                    "name": "Evers",
+                    "votes": 169
+                  },
+                  {
+                    "name": "Forsyth",
+                    "votes": 815
+                  },
+                  {
+                    "name": "High Falls",
+                    "votes": 92
+                  },
+                  {
+                    "name": "Kelseys",
+                    "votes": 106
+                  },
+                  {
+                    "name": "Middlebrooks",
+                    "votes": 80
+                  },
+                  {
+                    "name": "Proctors",
+                    "votes": 89
+                  },
+                  {
+                    "name": "Russellville",
+                    "votes": 17
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1170,
+                "Precinct": [
+                  {
+                    "name": "Bentons",
+                    "votes": 123
+                  },
+                  {
+                    "name": "Brantleys",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Burgays",
+                    "votes": 96
+                  },
+                  {
+                    "name": "Cabaniss",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Cox",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Culloden",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Dillards",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Evers",
+                    "votes": 74
+                  },
+                  {
+                    "name": "Forsyth",
+                    "votes": 504
+                  },
+                  {
+                    "name": "High Falls",
+                    "votes": 59
+                  },
+                  {
+                    "name": "Kelseys",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Middlebrooks",
+                    "votes": 28
+                  },
+                  {
+                    "name": "Proctors",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Russellville",
+                    "votes": 15
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Bentons",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brantleys",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Burgays",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cabaniss",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cox",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Culloden",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dillards",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Evers",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Forsyth",
+                    "votes": 0
+                  },
+                  {
+                    "name": "High Falls",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kelseys",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Middlebrooks",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Proctors",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Russellville",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 14,
+        "precinctsReported": 14,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 184,
+            "Precinct": [
+              {
+                "name": "Bentons",
+                "votes": 23
+              },
+              {
+                "name": "Brantleys",
+                "votes": 15
+              },
+              {
+                "name": "Burgays",
+                "votes": 24
+              },
+              {
+                "name": "Cabaniss",
+                "votes": 9
+              },
+              {
+                "name": "Cox",
+                "votes": 9
+              },
+              {
+                "name": "Culloden",
+                "votes": 3
+              },
+              {
+                "name": "Dillards",
+                "votes": 9
+              },
+              {
+                "name": "Evers",
+                "votes": 13
+              },
+              {
+                "name": "Forsyth",
+                "votes": 45
+              },
+              {
+                "name": "High Falls",
+                "votes": 14
+              },
+              {
+                "name": "Kelseys",
+                "votes": 5
+              },
+              {
+                "name": "Middlebrooks",
+                "votes": 7
+              },
+              {
+                "name": "Proctors",
+                "votes": 5
+              },
+              {
+                "name": "Russellville",
+                "votes": 3
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Bentons",
+                "votes": 0
+              },
+              {
+                "name": "Brantleys",
+                "votes": 0
+              },
+              {
+                "name": "Burgays",
+                "votes": 0
+              },
+              {
+                "name": "Cabaniss",
+                "votes": 0
+              },
+              {
+                "name": "Cox",
+                "votes": 0
+              },
+              {
+                "name": "Culloden",
+                "votes": 0
+              },
+              {
+                "name": "Dillards",
+                "votes": 0
+              },
+              {
+                "name": "Evers",
+                "votes": 0
+              },
+              {
+                "name": "Forsyth",
+                "votes": 0
+              },
+              {
+                "name": "High Falls",
+                "votes": 0
+              },
+              {
+                "name": "Kelseys",
+                "votes": 0
+              },
+              {
+                "name": "Middlebrooks",
+                "votes": 0
+              },
+              {
+                "name": "Proctors",
+                "votes": 0
+              },
+              {
+                "name": "Russellville",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 10116,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 3919,
+                "Precinct": [
+                  {
+                    "name": "Bentons",
+                    "votes": 478
+                  },
+                  {
+                    "name": "Brantleys",
+                    "votes": 296
+                  },
+                  {
+                    "name": "Burgays",
+                    "votes": 551
+                  },
+                  {
+                    "name": "Cabaniss",
+                    "votes": 202
+                  },
+                  {
+                    "name": "Cox",
+                    "votes": 177
+                  },
+                  {
+                    "name": "Culloden",
+                    "votes": 115
+                  },
+                  {
+                    "name": "Dillards",
+                    "votes": 207
+                  },
+                  {
+                    "name": "Evers",
+                    "votes": 397
+                  },
+                  {
+                    "name": "Forsyth",
+                    "votes": 292
+                  },
+                  {
+                    "name": "High Falls",
+                    "votes": 420
+                  },
+                  {
+                    "name": "Kelseys",
+                    "votes": 125
+                  },
+                  {
+                    "name": "Middlebrooks",
+                    "votes": 240
+                  },
+                  {
+                    "name": "Proctors",
+                    "votes": 273
+                  },
+                  {
+                    "name": "Russellville",
+                    "votes": 146
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 5457,
+                "Precinct": [
+                  {
+                    "name": "Bentons",
+                    "votes": 798
+                  },
+                  {
+                    "name": "Brantleys",
+                    "votes": 418
+                  },
+                  {
+                    "name": "Burgays",
+                    "votes": 829
+                  },
+                  {
+                    "name": "Cabaniss",
+                    "votes": 134
+                  },
+                  {
+                    "name": "Cox",
+                    "votes": 220
+                  },
+                  {
+                    "name": "Culloden",
+                    "votes": 68
+                  },
+                  {
+                    "name": "Dillards",
+                    "votes": 280
+                  },
+                  {
+                    "name": "Evers",
+                    "votes": 637
+                  },
+                  {
+                    "name": "Forsyth",
+                    "votes": 773
+                  },
+                  {
+                    "name": "High Falls",
+                    "votes": 425
+                  },
+                  {
+                    "name": "Kelseys",
+                    "votes": 124
+                  },
+                  {
+                    "name": "Middlebrooks",
+                    "votes": 434
+                  },
+                  {
+                    "name": "Proctors",
+                    "votes": 213
+                  },
+                  {
+                    "name": "Russellville",
+                    "votes": 104
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 740,
+                "Precinct": [
+                  {
+                    "name": "Bentons",
+                    "votes": 119
+                  },
+                  {
+                    "name": "Brantleys",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Burgays",
+                    "votes": 132
+                  },
+                  {
+                    "name": "Cabaniss",
+                    "votes": 22
+                  },
+                  {
+                    "name": "Cox",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Culloden",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Dillards",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Evers",
+                    "votes": 90
+                  },
+                  {
+                    "name": "Forsyth",
+                    "votes": 105
+                  },
+                  {
+                    "name": "High Falls",
+                    "votes": 82
+                  },
+                  {
+                    "name": "Kelseys",
+                    "votes": 8
+                  },
+                  {
+                    "name": "Middlebrooks",
+                    "votes": 37
+                  },
+                  {
+                    "name": "Proctors",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Russellville",
+                    "votes": 8
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Bentons",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brantleys",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Burgays",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cabaniss",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cox",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Culloden",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dillards",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Evers",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Forsyth",
+                    "votes": 0
+                  },
+                  {
+                    "name": "High Falls",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kelseys",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Middlebrooks",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Proctors",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Russellville",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 3836,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 818,
+                "Precinct": [
+                  {
+                    "name": "Bentons",
+                    "votes": 51
+                  },
+                  {
+                    "name": "Brantleys",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Burgays",
+                    "votes": 49
+                  },
+                  {
+                    "name": "Cabaniss",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Cox",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Culloden",
+                    "votes": 45
+                  },
+                  {
+                    "name": "Dillards",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Evers",
+                    "votes": 66
+                  },
+                  {
+                    "name": "Forsyth",
+                    "votes": 276
+                  },
+                  {
+                    "name": "High Falls",
+                    "votes": 46
+                  },
+                  {
+                    "name": "Kelseys",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Middlebrooks",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Proctors",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Russellville",
+                    "votes": 20
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1903,
+                "Precinct": [
+                  {
+                    "name": "Bentons",
+                    "votes": 161
+                  },
+                  {
+                    "name": "Brantleys",
+                    "votes": 54
+                  },
+                  {
+                    "name": "Burgays",
+                    "votes": 168
+                  },
+                  {
+                    "name": "Cabaniss",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Cox",
+                    "votes": 52
+                  },
+                  {
+                    "name": "Culloden",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Dillards",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Evers",
+                    "votes": 165
+                  },
+                  {
+                    "name": "Forsyth",
+                    "votes": 784
+                  },
+                  {
+                    "name": "High Falls",
+                    "votes": 87
+                  },
+                  {
+                    "name": "Kelseys",
+                    "votes": 102
+                  },
+                  {
+                    "name": "Middlebrooks",
+                    "votes": 83
+                  },
+                  {
+                    "name": "Proctors",
+                    "votes": 87
+                  },
+                  {
+                    "name": "Russellville",
+                    "votes": 15
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1115,
+                "Precinct": [
+                  {
+                    "name": "Bentons",
+                    "votes": 119
+                  },
+                  {
+                    "name": "Brantleys",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Burgays",
+                    "votes": 86
+                  },
+                  {
+                    "name": "Cabaniss",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Cox",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Culloden",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Dillards",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Evers",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Forsyth",
+                    "votes": 489
+                  },
+                  {
+                    "name": "High Falls",
+                    "votes": 52
+                  },
+                  {
+                    "name": "Kelseys",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Middlebrooks",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Proctors",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Russellville",
+                    "votes": 15
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Bentons",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brantleys",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Burgays",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cabaniss",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cox",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Culloden",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dillards",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Evers",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Forsyth",
+                    "votes": 0
+                  },
+                  {
+                    "name": "High Falls",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Kelseys",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Middlebrooks",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Proctors",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Russellville",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

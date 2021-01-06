@@ -1,98 +1,98 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:43:17 PM EST",
+    "Timestamp": "1/5/2021 8:53:08 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Gordon",
     "VoterTurnout": {
       "totalVoters": 37176,
-      "ballotsCast": 8918,
-      "voterTurnout": 23.99,
+      "ballotsCast": 18401,
+      "voterTurnout": 49.5,
       "Precincts": {
         "Precinct": [
           {
             "name": "Sugar Valley",
             "totalVoters": 1500,
-            "ballotsCast": 786,
-            "voterTurnout": 52.4,
+            "ballotsCast": 889,
+            "voterTurnout": 59.27,
             "percentReporting": "4"
           },
           {
             "name": "Plainville",
             "totalVoters": 2088,
-            "ballotsCast": 362,
-            "voterTurnout": 17.34,
-            "percentReporting": "2"
+            "ballotsCast": 1117,
+            "voterTurnout": 53.5,
+            "percentReporting": "4"
           },
           {
             "name": "Sonoraville",
             "totalVoters": 5480,
-            "ballotsCast": 1291,
-            "voterTurnout": 23.56,
-            "percentReporting": "2"
+            "ballotsCast": 3204,
+            "voterTurnout": 58.47,
+            "percentReporting": "4"
           },
           {
             "name": "Pine Chapel",
             "totalVoters": 1095,
-            "ballotsCast": 223,
-            "voterTurnout": 20.37,
-            "percentReporting": "2"
+            "ballotsCast": 654,
+            "voterTurnout": 59.73,
+            "percentReporting": "4"
           },
           {
             "name": "Oostanaula",
             "totalVoters": 686,
-            "ballotsCast": 366,
-            "voterTurnout": 53.35,
+            "ballotsCast": 450,
+            "voterTurnout": 65.6,
             "percentReporting": "4"
           },
           {
             "name": "Oakman",
             "totalVoters": 1460,
-            "ballotsCast": 209,
-            "voterTurnout": 14.32,
-            "percentReporting": "2"
+            "ballotsCast": 781,
+            "voterTurnout": 53.49,
+            "percentReporting": "4"
           },
           {
             "name": "Gordon County",
             "totalVoters": 6528,
-            "ballotsCast": 1531,
-            "voterTurnout": 23.45,
+            "ballotsCast": 2096,
+            "voterTurnout": 32.11,
             "percentReporting": "2"
           },
           {
             "name": "Calhoun City",
             "totalVoters": 9745,
-            "ballotsCast": 2464,
-            "voterTurnout": 25.28,
-            "percentReporting": "2"
+            "ballotsCast": 5050,
+            "voterTurnout": 51.82,
+            "percentReporting": "4"
           },
           {
             "name": "Lily Pond",
             "totalVoters": 1961,
-            "ballotsCast": 468,
-            "voterTurnout": 23.87,
-            "percentReporting": "2"
+            "ballotsCast": 1153,
+            "voterTurnout": 58.8,
+            "percentReporting": "4"
           },
           {
             "name": "Fairmount",
             "totalVoters": 2033,
-            "ballotsCast": 266,
-            "voterTurnout": 13.08,
+            "ballotsCast": 451,
+            "voterTurnout": 22.18,
             "percentReporting": "2"
           },
           {
             "name": "Red Bud",
             "totalVoters": 3032,
-            "ballotsCast": 712,
-            "voterTurnout": 23.48,
-            "percentReporting": "2"
+            "ballotsCast": 1755,
+            "voterTurnout": 57.88,
+            "percentReporting": "4"
           },
           {
             "name": "Resaca",
             "totalVoters": 1568,
-            "ballotsCast": 240,
-            "voterTurnout": 15.31,
-            "percentReporting": "2"
+            "ballotsCast": 801,
+            "voterTurnout": 51.08,
+            "percentReporting": "4"
           }
         ]
       }
@@ -104,15 +104,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 12,
-        "precinctsReported": 2,
+        "precinctsReported": 10,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 13,
+            "votes": 28,
             "Precinct": [
               {
                 "name": "Sugar Valley",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Plainville",
@@ -120,15 +120,15 @@
               },
               {
                 "name": "Sonoraville",
-                "votes": 4
+                "votes": 5
               },
               {
                 "name": "Pine Chapel",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Oostanaula",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Oakman",
@@ -136,11 +136,11 @@
               },
               {
                 "name": "Gordon County",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Calhoun City",
-                "votes": 3
+                "votes": 11
               },
               {
                 "name": "Lily Pond",
@@ -148,11 +148,11 @@
               },
               {
                 "name": "Fairmount",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Red Bud",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Resaca",
@@ -162,7 +162,7 @@
           },
           {
             "name": "Overvotes",
-            "votes": 0,
+            "votes": 1,
             "Precinct": [
               {
                 "name": "Sugar Valley",
@@ -190,7 +190,7 @@
               },
               {
                 "name": "Gordon County",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Calhoun City",
@@ -219,11 +219,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 7410,
+            "totalVotes": 14736,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 646,
+                "votes": 6036,
                 "Precinct": [
                   {
                     "name": "Sugar Valley",
@@ -231,15 +231,15 @@
                   },
                   {
                     "name": "Plainville",
-                    "votes": 0
+                    "votes": 545
                   },
                   {
                     "name": "Sonoraville",
-                    "votes": 0
+                    "votes": 1356
                   },
                   {
                     "name": "Pine Chapel",
-                    "votes": 0
+                    "votes": 322
                   },
                   {
                     "name": "Oostanaula",
@@ -247,7 +247,7 @@
                   },
                   {
                     "name": "Oakman",
-                    "votes": 0
+                    "votes": 422
                   },
                   {
                     "name": "Gordon County",
@@ -255,11 +255,11 @@
                   },
                   {
                     "name": "Calhoun City",
-                    "votes": 0
+                    "votes": 1156
                   },
                   {
                     "name": "Lily Pond",
-                    "votes": 0
+                    "votes": 442
                   },
                   {
                     "name": "Fairmount",
@@ -267,11 +267,11 @@
                   },
                   {
                     "name": "Red Bud",
-                    "votes": 0
+                    "votes": 740
                   },
                   {
                     "name": "Resaca",
-                    "votes": 0
+                    "votes": 407
                   }
                 ]
               },
@@ -331,55 +331,55 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 1936,
                 "Precinct": [
                   {
                     "name": "Sugar Valley",
-                    "votes": 0
+                    "votes": 67
                   },
                   {
                     "name": "Plainville",
-                    "votes": 0
+                    "votes": 91
                   },
                   {
                     "name": "Sonoraville",
-                    "votes": 0
+                    "votes": 287
                   },
                   {
                     "name": "Pine Chapel",
-                    "votes": 0
+                    "votes": 46
                   },
                   {
                     "name": "Oostanaula",
-                    "votes": 0
+                    "votes": 55
                   },
                   {
                     "name": "Oakman",
-                    "votes": 0
+                    "votes": 76
                   },
                   {
                     "name": "Gordon County",
-                    "votes": 0
+                    "votes": 350
                   },
                   {
                     "name": "Calhoun City",
-                    "votes": 0
+                    "votes": 523
                   },
                   {
                     "name": "Lily Pond",
-                    "votes": 0
+                    "votes": 111
                   },
                   {
                     "name": "Fairmount",
-                    "votes": 0
+                    "votes": 137
                   },
                   {
                     "name": "Red Bud",
-                    "votes": 0
+                    "votes": 113
                   },
                   {
                     "name": "Resaca",
-                    "votes": 0
+                    "votes": 80
                   }
                 ]
               },
@@ -442,11 +442,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 1495,
+            "totalVotes": 3636,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 68,
+                "votes": 871,
                 "Precinct": [
                   {
                     "name": "Sugar Valley",
@@ -454,15 +454,15 @@
                   },
                   {
                     "name": "Plainville",
-                    "votes": 0
+                    "votes": 56
                   },
                   {
                     "name": "Sonoraville",
-                    "votes": 0
+                    "votes": 121
                   },
                   {
                     "name": "Pine Chapel",
-                    "votes": 0
+                    "votes": 20
                   },
                   {
                     "name": "Oostanaula",
@@ -470,7 +470,7 @@
                   },
                   {
                     "name": "Oakman",
-                    "votes": 0
+                    "votes": 30
                   },
                   {
                     "name": "Gordon County",
@@ -478,11 +478,11 @@
                   },
                   {
                     "name": "Calhoun City",
-                    "votes": 0
+                    "votes": 388
                   },
                   {
                     "name": "Lily Pond",
-                    "votes": 0
+                    "votes": 51
                   },
                   {
                     "name": "Fairmount",
@@ -490,11 +490,11 @@
                   },
                   {
                     "name": "Red Bud",
-                    "votes": 0
+                    "votes": 93
                   },
                   {
                     "name": "Resaca",
-                    "votes": 0
+                    "votes": 44
                   }
                 ]
               },
@@ -554,55 +554,55 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 1338,
                 "Precinct": [
                   {
                     "name": "Sugar Valley",
-                    "votes": 0
+                    "votes": 35
                   },
                   {
                     "name": "Plainville",
-                    "votes": 0
+                    "votes": 63
                   },
                   {
                     "name": "Sonoraville",
-                    "votes": 0
+                    "votes": 148
                   },
                   {
                     "name": "Pine Chapel",
-                    "votes": 0
+                    "votes": 42
                   },
                   {
                     "name": "Oostanaula",
-                    "votes": 0
+                    "votes": 28
                   },
                   {
                     "name": "Oakman",
-                    "votes": 0
+                    "votes": 44
                   },
                   {
                     "name": "Gordon County",
-                    "votes": 0
+                    "votes": 213
                   },
                   {
                     "name": "Calhoun City",
-                    "votes": 0
+                    "votes": 511
                   },
                   {
                     "name": "Lily Pond",
-                    "votes": 0
+                    "votes": 81
                   },
                   {
                     "name": "Fairmount",
-                    "votes": 0
+                    "votes": 47
                   },
                   {
                     "name": "Red Bud",
-                    "votes": 0
+                    "votes": 96
                   },
                   {
                     "name": "Resaca",
-                    "votes": 0
+                    "votes": 30
                   }
                 ]
               },
@@ -670,11 +670,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 12,
-        "precinctsReported": 2,
+        "precinctsReported": 10,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 10,
+            "votes": 25,
             "Precinct": [
               {
                 "name": "Sugar Valley",
@@ -682,11 +682,11 @@
               },
               {
                 "name": "Plainville",
-                "votes": 1
+                "votes": 3
               },
               {
                 "name": "Sonoraville",
-                "votes": 4
+                "votes": 6
               },
               {
                 "name": "Pine Chapel",
@@ -702,11 +702,11 @@
               },
               {
                 "name": "Gordon County",
-                "votes": 2
+                "votes": 4
               },
               {
                 "name": "Calhoun City",
-                "votes": 0
+                "votes": 5
               },
               {
                 "name": "Lily Pond",
@@ -714,15 +714,15 @@
               },
               {
                 "name": "Fairmount",
-                "votes": 0
-              },
-              {
-                "name": "Red Bud",
                 "votes": 1
               },
               {
+                "name": "Red Bud",
+                "votes": 2
+              },
+              {
                 "name": "Resaca",
-                "votes": 0
+                "votes": 2
               }
             ]
           },
@@ -785,11 +785,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 7396,
+            "totalVotes": 14691,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 646,
+                "votes": 6018,
                 "Precinct": [
                   {
                     "name": "Sugar Valley",
@@ -797,15 +797,15 @@
                   },
                   {
                     "name": "Plainville",
-                    "votes": 0
+                    "votes": 544
                   },
                   {
                     "name": "Sonoraville",
-                    "votes": 0
+                    "votes": 1353
                   },
                   {
                     "name": "Pine Chapel",
-                    "votes": 0
+                    "votes": 320
                   },
                   {
                     "name": "Oostanaula",
@@ -813,7 +813,7 @@
                   },
                   {
                     "name": "Oakman",
-                    "votes": 0
+                    "votes": 421
                   },
                   {
                     "name": "Gordon County",
@@ -821,11 +821,11 @@
                   },
                   {
                     "name": "Calhoun City",
-                    "votes": 0
+                    "votes": 1147
                   },
                   {
                     "name": "Lily Pond",
-                    "votes": 0
+                    "votes": 439
                   },
                   {
                     "name": "Fairmount",
@@ -833,11 +833,11 @@
                   },
                   {
                     "name": "Red Bud",
-                    "votes": 0
+                    "votes": 741
                   },
                   {
                     "name": "Resaca",
-                    "votes": 0
+                    "votes": 407
                   }
                 ]
               },
@@ -897,55 +897,55 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 1923,
                 "Precinct": [
                   {
                     "name": "Sugar Valley",
-                    "votes": 0
+                    "votes": 69
                   },
                   {
                     "name": "Plainville",
-                    "votes": 0
+                    "votes": 88
                   },
                   {
                     "name": "Sonoraville",
-                    "votes": 0
+                    "votes": 282
                   },
                   {
                     "name": "Pine Chapel",
-                    "votes": 0
+                    "votes": 50
                   },
                   {
                     "name": "Oostanaula",
-                    "votes": 0
+                    "votes": 56
                   },
                   {
                     "name": "Oakman",
-                    "votes": 0
+                    "votes": 77
                   },
                   {
                     "name": "Gordon County",
-                    "votes": 0
+                    "votes": 347
                   },
                   {
                     "name": "Calhoun City",
-                    "votes": 0
+                    "votes": 514
                   },
                   {
                     "name": "Lily Pond",
-                    "votes": 0
+                    "votes": 109
                   },
                   {
                     "name": "Fairmount",
-                    "votes": 0
+                    "votes": 137
                   },
                   {
                     "name": "Red Bud",
-                    "votes": 0
+                    "votes": 115
                   },
                   {
                     "name": "Resaca",
-                    "votes": 0
+                    "votes": 79
                   }
                 ]
               },
@@ -1008,11 +1008,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 1512,
+            "totalVotes": 3685,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 70,
+                "votes": 892,
                 "Precinct": [
                   {
                     "name": "Sugar Valley",
@@ -1020,15 +1020,15 @@
                   },
                   {
                     "name": "Plainville",
-                    "votes": 0
+                    "votes": 55
                   },
                   {
                     "name": "Sonoraville",
-                    "votes": 0
+                    "votes": 124
                   },
                   {
                     "name": "Pine Chapel",
-                    "votes": 0
+                    "votes": 22
                   },
                   {
                     "name": "Oostanaula",
@@ -1036,7 +1036,7 @@
                   },
                   {
                     "name": "Oakman",
-                    "votes": 0
+                    "votes": 31
                   },
                   {
                     "name": "Gordon County",
@@ -1044,11 +1044,11 @@
                   },
                   {
                     "name": "Calhoun City",
-                    "votes": 0
+                    "votes": 400
                   },
                   {
                     "name": "Lily Pond",
-                    "votes": 0
+                    "votes": 54
                   },
                   {
                     "name": "Fairmount",
@@ -1056,11 +1056,11 @@
                   },
                   {
                     "name": "Red Bud",
-                    "votes": 0
+                    "votes": 93
                   },
                   {
                     "name": "Resaca",
-                    "votes": 0
+                    "votes": 43
                   }
                 ]
               },
@@ -1120,55 +1120,55 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 1351,
                 "Precinct": [
                   {
                     "name": "Sugar Valley",
-                    "votes": 0
+                    "votes": 34
                   },
                   {
                     "name": "Plainville",
-                    "votes": 0
+                    "votes": 66
                   },
                   {
                     "name": "Sonoraville",
-                    "votes": 0
+                    "votes": 152
                   },
                   {
                     "name": "Pine Chapel",
-                    "votes": 0
+                    "votes": 39
                   },
                   {
                     "name": "Oostanaula",
-                    "votes": 0
+                    "votes": 28
                   },
                   {
                     "name": "Oakman",
-                    "votes": 0
+                    "votes": 43
                   },
                   {
                     "name": "Gordon County",
-                    "votes": 0
+                    "votes": 216
                   },
                   {
                     "name": "Calhoun City",
-                    "votes": 0
+                    "votes": 520
                   },
                   {
                     "name": "Lily Pond",
-                    "votes": 0
+                    "votes": 83
                   },
                   {
                     "name": "Fairmount",
-                    "votes": 0
+                    "votes": 47
                   },
                   {
                     "name": "Red Bud",
-                    "votes": 0
+                    "votes": 93
                   },
                   {
                     "name": "Resaca",
-                    "votes": 0
+                    "votes": 30
                   }
                 ]
               },
@@ -1236,59 +1236,59 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 12,
-        "precinctsReported": 2,
+        "precinctsReported": 10,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 121,
+            "votes": 293,
             "Precinct": [
               {
                 "name": "Sugar Valley",
-                "votes": 7
+                "votes": 12
               },
               {
                 "name": "Plainville",
-                "votes": 4
+                "votes": 16
               },
               {
                 "name": "Sonoraville",
-                "votes": 20
+                "votes": 43
               },
               {
                 "name": "Pine Chapel",
-                "votes": 6
+                "votes": 10
               },
               {
                 "name": "Oostanaula",
-                "votes": 6
+                "votes": 7
               },
               {
                 "name": "Oakman",
-                "votes": 6
+                "votes": 12
               },
               {
                 "name": "Gordon County",
-                "votes": 18
+                "votes": 40
               },
               {
                 "name": "Calhoun City",
-                "votes": 34
+                "votes": 78
               },
               {
                 "name": "Lily Pond",
-                "votes": 9
+                "votes": 27
               },
               {
                 "name": "Fairmount",
-                "votes": 0
+                "votes": 4
               },
               {
                 "name": "Red Bud",
-                "votes": 8
+                "votes": 30
               },
               {
                 "name": "Resaca",
-                "votes": 3
+                "votes": 14
               }
             ]
           },
@@ -1351,11 +1351,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 7383,
+            "totalVotes": 14663,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 645,
+                "votes": 6001,
                 "Precinct": [
                   {
                     "name": "Sugar Valley",
@@ -1363,15 +1363,15 @@
                   },
                   {
                     "name": "Plainville",
-                    "votes": 0
+                    "votes": 531
                   },
                   {
                     "name": "Sonoraville",
-                    "votes": 0
+                    "votes": 1345
                   },
                   {
                     "name": "Pine Chapel",
-                    "votes": 0
+                    "votes": 323
                   },
                   {
                     "name": "Oostanaula",
@@ -1379,7 +1379,7 @@
                   },
                   {
                     "name": "Oakman",
-                    "votes": 0
+                    "votes": 420
                   },
                   {
                     "name": "Gordon County",
@@ -1387,11 +1387,11 @@
                   },
                   {
                     "name": "Calhoun City",
-                    "votes": 0
+                    "votes": 1169
                   },
                   {
                     "name": "Lily Pond",
-                    "votes": 0
+                    "votes": 434
                   },
                   {
                     "name": "Fairmount",
@@ -1399,11 +1399,11 @@
                   },
                   {
                     "name": "Red Bud",
-                    "votes": 0
+                    "votes": 726
                   },
                   {
                     "name": "Resaca",
-                    "votes": 0
+                    "votes": 408
                   }
                 ]
               },
@@ -1463,55 +1463,55 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 1924,
                 "Precinct": [
                   {
                     "name": "Sugar Valley",
-                    "votes": 0
+                    "votes": 61
                   },
                   {
                     "name": "Plainville",
-                    "votes": 0
+                    "votes": 91
                   },
                   {
                     "name": "Sonoraville",
-                    "votes": 0
+                    "votes": 281
                   },
                   {
                     "name": "Pine Chapel",
-                    "votes": 0
+                    "votes": 49
                   },
                   {
                     "name": "Oostanaula",
-                    "votes": 0
+                    "votes": 56
                   },
                   {
                     "name": "Oakman",
-                    "votes": 0
+                    "votes": 74
                   },
                   {
                     "name": "Gordon County",
-                    "votes": 0
+                    "votes": 347
                   },
                   {
                     "name": "Calhoun City",
-                    "votes": 0
+                    "votes": 531
                   },
                   {
                     "name": "Lily Pond",
-                    "votes": 0
+                    "votes": 109
                   },
                   {
                     "name": "Fairmount",
-                    "votes": 0
+                    "votes": 136
                   },
                   {
                     "name": "Red Bud",
-                    "votes": 0
+                    "votes": 113
                   },
                   {
                     "name": "Resaca",
-                    "votes": 0
+                    "votes": 76
                   }
                 ]
               },
@@ -1574,11 +1574,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 1414,
+            "totalVotes": 3444,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 65,
+                "votes": 841,
                 "Precinct": [
                   {
                     "name": "Sugar Valley",
@@ -1586,15 +1586,15 @@
                   },
                   {
                     "name": "Plainville",
-                    "votes": 0
+                    "votes": 63
                   },
                   {
                     "name": "Sonoraville",
-                    "votes": 0
+                    "votes": 123
                   },
                   {
                     "name": "Pine Chapel",
-                    "votes": 0
+                    "votes": 17
                   },
                   {
                     "name": "Oostanaula",
@@ -1602,7 +1602,7 @@
                   },
                   {
                     "name": "Oakman",
-                    "votes": 0
+                    "votes": 30
                   },
                   {
                     "name": "Gordon County",
@@ -1610,11 +1610,11 @@
                   },
                   {
                     "name": "Calhoun City",
-                    "votes": 0
+                    "votes": 366
                   },
                   {
                     "name": "Lily Pond",
-                    "votes": 0
+                    "votes": 47
                   },
                   {
                     "name": "Fairmount",
@@ -1622,11 +1622,11 @@
                   },
                   {
                     "name": "Red Bud",
-                    "votes": 0
+                    "votes": 92
                   },
                   {
                     "name": "Resaca",
-                    "votes": 0
+                    "votes": 38
                   }
                 ]
               },
@@ -1686,55 +1686,55 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 1254,
                 "Precinct": [
                   {
                     "name": "Sugar Valley",
-                    "votes": 0
+                    "votes": 37
                   },
                   {
                     "name": "Plainville",
-                    "votes": 0
+                    "votes": 58
                   },
                   {
                     "name": "Sonoraville",
-                    "votes": 0
+                    "votes": 141
                   },
                   {
                     "name": "Pine Chapel",
-                    "votes": 0
+                    "votes": 38
                   },
                   {
                     "name": "Oostanaula",
-                    "votes": 0
+                    "votes": 27
                   },
                   {
                     "name": "Oakman",
-                    "votes": 0
+                    "votes": 42
                   },
                   {
                     "name": "Gordon County",
-                    "votes": 0
+                    "votes": 196
                   },
                   {
                     "name": "Calhoun City",
-                    "votes": 0
+                    "votes": 476
                   },
                   {
                     "name": "Lily Pond",
-                    "votes": 0
+                    "votes": 77
                   },
                   {
                     "name": "Fairmount",
-                    "votes": 0
+                    "votes": 45
                   },
                   {
                     "name": "Red Bud",
-                    "votes": 0
+                    "votes": 89
                   },
                   {
                     "name": "Resaca",
-                    "votes": 0
+                    "votes": 28
                   }
                 ]
               },

@@ -1,69 +1,69 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:59:12 PM EST",
+    "Timestamp": "1/5/2021 8:55:57 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
-    "Region": "Tattnall",
+    "Region": "Jefferson",
     "VoterTurnout": {
-      "totalVoters": 12463,
-      "ballotsCast": 6226,
-      "voterTurnout": 49.96,
+      "totalVoters": 11518,
+      "ballotsCast": 6772,
+      "voterTurnout": 58.79,
       "Precincts": {
         "Precinct": [
           {
-            "name": "Cobbtown",
-            "totalVoters": 782,
-            "ballotsCast": 460,
-            "voterTurnout": 58.82,
+            "name": "Stapleton Crossroads",
+            "totalVoters": 448,
+            "ballotsCast": 280,
+            "voterTurnout": 62.5,
             "percentReporting": "4"
           },
           {
-            "name": "Shiloh",
-            "totalVoters": 1153,
-            "ballotsCast": 461,
-            "voterTurnout": 39.98,
+            "name": "Matthews",
+            "totalVoters": 632,
+            "ballotsCast": 411,
+            "voterTurnout": 65.03,
             "percentReporting": "4"
           },
           {
-            "name": "Collins",
-            "totalVoters": 1527,
-            "ballotsCast": 539,
-            "voterTurnout": 35.3,
-            "percentReporting": "2"
-          },
-          {
-            "name": "Manassas",
-            "totalVoters": 271,
-            "ballotsCast": 178,
-            "voterTurnout": 65.68,
+            "name": "Wrens",
+            "totalVoters": 2916,
+            "ballotsCast": 1678,
+            "voterTurnout": 57.54,
             "percentReporting": "4"
           },
           {
-            "name": "District II",
-            "totalVoters": 2546,
-            "ballotsCast": 1393,
-            "voterTurnout": 54.71,
+            "name": "Louisville",
+            "totalVoters": 3960,
+            "ballotsCast": 2348,
+            "voterTurnout": 59.29,
             "percentReporting": "4"
           },
           {
-            "name": "East Glennville",
-            "totalVoters": 2560,
-            "ballotsCast": 992,
-            "voterTurnout": 38.75,
-            "percentReporting": "2"
-          },
-          {
-            "name": "District IV",
-            "totalVoters": 2545,
-            "ballotsCast": 1571,
-            "voterTurnout": 61.73,
+            "name": "Wadley",
+            "totalVoters": 1931,
+            "ballotsCast": 1079,
+            "voterTurnout": 55.88,
             "percentReporting": "4"
           },
           {
-            "name": "District V",
-            "totalVoters": 1079,
-            "ballotsCast": 632,
-            "voterTurnout": 58.57,
+            "name": "Bartow",
+            "totalVoters": 543,
+            "ballotsCast": 323,
+            "voterTurnout": 59.48,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Stapleton",
+            "totalVoters": 699,
+            "ballotsCast": 401,
+            "voterTurnout": 57.37,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Avera",
+            "totalVoters": 389,
+            "ballotsCast": 252,
+            "voterTurnout": 64.78,
             "percentReporting": "4"
           }
         ]
@@ -76,42 +76,42 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 8,
-        "precinctsReported": 6,
+        "precinctsReported": 8,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 10,
+            "votes": 18,
             "Precinct": [
               {
-                "name": "Cobbtown",
+                "name": "Stapleton Crossroads",
+                "votes": 1
+              },
+              {
+                "name": "Matthews",
                 "votes": 0
               },
               {
-                "name": "Shiloh",
+                "name": "Wrens",
+                "votes": 6
+              },
+              {
+                "name": "Louisville",
+                "votes": 6
+              },
+              {
+                "name": "Wadley",
+                "votes": 3
+              },
+              {
+                "name": "Bartow",
                 "votes": 1
               },
               {
-                "name": "Collins",
-                "votes": 1
-              },
-              {
-                "name": "Manassas",
+                "name": "Stapleton",
                 "votes": 0
               },
               {
-                "name": "District II",
-                "votes": 3
-              },
-              {
-                "name": "East Glennville",
-                "votes": 1
-              },
-              {
-                "name": "District IV",
-                "votes": 3
-              },
-              {
-                "name": "District V",
+                "name": "Avera",
                 "votes": 1
               }
             ]
@@ -121,35 +121,35 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Cobbtown",
+                "name": "Stapleton Crossroads",
                 "votes": 0
               },
               {
-                "name": "Shiloh",
+                "name": "Matthews",
                 "votes": 0
               },
               {
-                "name": "Collins",
+                "name": "Wrens",
                 "votes": 0
               },
               {
-                "name": "Manassas",
+                "name": "Louisville",
                 "votes": 0
               },
               {
-                "name": "District II",
+                "name": "Wadley",
                 "votes": 0
               },
               {
-                "name": "East Glennville",
+                "name": "Bartow",
                 "votes": 0
               },
               {
-                "name": "District IV",
+                "name": "Stapleton",
                 "votes": 0
               },
               {
-                "name": "District V",
+                "name": "Avera",
                 "votes": 0
               }
             ]
@@ -159,119 +159,119 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 4502,
+            "totalVotes": 3125,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1365,
+                "votes": 1439,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 212
+                    "name": "Stapleton Crossroads",
+                    "votes": 83
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 119
+                    "name": "Matthews",
+                    "votes": 211
                   },
                   {
-                    "name": "Collins",
-                    "votes": 0
+                    "name": "Wrens",
+                    "votes": 360
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 78
+                    "name": "Louisville",
+                    "votes": 250
                   },
                   {
-                    "name": "District II",
-                    "votes": 279
+                    "name": "Wadley",
+                    "votes": 112
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 0
+                    "name": "Bartow",
+                    "votes": 80
                   },
                   {
-                    "name": "District IV",
-                    "votes": 382
+                    "name": "Stapleton",
+                    "votes": 174
                   },
                   {
-                    "name": "District V",
-                    "votes": 295
+                    "name": "Avera",
+                    "votes": 169
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 2571,
+                "votes": 1408,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 108
+                    "name": "Stapleton Crossroads",
+                    "votes": 76
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 162
+                    "name": "Matthews",
+                    "votes": 48
                   },
                   {
-                    "name": "Collins",
-                    "votes": 306
+                    "name": "Wrens",
+                    "votes": 325
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 43
+                    "name": "Louisville",
+                    "votes": 616
                   },
                   {
-                    "name": "District II",
-                    "votes": 542
+                    "name": "Wadley",
+                    "votes": 189
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 604
+                    "name": "Bartow",
+                    "votes": 70
                   },
                   {
-                    "name": "District IV",
-                    "votes": 601
+                    "name": "Stapleton",
+                    "votes": 59
                   },
                   {
-                    "name": "District V",
-                    "votes": 205
+                    "name": "Avera",
+                    "votes": 25
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 566,
+                "votes": 278,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 46
+                    "name": "Stapleton Crossroads",
+                    "votes": 13
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 25
+                    "name": "Matthews",
+                    "votes": 27
                   },
                   {
-                    "name": "Collins",
-                    "votes": 67
+                    "name": "Wrens",
+                    "votes": 63
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 6
+                    "name": "Louisville",
+                    "votes": 102
                   },
                   {
-                    "name": "District II",
-                    "votes": 95
+                    "name": "Wadley",
+                    "votes": 26
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 164
+                    "name": "Bartow",
+                    "votes": 15
                   },
                   {
-                    "name": "District IV",
-                    "votes": 115
+                    "name": "Stapleton",
+                    "votes": 16
                   },
                   {
-                    "name": "District V",
-                    "votes": 48
+                    "name": "Avera",
+                    "votes": 16
                   }
                 ]
               },
@@ -280,35 +280,35 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
+                    "name": "Stapleton Crossroads",
                     "votes": 0
                   },
                   {
-                    "name": "Shiloh",
+                    "name": "Matthews",
                     "votes": 0
                   },
                   {
-                    "name": "Collins",
+                    "name": "Wrens",
                     "votes": 0
                   },
                   {
-                    "name": "Manassas",
+                    "name": "Louisville",
                     "votes": 0
                   },
                   {
-                    "name": "District II",
+                    "name": "Wadley",
                     "votes": 0
                   },
                   {
-                    "name": "East Glennville",
+                    "name": "Bartow",
                     "votes": 0
                   },
                   {
-                    "name": "District IV",
+                    "name": "Stapleton",
                     "votes": 0
                   },
                   {
-                    "name": "District V",
+                    "name": "Avera",
                     "votes": 0
                   }
                 ]
@@ -318,119 +318,119 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 1714,
+            "totalVotes": 3629,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 352,
+                "votes": 1154,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 35
+                    "name": "Stapleton Crossroads",
+                    "votes": 32
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 38
+                    "name": "Matthews",
+                    "votes": 47
                   },
                   {
-                    "name": "Collins",
-                    "votes": 0
+                    "name": "Wrens",
+                    "votes": 347
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 20
+                    "name": "Louisville",
+                    "votes": 326
                   },
                   {
-                    "name": "District II",
-                    "votes": 114
+                    "name": "Wadley",
+                    "votes": 251
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 0
+                    "name": "Bartow",
+                    "votes": 58
                   },
                   {
-                    "name": "District IV",
-                    "votes": 128
+                    "name": "Stapleton",
+                    "votes": 75
                   },
                   {
-                    "name": "District V",
-                    "votes": 17
+                    "name": "Avera",
+                    "votes": 18
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 869,
+                "votes": 1488,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 30
+                    "name": "Stapleton Crossroads",
+                    "votes": 33
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 74
+                    "name": "Matthews",
+                    "votes": 48
                   },
                   {
-                    "name": "Collins",
-                    "votes": 95
+                    "name": "Wrens",
+                    "votes": 328
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 16
+                    "name": "Louisville",
+                    "votes": 701
                   },
                   {
-                    "name": "District II",
-                    "votes": 262
+                    "name": "Wadley",
+                    "votes": 259
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 139
+                    "name": "Bartow",
+                    "votes": 67
                   },
                   {
-                    "name": "District IV",
-                    "votes": 206
+                    "name": "Stapleton",
+                    "votes": 43
                   },
                   {
-                    "name": "District V",
-                    "votes": 47
+                    "name": "Avera",
+                    "votes": 9
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 493,
+                "votes": 987,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 29
-                  },
-                  {
-                    "name": "Shiloh",
+                    "name": "Stapleton Crossroads",
                     "votes": 42
                   },
                   {
-                    "name": "Collins",
-                    "votes": 70
+                    "name": "Matthews",
+                    "votes": 30
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 15
+                    "name": "Wrens",
+                    "votes": 249
                   },
                   {
-                    "name": "District II",
-                    "votes": 98
+                    "name": "Louisville",
+                    "votes": 347
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 84
+                    "name": "Wadley",
+                    "votes": 239
                   },
                   {
-                    "name": "District IV",
-                    "votes": 136
+                    "name": "Bartow",
+                    "votes": 32
                   },
                   {
-                    "name": "District V",
-                    "votes": 19
+                    "name": "Stapleton",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Avera",
+                    "votes": 14
                   }
                 ]
               },
@@ -439,35 +439,35 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
+                    "name": "Stapleton Crossroads",
                     "votes": 0
                   },
                   {
-                    "name": "Shiloh",
+                    "name": "Matthews",
                     "votes": 0
                   },
                   {
-                    "name": "Collins",
+                    "name": "Wrens",
                     "votes": 0
                   },
                   {
-                    "name": "Manassas",
+                    "name": "Louisville",
                     "votes": 0
                   },
                   {
-                    "name": "District II",
+                    "name": "Wadley",
                     "votes": 0
                   },
                   {
-                    "name": "East Glennville",
+                    "name": "Bartow",
                     "votes": 0
                   },
                   {
-                    "name": "District IV",
+                    "name": "Stapleton",
                     "votes": 0
                   },
                   {
-                    "name": "District V",
+                    "name": "Avera",
                     "votes": 0
                   }
                 ]
@@ -482,43 +482,43 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 8,
-        "precinctsReported": 6,
+        "precinctsReported": 8,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 11,
+            "votes": 17,
             "Precinct": [
               {
-                "name": "Cobbtown",
+                "name": "Stapleton Crossroads",
                 "votes": 0
               },
               {
-                "name": "Shiloh",
-                "votes": 1
-              },
-              {
-                "name": "Collins",
-                "votes": 2
-              },
-              {
-                "name": "Manassas",
+                "name": "Matthews",
                 "votes": 0
               },
               {
-                "name": "District II",
-                "votes": 2
+                "name": "Wrens",
+                "votes": 7
               },
               {
-                "name": "East Glennville",
-                "votes": 1
+                "name": "Louisville",
+                "votes": 7
               },
               {
-                "name": "District IV",
-                "votes": 4
+                "name": "Wadley",
+                "votes": 3
               },
               {
-                "name": "District V",
-                "votes": 1
+                "name": "Bartow",
+                "votes": 0
+              },
+              {
+                "name": "Stapleton",
+                "votes": 0
+              },
+              {
+                "name": "Avera",
+                "votes": 0
               }
             ]
           },
@@ -527,35 +527,35 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Cobbtown",
+                "name": "Stapleton Crossroads",
                 "votes": 0
               },
               {
-                "name": "Shiloh",
+                "name": "Matthews",
                 "votes": 0
               },
               {
-                "name": "Collins",
+                "name": "Wrens",
                 "votes": 0
               },
               {
-                "name": "Manassas",
+                "name": "Louisville",
                 "votes": 0
               },
               {
-                "name": "District II",
+                "name": "Wadley",
                 "votes": 0
               },
               {
-                "name": "East Glennville",
+                "name": "Bartow",
                 "votes": 0
               },
               {
-                "name": "District IV",
+                "name": "Stapleton",
                 "votes": 0
               },
               {
-                "name": "District V",
+                "name": "Avera",
                 "votes": 0
               }
             ]
@@ -565,119 +565,119 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 4501,
+            "totalVotes": 3112,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1365,
+                "votes": 1437,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 215
+                    "name": "Stapleton Crossroads",
+                    "votes": 84
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 118
+                    "name": "Matthews",
+                    "votes": 211
                   },
                   {
-                    "name": "Collins",
-                    "votes": 0
+                    "name": "Wrens",
+                    "votes": 356
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 78
+                    "name": "Louisville",
+                    "votes": 249
                   },
                   {
-                    "name": "District II",
-                    "votes": 275
+                    "name": "Wadley",
+                    "votes": 111
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 0
+                    "name": "Bartow",
+                    "votes": 81
                   },
                   {
-                    "name": "District IV",
-                    "votes": 383
+                    "name": "Stapleton",
+                    "votes": 174
                   },
                   {
-                    "name": "District V",
-                    "votes": 296
+                    "name": "Avera",
+                    "votes": 171
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 2567,
+                "votes": 1400,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 109
+                    "name": "Stapleton Crossroads",
+                    "votes": 76
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 165
+                    "name": "Matthews",
+                    "votes": 48
                   },
                   {
-                    "name": "Collins",
-                    "votes": 307
+                    "name": "Wrens",
+                    "votes": 326
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 43
+                    "name": "Louisville",
+                    "votes": 608
                   },
                   {
-                    "name": "District II",
-                    "votes": 537
+                    "name": "Wadley",
+                    "votes": 189
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 602
+                    "name": "Bartow",
+                    "votes": 70
                   },
                   {
-                    "name": "District IV",
-                    "votes": 598
+                    "name": "Stapleton",
+                    "votes": 58
                   },
                   {
-                    "name": "District V",
-                    "votes": 206
+                    "name": "Avera",
+                    "votes": 25
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 569,
+                "votes": 275,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 47
+                    "name": "Stapleton Crossroads",
+                    "votes": 14
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 25
+                    "name": "Matthews",
+                    "votes": 28
                   },
                   {
-                    "name": "Collins",
-                    "votes": 66
+                    "name": "Wrens",
+                    "votes": 60
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 6
+                    "name": "Louisville",
+                    "votes": 100
                   },
                   {
-                    "name": "District II",
-                    "votes": 97
+                    "name": "Wadley",
+                    "votes": 26
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 165
+                    "name": "Bartow",
+                    "votes": 15
                   },
                   {
-                    "name": "District IV",
-                    "votes": 115
+                    "name": "Stapleton",
+                    "votes": 16
                   },
                   {
-                    "name": "District V",
-                    "votes": 48
+                    "name": "Avera",
+                    "votes": 16
                   }
                 ]
               },
@@ -686,35 +686,35 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
+                    "name": "Stapleton Crossroads",
                     "votes": 0
                   },
                   {
-                    "name": "Shiloh",
+                    "name": "Matthews",
                     "votes": 0
                   },
                   {
-                    "name": "Collins",
+                    "name": "Wrens",
                     "votes": 0
                   },
                   {
-                    "name": "Manassas",
+                    "name": "Louisville",
                     "votes": 0
                   },
                   {
-                    "name": "District II",
+                    "name": "Wadley",
                     "votes": 0
                   },
                   {
-                    "name": "East Glennville",
+                    "name": "Bartow",
                     "votes": 0
                   },
                   {
-                    "name": "District IV",
+                    "name": "Stapleton",
                     "votes": 0
                   },
                   {
-                    "name": "District V",
+                    "name": "Avera",
                     "votes": 0
                   }
                 ]
@@ -724,119 +724,119 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 1714,
+            "totalVotes": 3643,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 351,
+                "votes": 1159,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
+                    "name": "Stapleton Crossroads",
                     "votes": 32
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 38
+                    "name": "Matthews",
+                    "votes": 47
                   },
                   {
-                    "name": "Collins",
-                    "votes": 0
+                    "name": "Wrens",
+                    "votes": 351
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 20
+                    "name": "Louisville",
+                    "votes": 327
                   },
                   {
-                    "name": "District II",
-                    "votes": 119
+                    "name": "Wadley",
+                    "votes": 253
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 0
+                    "name": "Bartow",
+                    "votes": 57
                   },
                   {
-                    "name": "District IV",
-                    "votes": 126
+                    "name": "Stapleton",
+                    "votes": 75
                   },
                   {
-                    "name": "District V",
-                    "votes": 16
+                    "name": "Avera",
+                    "votes": 17
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 874,
+                "votes": 1496,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 29
+                    "name": "Stapleton Crossroads",
+                    "votes": 33
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 72
+                    "name": "Matthews",
+                    "votes": 48
                   },
                   {
-                    "name": "Collins",
-                    "votes": 94
+                    "name": "Wrens",
+                    "votes": 328
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 16
+                    "name": "Louisville",
+                    "votes": 708
                   },
                   {
-                    "name": "District II",
-                    "votes": 267
+                    "name": "Wadley",
+                    "votes": 258
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 141
+                    "name": "Bartow",
+                    "votes": 68
                   },
                   {
-                    "name": "District IV",
-                    "votes": 209
+                    "name": "Stapleton",
+                    "votes": 44
                   },
                   {
-                    "name": "District V",
-                    "votes": 46
+                    "name": "Avera",
+                    "votes": 9
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 489,
+                "votes": 988,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 28
+                    "name": "Stapleton Crossroads",
+                    "votes": 41
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 42
+                    "name": "Matthews",
+                    "votes": 29
                   },
                   {
-                    "name": "Collins",
-                    "votes": 70
+                    "name": "Wrens",
+                    "votes": 250
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 15
+                    "name": "Louisville",
+                    "votes": 349
                   },
                   {
-                    "name": "District II",
-                    "votes": 96
+                    "name": "Wadley",
+                    "votes": 239
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 83
+                    "name": "Bartow",
+                    "votes": 32
                   },
                   {
-                    "name": "District IV",
-                    "votes": 136
+                    "name": "Stapleton",
+                    "votes": 34
                   },
                   {
-                    "name": "District V",
-                    "votes": 19
+                    "name": "Avera",
+                    "votes": 14
                   }
                 ]
               },
@@ -845,35 +845,35 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
+                    "name": "Stapleton Crossroads",
                     "votes": 0
                   },
                   {
-                    "name": "Shiloh",
+                    "name": "Matthews",
                     "votes": 0
                   },
                   {
-                    "name": "Collins",
+                    "name": "Wrens",
                     "votes": 0
                   },
                   {
-                    "name": "Manassas",
+                    "name": "Louisville",
                     "votes": 0
                   },
                   {
-                    "name": "District II",
+                    "name": "Wadley",
                     "votes": 0
                   },
                   {
-                    "name": "East Glennville",
+                    "name": "Bartow",
                     "votes": 0
                   },
                   {
-                    "name": "District IV",
+                    "name": "Stapleton",
                     "votes": 0
                   },
                   {
-                    "name": "District V",
+                    "name": "Avera",
                     "votes": 0
                   }
                 ]
@@ -888,43 +888,43 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 8,
-        "precinctsReported": 6,
+        "precinctsReported": 8,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 125,
+            "votes": 199,
             "Precinct": [
               {
-                "name": "Cobbtown",
-                "votes": 7
+                "name": "Stapleton Crossroads",
+                "votes": 5
               },
               {
-                "name": "Shiloh",
-                "votes": 12
+                "name": "Matthews",
+                "votes": 6
               },
               {
-                "name": "Collins",
-                "votes": 12
+                "name": "Wrens",
+                "votes": 43
               },
               {
-                "name": "Manassas",
-                "votes": 1
+                "name": "Louisville",
+                "votes": 72
               },
               {
-                "name": "District II",
-                "votes": 34
+                "name": "Wadley",
+                "votes": 44
               },
               {
-                "name": "East Glennville",
+                "name": "Bartow",
+                "votes": 15
+              },
+              {
+                "name": "Stapleton",
                 "votes": 10
               },
               {
-                "name": "District IV",
-                "votes": 34
-              },
-              {
-                "name": "District V",
-                "votes": 15
+                "name": "Avera",
+                "votes": 4
               }
             ]
           },
@@ -933,35 +933,35 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Cobbtown",
+                "name": "Stapleton Crossroads",
                 "votes": 0
               },
               {
-                "name": "Shiloh",
+                "name": "Matthews",
                 "votes": 0
               },
               {
-                "name": "Collins",
+                "name": "Wrens",
                 "votes": 0
               },
               {
-                "name": "Manassas",
+                "name": "Louisville",
                 "votes": 0
               },
               {
-                "name": "District II",
+                "name": "Wadley",
                 "votes": 0
               },
               {
-                "name": "East Glennville",
+                "name": "Bartow",
                 "votes": 0
               },
               {
-                "name": "District IV",
+                "name": "Stapleton",
                 "votes": 0
               },
               {
-                "name": "District V",
+                "name": "Avera",
                 "votes": 0
               }
             ]
@@ -971,119 +971,119 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 4477,
+            "totalVotes": 3115,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1359,
+                "votes": 1440,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 216
+                    "name": "Stapleton Crossroads",
+                    "votes": 82
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 117
+                    "name": "Matthews",
+                    "votes": 213
                   },
                   {
-                    "name": "Collins",
-                    "votes": 0
+                    "name": "Wrens",
+                    "votes": 364
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 78
+                    "name": "Louisville",
+                    "votes": 248
                   },
                   {
-                    "name": "District II",
-                    "votes": 275
+                    "name": "Wadley",
+                    "votes": 112
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 0
+                    "name": "Bartow",
+                    "votes": 81
                   },
                   {
-                    "name": "District IV",
-                    "votes": 384
+                    "name": "Stapleton",
+                    "votes": 172
                   },
                   {
-                    "name": "District V",
-                    "votes": 289
+                    "name": "Avera",
+                    "votes": 168
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 2547,
+                "votes": 1395,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 107
+                    "name": "Stapleton Crossroads",
+                    "votes": 76
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 164
+                    "name": "Matthews",
+                    "votes": 48
                   },
                   {
-                    "name": "Collins",
-                    "votes": 309
+                    "name": "Wrens",
+                    "votes": 317
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 43
+                    "name": "Louisville",
+                    "votes": 615
                   },
                   {
-                    "name": "District II",
-                    "votes": 536
+                    "name": "Wadley",
+                    "votes": 186
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 596
+                    "name": "Bartow",
+                    "votes": 69
                   },
                   {
-                    "name": "District IV",
-                    "votes": 587
+                    "name": "Stapleton",
+                    "votes": 58
                   },
                   {
-                    "name": "District V",
-                    "votes": 205
+                    "name": "Avera",
+                    "votes": 26
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 571,
+                "votes": 280,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 42
+                    "name": "Stapleton Crossroads",
+                    "votes": 14
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 26
+                    "name": "Matthews",
+                    "votes": 25
                   },
                   {
-                    "name": "Collins",
-                    "votes": 70
+                    "name": "Wrens",
+                    "votes": 65
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 6
+                    "name": "Louisville",
+                    "votes": 104
                   },
                   {
-                    "name": "District II",
-                    "votes": 97
+                    "name": "Wadley",
+                    "votes": 25
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 167
+                    "name": "Bartow",
+                    "votes": 15
                   },
                   {
-                    "name": "District IV",
-                    "votes": 116
+                    "name": "Stapleton",
+                    "votes": 16
                   },
                   {
-                    "name": "District V",
-                    "votes": 47
+                    "name": "Avera",
+                    "votes": 16
                   }
                 ]
               },
@@ -1092,35 +1092,35 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
+                    "name": "Stapleton Crossroads",
                     "votes": 0
                   },
                   {
-                    "name": "Shiloh",
+                    "name": "Matthews",
                     "votes": 0
                   },
                   {
-                    "name": "Collins",
+                    "name": "Wrens",
                     "votes": 0
                   },
                   {
-                    "name": "Manassas",
+                    "name": "Louisville",
                     "votes": 0
                   },
                   {
-                    "name": "District II",
+                    "name": "Wadley",
                     "votes": 0
                   },
                   {
-                    "name": "East Glennville",
+                    "name": "Bartow",
                     "votes": 0
                   },
                   {
-                    "name": "District IV",
+                    "name": "Stapleton",
                     "votes": 0
                   },
                   {
-                    "name": "District V",
+                    "name": "Avera",
                     "votes": 0
                   }
                 ]
@@ -1130,119 +1130,119 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 1621,
+            "totalVotes": 3458,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 337,
+                "votes": 1108,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 28
+                    "name": "Stapleton Crossroads",
+                    "votes": 32
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 37
+                    "name": "Matthews",
+                    "votes": 43
                   },
                   {
-                    "name": "Collins",
-                    "votes": 0
+                    "name": "Wrens",
+                    "votes": 332
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 20
+                    "name": "Louisville",
+                    "votes": 318
                   },
                   {
-                    "name": "District II",
-                    "votes": 114
+                    "name": "Wadley",
+                    "votes": 241
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 0
+                    "name": "Bartow",
+                    "votes": 56
                   },
                   {
-                    "name": "District IV",
-                    "votes": 122
+                    "name": "Stapleton",
+                    "votes": 69
                   },
                   {
-                    "name": "District V",
-                    "votes": 16
+                    "name": "Avera",
+                    "votes": 17
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 819,
+                "votes": 1403,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
+                    "name": "Stapleton Crossroads",
                     "votes": 31
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 68
+                    "name": "Matthews",
+                    "votes": 46
                   },
                   {
-                    "name": "Collins",
-                    "votes": 84
+                    "name": "Wrens",
+                    "votes": 317
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 15
+                    "name": "Louisville",
+                    "votes": 659
                   },
                   {
-                    "name": "District II",
-                    "votes": 243
+                    "name": "Wadley",
+                    "votes": 245
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 139
+                    "name": "Bartow",
+                    "votes": 55
                   },
                   {
-                    "name": "District IV",
-                    "votes": 197
-                  },
-                  {
-                    "name": "District V",
+                    "name": "Stapleton",
                     "votes": 42
+                  },
+                  {
+                    "name": "Avera",
+                    "votes": 8
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 465,
+                "votes": 947,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
-                    "votes": 26
+                    "name": "Stapleton Crossroads",
+                    "votes": 40
                   },
                   {
-                    "name": "Shiloh",
-                    "votes": 37
+                    "name": "Matthews",
+                    "votes": 30
                   },
                   {
-                    "name": "Collins",
-                    "votes": 64
+                    "name": "Wrens",
+                    "votes": 240
                   },
                   {
-                    "name": "Manassas",
-                    "votes": 15
+                    "name": "Louisville",
+                    "votes": 332
                   },
                   {
-                    "name": "District II",
-                    "votes": 94
+                    "name": "Wadley",
+                    "votes": 226
                   },
                   {
-                    "name": "East Glennville",
-                    "votes": 80
+                    "name": "Bartow",
+                    "votes": 32
                   },
                   {
-                    "name": "District IV",
-                    "votes": 131
+                    "name": "Stapleton",
+                    "votes": 34
                   },
                   {
-                    "name": "District V",
-                    "votes": 18
+                    "name": "Avera",
+                    "votes": 13
                   }
                 ]
               },
@@ -1251,35 +1251,35 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Cobbtown",
+                    "name": "Stapleton Crossroads",
                     "votes": 0
                   },
                   {
-                    "name": "Shiloh",
+                    "name": "Matthews",
                     "votes": 0
                   },
                   {
-                    "name": "Collins",
+                    "name": "Wrens",
                     "votes": 0
                   },
                   {
-                    "name": "Manassas",
+                    "name": "Louisville",
                     "votes": 0
                   },
                   {
-                    "name": "District II",
+                    "name": "Wadley",
                     "votes": 0
                   },
                   {
-                    "name": "East Glennville",
+                    "name": "Bartow",
                     "votes": 0
                   },
                   {
-                    "name": "District IV",
+                    "name": "Stapleton",
                     "votes": 0
                   },
                   {
-                    "name": "District V",
+                    "name": "Avera",
                     "votes": 0
                   }
                 ]

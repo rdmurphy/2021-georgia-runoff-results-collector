@@ -1,0 +1,1166 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:51:08 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Talbot",
+    "VoterTurnout": {
+      "totalVoters": 4633,
+      "ballotsCast": 2062,
+      "voterTurnout": 44.51,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "ONeal",
+            "totalVoters": 563,
+            "ballotsCast": 276,
+            "voterTurnout": 49.02,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Valley",
+            "totalVoters": 691,
+            "ballotsCast": 345,
+            "voterTurnout": 49.93,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Junction City",
+            "totalVoters": 451,
+            "ballotsCast": 170,
+            "voterTurnout": 37.69,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Geneva",
+            "totalVoters": 484,
+            "ballotsCast": 221,
+            "voterTurnout": 45.66,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Talbotton",
+            "totalVoters": 903,
+            "ballotsCast": 396,
+            "voterTurnout": 43.85,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Box Springs",
+            "totalVoters": 479,
+            "ballotsCast": 146,
+            "voterTurnout": 30.48,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Flint Hill",
+            "totalVoters": 1062,
+            "ballotsCast": 508,
+            "voterTurnout": 47.83,
+            "percentReporting": "2"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 7,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 5,
+            "Precinct": [
+              {
+                "name": "ONeal",
+                "votes": 1
+              },
+              {
+                "name": "Valley",
+                "votes": 0
+              },
+              {
+                "name": "Junction City",
+                "votes": 0
+              },
+              {
+                "name": "Geneva",
+                "votes": 0
+              },
+              {
+                "name": "Talbotton",
+                "votes": 2
+              },
+              {
+                "name": "Box Springs",
+                "votes": 0
+              },
+              {
+                "name": "Flint Hill",
+                "votes": 2
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "ONeal",
+                "votes": 0
+              },
+              {
+                "name": "Valley",
+                "votes": 0
+              },
+              {
+                "name": "Junction City",
+                "votes": 0
+              },
+              {
+                "name": "Geneva",
+                "votes": 0
+              },
+              {
+                "name": "Talbotton",
+                "votes": 0
+              },
+              {
+                "name": "Box Springs",
+                "votes": 0
+              },
+              {
+                "name": "Flint Hill",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 699,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "ONeal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Junction City",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Geneva",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Talbotton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Box Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Flint Hill",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 537,
+                "Precinct": [
+                  {
+                    "name": "ONeal",
+                    "votes": 87
+                  },
+                  {
+                    "name": "Valley",
+                    "votes": 112
+                  },
+                  {
+                    "name": "Junction City",
+                    "votes": 37
+                  },
+                  {
+                    "name": "Geneva",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Talbotton",
+                    "votes": 44
+                  },
+                  {
+                    "name": "Box Springs",
+                    "votes": 46
+                  },
+                  {
+                    "name": "Flint Hill",
+                    "votes": 149
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 162,
+                "Precinct": [
+                  {
+                    "name": "ONeal",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Valley",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Junction City",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Geneva",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Talbotton",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Box Springs",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Flint Hill",
+                    "votes": 35
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "ONeal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Junction City",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Geneva",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Talbotton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Box Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Flint Hill",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 1358,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "ONeal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Junction City",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Geneva",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Talbotton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Box Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Flint Hill",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 533,
+                "Precinct": [
+                  {
+                    "name": "ONeal",
+                    "votes": 78
+                  },
+                  {
+                    "name": "Valley",
+                    "votes": 77
+                  },
+                  {
+                    "name": "Junction City",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Geneva",
+                    "votes": 46
+                  },
+                  {
+                    "name": "Talbotton",
+                    "votes": 136
+                  },
+                  {
+                    "name": "Box Springs",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Flint Hill",
+                    "votes": 137
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 825,
+                "Precinct": [
+                  {
+                    "name": "ONeal",
+                    "votes": 95
+                  },
+                  {
+                    "name": "Valley",
+                    "votes": 115
+                  },
+                  {
+                    "name": "Junction City",
+                    "votes": 85
+                  },
+                  {
+                    "name": "Geneva",
+                    "votes": 99
+                  },
+                  {
+                    "name": "Talbotton",
+                    "votes": 189
+                  },
+                  {
+                    "name": "Box Springs",
+                    "votes": 57
+                  },
+                  {
+                    "name": "Flint Hill",
+                    "votes": 185
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "ONeal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Junction City",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Geneva",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Talbotton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Box Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Flint Hill",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 7,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 4,
+            "Precinct": [
+              {
+                "name": "ONeal",
+                "votes": 0
+              },
+              {
+                "name": "Valley",
+                "votes": 1
+              },
+              {
+                "name": "Junction City",
+                "votes": 1
+              },
+              {
+                "name": "Geneva",
+                "votes": 0
+              },
+              {
+                "name": "Talbotton",
+                "votes": 0
+              },
+              {
+                "name": "Box Springs",
+                "votes": 0
+              },
+              {
+                "name": "Flint Hill",
+                "votes": 2
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "ONeal",
+                "votes": 0
+              },
+              {
+                "name": "Valley",
+                "votes": 0
+              },
+              {
+                "name": "Junction City",
+                "votes": 0
+              },
+              {
+                "name": "Geneva",
+                "votes": 0
+              },
+              {
+                "name": "Talbotton",
+                "votes": 0
+              },
+              {
+                "name": "Box Springs",
+                "votes": 0
+              },
+              {
+                "name": "Flint Hill",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 702,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "ONeal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Junction City",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Geneva",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Talbotton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Box Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Flint Hill",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 539,
+                "Precinct": [
+                  {
+                    "name": "ONeal",
+                    "votes": 88
+                  },
+                  {
+                    "name": "Valley",
+                    "votes": 113
+                  },
+                  {
+                    "name": "Junction City",
+                    "votes": 37
+                  },
+                  {
+                    "name": "Geneva",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Talbotton",
+                    "votes": 44
+                  },
+                  {
+                    "name": "Box Springs",
+                    "votes": 46
+                  },
+                  {
+                    "name": "Flint Hill",
+                    "votes": 149
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 163,
+                "Precinct": [
+                  {
+                    "name": "ONeal",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Valley",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Junction City",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Geneva",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Talbotton",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Box Springs",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Flint Hill",
+                    "votes": 38
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "ONeal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Junction City",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Geneva",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Talbotton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Box Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Flint Hill",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 1356,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "ONeal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Junction City",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Geneva",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Talbotton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Box Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Flint Hill",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 529,
+                "Precinct": [
+                  {
+                    "name": "ONeal",
+                    "votes": 77
+                  },
+                  {
+                    "name": "Valley",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Junction City",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Geneva",
+                    "votes": 46
+                  },
+                  {
+                    "name": "Talbotton",
+                    "votes": 137
+                  },
+                  {
+                    "name": "Box Springs",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Flint Hill",
+                    "votes": 135
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 827,
+                "Precinct": [
+                  {
+                    "name": "ONeal",
+                    "votes": 95
+                  },
+                  {
+                    "name": "Valley",
+                    "votes": 115
+                  },
+                  {
+                    "name": "Junction City",
+                    "votes": 85
+                  },
+                  {
+                    "name": "Geneva",
+                    "votes": 99
+                  },
+                  {
+                    "name": "Talbotton",
+                    "votes": 192
+                  },
+                  {
+                    "name": "Box Springs",
+                    "votes": 57
+                  },
+                  {
+                    "name": "Flint Hill",
+                    "votes": 184
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "ONeal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Junction City",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Geneva",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Talbotton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Box Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Flint Hill",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 7,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 49,
+            "Precinct": [
+              {
+                "name": "ONeal",
+                "votes": 4
+              },
+              {
+                "name": "Valley",
+                "votes": 7
+              },
+              {
+                "name": "Junction City",
+                "votes": 5
+              },
+              {
+                "name": "Geneva",
+                "votes": 6
+              },
+              {
+                "name": "Talbotton",
+                "votes": 10
+              },
+              {
+                "name": "Box Springs",
+                "votes": 2
+              },
+              {
+                "name": "Flint Hill",
+                "votes": 15
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "ONeal",
+                "votes": 0
+              },
+              {
+                "name": "Valley",
+                "votes": 0
+              },
+              {
+                "name": "Junction City",
+                "votes": 0
+              },
+              {
+                "name": "Geneva",
+                "votes": 0
+              },
+              {
+                "name": "Talbotton",
+                "votes": 0
+              },
+              {
+                "name": "Box Springs",
+                "votes": 0
+              },
+              {
+                "name": "Flint Hill",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 706,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "ONeal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Junction City",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Geneva",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Talbotton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Box Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Flint Hill",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 534,
+                "Precinct": [
+                  {
+                    "name": "ONeal",
+                    "votes": 87
+                  },
+                  {
+                    "name": "Valley",
+                    "votes": 110
+                  },
+                  {
+                    "name": "Junction City",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Geneva",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Talbotton",
+                    "votes": 44
+                  },
+                  {
+                    "name": "Box Springs",
+                    "votes": 46
+                  },
+                  {
+                    "name": "Flint Hill",
+                    "votes": 146
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 172,
+                "Precinct": [
+                  {
+                    "name": "ONeal",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Valley",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Junction City",
+                    "votes": 22
+                  },
+                  {
+                    "name": "Geneva",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Talbotton",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Box Springs",
+                    "votes": 12
+                  },
+                  {
+                    "name": "Flint Hill",
+                    "votes": 43
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "ONeal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Junction City",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Geneva",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Talbotton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Box Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Flint Hill",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 1307,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "ONeal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Junction City",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Geneva",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Talbotton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Box Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Flint Hill",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 520,
+                "Precinct": [
+                  {
+                    "name": "ONeal",
+                    "votes": 76
+                  },
+                  {
+                    "name": "Valley",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Junction City",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Geneva",
+                    "votes": 45
+                  },
+                  {
+                    "name": "Talbotton",
+                    "votes": 132
+                  },
+                  {
+                    "name": "Box Springs",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Flint Hill",
+                    "votes": 136
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 787,
+                "Precinct": [
+                  {
+                    "name": "ONeal",
+                    "votes": 93
+                  },
+                  {
+                    "name": "Valley",
+                    "votes": 112
+                  },
+                  {
+                    "name": "Junction City",
+                    "votes": 77
+                  },
+                  {
+                    "name": "Geneva",
+                    "votes": 94
+                  },
+                  {
+                    "name": "Talbotton",
+                    "votes": 186
+                  },
+                  {
+                    "name": "Box Springs",
+                    "votes": 57
+                  },
+                  {
+                    "name": "Flint Hill",
+                    "votes": 168
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "ONeal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Valley",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Junction City",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Geneva",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Talbotton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Box Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Flint Hill",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,42 +1,42 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:49:07 PM EST",
+    "Timestamp": "1/5/2021 8:56:21 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Harris",
     "VoterTurnout": {
       "totalVoters": 26328,
-      "ballotsCast": 12565,
-      "voterTurnout": 47.72,
+      "ballotsCast": 18305,
+      "voterTurnout": 69.53,
       "Precincts": {
         "Precinct": [
           {
             "name": "Cataula",
             "totalVoters": 2978,
-            "ballotsCast": 1268,
-            "voterTurnout": 42.58,
-            "percentReporting": "2"
+            "ballotsCast": 2098,
+            "voterTurnout": 70.45,
+            "percentReporting": "4"
           },
           {
             "name": "Ellerslie",
             "totalVoters": 4318,
-            "ballotsCast": 1918,
-            "voterTurnout": 44.42,
-            "percentReporting": "2"
+            "ballotsCast": 3146,
+            "voterTurnout": 72.86,
+            "percentReporting": "4"
           },
           {
             "name": "Goodman",
             "totalVoters": 1714,
-            "ballotsCast": 649,
-            "voterTurnout": 37.86,
-            "percentReporting": "2"
+            "ballotsCast": 1117,
+            "voterTurnout": 65.17,
+            "percentReporting": "4"
           },
           {
             "name": "Hamilton",
             "totalVoters": 2840,
-            "ballotsCast": 1232,
-            "voterTurnout": 43.38,
-            "percentReporting": "2"
+            "ballotsCast": 1854,
+            "voterTurnout": 65.28,
+            "percentReporting": "4"
           },
           {
             "name": "Lower 19th",
@@ -48,9 +48,9 @@
           {
             "name": "Mulberry Grove",
             "totalVoters": 2960,
-            "ballotsCast": 1317,
-            "voterTurnout": 44.49,
-            "percentReporting": "2"
+            "ballotsCast": 2094,
+            "voterTurnout": 70.74,
+            "percentReporting": "4"
           },
           {
             "name": "Pine Mountain Valley",
@@ -62,23 +62,23 @@
           {
             "name": "Skinner",
             "totalVoters": 918,
-            "ballotsCast": 250,
-            "voterTurnout": 27.23,
-            "percentReporting": "2"
+            "ballotsCast": 641,
+            "voterTurnout": 69.83,
+            "percentReporting": "4"
           },
           {
             "name": "Upper 19th",
             "totalVoters": 1659,
-            "ballotsCast": 623,
-            "voterTurnout": 37.55,
-            "percentReporting": "2"
+            "ballotsCast": 1211,
+            "voterTurnout": 73.0,
+            "percentReporting": "4"
           },
           {
             "name": "Valley Plains",
             "totalVoters": 806,
-            "ballotsCast": 211,
-            "voterTurnout": 26.18,
-            "percentReporting": "2"
+            "ballotsCast": 546,
+            "voterTurnout": 67.74,
+            "percentReporting": "4"
           },
           {
             "name": "Waverly Hall",
@@ -90,9 +90,9 @@
           {
             "name": "Whitesville",
             "totalVoters": 1417,
-            "ballotsCast": 581,
-            "voterTurnout": 41.0,
-            "percentReporting": "2"
+            "ballotsCast": 1082,
+            "voterTurnout": 76.36,
+            "percentReporting": "4"
           }
         ]
       }
@@ -104,15 +104,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 12,
-        "precinctsReported": 3,
+        "precinctsReported": 12,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 27,
+            "votes": 31,
             "Precinct": [
               {
                 "name": "Cataula",
-                "votes": 5
+                "votes": 7
               },
               {
                 "name": "Ellerslie",
@@ -120,7 +120,7 @@
               },
               {
                 "name": "Goodman",
-                "votes": 3
+                "votes": 4
               },
               {
                 "name": "Hamilton",
@@ -140,7 +140,7 @@
               },
               {
                 "name": "Skinner",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Upper 19th",
@@ -219,27 +219,27 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 8588,
+            "totalVotes": 13291,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1779,
+                "votes": 6482,
                 "Precinct": [
                   {
                     "name": "Cataula",
-                    "votes": 0
+                    "votes": 718
                   },
                   {
                     "name": "Ellerslie",
-                    "votes": 0
+                    "votes": 1059
                   },
                   {
                     "name": "Goodman",
-                    "votes": 0
+                    "votes": 297
                   },
                   {
                     "name": "Hamilton",
-                    "votes": 0
+                    "votes": 473
                   },
                   {
                     "name": "Lower 19th",
@@ -247,7 +247,7 @@
                   },
                   {
                     "name": "Mulberry Grove",
-                    "votes": 0
+                    "votes": 705
                   },
                   {
                     "name": "Pine Mountain Valley",
@@ -255,15 +255,15 @@
                   },
                   {
                     "name": "Skinner",
-                    "votes": 0
+                    "votes": 275
                   },
                   {
                     "name": "Upper 19th",
-                    "votes": 0
+                    "votes": 507
                   },
                   {
                     "name": "Valley Plains",
-                    "votes": 0
+                    "votes": 258
                   },
                   {
                     "name": "Waverly Hall",
@@ -271,7 +271,7 @@
                   },
                   {
                     "name": "Whitesville",
-                    "votes": 0
+                    "votes": 411
                   }
                 ]
               },
@@ -442,27 +442,27 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 3950,
+            "totalVotes": 4983,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 318,
+                "votes": 1351,
                 "Precinct": [
                   {
                     "name": "Cataula",
-                    "votes": 0
+                    "votes": 110
                   },
                   {
                     "name": "Ellerslie",
-                    "votes": 0
+                    "votes": 169
                   },
                   {
                     "name": "Goodman",
-                    "votes": 0
+                    "votes": 170
                   },
                   {
                     "name": "Hamilton",
-                    "votes": 0
+                    "votes": 149
                   },
                   {
                     "name": "Lower 19th",
@@ -470,7 +470,7 @@
                   },
                   {
                     "name": "Mulberry Grove",
-                    "votes": 0
+                    "votes": 72
                   },
                   {
                     "name": "Pine Mountain Valley",
@@ -478,15 +478,15 @@
                   },
                   {
                     "name": "Skinner",
-                    "votes": 0
+                    "votes": 115
                   },
                   {
                     "name": "Upper 19th",
-                    "votes": 0
+                    "votes": 81
                   },
                   {
                     "name": "Valley Plains",
-                    "votes": 0
+                    "votes": 77
                   },
                   {
                     "name": "Waverly Hall",
@@ -494,7 +494,7 @@
                   },
                   {
                     "name": "Whitesville",
-                    "votes": 0
+                    "votes": 90
                   }
                 ]
               },
@@ -670,19 +670,19 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 12,
-        "precinctsReported": 3,
+        "precinctsReported": 12,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 17,
+            "votes": 22,
             "Precinct": [
               {
                 "name": "Cataula",
-                "votes": 3
+                "votes": 5
               },
               {
                 "name": "Ellerslie",
-                "votes": 2
+                "votes": 4
               },
               {
                 "name": "Goodman",
@@ -690,7 +690,7 @@
               },
               {
                 "name": "Hamilton",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Lower 19th",
@@ -785,27 +785,27 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 8575,
+            "totalVotes": 13252,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1783,
+                "votes": 6460,
                 "Precinct": [
                   {
                     "name": "Cataula",
-                    "votes": 0
+                    "votes": 712
                   },
                   {
                     "name": "Ellerslie",
-                    "votes": 0
+                    "votes": 1056
                   },
                   {
                     "name": "Goodman",
-                    "votes": 0
+                    "votes": 292
                   },
                   {
                     "name": "Hamilton",
-                    "votes": 0
+                    "votes": 471
                   },
                   {
                     "name": "Lower 19th",
@@ -813,7 +813,7 @@
                   },
                   {
                     "name": "Mulberry Grove",
-                    "votes": 0
+                    "votes": 705
                   },
                   {
                     "name": "Pine Mountain Valley",
@@ -821,15 +821,15 @@
                   },
                   {
                     "name": "Skinner",
-                    "votes": 0
+                    "votes": 271
                   },
                   {
                     "name": "Upper 19th",
-                    "votes": 0
+                    "votes": 507
                   },
                   {
                     "name": "Valley Plains",
-                    "votes": 0
+                    "votes": 257
                   },
                   {
                     "name": "Waverly Hall",
@@ -837,7 +837,7 @@
                   },
                   {
                     "name": "Whitesville",
-                    "votes": 0
+                    "votes": 406
                   }
                 ]
               },
@@ -1008,27 +1008,27 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 3973,
+            "totalVotes": 5031,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 316,
+                "votes": 1374,
                 "Precinct": [
                   {
                     "name": "Cataula",
-                    "votes": 0
+                    "votes": 116
                   },
                   {
                     "name": "Ellerslie",
-                    "votes": 0
+                    "votes": 170
                   },
                   {
                     "name": "Goodman",
-                    "votes": 0
+                    "votes": 176
                   },
                   {
                     "name": "Hamilton",
-                    "votes": 0
+                    "votes": 150
                   },
                   {
                     "name": "Lower 19th",
@@ -1036,7 +1036,7 @@
                   },
                   {
                     "name": "Mulberry Grove",
-                    "votes": 0
+                    "votes": 72
                   },
                   {
                     "name": "Pine Mountain Valley",
@@ -1044,15 +1044,15 @@
                   },
                   {
                     "name": "Skinner",
-                    "votes": 0
+                    "votes": 120
                   },
                   {
                     "name": "Upper 19th",
-                    "votes": 0
+                    "votes": 81
                   },
                   {
                     "name": "Valley Plains",
-                    "votes": 0
+                    "votes": 78
                   },
                   {
                     "name": "Waverly Hall",
@@ -1060,7 +1060,7 @@
                   },
                   {
                     "name": "Whitesville",
-                    "votes": 0
+                    "votes": 95
                   }
                 ]
               },
@@ -1236,27 +1236,27 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 12,
-        "precinctsReported": 3,
+        "precinctsReported": 12,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 156,
+            "votes": 205,
             "Precinct": [
               {
                 "name": "Cataula",
-                "votes": 25
+                "votes": 35
               },
               {
                 "name": "Ellerslie",
-                "votes": 12
+                "votes": 18
               },
               {
                 "name": "Goodman",
-                "votes": 7
+                "votes": 10
               },
               {
                 "name": "Hamilton",
-                "votes": 16
+                "votes": 20
               },
               {
                 "name": "Lower 19th",
@@ -1264,7 +1264,7 @@
               },
               {
                 "name": "Mulberry Grove",
-                "votes": 17
+                "votes": 23
               },
               {
                 "name": "Pine Mountain Valley",
@@ -1272,15 +1272,15 @@
               },
               {
                 "name": "Skinner",
-                "votes": 5
+                "votes": 14
               },
               {
                 "name": "Upper 19th",
-                "votes": 10
+                "votes": 14
               },
               {
                 "name": "Valley Plains",
-                "votes": 3
+                "votes": 4
               },
               {
                 "name": "Waverly Hall",
@@ -1288,7 +1288,7 @@
               },
               {
                 "name": "Whitesville",
-                "votes": 10
+                "votes": 16
               }
             ]
           },
@@ -1351,27 +1351,27 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 8670,
+            "totalVotes": 13399,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1795,
+                "votes": 6524,
                 "Precinct": [
                   {
                     "name": "Cataula",
-                    "votes": 0
+                    "votes": 728
                   },
                   {
                     "name": "Ellerslie",
-                    "votes": 0
+                    "votes": 1066
                   },
                   {
                     "name": "Goodman",
-                    "votes": 0
+                    "votes": 302
                   },
                   {
                     "name": "Hamilton",
-                    "votes": 0
+                    "votes": 470
                   },
                   {
                     "name": "Lower 19th",
@@ -1379,7 +1379,7 @@
                   },
                   {
                     "name": "Mulberry Grove",
-                    "votes": 0
+                    "votes": 703
                   },
                   {
                     "name": "Pine Mountain Valley",
@@ -1387,15 +1387,15 @@
                   },
                   {
                     "name": "Skinner",
-                    "votes": 0
+                    "votes": 279
                   },
                   {
                     "name": "Upper 19th",
-                    "votes": 0
+                    "votes": 511
                   },
                   {
                     "name": "Valley Plains",
-                    "votes": 0
+                    "votes": 261
                   },
                   {
                     "name": "Waverly Hall",
@@ -1403,7 +1403,7 @@
                   },
                   {
                     "name": "Whitesville",
-                    "votes": 0
+                    "votes": 409
                   }
                 ]
               },
@@ -1574,27 +1574,27 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 3732,
+            "totalVotes": 4694,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 288,
+                "votes": 1250,
                 "Precinct": [
                   {
                     "name": "Cataula",
-                    "votes": 0
+                    "votes": 92
                   },
                   {
                     "name": "Ellerslie",
-                    "votes": 0
+                    "votes": 156
                   },
                   {
                     "name": "Goodman",
-                    "votes": 0
+                    "votes": 163
                   },
                   {
                     "name": "Hamilton",
-                    "votes": 0
+                    "votes": 148
                   },
                   {
                     "name": "Lower 19th",
@@ -1602,7 +1602,7 @@
                   },
                   {
                     "name": "Mulberry Grove",
-                    "votes": 0
+                    "votes": 68
                   },
                   {
                     "name": "Pine Mountain Valley",
@@ -1610,15 +1610,15 @@
                   },
                   {
                     "name": "Skinner",
-                    "votes": 0
+                    "votes": 103
                   },
                   {
                     "name": "Upper 19th",
-                    "votes": 0
+                    "votes": 73
                   },
                   {
                     "name": "Valley Plains",
-                    "votes": 0
+                    "votes": 73
                   },
                   {
                     "name": "Waverly Hall",
@@ -1626,7 +1626,7 @@
                   },
                   {
                     "name": "Whitesville",
-                    "votes": 0
+                    "votes": 86
                   }
                 ]
               },

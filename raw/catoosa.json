@@ -1,91 +1,91 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:08:37 PM EST",
+    "Timestamp": "1/5/2021 8:57:24 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Catoosa",
     "VoterTurnout": {
       "totalVoters": 46767,
-      "ballotsCast": 18353,
-      "voterTurnout": 39.24,
+      "ballotsCast": 24626,
+      "voterTurnout": 52.66,
       "Precincts": {
         "Precinct": [
           {
             "name": "Blackstock",
             "totalVoters": 2025,
-            "ballotsCast": 592,
-            "voterTurnout": 29.23,
-            "percentReporting": "2"
+            "ballotsCast": 1147,
+            "voterTurnout": 56.64,
+            "percentReporting": "4"
           },
           {
             "name": "Boynton",
             "totalVoters": 6157,
-            "ballotsCast": 2643,
-            "voterTurnout": 42.93,
-            "percentReporting": "2"
+            "ballotsCast": 3911,
+            "voterTurnout": 63.52,
+            "percentReporting": "4"
           },
           {
             "name": "Catoosa Keith",
             "totalVoters": 2679,
-            "ballotsCast": 967,
-            "voterTurnout": 36.1,
+            "ballotsCast": 971,
+            "voterTurnout": 36.24,
             "percentReporting": "2"
           },
           {
             "name": "Chambers",
             "totalVoters": 2588,
-            "ballotsCast": 1157,
-            "voterTurnout": 44.71,
+            "ballotsCast": 1160,
+            "voterTurnout": 44.82,
             "percentReporting": "2"
           },
           {
             "name": "Ft Oglethorpe",
             "totalVoters": 4160,
-            "ballotsCast": 1556,
-            "voterTurnout": 37.4,
-            "percentReporting": "2"
+            "ballotsCast": 2302,
+            "voterTurnout": 55.34,
+            "percentReporting": "4"
           },
           {
             "name": "Graysville",
             "totalVoters": 4606,
-            "ballotsCast": 1657,
-            "voterTurnout": 35.97,
+            "ballotsCast": 1666,
+            "voterTurnout": 36.17,
             "percentReporting": "2"
           },
           {
             "name": "Lakeview",
             "totalVoters": 3650,
-            "ballotsCast": 1174,
-            "voterTurnout": 32.16,
-            "percentReporting": "2"
+            "ballotsCast": 1742,
+            "voterTurnout": 47.73,
+            "percentReporting": "4"
           },
           {
             "name": "Poplar Springs",
             "totalVoters": 4273,
-            "ballotsCast": 1732,
-            "voterTurnout": 40.53,
-            "percentReporting": "2"
+            "ballotsCast": 2610,
+            "voterTurnout": 61.08,
+            "percentReporting": "4"
           },
           {
             "name": "Ringgold",
             "totalVoters": 7583,
-            "ballotsCast": 3328,
-            "voterTurnout": 43.89,
-            "percentReporting": "2"
+            "ballotsCast": 4697,
+            "voterTurnout": 61.94,
+            "percentReporting": "4"
           },
           {
             "name": "Westside",
             "totalVoters": 6050,
-            "ballotsCast": 2446,
-            "voterTurnout": 40.43,
+            "ballotsCast": 2456,
+            "voterTurnout": 40.6,
             "percentReporting": "2"
           },
           {
             "name": "Woodstation",
             "totalVoters": 2996,
-            "ballotsCast": 1101,
-            "voterTurnout": 36.75,
-            "percentReporting": "2"
+            "ballotsCast": 1964,
+            "voterTurnout": 65.55,
+            "percentReporting": "4"
           }
         ]
       }
@@ -97,19 +97,19 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 11,
-        "precinctsReported": 0,
+        "precinctsReported": 7,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 45,
+            "votes": 54,
             "Precinct": [
               {
                 "name": "Blackstock",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Boynton",
-                "votes": 3
+                "votes": 4
               },
               {
                 "name": "Catoosa Keith",
@@ -121,7 +121,7 @@
               },
               {
                 "name": "Ft Oglethorpe",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Graysville",
@@ -133,11 +133,11 @@
               },
               {
                 "name": "Poplar Springs",
-                "votes": 3
+                "votes": 5
               },
               {
                 "name": "Ringgold",
-                "votes": 7
+                "votes": 10
               },
               {
                 "name": "Westside",
@@ -145,7 +145,7 @@
               },
               {
                 "name": "Woodstation",
-                "votes": 3
+                "votes": 4
               }
             ]
           },
@@ -204,19 +204,19 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 13700,
+            "totalVotes": 19005,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 5233,
                 "Precinct": [
                   {
                     "name": "Blackstock",
-                    "votes": 0
+                    "votes": 500
                   },
                   {
                     "name": "Boynton",
-                    "votes": 0
+                    "votes": 1064
                   },
                   {
                     "name": "Catoosa Keith",
@@ -228,7 +228,7 @@
                   },
                   {
                     "name": "Ft Oglethorpe",
-                    "votes": 0
+                    "votes": 587
                   },
                   {
                     "name": "Graysville",
@@ -236,15 +236,15 @@
                   },
                   {
                     "name": "Lakeview",
-                    "votes": 0
+                    "votes": 454
                   },
                   {
                     "name": "Poplar Springs",
-                    "votes": 0
+                    "votes": 729
                   },
                   {
                     "name": "Ringgold",
-                    "votes": 0
+                    "votes": 1124
                   },
                   {
                     "name": "Westside",
@@ -252,7 +252,7 @@
                   },
                   {
                     "name": "Woodstation",
-                    "votes": 0
+                    "votes": 775
                   }
                 ]
               },
@@ -308,51 +308,51 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 2390,
+                "votes": 2462,
                 "Precinct": [
                   {
                     "name": "Blackstock",
-                    "votes": 89
+                    "votes": 93
                   },
                   {
                     "name": "Boynton",
-                    "votes": 320
+                    "votes": 334
                   },
                   {
                     "name": "Catoosa Keith",
-                    "votes": 139
+                    "votes": 141
                   },
                   {
                     "name": "Chambers",
-                    "votes": 146
+                    "votes": 147
                   },
                   {
                     "name": "Ft Oglethorpe",
-                    "votes": 228
+                    "votes": 233
                   },
                   {
                     "name": "Graysville",
-                    "votes": 219
+                    "votes": 227
                   },
                   {
                     "name": "Lakeview",
-                    "votes": 169
+                    "votes": 172
                   },
                   {
                     "name": "Poplar Springs",
-                    "votes": 213
+                    "votes": 223
                   },
                   {
                     "name": "Ringgold",
-                    "votes": 438
+                    "votes": 453
                   },
                   {
                     "name": "Westside",
-                    "votes": 304
+                    "votes": 312
                   },
                   {
                     "name": "Woodstation",
-                    "votes": 125
+                    "votes": 127
                   }
                 ]
               },
@@ -411,19 +411,19 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 4608,
+            "totalVotes": 5567,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 926,
                 "Precinct": [
                   {
                     "name": "Blackstock",
-                    "votes": 0
+                    "votes": 47
                   },
                   {
                     "name": "Boynton",
-                    "votes": 0
+                    "votes": 181
                   },
                   {
                     "name": "Catoosa Keith",
@@ -435,7 +435,7 @@
                   },
                   {
                     "name": "Ft Oglethorpe",
-                    "votes": 0
+                    "votes": 149
                   },
                   {
                     "name": "Graysville",
@@ -443,15 +443,15 @@
                   },
                   {
                     "name": "Lakeview",
-                    "votes": 0
+                    "votes": 110
                   },
                   {
                     "name": "Poplar Springs",
-                    "votes": 0
+                    "votes": 136
                   },
                   {
                     "name": "Ringgold",
-                    "votes": 0
+                    "votes": 219
                   },
                   {
                     "name": "Westside",
@@ -459,7 +459,7 @@
                   },
                   {
                     "name": "Woodstation",
-                    "votes": 0
+                    "votes": 84
                   }
                 ]
               },
@@ -515,51 +515,51 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1945,
+                "votes": 1978,
                 "Precinct": [
                   {
                     "name": "Blackstock",
-                    "votes": 58
+                    "votes": 61
                   },
                   {
                     "name": "Boynton",
-                    "votes": 259
+                    "votes": 267
                   },
                   {
                     "name": "Catoosa Keith",
-                    "votes": 97
+                    "votes": 99
                   },
                   {
                     "name": "Chambers",
-                    "votes": 102
+                    "votes": 104
                   },
                   {
                     "name": "Ft Oglethorpe",
-                    "votes": 205
+                    "votes": 209
                   },
                   {
                     "name": "Graysville",
-                    "votes": 193
+                    "votes": 194
                   },
                   {
                     "name": "Lakeview",
-                    "votes": 126
+                    "votes": 127
                   },
                   {
                     "name": "Poplar Springs",
-                    "votes": 173
+                    "votes": 174
                   },
                   {
                     "name": "Ringgold",
-                    "votes": 375
+                    "votes": 383
                   },
                   {
                     "name": "Westside",
-                    "votes": 245
+                    "votes": 247
                   },
                   {
                     "name": "Woodstation",
-                    "votes": 112
+                    "votes": 113
                   }
                 ]
               },
@@ -623,11 +623,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 11,
-        "precinctsReported": 0,
+        "precinctsReported": 7,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 38,
+            "votes": 44,
             "Precinct": [
               {
                 "name": "Blackstock",
@@ -635,7 +635,7 @@
               },
               {
                 "name": "Boynton",
-                "votes": 5
+                "votes": 6
               },
               {
                 "name": "Catoosa Keith",
@@ -647,7 +647,7 @@
               },
               {
                 "name": "Ft Oglethorpe",
-                "votes": 3
+                "votes": 4
               },
               {
                 "name": "Graysville",
@@ -659,11 +659,11 @@
               },
               {
                 "name": "Poplar Springs",
-                "votes": 2
+                "votes": 4
               },
               {
                 "name": "Ringgold",
-                "votes": 5
+                "votes": 6
               },
               {
                 "name": "Westside",
@@ -671,7 +671,7 @@
               },
               {
                 "name": "Woodstation",
-                "votes": 2
+                "votes": 3
               }
             ]
           },
@@ -730,19 +730,19 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 13713,
+            "totalVotes": 19036,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 5250,
                 "Precinct": [
                   {
                     "name": "Blackstock",
-                    "votes": 0
+                    "votes": 501
                   },
                   {
                     "name": "Boynton",
-                    "votes": 0
+                    "votes": 1065
                   },
                   {
                     "name": "Catoosa Keith",
@@ -754,7 +754,7 @@
                   },
                   {
                     "name": "Ft Oglethorpe",
-                    "votes": 0
+                    "votes": 587
                   },
                   {
                     "name": "Graysville",
@@ -762,15 +762,15 @@
                   },
                   {
                     "name": "Lakeview",
-                    "votes": 0
+                    "votes": 457
                   },
                   {
                     "name": "Poplar Springs",
-                    "votes": 0
+                    "votes": 733
                   },
                   {
                     "name": "Ringgold",
-                    "votes": 0
+                    "votes": 1132
                   },
                   {
                     "name": "Westside",
@@ -778,7 +778,7 @@
                   },
                   {
                     "name": "Woodstation",
-                    "votes": 0
+                    "votes": 775
                   }
                 ]
               },
@@ -834,51 +834,51 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 2395,
+                "votes": 2468,
                 "Precinct": [
                   {
                     "name": "Blackstock",
-                    "votes": 92
+                    "votes": 96
                   },
                   {
                     "name": "Boynton",
-                    "votes": 319
+                    "votes": 333
                   },
                   {
                     "name": "Catoosa Keith",
-                    "votes": 141
+                    "votes": 143
                   },
                   {
                     "name": "Chambers",
-                    "votes": 148
+                    "votes": 151
                   },
                   {
                     "name": "Ft Oglethorpe",
-                    "votes": 231
+                    "votes": 236
                   },
                   {
                     "name": "Graysville",
-                    "votes": 218
+                    "votes": 226
                   },
                   {
                     "name": "Lakeview",
-                    "votes": 172
+                    "votes": 175
                   },
                   {
                     "name": "Poplar Springs",
-                    "votes": 211
+                    "votes": 221
                   },
                   {
                     "name": "Ringgold",
-                    "votes": 433
+                    "votes": 447
                   },
                   {
                     "name": "Westside",
-                    "votes": 305
+                    "votes": 313
                   },
                   {
                     "name": "Woodstation",
-                    "votes": 125
+                    "votes": 127
                   }
                 ]
               },
@@ -937,19 +937,19 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 4602,
+            "totalVotes": 5546,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 912,
                 "Precinct": [
                   {
                     "name": "Blackstock",
-                    "votes": 0
+                    "votes": 47
                   },
                   {
                     "name": "Boynton",
-                    "votes": 0
+                    "votes": 180
                   },
                   {
                     "name": "Catoosa Keith",
@@ -961,7 +961,7 @@
                   },
                   {
                     "name": "Ft Oglethorpe",
-                    "votes": 0
+                    "votes": 149
                   },
                   {
                     "name": "Graysville",
@@ -969,15 +969,15 @@
                   },
                   {
                     "name": "Lakeview",
-                    "votes": 0
+                    "votes": 107
                   },
                   {
                     "name": "Poplar Springs",
-                    "votes": 0
+                    "votes": 132
                   },
                   {
                     "name": "Ringgold",
-                    "votes": 0
+                    "votes": 213
                   },
                   {
                     "name": "Westside",
@@ -985,7 +985,7 @@
                   },
                   {
                     "name": "Woodstation",
-                    "votes": 0
+                    "votes": 84
                   }
                 ]
               },
@@ -1041,19 +1041,19 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1938,
+                "votes": 1970,
                 "Precinct": [
                   {
                     "name": "Blackstock",
-                    "votes": 55
+                    "votes": 58
                   },
                   {
                     "name": "Boynton",
-                    "votes": 258
+                    "votes": 266
                   },
                   {
                     "name": "Catoosa Keith",
-                    "votes": 95
+                    "votes": 97
                   },
                   {
                     "name": "Chambers",
@@ -1061,31 +1061,31 @@
                   },
                   {
                     "name": "Ft Oglethorpe",
-                    "votes": 200
+                    "votes": 204
                   },
                   {
                     "name": "Graysville",
-                    "votes": 194
+                    "votes": 195
                   },
                   {
                     "name": "Lakeview",
-                    "votes": 124
+                    "votes": 125
                   },
                   {
                     "name": "Poplar Springs",
-                    "votes": 175
+                    "votes": 176
                   },
                   {
                     "name": "Ringgold",
-                    "votes": 380
+                    "votes": 389
                   },
                   {
                     "name": "Westside",
-                    "votes": 244
+                    "votes": 246
                   },
                   {
                     "name": "Woodstation",
-                    "votes": 112
+                    "votes": 113
                   }
                 ]
               },
@@ -1149,19 +1149,19 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 11,
-        "precinctsReported": 0,
+        "precinctsReported": 7,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 257,
+            "votes": 309,
             "Precinct": [
               {
                 "name": "Blackstock",
-                "votes": 9
+                "votes": 13
               },
               {
                 "name": "Boynton",
-                "votes": 29
+                "votes": 34
               },
               {
                 "name": "Catoosa Keith",
@@ -1173,31 +1173,31 @@
               },
               {
                 "name": "Ft Oglethorpe",
-                "votes": 25
+                "votes": 31
               },
               {
                 "name": "Graysville",
-                "votes": 33
+                "votes": 34
               },
               {
                 "name": "Lakeview",
-                "votes": 18
+                "votes": 24
               },
               {
                 "name": "Poplar Springs",
-                "votes": 15
+                "votes": 23
               },
               {
                 "name": "Ringgold",
-                "votes": 41
+                "votes": 52
               },
               {
                 "name": "Westside",
-                "votes": 49
+                "votes": 51
               },
               {
                 "name": "Woodstation",
-                "votes": 12
+                "votes": 21
               }
             ]
           },
@@ -1256,19 +1256,19 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 13700,
+            "totalVotes": 19022,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 5254,
                 "Precinct": [
                   {
                     "name": "Blackstock",
-                    "votes": 0
+                    "votes": 499
                   },
                   {
                     "name": "Boynton",
-                    "votes": 0
+                    "votes": 1067
                   },
                   {
                     "name": "Catoosa Keith",
@@ -1280,7 +1280,7 @@
                   },
                   {
                     "name": "Ft Oglethorpe",
-                    "votes": 0
+                    "votes": 592
                   },
                   {
                     "name": "Graysville",
@@ -1288,15 +1288,15 @@
                   },
                   {
                     "name": "Lakeview",
-                    "votes": 0
+                    "votes": 456
                   },
                   {
                     "name": "Poplar Springs",
-                    "votes": 0
+                    "votes": 728
                   },
                   {
                     "name": "Ringgold",
-                    "votes": 0
+                    "votes": 1139
                   },
                   {
                     "name": "Westside",
@@ -1304,7 +1304,7 @@
                   },
                   {
                     "name": "Woodstation",
-                    "votes": 0
+                    "votes": 773
                   }
                 ]
               },
@@ -1360,51 +1360,51 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 2392,
+                "votes": 2460,
                 "Precinct": [
                   {
                     "name": "Blackstock",
-                    "votes": 86
+                    "votes": 90
                   },
                   {
                     "name": "Boynton",
-                    "votes": 324
+                    "votes": 339
                   },
                   {
                     "name": "Catoosa Keith",
-                    "votes": 144
+                    "votes": 146
                   },
                   {
                     "name": "Chambers",
-                    "votes": 155
+                    "votes": 156
                   },
                   {
                     "name": "Ft Oglethorpe",
-                    "votes": 223
+                    "votes": 228
                   },
                   {
                     "name": "Graysville",
-                    "votes": 214
+                    "votes": 221
                   },
                   {
                     "name": "Lakeview",
-                    "votes": 167
+                    "votes": 170
                   },
                   {
                     "name": "Poplar Springs",
-                    "votes": 212
+                    "votes": 222
                   },
                   {
                     "name": "Ringgold",
-                    "votes": 438
+                    "votes": 450
                   },
                   {
                     "name": "Westside",
-                    "votes": 304
+                    "votes": 311
                   },
                   {
                     "name": "Woodstation",
-                    "votes": 125
+                    "votes": 127
                   }
                 ]
               },
@@ -1463,19 +1463,19 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 4396,
+            "totalVotes": 5295,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 867,
                 "Precinct": [
                   {
                     "name": "Blackstock",
-                    "votes": 0
+                    "votes": 45
                   },
                   {
                     "name": "Boynton",
-                    "votes": 0
+                    "votes": 174
                   },
                   {
                     "name": "Catoosa Keith",
@@ -1487,7 +1487,7 @@
                   },
                   {
                     "name": "Ft Oglethorpe",
-                    "votes": 0
+                    "votes": 139
                   },
                   {
                     "name": "Graysville",
@@ -1495,15 +1495,15 @@
                   },
                   {
                     "name": "Lakeview",
-                    "votes": 0
+                    "votes": 102
                   },
                   {
                     "name": "Poplar Springs",
-                    "votes": 0
+                    "votes": 131
                   },
                   {
                     "name": "Ringgold",
-                    "votes": 0
+                    "votes": 198
                   },
                   {
                     "name": "Westside",
@@ -1511,7 +1511,7 @@
                   },
                   {
                     "name": "Woodstation",
-                    "votes": 0
+                    "votes": 78
                   }
                 ]
               },
@@ -1567,51 +1567,51 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1863,
+                "votes": 1895,
                 "Precinct": [
                   {
                     "name": "Blackstock",
-                    "votes": 56
+                    "votes": 59
                   },
                   {
                     "name": "Boynton",
-                    "votes": 244
+                    "votes": 251
                   },
                   {
                     "name": "Catoosa Keith",
-                    "votes": 86
+                    "votes": 88
                   },
                   {
                     "name": "Chambers",
-                    "votes": 92
+                    "votes": 94
                   },
                   {
                     "name": "Ft Oglethorpe",
-                    "votes": 204
+                    "votes": 208
                   },
                   {
                     "name": "Graysville",
-                    "votes": 187
+                    "votes": 188
                   },
                   {
                     "name": "Lakeview",
-                    "votes": 122
+                    "votes": 123
                   },
                   {
                     "name": "Poplar Springs",
-                    "votes": 167
+                    "votes": 168
                   },
                   {
                     "name": "Ringgold",
-                    "votes": 362
+                    "votes": 371
                   },
                   {
                     "name": "Westside",
-                    "votes": 234
+                    "votes": 235
                   },
                   {
                     "name": "Woodstation",
-                    "votes": 109
+                    "votes": 110
                   }
                 ]
               },

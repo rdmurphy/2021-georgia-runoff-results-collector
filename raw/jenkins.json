@@ -1,48 +1,48 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:55:50 PM EST",
+    "Timestamp": "1/5/2021 8:56:36 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
-    "Region": "Calhoun",
+    "Region": "Jenkins",
     "VoterTurnout": {
-      "totalVoters": 3269,
-      "ballotsCast": 2040,
-      "voterTurnout": 62.4,
+      "totalVoters": 5066,
+      "ballotsCast": 3115,
+      "voterTurnout": 61.49,
       "Precincts": {
         "Precinct": [
           {
-            "name": "Leary",
-            "totalVoters": 726,
-            "ballotsCast": 482,
-            "voterTurnout": 66.39,
+            "name": "Primary School",
+            "totalVoters": 974,
+            "ballotsCast": 567,
+            "voterTurnout": 58.21,
             "percentReporting": "4"
           },
           {
-            "name": "Morgan",
-            "totalVoters": 668,
-            "ballotsCast": 460,
-            "voterTurnout": 68.86,
+            "name": "Court House",
+            "totalVoters": 1039,
+            "ballotsCast": 602,
+            "voterTurnout": 57.94,
             "percentReporting": "4"
           },
           {
-            "name": "Edison",
-            "totalVoters": 534,
-            "ballotsCast": 267,
-            "voterTurnout": 50.0,
+            "name": "Perkins",
+            "totalVoters": 1021,
+            "ballotsCast": 645,
+            "voterTurnout": 63.17,
             "percentReporting": "4"
           },
           {
-            "name": "Edison-Arlington",
-            "totalVoters": 651,
-            "ballotsCast": 388,
-            "voterTurnout": 59.6,
+            "name": "Senior Citizens Center",
+            "totalVoters": 974,
+            "ballotsCast": 661,
+            "voterTurnout": 67.86,
             "percentReporting": "4"
           },
           {
-            "name": "Arlington",
-            "totalVoters": 690,
-            "ballotsCast": 443,
-            "voterTurnout": 64.2,
+            "name": "Four Points",
+            "totalVoters": 1058,
+            "ballotsCast": 640,
+            "voterTurnout": 60.49,
             "percentReporting": "4"
           }
         ]
@@ -59,53 +59,53 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 11,
+            "votes": 9,
             "Precinct": [
               {
-                "name": "Leary",
+                "name": "Primary School",
+                "votes": 2
+              },
+              {
+                "name": "Court House",
                 "votes": 3
               },
               {
-                "name": "Morgan",
-                "votes": 1
+                "name": "Perkins",
+                "votes": 3
               },
               {
-                "name": "Edison",
-                "votes": 1
+                "name": "Senior Citizens Center",
+                "votes": 0
               },
               {
-                "name": "Edison-Arlington",
+                "name": "Four Points",
                 "votes": 1
-              },
-              {
-                "name": "Arlington",
-                "votes": 5
               }
             ]
           },
           {
             "name": "Overvotes",
-            "votes": 0,
+            "votes": 2,
             "Precinct": [
               {
-                "name": "Leary",
+                "name": "Primary School",
                 "votes": 0
               },
               {
-                "name": "Morgan",
+                "name": "Court House",
+                "votes": 1
+              },
+              {
+                "name": "Perkins",
                 "votes": 0
               },
               {
-                "name": "Edison",
+                "name": "Senior Citizens Center",
                 "votes": 0
               },
               {
-                "name": "Edison-Arlington",
-                "votes": 0
-              },
-              {
-                "name": "Arlington",
-                "votes": 0
+                "name": "Four Points",
+                "votes": 1
               }
             ]
           }
@@ -114,83 +114,83 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 828,
+            "totalVotes": 1935,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 310,
+                "votes": 694,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 90
+                    "name": "Primary School",
+                    "votes": 73
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 91
+                    "name": "Court House",
+                    "votes": 72
                   },
                   {
-                    "name": "Edison",
-                    "votes": 25
+                    "name": "Perkins",
+                    "votes": 168
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 70
+                    "name": "Senior Citizens Center",
+                    "votes": 187
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 34
+                    "name": "Four Points",
+                    "votes": 194
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 410,
+                "votes": 1004,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 97
+                    "name": "Primary School",
+                    "votes": 115
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 182
+                    "name": "Court House",
+                    "votes": 143
                   },
                   {
-                    "name": "Edison",
-                    "votes": 18
+                    "name": "Perkins",
+                    "votes": 262
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 58
+                    "name": "Senior Citizens Center",
+                    "votes": 296
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 55
+                    "name": "Four Points",
+                    "votes": 188
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 108,
+                "votes": 237,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 23
+                    "name": "Primary School",
+                    "votes": 32
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 50
+                    "name": "Court House",
+                    "votes": 45
                   },
                   {
-                    "name": "Edison",
-                    "votes": 4
+                    "name": "Perkins",
+                    "votes": 60
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 21
+                    "name": "Senior Citizens Center",
+                    "votes": 74
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 10
+                    "name": "Four Points",
+                    "votes": 26
                   }
                 ]
               },
@@ -199,23 +199,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Primary School",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Court House",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Perkins",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Senior Citizens Center",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
+                    "name": "Four Points",
                     "votes": 0
                   }
                 ]
@@ -225,83 +225,83 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 1201,
+            "totalVotes": 1169,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 358,
+                "votes": 307,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 93
+                    "name": "Primary School",
+                    "votes": 85
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 18
+                    "name": "Court House",
+                    "votes": 94
                   },
                   {
-                    "name": "Edison",
-                    "votes": 80
+                    "name": "Perkins",
+                    "votes": 28
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 67
+                    "name": "Senior Citizens Center",
+                    "votes": 25
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 100
+                    "name": "Four Points",
+                    "votes": 75
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 406,
+                "votes": 505,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 81
+                    "name": "Primary School",
+                    "votes": 158
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 60
+                    "name": "Court House",
+                    "votes": 138
                   },
                   {
-                    "name": "Edison",
-                    "votes": 77
+                    "name": "Perkins",
+                    "votes": 72
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 101
+                    "name": "Senior Citizens Center",
+                    "votes": 51
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 87
+                    "name": "Four Points",
+                    "votes": 86
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 437,
+                "votes": 357,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 95
+                    "name": "Primary School",
+                    "votes": 102
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 58
+                    "name": "Court House",
+                    "votes": 106
                   },
                   {
-                    "name": "Edison",
-                    "votes": 62
+                    "name": "Perkins",
+                    "votes": 52
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 70
+                    "name": "Senior Citizens Center",
+                    "votes": 28
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 152
+                    "name": "Four Points",
+                    "votes": 69
                   }
                 ]
               },
@@ -310,23 +310,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Primary School",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Court House",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Perkins",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Senior Citizens Center",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
+                    "name": "Four Points",
                     "votes": 0
                   }
                 ]
@@ -345,27 +345,27 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 9,
+            "votes": 14,
             "Precinct": [
               {
-                "name": "Leary",
-                "votes": 0
-              },
-              {
-                "name": "Morgan",
+                "name": "Primary School",
                 "votes": 1
               },
               {
-                "name": "Edison",
-                "votes": 1
+                "name": "Court House",
+                "votes": 3
               },
               {
-                "name": "Edison-Arlington",
+                "name": "Perkins",
                 "votes": 4
               },
               {
-                "name": "Arlington",
-                "votes": 3
+                "name": "Senior Citizens Center",
+                "votes": 1
+              },
+              {
+                "name": "Four Points",
+                "votes": 5
               }
             ]
           },
@@ -374,23 +374,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Leary",
+                "name": "Primary School",
                 "votes": 0
               },
               {
-                "name": "Morgan",
+                "name": "Court House",
                 "votes": 0
               },
               {
-                "name": "Edison",
+                "name": "Perkins",
                 "votes": 0
               },
               {
-                "name": "Edison-Arlington",
+                "name": "Senior Citizens Center",
                 "votes": 0
               },
               {
-                "name": "Arlington",
+                "name": "Four Points",
                 "votes": 0
               }
             ]
@@ -400,83 +400,83 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 826,
+            "totalVotes": 1936,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 305,
+                "votes": 698,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 90
+                    "name": "Primary School",
+                    "votes": 75
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 91
+                    "name": "Court House",
+                    "votes": 73
                   },
                   {
-                    "name": "Edison",
-                    "votes": 24
+                    "name": "Perkins",
+                    "votes": 168
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 68
+                    "name": "Senior Citizens Center",
+                    "votes": 187
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 32
+                    "name": "Four Points",
+                    "votes": 195
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 414,
+                "votes": 1004,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 97
+                    "name": "Primary School",
+                    "votes": 115
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 184
+                    "name": "Court House",
+                    "votes": 144
                   },
                   {
-                    "name": "Edison",
-                    "votes": 20
+                    "name": "Perkins",
+                    "votes": 262
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 58
+                    "name": "Senior Citizens Center",
+                    "votes": 295
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 55
+                    "name": "Four Points",
+                    "votes": 188
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 107,
+                "votes": 234,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 23
+                    "name": "Primary School",
+                    "votes": 33
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 49
+                    "name": "Court House",
+                    "votes": 43
                   },
                   {
-                    "name": "Edison",
-                    "votes": 4
+                    "name": "Perkins",
+                    "votes": 59
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 21
+                    "name": "Senior Citizens Center",
+                    "votes": 73
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 10
+                    "name": "Four Points",
+                    "votes": 26
                   }
                 ]
               },
@@ -485,23 +485,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Primary School",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Court House",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Perkins",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Senior Citizens Center",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
+                    "name": "Four Points",
                     "votes": 0
                   }
                 ]
@@ -511,83 +511,83 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 1205,
+            "totalVotes": 1165,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 363,
+                "votes": 304,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 96
+                    "name": "Primary School",
+                    "votes": 84
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 18
+                    "name": "Court House",
+                    "votes": 93
                   },
                   {
-                    "name": "Edison",
-                    "votes": 81
+                    "name": "Perkins",
+                    "votes": 28
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 66
+                    "name": "Senior Citizens Center",
+                    "votes": 25
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 102
+                    "name": "Four Points",
+                    "votes": 74
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 403,
+                "votes": 502,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 81
+                    "name": "Primary School",
+                    "votes": 158
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 58
+                    "name": "Court House",
+                    "votes": 138
                   },
                   {
-                    "name": "Edison",
-                    "votes": 75
+                    "name": "Perkins",
+                    "votes": 72
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 101
+                    "name": "Senior Citizens Center",
+                    "votes": 51
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 88
+                    "name": "Four Points",
+                    "votes": 83
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 439,
+                "votes": 359,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 95
+                    "name": "Primary School",
+                    "votes": 101
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 59
+                    "name": "Court House",
+                    "votes": 108
                   },
                   {
-                    "name": "Edison",
-                    "votes": 62
+                    "name": "Perkins",
+                    "votes": 52
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 70
+                    "name": "Senior Citizens Center",
+                    "votes": 29
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 153
+                    "name": "Four Points",
+                    "votes": 69
                   }
                 ]
               },
@@ -596,23 +596,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Primary School",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Court House",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Perkins",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Senior Citizens Center",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
+                    "name": "Four Points",
                     "votes": 0
                   }
                 ]
@@ -631,27 +631,27 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 38,
+            "votes": 78,
             "Precinct": [
               {
-                "name": "Leary",
-                "votes": 6
+                "name": "Primary School",
+                "votes": 24
               },
               {
-                "name": "Morgan",
+                "name": "Court House",
+                "votes": 15
+              },
+              {
+                "name": "Perkins",
                 "votes": 9
               },
               {
-                "name": "Edison",
-                "votes": 9
+                "name": "Senior Citizens Center",
+                "votes": 11
               },
               {
-                "name": "Edison-Arlington",
-                "votes": 5
-              },
-              {
-                "name": "Arlington",
-                "votes": 9
+                "name": "Four Points",
+                "votes": 19
               }
             ]
           },
@@ -660,23 +660,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Leary",
+                "name": "Primary School",
                 "votes": 0
               },
               {
-                "name": "Morgan",
+                "name": "Court House",
                 "votes": 0
               },
               {
-                "name": "Edison",
+                "name": "Perkins",
                 "votes": 0
               },
               {
-                "name": "Edison-Arlington",
+                "name": "Senior Citizens Center",
                 "votes": 0
               },
               {
-                "name": "Arlington",
+                "name": "Four Points",
                 "votes": 0
               }
             ]
@@ -686,83 +686,83 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 837,
+            "totalVotes": 1930,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 310,
+                "votes": 696,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 90
+                    "name": "Primary School",
+                    "votes": 76
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 90
+                    "name": "Court House",
+                    "votes": 73
                   },
                   {
-                    "name": "Edison",
-                    "votes": 25
+                    "name": "Perkins",
+                    "votes": 168
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 70
+                    "name": "Senior Citizens Center",
+                    "votes": 187
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 35
+                    "name": "Four Points",
+                    "votes": 192
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 415,
+                "votes": 1006,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 97
+                    "name": "Primary School",
+                    "votes": 112
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 182
+                    "name": "Court House",
+                    "votes": 145
                   },
                   {
-                    "name": "Edison",
-                    "votes": 18
+                    "name": "Perkins",
+                    "votes": 262
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 62
+                    "name": "Senior Citizens Center",
+                    "votes": 302
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 56
+                    "name": "Four Points",
+                    "votes": 185
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 112,
+                "votes": 228,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 22
+                    "name": "Primary School",
+                    "votes": 29
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 52
+                    "name": "Court House",
+                    "votes": 44
                   },
                   {
-                    "name": "Edison",
-                    "votes": 7
+                    "name": "Perkins",
+                    "votes": 59
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 21
+                    "name": "Senior Citizens Center",
+                    "votes": 70
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 10
+                    "name": "Four Points",
+                    "votes": 26
                   }
                 ]
               },
@@ -771,23 +771,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Primary School",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Court House",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Perkins",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Senior Citizens Center",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
+                    "name": "Four Points",
                     "votes": 0
                   }
                 ]
@@ -797,83 +797,83 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 1162,
+            "totalVotes": 1107,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 350,
+                "votes": 299,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 95
+                    "name": "Primary School",
+                    "votes": 81
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 17
+                    "name": "Court House",
+                    "votes": 94
                   },
                   {
-                    "name": "Edison",
-                    "votes": 80
+                    "name": "Perkins",
+                    "votes": 28
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 66
+                    "name": "Senior Citizens Center",
+                    "votes": 23
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 92
+                    "name": "Four Points",
+                    "votes": 73
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 387,
+                "votes": 469,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 78
+                    "name": "Primary School",
+                    "votes": 150
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 55
+                    "name": "Court House",
+                    "votes": 129
                   },
                   {
-                    "name": "Edison",
-                    "votes": 74
+                    "name": "Perkins",
+                    "votes": 69
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 95
+                    "name": "Senior Citizens Center",
+                    "votes": 41
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 85
+                    "name": "Four Points",
+                    "votes": 80
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 425,
+                "votes": 339,
                 "Precinct": [
                   {
-                    "name": "Leary",
-                    "votes": 94
+                    "name": "Primary School",
+                    "votes": 95
                   },
                   {
-                    "name": "Morgan",
-                    "votes": 55
+                    "name": "Court House",
+                    "votes": 102
                   },
                   {
-                    "name": "Edison",
-                    "votes": 54
+                    "name": "Perkins",
+                    "votes": 50
                   },
                   {
-                    "name": "Edison-Arlington",
-                    "votes": 69
+                    "name": "Senior Citizens Center",
+                    "votes": 27
                   },
                   {
-                    "name": "Arlington",
-                    "votes": 153
+                    "name": "Four Points",
+                    "votes": 65
                   }
                 ]
               },
@@ -882,23 +882,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Leary",
+                    "name": "Primary School",
                     "votes": 0
                   },
                   {
-                    "name": "Morgan",
+                    "name": "Court House",
                     "votes": 0
                   },
                   {
-                    "name": "Edison",
+                    "name": "Perkins",
                     "votes": 0
                   },
                   {
-                    "name": "Edison-Arlington",
+                    "name": "Senior Citizens Center",
                     "votes": 0
                   },
                   {
-                    "name": "Arlington",
+                    "name": "Four Points",
                     "votes": 0
                   }
                 ]

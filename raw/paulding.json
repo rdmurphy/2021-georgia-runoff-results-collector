@@ -1,0 +1,2690 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:57:23 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Paulding",
+    "VoterTurnout": {
+      "totalVoters": 117397,
+      "ballotsCast": 53047,
+      "voterTurnout": 45.19,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Burnt Hickory Park",
+            "totalVoters": 6394,
+            "ballotsCast": 2955,
+            "voterTurnout": 46.22,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Crossroads Library",
+            "totalVoters": 3711,
+            "ballotsCast": 2097,
+            "voterTurnout": 56.51,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Shelton Elementary",
+            "totalVoters": 5195,
+            "ballotsCast": 2452,
+            "voterTurnout": 47.2,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Russom Elementary",
+            "totalVoters": 8468,
+            "ballotsCast": 4335,
+            "voterTurnout": 51.19,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Paulding Sr Center",
+            "totalVoters": 6105,
+            "ballotsCast": 2644,
+            "voterTurnout": 43.31,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Legacy Bapt Church",
+            "totalVoters": 4536,
+            "ballotsCast": 2021,
+            "voterTurnout": 44.55,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Watson Govt Cmplx",
+            "totalVoters": 11054,
+            "ballotsCast": 4649,
+            "voterTurnout": 42.06,
+            "percentReporting": "2"
+          },
+          {
+            "name": "West Ridge Church",
+            "totalVoters": 11737,
+            "ballotsCast": 5429,
+            "voterTurnout": 46.26,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Events Place",
+            "totalVoters": 5081,
+            "ballotsCast": 2430,
+            "voterTurnout": 47.83,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Poplar Sprgs Bapt Church",
+            "totalVoters": 4927,
+            "ballotsCast": 2270,
+            "voterTurnout": 46.07,
+            "percentReporting": "2"
+          },
+          {
+            "name": "D Wright Innovation Ctr",
+            "totalVoters": 7277,
+            "ballotsCast": 3350,
+            "voterTurnout": 46.04,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Nebo Elem School",
+            "totalVoters": 10237,
+            "ballotsCast": 4154,
+            "voterTurnout": 40.58,
+            "percentReporting": "2"
+          },
+          {
+            "name": "White Oak Park",
+            "totalVoters": 5966,
+            "ballotsCast": 2429,
+            "voterTurnout": 40.71,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Mulberry Rock Park",
+            "totalVoters": 6079,
+            "ballotsCast": 2563,
+            "voterTurnout": 42.16,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Beulahland Baptist Church",
+            "totalVoters": 2599,
+            "ballotsCast": 941,
+            "voterTurnout": 36.21,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Paulding County Airport",
+            "totalVoters": 4229,
+            "ballotsCast": 1489,
+            "voterTurnout": 35.21,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Picketts Mill Baptist Church",
+            "totalVoters": 2806,
+            "ballotsCast": 1376,
+            "voterTurnout": 49.04,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Taylor Farm Park",
+            "totalVoters": 2806,
+            "ballotsCast": 1362,
+            "voterTurnout": 48.54,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Dobbins Middle School",
+            "totalVoters": 8190,
+            "ballotsCast": 4101,
+            "voterTurnout": 50.07,
+            "percentReporting": "2"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 19,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 50,
+            "Precinct": [
+              {
+                "name": "Burnt Hickory Park",
+                "votes": 3
+              },
+              {
+                "name": "Crossroads Library",
+                "votes": 1
+              },
+              {
+                "name": "Shelton Elementary",
+                "votes": 2
+              },
+              {
+                "name": "Russom Elementary",
+                "votes": 1
+              },
+              {
+                "name": "Paulding Sr Center",
+                "votes": 3
+              },
+              {
+                "name": "Legacy Bapt Church",
+                "votes": 2
+              },
+              {
+                "name": "Watson Govt Cmplx",
+                "votes": 9
+              },
+              {
+                "name": "West Ridge Church",
+                "votes": 6
+              },
+              {
+                "name": "Events Place",
+                "votes": 1
+              },
+              {
+                "name": "Poplar Sprgs Bapt Church",
+                "votes": 3
+              },
+              {
+                "name": "D Wright Innovation Ctr",
+                "votes": 0
+              },
+              {
+                "name": "Nebo Elem School",
+                "votes": 4
+              },
+              {
+                "name": "White Oak Park",
+                "votes": 2
+              },
+              {
+                "name": "Mulberry Rock Park",
+                "votes": 3
+              },
+              {
+                "name": "Beulahland Baptist Church",
+                "votes": 1
+              },
+              {
+                "name": "Paulding County Airport",
+                "votes": 3
+              },
+              {
+                "name": "Picketts Mill Baptist Church",
+                "votes": 0
+              },
+              {
+                "name": "Taylor Farm Park",
+                "votes": 2
+              },
+              {
+                "name": "Dobbins Middle School",
+                "votes": 4
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Burnt Hickory Park",
+                "votes": 0
+              },
+              {
+                "name": "Crossroads Library",
+                "votes": 0
+              },
+              {
+                "name": "Shelton Elementary",
+                "votes": 0
+              },
+              {
+                "name": "Russom Elementary",
+                "votes": 0
+              },
+              {
+                "name": "Paulding Sr Center",
+                "votes": 0
+              },
+              {
+                "name": "Legacy Bapt Church",
+                "votes": 0
+              },
+              {
+                "name": "Watson Govt Cmplx",
+                "votes": 0
+              },
+              {
+                "name": "West Ridge Church",
+                "votes": 0
+              },
+              {
+                "name": "Events Place",
+                "votes": 0
+              },
+              {
+                "name": "Poplar Sprgs Bapt Church",
+                "votes": 0
+              },
+              {
+                "name": "D Wright Innovation Ctr",
+                "votes": 0
+              },
+              {
+                "name": "Nebo Elem School",
+                "votes": 0
+              },
+              {
+                "name": "White Oak Park",
+                "votes": 0
+              },
+              {
+                "name": "Mulberry Rock Park",
+                "votes": 0
+              },
+              {
+                "name": "Beulahland Baptist Church",
+                "votes": 0
+              },
+              {
+                "name": "Paulding County Airport",
+                "votes": 0
+              },
+              {
+                "name": "Picketts Mill Baptist Church",
+                "votes": 0
+              },
+              {
+                "name": "Taylor Farm Park",
+                "votes": 0
+              },
+              {
+                "name": "Dobbins Middle School",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 31246,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Burnt Hickory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crossroads Library",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shelton Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Russom Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Paulding Sr Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Legacy Bapt Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Watson Govt Cmplx",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Ridge Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Events Place",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Poplar Sprgs Bapt Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "D Wright Innovation Ctr",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nebo Elem School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "White Oak Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mulberry Rock Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beulahland Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Paulding County Airport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Picketts Mill Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Taylor Farm Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dobbins Middle School",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 24089,
+                "Precinct": [
+                  {
+                    "name": "Burnt Hickory Park",
+                    "votes": 1873
+                  },
+                  {
+                    "name": "Crossroads Library",
+                    "votes": 1156
+                  },
+                  {
+                    "name": "Shelton Elementary",
+                    "votes": 1059
+                  },
+                  {
+                    "name": "Russom Elementary",
+                    "votes": 1906
+                  },
+                  {
+                    "name": "Paulding Sr Center",
+                    "votes": 1166
+                  },
+                  {
+                    "name": "Legacy Bapt Church",
+                    "votes": 781
+                  },
+                  {
+                    "name": "Watson Govt Cmplx",
+                    "votes": 1803
+                  },
+                  {
+                    "name": "West Ridge Church",
+                    "votes": 2591
+                  },
+                  {
+                    "name": "Events Place",
+                    "votes": 521
+                  },
+                  {
+                    "name": "Poplar Sprgs Bapt Church",
+                    "votes": 687
+                  },
+                  {
+                    "name": "D Wright Innovation Ctr",
+                    "votes": 1632
+                  },
+                  {
+                    "name": "Nebo Elem School",
+                    "votes": 2214
+                  },
+                  {
+                    "name": "White Oak Park",
+                    "votes": 1083
+                  },
+                  {
+                    "name": "Mulberry Rock Park",
+                    "votes": 1564
+                  },
+                  {
+                    "name": "Beulahland Baptist Church",
+                    "votes": 521
+                  },
+                  {
+                    "name": "Paulding County Airport",
+                    "votes": 738
+                  },
+                  {
+                    "name": "Picketts Mill Baptist Church",
+                    "votes": 679
+                  },
+                  {
+                    "name": "Taylor Farm Park",
+                    "votes": 615
+                  },
+                  {
+                    "name": "Dobbins Middle School",
+                    "votes": 1500
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 7157,
+                "Precinct": [
+                  {
+                    "name": "Burnt Hickory Park",
+                    "votes": 467
+                  },
+                  {
+                    "name": "Crossroads Library",
+                    "votes": 304
+                  },
+                  {
+                    "name": "Shelton Elementary",
+                    "votes": 308
+                  },
+                  {
+                    "name": "Russom Elementary",
+                    "votes": 751
+                  },
+                  {
+                    "name": "Paulding Sr Center",
+                    "votes": 272
+                  },
+                  {
+                    "name": "Legacy Bapt Church",
+                    "votes": 344
+                  },
+                  {
+                    "name": "Watson Govt Cmplx",
+                    "votes": 638
+                  },
+                  {
+                    "name": "West Ridge Church",
+                    "votes": 882
+                  },
+                  {
+                    "name": "Events Place",
+                    "votes": 229
+                  },
+                  {
+                    "name": "Poplar Sprgs Bapt Church",
+                    "votes": 222
+                  },
+                  {
+                    "name": "D Wright Innovation Ctr",
+                    "votes": 260
+                  },
+                  {
+                    "name": "Nebo Elem School",
+                    "votes": 571
+                  },
+                  {
+                    "name": "White Oak Park",
+                    "votes": 332
+                  },
+                  {
+                    "name": "Mulberry Rock Park",
+                    "votes": 428
+                  },
+                  {
+                    "name": "Beulahland Baptist Church",
+                    "votes": 135
+                  },
+                  {
+                    "name": "Paulding County Airport",
+                    "votes": 255
+                  },
+                  {
+                    "name": "Picketts Mill Baptist Church",
+                    "votes": 194
+                  },
+                  {
+                    "name": "Taylor Farm Park",
+                    "votes": 225
+                  },
+                  {
+                    "name": "Dobbins Middle School",
+                    "votes": 340
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Burnt Hickory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crossroads Library",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shelton Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Russom Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Paulding Sr Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Legacy Bapt Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Watson Govt Cmplx",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Ridge Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Events Place",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Poplar Sprgs Bapt Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "D Wright Innovation Ctr",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nebo Elem School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "White Oak Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mulberry Rock Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beulahland Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Paulding County Airport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Picketts Mill Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Taylor Farm Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dobbins Middle School",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 21751,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Burnt Hickory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crossroads Library",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shelton Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Russom Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Paulding Sr Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Legacy Bapt Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Watson Govt Cmplx",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Ridge Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Events Place",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Poplar Sprgs Bapt Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "D Wright Innovation Ctr",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nebo Elem School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "White Oak Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mulberry Rock Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beulahland Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Paulding County Airport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Picketts Mill Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Taylor Farm Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dobbins Middle School",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 12280,
+                "Precinct": [
+                  {
+                    "name": "Burnt Hickory Park",
+                    "votes": 314
+                  },
+                  {
+                    "name": "Crossroads Library",
+                    "votes": 321
+                  },
+                  {
+                    "name": "Shelton Elementary",
+                    "votes": 652
+                  },
+                  {
+                    "name": "Russom Elementary",
+                    "votes": 795
+                  },
+                  {
+                    "name": "Paulding Sr Center",
+                    "votes": 706
+                  },
+                  {
+                    "name": "Legacy Bapt Church",
+                    "votes": 489
+                  },
+                  {
+                    "name": "Watson Govt Cmplx",
+                    "votes": 1265
+                  },
+                  {
+                    "name": "West Ridge Church",
+                    "votes": 1030
+                  },
+                  {
+                    "name": "Events Place",
+                    "votes": 963
+                  },
+                  {
+                    "name": "Poplar Sprgs Bapt Church",
+                    "votes": 845
+                  },
+                  {
+                    "name": "D Wright Innovation Ctr",
+                    "votes": 864
+                  },
+                  {
+                    "name": "Nebo Elem School",
+                    "votes": 748
+                  },
+                  {
+                    "name": "White Oak Park",
+                    "votes": 558
+                  },
+                  {
+                    "name": "Mulberry Rock Park",
+                    "votes": 325
+                  },
+                  {
+                    "name": "Beulahland Baptist Church",
+                    "votes": 147
+                  },
+                  {
+                    "name": "Paulding County Airport",
+                    "votes": 272
+                  },
+                  {
+                    "name": "Picketts Mill Baptist Church",
+                    "votes": 259
+                  },
+                  {
+                    "name": "Taylor Farm Park",
+                    "votes": 342
+                  },
+                  {
+                    "name": "Dobbins Middle School",
+                    "votes": 1385
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 9471,
+                "Precinct": [
+                  {
+                    "name": "Burnt Hickory Park",
+                    "votes": 298
+                  },
+                  {
+                    "name": "Crossroads Library",
+                    "votes": 315
+                  },
+                  {
+                    "name": "Shelton Elementary",
+                    "votes": 431
+                  },
+                  {
+                    "name": "Russom Elementary",
+                    "votes": 882
+                  },
+                  {
+                    "name": "Paulding Sr Center",
+                    "votes": 497
+                  },
+                  {
+                    "name": "Legacy Bapt Church",
+                    "votes": 405
+                  },
+                  {
+                    "name": "Watson Govt Cmplx",
+                    "votes": 934
+                  },
+                  {
+                    "name": "West Ridge Church",
+                    "votes": 920
+                  },
+                  {
+                    "name": "Events Place",
+                    "votes": 716
+                  },
+                  {
+                    "name": "Poplar Sprgs Bapt Church",
+                    "votes": 513
+                  },
+                  {
+                    "name": "D Wright Innovation Ctr",
+                    "votes": 594
+                  },
+                  {
+                    "name": "Nebo Elem School",
+                    "votes": 617
+                  },
+                  {
+                    "name": "White Oak Park",
+                    "votes": 454
+                  },
+                  {
+                    "name": "Mulberry Rock Park",
+                    "votes": 243
+                  },
+                  {
+                    "name": "Beulahland Baptist Church",
+                    "votes": 137
+                  },
+                  {
+                    "name": "Paulding County Airport",
+                    "votes": 221
+                  },
+                  {
+                    "name": "Picketts Mill Baptist Church",
+                    "votes": 244
+                  },
+                  {
+                    "name": "Taylor Farm Park",
+                    "votes": 178
+                  },
+                  {
+                    "name": "Dobbins Middle School",
+                    "votes": 872
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Burnt Hickory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crossroads Library",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shelton Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Russom Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Paulding Sr Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Legacy Bapt Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Watson Govt Cmplx",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Ridge Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Events Place",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Poplar Sprgs Bapt Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "D Wright Innovation Ctr",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nebo Elem School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "White Oak Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mulberry Rock Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beulahland Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Paulding County Airport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Picketts Mill Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Taylor Farm Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dobbins Middle School",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 19,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 52,
+            "Precinct": [
+              {
+                "name": "Burnt Hickory Park",
+                "votes": 1
+              },
+              {
+                "name": "Crossroads Library",
+                "votes": 1
+              },
+              {
+                "name": "Shelton Elementary",
+                "votes": 1
+              },
+              {
+                "name": "Russom Elementary",
+                "votes": 2
+              },
+              {
+                "name": "Paulding Sr Center",
+                "votes": 3
+              },
+              {
+                "name": "Legacy Bapt Church",
+                "votes": 4
+              },
+              {
+                "name": "Watson Govt Cmplx",
+                "votes": 4
+              },
+              {
+                "name": "West Ridge Church",
+                "votes": 10
+              },
+              {
+                "name": "Events Place",
+                "votes": 2
+              },
+              {
+                "name": "Poplar Sprgs Bapt Church",
+                "votes": 5
+              },
+              {
+                "name": "D Wright Innovation Ctr",
+                "votes": 0
+              },
+              {
+                "name": "Nebo Elem School",
+                "votes": 4
+              },
+              {
+                "name": "White Oak Park",
+                "votes": 2
+              },
+              {
+                "name": "Mulberry Rock Park",
+                "votes": 4
+              },
+              {
+                "name": "Beulahland Baptist Church",
+                "votes": 1
+              },
+              {
+                "name": "Paulding County Airport",
+                "votes": 1
+              },
+              {
+                "name": "Picketts Mill Baptist Church",
+                "votes": 1
+              },
+              {
+                "name": "Taylor Farm Park",
+                "votes": 3
+              },
+              {
+                "name": "Dobbins Middle School",
+                "votes": 3
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Burnt Hickory Park",
+                "votes": 0
+              },
+              {
+                "name": "Crossroads Library",
+                "votes": 0
+              },
+              {
+                "name": "Shelton Elementary",
+                "votes": 0
+              },
+              {
+                "name": "Russom Elementary",
+                "votes": 0
+              },
+              {
+                "name": "Paulding Sr Center",
+                "votes": 0
+              },
+              {
+                "name": "Legacy Bapt Church",
+                "votes": 0
+              },
+              {
+                "name": "Watson Govt Cmplx",
+                "votes": 0
+              },
+              {
+                "name": "West Ridge Church",
+                "votes": 0
+              },
+              {
+                "name": "Events Place",
+                "votes": 0
+              },
+              {
+                "name": "Poplar Sprgs Bapt Church",
+                "votes": 0
+              },
+              {
+                "name": "D Wright Innovation Ctr",
+                "votes": 0
+              },
+              {
+                "name": "Nebo Elem School",
+                "votes": 0
+              },
+              {
+                "name": "White Oak Park",
+                "votes": 0
+              },
+              {
+                "name": "Mulberry Rock Park",
+                "votes": 0
+              },
+              {
+                "name": "Beulahland Baptist Church",
+                "votes": 0
+              },
+              {
+                "name": "Paulding County Airport",
+                "votes": 0
+              },
+              {
+                "name": "Picketts Mill Baptist Church",
+                "votes": 0
+              },
+              {
+                "name": "Taylor Farm Park",
+                "votes": 0
+              },
+              {
+                "name": "Dobbins Middle School",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 31080,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Burnt Hickory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crossroads Library",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shelton Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Russom Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Paulding Sr Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Legacy Bapt Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Watson Govt Cmplx",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Ridge Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Events Place",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Poplar Sprgs Bapt Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "D Wright Innovation Ctr",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nebo Elem School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "White Oak Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mulberry Rock Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beulahland Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Paulding County Airport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Picketts Mill Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Taylor Farm Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dobbins Middle School",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 24000,
+                "Precinct": [
+                  {
+                    "name": "Burnt Hickory Park",
+                    "votes": 1865
+                  },
+                  {
+                    "name": "Crossroads Library",
+                    "votes": 1154
+                  },
+                  {
+                    "name": "Shelton Elementary",
+                    "votes": 1066
+                  },
+                  {
+                    "name": "Russom Elementary",
+                    "votes": 1899
+                  },
+                  {
+                    "name": "Paulding Sr Center",
+                    "votes": 1157
+                  },
+                  {
+                    "name": "Legacy Bapt Church",
+                    "votes": 776
+                  },
+                  {
+                    "name": "Watson Govt Cmplx",
+                    "votes": 1798
+                  },
+                  {
+                    "name": "West Ridge Church",
+                    "votes": 2580
+                  },
+                  {
+                    "name": "Events Place",
+                    "votes": 519
+                  },
+                  {
+                    "name": "Poplar Sprgs Bapt Church",
+                    "votes": 685
+                  },
+                  {
+                    "name": "D Wright Innovation Ctr",
+                    "votes": 1622
+                  },
+                  {
+                    "name": "Nebo Elem School",
+                    "votes": 2208
+                  },
+                  {
+                    "name": "White Oak Park",
+                    "votes": 1081
+                  },
+                  {
+                    "name": "Mulberry Rock Park",
+                    "votes": 1559
+                  },
+                  {
+                    "name": "Beulahland Baptist Church",
+                    "votes": 519
+                  },
+                  {
+                    "name": "Paulding County Airport",
+                    "votes": 734
+                  },
+                  {
+                    "name": "Picketts Mill Baptist Church",
+                    "votes": 673
+                  },
+                  {
+                    "name": "Taylor Farm Park",
+                    "votes": 610
+                  },
+                  {
+                    "name": "Dobbins Middle School",
+                    "votes": 1495
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 7080,
+                "Precinct": [
+                  {
+                    "name": "Burnt Hickory Park",
+                    "votes": 467
+                  },
+                  {
+                    "name": "Crossroads Library",
+                    "votes": 298
+                  },
+                  {
+                    "name": "Shelton Elementary",
+                    "votes": 303
+                  },
+                  {
+                    "name": "Russom Elementary",
+                    "votes": 741
+                  },
+                  {
+                    "name": "Paulding Sr Center",
+                    "votes": 273
+                  },
+                  {
+                    "name": "Legacy Bapt Church",
+                    "votes": 345
+                  },
+                  {
+                    "name": "Watson Govt Cmplx",
+                    "votes": 630
+                  },
+                  {
+                    "name": "West Ridge Church",
+                    "votes": 870
+                  },
+                  {
+                    "name": "Events Place",
+                    "votes": 226
+                  },
+                  {
+                    "name": "Poplar Sprgs Bapt Church",
+                    "votes": 222
+                  },
+                  {
+                    "name": "D Wright Innovation Ctr",
+                    "votes": 260
+                  },
+                  {
+                    "name": "Nebo Elem School",
+                    "votes": 559
+                  },
+                  {
+                    "name": "White Oak Park",
+                    "votes": 325
+                  },
+                  {
+                    "name": "Mulberry Rock Park",
+                    "votes": 426
+                  },
+                  {
+                    "name": "Beulahland Baptist Church",
+                    "votes": 132
+                  },
+                  {
+                    "name": "Paulding County Airport",
+                    "votes": 253
+                  },
+                  {
+                    "name": "Picketts Mill Baptist Church",
+                    "votes": 192
+                  },
+                  {
+                    "name": "Taylor Farm Park",
+                    "votes": 226
+                  },
+                  {
+                    "name": "Dobbins Middle School",
+                    "votes": 332
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Burnt Hickory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crossroads Library",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shelton Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Russom Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Paulding Sr Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Legacy Bapt Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Watson Govt Cmplx",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Ridge Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Events Place",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Poplar Sprgs Bapt Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "D Wright Innovation Ctr",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nebo Elem School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "White Oak Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mulberry Rock Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beulahland Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Paulding County Airport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Picketts Mill Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Taylor Farm Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dobbins Middle School",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 21915,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Burnt Hickory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crossroads Library",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shelton Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Russom Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Paulding Sr Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Legacy Bapt Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Watson Govt Cmplx",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Ridge Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Events Place",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Poplar Sprgs Bapt Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "D Wright Innovation Ctr",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nebo Elem School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "White Oak Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mulberry Rock Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beulahland Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Paulding County Airport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Picketts Mill Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Taylor Farm Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dobbins Middle School",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 12375,
+                "Precinct": [
+                  {
+                    "name": "Burnt Hickory Park",
+                    "votes": 324
+                  },
+                  {
+                    "name": "Crossroads Library",
+                    "votes": 323
+                  },
+                  {
+                    "name": "Shelton Elementary",
+                    "votes": 647
+                  },
+                  {
+                    "name": "Russom Elementary",
+                    "votes": 802
+                  },
+                  {
+                    "name": "Paulding Sr Center",
+                    "votes": 716
+                  },
+                  {
+                    "name": "Legacy Bapt Church",
+                    "votes": 492
+                  },
+                  {
+                    "name": "Watson Govt Cmplx",
+                    "votes": 1273
+                  },
+                  {
+                    "name": "West Ridge Church",
+                    "votes": 1040
+                  },
+                  {
+                    "name": "Events Place",
+                    "votes": 964
+                  },
+                  {
+                    "name": "Poplar Sprgs Bapt Church",
+                    "votes": 847
+                  },
+                  {
+                    "name": "D Wright Innovation Ctr",
+                    "votes": 874
+                  },
+                  {
+                    "name": "Nebo Elem School",
+                    "votes": 756
+                  },
+                  {
+                    "name": "White Oak Park",
+                    "votes": 562
+                  },
+                  {
+                    "name": "Mulberry Rock Park",
+                    "votes": 329
+                  },
+                  {
+                    "name": "Beulahland Baptist Church",
+                    "votes": 149
+                  },
+                  {
+                    "name": "Paulding County Airport",
+                    "votes": 277
+                  },
+                  {
+                    "name": "Picketts Mill Baptist Church",
+                    "votes": 264
+                  },
+                  {
+                    "name": "Taylor Farm Park",
+                    "votes": 345
+                  },
+                  {
+                    "name": "Dobbins Middle School",
+                    "votes": 1391
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 9540,
+                "Precinct": [
+                  {
+                    "name": "Burnt Hickory Park",
+                    "votes": 298
+                  },
+                  {
+                    "name": "Crossroads Library",
+                    "votes": 321
+                  },
+                  {
+                    "name": "Shelton Elementary",
+                    "votes": 435
+                  },
+                  {
+                    "name": "Russom Elementary",
+                    "votes": 891
+                  },
+                  {
+                    "name": "Paulding Sr Center",
+                    "votes": 495
+                  },
+                  {
+                    "name": "Legacy Bapt Church",
+                    "votes": 404
+                  },
+                  {
+                    "name": "Watson Govt Cmplx",
+                    "votes": 944
+                  },
+                  {
+                    "name": "West Ridge Church",
+                    "votes": 929
+                  },
+                  {
+                    "name": "Events Place",
+                    "votes": 719
+                  },
+                  {
+                    "name": "Poplar Sprgs Bapt Church",
+                    "votes": 511
+                  },
+                  {
+                    "name": "D Wright Innovation Ctr",
+                    "votes": 594
+                  },
+                  {
+                    "name": "Nebo Elem School",
+                    "votes": 627
+                  },
+                  {
+                    "name": "White Oak Park",
+                    "votes": 459
+                  },
+                  {
+                    "name": "Mulberry Rock Park",
+                    "votes": 245
+                  },
+                  {
+                    "name": "Beulahland Baptist Church",
+                    "votes": 140
+                  },
+                  {
+                    "name": "Paulding County Airport",
+                    "votes": 224
+                  },
+                  {
+                    "name": "Picketts Mill Baptist Church",
+                    "votes": 246
+                  },
+                  {
+                    "name": "Taylor Farm Park",
+                    "votes": 178
+                  },
+                  {
+                    "name": "Dobbins Middle School",
+                    "votes": 880
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Burnt Hickory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crossroads Library",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shelton Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Russom Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Paulding Sr Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Legacy Bapt Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Watson Govt Cmplx",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Ridge Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Events Place",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Poplar Sprgs Bapt Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "D Wright Innovation Ctr",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nebo Elem School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "White Oak Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mulberry Rock Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beulahland Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Paulding County Airport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Picketts Mill Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Taylor Farm Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dobbins Middle School",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 19,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 547,
+            "Precinct": [
+              {
+                "name": "Burnt Hickory Park",
+                "votes": 34
+              },
+              {
+                "name": "Crossroads Library",
+                "votes": 23
+              },
+              {
+                "name": "Shelton Elementary",
+                "votes": 15
+              },
+              {
+                "name": "Russom Elementary",
+                "votes": 48
+              },
+              {
+                "name": "Paulding Sr Center",
+                "votes": 26
+              },
+              {
+                "name": "Legacy Bapt Church",
+                "votes": 32
+              },
+              {
+                "name": "Watson Govt Cmplx",
+                "votes": 56
+              },
+              {
+                "name": "West Ridge Church",
+                "votes": 72
+              },
+              {
+                "name": "Events Place",
+                "votes": 25
+              },
+              {
+                "name": "Poplar Sprgs Bapt Church",
+                "votes": 18
+              },
+              {
+                "name": "D Wright Innovation Ctr",
+                "votes": 30
+              },
+              {
+                "name": "Nebo Elem School",
+                "votes": 28
+              },
+              {
+                "name": "White Oak Park",
+                "votes": 24
+              },
+              {
+                "name": "Mulberry Rock Park",
+                "votes": 29
+              },
+              {
+                "name": "Beulahland Baptist Church",
+                "votes": 6
+              },
+              {
+                "name": "Paulding County Airport",
+                "votes": 12
+              },
+              {
+                "name": "Picketts Mill Baptist Church",
+                "votes": 21
+              },
+              {
+                "name": "Taylor Farm Park",
+                "votes": 22
+              },
+              {
+                "name": "Dobbins Middle School",
+                "votes": 26
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Burnt Hickory Park",
+                "votes": 0
+              },
+              {
+                "name": "Crossroads Library",
+                "votes": 0
+              },
+              {
+                "name": "Shelton Elementary",
+                "votes": 0
+              },
+              {
+                "name": "Russom Elementary",
+                "votes": 0
+              },
+              {
+                "name": "Paulding Sr Center",
+                "votes": 0
+              },
+              {
+                "name": "Legacy Bapt Church",
+                "votes": 0
+              },
+              {
+                "name": "Watson Govt Cmplx",
+                "votes": 0
+              },
+              {
+                "name": "West Ridge Church",
+                "votes": 0
+              },
+              {
+                "name": "Events Place",
+                "votes": 0
+              },
+              {
+                "name": "Poplar Sprgs Bapt Church",
+                "votes": 0
+              },
+              {
+                "name": "D Wright Innovation Ctr",
+                "votes": 0
+              },
+              {
+                "name": "Nebo Elem School",
+                "votes": 0
+              },
+              {
+                "name": "White Oak Park",
+                "votes": 0
+              },
+              {
+                "name": "Mulberry Rock Park",
+                "votes": 0
+              },
+              {
+                "name": "Beulahland Baptist Church",
+                "votes": 0
+              },
+              {
+                "name": "Paulding County Airport",
+                "votes": 0
+              },
+              {
+                "name": "Picketts Mill Baptist Church",
+                "votes": 0
+              },
+              {
+                "name": "Taylor Farm Park",
+                "votes": 0
+              },
+              {
+                "name": "Dobbins Middle School",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 31357,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Burnt Hickory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crossroads Library",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shelton Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Russom Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Paulding Sr Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Legacy Bapt Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Watson Govt Cmplx",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Ridge Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Events Place",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Poplar Sprgs Bapt Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "D Wright Innovation Ctr",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nebo Elem School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "White Oak Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mulberry Rock Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beulahland Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Paulding County Airport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Picketts Mill Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Taylor Farm Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dobbins Middle School",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 24168,
+                "Precinct": [
+                  {
+                    "name": "Burnt Hickory Park",
+                    "votes": 1860
+                  },
+                  {
+                    "name": "Crossroads Library",
+                    "votes": 1164
+                  },
+                  {
+                    "name": "Shelton Elementary",
+                    "votes": 1077
+                  },
+                  {
+                    "name": "Russom Elementary",
+                    "votes": 1910
+                  },
+                  {
+                    "name": "Paulding Sr Center",
+                    "votes": 1159
+                  },
+                  {
+                    "name": "Legacy Bapt Church",
+                    "votes": 775
+                  },
+                  {
+                    "name": "Watson Govt Cmplx",
+                    "votes": 1818
+                  },
+                  {
+                    "name": "West Ridge Church",
+                    "votes": 2601
+                  },
+                  {
+                    "name": "Events Place",
+                    "votes": 528
+                  },
+                  {
+                    "name": "Poplar Sprgs Bapt Church",
+                    "votes": 691
+                  },
+                  {
+                    "name": "D Wright Innovation Ctr",
+                    "votes": 1634
+                  },
+                  {
+                    "name": "Nebo Elem School",
+                    "votes": 2226
+                  },
+                  {
+                    "name": "White Oak Park",
+                    "votes": 1084
+                  },
+                  {
+                    "name": "Mulberry Rock Park",
+                    "votes": 1566
+                  },
+                  {
+                    "name": "Beulahland Baptist Church",
+                    "votes": 526
+                  },
+                  {
+                    "name": "Paulding County Airport",
+                    "votes": 736
+                  },
+                  {
+                    "name": "Picketts Mill Baptist Church",
+                    "votes": 679
+                  },
+                  {
+                    "name": "Taylor Farm Park",
+                    "votes": 618
+                  },
+                  {
+                    "name": "Dobbins Middle School",
+                    "votes": 1516
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 7189,
+                "Precinct": [
+                  {
+                    "name": "Burnt Hickory Park",
+                    "votes": 477
+                  },
+                  {
+                    "name": "Crossroads Library",
+                    "votes": 296
+                  },
+                  {
+                    "name": "Shelton Elementary",
+                    "votes": 308
+                  },
+                  {
+                    "name": "Russom Elementary",
+                    "votes": 741
+                  },
+                  {
+                    "name": "Paulding Sr Center",
+                    "votes": 277
+                  },
+                  {
+                    "name": "Legacy Bapt Church",
+                    "votes": 345
+                  },
+                  {
+                    "name": "Watson Govt Cmplx",
+                    "votes": 623
+                  },
+                  {
+                    "name": "West Ridge Church",
+                    "votes": 899
+                  },
+                  {
+                    "name": "Events Place",
+                    "votes": 237
+                  },
+                  {
+                    "name": "Poplar Sprgs Bapt Church",
+                    "votes": 230
+                  },
+                  {
+                    "name": "D Wright Innovation Ctr",
+                    "votes": 254
+                  },
+                  {
+                    "name": "Nebo Elem School",
+                    "votes": 573
+                  },
+                  {
+                    "name": "White Oak Park",
+                    "votes": 334
+                  },
+                  {
+                    "name": "Mulberry Rock Park",
+                    "votes": 432
+                  },
+                  {
+                    "name": "Beulahland Baptist Church",
+                    "votes": 132
+                  },
+                  {
+                    "name": "Paulding County Airport",
+                    "votes": 259
+                  },
+                  {
+                    "name": "Picketts Mill Baptist Church",
+                    "votes": 199
+                  },
+                  {
+                    "name": "Taylor Farm Park",
+                    "votes": 226
+                  },
+                  {
+                    "name": "Dobbins Middle School",
+                    "votes": 347
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Burnt Hickory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crossroads Library",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shelton Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Russom Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Paulding Sr Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Legacy Bapt Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Watson Govt Cmplx",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Ridge Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Events Place",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Poplar Sprgs Bapt Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "D Wright Innovation Ctr",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nebo Elem School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "White Oak Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mulberry Rock Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beulahland Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Paulding County Airport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Picketts Mill Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Taylor Farm Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dobbins Middle School",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 21142,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Burnt Hickory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crossroads Library",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shelton Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Russom Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Paulding Sr Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Legacy Bapt Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Watson Govt Cmplx",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Ridge Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Events Place",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Poplar Sprgs Bapt Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "D Wright Innovation Ctr",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nebo Elem School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "White Oak Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mulberry Rock Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beulahland Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Paulding County Airport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Picketts Mill Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Taylor Farm Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dobbins Middle School",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 12014,
+                "Precinct": [
+                  {
+                    "name": "Burnt Hickory Park",
+                    "votes": 310
+                  },
+                  {
+                    "name": "Crossroads Library",
+                    "votes": 308
+                  },
+                  {
+                    "name": "Shelton Elementary",
+                    "votes": 629
+                  },
+                  {
+                    "name": "Russom Elementary",
+                    "votes": 784
+                  },
+                  {
+                    "name": "Paulding Sr Center",
+                    "votes": 707
+                  },
+                  {
+                    "name": "Legacy Bapt Church",
+                    "votes": 483
+                  },
+                  {
+                    "name": "Watson Govt Cmplx",
+                    "votes": 1241
+                  },
+                  {
+                    "name": "West Ridge Church",
+                    "votes": 993
+                  },
+                  {
+                    "name": "Events Place",
+                    "votes": 948
+                  },
+                  {
+                    "name": "Poplar Sprgs Bapt Church",
+                    "votes": 832
+                  },
+                  {
+                    "name": "D Wright Innovation Ctr",
+                    "votes": 848
+                  },
+                  {
+                    "name": "Nebo Elem School",
+                    "votes": 728
+                  },
+                  {
+                    "name": "White Oak Park",
+                    "votes": 547
+                  },
+                  {
+                    "name": "Mulberry Rock Park",
+                    "votes": 310
+                  },
+                  {
+                    "name": "Beulahland Baptist Church",
+                    "votes": 139
+                  },
+                  {
+                    "name": "Paulding County Airport",
+                    "votes": 269
+                  },
+                  {
+                    "name": "Picketts Mill Baptist Church",
+                    "votes": 250
+                  },
+                  {
+                    "name": "Taylor Farm Park",
+                    "votes": 331
+                  },
+                  {
+                    "name": "Dobbins Middle School",
+                    "votes": 1357
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 9128,
+                "Precinct": [
+                  {
+                    "name": "Burnt Hickory Park",
+                    "votes": 274
+                  },
+                  {
+                    "name": "Crossroads Library",
+                    "votes": 306
+                  },
+                  {
+                    "name": "Shelton Elementary",
+                    "votes": 423
+                  },
+                  {
+                    "name": "Russom Elementary",
+                    "votes": 852
+                  },
+                  {
+                    "name": "Paulding Sr Center",
+                    "votes": 475
+                  },
+                  {
+                    "name": "Legacy Bapt Church",
+                    "votes": 386
+                  },
+                  {
+                    "name": "Watson Govt Cmplx",
+                    "votes": 911
+                  },
+                  {
+                    "name": "West Ridge Church",
+                    "votes": 864
+                  },
+                  {
+                    "name": "Events Place",
+                    "votes": 692
+                  },
+                  {
+                    "name": "Poplar Sprgs Bapt Church",
+                    "votes": 499
+                  },
+                  {
+                    "name": "D Wright Innovation Ctr",
+                    "votes": 583
+                  },
+                  {
+                    "name": "Nebo Elem School",
+                    "votes": 599
+                  },
+                  {
+                    "name": "White Oak Park",
+                    "votes": 440
+                  },
+                  {
+                    "name": "Mulberry Rock Park",
+                    "votes": 226
+                  },
+                  {
+                    "name": "Beulahland Baptist Church",
+                    "votes": 138
+                  },
+                  {
+                    "name": "Paulding County Airport",
+                    "votes": 213
+                  },
+                  {
+                    "name": "Picketts Mill Baptist Church",
+                    "votes": 227
+                  },
+                  {
+                    "name": "Taylor Farm Park",
+                    "votes": 165
+                  },
+                  {
+                    "name": "Dobbins Middle School",
+                    "votes": 855
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Burnt Hickory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crossroads Library",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shelton Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Russom Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Paulding Sr Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Legacy Bapt Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Watson Govt Cmplx",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Ridge Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Events Place",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Poplar Sprgs Bapt Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "D Wright Innovation Ctr",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nebo Elem School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "White Oak Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mulberry Rock Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Beulahland Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Paulding County Airport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Picketts Mill Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Taylor Farm Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dobbins Middle School",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,28 +1,28 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:38:20 PM EST",
+    "Timestamp": "1/5/2021 8:59:24 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Carroll",
     "VoterTurnout": {
       "totalVoters": 85118,
-      "ballotsCast": 35310,
-      "voterTurnout": 41.48,
+      "ballotsCast": 46061,
+      "voterTurnout": 54.11,
       "Precincts": {
         "Precinct": [
           {
             "name": "Kansas",
             "totalVoters": 1188,
-            "ballotsCast": 255,
-            "voterTurnout": 21.46,
-            "percentReporting": "2"
+            "ballotsCast": 728,
+            "voterTurnout": 61.28,
+            "percentReporting": "4"
           },
           {
             "name": "Bowdon",
             "totalVoters": 3319,
-            "ballotsCast": 840,
-            "voterTurnout": 25.31,
-            "percentReporting": "2"
+            "ballotsCast": 1748,
+            "voterTurnout": 52.67,
+            "percentReporting": "4"
           },
           {
             "name": "Sandhill",
@@ -41,16 +41,16 @@
           {
             "name": "Mt Zion",
             "totalVoters": 2710,
-            "ballotsCast": 679,
-            "voterTurnout": 25.06,
-            "percentReporting": "2"
+            "ballotsCast": 1495,
+            "voterTurnout": 55.17,
+            "percentReporting": "4"
           },
           {
             "name": "Burwell",
             "totalVoters": 1584,
-            "ballotsCast": 410,
-            "voterTurnout": 25.88,
-            "percentReporting": "2"
+            "ballotsCast": 917,
+            "voterTurnout": 57.89,
+            "percentReporting": "4"
           },
           {
             "name": "Clem",
@@ -76,30 +76,30 @@
           {
             "name": "Fairfield",
             "totalVoters": 3924,
-            "ballotsCast": 1450,
-            "voterTurnout": 36.95,
-            "percentReporting": "2"
+            "ballotsCast": 2709,
+            "voterTurnout": 69.04,
+            "percentReporting": "4"
           },
           {
             "name": "Hulett",
             "totalVoters": 2454,
-            "ballotsCast": 796,
-            "voterTurnout": 32.44,
-            "percentReporting": "2"
+            "ballotsCast": 1555,
+            "voterTurnout": 63.37,
+            "percentReporting": "4"
           },
           {
             "name": "Bethany",
             "totalVoters": 4845,
-            "ballotsCast": 1510,
-            "voterTurnout": 31.17,
-            "percentReporting": "2"
+            "ballotsCast": 2268,
+            "voterTurnout": 46.81,
+            "percentReporting": "4"
           },
           {
             "name": "V R County South",
             "totalVoters": 2997,
-            "ballotsCast": 1051,
-            "voterTurnout": 35.07,
-            "percentReporting": "2"
+            "ballotsCast": 1686,
+            "voterTurnout": 56.26,
+            "percentReporting": "4"
           },
           {
             "name": "V R County North",
@@ -111,23 +111,23 @@
           {
             "name": "Villa Rica City",
             "totalVoters": 7367,
-            "ballotsCast": 2289,
-            "voterTurnout": 31.07,
-            "percentReporting": "2"
+            "ballotsCast": 3633,
+            "voterTurnout": 49.31,
+            "percentReporting": "4"
           },
           {
             "name": "Temple County",
             "totalVoters": 4418,
-            "ballotsCast": 1235,
-            "voterTurnout": 27.95,
-            "percentReporting": "2"
+            "ballotsCast": 2237,
+            "voterTurnout": 50.63,
+            "percentReporting": "4"
           },
           {
             "name": "Temple City",
             "totalVoters": 3799,
-            "ballotsCast": 968,
-            "voterTurnout": 25.48,
-            "percentReporting": "2"
+            "ballotsCast": 1949,
+            "voterTurnout": 51.3,
+            "percentReporting": "4"
           },
           {
             "name": "Whitesburg",
@@ -139,9 +139,9 @@
           {
             "name": "Roopville",
             "totalVoters": 3280,
-            "ballotsCast": 1020,
-            "voterTurnout": 31.1,
-            "percentReporting": "2"
+            "ballotsCast": 1990,
+            "voterTurnout": 60.67,
+            "percentReporting": "4"
           },
           {
             "name": "West Carrollton",
@@ -167,9 +167,9 @@
           {
             "name": "University of W GA",
             "totalVoters": 2174,
-            "ballotsCast": 748,
-            "voterTurnout": 34.41,
-            "percentReporting": "2"
+            "ballotsCast": 1087,
+            "voterTurnout": 50.0,
+            "percentReporting": "4"
           },
           {
             "name": "County Admin Bldg",
@@ -216,19 +216,19 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 28,
-        "precinctsReported": 14,
+        "precinctsReported": 27,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 50,
+            "votes": 63,
             "Precinct": [
               {
                 "name": "Kansas",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Bowdon",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Sandhill",
@@ -264,11 +264,11 @@
               },
               {
                 "name": "Hulett",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Bethany",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "V R County South",
@@ -284,11 +284,11 @@
               },
               {
                 "name": "Temple County",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Temple City",
-                "votes": 0
+                "votes": 3
               },
               {
                 "name": "Whitesburg",
@@ -296,7 +296,7 @@
               },
               {
                 "name": "Roopville",
-                "votes": 3
+                "votes": 6
               },
               {
                 "name": "West Carrollton",
@@ -312,7 +312,7 @@
               },
               {
                 "name": "University of W GA",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "County Admin Bldg",
@@ -459,19 +459,19 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 23156,
+            "totalVotes": 31684,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 6026,
+                "votes": 14554,
                 "Precinct": [
                   {
                     "name": "Kansas",
-                    "votes": 0
+                    "votes": 447
                   },
                   {
                     "name": "Bowdon",
-                    "votes": 0
+                    "votes": 732
                   },
                   {
                     "name": "Sandhill",
@@ -483,11 +483,11 @@
                   },
                   {
                     "name": "Mt Zion",
-                    "votes": 0
+                    "votes": 724
                   },
                   {
                     "name": "Burwell",
-                    "votes": 0
+                    "votes": 458
                   },
                   {
                     "name": "Clem",
@@ -503,19 +503,19 @@
                   },
                   {
                     "name": "Fairfield",
-                    "votes": 0
+                    "votes": 1063
                   },
                   {
                     "name": "Hulett",
-                    "votes": 0
+                    "votes": 669
                   },
                   {
                     "name": "Bethany",
-                    "votes": 0
+                    "votes": 522
                   },
                   {
                     "name": "V R County South",
-                    "votes": 0
+                    "votes": 521
                   },
                   {
                     "name": "V R County North",
@@ -523,15 +523,15 @@
                   },
                   {
                     "name": "Villa Rica City",
-                    "votes": 0
+                    "votes": 730
                   },
                   {
                     "name": "Temple County",
-                    "votes": 0
+                    "votes": 863
                   },
                   {
                     "name": "Temple City",
-                    "votes": 0
+                    "votes": 724
                   },
                   {
                     "name": "Whitesburg",
@@ -539,7 +539,7 @@
                   },
                   {
                     "name": "Roopville",
-                    "votes": 0
+                    "votes": 888
                   },
                   {
                     "name": "West Carrollton",
@@ -555,7 +555,7 @@
                   },
                   {
                     "name": "University of W GA",
-                    "votes": 0
+                    "votes": 187
                   },
                   {
                     "name": "County Admin Bldg",
@@ -938,19 +938,19 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 12102,
+            "totalVotes": 14312,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1635,
+                "votes": 3845,
                 "Precinct": [
                   {
                     "name": "Kansas",
-                    "votes": 0
+                    "votes": 24
                   },
                   {
                     "name": "Bowdon",
-                    "votes": 0
+                    "votes": 175
                   },
                   {
                     "name": "Sandhill",
@@ -962,11 +962,11 @@
                   },
                   {
                     "name": "Mt Zion",
-                    "votes": 0
+                    "votes": 92
                   },
                   {
                     "name": "Burwell",
-                    "votes": 0
+                    "votes": 49
                   },
                   {
                     "name": "Clem",
@@ -982,19 +982,19 @@
                   },
                   {
                     "name": "Fairfield",
-                    "votes": 0
+                    "votes": 196
                   },
                   {
                     "name": "Hulett",
-                    "votes": 0
+                    "votes": 89
                   },
                   {
                     "name": "Bethany",
-                    "votes": 0
+                    "votes": 235
                   },
                   {
                     "name": "V R County South",
-                    "votes": 0
+                    "votes": 114
                   },
                   {
                     "name": "V R County North",
@@ -1002,15 +1002,15 @@
                   },
                   {
                     "name": "Villa Rica City",
-                    "votes": 0
+                    "votes": 614
                   },
                   {
                     "name": "Temple County",
-                    "votes": 0
+                    "votes": 138
                   },
                   {
                     "name": "Temple City",
-                    "votes": 0
+                    "votes": 254
                   },
                   {
                     "name": "Whitesburg",
@@ -1018,7 +1018,7 @@
                   },
                   {
                     "name": "Roopville",
-                    "votes": 0
+                    "votes": 79
                   },
                   {
                     "name": "West Carrollton",
@@ -1034,7 +1034,7 @@
                   },
                   {
                     "name": "University of W GA",
-                    "votes": 0
+                    "votes": 151
                   },
                   {
                     "name": "County Admin Bldg",
@@ -1422,19 +1422,19 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 28,
-        "precinctsReported": 14,
+        "precinctsReported": 27,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 52,
+            "votes": 68,
             "Precinct": [
               {
                 "name": "Kansas",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Bowdon",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Sandhill",
@@ -1446,7 +1446,7 @@
               },
               {
                 "name": "Mt Zion",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Burwell",
@@ -1466,15 +1466,15 @@
               },
               {
                 "name": "Fairfield",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Hulett",
-                "votes": 3
+                "votes": 4
               },
               {
                 "name": "Bethany",
-                "votes": 5
+                "votes": 7
               },
               {
                 "name": "V R County South",
@@ -1486,15 +1486,15 @@
               },
               {
                 "name": "Villa Rica City",
-                "votes": 2
+                "votes": 4
               },
               {
                 "name": "Temple County",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Temple City",
-                "votes": 4
+                "votes": 5
               },
               {
                 "name": "Whitesburg",
@@ -1502,7 +1502,7 @@
               },
               {
                 "name": "Roopville",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "West Carrollton",
@@ -1518,7 +1518,7 @@
               },
               {
                 "name": "University of W GA",
-                "votes": 2
+                "votes": 4
               },
               {
                 "name": "County Admin Bldg",
@@ -1665,19 +1665,19 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 22963,
+            "totalVotes": 31452,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 5979,
+                "votes": 14468,
                 "Precinct": [
                   {
                     "name": "Kansas",
-                    "votes": 0
+                    "votes": 446
                   },
                   {
                     "name": "Bowdon",
-                    "votes": 0
+                    "votes": 727
                   },
                   {
                     "name": "Sandhill",
@@ -1689,11 +1689,11 @@
                   },
                   {
                     "name": "Mt Zion",
-                    "votes": 0
+                    "votes": 722
                   },
                   {
                     "name": "Burwell",
-                    "votes": 0
+                    "votes": 456
                   },
                   {
                     "name": "Clem",
@@ -1709,19 +1709,19 @@
                   },
                   {
                     "name": "Fairfield",
-                    "votes": 0
+                    "votes": 1057
                   },
                   {
                     "name": "Hulett",
-                    "votes": 0
+                    "votes": 666
                   },
                   {
                     "name": "Bethany",
-                    "votes": 0
+                    "votes": 519
                   },
                   {
                     "name": "V R County South",
-                    "votes": 0
+                    "votes": 520
                   },
                   {
                     "name": "V R County North",
@@ -1729,15 +1729,15 @@
                   },
                   {
                     "name": "Villa Rica City",
-                    "votes": 0
+                    "votes": 725
                   },
                   {
                     "name": "Temple County",
-                    "votes": 0
+                    "votes": 862
                   },
                   {
                     "name": "Temple City",
-                    "votes": 0
+                    "votes": 720
                   },
                   {
                     "name": "Whitesburg",
@@ -1745,7 +1745,7 @@
                   },
                   {
                     "name": "Roopville",
-                    "votes": 0
+                    "votes": 887
                   },
                   {
                     "name": "West Carrollton",
@@ -1761,7 +1761,7 @@
                   },
                   {
                     "name": "University of W GA",
-                    "votes": 0
+                    "votes": 182
                   },
                   {
                     "name": "County Admin Bldg",
@@ -2144,19 +2144,19 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 12293,
+            "totalVotes": 14539,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1682,
+                "votes": 3928,
                 "Precinct": [
                   {
                     "name": "Kansas",
-                    "votes": 0
+                    "votes": 25
                   },
                   {
                     "name": "Bowdon",
-                    "votes": 0
+                    "votes": 180
                   },
                   {
                     "name": "Sandhill",
@@ -2168,11 +2168,11 @@
                   },
                   {
                     "name": "Mt Zion",
-                    "votes": 0
+                    "votes": 93
                   },
                   {
                     "name": "Burwell",
-                    "votes": 0
+                    "votes": 51
                   },
                   {
                     "name": "Clem",
@@ -2188,19 +2188,19 @@
                   },
                   {
                     "name": "Fairfield",
-                    "votes": 0
+                    "votes": 201
                   },
                   {
                     "name": "Hulett",
-                    "votes": 0
+                    "votes": 92
                   },
                   {
                     "name": "Bethany",
-                    "votes": 0
+                    "votes": 237
                   },
                   {
                     "name": "V R County South",
-                    "votes": 0
+                    "votes": 115
                   },
                   {
                     "name": "V R County North",
@@ -2208,15 +2208,15 @@
                   },
                   {
                     "name": "Villa Rica City",
-                    "votes": 0
+                    "votes": 617
                   },
                   {
                     "name": "Temple County",
-                    "votes": 0
+                    "votes": 138
                   },
                   {
                     "name": "Temple City",
-                    "votes": 0
+                    "votes": 260
                   },
                   {
                     "name": "Whitesburg",
@@ -2224,7 +2224,7 @@
                   },
                   {
                     "name": "Roopville",
-                    "votes": 0
+                    "votes": 82
                   },
                   {
                     "name": "West Carrollton",
@@ -2240,7 +2240,7 @@
                   },
                   {
                     "name": "University of W GA",
-                    "votes": 0
+                    "votes": 155
                   },
                   {
                     "name": "County Admin Bldg",
@@ -2628,11 +2628,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 28,
-        "precinctsReported": 14,
+        "precinctsReported": 27,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 385,
+            "votes": 459,
             "Precinct": [
               {
                 "name": "Kansas",
@@ -2640,7 +2640,7 @@
               },
               {
                 "name": "Bowdon",
-                "votes": 15
+                "votes": 21
               },
               {
                 "name": "Sandhill",
@@ -2652,11 +2652,11 @@
               },
               {
                 "name": "Mt Zion",
-                "votes": 9
+                "votes": 18
               },
               {
                 "name": "Burwell",
-                "votes": 4
+                "votes": 7
               },
               {
                 "name": "Clem",
@@ -2672,19 +2672,19 @@
               },
               {
                 "name": "Fairfield",
-                "votes": 19
+                "votes": 25
               },
               {
                 "name": "Hulett",
-                "votes": 14
+                "votes": 21
               },
               {
                 "name": "Bethany",
-                "votes": 20
+                "votes": 24
               },
               {
                 "name": "V R County South",
-                "votes": 7
+                "votes": 10
               },
               {
                 "name": "V R County North",
@@ -2692,15 +2692,15 @@
               },
               {
                 "name": "Villa Rica City",
-                "votes": 29
+                "votes": 37
               },
               {
                 "name": "Temple County",
-                "votes": 14
+                "votes": 19
               },
               {
                 "name": "Temple City",
-                "votes": 10
+                "votes": 19
               },
               {
                 "name": "Whitesburg",
@@ -2708,7 +2708,7 @@
               },
               {
                 "name": "Roopville",
-                "votes": 10
+                "votes": 19
               },
               {
                 "name": "West Carrollton",
@@ -2724,7 +2724,7 @@
               },
               {
                 "name": "University of W GA",
-                "votes": 14
+                "votes": 19
               },
               {
                 "name": "County Admin Bldg",
@@ -2871,19 +2871,19 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 23175,
+            "totalVotes": 31720,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 6066,
+                "votes": 14611,
                 "Precinct": [
                   {
                     "name": "Kansas",
-                    "votes": 0
+                    "votes": 447
                   },
                   {
                     "name": "Bowdon",
-                    "votes": 0
+                    "votes": 738
                   },
                   {
                     "name": "Sandhill",
@@ -2895,11 +2895,11 @@
                   },
                   {
                     "name": "Mt Zion",
-                    "votes": 0
+                    "votes": 722
                   },
                   {
                     "name": "Burwell",
-                    "votes": 0
+                    "votes": 456
                   },
                   {
                     "name": "Clem",
@@ -2915,19 +2915,19 @@
                   },
                   {
                     "name": "Fairfield",
-                    "votes": 0
+                    "votes": 1064
                   },
                   {
                     "name": "Hulett",
-                    "votes": 0
+                    "votes": 664
                   },
                   {
                     "name": "Bethany",
-                    "votes": 0
+                    "votes": 526
                   },
                   {
                     "name": "V R County South",
-                    "votes": 0
+                    "votes": 521
                   },
                   {
                     "name": "V R County North",
@@ -2935,15 +2935,15 @@
                   },
                   {
                     "name": "Villa Rica City",
-                    "votes": 0
+                    "votes": 733
                   },
                   {
                     "name": "Temple County",
-                    "votes": 0
+                    "votes": 871
                   },
                   {
                     "name": "Temple City",
-                    "votes": 0
+                    "votes": 724
                   },
                   {
                     "name": "Whitesburg",
@@ -2951,7 +2951,7 @@
                   },
                   {
                     "name": "Roopville",
-                    "votes": 0
+                    "votes": 889
                   },
                   {
                     "name": "West Carrollton",
@@ -2967,7 +2967,7 @@
                   },
                   {
                     "name": "University of W GA",
-                    "votes": 0
+                    "votes": 190
                   },
                   {
                     "name": "County Admin Bldg",
@@ -3350,19 +3350,19 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 11725,
+            "totalVotes": 13857,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1563,
+                "votes": 3695,
                 "Precinct": [
                   {
                     "name": "Kansas",
-                    "votes": 0
+                    "votes": 26
                   },
                   {
                     "name": "Bowdon",
-                    "votes": 0
+                    "votes": 164
                   },
                   {
                     "name": "Sandhill",
@@ -3374,11 +3374,11 @@
                   },
                   {
                     "name": "Mt Zion",
-                    "votes": 0
+                    "votes": 85
                   },
                   {
                     "name": "Burwell",
-                    "votes": 0
+                    "votes": 48
                   },
                   {
                     "name": "Clem",
@@ -3394,19 +3394,19 @@
                   },
                   {
                     "name": "Fairfield",
-                    "votes": 0
+                    "votes": 189
                   },
                   {
                     "name": "Hulett",
-                    "votes": 0
+                    "votes": 88
                   },
                   {
                     "name": "Bethany",
-                    "votes": 0
+                    "votes": 228
                   },
                   {
                     "name": "V R County South",
-                    "votes": 0
+                    "votes": 111
                   },
                   {
                     "name": "V R County North",
@@ -3414,15 +3414,15 @@
                   },
                   {
                     "name": "Villa Rica City",
-                    "votes": 0
+                    "votes": 603
                   },
                   {
                     "name": "Temple County",
-                    "votes": 0
+                    "votes": 126
                   },
                   {
                     "name": "Temple City",
-                    "votes": 0
+                    "votes": 248
                   },
                   {
                     "name": "Whitesburg",
@@ -3430,7 +3430,7 @@
                   },
                   {
                     "name": "Roopville",
-                    "votes": 0
+                    "votes": 72
                   },
                   {
                     "name": "West Carrollton",
@@ -3446,7 +3446,7 @@
                   },
                   {
                     "name": "University of W GA",
-                    "votes": 0
+                    "votes": 144
                   },
                   {
                     "name": "County Admin Bldg",
