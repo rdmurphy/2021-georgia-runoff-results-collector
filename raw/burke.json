@@ -1,0 +1,2309 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:07:56 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Burke",
+    "VoterTurnout": {
+      "totalVoters": 16793,
+      "ballotsCast": 2070,
+      "voterTurnout": 12.33,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Alexander",
+            "totalVoters": 395,
+            "ballotsCast": 170,
+            "voterTurnout": 43.04,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Four Points",
+            "totalVoters": 2602,
+            "ballotsCast": 748,
+            "voterTurnout": 28.75,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Girard",
+            "totalVoters": 742,
+            "ballotsCast": 50,
+            "voterTurnout": 6.74,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Gough",
+            "totalVoters": 438,
+            "ballotsCast": 23,
+            "voterTurnout": 5.25,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Greenscut",
+            "totalVoters": 1056,
+            "ballotsCast": 284,
+            "voterTurnout": 26.89,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Keysville",
+            "totalVoters": 482,
+            "ballotsCast": 16,
+            "voterTurnout": 3.32,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Midville",
+            "totalVoters": 496,
+            "ballotsCast": 20,
+            "voterTurnout": 4.03,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Munnerlyn",
+            "totalVoters": 305,
+            "ballotsCast": 98,
+            "voterTurnout": 32.13,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Sardis",
+            "totalVoters": 1058,
+            "ballotsCast": 28,
+            "voterTurnout": 2.65,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Scotts Crossroads",
+            "totalVoters": 294,
+            "ballotsCast": 100,
+            "voterTurnout": 34.01,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Telfair",
+            "totalVoters": 1146,
+            "ballotsCast": 63,
+            "voterTurnout": 5.5,
+            "percentReporting": "1"
+          },
+          {
+            "name": "St Clair",
+            "totalVoters": 451,
+            "ballotsCast": 29,
+            "voterTurnout": 6.43,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Vidette",
+            "totalVoters": 315,
+            "ballotsCast": 129,
+            "voterTurnout": 40.95,
+            "percentReporting": "2"
+          },
+          {
+            "name": "North Waynesboro",
+            "totalVoters": 3001,
+            "ballotsCast": 152,
+            "voterTurnout": 5.06,
+            "percentReporting": "1"
+          },
+          {
+            "name": "South Waynesboro",
+            "totalVoters": 3316,
+            "ballotsCast": 146,
+            "voterTurnout": 4.4,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Blakeney",
+            "totalVoters": 696,
+            "ballotsCast": 14,
+            "voterTurnout": 2.01,
+            "percentReporting": "1"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 16,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 10,
+            "Precinct": [
+              {
+                "name": "Alexander",
+                "votes": 1
+              },
+              {
+                "name": "Four Points",
+                "votes": 1
+              },
+              {
+                "name": "Girard",
+                "votes": 0
+              },
+              {
+                "name": "Gough",
+                "votes": 0
+              },
+              {
+                "name": "Greenscut",
+                "votes": 3
+              },
+              {
+                "name": "Keysville",
+                "votes": 0
+              },
+              {
+                "name": "Midville",
+                "votes": 0
+              },
+              {
+                "name": "Munnerlyn",
+                "votes": 1
+              },
+              {
+                "name": "Sardis",
+                "votes": 0
+              },
+              {
+                "name": "Scotts Crossroads",
+                "votes": 3
+              },
+              {
+                "name": "Telfair",
+                "votes": 0
+              },
+              {
+                "name": "St Clair",
+                "votes": 0
+              },
+              {
+                "name": "Vidette",
+                "votes": 1
+              },
+              {
+                "name": "North Waynesboro",
+                "votes": 0
+              },
+              {
+                "name": "South Waynesboro",
+                "votes": 0
+              },
+              {
+                "name": "Blakeney",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Alexander",
+                "votes": 0
+              },
+              {
+                "name": "Four Points",
+                "votes": 0
+              },
+              {
+                "name": "Girard",
+                "votes": 0
+              },
+              {
+                "name": "Gough",
+                "votes": 0
+              },
+              {
+                "name": "Greenscut",
+                "votes": 0
+              },
+              {
+                "name": "Keysville",
+                "votes": 0
+              },
+              {
+                "name": "Midville",
+                "votes": 0
+              },
+              {
+                "name": "Munnerlyn",
+                "votes": 0
+              },
+              {
+                "name": "Sardis",
+                "votes": 0
+              },
+              {
+                "name": "Scotts Crossroads",
+                "votes": 0
+              },
+              {
+                "name": "Telfair",
+                "votes": 0
+              },
+              {
+                "name": "St Clair",
+                "votes": 0
+              },
+              {
+                "name": "Vidette",
+                "votes": 0
+              },
+              {
+                "name": "North Waynesboro",
+                "votes": 0
+              },
+              {
+                "name": "South Waynesboro",
+                "votes": 0
+              },
+              {
+                "name": "Blakeney",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 1161,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 974,
+                "Precinct": [
+                  {
+                    "name": "Alexander",
+                    "votes": 101
+                  },
+                  {
+                    "name": "Four Points",
+                    "votes": 528
+                  },
+                  {
+                    "name": "Girard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gough",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenscut",
+                    "votes": 165
+                  },
+                  {
+                    "name": "Keysville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Midville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Munnerlyn",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Sardis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scotts Crossroads",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Telfair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St Clair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Vidette",
+                    "votes": 71
+                  },
+                  {
+                    "name": "North Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blakeney",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Alexander",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Four Points",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Girard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gough",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenscut",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keysville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Midville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Munnerlyn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sardis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scotts Crossroads",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Telfair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St Clair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Vidette",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blakeney",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 187,
+                "Precinct": [
+                  {
+                    "name": "Alexander",
+                    "votes": 9
+                  },
+                  {
+                    "name": "Four Points",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Girard",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Gough",
+                    "votes": 4
+                  },
+                  {
+                    "name": "Greenscut",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Keysville",
+                    "votes": 3
+                  },
+                  {
+                    "name": "Midville",
+                    "votes": 1
+                  },
+                  {
+                    "name": "Munnerlyn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sardis",
+                    "votes": 12
+                  },
+                  {
+                    "name": "Scotts Crossroads",
+                    "votes": 1
+                  },
+                  {
+                    "name": "Telfair",
+                    "votes": 22
+                  },
+                  {
+                    "name": "St Clair",
+                    "votes": 9
+                  },
+                  {
+                    "name": "Vidette",
+                    "votes": 1
+                  },
+                  {
+                    "name": "North Waynesboro",
+                    "votes": 12
+                  },
+                  {
+                    "name": "South Waynesboro",
+                    "votes": 54
+                  },
+                  {
+                    "name": "Blakeney",
+                    "votes": 2
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Alexander",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Four Points",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Girard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gough",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenscut",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keysville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Midville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Munnerlyn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sardis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scotts Crossroads",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Telfair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St Clair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Vidette",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blakeney",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 899,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 363,
+                "Precinct": [
+                  {
+                    "name": "Alexander",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Four Points",
+                    "votes": 145
+                  },
+                  {
+                    "name": "Girard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gough",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenscut",
+                    "votes": 74
+                  },
+                  {
+                    "name": "Keysville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Midville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Munnerlyn",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Sardis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scotts Crossroads",
+                    "votes": 44
+                  },
+                  {
+                    "name": "Telfair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St Clair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Vidette",
+                    "votes": 52
+                  },
+                  {
+                    "name": "North Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blakeney",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Alexander",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Four Points",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Girard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gough",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenscut",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keysville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Midville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Munnerlyn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sardis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scotts Crossroads",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Telfair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St Clair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Vidette",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blakeney",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 536,
+                "Precinct": [
+                  {
+                    "name": "Alexander",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Four Points",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Girard",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Gough",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Greenscut",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Keysville",
+                    "votes": 13
+                  },
+                  {
+                    "name": "Midville",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Munnerlyn",
+                    "votes": 9
+                  },
+                  {
+                    "name": "Sardis",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Scotts Crossroads",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Telfair",
+                    "votes": 41
+                  },
+                  {
+                    "name": "St Clair",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Vidette",
+                    "votes": 4
+                  },
+                  {
+                    "name": "North Waynesboro",
+                    "votes": 140
+                  },
+                  {
+                    "name": "South Waynesboro",
+                    "votes": 92
+                  },
+                  {
+                    "name": "Blakeney",
+                    "votes": 12
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Alexander",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Four Points",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Girard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gough",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenscut",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keysville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Midville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Munnerlyn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sardis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scotts Crossroads",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Telfair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St Clair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Vidette",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blakeney",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 16,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 5,
+            "Precinct": [
+              {
+                "name": "Alexander",
+                "votes": 1
+              },
+              {
+                "name": "Four Points",
+                "votes": 2
+              },
+              {
+                "name": "Girard",
+                "votes": 0
+              },
+              {
+                "name": "Gough",
+                "votes": 0
+              },
+              {
+                "name": "Greenscut",
+                "votes": 0
+              },
+              {
+                "name": "Keysville",
+                "votes": 0
+              },
+              {
+                "name": "Midville",
+                "votes": 0
+              },
+              {
+                "name": "Munnerlyn",
+                "votes": 0
+              },
+              {
+                "name": "Sardis",
+                "votes": 0
+              },
+              {
+                "name": "Scotts Crossroads",
+                "votes": 2
+              },
+              {
+                "name": "Telfair",
+                "votes": 0
+              },
+              {
+                "name": "St Clair",
+                "votes": 0
+              },
+              {
+                "name": "Vidette",
+                "votes": 0
+              },
+              {
+                "name": "North Waynesboro",
+                "votes": 0
+              },
+              {
+                "name": "South Waynesboro",
+                "votes": 0
+              },
+              {
+                "name": "Blakeney",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Alexander",
+                "votes": 0
+              },
+              {
+                "name": "Four Points",
+                "votes": 0
+              },
+              {
+                "name": "Girard",
+                "votes": 0
+              },
+              {
+                "name": "Gough",
+                "votes": 0
+              },
+              {
+                "name": "Greenscut",
+                "votes": 0
+              },
+              {
+                "name": "Keysville",
+                "votes": 0
+              },
+              {
+                "name": "Midville",
+                "votes": 0
+              },
+              {
+                "name": "Munnerlyn",
+                "votes": 0
+              },
+              {
+                "name": "Sardis",
+                "votes": 0
+              },
+              {
+                "name": "Scotts Crossroads",
+                "votes": 0
+              },
+              {
+                "name": "Telfair",
+                "votes": 0
+              },
+              {
+                "name": "St Clair",
+                "votes": 0
+              },
+              {
+                "name": "Vidette",
+                "votes": 0
+              },
+              {
+                "name": "North Waynesboro",
+                "votes": 0
+              },
+              {
+                "name": "South Waynesboro",
+                "votes": 0
+              },
+              {
+                "name": "Blakeney",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 1165,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 976,
+                "Precinct": [
+                  {
+                    "name": "Alexander",
+                    "votes": 99
+                  },
+                  {
+                    "name": "Four Points",
+                    "votes": 530
+                  },
+                  {
+                    "name": "Girard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gough",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenscut",
+                    "votes": 165
+                  },
+                  {
+                    "name": "Keysville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Midville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Munnerlyn",
+                    "votes": 68
+                  },
+                  {
+                    "name": "Sardis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scotts Crossroads",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Telfair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St Clair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Vidette",
+                    "votes": 72
+                  },
+                  {
+                    "name": "North Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blakeney",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Alexander",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Four Points",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Girard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gough",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenscut",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keysville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Midville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Munnerlyn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sardis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scotts Crossroads",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Telfair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St Clair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Vidette",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blakeney",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 189,
+                "Precinct": [
+                  {
+                    "name": "Alexander",
+                    "votes": 9
+                  },
+                  {
+                    "name": "Four Points",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Girard",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Gough",
+                    "votes": 4
+                  },
+                  {
+                    "name": "Greenscut",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Keysville",
+                    "votes": 3
+                  },
+                  {
+                    "name": "Midville",
+                    "votes": 1
+                  },
+                  {
+                    "name": "Munnerlyn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sardis",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Scotts Crossroads",
+                    "votes": 1
+                  },
+                  {
+                    "name": "Telfair",
+                    "votes": 22
+                  },
+                  {
+                    "name": "St Clair",
+                    "votes": 9
+                  },
+                  {
+                    "name": "Vidette",
+                    "votes": 1
+                  },
+                  {
+                    "name": "North Waynesboro",
+                    "votes": 12
+                  },
+                  {
+                    "name": "South Waynesboro",
+                    "votes": 57
+                  },
+                  {
+                    "name": "Blakeney",
+                    "votes": 2
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Alexander",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Four Points",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Girard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gough",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenscut",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keysville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Midville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Munnerlyn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sardis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scotts Crossroads",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Telfair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St Clair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Vidette",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blakeney",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 900,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 366,
+                "Precinct": [
+                  {
+                    "name": "Alexander",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Four Points",
+                    "votes": 142
+                  },
+                  {
+                    "name": "Girard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gough",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenscut",
+                    "votes": 77
+                  },
+                  {
+                    "name": "Keysville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Midville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Munnerlyn",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Sardis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scotts Crossroads",
+                    "votes": 45
+                  },
+                  {
+                    "name": "Telfair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St Clair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Vidette",
+                    "votes": 52
+                  },
+                  {
+                    "name": "North Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blakeney",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Alexander",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Four Points",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Girard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gough",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenscut",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keysville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Midville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Munnerlyn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sardis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scotts Crossroads",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Telfair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St Clair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Vidette",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blakeney",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 534,
+                "Precinct": [
+                  {
+                    "name": "Alexander",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Four Points",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Girard",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Gough",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Greenscut",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Keysville",
+                    "votes": 13
+                  },
+                  {
+                    "name": "Midville",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Munnerlyn",
+                    "votes": 9
+                  },
+                  {
+                    "name": "Sardis",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Scotts Crossroads",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Telfair",
+                    "votes": 41
+                  },
+                  {
+                    "name": "St Clair",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Vidette",
+                    "votes": 4
+                  },
+                  {
+                    "name": "North Waynesboro",
+                    "votes": 140
+                  },
+                  {
+                    "name": "South Waynesboro",
+                    "votes": 89
+                  },
+                  {
+                    "name": "Blakeney",
+                    "votes": 12
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Alexander",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Four Points",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Girard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gough",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenscut",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keysville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Midville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Munnerlyn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sardis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scotts Crossroads",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Telfair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St Clair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Vidette",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blakeney",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 16,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 45,
+            "Precinct": [
+              {
+                "name": "Alexander",
+                "votes": 7
+              },
+              {
+                "name": "Four Points",
+                "votes": 6
+              },
+              {
+                "name": "Girard",
+                "votes": 1
+              },
+              {
+                "name": "Gough",
+                "votes": 1
+              },
+              {
+                "name": "Greenscut",
+                "votes": 9
+              },
+              {
+                "name": "Keysville",
+                "votes": 3
+              },
+              {
+                "name": "Midville",
+                "votes": 0
+              },
+              {
+                "name": "Munnerlyn",
+                "votes": 4
+              },
+              {
+                "name": "Sardis",
+                "votes": 0
+              },
+              {
+                "name": "Scotts Crossroads",
+                "votes": 3
+              },
+              {
+                "name": "Telfair",
+                "votes": 1
+              },
+              {
+                "name": "St Clair",
+                "votes": 1
+              },
+              {
+                "name": "Vidette",
+                "votes": 4
+              },
+              {
+                "name": "North Waynesboro",
+                "votes": 3
+              },
+              {
+                "name": "South Waynesboro",
+                "votes": 2
+              },
+              {
+                "name": "Blakeney",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Alexander",
+                "votes": 0
+              },
+              {
+                "name": "Four Points",
+                "votes": 0
+              },
+              {
+                "name": "Girard",
+                "votes": 0
+              },
+              {
+                "name": "Gough",
+                "votes": 0
+              },
+              {
+                "name": "Greenscut",
+                "votes": 0
+              },
+              {
+                "name": "Keysville",
+                "votes": 0
+              },
+              {
+                "name": "Midville",
+                "votes": 0
+              },
+              {
+                "name": "Munnerlyn",
+                "votes": 0
+              },
+              {
+                "name": "Sardis",
+                "votes": 0
+              },
+              {
+                "name": "Scotts Crossroads",
+                "votes": 0
+              },
+              {
+                "name": "Telfair",
+                "votes": 0
+              },
+              {
+                "name": "St Clair",
+                "votes": 0
+              },
+              {
+                "name": "Vidette",
+                "votes": 0
+              },
+              {
+                "name": "North Waynesboro",
+                "votes": 0
+              },
+              {
+                "name": "South Waynesboro",
+                "votes": 0
+              },
+              {
+                "name": "Blakeney",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 1155,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 968,
+                "Precinct": [
+                  {
+                    "name": "Alexander",
+                    "votes": 99
+                  },
+                  {
+                    "name": "Four Points",
+                    "votes": 528
+                  },
+                  {
+                    "name": "Girard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gough",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenscut",
+                    "votes": 164
+                  },
+                  {
+                    "name": "Keysville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Midville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Munnerlyn",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Sardis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scotts Crossroads",
+                    "votes": 43
+                  },
+                  {
+                    "name": "Telfair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St Clair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Vidette",
+                    "votes": 70
+                  },
+                  {
+                    "name": "North Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blakeney",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Alexander",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Four Points",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Girard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gough",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenscut",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keysville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Midville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Munnerlyn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sardis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scotts Crossroads",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Telfair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St Clair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Vidette",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blakeney",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 187,
+                "Precinct": [
+                  {
+                    "name": "Alexander",
+                    "votes": 6
+                  },
+                  {
+                    "name": "Four Points",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Girard",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Gough",
+                    "votes": 3
+                  },
+                  {
+                    "name": "Greenscut",
+                    "votes": 12
+                  },
+                  {
+                    "name": "Keysville",
+                    "votes": 3
+                  },
+                  {
+                    "name": "Midville",
+                    "votes": 1
+                  },
+                  {
+                    "name": "Munnerlyn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sardis",
+                    "votes": 12
+                  },
+                  {
+                    "name": "Scotts Crossroads",
+                    "votes": 1
+                  },
+                  {
+                    "name": "Telfair",
+                    "votes": 21
+                  },
+                  {
+                    "name": "St Clair",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Vidette",
+                    "votes": 1
+                  },
+                  {
+                    "name": "North Waynesboro",
+                    "votes": 12
+                  },
+                  {
+                    "name": "South Waynesboro",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Blakeney",
+                    "votes": 2
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Alexander",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Four Points",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Girard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gough",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenscut",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keysville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Midville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Munnerlyn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sardis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scotts Crossroads",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Telfair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St Clair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Vidette",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blakeney",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 870,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 353,
+                "Precinct": [
+                  {
+                    "name": "Alexander",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Four Points",
+                    "votes": 140
+                  },
+                  {
+                    "name": "Girard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gough",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenscut",
+                    "votes": 72
+                  },
+                  {
+                    "name": "Keysville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Midville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Munnerlyn",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Sardis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scotts Crossroads",
+                    "votes": 43
+                  },
+                  {
+                    "name": "Telfair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St Clair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Vidette",
+                    "votes": 50
+                  },
+                  {
+                    "name": "North Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blakeney",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Alexander",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Four Points",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Girard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gough",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenscut",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keysville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Midville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Munnerlyn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sardis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scotts Crossroads",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Telfair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St Clair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Vidette",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blakeney",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 517,
+                "Precinct": [
+                  {
+                    "name": "Alexander",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Four Points",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Girard",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Gough",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Greenscut",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Keysville",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Midville",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Munnerlyn",
+                    "votes": 9
+                  },
+                  {
+                    "name": "Sardis",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Scotts Crossroads",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Telfair",
+                    "votes": 41
+                  },
+                  {
+                    "name": "St Clair",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Vidette",
+                    "votes": 4
+                  },
+                  {
+                    "name": "North Waynesboro",
+                    "votes": 137
+                  },
+                  {
+                    "name": "South Waynesboro",
+                    "votes": 88
+                  },
+                  {
+                    "name": "Blakeney",
+                    "votes": 12
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Alexander",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Four Points",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Girard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gough",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenscut",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keysville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Midville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Munnerlyn",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sardis",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scotts Crossroads",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Telfair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St Clair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Vidette",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Waynesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blakeney",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

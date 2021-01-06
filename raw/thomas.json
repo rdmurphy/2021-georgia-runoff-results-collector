@@ -1,0 +1,2817 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 7:36:57 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Thomas",
+    "VoterTurnout": {
+      "totalVoters": 30839,
+      "ballotsCast": 14185,
+      "voterTurnout": 46.0,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Barwick",
+            "totalVoters": 656,
+            "ballotsCast": 261,
+            "voterTurnout": 39.79,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Boston",
+            "totalVoters": 1683,
+            "ballotsCast": 703,
+            "voterTurnout": 41.77,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Central",
+            "totalVoters": 3584,
+            "ballotsCast": 1795,
+            "voterTurnout": 50.08,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Coolidge",
+            "totalVoters": 1012,
+            "ballotsCast": 276,
+            "voterTurnout": 27.27,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Douglass",
+            "totalVoters": 2525,
+            "ballotsCast": 947,
+            "voterTurnout": 37.5,
+            "percentReporting": "2"
+          },
+          {
+            "name": "LIttle Ochlocknee Baptist Church",
+            "totalVoters": 1177,
+            "ballotsCast": 512,
+            "voterTurnout": 43.5,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Fire Station #2",
+            "totalVoters": 1432,
+            "ballotsCast": 815,
+            "voterTurnout": 56.91,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Gatlin Creek",
+            "totalVoters": 2140,
+            "ballotsCast": 1014,
+            "voterTurnout": 47.38,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Harper",
+            "totalVoters": 2045,
+            "ballotsCast": 944,
+            "voterTurnout": 46.16,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Jerger",
+            "totalVoters": 1930,
+            "ballotsCast": 1075,
+            "voterTurnout": 55.7,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Meigs",
+            "totalVoters": 891,
+            "ballotsCast": 233,
+            "voterTurnout": 26.15,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Metcalfe",
+            "totalVoters": 311,
+            "ballotsCast": 108,
+            "voterTurnout": 34.73,
+            "percentReporting": "2"
+          },
+          {
+            "name": "New Covenant",
+            "totalVoters": 2191,
+            "ballotsCast": 1002,
+            "voterTurnout": 45.73,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Ochlocknee",
+            "totalVoters": 1217,
+            "ballotsCast": 402,
+            "voterTurnout": 33.03,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Pavo",
+            "totalVoters": 688,
+            "ballotsCast": 198,
+            "voterTurnout": 28.78,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Remington Esc",
+            "totalVoters": 2236,
+            "ballotsCast": 1378,
+            "voterTurnout": 61.63,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Resource Center",
+            "totalVoters": 1385,
+            "ballotsCast": 632,
+            "voterTurnout": 45.63,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Scott",
+            "totalVoters": 2555,
+            "ballotsCast": 1400,
+            "voterTurnout": 54.79,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Merrillville",
+            "totalVoters": 724,
+            "ballotsCast": 332,
+            "voterTurnout": 45.86,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Patten",
+            "totalVoters": 415,
+            "ballotsCast": 158,
+            "voterTurnout": 38.07,
+            "percentReporting": "2"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 20,
+        "precinctsReported": 1,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 42,
+            "Precinct": [
+              {
+                "name": "Barwick",
+                "votes": 1
+              },
+              {
+                "name": "Boston",
+                "votes": 2
+              },
+              {
+                "name": "Central",
+                "votes": 8
+              },
+              {
+                "name": "Coolidge",
+                "votes": 0
+              },
+              {
+                "name": "Douglass",
+                "votes": 5
+              },
+              {
+                "name": "LIttle Ochlocknee Baptist Church",
+                "votes": 1
+              },
+              {
+                "name": "Fire Station #2",
+                "votes": 1
+              },
+              {
+                "name": "Gatlin Creek",
+                "votes": 1
+              },
+              {
+                "name": "Harper",
+                "votes": 7
+              },
+              {
+                "name": "Jerger",
+                "votes": 1
+              },
+              {
+                "name": "Meigs",
+                "votes": 1
+              },
+              {
+                "name": "Metcalfe",
+                "votes": 0
+              },
+              {
+                "name": "New Covenant",
+                "votes": 1
+              },
+              {
+                "name": "Ochlocknee",
+                "votes": 1
+              },
+              {
+                "name": "Pavo",
+                "votes": 0
+              },
+              {
+                "name": "Remington Esc",
+                "votes": 4
+              },
+              {
+                "name": "Resource Center",
+                "votes": 3
+              },
+              {
+                "name": "Scott",
+                "votes": 4
+              },
+              {
+                "name": "Merrillville",
+                "votes": 1
+              },
+              {
+                "name": "Patten",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Barwick",
+                "votes": 0
+              },
+              {
+                "name": "Boston",
+                "votes": 0
+              },
+              {
+                "name": "Central",
+                "votes": 0
+              },
+              {
+                "name": "Coolidge",
+                "votes": 0
+              },
+              {
+                "name": "Douglass",
+                "votes": 0
+              },
+              {
+                "name": "LIttle Ochlocknee Baptist Church",
+                "votes": 0
+              },
+              {
+                "name": "Fire Station #2",
+                "votes": 0
+              },
+              {
+                "name": "Gatlin Creek",
+                "votes": 0
+              },
+              {
+                "name": "Harper",
+                "votes": 0
+              },
+              {
+                "name": "Jerger",
+                "votes": 0
+              },
+              {
+                "name": "Meigs",
+                "votes": 0
+              },
+              {
+                "name": "Metcalfe",
+                "votes": 0
+              },
+              {
+                "name": "New Covenant",
+                "votes": 0
+              },
+              {
+                "name": "Ochlocknee",
+                "votes": 0
+              },
+              {
+                "name": "Pavo",
+                "votes": 0
+              },
+              {
+                "name": "Remington Esc",
+                "votes": 0
+              },
+              {
+                "name": "Resource Center",
+                "votes": 0
+              },
+              {
+                "name": "Scott",
+                "votes": 0
+              },
+              {
+                "name": "Merrillville",
+                "votes": 0
+              },
+              {
+                "name": "Patten",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 8034,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 218,
+                "Precinct": [
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Central",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coolidge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Douglass",
+                    "votes": 0
+                  },
+                  {
+                    "name": "LIttle Ochlocknee Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fire Station #2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gatlin Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Harper",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jerger",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Meigs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Metcalfe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Covenant",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ochlocknee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Remington Esc",
+                    "votes": 218
+                  },
+                  {
+                    "name": "Resource Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scott",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Merrillville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Patten",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 6599,
+                "Precinct": [
+                  {
+                    "name": "Barwick",
+                    "votes": 179
+                  },
+                  {
+                    "name": "Boston",
+                    "votes": 297
+                  },
+                  {
+                    "name": "Central",
+                    "votes": 982
+                  },
+                  {
+                    "name": "Coolidge",
+                    "votes": 169
+                  },
+                  {
+                    "name": "Douglass",
+                    "votes": 129
+                  },
+                  {
+                    "name": "LIttle Ochlocknee Baptist Church",
+                    "votes": 327
+                  },
+                  {
+                    "name": "Fire Station #2",
+                    "votes": 473
+                  },
+                  {
+                    "name": "Gatlin Creek",
+                    "votes": 628
+                  },
+                  {
+                    "name": "Harper",
+                    "votes": 188
+                  },
+                  {
+                    "name": "Jerger",
+                    "votes": 545
+                  },
+                  {
+                    "name": "Meigs",
+                    "votes": 123
+                  },
+                  {
+                    "name": "Metcalfe",
+                    "votes": 56
+                  },
+                  {
+                    "name": "New Covenant",
+                    "votes": 613
+                  },
+                  {
+                    "name": "Ochlocknee",
+                    "votes": 272
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 121
+                  },
+                  {
+                    "name": "Remington Esc",
+                    "votes": 484
+                  },
+                  {
+                    "name": "Resource Center",
+                    "votes": 38
+                  },
+                  {
+                    "name": "Scott",
+                    "votes": 677
+                  },
+                  {
+                    "name": "Merrillville",
+                    "votes": 188
+                  },
+                  {
+                    "name": "Patten",
+                    "votes": 110
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1217,
+                "Precinct": [
+                  {
+                    "name": "Barwick",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Boston",
+                    "votes": 47
+                  },
+                  {
+                    "name": "Central",
+                    "votes": 169
+                  },
+                  {
+                    "name": "Coolidge",
+                    "votes": 28
+                  },
+                  {
+                    "name": "Douglass",
+                    "votes": 29
+                  },
+                  {
+                    "name": "LIttle Ochlocknee Baptist Church",
+                    "votes": 52
+                  },
+                  {
+                    "name": "Fire Station #2",
+                    "votes": 95
+                  },
+                  {
+                    "name": "Gatlin Creek",
+                    "votes": 102
+                  },
+                  {
+                    "name": "Harper",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Jerger",
+                    "votes": 116
+                  },
+                  {
+                    "name": "Meigs",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Metcalfe",
+                    "votes": 11
+                  },
+                  {
+                    "name": "New Covenant",
+                    "votes": 91
+                  },
+                  {
+                    "name": "Ochlocknee",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Remington Esc",
+                    "votes": 120
+                  },
+                  {
+                    "name": "Resource Center",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Scott",
+                    "votes": 140
+                  },
+                  {
+                    "name": "Merrillville",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Patten",
+                    "votes": 16
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Central",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coolidge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Douglass",
+                    "votes": 0
+                  },
+                  {
+                    "name": "LIttle Ochlocknee Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fire Station #2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gatlin Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Harper",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jerger",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Meigs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Metcalfe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Covenant",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ochlocknee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Remington Esc",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Resource Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scott",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Merrillville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Patten",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 6109,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 96,
+                "Precinct": [
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Central",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coolidge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Douglass",
+                    "votes": 0
+                  },
+                  {
+                    "name": "LIttle Ochlocknee Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fire Station #2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gatlin Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Harper",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jerger",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Meigs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Metcalfe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Covenant",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ochlocknee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Remington Esc",
+                    "votes": 96
+                  },
+                  {
+                    "name": "Resource Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scott",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Merrillville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Patten",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 3967,
+                "Precinct": [
+                  {
+                    "name": "Barwick",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Boston",
+                    "votes": 215
+                  },
+                  {
+                    "name": "Central",
+                    "votes": 419
+                  },
+                  {
+                    "name": "Coolidge",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Douglass",
+                    "votes": 554
+                  },
+                  {
+                    "name": "LIttle Ochlocknee Baptist Church",
+                    "votes": 99
+                  },
+                  {
+                    "name": "Fire Station #2",
+                    "votes": 154
+                  },
+                  {
+                    "name": "Gatlin Creek",
+                    "votes": 199
+                  },
+                  {
+                    "name": "Harper",
+                    "votes": 473
+                  },
+                  {
+                    "name": "Jerger",
+                    "votes": 273
+                  },
+                  {
+                    "name": "Meigs",
+                    "votes": 44
+                  },
+                  {
+                    "name": "Metcalfe",
+                    "votes": 15
+                  },
+                  {
+                    "name": "New Covenant",
+                    "votes": 195
+                  },
+                  {
+                    "name": "Ochlocknee",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Remington Esc",
+                    "votes": 295
+                  },
+                  {
+                    "name": "Resource Center",
+                    "votes": 375
+                  },
+                  {
+                    "name": "Scott",
+                    "votes": 400
+                  },
+                  {
+                    "name": "Merrillville",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Patten",
+                    "votes": 23
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 2046,
+                "Precinct": [
+                  {
+                    "name": "Barwick",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Boston",
+                    "votes": 142
+                  },
+                  {
+                    "name": "Central",
+                    "votes": 217
+                  },
+                  {
+                    "name": "Coolidge",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Douglass",
+                    "votes": 230
+                  },
+                  {
+                    "name": "LIttle Ochlocknee Baptist Church",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Fire Station #2",
+                    "votes": 92
+                  },
+                  {
+                    "name": "Gatlin Creek",
+                    "votes": 84
+                  },
+                  {
+                    "name": "Harper",
+                    "votes": 245
+                  },
+                  {
+                    "name": "Jerger",
+                    "votes": 140
+                  },
+                  {
+                    "name": "Meigs",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Metcalfe",
+                    "votes": 26
+                  },
+                  {
+                    "name": "New Covenant",
+                    "votes": 102
+                  },
+                  {
+                    "name": "Ochlocknee",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Remington Esc",
+                    "votes": 161
+                  },
+                  {
+                    "name": "Resource Center",
+                    "votes": 205
+                  },
+                  {
+                    "name": "Scott",
+                    "votes": 179
+                  },
+                  {
+                    "name": "Merrillville",
+                    "votes": 48
+                  },
+                  {
+                    "name": "Patten",
+                    "votes": 9
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Central",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coolidge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Douglass",
+                    "votes": 0
+                  },
+                  {
+                    "name": "LIttle Ochlocknee Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fire Station #2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gatlin Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Harper",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jerger",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Meigs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Metcalfe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Covenant",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ochlocknee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Remington Esc",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Resource Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scott",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Merrillville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Patten",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 20,
+        "precinctsReported": 1,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 37,
+            "Precinct": [
+              {
+                "name": "Barwick",
+                "votes": 1
+              },
+              {
+                "name": "Boston",
+                "votes": 3
+              },
+              {
+                "name": "Central",
+                "votes": 6
+              },
+              {
+                "name": "Coolidge",
+                "votes": 1
+              },
+              {
+                "name": "Douglass",
+                "votes": 5
+              },
+              {
+                "name": "LIttle Ochlocknee Baptist Church",
+                "votes": 0
+              },
+              {
+                "name": "Fire Station #2",
+                "votes": 1
+              },
+              {
+                "name": "Gatlin Creek",
+                "votes": 1
+              },
+              {
+                "name": "Harper",
+                "votes": 2
+              },
+              {
+                "name": "Jerger",
+                "votes": 1
+              },
+              {
+                "name": "Meigs",
+                "votes": 2
+              },
+              {
+                "name": "Metcalfe",
+                "votes": 1
+              },
+              {
+                "name": "New Covenant",
+                "votes": 4
+              },
+              {
+                "name": "Ochlocknee",
+                "votes": 0
+              },
+              {
+                "name": "Pavo",
+                "votes": 0
+              },
+              {
+                "name": "Remington Esc",
+                "votes": 6
+              },
+              {
+                "name": "Resource Center",
+                "votes": 2
+              },
+              {
+                "name": "Scott",
+                "votes": 1
+              },
+              {
+                "name": "Merrillville",
+                "votes": 0
+              },
+              {
+                "name": "Patten",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Barwick",
+                "votes": 0
+              },
+              {
+                "name": "Boston",
+                "votes": 0
+              },
+              {
+                "name": "Central",
+                "votes": 0
+              },
+              {
+                "name": "Coolidge",
+                "votes": 0
+              },
+              {
+                "name": "Douglass",
+                "votes": 0
+              },
+              {
+                "name": "LIttle Ochlocknee Baptist Church",
+                "votes": 0
+              },
+              {
+                "name": "Fire Station #2",
+                "votes": 0
+              },
+              {
+                "name": "Gatlin Creek",
+                "votes": 0
+              },
+              {
+                "name": "Harper",
+                "votes": 0
+              },
+              {
+                "name": "Jerger",
+                "votes": 0
+              },
+              {
+                "name": "Meigs",
+                "votes": 0
+              },
+              {
+                "name": "Metcalfe",
+                "votes": 0
+              },
+              {
+                "name": "New Covenant",
+                "votes": 0
+              },
+              {
+                "name": "Ochlocknee",
+                "votes": 0
+              },
+              {
+                "name": "Pavo",
+                "votes": 0
+              },
+              {
+                "name": "Remington Esc",
+                "votes": 0
+              },
+              {
+                "name": "Resource Center",
+                "votes": 0
+              },
+              {
+                "name": "Scott",
+                "votes": 0
+              },
+              {
+                "name": "Merrillville",
+                "votes": 0
+              },
+              {
+                "name": "Patten",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 8062,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 219,
+                "Precinct": [
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Central",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coolidge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Douglass",
+                    "votes": 0
+                  },
+                  {
+                    "name": "LIttle Ochlocknee Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fire Station #2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gatlin Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Harper",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jerger",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Meigs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Metcalfe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Covenant",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ochlocknee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Remington Esc",
+                    "votes": 219
+                  },
+                  {
+                    "name": "Resource Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scott",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Merrillville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Patten",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 6610,
+                "Precinct": [
+                  {
+                    "name": "Barwick",
+                    "votes": 180
+                  },
+                  {
+                    "name": "Boston",
+                    "votes": 296
+                  },
+                  {
+                    "name": "Central",
+                    "votes": 988
+                  },
+                  {
+                    "name": "Coolidge",
+                    "votes": 171
+                  },
+                  {
+                    "name": "Douglass",
+                    "votes": 130
+                  },
+                  {
+                    "name": "LIttle Ochlocknee Baptist Church",
+                    "votes": 327
+                  },
+                  {
+                    "name": "Fire Station #2",
+                    "votes": 472
+                  },
+                  {
+                    "name": "Gatlin Creek",
+                    "votes": 629
+                  },
+                  {
+                    "name": "Harper",
+                    "votes": 189
+                  },
+                  {
+                    "name": "Jerger",
+                    "votes": 546
+                  },
+                  {
+                    "name": "Meigs",
+                    "votes": 122
+                  },
+                  {
+                    "name": "Metcalfe",
+                    "votes": 56
+                  },
+                  {
+                    "name": "New Covenant",
+                    "votes": 614
+                  },
+                  {
+                    "name": "Ochlocknee",
+                    "votes": 274
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 121
+                  },
+                  {
+                    "name": "Remington Esc",
+                    "votes": 484
+                  },
+                  {
+                    "name": "Resource Center",
+                    "votes": 38
+                  },
+                  {
+                    "name": "Scott",
+                    "votes": 677
+                  },
+                  {
+                    "name": "Merrillville",
+                    "votes": 188
+                  },
+                  {
+                    "name": "Patten",
+                    "votes": 108
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1233,
+                "Precinct": [
+                  {
+                    "name": "Barwick",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Boston",
+                    "votes": 46
+                  },
+                  {
+                    "name": "Central",
+                    "votes": 176
+                  },
+                  {
+                    "name": "Coolidge",
+                    "votes": 28
+                  },
+                  {
+                    "name": "Douglass",
+                    "votes": 28
+                  },
+                  {
+                    "name": "LIttle Ochlocknee Baptist Church",
+                    "votes": 51
+                  },
+                  {
+                    "name": "Fire Station #2",
+                    "votes": 95
+                  },
+                  {
+                    "name": "Gatlin Creek",
+                    "votes": 104
+                  },
+                  {
+                    "name": "Harper",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Jerger",
+                    "votes": 119
+                  },
+                  {
+                    "name": "Meigs",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Metcalfe",
+                    "votes": 11
+                  },
+                  {
+                    "name": "New Covenant",
+                    "votes": 92
+                  },
+                  {
+                    "name": "Ochlocknee",
+                    "votes": 38
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Remington Esc",
+                    "votes": 123
+                  },
+                  {
+                    "name": "Resource Center",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Scott",
+                    "votes": 143
+                  },
+                  {
+                    "name": "Merrillville",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Patten",
+                    "votes": 16
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Central",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coolidge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Douglass",
+                    "votes": 0
+                  },
+                  {
+                    "name": "LIttle Ochlocknee Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fire Station #2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gatlin Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Harper",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jerger",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Meigs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Metcalfe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Covenant",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ochlocknee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Remington Esc",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Resource Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scott",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Merrillville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Patten",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 6086,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 94,
+                "Precinct": [
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Central",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coolidge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Douglass",
+                    "votes": 0
+                  },
+                  {
+                    "name": "LIttle Ochlocknee Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fire Station #2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gatlin Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Harper",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jerger",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Meigs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Metcalfe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Covenant",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ochlocknee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Remington Esc",
+                    "votes": 94
+                  },
+                  {
+                    "name": "Resource Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scott",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Merrillville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Patten",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 3962,
+                "Precinct": [
+                  {
+                    "name": "Barwick",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Boston",
+                    "votes": 215
+                  },
+                  {
+                    "name": "Central",
+                    "votes": 416
+                  },
+                  {
+                    "name": "Coolidge",
+                    "votes": 47
+                  },
+                  {
+                    "name": "Douglass",
+                    "votes": 555
+                  },
+                  {
+                    "name": "LIttle Ochlocknee Baptist Church",
+                    "votes": 100
+                  },
+                  {
+                    "name": "Fire Station #2",
+                    "votes": 155
+                  },
+                  {
+                    "name": "Gatlin Creek",
+                    "votes": 198
+                  },
+                  {
+                    "name": "Harper",
+                    "votes": 476
+                  },
+                  {
+                    "name": "Jerger",
+                    "votes": 272
+                  },
+                  {
+                    "name": "Meigs",
+                    "votes": 44
+                  },
+                  {
+                    "name": "Metcalfe",
+                    "votes": 14
+                  },
+                  {
+                    "name": "New Covenant",
+                    "votes": 192
+                  },
+                  {
+                    "name": "Ochlocknee",
+                    "votes": 69
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Remington Esc",
+                    "votes": 295
+                  },
+                  {
+                    "name": "Resource Center",
+                    "votes": 374
+                  },
+                  {
+                    "name": "Scott",
+                    "votes": 401
+                  },
+                  {
+                    "name": "Merrillville",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Patten",
+                    "votes": 25
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 2030,
+                "Precinct": [
+                  {
+                    "name": "Barwick",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Boston",
+                    "votes": 143
+                  },
+                  {
+                    "name": "Central",
+                    "votes": 209
+                  },
+                  {
+                    "name": "Coolidge",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Douglass",
+                    "votes": 229
+                  },
+                  {
+                    "name": "LIttle Ochlocknee Baptist Church",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Fire Station #2",
+                    "votes": 92
+                  },
+                  {
+                    "name": "Gatlin Creek",
+                    "votes": 82
+                  },
+                  {
+                    "name": "Harper",
+                    "votes": 245
+                  },
+                  {
+                    "name": "Jerger",
+                    "votes": 137
+                  },
+                  {
+                    "name": "Meigs",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Metcalfe",
+                    "votes": 26
+                  },
+                  {
+                    "name": "New Covenant",
+                    "votes": 100
+                  },
+                  {
+                    "name": "Ochlocknee",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Remington Esc",
+                    "votes": 157
+                  },
+                  {
+                    "name": "Resource Center",
+                    "votes": 207
+                  },
+                  {
+                    "name": "Scott",
+                    "votes": 178
+                  },
+                  {
+                    "name": "Merrillville",
+                    "votes": 49
+                  },
+                  {
+                    "name": "Patten",
+                    "votes": 9
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Central",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coolidge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Douglass",
+                    "votes": 0
+                  },
+                  {
+                    "name": "LIttle Ochlocknee Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fire Station #2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gatlin Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Harper",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jerger",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Meigs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Metcalfe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Covenant",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ochlocknee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Remington Esc",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Resource Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scott",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Merrillville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Patten",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 20,
+        "precinctsReported": 1,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 207,
+            "Precinct": [
+              {
+                "name": "Barwick",
+                "votes": 2
+              },
+              {
+                "name": "Boston",
+                "votes": 9
+              },
+              {
+                "name": "Central",
+                "votes": 28
+              },
+              {
+                "name": "Coolidge",
+                "votes": 7
+              },
+              {
+                "name": "Douglass",
+                "votes": 21
+              },
+              {
+                "name": "LIttle Ochlocknee Baptist Church",
+                "votes": 7
+              },
+              {
+                "name": "Fire Station #2",
+                "votes": 10
+              },
+              {
+                "name": "Gatlin Creek",
+                "votes": 12
+              },
+              {
+                "name": "Harper",
+                "votes": 12
+              },
+              {
+                "name": "Jerger",
+                "votes": 16
+              },
+              {
+                "name": "Meigs",
+                "votes": 4
+              },
+              {
+                "name": "Metcalfe",
+                "votes": 2
+              },
+              {
+                "name": "New Covenant",
+                "votes": 13
+              },
+              {
+                "name": "Ochlocknee",
+                "votes": 0
+              },
+              {
+                "name": "Pavo",
+                "votes": 2
+              },
+              {
+                "name": "Remington Esc",
+                "votes": 25
+              },
+              {
+                "name": "Resource Center",
+                "votes": 11
+              },
+              {
+                "name": "Scott",
+                "votes": 19
+              },
+              {
+                "name": "Merrillville",
+                "votes": 7
+              },
+              {
+                "name": "Patten",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Barwick",
+                "votes": 0
+              },
+              {
+                "name": "Boston",
+                "votes": 0
+              },
+              {
+                "name": "Central",
+                "votes": 0
+              },
+              {
+                "name": "Coolidge",
+                "votes": 0
+              },
+              {
+                "name": "Douglass",
+                "votes": 0
+              },
+              {
+                "name": "LIttle Ochlocknee Baptist Church",
+                "votes": 0
+              },
+              {
+                "name": "Fire Station #2",
+                "votes": 0
+              },
+              {
+                "name": "Gatlin Creek",
+                "votes": 0
+              },
+              {
+                "name": "Harper",
+                "votes": 0
+              },
+              {
+                "name": "Jerger",
+                "votes": 0
+              },
+              {
+                "name": "Meigs",
+                "votes": 0
+              },
+              {
+                "name": "Metcalfe",
+                "votes": 0
+              },
+              {
+                "name": "New Covenant",
+                "votes": 0
+              },
+              {
+                "name": "Ochlocknee",
+                "votes": 0
+              },
+              {
+                "name": "Pavo",
+                "votes": 0
+              },
+              {
+                "name": "Remington Esc",
+                "votes": 0
+              },
+              {
+                "name": "Resource Center",
+                "votes": 0
+              },
+              {
+                "name": "Scott",
+                "votes": 0
+              },
+              {
+                "name": "Merrillville",
+                "votes": 0
+              },
+              {
+                "name": "Patten",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 8034,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 212,
+                "Precinct": [
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Central",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coolidge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Douglass",
+                    "votes": 0
+                  },
+                  {
+                    "name": "LIttle Ochlocknee Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fire Station #2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gatlin Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Harper",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jerger",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Meigs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Metcalfe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Covenant",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ochlocknee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Remington Esc",
+                    "votes": 212
+                  },
+                  {
+                    "name": "Resource Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scott",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Merrillville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Patten",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 6606,
+                "Precinct": [
+                  {
+                    "name": "Barwick",
+                    "votes": 179
+                  },
+                  {
+                    "name": "Boston",
+                    "votes": 300
+                  },
+                  {
+                    "name": "Central",
+                    "votes": 975
+                  },
+                  {
+                    "name": "Coolidge",
+                    "votes": 164
+                  },
+                  {
+                    "name": "Douglass",
+                    "votes": 130
+                  },
+                  {
+                    "name": "LIttle Ochlocknee Baptist Church",
+                    "votes": 326
+                  },
+                  {
+                    "name": "Fire Station #2",
+                    "votes": 477
+                  },
+                  {
+                    "name": "Gatlin Creek",
+                    "votes": 625
+                  },
+                  {
+                    "name": "Harper",
+                    "votes": 190
+                  },
+                  {
+                    "name": "Jerger",
+                    "votes": 549
+                  },
+                  {
+                    "name": "Meigs",
+                    "votes": 122
+                  },
+                  {
+                    "name": "Metcalfe",
+                    "votes": 56
+                  },
+                  {
+                    "name": "New Covenant",
+                    "votes": 610
+                  },
+                  {
+                    "name": "Ochlocknee",
+                    "votes": 278
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 121
+                  },
+                  {
+                    "name": "Remington Esc",
+                    "votes": 489
+                  },
+                  {
+                    "name": "Resource Center",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Scott",
+                    "votes": 682
+                  },
+                  {
+                    "name": "Merrillville",
+                    "votes": 181
+                  },
+                  {
+                    "name": "Patten",
+                    "votes": 110
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1216,
+                "Precinct": [
+                  {
+                    "name": "Barwick",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Boston",
+                    "votes": 43
+                  },
+                  {
+                    "name": "Central",
+                    "votes": 169
+                  },
+                  {
+                    "name": "Coolidge",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Douglass",
+                    "votes": 26
+                  },
+                  {
+                    "name": "LIttle Ochlocknee Baptist Church",
+                    "votes": 49
+                  },
+                  {
+                    "name": "Fire Station #2",
+                    "votes": 98
+                  },
+                  {
+                    "name": "Gatlin Creek",
+                    "votes": 101
+                  },
+                  {
+                    "name": "Harper",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Jerger",
+                    "votes": 119
+                  },
+                  {
+                    "name": "Meigs",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Metcalfe",
+                    "votes": 12
+                  },
+                  {
+                    "name": "New Covenant",
+                    "votes": 93
+                  },
+                  {
+                    "name": "Ochlocknee",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Remington Esc",
+                    "votes": 126
+                  },
+                  {
+                    "name": "Resource Center",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Scott",
+                    "votes": 135
+                  },
+                  {
+                    "name": "Merrillville",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Patten",
+                    "votes": 16
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Central",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coolidge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Douglass",
+                    "votes": 0
+                  },
+                  {
+                    "name": "LIttle Ochlocknee Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fire Station #2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gatlin Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Harper",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jerger",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Meigs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Metcalfe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Covenant",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ochlocknee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Remington Esc",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Resource Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scott",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Merrillville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Patten",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 5944,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 96,
+                "Precinct": [
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Central",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coolidge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Douglass",
+                    "votes": 0
+                  },
+                  {
+                    "name": "LIttle Ochlocknee Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fire Station #2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gatlin Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Harper",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jerger",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Meigs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Metcalfe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Covenant",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ochlocknee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Remington Esc",
+                    "votes": 96
+                  },
+                  {
+                    "name": "Resource Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scott",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Merrillville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Patten",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 3863,
+                "Precinct": [
+                  {
+                    "name": "Barwick",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Boston",
+                    "votes": 207
+                  },
+                  {
+                    "name": "Central",
+                    "votes": 414
+                  },
+                  {
+                    "name": "Coolidge",
+                    "votes": 48
+                  },
+                  {
+                    "name": "Douglass",
+                    "votes": 547
+                  },
+                  {
+                    "name": "LIttle Ochlocknee Baptist Church",
+                    "votes": 97
+                  },
+                  {
+                    "name": "Fire Station #2",
+                    "votes": 143
+                  },
+                  {
+                    "name": "Gatlin Creek",
+                    "votes": 193
+                  },
+                  {
+                    "name": "Harper",
+                    "votes": 468
+                  },
+                  {
+                    "name": "Jerger",
+                    "votes": 260
+                  },
+                  {
+                    "name": "Meigs",
+                    "votes": 44
+                  },
+                  {
+                    "name": "Metcalfe",
+                    "votes": 14
+                  },
+                  {
+                    "name": "New Covenant",
+                    "votes": 191
+                  },
+                  {
+                    "name": "Ochlocknee",
+                    "votes": 65
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Remington Esc",
+                    "votes": 283
+                  },
+                  {
+                    "name": "Resource Center",
+                    "votes": 366
+                  },
+                  {
+                    "name": "Scott",
+                    "votes": 386
+                  },
+                  {
+                    "name": "Merrillville",
+                    "votes": 63
+                  },
+                  {
+                    "name": "Patten",
+                    "votes": 23
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1985,
+                "Precinct": [
+                  {
+                    "name": "Barwick",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Boston",
+                    "votes": 144
+                  },
+                  {
+                    "name": "Central",
+                    "votes": 209
+                  },
+                  {
+                    "name": "Coolidge",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Douglass",
+                    "votes": 223
+                  },
+                  {
+                    "name": "LIttle Ochlocknee Baptist Church",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Fire Station #2",
+                    "votes": 87
+                  },
+                  {
+                    "name": "Gatlin Creek",
+                    "votes": 83
+                  },
+                  {
+                    "name": "Harper",
+                    "votes": 240
+                  },
+                  {
+                    "name": "Jerger",
+                    "votes": 131
+                  },
+                  {
+                    "name": "Meigs",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Metcalfe",
+                    "votes": 24
+                  },
+                  {
+                    "name": "New Covenant",
+                    "votes": 95
+                  },
+                  {
+                    "name": "Ochlocknee",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Remington Esc",
+                    "votes": 147
+                  },
+                  {
+                    "name": "Resource Center",
+                    "votes": 203
+                  },
+                  {
+                    "name": "Scott",
+                    "votes": 178
+                  },
+                  {
+                    "name": "Merrillville",
+                    "votes": 48
+                  },
+                  {
+                    "name": "Patten",
+                    "votes": 9
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Central",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coolidge",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Douglass",
+                    "votes": 0
+                  },
+                  {
+                    "name": "LIttle Ochlocknee Baptist Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fire Station #2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gatlin Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Harper",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jerger",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Meigs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Metcalfe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "New Covenant",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ochlocknee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Remington Esc",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Resource Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scott",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Merrillville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Patten",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

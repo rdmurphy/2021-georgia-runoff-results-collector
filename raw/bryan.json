@@ -1,0 +1,1547 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 7:52:16 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Bryan",
+    "VoterTurnout": {
+      "totalVoters": 31344,
+      "ballotsCast": 10739,
+      "voterTurnout": 34.26,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Pembroke",
+            "totalVoters": 2706,
+            "ballotsCast": 784,
+            "voterTurnout": 28.97,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Danielsiding",
+            "totalVoters": 2326,
+            "ballotsCast": 785,
+            "voterTurnout": 33.75,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Ellabell",
+            "totalVoters": 2390,
+            "ballotsCast": 679,
+            "voterTurnout": 28.41,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Black Creek",
+            "totalVoters": 3038,
+            "ballotsCast": 777,
+            "voterTurnout": 25.58,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Ways Station",
+            "totalVoters": 2011,
+            "ballotsCast": 548,
+            "voterTurnout": 27.25,
+            "percentReporting": "2"
+          },
+          {
+            "name": "RH Rec Complex",
+            "totalVoters": 3336,
+            "ballotsCast": 942,
+            "voterTurnout": 28.24,
+            "percentReporting": "2"
+          },
+          {
+            "name": "JF Gregory Park",
+            "totalVoters": 2941,
+            "ballotsCast": 1451,
+            "voterTurnout": 49.34,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Keller",
+            "totalVoters": 4371,
+            "ballotsCast": 1871,
+            "voterTurnout": 42.8,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Hwy 144 East",
+            "totalVoters": 5594,
+            "ballotsCast": 2203,
+            "voterTurnout": 39.38,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Public Safety Complex",
+            "totalVoters": 2631,
+            "ballotsCast": 699,
+            "voterTurnout": 26.57,
+            "percentReporting": "2"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 10,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 5,
+            "Precinct": [
+              {
+                "name": "Pembroke",
+                "votes": 1
+              },
+              {
+                "name": "Danielsiding",
+                "votes": 0
+              },
+              {
+                "name": "Ellabell",
+                "votes": 1
+              },
+              {
+                "name": "Black Creek",
+                "votes": 0
+              },
+              {
+                "name": "Ways Station",
+                "votes": 1
+              },
+              {
+                "name": "RH Rec Complex",
+                "votes": 0
+              },
+              {
+                "name": "JF Gregory Park",
+                "votes": 0
+              },
+              {
+                "name": "Keller",
+                "votes": 0
+              },
+              {
+                "name": "Hwy 144 East",
+                "votes": 2
+              },
+              {
+                "name": "Public Safety Complex",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Pembroke",
+                "votes": 0
+              },
+              {
+                "name": "Danielsiding",
+                "votes": 0
+              },
+              {
+                "name": "Ellabell",
+                "votes": 0
+              },
+              {
+                "name": "Black Creek",
+                "votes": 0
+              },
+              {
+                "name": "Ways Station",
+                "votes": 0
+              },
+              {
+                "name": "RH Rec Complex",
+                "votes": 0
+              },
+              {
+                "name": "JF Gregory Park",
+                "votes": 0
+              },
+              {
+                "name": "Keller",
+                "votes": 0
+              },
+              {
+                "name": "Hwy 144 East",
+                "votes": 0
+              },
+              {
+                "name": "Public Safety Complex",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 7528,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pembroke",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Danielsiding",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellabell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Black Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ways Station",
+                    "votes": 0
+                  },
+                  {
+                    "name": "RH Rec Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "JF Gregory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keller",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hwy 144 East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Public Safety Complex",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 7528,
+                "Precinct": [
+                  {
+                    "name": "Pembroke",
+                    "votes": 520
+                  },
+                  {
+                    "name": "Danielsiding",
+                    "votes": 621
+                  },
+                  {
+                    "name": "Ellabell",
+                    "votes": 564
+                  },
+                  {
+                    "name": "Black Creek",
+                    "votes": 615
+                  },
+                  {
+                    "name": "Ways Station",
+                    "votes": 331
+                  },
+                  {
+                    "name": "RH Rec Complex",
+                    "votes": 529
+                  },
+                  {
+                    "name": "JF Gregory Park",
+                    "votes": 1157
+                  },
+                  {
+                    "name": "Keller",
+                    "votes": 1361
+                  },
+                  {
+                    "name": "Hwy 144 East",
+                    "votes": 1425
+                  },
+                  {
+                    "name": "Public Safety Complex",
+                    "votes": 405
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pembroke",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Danielsiding",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellabell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Black Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ways Station",
+                    "votes": 0
+                  },
+                  {
+                    "name": "RH Rec Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "JF Gregory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keller",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hwy 144 East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Public Safety Complex",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pembroke",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Danielsiding",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellabell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Black Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ways Station",
+                    "votes": 0
+                  },
+                  {
+                    "name": "RH Rec Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "JF Gregory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keller",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hwy 144 East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Public Safety Complex",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 3206,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pembroke",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Danielsiding",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellabell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Black Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ways Station",
+                    "votes": 0
+                  },
+                  {
+                    "name": "RH Rec Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "JF Gregory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keller",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hwy 144 East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Public Safety Complex",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 3206,
+                "Precinct": [
+                  {
+                    "name": "Pembroke",
+                    "votes": 263
+                  },
+                  {
+                    "name": "Danielsiding",
+                    "votes": 164
+                  },
+                  {
+                    "name": "Ellabell",
+                    "votes": 114
+                  },
+                  {
+                    "name": "Black Creek",
+                    "votes": 162
+                  },
+                  {
+                    "name": "Ways Station",
+                    "votes": 216
+                  },
+                  {
+                    "name": "RH Rec Complex",
+                    "votes": 413
+                  },
+                  {
+                    "name": "JF Gregory Park",
+                    "votes": 294
+                  },
+                  {
+                    "name": "Keller",
+                    "votes": 510
+                  },
+                  {
+                    "name": "Hwy 144 East",
+                    "votes": 776
+                  },
+                  {
+                    "name": "Public Safety Complex",
+                    "votes": 294
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pembroke",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Danielsiding",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellabell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Black Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ways Station",
+                    "votes": 0
+                  },
+                  {
+                    "name": "RH Rec Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "JF Gregory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keller",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hwy 144 East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Public Safety Complex",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pembroke",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Danielsiding",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellabell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Black Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ways Station",
+                    "votes": 0
+                  },
+                  {
+                    "name": "RH Rec Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "JF Gregory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keller",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hwy 144 East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Public Safety Complex",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 10,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 12,
+            "Precinct": [
+              {
+                "name": "Pembroke",
+                "votes": 3
+              },
+              {
+                "name": "Danielsiding",
+                "votes": 1
+              },
+              {
+                "name": "Ellabell",
+                "votes": 1
+              },
+              {
+                "name": "Black Creek",
+                "votes": 1
+              },
+              {
+                "name": "Ways Station",
+                "votes": 0
+              },
+              {
+                "name": "RH Rec Complex",
+                "votes": 0
+              },
+              {
+                "name": "JF Gregory Park",
+                "votes": 2
+              },
+              {
+                "name": "Keller",
+                "votes": 1
+              },
+              {
+                "name": "Hwy 144 East",
+                "votes": 2
+              },
+              {
+                "name": "Public Safety Complex",
+                "votes": 1
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Pembroke",
+                "votes": 0
+              },
+              {
+                "name": "Danielsiding",
+                "votes": 0
+              },
+              {
+                "name": "Ellabell",
+                "votes": 0
+              },
+              {
+                "name": "Black Creek",
+                "votes": 0
+              },
+              {
+                "name": "Ways Station",
+                "votes": 0
+              },
+              {
+                "name": "RH Rec Complex",
+                "votes": 0
+              },
+              {
+                "name": "JF Gregory Park",
+                "votes": 0
+              },
+              {
+                "name": "Keller",
+                "votes": 0
+              },
+              {
+                "name": "Hwy 144 East",
+                "votes": 0
+              },
+              {
+                "name": "Public Safety Complex",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 7523,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pembroke",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Danielsiding",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellabell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Black Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ways Station",
+                    "votes": 0
+                  },
+                  {
+                    "name": "RH Rec Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "JF Gregory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keller",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hwy 144 East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Public Safety Complex",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 7523,
+                "Precinct": [
+                  {
+                    "name": "Pembroke",
+                    "votes": 517
+                  },
+                  {
+                    "name": "Danielsiding",
+                    "votes": 622
+                  },
+                  {
+                    "name": "Ellabell",
+                    "votes": 562
+                  },
+                  {
+                    "name": "Black Creek",
+                    "votes": 615
+                  },
+                  {
+                    "name": "Ways Station",
+                    "votes": 334
+                  },
+                  {
+                    "name": "RH Rec Complex",
+                    "votes": 529
+                  },
+                  {
+                    "name": "JF Gregory Park",
+                    "votes": 1153
+                  },
+                  {
+                    "name": "Keller",
+                    "votes": 1355
+                  },
+                  {
+                    "name": "Hwy 144 East",
+                    "votes": 1429
+                  },
+                  {
+                    "name": "Public Safety Complex",
+                    "votes": 407
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pembroke",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Danielsiding",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellabell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Black Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ways Station",
+                    "votes": 0
+                  },
+                  {
+                    "name": "RH Rec Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "JF Gregory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keller",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hwy 144 East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Public Safety Complex",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pembroke",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Danielsiding",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellabell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Black Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ways Station",
+                    "votes": 0
+                  },
+                  {
+                    "name": "RH Rec Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "JF Gregory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keller",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hwy 144 East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Public Safety Complex",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 3204,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pembroke",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Danielsiding",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellabell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Black Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ways Station",
+                    "votes": 0
+                  },
+                  {
+                    "name": "RH Rec Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "JF Gregory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keller",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hwy 144 East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Public Safety Complex",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 3204,
+                "Precinct": [
+                  {
+                    "name": "Pembroke",
+                    "votes": 264
+                  },
+                  {
+                    "name": "Danielsiding",
+                    "votes": 162
+                  },
+                  {
+                    "name": "Ellabell",
+                    "votes": 116
+                  },
+                  {
+                    "name": "Black Creek",
+                    "votes": 161
+                  },
+                  {
+                    "name": "Ways Station",
+                    "votes": 214
+                  },
+                  {
+                    "name": "RH Rec Complex",
+                    "votes": 413
+                  },
+                  {
+                    "name": "JF Gregory Park",
+                    "votes": 296
+                  },
+                  {
+                    "name": "Keller",
+                    "votes": 515
+                  },
+                  {
+                    "name": "Hwy 144 East",
+                    "votes": 772
+                  },
+                  {
+                    "name": "Public Safety Complex",
+                    "votes": 291
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pembroke",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Danielsiding",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellabell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Black Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ways Station",
+                    "votes": 0
+                  },
+                  {
+                    "name": "RH Rec Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "JF Gregory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keller",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hwy 144 East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Public Safety Complex",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pembroke",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Danielsiding",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellabell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Black Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ways Station",
+                    "votes": 0
+                  },
+                  {
+                    "name": "RH Rec Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "JF Gregory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keller",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hwy 144 East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Public Safety Complex",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 10,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 107,
+            "Precinct": [
+              {
+                "name": "Pembroke",
+                "votes": 18
+              },
+              {
+                "name": "Danielsiding",
+                "votes": 1
+              },
+              {
+                "name": "Ellabell",
+                "votes": 14
+              },
+              {
+                "name": "Black Creek",
+                "votes": 9
+              },
+              {
+                "name": "Ways Station",
+                "votes": 6
+              },
+              {
+                "name": "RH Rec Complex",
+                "votes": 8
+              },
+              {
+                "name": "JF Gregory Park",
+                "votes": 16
+              },
+              {
+                "name": "Keller",
+                "votes": 11
+              },
+              {
+                "name": "Hwy 144 East",
+                "votes": 19
+              },
+              {
+                "name": "Public Safety Complex",
+                "votes": 5
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Pembroke",
+                "votes": 0
+              },
+              {
+                "name": "Danielsiding",
+                "votes": 0
+              },
+              {
+                "name": "Ellabell",
+                "votes": 0
+              },
+              {
+                "name": "Black Creek",
+                "votes": 0
+              },
+              {
+                "name": "Ways Station",
+                "votes": 0
+              },
+              {
+                "name": "RH Rec Complex",
+                "votes": 0
+              },
+              {
+                "name": "JF Gregory Park",
+                "votes": 0
+              },
+              {
+                "name": "Keller",
+                "votes": 0
+              },
+              {
+                "name": "Hwy 144 East",
+                "votes": 0
+              },
+              {
+                "name": "Public Safety Complex",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 7568,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pembroke",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Danielsiding",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellabell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Black Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ways Station",
+                    "votes": 0
+                  },
+                  {
+                    "name": "RH Rec Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "JF Gregory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keller",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hwy 144 East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Public Safety Complex",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 7568,
+                "Precinct": [
+                  {
+                    "name": "Pembroke",
+                    "votes": 509
+                  },
+                  {
+                    "name": "Danielsiding",
+                    "votes": 622
+                  },
+                  {
+                    "name": "Ellabell",
+                    "votes": 555
+                  },
+                  {
+                    "name": "Black Creek",
+                    "votes": 612
+                  },
+                  {
+                    "name": "Ways Station",
+                    "votes": 332
+                  },
+                  {
+                    "name": "RH Rec Complex",
+                    "votes": 540
+                  },
+                  {
+                    "name": "JF Gregory Park",
+                    "votes": 1157
+                  },
+                  {
+                    "name": "Keller",
+                    "votes": 1383
+                  },
+                  {
+                    "name": "Hwy 144 East",
+                    "votes": 1448
+                  },
+                  {
+                    "name": "Public Safety Complex",
+                    "votes": 410
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pembroke",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Danielsiding",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellabell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Black Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ways Station",
+                    "votes": 0
+                  },
+                  {
+                    "name": "RH Rec Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "JF Gregory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keller",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hwy 144 East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Public Safety Complex",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pembroke",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Danielsiding",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellabell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Black Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ways Station",
+                    "votes": 0
+                  },
+                  {
+                    "name": "RH Rec Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "JF Gregory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keller",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hwy 144 East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Public Safety Complex",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 3064,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pembroke",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Danielsiding",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellabell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Black Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ways Station",
+                    "votes": 0
+                  },
+                  {
+                    "name": "RH Rec Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "JF Gregory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keller",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hwy 144 East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Public Safety Complex",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 3064,
+                "Precinct": [
+                  {
+                    "name": "Pembroke",
+                    "votes": 257
+                  },
+                  {
+                    "name": "Danielsiding",
+                    "votes": 162
+                  },
+                  {
+                    "name": "Ellabell",
+                    "votes": 110
+                  },
+                  {
+                    "name": "Black Creek",
+                    "votes": 156
+                  },
+                  {
+                    "name": "Ways Station",
+                    "votes": 210
+                  },
+                  {
+                    "name": "RH Rec Complex",
+                    "votes": 394
+                  },
+                  {
+                    "name": "JF Gregory Park",
+                    "votes": 278
+                  },
+                  {
+                    "name": "Keller",
+                    "votes": 477
+                  },
+                  {
+                    "name": "Hwy 144 East",
+                    "votes": 736
+                  },
+                  {
+                    "name": "Public Safety Complex",
+                    "votes": 284
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pembroke",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Danielsiding",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellabell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Black Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ways Station",
+                    "votes": 0
+                  },
+                  {
+                    "name": "RH Rec Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "JF Gregory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keller",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hwy 144 East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Public Safety Complex",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pembroke",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Danielsiding",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ellabell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Black Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ways Station",
+                    "votes": 0
+                  },
+                  {
+                    "name": "RH Rec Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "JF Gregory Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Keller",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hwy 144 East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Public Safety Complex",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

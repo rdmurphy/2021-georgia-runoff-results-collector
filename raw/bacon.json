@@ -1,0 +1,404 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 7:50:51 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Bacon",
+    "VoterTurnout": {
+      "totalVoters": 6720,
+      "ballotsCast": 4137,
+      "voterTurnout": 61.56,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Douglas",
+            "totalVoters": 6720,
+            "ballotsCast": 4137,
+            "voterTurnout": 61.56,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 1,
+        "precinctsReported": 1,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 13,
+            "Precinct": [
+              {
+                "name": "Douglas",
+                "votes": 13
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Douglas",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 3566,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 834,
+                "Precinct": [
+                  {
+                    "name": "Douglas",
+                    "votes": 834
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2352,
+                "Precinct": [
+                  {
+                    "name": "Douglas",
+                    "votes": 2352
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 380,
+                "Precinct": [
+                  {
+                    "name": "Douglas",
+                    "votes": 380
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Douglas",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 558,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 159,
+                "Precinct": [
+                  {
+                    "name": "Douglas",
+                    "votes": 159
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 253,
+                "Precinct": [
+                  {
+                    "name": "Douglas",
+                    "votes": 253
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 146,
+                "Precinct": [
+                  {
+                    "name": "Douglas",
+                    "votes": 146
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Douglas",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 1,
+        "precinctsReported": 1,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 10,
+            "Precinct": [
+              {
+                "name": "Douglas",
+                "votes": 10
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Douglas",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 3569,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 833,
+                "Precinct": [
+                  {
+                    "name": "Douglas",
+                    "votes": 833
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2353,
+                "Precinct": [
+                  {
+                    "name": "Douglas",
+                    "votes": 2353
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 383,
+                "Precinct": [
+                  {
+                    "name": "Douglas",
+                    "votes": 383
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Douglas",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 558,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 162,
+                "Precinct": [
+                  {
+                    "name": "Douglas",
+                    "votes": 162
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 252,
+                "Precinct": [
+                  {
+                    "name": "Douglas",
+                    "votes": 252
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 144,
+                "Precinct": [
+                  {
+                    "name": "Douglas",
+                    "votes": 144
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Douglas",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 1,
+        "precinctsReported": 1,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 93,
+            "Precinct": [
+              {
+                "name": "Douglas",
+                "votes": 93
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Douglas",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 3508,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 826,
+                "Precinct": [
+                  {
+                    "name": "Douglas",
+                    "votes": 826
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2308,
+                "Precinct": [
+                  {
+                    "name": "Douglas",
+                    "votes": 2308
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 374,
+                "Precinct": [
+                  {
+                    "name": "Douglas",
+                    "votes": 374
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Douglas",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 536,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 154,
+                "Precinct": [
+                  {
+                    "name": "Douglas",
+                    "votes": 154
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 245,
+                "Precinct": [
+                  {
+                    "name": "Douglas",
+                    "votes": 245
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 137,
+                "Precinct": [
+                  {
+                    "name": "Douglas",
+                    "votes": 137
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Douglas",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

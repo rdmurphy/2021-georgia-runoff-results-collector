@@ -1,0 +1,1039 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:06:10 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Wilcox",
+    "VoterTurnout": {
+      "totalVoters": 4835,
+      "ballotsCast": 2532,
+      "voterTurnout": 52.37,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Rochelle North 1",
+            "totalVoters": 571,
+            "ballotsCast": 261,
+            "voterTurnout": 45.71,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Abbeville North 2",
+            "totalVoters": 449,
+            "ballotsCast": 313,
+            "voterTurnout": 69.71,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Pineview 2",
+            "totalVoters": 648,
+            "ballotsCast": 411,
+            "voterTurnout": 63.43,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Pitts 3",
+            "totalVoters": 904,
+            "ballotsCast": 246,
+            "voterTurnout": 27.21,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Rochelle South 4",
+            "totalVoters": 1066,
+            "ballotsCast": 674,
+            "voterTurnout": 63.23,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Abbeville South 5",
+            "totalVoters": 1197,
+            "ballotsCast": 627,
+            "voterTurnout": 52.38,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 6,
+        "precinctsReported": 5,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 9,
+            "Precinct": [
+              {
+                "name": "Rochelle North 1",
+                "votes": 0
+              },
+              {
+                "name": "Abbeville North 2",
+                "votes": 1
+              },
+              {
+                "name": "Pineview 2",
+                "votes": 2
+              },
+              {
+                "name": "Pitts 3",
+                "votes": 1
+              },
+              {
+                "name": "Rochelle South 4",
+                "votes": 3
+              },
+              {
+                "name": "Abbeville South 5",
+                "votes": 2
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Rochelle North 1",
+                "votes": 0
+              },
+              {
+                "name": "Abbeville North 2",
+                "votes": 0
+              },
+              {
+                "name": "Pineview 2",
+                "votes": 0
+              },
+              {
+                "name": "Pitts 3",
+                "votes": 0
+              },
+              {
+                "name": "Rochelle South 4",
+                "votes": 0
+              },
+              {
+                "name": "Abbeville South 5",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 1794,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 665,
+                "Precinct": [
+                  {
+                    "name": "Rochelle North 1",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Abbeville North 2",
+                    "votes": 52
+                  },
+                  {
+                    "name": "Pineview 2",
+                    "votes": 135
+                  },
+                  {
+                    "name": "Pitts 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rochelle South 4",
+                    "votes": 272
+                  },
+                  {
+                    "name": "Abbeville South 5",
+                    "votes": 177
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 857,
+                "Precinct": [
+                  {
+                    "name": "Rochelle North 1",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Abbeville North 2",
+                    "votes": 152
+                  },
+                  {
+                    "name": "Pineview 2",
+                    "votes": 65
+                  },
+                  {
+                    "name": "Pitts 3",
+                    "votes": 148
+                  },
+                  {
+                    "name": "Rochelle South 4",
+                    "votes": 237
+                  },
+                  {
+                    "name": "Abbeville South 5",
+                    "votes": 225
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 272,
+                "Precinct": [
+                  {
+                    "name": "Rochelle North 1",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Abbeville North 2",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Pineview 2",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Pitts 3",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Rochelle South 4",
+                    "votes": 83
+                  },
+                  {
+                    "name": "Abbeville South 5",
+                    "votes": 75
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Rochelle North 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Abbeville North 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pineview 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pitts 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rochelle South 4",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Abbeville South 5",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 729,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 252,
+                "Precinct": [
+                  {
+                    "name": "Rochelle North 1",
+                    "votes": 76
+                  },
+                  {
+                    "name": "Abbeville North 2",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Pineview 2",
+                    "votes": 91
+                  },
+                  {
+                    "name": "Pitts 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rochelle South 4",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Abbeville South 5",
+                    "votes": 39
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 291,
+                "Precinct": [
+                  {
+                    "name": "Rochelle North 1",
+                    "votes": 69
+                  },
+                  {
+                    "name": "Abbeville North 2",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Pineview 2",
+                    "votes": 51
+                  },
+                  {
+                    "name": "Pitts 3",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Rochelle South 4",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Abbeville South 5",
+                    "votes": 68
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 186,
+                "Precinct": [
+                  {
+                    "name": "Rochelle North 1",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Abbeville North 2",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Pineview 2",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Pitts 3",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Rochelle South 4",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Abbeville South 5",
+                    "votes": 41
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Rochelle North 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Abbeville North 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pineview 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pitts 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rochelle South 4",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Abbeville South 5",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 6,
+        "precinctsReported": 5,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 5,
+            "Precinct": [
+              {
+                "name": "Rochelle North 1",
+                "votes": 0
+              },
+              {
+                "name": "Abbeville North 2",
+                "votes": 0
+              },
+              {
+                "name": "Pineview 2",
+                "votes": 0
+              },
+              {
+                "name": "Pitts 3",
+                "votes": 1
+              },
+              {
+                "name": "Rochelle South 4",
+                "votes": 4
+              },
+              {
+                "name": "Abbeville South 5",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Rochelle North 1",
+                "votes": 0
+              },
+              {
+                "name": "Abbeville North 2",
+                "votes": 0
+              },
+              {
+                "name": "Pineview 2",
+                "votes": 0
+              },
+              {
+                "name": "Pitts 3",
+                "votes": 0
+              },
+              {
+                "name": "Rochelle South 4",
+                "votes": 0
+              },
+              {
+                "name": "Abbeville South 5",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 1792,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 666,
+                "Precinct": [
+                  {
+                    "name": "Rochelle North 1",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Abbeville North 2",
+                    "votes": 52
+                  },
+                  {
+                    "name": "Pineview 2",
+                    "votes": 135
+                  },
+                  {
+                    "name": "Pitts 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rochelle South 4",
+                    "votes": 273
+                  },
+                  {
+                    "name": "Abbeville South 5",
+                    "votes": 176
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 857,
+                "Precinct": [
+                  {
+                    "name": "Rochelle North 1",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Abbeville North 2",
+                    "votes": 152
+                  },
+                  {
+                    "name": "Pineview 2",
+                    "votes": 65
+                  },
+                  {
+                    "name": "Pitts 3",
+                    "votes": 148
+                  },
+                  {
+                    "name": "Rochelle South 4",
+                    "votes": 238
+                  },
+                  {
+                    "name": "Abbeville South 5",
+                    "votes": 224
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 269,
+                "Precinct": [
+                  {
+                    "name": "Rochelle North 1",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Abbeville North 2",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Pineview 2",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Pitts 3",
+                    "votes": 54
+                  },
+                  {
+                    "name": "Rochelle South 4",
+                    "votes": 82
+                  },
+                  {
+                    "name": "Abbeville South 5",
+                    "votes": 75
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Rochelle North 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Abbeville North 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pineview 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pitts 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rochelle South 4",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Abbeville South 5",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 735,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 253,
+                "Precinct": [
+                  {
+                    "name": "Rochelle North 1",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Abbeville North 2",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Pineview 2",
+                    "votes": 92
+                  },
+                  {
+                    "name": "Pitts 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rochelle South 4",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Abbeville South 5",
+                    "votes": 41
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 293,
+                "Precinct": [
+                  {
+                    "name": "Rochelle North 1",
+                    "votes": 69
+                  },
+                  {
+                    "name": "Abbeville North 2",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Pineview 2",
+                    "votes": 51
+                  },
+                  {
+                    "name": "Pitts 3",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Rochelle South 4",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Abbeville South 5",
+                    "votes": 70
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 189,
+                "Precinct": [
+                  {
+                    "name": "Rochelle North 1",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Abbeville North 2",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Pineview 2",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Pitts 3",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Rochelle South 4",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Abbeville South 5",
+                    "votes": 41
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Rochelle North 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Abbeville North 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pineview 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pitts 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rochelle South 4",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Abbeville South 5",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 6,
+        "precinctsReported": 5,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 41,
+            "Precinct": [
+              {
+                "name": "Rochelle North 1",
+                "votes": 10
+              },
+              {
+                "name": "Abbeville North 2",
+                "votes": 6
+              },
+              {
+                "name": "Pineview 2",
+                "votes": 3
+              },
+              {
+                "name": "Pitts 3",
+                "votes": 4
+              },
+              {
+                "name": "Rochelle South 4",
+                "votes": 10
+              },
+              {
+                "name": "Abbeville South 5",
+                "votes": 8
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Rochelle North 1",
+                "votes": 0
+              },
+              {
+                "name": "Abbeville North 2",
+                "votes": 0
+              },
+              {
+                "name": "Pineview 2",
+                "votes": 0
+              },
+              {
+                "name": "Pitts 3",
+                "votes": 0
+              },
+              {
+                "name": "Rochelle South 4",
+                "votes": 0
+              },
+              {
+                "name": "Abbeville South 5",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 1790,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 676,
+                "Precinct": [
+                  {
+                    "name": "Rochelle North 1",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Abbeville North 2",
+                    "votes": 52
+                  },
+                  {
+                    "name": "Pineview 2",
+                    "votes": 136
+                  },
+                  {
+                    "name": "Pitts 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rochelle South 4",
+                    "votes": 276
+                  },
+                  {
+                    "name": "Abbeville South 5",
+                    "votes": 178
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 851,
+                "Precinct": [
+                  {
+                    "name": "Rochelle North 1",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Abbeville North 2",
+                    "votes": 153
+                  },
+                  {
+                    "name": "Pineview 2",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Pitts 3",
+                    "votes": 148
+                  },
+                  {
+                    "name": "Rochelle South 4",
+                    "votes": 233
+                  },
+                  {
+                    "name": "Abbeville South 5",
+                    "votes": 220
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 263,
+                "Precinct": [
+                  {
+                    "name": "Rochelle North 1",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Abbeville North 2",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Pineview 2",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Pitts 3",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Rochelle South 4",
+                    "votes": 79
+                  },
+                  {
+                    "name": "Abbeville South 5",
+                    "votes": 73
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Rochelle North 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Abbeville North 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pineview 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pitts 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rochelle South 4",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Abbeville South 5",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 701,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 235,
+                "Precinct": [
+                  {
+                    "name": "Rochelle North 1",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Abbeville North 2",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Pineview 2",
+                    "votes": 88
+                  },
+                  {
+                    "name": "Pitts 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rochelle South 4",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Abbeville South 5",
+                    "votes": 38
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 284,
+                "Precinct": [
+                  {
+                    "name": "Rochelle North 1",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Abbeville North 2",
+                    "votes": 53
+                  },
+                  {
+                    "name": "Pineview 2",
+                    "votes": 49
+                  },
+                  {
+                    "name": "Pitts 3",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Rochelle South 4",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Abbeville South 5",
+                    "votes": 69
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 182,
+                "Precinct": [
+                  {
+                    "name": "Rochelle North 1",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Abbeville North 2",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Pineview 2",
+                    "votes": 44
+                  },
+                  {
+                    "name": "Pitts 3",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Rochelle South 4",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Abbeville South 5",
+                    "votes": 41
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Rochelle North 1",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Abbeville North 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pineview 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pitts 3",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rochelle South 4",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Abbeville South 5",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

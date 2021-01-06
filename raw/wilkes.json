@@ -1,0 +1,1332 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:03:08 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Wilkes",
+    "VoterTurnout": {
+      "totalVoters": 6914,
+      "ballotsCast": 3823,
+      "voterTurnout": 55.29,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Senior Citizen Center",
+            "totalVoters": 1568,
+            "ballotsCast": 732,
+            "voterTurnout": 46.68,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Young Farmers Bldg",
+            "totalVoters": 1199,
+            "ballotsCast": 843,
+            "voterTurnout": 70.31,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Metasville Fire Sta",
+            "totalVoters": 615,
+            "ballotsCast": 423,
+            "voterTurnout": 68.78,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Edward B Pope Center",
+            "totalVoters": 1025,
+            "ballotsCast": 619,
+            "voterTurnout": 60.39,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Rayle City Hall",
+            "totalVoters": 578,
+            "ballotsCast": 186,
+            "voterTurnout": 32.18,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Courthouse",
+            "totalVoters": 1023,
+            "ballotsCast": 675,
+            "voterTurnout": 65.98,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Tignal Sch Lunch Rm",
+            "totalVoters": 906,
+            "ballotsCast": 345,
+            "voterTurnout": 38.08,
+            "percentReporting": "2"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 7,
+        "precinctsReported": 4,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 16,
+            "Precinct": [
+              {
+                "name": "Senior Citizen Center",
+                "votes": 7
+              },
+              {
+                "name": "Young Farmers Bldg",
+                "votes": 3
+              },
+              {
+                "name": "Metasville Fire Sta",
+                "votes": 2
+              },
+              {
+                "name": "Edward B Pope Center",
+                "votes": 1
+              },
+              {
+                "name": "Rayle City Hall",
+                "votes": 0
+              },
+              {
+                "name": "Courthouse",
+                "votes": 1
+              },
+              {
+                "name": "Tignal Sch Lunch Rm",
+                "votes": 2
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Senior Citizen Center",
+                "votes": 0
+              },
+              {
+                "name": "Young Farmers Bldg",
+                "votes": 0
+              },
+              {
+                "name": "Metasville Fire Sta",
+                "votes": 0
+              },
+              {
+                "name": "Edward B Pope Center",
+                "votes": 0
+              },
+              {
+                "name": "Rayle City Hall",
+                "votes": 0
+              },
+              {
+                "name": "Courthouse",
+                "votes": 0
+              },
+              {
+                "name": "Tignal Sch Lunch Rm",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 2129,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 465,
+                "Precinct": [
+                  {
+                    "name": "Senior Citizen Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 172
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 130
+                  },
+                  {
+                    "name": "Edward B Pope Center",
+                    "votes": 59
+                  },
+                  {
+                    "name": "Rayle City Hall",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 104
+                  },
+                  {
+                    "name": "Tignal Sch Lunch Rm",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1297,
+                "Precinct": [
+                  {
+                    "name": "Senior Citizen Center",
+                    "votes": 218
+                  },
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 353
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 140
+                  },
+                  {
+                    "name": "Edward B Pope Center",
+                    "votes": 96
+                  },
+                  {
+                    "name": "Rayle City Hall",
+                    "votes": 77
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 279
+                  },
+                  {
+                    "name": "Tignal Sch Lunch Rm",
+                    "votes": 134
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 367,
+                "Precinct": [
+                  {
+                    "name": "Senior Citizen Center",
+                    "votes": 53
+                  },
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 125
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Edward B Pope Center",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Rayle City Hall",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Tignal Sch Lunch Rm",
+                    "votes": 49
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Senior Citizen Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Edward B Pope Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rayle City Hall",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tignal Sch Lunch Rm",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 1678,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 248,
+                "Precinct": [
+                  {
+                    "name": "Senior Citizen Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Edward B Pope Center",
+                    "votes": 137
+                  },
+                  {
+                    "name": "Rayle City Hall",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 45
+                  },
+                  {
+                    "name": "Tignal Sch Lunch Rm",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 780,
+                "Precinct": [
+                  {
+                    "name": "Senior Citizen Center",
+                    "votes": 253
+                  },
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 88
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Edward B Pope Center",
+                    "votes": 193
+                  },
+                  {
+                    "name": "Rayle City Hall",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 111
+                  },
+                  {
+                    "name": "Tignal Sch Lunch Rm",
+                    "votes": 63
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 650,
+                "Precinct": [
+                  {
+                    "name": "Senior Citizen Center",
+                    "votes": 201
+                  },
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 61
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 60
+                  },
+                  {
+                    "name": "Edward B Pope Center",
+                    "votes": 110
+                  },
+                  {
+                    "name": "Rayle City Hall",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Tignal Sch Lunch Rm",
+                    "votes": 97
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Senior Citizen Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Edward B Pope Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rayle City Hall",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tignal Sch Lunch Rm",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 7,
+        "precinctsReported": 4,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 8,
+            "Precinct": [
+              {
+                "name": "Senior Citizen Center",
+                "votes": 2
+              },
+              {
+                "name": "Young Farmers Bldg",
+                "votes": 2
+              },
+              {
+                "name": "Metasville Fire Sta",
+                "votes": 0
+              },
+              {
+                "name": "Edward B Pope Center",
+                "votes": 1
+              },
+              {
+                "name": "Rayle City Hall",
+                "votes": 0
+              },
+              {
+                "name": "Courthouse",
+                "votes": 2
+              },
+              {
+                "name": "Tignal Sch Lunch Rm",
+                "votes": 1
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Senior Citizen Center",
+                "votes": 0
+              },
+              {
+                "name": "Young Farmers Bldg",
+                "votes": 0
+              },
+              {
+                "name": "Metasville Fire Sta",
+                "votes": 0
+              },
+              {
+                "name": "Edward B Pope Center",
+                "votes": 0
+              },
+              {
+                "name": "Rayle City Hall",
+                "votes": 0
+              },
+              {
+                "name": "Courthouse",
+                "votes": 0
+              },
+              {
+                "name": "Tignal Sch Lunch Rm",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 2132,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 470,
+                "Precinct": [
+                  {
+                    "name": "Senior Citizen Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 174
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 130
+                  },
+                  {
+                    "name": "Edward B Pope Center",
+                    "votes": 60
+                  },
+                  {
+                    "name": "Rayle City Hall",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 106
+                  },
+                  {
+                    "name": "Tignal Sch Lunch Rm",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1296,
+                "Precinct": [
+                  {
+                    "name": "Senior Citizen Center",
+                    "votes": 216
+                  },
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 353
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 140
+                  },
+                  {
+                    "name": "Edward B Pope Center",
+                    "votes": 97
+                  },
+                  {
+                    "name": "Rayle City Hall",
+                    "votes": 76
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 279
+                  },
+                  {
+                    "name": "Tignal Sch Lunch Rm",
+                    "votes": 135
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 366,
+                "Precinct": [
+                  {
+                    "name": "Senior Citizen Center",
+                    "votes": 54
+                  },
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 126
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Edward B Pope Center",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Rayle City Hall",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Tignal Sch Lunch Rm",
+                    "votes": 48
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Senior Citizen Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Edward B Pope Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rayle City Hall",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tignal Sch Lunch Rm",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 1683,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 245,
+                "Precinct": [
+                  {
+                    "name": "Senior Citizen Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Edward B Pope Center",
+                    "votes": 137
+                  },
+                  {
+                    "name": "Rayle City Hall",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 43
+                  },
+                  {
+                    "name": "Tignal Sch Lunch Rm",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 783,
+                "Precinct": [
+                  {
+                    "name": "Senior Citizen Center",
+                    "votes": 257
+                  },
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 89
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Edward B Pope Center",
+                    "votes": 191
+                  },
+                  {
+                    "name": "Rayle City Hall",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 111
+                  },
+                  {
+                    "name": "Tignal Sch Lunch Rm",
+                    "votes": 62
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 655,
+                "Precinct": [
+                  {
+                    "name": "Senior Citizen Center",
+                    "votes": 203
+                  },
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 60
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 61
+                  },
+                  {
+                    "name": "Edward B Pope Center",
+                    "votes": 110
+                  },
+                  {
+                    "name": "Rayle City Hall",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 72
+                  },
+                  {
+                    "name": "Tignal Sch Lunch Rm",
+                    "votes": 99
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Senior Citizen Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Edward B Pope Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rayle City Hall",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tignal Sch Lunch Rm",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 7,
+        "precinctsReported": 4,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 63,
+            "Precinct": [
+              {
+                "name": "Senior Citizen Center",
+                "votes": 15
+              },
+              {
+                "name": "Young Farmers Bldg",
+                "votes": 13
+              },
+              {
+                "name": "Metasville Fire Sta",
+                "votes": 2
+              },
+              {
+                "name": "Edward B Pope Center",
+                "votes": 16
+              },
+              {
+                "name": "Rayle City Hall",
+                "votes": 1
+              },
+              {
+                "name": "Courthouse",
+                "votes": 11
+              },
+              {
+                "name": "Tignal Sch Lunch Rm",
+                "votes": 5
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Senior Citizen Center",
+                "votes": 0
+              },
+              {
+                "name": "Young Farmers Bldg",
+                "votes": 0
+              },
+              {
+                "name": "Metasville Fire Sta",
+                "votes": 0
+              },
+              {
+                "name": "Edward B Pope Center",
+                "votes": 0
+              },
+              {
+                "name": "Rayle City Hall",
+                "votes": 0
+              },
+              {
+                "name": "Courthouse",
+                "votes": 0
+              },
+              {
+                "name": "Tignal Sch Lunch Rm",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 2132,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 467,
+                "Precinct": [
+                  {
+                    "name": "Senior Citizen Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 173
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 130
+                  },
+                  {
+                    "name": "Edward B Pope Center",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Rayle City Hall",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 102
+                  },
+                  {
+                    "name": "Tignal Sch Lunch Rm",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1300,
+                "Precinct": [
+                  {
+                    "name": "Senior Citizen Center",
+                    "votes": 221
+                  },
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 354
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 140
+                  },
+                  {
+                    "name": "Edward B Pope Center",
+                    "votes": 95
+                  },
+                  {
+                    "name": "Rayle City Hall",
+                    "votes": 77
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 279
+                  },
+                  {
+                    "name": "Tignal Sch Lunch Rm",
+                    "votes": 134
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 365,
+                "Precinct": [
+                  {
+                    "name": "Senior Citizen Center",
+                    "votes": 54
+                  },
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 125
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Edward B Pope Center",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Rayle City Hall",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 63
+                  },
+                  {
+                    "name": "Tignal Sch Lunch Rm",
+                    "votes": 48
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Senior Citizen Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Edward B Pope Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rayle City Hall",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tignal Sch Lunch Rm",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 1628,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 237,
+                "Precinct": [
+                  {
+                    "name": "Senior Citizen Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Edward B Pope Center",
+                    "votes": 131
+                  },
+                  {
+                    "name": "Rayle City Hall",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 44
+                  },
+                  {
+                    "name": "Tignal Sch Lunch Rm",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 748,
+                "Precinct": [
+                  {
+                    "name": "Senior Citizen Center",
+                    "votes": 243
+                  },
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 83
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Edward B Pope Center",
+                    "votes": 188
+                  },
+                  {
+                    "name": "Rayle City Hall",
+                    "votes": 38
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 107
+                  },
+                  {
+                    "name": "Tignal Sch Lunch Rm",
+                    "votes": 58
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 643,
+                "Precinct": [
+                  {
+                    "name": "Senior Citizen Center",
+                    "votes": 199
+                  },
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 59
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 63
+                  },
+                  {
+                    "name": "Edward B Pope Center",
+                    "votes": 103
+                  },
+                  {
+                    "name": "Rayle City Hall",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 69
+                  },
+                  {
+                    "name": "Tignal Sch Lunch Rm",
+                    "votes": 100
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Senior Citizen Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Edward B Pope Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rayle City Hall",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tignal Sch Lunch Rm",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "45",
+        "text": "Board of Education District 2 - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 2,
+        "precinctsReported": 2,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 82,
+            "Precinct": [
+              {
+                "name": "Young Farmers Bldg",
+                "votes": 50
+              },
+              {
+                "name": "Metasville Fire Sta",
+                "votes": 32
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Young Farmers Bldg",
+                "votes": 0
+              },
+              {
+                "name": "Metasville Fire Sta",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "32",
+            "text": "David Chafin",
+            "totalVotes": 926,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 274,
+                "Precinct": [
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 168
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 106
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 456,
+                "Precinct": [
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 347
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 109
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 196,
+                "Precinct": [
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 143
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 53
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "33",
+            "text": "Joseph Riley",
+            "totalVotes": 258,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 70,
+                "Precinct": [
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 37
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 119,
+                "Precinct": [
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 66
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 53
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 69,
+                "Precinct": [
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 33
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Young Farmers Bldg",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Metasville Fire Sta",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

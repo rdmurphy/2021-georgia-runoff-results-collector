@@ -1,0 +1,404 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:02:51 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Bleckley",
+    "VoterTurnout": {
+      "totalVoters": 7743,
+      "ballotsCast": 5113,
+      "voterTurnout": 66.03,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Fairground",
+            "totalVoters": 7743,
+            "ballotsCast": 5113,
+            "voterTurnout": 66.03,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 1,
+        "precinctsReported": 1,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 7,
+            "Precinct": [
+              {
+                "name": "Fairground",
+                "votes": 7
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Fairground",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 3918,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1336,
+                "Precinct": [
+                  {
+                    "name": "Fairground",
+                    "votes": 1336
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2118,
+                "Precinct": [
+                  {
+                    "name": "Fairground",
+                    "votes": 2118
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 464,
+                "Precinct": [
+                  {
+                    "name": "Fairground",
+                    "votes": 464
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Fairground",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 1188,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 317,
+                "Precinct": [
+                  {
+                    "name": "Fairground",
+                    "votes": 317
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 487,
+                "Precinct": [
+                  {
+                    "name": "Fairground",
+                    "votes": 487
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 384,
+                "Precinct": [
+                  {
+                    "name": "Fairground",
+                    "votes": 384
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Fairground",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 1,
+        "precinctsReported": 1,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 5,
+            "Precinct": [
+              {
+                "name": "Fairground",
+                "votes": 5
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Fairground",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 3896,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1331,
+                "Precinct": [
+                  {
+                    "name": "Fairground",
+                    "votes": 1331
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2106,
+                "Precinct": [
+                  {
+                    "name": "Fairground",
+                    "votes": 2106
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 459,
+                "Precinct": [
+                  {
+                    "name": "Fairground",
+                    "votes": 459
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Fairground",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 1212,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 326,
+                "Precinct": [
+                  {
+                    "name": "Fairground",
+                    "votes": 326
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 497,
+                "Precinct": [
+                  {
+                    "name": "Fairground",
+                    "votes": 497
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 389,
+                "Precinct": [
+                  {
+                    "name": "Fairground",
+                    "votes": 389
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Fairground",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 1,
+        "precinctsReported": 1,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 68,
+            "Precinct": [
+              {
+                "name": "Fairground",
+                "votes": 68
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Fairground",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 3916,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1344,
+                "Precinct": [
+                  {
+                    "name": "Fairground",
+                    "votes": 1344
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2107,
+                "Precinct": [
+                  {
+                    "name": "Fairground",
+                    "votes": 2107
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 465,
+                "Precinct": [
+                  {
+                    "name": "Fairground",
+                    "votes": 465
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Fairground",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 1129,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 295,
+                "Precinct": [
+                  {
+                    "name": "Fairground",
+                    "votes": 295
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 465,
+                "Precinct": [
+                  {
+                    "name": "Fairground",
+                    "votes": 465
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 369,
+                "Precinct": [
+                  {
+                    "name": "Fairground",
+                    "votes": 369
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Fairground",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

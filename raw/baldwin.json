@@ -1,0 +1,2055 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 7:49:33 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Baldwin",
+    "VoterTurnout": {
+      "totalVoters": 27088,
+      "ballotsCast": 12861,
+      "voterTurnout": 47.48,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "South Milledgeville",
+            "totalVoters": 1266,
+            "ballotsCast": 673,
+            "voterTurnout": 53.16,
+            "percentReporting": "4"
+          },
+          {
+            "name": "City Hall Annex",
+            "totalVoters": 969,
+            "ballotsCast": 306,
+            "voterTurnout": 31.58,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Boddie",
+            "totalVoters": 1406,
+            "ballotsCast": 406,
+            "voterTurnout": 28.88,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Courthouse",
+            "totalVoters": 511,
+            "ballotsCast": 178,
+            "voterTurnout": 34.83,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Fire Dept",
+            "totalVoters": 1508,
+            "ballotsCast": 838,
+            "voterTurnout": 55.57,
+            "percentReporting": "4"
+          },
+          {
+            "name": "North Milledgeville",
+            "totalVoters": 2240,
+            "ballotsCast": 1517,
+            "voterTurnout": 67.72,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Meriweather",
+            "totalVoters": 2888,
+            "ballotsCast": 1564,
+            "voterTurnout": 54.16,
+            "percentReporting": "2"
+          },
+          {
+            "name": "East Baldwin",
+            "totalVoters": 3877,
+            "ballotsCast": 1889,
+            "voterTurnout": 48.72,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Scottsboro",
+            "totalVoters": 1131,
+            "ballotsCast": 399,
+            "voterTurnout": 35.28,
+            "percentReporting": "2"
+          },
+          {
+            "name": "North Baldwin",
+            "totalVoters": 3550,
+            "ballotsCast": 1925,
+            "voterTurnout": 54.23,
+            "percentReporting": "2"
+          },
+          {
+            "name": "West Baldwin",
+            "totalVoters": 1900,
+            "ballotsCast": 912,
+            "voterTurnout": 48.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "East Hardwick",
+            "totalVoters": 1322,
+            "ballotsCast": 327,
+            "voterTurnout": 24.74,
+            "percentReporting": "2"
+          },
+          {
+            "name": "West Hardwick",
+            "totalVoters": 2933,
+            "ballotsCast": 1301,
+            "voterTurnout": 44.36,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Coopers",
+            "totalVoters": 1587,
+            "ballotsCast": 626,
+            "voterTurnout": 39.45,
+            "percentReporting": "2"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 14,
+        "precinctsReported": 3,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 37,
+            "Precinct": [
+              {
+                "name": "South Milledgeville",
+                "votes": 8
+              },
+              {
+                "name": "City Hall Annex",
+                "votes": 6
+              },
+              {
+                "name": "Boddie",
+                "votes": 1
+              },
+              {
+                "name": "Courthouse",
+                "votes": 0
+              },
+              {
+                "name": "Fire Dept",
+                "votes": 2
+              },
+              {
+                "name": "North Milledgeville",
+                "votes": 0
+              },
+              {
+                "name": "Meriweather",
+                "votes": 4
+              },
+              {
+                "name": "East Baldwin",
+                "votes": 3
+              },
+              {
+                "name": "Scottsboro",
+                "votes": 1
+              },
+              {
+                "name": "North Baldwin",
+                "votes": 2
+              },
+              {
+                "name": "West Baldwin",
+                "votes": 2
+              },
+              {
+                "name": "East Hardwick",
+                "votes": 3
+              },
+              {
+                "name": "West Hardwick",
+                "votes": 5
+              },
+              {
+                "name": "Coopers",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "South Milledgeville",
+                "votes": 0
+              },
+              {
+                "name": "City Hall Annex",
+                "votes": 0
+              },
+              {
+                "name": "Boddie",
+                "votes": 0
+              },
+              {
+                "name": "Courthouse",
+                "votes": 0
+              },
+              {
+                "name": "Fire Dept",
+                "votes": 0
+              },
+              {
+                "name": "North Milledgeville",
+                "votes": 0
+              },
+              {
+                "name": "Meriweather",
+                "votes": 0
+              },
+              {
+                "name": "East Baldwin",
+                "votes": 0
+              },
+              {
+                "name": "Scottsboro",
+                "votes": 0
+              },
+              {
+                "name": "North Baldwin",
+                "votes": 0
+              },
+              {
+                "name": "West Baldwin",
+                "votes": 0
+              },
+              {
+                "name": "East Hardwick",
+                "votes": 0
+              },
+              {
+                "name": "West Hardwick",
+                "votes": 0
+              },
+              {
+                "name": "Coopers",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 5777,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 256,
+                "Precinct": [
+                  {
+                    "name": "South Milledgeville",
+                    "votes": 31
+                  },
+                  {
+                    "name": "City Hall Annex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boddie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fire Dept",
+                    "votes": 45
+                  },
+                  {
+                    "name": "North Milledgeville",
+                    "votes": 180
+                  },
+                  {
+                    "name": "Meriweather",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scottsboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Hardwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Hardwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coopers",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 4485,
+                "Precinct": [
+                  {
+                    "name": "South Milledgeville",
+                    "votes": 75
+                  },
+                  {
+                    "name": "City Hall Annex",
+                    "votes": 44
+                  },
+                  {
+                    "name": "Boddie",
+                    "votes": 57
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 43
+                  },
+                  {
+                    "name": "Fire Dept",
+                    "votes": 94
+                  },
+                  {
+                    "name": "North Milledgeville",
+                    "votes": 399
+                  },
+                  {
+                    "name": "Meriweather",
+                    "votes": 743
+                  },
+                  {
+                    "name": "East Baldwin",
+                    "votes": 840
+                  },
+                  {
+                    "name": "Scottsboro",
+                    "votes": 168
+                  },
+                  {
+                    "name": "North Baldwin",
+                    "votes": 1097
+                  },
+                  {
+                    "name": "West Baldwin",
+                    "votes": 362
+                  },
+                  {
+                    "name": "East Hardwick",
+                    "votes": 47
+                  },
+                  {
+                    "name": "West Hardwick",
+                    "votes": 187
+                  },
+                  {
+                    "name": "Coopers",
+                    "votes": 329
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1036,
+                "Precinct": [
+                  {
+                    "name": "South Milledgeville",
+                    "votes": 23
+                  },
+                  {
+                    "name": "City Hall Annex",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Boddie",
+                    "votes": 8
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Fire Dept",
+                    "votes": 23
+                  },
+                  {
+                    "name": "North Milledgeville",
+                    "votes": 140
+                  },
+                  {
+                    "name": "Meriweather",
+                    "votes": 164
+                  },
+                  {
+                    "name": "East Baldwin",
+                    "votes": 179
+                  },
+                  {
+                    "name": "Scottsboro",
+                    "votes": 42
+                  },
+                  {
+                    "name": "North Baldwin",
+                    "votes": 198
+                  },
+                  {
+                    "name": "West Baldwin",
+                    "votes": 84
+                  },
+                  {
+                    "name": "East Hardwick",
+                    "votes": 15
+                  },
+                  {
+                    "name": "West Hardwick",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Coopers",
+                    "votes": 56
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "South Milledgeville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "City Hall Annex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boddie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fire Dept",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Milledgeville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Meriweather",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scottsboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Hardwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Hardwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coopers",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 7047,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 394,
+                "Precinct": [
+                  {
+                    "name": "South Milledgeville",
+                    "votes": 113
+                  },
+                  {
+                    "name": "City Hall Annex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boddie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fire Dept",
+                    "votes": 118
+                  },
+                  {
+                    "name": "North Milledgeville",
+                    "votes": 163
+                  },
+                  {
+                    "name": "Meriweather",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scottsboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Hardwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Hardwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coopers",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 4072,
+                "Precinct": [
+                  {
+                    "name": "South Milledgeville",
+                    "votes": 254
+                  },
+                  {
+                    "name": "City Hall Annex",
+                    "votes": 113
+                  },
+                  {
+                    "name": "Boddie",
+                    "votes": 200
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 63
+                  },
+                  {
+                    "name": "Fire Dept",
+                    "votes": 313
+                  },
+                  {
+                    "name": "North Milledgeville",
+                    "votes": 414
+                  },
+                  {
+                    "name": "Meriweather",
+                    "votes": 468
+                  },
+                  {
+                    "name": "East Baldwin",
+                    "votes": 582
+                  },
+                  {
+                    "name": "Scottsboro",
+                    "votes": 106
+                  },
+                  {
+                    "name": "North Baldwin",
+                    "votes": 381
+                  },
+                  {
+                    "name": "West Baldwin",
+                    "votes": 281
+                  },
+                  {
+                    "name": "East Hardwick",
+                    "votes": 183
+                  },
+                  {
+                    "name": "West Hardwick",
+                    "votes": 574
+                  },
+                  {
+                    "name": "Coopers",
+                    "votes": 140
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 2581,
+                "Precinct": [
+                  {
+                    "name": "South Milledgeville",
+                    "votes": 169
+                  },
+                  {
+                    "name": "City Hall Annex",
+                    "votes": 116
+                  },
+                  {
+                    "name": "Boddie",
+                    "votes": 140
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 53
+                  },
+                  {
+                    "name": "Fire Dept",
+                    "votes": 243
+                  },
+                  {
+                    "name": "North Milledgeville",
+                    "votes": 221
+                  },
+                  {
+                    "name": "Meriweather",
+                    "votes": 185
+                  },
+                  {
+                    "name": "East Baldwin",
+                    "votes": 285
+                  },
+                  {
+                    "name": "Scottsboro",
+                    "votes": 82
+                  },
+                  {
+                    "name": "North Baldwin",
+                    "votes": 247
+                  },
+                  {
+                    "name": "West Baldwin",
+                    "votes": 183
+                  },
+                  {
+                    "name": "East Hardwick",
+                    "votes": 79
+                  },
+                  {
+                    "name": "West Hardwick",
+                    "votes": 477
+                  },
+                  {
+                    "name": "Coopers",
+                    "votes": 101
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "South Milledgeville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "City Hall Annex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boddie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fire Dept",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Milledgeville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Meriweather",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scottsboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Hardwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Hardwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coopers",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 14,
+        "precinctsReported": 3,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 19,
+            "Precinct": [
+              {
+                "name": "South Milledgeville",
+                "votes": 4
+              },
+              {
+                "name": "City Hall Annex",
+                "votes": 2
+              },
+              {
+                "name": "Boddie",
+                "votes": 0
+              },
+              {
+                "name": "Courthouse",
+                "votes": 0
+              },
+              {
+                "name": "Fire Dept",
+                "votes": 2
+              },
+              {
+                "name": "North Milledgeville",
+                "votes": 2
+              },
+              {
+                "name": "Meriweather",
+                "votes": 1
+              },
+              {
+                "name": "East Baldwin",
+                "votes": 4
+              },
+              {
+                "name": "Scottsboro",
+                "votes": 0
+              },
+              {
+                "name": "North Baldwin",
+                "votes": 1
+              },
+              {
+                "name": "West Baldwin",
+                "votes": 0
+              },
+              {
+                "name": "East Hardwick",
+                "votes": 1
+              },
+              {
+                "name": "West Hardwick",
+                "votes": 2
+              },
+              {
+                "name": "Coopers",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "South Milledgeville",
+                "votes": 0
+              },
+              {
+                "name": "City Hall Annex",
+                "votes": 0
+              },
+              {
+                "name": "Boddie",
+                "votes": 0
+              },
+              {
+                "name": "Courthouse",
+                "votes": 0
+              },
+              {
+                "name": "Fire Dept",
+                "votes": 0
+              },
+              {
+                "name": "North Milledgeville",
+                "votes": 0
+              },
+              {
+                "name": "Meriweather",
+                "votes": 0
+              },
+              {
+                "name": "East Baldwin",
+                "votes": 0
+              },
+              {
+                "name": "Scottsboro",
+                "votes": 0
+              },
+              {
+                "name": "North Baldwin",
+                "votes": 0
+              },
+              {
+                "name": "West Baldwin",
+                "votes": 0
+              },
+              {
+                "name": "East Hardwick",
+                "votes": 0
+              },
+              {
+                "name": "West Hardwick",
+                "votes": 0
+              },
+              {
+                "name": "Coopers",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 5757,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 258,
+                "Precinct": [
+                  {
+                    "name": "South Milledgeville",
+                    "votes": 30
+                  },
+                  {
+                    "name": "City Hall Annex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boddie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fire Dept",
+                    "votes": 45
+                  },
+                  {
+                    "name": "North Milledgeville",
+                    "votes": 183
+                  },
+                  {
+                    "name": "Meriweather",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scottsboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Hardwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Hardwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coopers",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 4468,
+                "Precinct": [
+                  {
+                    "name": "South Milledgeville",
+                    "votes": 74
+                  },
+                  {
+                    "name": "City Hall Annex",
+                    "votes": 44
+                  },
+                  {
+                    "name": "Boddie",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Fire Dept",
+                    "votes": 95
+                  },
+                  {
+                    "name": "North Milledgeville",
+                    "votes": 395
+                  },
+                  {
+                    "name": "Meriweather",
+                    "votes": 741
+                  },
+                  {
+                    "name": "East Baldwin",
+                    "votes": 835
+                  },
+                  {
+                    "name": "Scottsboro",
+                    "votes": 169
+                  },
+                  {
+                    "name": "North Baldwin",
+                    "votes": 1096
+                  },
+                  {
+                    "name": "West Baldwin",
+                    "votes": 360
+                  },
+                  {
+                    "name": "East Hardwick",
+                    "votes": 48
+                  },
+                  {
+                    "name": "West Hardwick",
+                    "votes": 184
+                  },
+                  {
+                    "name": "Coopers",
+                    "votes": 329
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1031,
+                "Precinct": [
+                  {
+                    "name": "South Milledgeville",
+                    "votes": 24
+                  },
+                  {
+                    "name": "City Hall Annex",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Boddie",
+                    "votes": 8
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Fire Dept",
+                    "votes": 22
+                  },
+                  {
+                    "name": "North Milledgeville",
+                    "votes": 141
+                  },
+                  {
+                    "name": "Meriweather",
+                    "votes": 161
+                  },
+                  {
+                    "name": "East Baldwin",
+                    "votes": 178
+                  },
+                  {
+                    "name": "Scottsboro",
+                    "votes": 42
+                  },
+                  {
+                    "name": "North Baldwin",
+                    "votes": 198
+                  },
+                  {
+                    "name": "West Baldwin",
+                    "votes": 83
+                  },
+                  {
+                    "name": "East Hardwick",
+                    "votes": 15
+                  },
+                  {
+                    "name": "West Hardwick",
+                    "votes": 57
+                  },
+                  {
+                    "name": "Coopers",
+                    "votes": 58
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "South Milledgeville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "City Hall Annex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boddie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fire Dept",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Milledgeville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Meriweather",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scottsboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Hardwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Hardwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coopers",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 7085,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 392,
+                "Precinct": [
+                  {
+                    "name": "South Milledgeville",
+                    "votes": 114
+                  },
+                  {
+                    "name": "City Hall Annex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boddie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fire Dept",
+                    "votes": 118
+                  },
+                  {
+                    "name": "North Milledgeville",
+                    "votes": 160
+                  },
+                  {
+                    "name": "Meriweather",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scottsboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Hardwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Hardwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coopers",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 4096,
+                "Precinct": [
+                  {
+                    "name": "South Milledgeville",
+                    "votes": 257
+                  },
+                  {
+                    "name": "City Hall Annex",
+                    "votes": 113
+                  },
+                  {
+                    "name": "Boddie",
+                    "votes": 201
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Fire Dept",
+                    "votes": 312
+                  },
+                  {
+                    "name": "North Milledgeville",
+                    "votes": 416
+                  },
+                  {
+                    "name": "Meriweather",
+                    "votes": 473
+                  },
+                  {
+                    "name": "East Baldwin",
+                    "votes": 586
+                  },
+                  {
+                    "name": "Scottsboro",
+                    "votes": 106
+                  },
+                  {
+                    "name": "North Baldwin",
+                    "votes": 382
+                  },
+                  {
+                    "name": "West Baldwin",
+                    "votes": 284
+                  },
+                  {
+                    "name": "East Hardwick",
+                    "votes": 183
+                  },
+                  {
+                    "name": "West Hardwick",
+                    "votes": 579
+                  },
+                  {
+                    "name": "Coopers",
+                    "votes": 140
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 2597,
+                "Precinct": [
+                  {
+                    "name": "South Milledgeville",
+                    "votes": 170
+                  },
+                  {
+                    "name": "City Hall Annex",
+                    "votes": 120
+                  },
+                  {
+                    "name": "Boddie",
+                    "votes": 141
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 55
+                  },
+                  {
+                    "name": "Fire Dept",
+                    "votes": 244
+                  },
+                  {
+                    "name": "North Milledgeville",
+                    "votes": 220
+                  },
+                  {
+                    "name": "Meriweather",
+                    "votes": 188
+                  },
+                  {
+                    "name": "East Baldwin",
+                    "votes": 286
+                  },
+                  {
+                    "name": "Scottsboro",
+                    "votes": 82
+                  },
+                  {
+                    "name": "North Baldwin",
+                    "votes": 248
+                  },
+                  {
+                    "name": "West Baldwin",
+                    "votes": 185
+                  },
+                  {
+                    "name": "East Hardwick",
+                    "votes": 80
+                  },
+                  {
+                    "name": "West Hardwick",
+                    "votes": 479
+                  },
+                  {
+                    "name": "Coopers",
+                    "votes": 99
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "South Milledgeville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "City Hall Annex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boddie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fire Dept",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Milledgeville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Meriweather",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scottsboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Hardwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Hardwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coopers",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 14,
+        "precinctsReported": 3,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 229,
+            "Precinct": [
+              {
+                "name": "South Milledgeville",
+                "votes": 16
+              },
+              {
+                "name": "City Hall Annex",
+                "votes": 7
+              },
+              {
+                "name": "Boddie",
+                "votes": 9
+              },
+              {
+                "name": "Courthouse",
+                "votes": 4
+              },
+              {
+                "name": "Fire Dept",
+                "votes": 12
+              },
+              {
+                "name": "North Milledgeville",
+                "votes": 30
+              },
+              {
+                "name": "Meriweather",
+                "votes": 19
+              },
+              {
+                "name": "East Baldwin",
+                "votes": 28
+              },
+              {
+                "name": "Scottsboro",
+                "votes": 11
+              },
+              {
+                "name": "North Baldwin",
+                "votes": 16
+              },
+              {
+                "name": "West Baldwin",
+                "votes": 18
+              },
+              {
+                "name": "East Hardwick",
+                "votes": 12
+              },
+              {
+                "name": "West Hardwick",
+                "votes": 33
+              },
+              {
+                "name": "Coopers",
+                "votes": 14
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "South Milledgeville",
+                "votes": 0
+              },
+              {
+                "name": "City Hall Annex",
+                "votes": 0
+              },
+              {
+                "name": "Boddie",
+                "votes": 0
+              },
+              {
+                "name": "Courthouse",
+                "votes": 0
+              },
+              {
+                "name": "Fire Dept",
+                "votes": 0
+              },
+              {
+                "name": "North Milledgeville",
+                "votes": 0
+              },
+              {
+                "name": "Meriweather",
+                "votes": 0
+              },
+              {
+                "name": "East Baldwin",
+                "votes": 0
+              },
+              {
+                "name": "Scottsboro",
+                "votes": 0
+              },
+              {
+                "name": "North Baldwin",
+                "votes": 0
+              },
+              {
+                "name": "West Baldwin",
+                "votes": 0
+              },
+              {
+                "name": "East Hardwick",
+                "votes": 0
+              },
+              {
+                "name": "West Hardwick",
+                "votes": 0
+              },
+              {
+                "name": "Coopers",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 5816,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 259,
+                "Precinct": [
+                  {
+                    "name": "South Milledgeville",
+                    "votes": 30
+                  },
+                  {
+                    "name": "City Hall Annex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boddie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fire Dept",
+                    "votes": 46
+                  },
+                  {
+                    "name": "North Milledgeville",
+                    "votes": 183
+                  },
+                  {
+                    "name": "Meriweather",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scottsboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Hardwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Hardwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coopers",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 4509,
+                "Precinct": [
+                  {
+                    "name": "South Milledgeville",
+                    "votes": 73
+                  },
+                  {
+                    "name": "City Hall Annex",
+                    "votes": 46
+                  },
+                  {
+                    "name": "Boddie",
+                    "votes": 57
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 43
+                  },
+                  {
+                    "name": "Fire Dept",
+                    "votes": 98
+                  },
+                  {
+                    "name": "North Milledgeville",
+                    "votes": 402
+                  },
+                  {
+                    "name": "Meriweather",
+                    "votes": 751
+                  },
+                  {
+                    "name": "East Baldwin",
+                    "votes": 835
+                  },
+                  {
+                    "name": "Scottsboro",
+                    "votes": 167
+                  },
+                  {
+                    "name": "North Baldwin",
+                    "votes": 1112
+                  },
+                  {
+                    "name": "West Baldwin",
+                    "votes": 368
+                  },
+                  {
+                    "name": "East Hardwick",
+                    "votes": 47
+                  },
+                  {
+                    "name": "West Hardwick",
+                    "votes": 186
+                  },
+                  {
+                    "name": "Coopers",
+                    "votes": 324
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1048,
+                "Precinct": [
+                  {
+                    "name": "South Milledgeville",
+                    "votes": 26
+                  },
+                  {
+                    "name": "City Hall Annex",
+                    "votes": 28
+                  },
+                  {
+                    "name": "Boddie",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Fire Dept",
+                    "votes": 22
+                  },
+                  {
+                    "name": "North Milledgeville",
+                    "votes": 141
+                  },
+                  {
+                    "name": "Meriweather",
+                    "votes": 159
+                  },
+                  {
+                    "name": "East Baldwin",
+                    "votes": 184
+                  },
+                  {
+                    "name": "Scottsboro",
+                    "votes": 39
+                  },
+                  {
+                    "name": "North Baldwin",
+                    "votes": 206
+                  },
+                  {
+                    "name": "West Baldwin",
+                    "votes": 87
+                  },
+                  {
+                    "name": "East Hardwick",
+                    "votes": 13
+                  },
+                  {
+                    "name": "West Hardwick",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Coopers",
+                    "votes": 57
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "South Milledgeville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "City Hall Annex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boddie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fire Dept",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Milledgeville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Meriweather",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scottsboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Hardwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Hardwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coopers",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 6815,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 384,
+                "Precinct": [
+                  {
+                    "name": "South Milledgeville",
+                    "votes": 115
+                  },
+                  {
+                    "name": "City Hall Annex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boddie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fire Dept",
+                    "votes": 115
+                  },
+                  {
+                    "name": "North Milledgeville",
+                    "votes": 154
+                  },
+                  {
+                    "name": "Meriweather",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scottsboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Hardwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Hardwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coopers",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 3943,
+                "Precinct": [
+                  {
+                    "name": "South Milledgeville",
+                    "votes": 252
+                  },
+                  {
+                    "name": "City Hall Annex",
+                    "votes": 110
+                  },
+                  {
+                    "name": "Boddie",
+                    "votes": 192
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Fire Dept",
+                    "votes": 303
+                  },
+                  {
+                    "name": "North Milledgeville",
+                    "votes": 398
+                  },
+                  {
+                    "name": "Meriweather",
+                    "votes": 455
+                  },
+                  {
+                    "name": "East Baldwin",
+                    "votes": 569
+                  },
+                  {
+                    "name": "Scottsboro",
+                    "votes": 102
+                  },
+                  {
+                    "name": "North Baldwin",
+                    "votes": 357
+                  },
+                  {
+                    "name": "West Baldwin",
+                    "votes": 268
+                  },
+                  {
+                    "name": "East Hardwick",
+                    "votes": 177
+                  },
+                  {
+                    "name": "West Hardwick",
+                    "votes": 560
+                  },
+                  {
+                    "name": "Coopers",
+                    "votes": 138
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 2488,
+                "Precinct": [
+                  {
+                    "name": "South Milledgeville",
+                    "votes": 161
+                  },
+                  {
+                    "name": "City Hall Annex",
+                    "votes": 115
+                  },
+                  {
+                    "name": "Boddie",
+                    "votes": 138
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Fire Dept",
+                    "votes": 242
+                  },
+                  {
+                    "name": "North Milledgeville",
+                    "votes": 209
+                  },
+                  {
+                    "name": "Meriweather",
+                    "votes": 180
+                  },
+                  {
+                    "name": "East Baldwin",
+                    "votes": 273
+                  },
+                  {
+                    "name": "Scottsboro",
+                    "votes": 80
+                  },
+                  {
+                    "name": "North Baldwin",
+                    "votes": 234
+                  },
+                  {
+                    "name": "West Baldwin",
+                    "votes": 171
+                  },
+                  {
+                    "name": "East Hardwick",
+                    "votes": 78
+                  },
+                  {
+                    "name": "West Hardwick",
+                    "votes": 464
+                  },
+                  {
+                    "name": "Coopers",
+                    "votes": 93
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "South Milledgeville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "City Hall Annex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Boddie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Courthouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fire Dept",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Milledgeville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Meriweather",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scottsboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Baldwin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Hardwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West Hardwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Coopers",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1293 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:10:00 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Charlton",
+    "VoterTurnout": {
+      "totalVoters": 0,
+      "ballotsCast": 2328,
+      "voterTurnout": 0.0,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Folkston",
+            "totalVoters": 0,
+            "ballotsCast": 959,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "GA Bend",
+            "totalVoters": 0,
+            "ballotsCast": 73,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "St George",
+            "totalVoters": 0,
+            "ballotsCast": 148,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "American Legion",
+            "totalVoters": 0,
+            "ballotsCast": 344,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Homeland",
+            "totalVoters": 0,
+            "ballotsCast": 318,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Folkston Fire",
+            "totalVoters": 0,
+            "ballotsCast": 311,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Racepond",
+            "totalVoters": 0,
+            "ballotsCast": 101,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Winokur",
+            "totalVoters": 0,
+            "ballotsCast": 74,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 8,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 3,
+            "Precinct": [
+              {
+                "name": "Folkston",
+                "votes": 1
+              },
+              {
+                "name": "GA Bend",
+                "votes": 1
+              },
+              {
+                "name": "St George",
+                "votes": 0
+              },
+              {
+                "name": "American Legion",
+                "votes": 0
+              },
+              {
+                "name": "Homeland",
+                "votes": 1
+              },
+              {
+                "name": "Folkston Fire",
+                "votes": 0
+              },
+              {
+                "name": "Racepond",
+                "votes": 0
+              },
+              {
+                "name": "Winokur",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Folkston",
+                "votes": 0
+              },
+              {
+                "name": "GA Bend",
+                "votes": 0
+              },
+              {
+                "name": "St George",
+                "votes": 0
+              },
+              {
+                "name": "American Legion",
+                "votes": 0
+              },
+              {
+                "name": "Homeland",
+                "votes": 0
+              },
+              {
+                "name": "Folkston Fire",
+                "votes": 0
+              },
+              {
+                "name": "Racepond",
+                "votes": 0
+              },
+              {
+                "name": "Winokur",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 1599,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Folkston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "GA Bend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St George",
+                    "votes": 0
+                  },
+                  {
+                    "name": "American Legion",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Homeland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Folkston Fire",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Racepond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Winokur",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1301,
+                "Precinct": [
+                  {
+                    "name": "Folkston",
+                    "votes": 334
+                  },
+                  {
+                    "name": "GA Bend",
+                    "votes": 31
+                  },
+                  {
+                    "name": "St George",
+                    "votes": 96
+                  },
+                  {
+                    "name": "American Legion",
+                    "votes": 259
+                  },
+                  {
+                    "name": "Homeland",
+                    "votes": 239
+                  },
+                  {
+                    "name": "Folkston Fire",
+                    "votes": 225
+                  },
+                  {
+                    "name": "Racepond",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Winokur",
+                    "votes": 46
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 298,
+                "Precinct": [
+                  {
+                    "name": "Folkston",
+                    "votes": 69
+                  },
+                  {
+                    "name": "GA Bend",
+                    "votes": 28
+                  },
+                  {
+                    "name": "St George",
+                    "votes": 41
+                  },
+                  {
+                    "name": "American Legion",
+                    "votes": 43
+                  },
+                  {
+                    "name": "Homeland",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Folkston Fire",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Racepond",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Winokur",
+                    "votes": 20
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Folkston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "GA Bend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St George",
+                    "votes": 0
+                  },
+                  {
+                    "name": "American Legion",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Homeland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Folkston Fire",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Racepond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Winokur",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 726,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Folkston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "GA Bend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St George",
+                    "votes": 0
+                  },
+                  {
+                    "name": "American Legion",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Homeland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Folkston Fire",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Racepond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Winokur",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 488,
+                "Precinct": [
+                  {
+                    "name": "Folkston",
+                    "votes": 382
+                  },
+                  {
+                    "name": "GA Bend",
+                    "votes": 10
+                  },
+                  {
+                    "name": "St George",
+                    "votes": 2
+                  },
+                  {
+                    "name": "American Legion",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Homeland",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Folkston Fire",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Racepond",
+                    "votes": 7
+                  },
+                  {
+                    "name": "Winokur",
+                    "votes": 3
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 238,
+                "Precinct": [
+                  {
+                    "name": "Folkston",
+                    "votes": 173
+                  },
+                  {
+                    "name": "GA Bend",
+                    "votes": 3
+                  },
+                  {
+                    "name": "St George",
+                    "votes": 9
+                  },
+                  {
+                    "name": "American Legion",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Homeland",
+                    "votes": 8
+                  },
+                  {
+                    "name": "Folkston Fire",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Racepond",
+                    "votes": 6
+                  },
+                  {
+                    "name": "Winokur",
+                    "votes": 5
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Folkston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "GA Bend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St George",
+                    "votes": 0
+                  },
+                  {
+                    "name": "American Legion",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Homeland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Folkston Fire",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Racepond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Winokur",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 8,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 9,
+            "Precinct": [
+              {
+                "name": "Folkston",
+                "votes": 4
+              },
+              {
+                "name": "GA Bend",
+                "votes": 2
+              },
+              {
+                "name": "St George",
+                "votes": 0
+              },
+              {
+                "name": "American Legion",
+                "votes": 0
+              },
+              {
+                "name": "Homeland",
+                "votes": 2
+              },
+              {
+                "name": "Folkston Fire",
+                "votes": 1
+              },
+              {
+                "name": "Racepond",
+                "votes": 0
+              },
+              {
+                "name": "Winokur",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Folkston",
+                "votes": 0
+              },
+              {
+                "name": "GA Bend",
+                "votes": 0
+              },
+              {
+                "name": "St George",
+                "votes": 0
+              },
+              {
+                "name": "American Legion",
+                "votes": 0
+              },
+              {
+                "name": "Homeland",
+                "votes": 0
+              },
+              {
+                "name": "Folkston Fire",
+                "votes": 0
+              },
+              {
+                "name": "Racepond",
+                "votes": 0
+              },
+              {
+                "name": "Winokur",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 1603,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Folkston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "GA Bend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St George",
+                    "votes": 0
+                  },
+                  {
+                    "name": "American Legion",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Homeland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Folkston Fire",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Racepond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Winokur",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1306,
+                "Precinct": [
+                  {
+                    "name": "Folkston",
+                    "votes": 334
+                  },
+                  {
+                    "name": "GA Bend",
+                    "votes": 31
+                  },
+                  {
+                    "name": "St George",
+                    "votes": 97
+                  },
+                  {
+                    "name": "American Legion",
+                    "votes": 261
+                  },
+                  {
+                    "name": "Homeland",
+                    "votes": 240
+                  },
+                  {
+                    "name": "Folkston Fire",
+                    "votes": 226
+                  },
+                  {
+                    "name": "Racepond",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Winokur",
+                    "votes": 46
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 297,
+                "Precinct": [
+                  {
+                    "name": "Folkston",
+                    "votes": 67
+                  },
+                  {
+                    "name": "GA Bend",
+                    "votes": 29
+                  },
+                  {
+                    "name": "St George",
+                    "votes": 42
+                  },
+                  {
+                    "name": "American Legion",
+                    "votes": 43
+                  },
+                  {
+                    "name": "Homeland",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Folkston Fire",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Racepond",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Winokur",
+                    "votes": 20
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Folkston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "GA Bend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St George",
+                    "votes": 0
+                  },
+                  {
+                    "name": "American Legion",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Homeland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Folkston Fire",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Racepond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Winokur",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 716,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Folkston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "GA Bend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St George",
+                    "votes": 0
+                  },
+                  {
+                    "name": "American Legion",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Homeland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Folkston Fire",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Racepond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Winokur",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 479,
+                "Precinct": [
+                  {
+                    "name": "Folkston",
+                    "votes": 378
+                  },
+                  {
+                    "name": "GA Bend",
+                    "votes": 10
+                  },
+                  {
+                    "name": "St George",
+                    "votes": 1
+                  },
+                  {
+                    "name": "American Legion",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Homeland",
+                    "votes": 28
+                  },
+                  {
+                    "name": "Folkston Fire",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Racepond",
+                    "votes": 7
+                  },
+                  {
+                    "name": "Winokur",
+                    "votes": 3
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 237,
+                "Precinct": [
+                  {
+                    "name": "Folkston",
+                    "votes": 176
+                  },
+                  {
+                    "name": "GA Bend",
+                    "votes": 1
+                  },
+                  {
+                    "name": "St George",
+                    "votes": 8
+                  },
+                  {
+                    "name": "American Legion",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Homeland",
+                    "votes": 8
+                  },
+                  {
+                    "name": "Folkston Fire",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Racepond",
+                    "votes": 6
+                  },
+                  {
+                    "name": "Winokur",
+                    "votes": 5
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Folkston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "GA Bend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St George",
+                    "votes": 0
+                  },
+                  {
+                    "name": "American Legion",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Homeland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Folkston Fire",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Racepond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Winokur",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 8,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 49,
+            "Precinct": [
+              {
+                "name": "Folkston",
+                "votes": 23
+              },
+              {
+                "name": "GA Bend",
+                "votes": 3
+              },
+              {
+                "name": "St George",
+                "votes": 4
+              },
+              {
+                "name": "American Legion",
+                "votes": 5
+              },
+              {
+                "name": "Homeland",
+                "votes": 5
+              },
+              {
+                "name": "Folkston Fire",
+                "votes": 3
+              },
+              {
+                "name": "Racepond",
+                "votes": 4
+              },
+              {
+                "name": "Winokur",
+                "votes": 2
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Folkston",
+                "votes": 0
+              },
+              {
+                "name": "GA Bend",
+                "votes": 0
+              },
+              {
+                "name": "St George",
+                "votes": 0
+              },
+              {
+                "name": "American Legion",
+                "votes": 0
+              },
+              {
+                "name": "Homeland",
+                "votes": 0
+              },
+              {
+                "name": "Folkston Fire",
+                "votes": 0
+              },
+              {
+                "name": "Racepond",
+                "votes": 0
+              },
+              {
+                "name": "Winokur",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 1578,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Folkston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "GA Bend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St George",
+                    "votes": 0
+                  },
+                  {
+                    "name": "American Legion",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Homeland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Folkston Fire",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Racepond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Winokur",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1288,
+                "Precinct": [
+                  {
+                    "name": "Folkston",
+                    "votes": 328
+                  },
+                  {
+                    "name": "GA Bend",
+                    "votes": 30
+                  },
+                  {
+                    "name": "St George",
+                    "votes": 94
+                  },
+                  {
+                    "name": "American Legion",
+                    "votes": 258
+                  },
+                  {
+                    "name": "Homeland",
+                    "votes": 240
+                  },
+                  {
+                    "name": "Folkston Fire",
+                    "votes": 226
+                  },
+                  {
+                    "name": "Racepond",
+                    "votes": 68
+                  },
+                  {
+                    "name": "Winokur",
+                    "votes": 44
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 290,
+                "Precinct": [
+                  {
+                    "name": "Folkston",
+                    "votes": 72
+                  },
+                  {
+                    "name": "GA Bend",
+                    "votes": 28
+                  },
+                  {
+                    "name": "St George",
+                    "votes": 37
+                  },
+                  {
+                    "name": "American Legion",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Homeland",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Folkston Fire",
+                    "votes": 37
+                  },
+                  {
+                    "name": "Racepond",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Winokur",
+                    "votes": 19
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Folkston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "GA Bend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St George",
+                    "votes": 0
+                  },
+                  {
+                    "name": "American Legion",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Homeland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Folkston Fire",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Racepond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Winokur",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 701,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Folkston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "GA Bend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St George",
+                    "votes": 0
+                  },
+                  {
+                    "name": "American Legion",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Homeland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Folkston Fire",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Racepond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Winokur",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 464,
+                "Precinct": [
+                  {
+                    "name": "Folkston",
+                    "votes": 366
+                  },
+                  {
+                    "name": "GA Bend",
+                    "votes": 9
+                  },
+                  {
+                    "name": "St George",
+                    "votes": 3
+                  },
+                  {
+                    "name": "American Legion",
+                    "votes": 22
+                  },
+                  {
+                    "name": "Homeland",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Folkston Fire",
+                    "votes": 28
+                  },
+                  {
+                    "name": "Racepond",
+                    "votes": 7
+                  },
+                  {
+                    "name": "Winokur",
+                    "votes": 3
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 237,
+                "Precinct": [
+                  {
+                    "name": "Folkston",
+                    "votes": 170
+                  },
+                  {
+                    "name": "GA Bend",
+                    "votes": 3
+                  },
+                  {
+                    "name": "St George",
+                    "votes": 10
+                  },
+                  {
+                    "name": "American Legion",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Homeland",
+                    "votes": 8
+                  },
+                  {
+                    "name": "Folkston Fire",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Racepond",
+                    "votes": 6
+                  },
+                  {
+                    "name": "Winokur",
+                    "votes": 6
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Folkston",
+                    "votes": 0
+                  },
+                  {
+                    "name": "GA Bend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St George",
+                    "votes": 0
+                  },
+                  {
+                    "name": "American Legion",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Homeland",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Folkston Fire",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Racepond",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Winokur",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

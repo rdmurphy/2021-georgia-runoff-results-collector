@@ -1,0 +1,785 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 7:52:22 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Atkinson",
+    "VoterTurnout": {
+      "totalVoters": 4877,
+      "ballotsCast": 244,
+      "voterTurnout": 5.0,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Pearson County",
+            "totalVoters": 1841,
+            "ballotsCast": 87,
+            "voterTurnout": 4.73,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Axson",
+            "totalVoters": 751,
+            "ballotsCast": 26,
+            "voterTurnout": 3.46,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Willacoochee",
+            "totalVoters": 1342,
+            "ballotsCast": 69,
+            "voterTurnout": 5.14,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Pearson City",
+            "totalVoters": 943,
+            "ballotsCast": 62,
+            "voterTurnout": 6.57,
+            "percentReporting": "1"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 4,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Pearson County",
+                "votes": 0
+              },
+              {
+                "name": "Axson",
+                "votes": 0
+              },
+              {
+                "name": "Willacoochee",
+                "votes": 0
+              },
+              {
+                "name": "Pearson City",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Pearson County",
+                "votes": 0
+              },
+              {
+                "name": "Axson",
+                "votes": 0
+              },
+              {
+                "name": "Willacoochee",
+                "votes": 0
+              },
+              {
+                "name": "Pearson City",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 132,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pearson County",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Axson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Willacoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pearson City",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pearson County",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Axson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Willacoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pearson City",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 132,
+                "Precinct": [
+                  {
+                    "name": "Pearson County",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Axson",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Willacoochee",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Pearson City",
+                    "votes": 19
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pearson County",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Axson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Willacoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pearson City",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 112,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pearson County",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Axson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Willacoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pearson City",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pearson County",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Axson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Willacoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pearson City",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 112,
+                "Precinct": [
+                  {
+                    "name": "Pearson County",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Axson",
+                    "votes": 3
+                  },
+                  {
+                    "name": "Willacoochee",
+                    "votes": 37
+                  },
+                  {
+                    "name": "Pearson City",
+                    "votes": 43
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pearson County",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Axson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Willacoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pearson City",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 4,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 1,
+            "Precinct": [
+              {
+                "name": "Pearson County",
+                "votes": 0
+              },
+              {
+                "name": "Axson",
+                "votes": 0
+              },
+              {
+                "name": "Willacoochee",
+                "votes": 1
+              },
+              {
+                "name": "Pearson City",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Pearson County",
+                "votes": 0
+              },
+              {
+                "name": "Axson",
+                "votes": 0
+              },
+              {
+                "name": "Willacoochee",
+                "votes": 0
+              },
+              {
+                "name": "Pearson City",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 132,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pearson County",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Axson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Willacoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pearson City",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pearson County",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Axson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Willacoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pearson City",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 132,
+                "Precinct": [
+                  {
+                    "name": "Pearson County",
+                    "votes": 59
+                  },
+                  {
+                    "name": "Axson",
+                    "votes": 22
+                  },
+                  {
+                    "name": "Willacoochee",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Pearson City",
+                    "votes": 20
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pearson County",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Axson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Willacoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pearson City",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 111,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pearson County",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Axson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Willacoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pearson City",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pearson County",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Axson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Willacoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pearson City",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 111,
+                "Precinct": [
+                  {
+                    "name": "Pearson County",
+                    "votes": 28
+                  },
+                  {
+                    "name": "Axson",
+                    "votes": 4
+                  },
+                  {
+                    "name": "Willacoochee",
+                    "votes": 37
+                  },
+                  {
+                    "name": "Pearson City",
+                    "votes": 42
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pearson County",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Axson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Willacoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pearson City",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 4,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 5,
+            "Precinct": [
+              {
+                "name": "Pearson County",
+                "votes": 3
+              },
+              {
+                "name": "Axson",
+                "votes": 0
+              },
+              {
+                "name": "Willacoochee",
+                "votes": 1
+              },
+              {
+                "name": "Pearson City",
+                "votes": 1
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Pearson County",
+                "votes": 0
+              },
+              {
+                "name": "Axson",
+                "votes": 0
+              },
+              {
+                "name": "Willacoochee",
+                "votes": 0
+              },
+              {
+                "name": "Pearson City",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 130,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pearson County",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Axson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Willacoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pearson City",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pearson County",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Axson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Willacoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pearson City",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 130,
+                "Precinct": [
+                  {
+                    "name": "Pearson County",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Axson",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Willacoochee",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Pearson City",
+                    "votes": 19
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pearson County",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Axson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Willacoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pearson City",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 109,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pearson County",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Axson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Willacoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pearson City",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pearson County",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Axson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Willacoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pearson City",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 109,
+                "Precinct": [
+                  {
+                    "name": "Pearson County",
+                    "votes": 28
+                  },
+                  {
+                    "name": "Axson",
+                    "votes": 3
+                  },
+                  {
+                    "name": "Willacoochee",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Pearson City",
+                    "votes": 42
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Pearson County",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Axson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Willacoochee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pearson City",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,531 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 7:48:28 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Ben Hill",
+    "VoterTurnout": {
+      "totalVoters": 10087,
+      "ballotsCast": 5732,
+      "voterTurnout": 56.83,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "East",
+            "totalVoters": 4040,
+            "ballotsCast": 2151,
+            "voterTurnout": 53.24,
+            "percentReporting": "4"
+          },
+          {
+            "name": "West",
+            "totalVoters": 6047,
+            "ballotsCast": 3581,
+            "voterTurnout": 59.22,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 2,
+        "precinctsReported": 2,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 23,
+            "Precinct": [
+              {
+                "name": "East",
+                "votes": 12
+              },
+              {
+                "name": "West",
+                "votes": 11
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "East",
+                "votes": 0
+              },
+              {
+                "name": "West",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 3527,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 899,
+                "Precinct": [
+                  {
+                    "name": "East",
+                    "votes": 271
+                  },
+                  {
+                    "name": "West",
+                    "votes": 628
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2246,
+                "Precinct": [
+                  {
+                    "name": "East",
+                    "votes": 657
+                  },
+                  {
+                    "name": "West",
+                    "votes": 1589
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 382,
+                "Precinct": [
+                  {
+                    "name": "East",
+                    "votes": 99
+                  },
+                  {
+                    "name": "West",
+                    "votes": 283
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 2182,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 435,
+                "Precinct": [
+                  {
+                    "name": "East",
+                    "votes": 210
+                  },
+                  {
+                    "name": "West",
+                    "votes": 225
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1146,
+                "Precinct": [
+                  {
+                    "name": "East",
+                    "votes": 588
+                  },
+                  {
+                    "name": "West",
+                    "votes": 558
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 601,
+                "Precinct": [
+                  {
+                    "name": "East",
+                    "votes": 314
+                  },
+                  {
+                    "name": "West",
+                    "votes": 287
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 2,
+        "precinctsReported": 2,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 10,
+            "Precinct": [
+              {
+                "name": "East",
+                "votes": 5
+              },
+              {
+                "name": "West",
+                "votes": 5
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "East",
+                "votes": 0
+              },
+              {
+                "name": "West",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 3529,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 897,
+                "Precinct": [
+                  {
+                    "name": "East",
+                    "votes": 268
+                  },
+                  {
+                    "name": "West",
+                    "votes": 629
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2247,
+                "Precinct": [
+                  {
+                    "name": "East",
+                    "votes": 658
+                  },
+                  {
+                    "name": "West",
+                    "votes": 1589
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 385,
+                "Precinct": [
+                  {
+                    "name": "East",
+                    "votes": 102
+                  },
+                  {
+                    "name": "West",
+                    "votes": 283
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 2193,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 440,
+                "Precinct": [
+                  {
+                    "name": "East",
+                    "votes": 215
+                  },
+                  {
+                    "name": "West",
+                    "votes": 225
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1152,
+                "Precinct": [
+                  {
+                    "name": "East",
+                    "votes": 590
+                  },
+                  {
+                    "name": "West",
+                    "votes": 562
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 601,
+                "Precinct": [
+                  {
+                    "name": "East",
+                    "votes": 313
+                  },
+                  {
+                    "name": "West",
+                    "votes": 288
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 2,
+        "precinctsReported": 2,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 74,
+            "Precinct": [
+              {
+                "name": "East",
+                "votes": 29
+              },
+              {
+                "name": "West",
+                "votes": 45
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "East",
+                "votes": 0
+              },
+              {
+                "name": "West",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 3537,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 900,
+                "Precinct": [
+                  {
+                    "name": "East",
+                    "votes": 273
+                  },
+                  {
+                    "name": "West",
+                    "votes": 627
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2249,
+                "Precinct": [
+                  {
+                    "name": "East",
+                    "votes": 653
+                  },
+                  {
+                    "name": "West",
+                    "votes": 1596
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 388,
+                "Precinct": [
+                  {
+                    "name": "East",
+                    "votes": 101
+                  },
+                  {
+                    "name": "West",
+                    "votes": 287
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 2121,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 431,
+                "Precinct": [
+                  {
+                    "name": "East",
+                    "votes": 210
+                  },
+                  {
+                    "name": "West",
+                    "votes": 221
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1106,
+                "Precinct": [
+                  {
+                    "name": "East",
+                    "votes": 575
+                  },
+                  {
+                    "name": "West",
+                    "votes": 531
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 584,
+                "Precinct": [
+                  {
+                    "name": "East",
+                    "votes": 310
+                  },
+                  {
+                    "name": "West",
+                    "votes": 274
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "West",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

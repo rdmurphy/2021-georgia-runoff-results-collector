@@ -1,0 +1,2309 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 7:55:05 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Bulloch",
+    "VoterTurnout": {
+      "totalVoters": 46303,
+      "ballotsCast": 0,
+      "voterTurnout": 0.0,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Lockhart",
+            "totalVoters": 738,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Emit",
+            "totalVoters": 3435,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Statesboro",
+            "totalVoters": 7165,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Portal",
+            "totalVoters": 1775,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Fair",
+            "totalVoters": 6438,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Church",
+            "totalVoters": 5894,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Pittman Park",
+            "totalVoters": 5389,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Leefield",
+            "totalVoters": 1032,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Blitch",
+            "totalVoters": 1903,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Hagin",
+            "totalVoters": 2466,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Brooklet",
+            "totalVoters": 3409,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Stilson",
+            "totalVoters": 2196,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Bay",
+            "totalVoters": 1650,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Nevils",
+            "totalVoters": 1326,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Sinkhole",
+            "totalVoters": 495,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Register",
+            "totalVoters": 992,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 16,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Lockhart",
+                "votes": 0
+              },
+              {
+                "name": "Emit",
+                "votes": 0
+              },
+              {
+                "name": "Statesboro",
+                "votes": 0
+              },
+              {
+                "name": "Portal",
+                "votes": 0
+              },
+              {
+                "name": "Fair",
+                "votes": 0
+              },
+              {
+                "name": "Church",
+                "votes": 0
+              },
+              {
+                "name": "Pittman Park",
+                "votes": 0
+              },
+              {
+                "name": "Leefield",
+                "votes": 0
+              },
+              {
+                "name": "Blitch",
+                "votes": 0
+              },
+              {
+                "name": "Hagin",
+                "votes": 0
+              },
+              {
+                "name": "Brooklet",
+                "votes": 0
+              },
+              {
+                "name": "Stilson",
+                "votes": 0
+              },
+              {
+                "name": "Bay",
+                "votes": 0
+              },
+              {
+                "name": "Nevils",
+                "votes": 0
+              },
+              {
+                "name": "Sinkhole",
+                "votes": 0
+              },
+              {
+                "name": "Register",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Lockhart",
+                "votes": 0
+              },
+              {
+                "name": "Emit",
+                "votes": 0
+              },
+              {
+                "name": "Statesboro",
+                "votes": 0
+              },
+              {
+                "name": "Portal",
+                "votes": 0
+              },
+              {
+                "name": "Fair",
+                "votes": 0
+              },
+              {
+                "name": "Church",
+                "votes": 0
+              },
+              {
+                "name": "Pittman Park",
+                "votes": 0
+              },
+              {
+                "name": "Leefield",
+                "votes": 0
+              },
+              {
+                "name": "Blitch",
+                "votes": 0
+              },
+              {
+                "name": "Hagin",
+                "votes": 0
+              },
+              {
+                "name": "Brooklet",
+                "votes": 0
+              },
+              {
+                "name": "Stilson",
+                "votes": 0
+              },
+              {
+                "name": "Bay",
+                "votes": 0
+              },
+              {
+                "name": "Nevils",
+                "votes": 0
+              },
+              {
+                "name": "Sinkhole",
+                "votes": 0
+              },
+              {
+                "name": "Register",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 0,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Lockhart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Emit",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Statesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Portal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pittman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leefield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blitch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hagin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brooklet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stilson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nevils",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sinkhole",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Register",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Lockhart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Emit",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Statesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Portal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pittman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leefield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blitch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hagin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brooklet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stilson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nevils",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sinkhole",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Register",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Lockhart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Emit",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Statesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Portal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pittman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leefield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blitch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hagin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brooklet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stilson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nevils",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sinkhole",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Register",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Lockhart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Emit",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Statesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Portal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pittman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leefield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blitch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hagin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brooklet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stilson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nevils",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sinkhole",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Register",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 0,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Lockhart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Emit",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Statesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Portal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pittman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leefield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blitch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hagin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brooklet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stilson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nevils",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sinkhole",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Register",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Lockhart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Emit",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Statesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Portal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pittman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leefield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blitch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hagin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brooklet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stilson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nevils",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sinkhole",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Register",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Lockhart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Emit",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Statesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Portal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pittman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leefield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blitch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hagin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brooklet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stilson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nevils",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sinkhole",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Register",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Lockhart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Emit",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Statesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Portal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pittman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leefield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blitch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hagin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brooklet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stilson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nevils",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sinkhole",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Register",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 16,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Lockhart",
+                "votes": 0
+              },
+              {
+                "name": "Emit",
+                "votes": 0
+              },
+              {
+                "name": "Statesboro",
+                "votes": 0
+              },
+              {
+                "name": "Portal",
+                "votes": 0
+              },
+              {
+                "name": "Fair",
+                "votes": 0
+              },
+              {
+                "name": "Church",
+                "votes": 0
+              },
+              {
+                "name": "Pittman Park",
+                "votes": 0
+              },
+              {
+                "name": "Leefield",
+                "votes": 0
+              },
+              {
+                "name": "Blitch",
+                "votes": 0
+              },
+              {
+                "name": "Hagin",
+                "votes": 0
+              },
+              {
+                "name": "Brooklet",
+                "votes": 0
+              },
+              {
+                "name": "Stilson",
+                "votes": 0
+              },
+              {
+                "name": "Bay",
+                "votes": 0
+              },
+              {
+                "name": "Nevils",
+                "votes": 0
+              },
+              {
+                "name": "Sinkhole",
+                "votes": 0
+              },
+              {
+                "name": "Register",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Lockhart",
+                "votes": 0
+              },
+              {
+                "name": "Emit",
+                "votes": 0
+              },
+              {
+                "name": "Statesboro",
+                "votes": 0
+              },
+              {
+                "name": "Portal",
+                "votes": 0
+              },
+              {
+                "name": "Fair",
+                "votes": 0
+              },
+              {
+                "name": "Church",
+                "votes": 0
+              },
+              {
+                "name": "Pittman Park",
+                "votes": 0
+              },
+              {
+                "name": "Leefield",
+                "votes": 0
+              },
+              {
+                "name": "Blitch",
+                "votes": 0
+              },
+              {
+                "name": "Hagin",
+                "votes": 0
+              },
+              {
+                "name": "Brooklet",
+                "votes": 0
+              },
+              {
+                "name": "Stilson",
+                "votes": 0
+              },
+              {
+                "name": "Bay",
+                "votes": 0
+              },
+              {
+                "name": "Nevils",
+                "votes": 0
+              },
+              {
+                "name": "Sinkhole",
+                "votes": 0
+              },
+              {
+                "name": "Register",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 0,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Lockhart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Emit",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Statesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Portal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pittman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leefield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blitch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hagin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brooklet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stilson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nevils",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sinkhole",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Register",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Lockhart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Emit",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Statesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Portal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pittman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leefield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blitch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hagin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brooklet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stilson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nevils",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sinkhole",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Register",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Lockhart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Emit",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Statesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Portal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pittman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leefield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blitch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hagin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brooklet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stilson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nevils",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sinkhole",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Register",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Lockhart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Emit",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Statesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Portal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pittman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leefield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blitch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hagin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brooklet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stilson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nevils",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sinkhole",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Register",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 0,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Lockhart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Emit",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Statesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Portal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pittman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leefield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blitch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hagin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brooklet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stilson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nevils",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sinkhole",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Register",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Lockhart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Emit",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Statesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Portal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pittman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leefield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blitch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hagin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brooklet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stilson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nevils",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sinkhole",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Register",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Lockhart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Emit",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Statesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Portal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pittman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leefield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blitch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hagin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brooklet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stilson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nevils",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sinkhole",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Register",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Lockhart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Emit",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Statesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Portal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pittman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leefield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blitch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hagin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brooklet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stilson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nevils",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sinkhole",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Register",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 16,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Lockhart",
+                "votes": 0
+              },
+              {
+                "name": "Emit",
+                "votes": 0
+              },
+              {
+                "name": "Statesboro",
+                "votes": 0
+              },
+              {
+                "name": "Portal",
+                "votes": 0
+              },
+              {
+                "name": "Fair",
+                "votes": 0
+              },
+              {
+                "name": "Church",
+                "votes": 0
+              },
+              {
+                "name": "Pittman Park",
+                "votes": 0
+              },
+              {
+                "name": "Leefield",
+                "votes": 0
+              },
+              {
+                "name": "Blitch",
+                "votes": 0
+              },
+              {
+                "name": "Hagin",
+                "votes": 0
+              },
+              {
+                "name": "Brooklet",
+                "votes": 0
+              },
+              {
+                "name": "Stilson",
+                "votes": 0
+              },
+              {
+                "name": "Bay",
+                "votes": 0
+              },
+              {
+                "name": "Nevils",
+                "votes": 0
+              },
+              {
+                "name": "Sinkhole",
+                "votes": 0
+              },
+              {
+                "name": "Register",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Lockhart",
+                "votes": 0
+              },
+              {
+                "name": "Emit",
+                "votes": 0
+              },
+              {
+                "name": "Statesboro",
+                "votes": 0
+              },
+              {
+                "name": "Portal",
+                "votes": 0
+              },
+              {
+                "name": "Fair",
+                "votes": 0
+              },
+              {
+                "name": "Church",
+                "votes": 0
+              },
+              {
+                "name": "Pittman Park",
+                "votes": 0
+              },
+              {
+                "name": "Leefield",
+                "votes": 0
+              },
+              {
+                "name": "Blitch",
+                "votes": 0
+              },
+              {
+                "name": "Hagin",
+                "votes": 0
+              },
+              {
+                "name": "Brooklet",
+                "votes": 0
+              },
+              {
+                "name": "Stilson",
+                "votes": 0
+              },
+              {
+                "name": "Bay",
+                "votes": 0
+              },
+              {
+                "name": "Nevils",
+                "votes": 0
+              },
+              {
+                "name": "Sinkhole",
+                "votes": 0
+              },
+              {
+                "name": "Register",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 0,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Lockhart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Emit",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Statesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Portal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pittman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leefield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blitch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hagin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brooklet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stilson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nevils",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sinkhole",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Register",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Lockhart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Emit",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Statesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Portal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pittman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leefield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blitch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hagin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brooklet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stilson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nevils",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sinkhole",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Register",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Lockhart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Emit",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Statesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Portal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pittman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leefield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blitch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hagin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brooklet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stilson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nevils",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sinkhole",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Register",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Lockhart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Emit",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Statesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Portal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pittman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leefield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blitch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hagin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brooklet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stilson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nevils",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sinkhole",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Register",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 0,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Lockhart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Emit",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Statesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Portal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pittman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leefield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blitch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hagin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brooklet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stilson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nevils",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sinkhole",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Register",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Lockhart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Emit",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Statesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Portal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pittman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leefield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blitch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hagin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brooklet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stilson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nevils",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sinkhole",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Register",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Lockhart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Emit",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Statesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Portal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pittman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leefield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blitch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hagin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brooklet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stilson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nevils",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sinkhole",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Register",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Lockhart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Emit",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Statesboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Portal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fair",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pittman Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leefield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blitch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hagin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brooklet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Stilson",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nevils",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sinkhole",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Register",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

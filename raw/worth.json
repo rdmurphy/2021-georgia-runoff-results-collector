@@ -1,0 +1,2182 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 7:59:11 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Worth",
+    "VoterTurnout": {
+      "totalVoters": 14021,
+      "ballotsCast": 4539,
+      "voterTurnout": 32.37,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Sylvester",
+            "totalVoters": 2910,
+            "ballotsCast": 1070,
+            "voterTurnout": 36.77,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Scooterville",
+            "totalVoters": 596,
+            "ballotsCast": 124,
+            "voterTurnout": 20.81,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Minton",
+            "totalVoters": 541,
+            "ballotsCast": 139,
+            "voterTurnout": 25.69,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Bridgeboro",
+            "totalVoters": 1251,
+            "ballotsCast": 347,
+            "voterTurnout": 27.74,
+            "percentReporting": "2"
+          },
+          {
+            "name": "County Line",
+            "totalVoters": 875,
+            "ballotsCast": 234,
+            "voterTurnout": 26.74,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Isabella",
+            "totalVoters": 1380,
+            "ballotsCast": 539,
+            "voterTurnout": 39.06,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Piney Woods",
+            "totalVoters": 318,
+            "ballotsCast": 120,
+            "voterTurnout": 37.74,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Sylvester East",
+            "totalVoters": 1362,
+            "ballotsCast": 545,
+            "voterTurnout": 40.01,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Poulan",
+            "totalVoters": 850,
+            "ballotsCast": 263,
+            "voterTurnout": 30.94,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Sumner",
+            "totalVoters": 846,
+            "ballotsCast": 255,
+            "voterTurnout": 30.14,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Shingler",
+            "totalVoters": 541,
+            "ballotsCast": 186,
+            "voterTurnout": 34.38,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Red Rock",
+            "totalVoters": 1230,
+            "ballotsCast": 318,
+            "voterTurnout": 25.85,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Doles",
+            "totalVoters": 432,
+            "ballotsCast": 117,
+            "voterTurnout": 27.08,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Oakfield",
+            "totalVoters": 213,
+            "ballotsCast": 73,
+            "voterTurnout": 34.27,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Warwick",
+            "totalVoters": 676,
+            "ballotsCast": 209,
+            "voterTurnout": 30.92,
+            "percentReporting": "2"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 15,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 15,
+            "Precinct": [
+              {
+                "name": "Sylvester",
+                "votes": 2
+              },
+              {
+                "name": "Scooterville",
+                "votes": 1
+              },
+              {
+                "name": "Minton",
+                "votes": 1
+              },
+              {
+                "name": "Bridgeboro",
+                "votes": 2
+              },
+              {
+                "name": "County Line",
+                "votes": 2
+              },
+              {
+                "name": "Isabella",
+                "votes": 3
+              },
+              {
+                "name": "Piney Woods",
+                "votes": 1
+              },
+              {
+                "name": "Sylvester East",
+                "votes": 2
+              },
+              {
+                "name": "Poulan",
+                "votes": 0
+              },
+              {
+                "name": "Sumner",
+                "votes": 1
+              },
+              {
+                "name": "Shingler",
+                "votes": 0
+              },
+              {
+                "name": "Red Rock",
+                "votes": 0
+              },
+              {
+                "name": "Doles",
+                "votes": 0
+              },
+              {
+                "name": "Oakfield",
+                "votes": 0
+              },
+              {
+                "name": "Warwick",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Sylvester",
+                "votes": 0
+              },
+              {
+                "name": "Scooterville",
+                "votes": 0
+              },
+              {
+                "name": "Minton",
+                "votes": 0
+              },
+              {
+                "name": "Bridgeboro",
+                "votes": 0
+              },
+              {
+                "name": "County Line",
+                "votes": 0
+              },
+              {
+                "name": "Isabella",
+                "votes": 0
+              },
+              {
+                "name": "Piney Woods",
+                "votes": 0
+              },
+              {
+                "name": "Sylvester East",
+                "votes": 0
+              },
+              {
+                "name": "Poulan",
+                "votes": 0
+              },
+              {
+                "name": "Sumner",
+                "votes": 0
+              },
+              {
+                "name": "Shingler",
+                "votes": 0
+              },
+              {
+                "name": "Red Rock",
+                "votes": 0
+              },
+              {
+                "name": "Doles",
+                "votes": 0
+              },
+              {
+                "name": "Oakfield",
+                "votes": 0
+              },
+              {
+                "name": "Warwick",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 2888,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sylvester",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scooterville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Minton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgeboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "County Line",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Isabella",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Piney Woods",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sylvester East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Poulan",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sumner",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shingler",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Red Rock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doles",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oakfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warwick",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2302,
+                "Precinct": [
+                  {
+                    "name": "Sylvester",
+                    "votes": 286
+                  },
+                  {
+                    "name": "Scooterville",
+                    "votes": 84
+                  },
+                  {
+                    "name": "Minton",
+                    "votes": 95
+                  },
+                  {
+                    "name": "Bridgeboro",
+                    "votes": 210
+                  },
+                  {
+                    "name": "County Line",
+                    "votes": 125
+                  },
+                  {
+                    "name": "Isabella",
+                    "votes": 361
+                  },
+                  {
+                    "name": "Piney Woods",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Sylvester East",
+                    "votes": 319
+                  },
+                  {
+                    "name": "Poulan",
+                    "votes": 153
+                  },
+                  {
+                    "name": "Sumner",
+                    "votes": 144
+                  },
+                  {
+                    "name": "Shingler",
+                    "votes": 120
+                  },
+                  {
+                    "name": "Red Rock",
+                    "votes": 161
+                  },
+                  {
+                    "name": "Doles",
+                    "votes": 74
+                  },
+                  {
+                    "name": "Oakfield",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Warwick",
+                    "votes": 80
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 586,
+                "Precinct": [
+                  {
+                    "name": "Sylvester",
+                    "votes": 54
+                  },
+                  {
+                    "name": "Scooterville",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Minton",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Bridgeboro",
+                    "votes": 56
+                  },
+                  {
+                    "name": "County Line",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Isabella",
+                    "votes": 85
+                  },
+                  {
+                    "name": "Piney Woods",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Sylvester East",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Poulan",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Sumner",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Shingler",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Red Rock",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Doles",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Oakfield",
+                    "votes": 5
+                  },
+                  {
+                    "name": "Warwick",
+                    "votes": 36
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sylvester",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scooterville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Minton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgeboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "County Line",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Isabella",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Piney Woods",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sylvester East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Poulan",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sumner",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shingler",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Red Rock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doles",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oakfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warwick",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 1636,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sylvester",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scooterville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Minton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgeboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "County Line",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Isabella",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Piney Woods",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sylvester East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Poulan",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sumner",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shingler",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Red Rock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doles",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oakfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warwick",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 906,
+                "Precinct": [
+                  {
+                    "name": "Sylvester",
+                    "votes": 435
+                  },
+                  {
+                    "name": "Scooterville",
+                    "votes": 9
+                  },
+                  {
+                    "name": "Minton",
+                    "votes": 7
+                  },
+                  {
+                    "name": "Bridgeboro",
+                    "votes": 49
+                  },
+                  {
+                    "name": "County Line",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Isabella",
+                    "votes": 61
+                  },
+                  {
+                    "name": "Piney Woods",
+                    "votes": 37
+                  },
+                  {
+                    "name": "Sylvester East",
+                    "votes": 89
+                  },
+                  {
+                    "name": "Poulan",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Sumner",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Shingler",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Red Rock",
+                    "votes": 59
+                  },
+                  {
+                    "name": "Doles",
+                    "votes": 13
+                  },
+                  {
+                    "name": "Oakfield",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Warwick",
+                    "votes": 21
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 730,
+                "Precinct": [
+                  {
+                    "name": "Sylvester",
+                    "votes": 293
+                  },
+                  {
+                    "name": "Scooterville",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Minton",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Bridgeboro",
+                    "votes": 30
+                  },
+                  {
+                    "name": "County Line",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Isabella",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Piney Woods",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Sylvester East",
+                    "votes": 60
+                  },
+                  {
+                    "name": "Poulan",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Sumner",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Shingler",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Red Rock",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Doles",
+                    "votes": 7
+                  },
+                  {
+                    "name": "Oakfield",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Warwick",
+                    "votes": 72
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sylvester",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scooterville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Minton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgeboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "County Line",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Isabella",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Piney Woods",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sylvester East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Poulan",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sumner",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shingler",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Red Rock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doles",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oakfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warwick",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 15,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 13,
+            "Precinct": [
+              {
+                "name": "Sylvester",
+                "votes": 2
+              },
+              {
+                "name": "Scooterville",
+                "votes": 1
+              },
+              {
+                "name": "Minton",
+                "votes": 0
+              },
+              {
+                "name": "Bridgeboro",
+                "votes": 2
+              },
+              {
+                "name": "County Line",
+                "votes": 2
+              },
+              {
+                "name": "Isabella",
+                "votes": 1
+              },
+              {
+                "name": "Piney Woods",
+                "votes": 0
+              },
+              {
+                "name": "Sylvester East",
+                "votes": 2
+              },
+              {
+                "name": "Poulan",
+                "votes": 2
+              },
+              {
+                "name": "Sumner",
+                "votes": 0
+              },
+              {
+                "name": "Shingler",
+                "votes": 0
+              },
+              {
+                "name": "Red Rock",
+                "votes": 1
+              },
+              {
+                "name": "Doles",
+                "votes": 0
+              },
+              {
+                "name": "Oakfield",
+                "votes": 0
+              },
+              {
+                "name": "Warwick",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Sylvester",
+                "votes": 0
+              },
+              {
+                "name": "Scooterville",
+                "votes": 0
+              },
+              {
+                "name": "Minton",
+                "votes": 0
+              },
+              {
+                "name": "Bridgeboro",
+                "votes": 0
+              },
+              {
+                "name": "County Line",
+                "votes": 0
+              },
+              {
+                "name": "Isabella",
+                "votes": 0
+              },
+              {
+                "name": "Piney Woods",
+                "votes": 0
+              },
+              {
+                "name": "Sylvester East",
+                "votes": 0
+              },
+              {
+                "name": "Poulan",
+                "votes": 0
+              },
+              {
+                "name": "Sumner",
+                "votes": 0
+              },
+              {
+                "name": "Shingler",
+                "votes": 0
+              },
+              {
+                "name": "Red Rock",
+                "votes": 0
+              },
+              {
+                "name": "Doles",
+                "votes": 0
+              },
+              {
+                "name": "Oakfield",
+                "votes": 0
+              },
+              {
+                "name": "Warwick",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 2892,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sylvester",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scooterville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Minton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgeboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "County Line",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Isabella",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Piney Woods",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sylvester East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Poulan",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sumner",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shingler",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Red Rock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doles",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oakfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warwick",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2303,
+                "Precinct": [
+                  {
+                    "name": "Sylvester",
+                    "votes": 286
+                  },
+                  {
+                    "name": "Scooterville",
+                    "votes": 84
+                  },
+                  {
+                    "name": "Minton",
+                    "votes": 96
+                  },
+                  {
+                    "name": "Bridgeboro",
+                    "votes": 209
+                  },
+                  {
+                    "name": "County Line",
+                    "votes": 126
+                  },
+                  {
+                    "name": "Isabella",
+                    "votes": 358
+                  },
+                  {
+                    "name": "Piney Woods",
+                    "votes": 51
+                  },
+                  {
+                    "name": "Sylvester East",
+                    "votes": 319
+                  },
+                  {
+                    "name": "Poulan",
+                    "votes": 152
+                  },
+                  {
+                    "name": "Sumner",
+                    "votes": 145
+                  },
+                  {
+                    "name": "Shingler",
+                    "votes": 120
+                  },
+                  {
+                    "name": "Red Rock",
+                    "votes": 162
+                  },
+                  {
+                    "name": "Doles",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Oakfield",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Warwick",
+                    "votes": 80
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 589,
+                "Precinct": [
+                  {
+                    "name": "Sylvester",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Scooterville",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Minton",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Bridgeboro",
+                    "votes": 56
+                  },
+                  {
+                    "name": "County Line",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Isabella",
+                    "votes": 86
+                  },
+                  {
+                    "name": "Piney Woods",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Sylvester East",
+                    "votes": 74
+                  },
+                  {
+                    "name": "Poulan",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Sumner",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Shingler",
+                    "votes": 28
+                  },
+                  {
+                    "name": "Red Rock",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Doles",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Oakfield",
+                    "votes": 5
+                  },
+                  {
+                    "name": "Warwick",
+                    "votes": 36
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sylvester",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scooterville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Minton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgeboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "County Line",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Isabella",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Piney Woods",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sylvester East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Poulan",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sumner",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shingler",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Red Rock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doles",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oakfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warwick",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 1634,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sylvester",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scooterville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Minton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgeboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "County Line",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Isabella",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Piney Woods",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sylvester East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Poulan",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sumner",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shingler",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Red Rock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doles",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oakfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warwick",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 906,
+                "Precinct": [
+                  {
+                    "name": "Sylvester",
+                    "votes": 436
+                  },
+                  {
+                    "name": "Scooterville",
+                    "votes": 9
+                  },
+                  {
+                    "name": "Minton",
+                    "votes": 7
+                  },
+                  {
+                    "name": "Bridgeboro",
+                    "votes": 49
+                  },
+                  {
+                    "name": "County Line",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Isabella",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Piney Woods",
+                    "votes": 37
+                  },
+                  {
+                    "name": "Sylvester East",
+                    "votes": 89
+                  },
+                  {
+                    "name": "Poulan",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Sumner",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Shingler",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Red Rock",
+                    "votes": 57
+                  },
+                  {
+                    "name": "Doles",
+                    "votes": 12
+                  },
+                  {
+                    "name": "Oakfield",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Warwick",
+                    "votes": 21
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 728,
+                "Precinct": [
+                  {
+                    "name": "Sylvester",
+                    "votes": 288
+                  },
+                  {
+                    "name": "Scooterville",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Minton",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Bridgeboro",
+                    "votes": 31
+                  },
+                  {
+                    "name": "County Line",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Isabella",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Piney Woods",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Sylvester East",
+                    "votes": 61
+                  },
+                  {
+                    "name": "Poulan",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Sumner",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Shingler",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Red Rock",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Doles",
+                    "votes": 7
+                  },
+                  {
+                    "name": "Oakfield",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Warwick",
+                    "votes": 72
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sylvester",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scooterville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Minton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgeboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "County Line",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Isabella",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Piney Woods",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sylvester East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Poulan",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sumner",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shingler",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Red Rock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doles",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oakfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warwick",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 15,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 70,
+            "Precinct": [
+              {
+                "name": "Sylvester",
+                "votes": 17
+              },
+              {
+                "name": "Scooterville",
+                "votes": 3
+              },
+              {
+                "name": "Minton",
+                "votes": 3
+              },
+              {
+                "name": "Bridgeboro",
+                "votes": 6
+              },
+              {
+                "name": "County Line",
+                "votes": 5
+              },
+              {
+                "name": "Isabella",
+                "votes": 3
+              },
+              {
+                "name": "Piney Woods",
+                "votes": 0
+              },
+              {
+                "name": "Sylvester East",
+                "votes": 10
+              },
+              {
+                "name": "Poulan",
+                "votes": 3
+              },
+              {
+                "name": "Sumner",
+                "votes": 3
+              },
+              {
+                "name": "Shingler",
+                "votes": 1
+              },
+              {
+                "name": "Red Rock",
+                "votes": 4
+              },
+              {
+                "name": "Doles",
+                "votes": 5
+              },
+              {
+                "name": "Oakfield",
+                "votes": 2
+              },
+              {
+                "name": "Warwick",
+                "votes": 5
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Sylvester",
+                "votes": 0
+              },
+              {
+                "name": "Scooterville",
+                "votes": 0
+              },
+              {
+                "name": "Minton",
+                "votes": 0
+              },
+              {
+                "name": "Bridgeboro",
+                "votes": 0
+              },
+              {
+                "name": "County Line",
+                "votes": 0
+              },
+              {
+                "name": "Isabella",
+                "votes": 0
+              },
+              {
+                "name": "Piney Woods",
+                "votes": 0
+              },
+              {
+                "name": "Sylvester East",
+                "votes": 0
+              },
+              {
+                "name": "Poulan",
+                "votes": 0
+              },
+              {
+                "name": "Sumner",
+                "votes": 0
+              },
+              {
+                "name": "Shingler",
+                "votes": 0
+              },
+              {
+                "name": "Red Rock",
+                "votes": 0
+              },
+              {
+                "name": "Doles",
+                "votes": 0
+              },
+              {
+                "name": "Oakfield",
+                "votes": 0
+              },
+              {
+                "name": "Warwick",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 2900,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sylvester",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scooterville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Minton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgeboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "County Line",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Isabella",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Piney Woods",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sylvester East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Poulan",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sumner",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shingler",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Red Rock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doles",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oakfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warwick",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2305,
+                "Precinct": [
+                  {
+                    "name": "Sylvester",
+                    "votes": 297
+                  },
+                  {
+                    "name": "Scooterville",
+                    "votes": 84
+                  },
+                  {
+                    "name": "Minton",
+                    "votes": 94
+                  },
+                  {
+                    "name": "Bridgeboro",
+                    "votes": 212
+                  },
+                  {
+                    "name": "County Line",
+                    "votes": 121
+                  },
+                  {
+                    "name": "Isabella",
+                    "votes": 360
+                  },
+                  {
+                    "name": "Piney Woods",
+                    "votes": 49
+                  },
+                  {
+                    "name": "Sylvester East",
+                    "votes": 319
+                  },
+                  {
+                    "name": "Poulan",
+                    "votes": 151
+                  },
+                  {
+                    "name": "Sumner",
+                    "votes": 146
+                  },
+                  {
+                    "name": "Shingler",
+                    "votes": 121
+                  },
+                  {
+                    "name": "Red Rock",
+                    "votes": 161
+                  },
+                  {
+                    "name": "Doles",
+                    "votes": 72
+                  },
+                  {
+                    "name": "Oakfield",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Warwick",
+                    "votes": 78
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 595,
+                "Precinct": [
+                  {
+                    "name": "Sylvester",
+                    "votes": 57
+                  },
+                  {
+                    "name": "Scooterville",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Minton",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Bridgeboro",
+                    "votes": 56
+                  },
+                  {
+                    "name": "County Line",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Isabella",
+                    "votes": 87
+                  },
+                  {
+                    "name": "Piney Woods",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Sylvester East",
+                    "votes": 79
+                  },
+                  {
+                    "name": "Poulan",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Sumner",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Shingler",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Red Rock",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Doles",
+                    "votes": 22
+                  },
+                  {
+                    "name": "Oakfield",
+                    "votes": 5
+                  },
+                  {
+                    "name": "Warwick",
+                    "votes": 36
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sylvester",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scooterville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Minton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgeboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "County Line",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Isabella",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Piney Woods",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sylvester East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Poulan",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sumner",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shingler",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Red Rock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doles",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oakfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warwick",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 1569,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sylvester",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scooterville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Minton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgeboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "County Line",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Isabella",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Piney Woods",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sylvester East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Poulan",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sumner",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shingler",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Red Rock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doles",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oakfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warwick",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 865,
+                "Precinct": [
+                  {
+                    "name": "Sylvester",
+                    "votes": 413
+                  },
+                  {
+                    "name": "Scooterville",
+                    "votes": 9
+                  },
+                  {
+                    "name": "Minton",
+                    "votes": 6
+                  },
+                  {
+                    "name": "Bridgeboro",
+                    "votes": 44
+                  },
+                  {
+                    "name": "County Line",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Isabella",
+                    "votes": 60
+                  },
+                  {
+                    "name": "Piney Woods",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Sylvester East",
+                    "votes": 84
+                  },
+                  {
+                    "name": "Poulan",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Sumner",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Shingler",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Red Rock",
+                    "votes": 55
+                  },
+                  {
+                    "name": "Doles",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Oakfield",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Warwick",
+                    "votes": 19
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 704,
+                "Precinct": [
+                  {
+                    "name": "Sylvester",
+                    "votes": 286
+                  },
+                  {
+                    "name": "Scooterville",
+                    "votes": 8
+                  },
+                  {
+                    "name": "Minton",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Bridgeboro",
+                    "votes": 29
+                  },
+                  {
+                    "name": "County Line",
+                    "votes": 38
+                  },
+                  {
+                    "name": "Isabella",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Piney Woods",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Sylvester East",
+                    "votes": 53
+                  },
+                  {
+                    "name": "Poulan",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Sumner",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Shingler",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Red Rock",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Doles",
+                    "votes": 7
+                  },
+                  {
+                    "name": "Oakfield",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Warwick",
+                    "votes": 71
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sylvester",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Scooterville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Minton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bridgeboro",
+                    "votes": 0
+                  },
+                  {
+                    "name": "County Line",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Isabella",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Piney Woods",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sylvester East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Poulan",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sumner",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shingler",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Red Rock",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Doles",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Oakfield",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warwick",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

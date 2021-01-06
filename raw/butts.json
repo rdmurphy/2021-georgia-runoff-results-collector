@@ -1,0 +1,404 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:08:41 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Butts",
+    "VoterTurnout": {
+      "totalVoters": 0,
+      "ballotsCast": 9750,
+      "voterTurnout": 0.0,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Butts County Admin Bldg",
+            "totalVoters": 0,
+            "ballotsCast": 9750,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 1,
+        "precinctsReported": 1,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 13,
+            "Precinct": [
+              {
+                "name": "Butts County Admin Bldg",
+                "votes": 13
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 1,
+            "Precinct": [
+              {
+                "name": "Butts County Admin Bldg",
+                "votes": 1
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 6964,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1896,
+                "Precinct": [
+                  {
+                    "name": "Butts County Admin Bldg",
+                    "votes": 1896
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 4483,
+                "Precinct": [
+                  {
+                    "name": "Butts County Admin Bldg",
+                    "votes": 4483
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 585,
+                "Precinct": [
+                  {
+                    "name": "Butts County Admin Bldg",
+                    "votes": 585
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Butts County Admin Bldg",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 2772,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 591,
+                "Precinct": [
+                  {
+                    "name": "Butts County Admin Bldg",
+                    "votes": 591
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1577,
+                "Precinct": [
+                  {
+                    "name": "Butts County Admin Bldg",
+                    "votes": 1577
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 604,
+                "Precinct": [
+                  {
+                    "name": "Butts County Admin Bldg",
+                    "votes": 604
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Butts County Admin Bldg",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 1,
+        "precinctsReported": 1,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 12,
+            "Precinct": [
+              {
+                "name": "Butts County Admin Bldg",
+                "votes": 12
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 2,
+            "Precinct": [
+              {
+                "name": "Butts County Admin Bldg",
+                "votes": 2
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 6945,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1893,
+                "Precinct": [
+                  {
+                    "name": "Butts County Admin Bldg",
+                    "votes": 1893
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 4468,
+                "Precinct": [
+                  {
+                    "name": "Butts County Admin Bldg",
+                    "votes": 4468
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 584,
+                "Precinct": [
+                  {
+                    "name": "Butts County Admin Bldg",
+                    "votes": 584
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Butts County Admin Bldg",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 2791,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 594,
+                "Precinct": [
+                  {
+                    "name": "Butts County Admin Bldg",
+                    "votes": 594
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1592,
+                "Precinct": [
+                  {
+                    "name": "Butts County Admin Bldg",
+                    "votes": 1592
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 605,
+                "Precinct": [
+                  {
+                    "name": "Butts County Admin Bldg",
+                    "votes": 605
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Butts County Admin Bldg",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 1,
+        "precinctsReported": 1,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 112,
+            "Precinct": [
+              {
+                "name": "Butts County Admin Bldg",
+                "votes": 112
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Butts County Admin Bldg",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 6993,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1903,
+                "Precinct": [
+                  {
+                    "name": "Butts County Admin Bldg",
+                    "votes": 1903
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 4502,
+                "Precinct": [
+                  {
+                    "name": "Butts County Admin Bldg",
+                    "votes": 4502
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 588,
+                "Precinct": [
+                  {
+                    "name": "Butts County Admin Bldg",
+                    "votes": 588
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Butts County Admin Bldg",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 2645,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 558,
+                "Precinct": [
+                  {
+                    "name": "Butts County Admin Bldg",
+                    "votes": 558
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1514,
+                "Precinct": [
+                  {
+                    "name": "Butts County Admin Bldg",
+                    "votes": 1514
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 573,
+                "Precinct": [
+                  {
+                    "name": "Butts County Admin Bldg",
+                    "votes": 573
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Butts County Admin Bldg",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

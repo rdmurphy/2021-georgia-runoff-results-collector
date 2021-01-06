@@ -1,0 +1,1166 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 7:51:44 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Brooks",
+    "VoterTurnout": {
+      "totalVoters": 0,
+      "ballotsCast": 3308,
+      "voterTurnout": 0.0,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Quitman",
+            "totalVoters": 0,
+            "ballotsCast": 1457,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Barwick",
+            "totalVoters": 0,
+            "ballotsCast": 59,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Dixie",
+            "totalVoters": 0,
+            "ballotsCast": 274,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Briggs",
+            "totalVoters": 0,
+            "ballotsCast": 539,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Nankin",
+            "totalVoters": 0,
+            "ballotsCast": 391,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Morven",
+            "totalVoters": 0,
+            "ballotsCast": 469,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Pavo",
+            "totalVoters": 0,
+            "ballotsCast": 119,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 7,
+        "precinctsReported": 2,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 8,
+            "Precinct": [
+              {
+                "name": "Quitman",
+                "votes": 3
+              },
+              {
+                "name": "Barwick",
+                "votes": 0
+              },
+              {
+                "name": "Dixie",
+                "votes": 3
+              },
+              {
+                "name": "Briggs",
+                "votes": 1
+              },
+              {
+                "name": "Nankin",
+                "votes": 1
+              },
+              {
+                "name": "Morven",
+                "votes": 0
+              },
+              {
+                "name": "Pavo",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Quitman",
+                "votes": 0
+              },
+              {
+                "name": "Barwick",
+                "votes": 0
+              },
+              {
+                "name": "Dixie",
+                "votes": 0
+              },
+              {
+                "name": "Briggs",
+                "votes": 0
+              },
+              {
+                "name": "Nankin",
+                "votes": 0
+              },
+              {
+                "name": "Morven",
+                "votes": 0
+              },
+              {
+                "name": "Pavo",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 2095,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 443,
+                "Precinct": [
+                  {
+                    "name": "Quitman",
+                    "votes": 238
+                  },
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dixie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Briggs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nankin",
+                    "votes": 205
+                  },
+                  {
+                    "name": "Morven",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1652,
+                "Precinct": [
+                  {
+                    "name": "Quitman",
+                    "votes": 449
+                  },
+                  {
+                    "name": "Barwick",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Dixie",
+                    "votes": 137
+                  },
+                  {
+                    "name": "Briggs",
+                    "votes": 435
+                  },
+                  {
+                    "name": "Nankin",
+                    "votes": 144
+                  },
+                  {
+                    "name": "Morven",
+                    "votes": 360
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 91
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Quitman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dixie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Briggs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nankin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morven",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Quitman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dixie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Briggs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nankin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morven",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 1205,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 278,
+                "Precinct": [
+                  {
+                    "name": "Quitman",
+                    "votes": 267
+                  },
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dixie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Briggs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nankin",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Morven",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 927,
+                "Precinct": [
+                  {
+                    "name": "Quitman",
+                    "votes": 500
+                  },
+                  {
+                    "name": "Barwick",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Dixie",
+                    "votes": 134
+                  },
+                  {
+                    "name": "Briggs",
+                    "votes": 103
+                  },
+                  {
+                    "name": "Nankin",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Morven",
+                    "votes": 109
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 28
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Quitman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dixie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Briggs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nankin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morven",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Quitman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dixie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Briggs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nankin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morven",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 7,
+        "precinctsReported": 2,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 7,
+            "Precinct": [
+              {
+                "name": "Quitman",
+                "votes": 2
+              },
+              {
+                "name": "Barwick",
+                "votes": 0
+              },
+              {
+                "name": "Dixie",
+                "votes": 1
+              },
+              {
+                "name": "Briggs",
+                "votes": 2
+              },
+              {
+                "name": "Nankin",
+                "votes": 0
+              },
+              {
+                "name": "Morven",
+                "votes": 2
+              },
+              {
+                "name": "Pavo",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Quitman",
+                "votes": 0
+              },
+              {
+                "name": "Barwick",
+                "votes": 0
+              },
+              {
+                "name": "Dixie",
+                "votes": 0
+              },
+              {
+                "name": "Briggs",
+                "votes": 0
+              },
+              {
+                "name": "Nankin",
+                "votes": 0
+              },
+              {
+                "name": "Morven",
+                "votes": 0
+              },
+              {
+                "name": "Pavo",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 2097,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 442,
+                "Precinct": [
+                  {
+                    "name": "Quitman",
+                    "votes": 237
+                  },
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dixie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Briggs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nankin",
+                    "votes": 205
+                  },
+                  {
+                    "name": "Morven",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1655,
+                "Precinct": [
+                  {
+                    "name": "Quitman",
+                    "votes": 453
+                  },
+                  {
+                    "name": "Barwick",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Dixie",
+                    "votes": 141
+                  },
+                  {
+                    "name": "Briggs",
+                    "votes": 434
+                  },
+                  {
+                    "name": "Nankin",
+                    "votes": 143
+                  },
+                  {
+                    "name": "Morven",
+                    "votes": 358
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 90
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Quitman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dixie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Briggs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nankin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morven",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Quitman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dixie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Briggs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nankin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morven",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 1204,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 279,
+                "Precinct": [
+                  {
+                    "name": "Quitman",
+                    "votes": 267
+                  },
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dixie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Briggs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nankin",
+                    "votes": 12
+                  },
+                  {
+                    "name": "Morven",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 925,
+                "Precinct": [
+                  {
+                    "name": "Quitman",
+                    "votes": 498
+                  },
+                  {
+                    "name": "Barwick",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Dixie",
+                    "votes": 132
+                  },
+                  {
+                    "name": "Briggs",
+                    "votes": 103
+                  },
+                  {
+                    "name": "Nankin",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Morven",
+                    "votes": 109
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 29
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Quitman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dixie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Briggs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nankin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morven",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Quitman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dixie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Briggs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nankin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morven",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 7,
+        "precinctsReported": 2,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 49,
+            "Precinct": [
+              {
+                "name": "Quitman",
+                "votes": 28
+              },
+              {
+                "name": "Barwick",
+                "votes": 0
+              },
+              {
+                "name": "Dixie",
+                "votes": 5
+              },
+              {
+                "name": "Briggs",
+                "votes": 3
+              },
+              {
+                "name": "Nankin",
+                "votes": 7
+              },
+              {
+                "name": "Morven",
+                "votes": 5
+              },
+              {
+                "name": "Pavo",
+                "votes": 1
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Quitman",
+                "votes": 0
+              },
+              {
+                "name": "Barwick",
+                "votes": 0
+              },
+              {
+                "name": "Dixie",
+                "votes": 0
+              },
+              {
+                "name": "Briggs",
+                "votes": 0
+              },
+              {
+                "name": "Nankin",
+                "votes": 0
+              },
+              {
+                "name": "Morven",
+                "votes": 0
+              },
+              {
+                "name": "Pavo",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 2092,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 438,
+                "Precinct": [
+                  {
+                    "name": "Quitman",
+                    "votes": 239
+                  },
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dixie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Briggs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nankin",
+                    "votes": 199
+                  },
+                  {
+                    "name": "Morven",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1654,
+                "Precinct": [
+                  {
+                    "name": "Quitman",
+                    "votes": 447
+                  },
+                  {
+                    "name": "Barwick",
+                    "votes": 37
+                  },
+                  {
+                    "name": "Dixie",
+                    "votes": 141
+                  },
+                  {
+                    "name": "Briggs",
+                    "votes": 438
+                  },
+                  {
+                    "name": "Nankin",
+                    "votes": 143
+                  },
+                  {
+                    "name": "Morven",
+                    "votes": 357
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 91
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Quitman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dixie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Briggs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nankin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morven",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Quitman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dixie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Briggs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nankin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morven",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 1167,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 273,
+                "Precinct": [
+                  {
+                    "name": "Quitman",
+                    "votes": 260
+                  },
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dixie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Briggs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nankin",
+                    "votes": 13
+                  },
+                  {
+                    "name": "Morven",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 894,
+                "Precinct": [
+                  {
+                    "name": "Quitman",
+                    "votes": 483
+                  },
+                  {
+                    "name": "Barwick",
+                    "votes": 22
+                  },
+                  {
+                    "name": "Dixie",
+                    "votes": 128
+                  },
+                  {
+                    "name": "Briggs",
+                    "votes": 98
+                  },
+                  {
+                    "name": "Nankin",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Morven",
+                    "votes": 107
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 27
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Quitman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dixie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Briggs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nankin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morven",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Quitman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Barwick",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dixie",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Briggs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Nankin",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morven",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Pavo",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

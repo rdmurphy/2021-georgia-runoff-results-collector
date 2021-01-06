@@ -1,0 +1,404 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:07:18 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Candler",
+    "VoterTurnout": {
+      "totalVoters": 0,
+      "ballotsCast": 3919,
+      "voterTurnout": 0.0,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Jack Strickland Comm Center",
+            "totalVoters": 0,
+            "ballotsCast": 3919,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 1,
+        "precinctsReported": 1,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 6,
+            "Precinct": [
+              {
+                "name": "Jack Strickland Comm Center",
+                "votes": 6
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Jack Strickland Comm Center",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 2780,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 846,
+                "Precinct": [
+                  {
+                    "name": "Jack Strickland Comm Center",
+                    "votes": 846
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1662,
+                "Precinct": [
+                  {
+                    "name": "Jack Strickland Comm Center",
+                    "votes": 1662
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 272,
+                "Precinct": [
+                  {
+                    "name": "Jack Strickland Comm Center",
+                    "votes": 272
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Jack Strickland Comm Center",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 1133,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 215,
+                "Precinct": [
+                  {
+                    "name": "Jack Strickland Comm Center",
+                    "votes": 215
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 583,
+                "Precinct": [
+                  {
+                    "name": "Jack Strickland Comm Center",
+                    "votes": 583
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 335,
+                "Precinct": [
+                  {
+                    "name": "Jack Strickland Comm Center",
+                    "votes": 335
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Jack Strickland Comm Center",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 1,
+        "precinctsReported": 1,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 3,
+            "Precinct": [
+              {
+                "name": "Jack Strickland Comm Center",
+                "votes": 3
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Jack Strickland Comm Center",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 2786,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 847,
+                "Precinct": [
+                  {
+                    "name": "Jack Strickland Comm Center",
+                    "votes": 847
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1667,
+                "Precinct": [
+                  {
+                    "name": "Jack Strickland Comm Center",
+                    "votes": 1667
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 272,
+                "Precinct": [
+                  {
+                    "name": "Jack Strickland Comm Center",
+                    "votes": 272
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Jack Strickland Comm Center",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 1130,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 213,
+                "Precinct": [
+                  {
+                    "name": "Jack Strickland Comm Center",
+                    "votes": 213
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 582,
+                "Precinct": [
+                  {
+                    "name": "Jack Strickland Comm Center",
+                    "votes": 582
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 335,
+                "Precinct": [
+                  {
+                    "name": "Jack Strickland Comm Center",
+                    "votes": 335
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Jack Strickland Comm Center",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 1,
+        "precinctsReported": 1,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 64,
+            "Precinct": [
+              {
+                "name": "Jack Strickland Comm Center",
+                "votes": 64
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Jack Strickland Comm Center",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 2790,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 845,
+                "Precinct": [
+                  {
+                    "name": "Jack Strickland Comm Center",
+                    "votes": 845
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1658,
+                "Precinct": [
+                  {
+                    "name": "Jack Strickland Comm Center",
+                    "votes": 1658
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 287,
+                "Precinct": [
+                  {
+                    "name": "Jack Strickland Comm Center",
+                    "votes": 287
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Jack Strickland Comm Center",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 1065,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 205,
+                "Precinct": [
+                  {
+                    "name": "Jack Strickland Comm Center",
+                    "votes": 205
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 556,
+                "Precinct": [
+                  {
+                    "name": "Jack Strickland Comm Center",
+                    "votes": 556
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 304,
+                "Precinct": [
+                  {
+                    "name": "Jack Strickland Comm Center",
+                    "votes": 304
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Jack Strickland Comm Center",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

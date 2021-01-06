@@ -1,0 +1,1928 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 7:55:10 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Lowndes",
+    "VoterTurnout": {
+      "totalVoters": 77364,
+      "ballotsCast": 27628,
+      "voterTurnout": 35.71,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Hahira Train Depot",
+            "totalVoters": 5687,
+            "ballotsCast": 1907,
+            "voterTurnout": 33.53,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Trinity",
+            "totalVoters": 11147,
+            "ballotsCast": 4171,
+            "voterTurnout": 37.42,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Northside",
+            "totalVoters": 17932,
+            "ballotsCast": 7274,
+            "voterTurnout": 40.56,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Naylor",
+            "totalVoters": 1308,
+            "ballotsCast": 478,
+            "voterTurnout": 36.54,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Rainwater",
+            "totalVoters": 10115,
+            "ballotsCast": 4172,
+            "voterTurnout": 41.25,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Mildred",
+            "totalVoters": 4400,
+            "ballotsCast": 1367,
+            "voterTurnout": 31.07,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Clyattville",
+            "totalVoters": 4854,
+            "ballotsCast": 1514,
+            "voterTurnout": 31.19,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Dasher",
+            "totalVoters": 4365,
+            "ballotsCast": 1474,
+            "voterTurnout": 33.77,
+            "percentReporting": "2"
+          },
+          {
+            "name": "S Lowndes",
+            "totalVoters": 4082,
+            "ballotsCast": 1280,
+            "voterTurnout": 31.36,
+            "percentReporting": "2"
+          },
+          {
+            "name": "VSU UC # 2",
+            "totalVoters": 339,
+            "ballotsCast": 35,
+            "voterTurnout": 10.32,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Jaycee Shack",
+            "totalVoters": 6449,
+            "ballotsCast": 2117,
+            "voterTurnout": 32.83,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Northgate Assembly",
+            "totalVoters": 2033,
+            "ballotsCast": 642,
+            "voterTurnout": 31.58,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Mt Calvary",
+            "totalVoters": 4653,
+            "ballotsCast": 1197,
+            "voterTurnout": 25.73,
+            "percentReporting": "2"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 13,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 75,
+            "Precinct": [
+              {
+                "name": "Hahira Train Depot",
+                "votes": 1
+              },
+              {
+                "name": "Trinity",
+                "votes": 8
+              },
+              {
+                "name": "Northside",
+                "votes": 20
+              },
+              {
+                "name": "Naylor",
+                "votes": 0
+              },
+              {
+                "name": "Rainwater",
+                "votes": 8
+              },
+              {
+                "name": "Mildred",
+                "votes": 11
+              },
+              {
+                "name": "Clyattville",
+                "votes": 3
+              },
+              {
+                "name": "Dasher",
+                "votes": 4
+              },
+              {
+                "name": "S Lowndes",
+                "votes": 2
+              },
+              {
+                "name": "VSU UC # 2",
+                "votes": 0
+              },
+              {
+                "name": "Jaycee Shack",
+                "votes": 7
+              },
+              {
+                "name": "Northgate Assembly",
+                "votes": 5
+              },
+              {
+                "name": "Mt Calvary",
+                "votes": 6
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Hahira Train Depot",
+                "votes": 0
+              },
+              {
+                "name": "Trinity",
+                "votes": 0
+              },
+              {
+                "name": "Northside",
+                "votes": 0
+              },
+              {
+                "name": "Naylor",
+                "votes": 0
+              },
+              {
+                "name": "Rainwater",
+                "votes": 0
+              },
+              {
+                "name": "Mildred",
+                "votes": 0
+              },
+              {
+                "name": "Clyattville",
+                "votes": 0
+              },
+              {
+                "name": "Dasher",
+                "votes": 0
+              },
+              {
+                "name": "S Lowndes",
+                "votes": 0
+              },
+              {
+                "name": "VSU UC # 2",
+                "votes": 0
+              },
+              {
+                "name": "Jaycee Shack",
+                "votes": 0
+              },
+              {
+                "name": "Northgate Assembly",
+                "votes": 0
+              },
+              {
+                "name": "Mt Calvary",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 14131,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Hahira Train Depot",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trinity",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northside",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Naylor",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rainwater",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mildred",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Clyattville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dasher",
+                    "votes": 0
+                  },
+                  {
+                    "name": "S Lowndes",
+                    "votes": 0
+                  },
+                  {
+                    "name": "VSU UC # 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jaycee Shack",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northgate Assembly",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mt Calvary",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 11675,
+                "Precinct": [
+                  {
+                    "name": "Hahira Train Depot",
+                    "votes": 1194
+                  },
+                  {
+                    "name": "Trinity",
+                    "votes": 1638
+                  },
+                  {
+                    "name": "Northside",
+                    "votes": 3321
+                  },
+                  {
+                    "name": "Naylor",
+                    "votes": 234
+                  },
+                  {
+                    "name": "Rainwater",
+                    "votes": 2077
+                  },
+                  {
+                    "name": "Mildred",
+                    "votes": 135
+                  },
+                  {
+                    "name": "Clyattville",
+                    "votes": 800
+                  },
+                  {
+                    "name": "Dasher",
+                    "votes": 974
+                  },
+                  {
+                    "name": "S Lowndes",
+                    "votes": 712
+                  },
+                  {
+                    "name": "VSU UC # 2",
+                    "votes": 2
+                  },
+                  {
+                    "name": "Jaycee Shack",
+                    "votes": 272
+                  },
+                  {
+                    "name": "Northgate Assembly",
+                    "votes": 270
+                  },
+                  {
+                    "name": "Mt Calvary",
+                    "votes": 46
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 2456,
+                "Precinct": [
+                  {
+                    "name": "Hahira Train Depot",
+                    "votes": 200
+                  },
+                  {
+                    "name": "Trinity",
+                    "votes": 308
+                  },
+                  {
+                    "name": "Northside",
+                    "votes": 720
+                  },
+                  {
+                    "name": "Naylor",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Rainwater",
+                    "votes": 451
+                  },
+                  {
+                    "name": "Mildred",
+                    "votes": 28
+                  },
+                  {
+                    "name": "Clyattville",
+                    "votes": 174
+                  },
+                  {
+                    "name": "Dasher",
+                    "votes": 163
+                  },
+                  {
+                    "name": "S Lowndes",
+                    "votes": 194
+                  },
+                  {
+                    "name": "VSU UC # 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jaycee Shack",
+                    "votes": 84
+                  },
+                  {
+                    "name": "Northgate Assembly",
+                    "votes": 65
+                  },
+                  {
+                    "name": "Mt Calvary",
+                    "votes": 29
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Hahira Train Depot",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trinity",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northside",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Naylor",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rainwater",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mildred",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Clyattville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dasher",
+                    "votes": 0
+                  },
+                  {
+                    "name": "S Lowndes",
+                    "votes": 0
+                  },
+                  {
+                    "name": "VSU UC # 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jaycee Shack",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northgate Assembly",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mt Calvary",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 13422,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Hahira Train Depot",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trinity",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northside",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Naylor",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rainwater",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mildred",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Clyattville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dasher",
+                    "votes": 0
+                  },
+                  {
+                    "name": "S Lowndes",
+                    "votes": 0
+                  },
+                  {
+                    "name": "VSU UC # 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jaycee Shack",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northgate Assembly",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mt Calvary",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 8362,
+                "Precinct": [
+                  {
+                    "name": "Hahira Train Depot",
+                    "votes": 313
+                  },
+                  {
+                    "name": "Trinity",
+                    "votes": 1446
+                  },
+                  {
+                    "name": "Northside",
+                    "votes": 1904
+                  },
+                  {
+                    "name": "Naylor",
+                    "votes": 140
+                  },
+                  {
+                    "name": "Rainwater",
+                    "votes": 1062
+                  },
+                  {
+                    "name": "Mildred",
+                    "votes": 691
+                  },
+                  {
+                    "name": "Clyattville",
+                    "votes": 301
+                  },
+                  {
+                    "name": "Dasher",
+                    "votes": 207
+                  },
+                  {
+                    "name": "S Lowndes",
+                    "votes": 202
+                  },
+                  {
+                    "name": "VSU UC # 2",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Jaycee Shack",
+                    "votes": 1187
+                  },
+                  {
+                    "name": "Northgate Assembly",
+                    "votes": 177
+                  },
+                  {
+                    "name": "Mt Calvary",
+                    "votes": 714
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 5060,
+                "Precinct": [
+                  {
+                    "name": "Hahira Train Depot",
+                    "votes": 199
+                  },
+                  {
+                    "name": "Trinity",
+                    "votes": 771
+                  },
+                  {
+                    "name": "Northside",
+                    "votes": 1309
+                  },
+                  {
+                    "name": "Naylor",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Rainwater",
+                    "votes": 574
+                  },
+                  {
+                    "name": "Mildred",
+                    "votes": 502
+                  },
+                  {
+                    "name": "Clyattville",
+                    "votes": 236
+                  },
+                  {
+                    "name": "Dasher",
+                    "votes": 126
+                  },
+                  {
+                    "name": "S Lowndes",
+                    "votes": 170
+                  },
+                  {
+                    "name": "VSU UC # 2",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Jaycee Shack",
+                    "votes": 567
+                  },
+                  {
+                    "name": "Northgate Assembly",
+                    "votes": 125
+                  },
+                  {
+                    "name": "Mt Calvary",
+                    "votes": 402
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Hahira Train Depot",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trinity",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northside",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Naylor",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rainwater",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mildred",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Clyattville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dasher",
+                    "votes": 0
+                  },
+                  {
+                    "name": "S Lowndes",
+                    "votes": 0
+                  },
+                  {
+                    "name": "VSU UC # 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jaycee Shack",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northgate Assembly",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mt Calvary",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 13,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 62,
+            "Precinct": [
+              {
+                "name": "Hahira Train Depot",
+                "votes": 5
+              },
+              {
+                "name": "Trinity",
+                "votes": 10
+              },
+              {
+                "name": "Northside",
+                "votes": 14
+              },
+              {
+                "name": "Naylor",
+                "votes": 0
+              },
+              {
+                "name": "Rainwater",
+                "votes": 8
+              },
+              {
+                "name": "Mildred",
+                "votes": 4
+              },
+              {
+                "name": "Clyattville",
+                "votes": 4
+              },
+              {
+                "name": "Dasher",
+                "votes": 2
+              },
+              {
+                "name": "S Lowndes",
+                "votes": 3
+              },
+              {
+                "name": "VSU UC # 2",
+                "votes": 0
+              },
+              {
+                "name": "Jaycee Shack",
+                "votes": 5
+              },
+              {
+                "name": "Northgate Assembly",
+                "votes": 5
+              },
+              {
+                "name": "Mt Calvary",
+                "votes": 2
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Hahira Train Depot",
+                "votes": 0
+              },
+              {
+                "name": "Trinity",
+                "votes": 0
+              },
+              {
+                "name": "Northside",
+                "votes": 0
+              },
+              {
+                "name": "Naylor",
+                "votes": 0
+              },
+              {
+                "name": "Rainwater",
+                "votes": 0
+              },
+              {
+                "name": "Mildred",
+                "votes": 0
+              },
+              {
+                "name": "Clyattville",
+                "votes": 0
+              },
+              {
+                "name": "Dasher",
+                "votes": 0
+              },
+              {
+                "name": "S Lowndes",
+                "votes": 0
+              },
+              {
+                "name": "VSU UC # 2",
+                "votes": 0
+              },
+              {
+                "name": "Jaycee Shack",
+                "votes": 0
+              },
+              {
+                "name": "Northgate Assembly",
+                "votes": 0
+              },
+              {
+                "name": "Mt Calvary",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 14132,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Hahira Train Depot",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trinity",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northside",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Naylor",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rainwater",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mildred",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Clyattville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dasher",
+                    "votes": 0
+                  },
+                  {
+                    "name": "S Lowndes",
+                    "votes": 0
+                  },
+                  {
+                    "name": "VSU UC # 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jaycee Shack",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northgate Assembly",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mt Calvary",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 11675,
+                "Precinct": [
+                  {
+                    "name": "Hahira Train Depot",
+                    "votes": 1190
+                  },
+                  {
+                    "name": "Trinity",
+                    "votes": 1637
+                  },
+                  {
+                    "name": "Northside",
+                    "votes": 3323
+                  },
+                  {
+                    "name": "Naylor",
+                    "votes": 233
+                  },
+                  {
+                    "name": "Rainwater",
+                    "votes": 2080
+                  },
+                  {
+                    "name": "Mildred",
+                    "votes": 137
+                  },
+                  {
+                    "name": "Clyattville",
+                    "votes": 800
+                  },
+                  {
+                    "name": "Dasher",
+                    "votes": 974
+                  },
+                  {
+                    "name": "S Lowndes",
+                    "votes": 712
+                  },
+                  {
+                    "name": "VSU UC # 2",
+                    "votes": 2
+                  },
+                  {
+                    "name": "Jaycee Shack",
+                    "votes": 273
+                  },
+                  {
+                    "name": "Northgate Assembly",
+                    "votes": 268
+                  },
+                  {
+                    "name": "Mt Calvary",
+                    "votes": 46
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 2457,
+                "Precinct": [
+                  {
+                    "name": "Hahira Train Depot",
+                    "votes": 204
+                  },
+                  {
+                    "name": "Trinity",
+                    "votes": 303
+                  },
+                  {
+                    "name": "Northside",
+                    "votes": 714
+                  },
+                  {
+                    "name": "Naylor",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Rainwater",
+                    "votes": 458
+                  },
+                  {
+                    "name": "Mildred",
+                    "votes": 28
+                  },
+                  {
+                    "name": "Clyattville",
+                    "votes": 176
+                  },
+                  {
+                    "name": "Dasher",
+                    "votes": 163
+                  },
+                  {
+                    "name": "S Lowndes",
+                    "votes": 190
+                  },
+                  {
+                    "name": "VSU UC # 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jaycee Shack",
+                    "votes": 87
+                  },
+                  {
+                    "name": "Northgate Assembly",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Mt Calvary",
+                    "votes": 30
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Hahira Train Depot",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trinity",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northside",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Naylor",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rainwater",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mildred",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Clyattville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dasher",
+                    "votes": 0
+                  },
+                  {
+                    "name": "S Lowndes",
+                    "votes": 0
+                  },
+                  {
+                    "name": "VSU UC # 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jaycee Shack",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northgate Assembly",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mt Calvary",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 13434,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Hahira Train Depot",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trinity",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northside",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Naylor",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rainwater",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mildred",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Clyattville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dasher",
+                    "votes": 0
+                  },
+                  {
+                    "name": "S Lowndes",
+                    "votes": 0
+                  },
+                  {
+                    "name": "VSU UC # 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jaycee Shack",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northgate Assembly",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mt Calvary",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 8374,
+                "Precinct": [
+                  {
+                    "name": "Hahira Train Depot",
+                    "votes": 313
+                  },
+                  {
+                    "name": "Trinity",
+                    "votes": 1450
+                  },
+                  {
+                    "name": "Northside",
+                    "votes": 1904
+                  },
+                  {
+                    "name": "Naylor",
+                    "votes": 141
+                  },
+                  {
+                    "name": "Rainwater",
+                    "votes": 1060
+                  },
+                  {
+                    "name": "Mildred",
+                    "votes": 696
+                  },
+                  {
+                    "name": "Clyattville",
+                    "votes": 300
+                  },
+                  {
+                    "name": "Dasher",
+                    "votes": 209
+                  },
+                  {
+                    "name": "S Lowndes",
+                    "votes": 203
+                  },
+                  {
+                    "name": "VSU UC # 2",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Jaycee Shack",
+                    "votes": 1187
+                  },
+                  {
+                    "name": "Northgate Assembly",
+                    "votes": 179
+                  },
+                  {
+                    "name": "Mt Calvary",
+                    "votes": 714
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 5060,
+                "Precinct": [
+                  {
+                    "name": "Hahira Train Depot",
+                    "votes": 195
+                  },
+                  {
+                    "name": "Trinity",
+                    "votes": 771
+                  },
+                  {
+                    "name": "Northside",
+                    "votes": 1319
+                  },
+                  {
+                    "name": "Naylor",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Rainwater",
+                    "votes": 566
+                  },
+                  {
+                    "name": "Mildred",
+                    "votes": 502
+                  },
+                  {
+                    "name": "Clyattville",
+                    "votes": 234
+                  },
+                  {
+                    "name": "Dasher",
+                    "votes": 126
+                  },
+                  {
+                    "name": "S Lowndes",
+                    "votes": 172
+                  },
+                  {
+                    "name": "VSU UC # 2",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Jaycee Shack",
+                    "votes": 565
+                  },
+                  {
+                    "name": "Northgate Assembly",
+                    "votes": 126
+                  },
+                  {
+                    "name": "Mt Calvary",
+                    "votes": 405
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Hahira Train Depot",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trinity",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northside",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Naylor",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rainwater",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mildred",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Clyattville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dasher",
+                    "votes": 0
+                  },
+                  {
+                    "name": "S Lowndes",
+                    "votes": 0
+                  },
+                  {
+                    "name": "VSU UC # 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jaycee Shack",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northgate Assembly",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mt Calvary",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 13,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 322,
+            "Precinct": [
+              {
+                "name": "Hahira Train Depot",
+                "votes": 26
+              },
+              {
+                "name": "Trinity",
+                "votes": 38
+              },
+              {
+                "name": "Northside",
+                "votes": 105
+              },
+              {
+                "name": "Naylor",
+                "votes": 5
+              },
+              {
+                "name": "Rainwater",
+                "votes": 54
+              },
+              {
+                "name": "Mildred",
+                "votes": 19
+              },
+              {
+                "name": "Clyattville",
+                "votes": 13
+              },
+              {
+                "name": "Dasher",
+                "votes": 17
+              },
+              {
+                "name": "S Lowndes",
+                "votes": 8
+              },
+              {
+                "name": "VSU UC # 2",
+                "votes": 1
+              },
+              {
+                "name": "Jaycee Shack",
+                "votes": 21
+              },
+              {
+                "name": "Northgate Assembly",
+                "votes": 2
+              },
+              {
+                "name": "Mt Calvary",
+                "votes": 13
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Hahira Train Depot",
+                "votes": 0
+              },
+              {
+                "name": "Trinity",
+                "votes": 0
+              },
+              {
+                "name": "Northside",
+                "votes": 0
+              },
+              {
+                "name": "Naylor",
+                "votes": 0
+              },
+              {
+                "name": "Rainwater",
+                "votes": 0
+              },
+              {
+                "name": "Mildred",
+                "votes": 0
+              },
+              {
+                "name": "Clyattville",
+                "votes": 0
+              },
+              {
+                "name": "Dasher",
+                "votes": 0
+              },
+              {
+                "name": "S Lowndes",
+                "votes": 0
+              },
+              {
+                "name": "VSU UC # 2",
+                "votes": 0
+              },
+              {
+                "name": "Jaycee Shack",
+                "votes": 0
+              },
+              {
+                "name": "Northgate Assembly",
+                "votes": 0
+              },
+              {
+                "name": "Mt Calvary",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 14146,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Hahira Train Depot",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trinity",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northside",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Naylor",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rainwater",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mildred",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Clyattville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dasher",
+                    "votes": 0
+                  },
+                  {
+                    "name": "S Lowndes",
+                    "votes": 0
+                  },
+                  {
+                    "name": "VSU UC # 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jaycee Shack",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northgate Assembly",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mt Calvary",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 11662,
+                "Precinct": [
+                  {
+                    "name": "Hahira Train Depot",
+                    "votes": 1189
+                  },
+                  {
+                    "name": "Trinity",
+                    "votes": 1640
+                  },
+                  {
+                    "name": "Northside",
+                    "votes": 3326
+                  },
+                  {
+                    "name": "Naylor",
+                    "votes": 232
+                  },
+                  {
+                    "name": "Rainwater",
+                    "votes": 2076
+                  },
+                  {
+                    "name": "Mildred",
+                    "votes": 132
+                  },
+                  {
+                    "name": "Clyattville",
+                    "votes": 796
+                  },
+                  {
+                    "name": "Dasher",
+                    "votes": 963
+                  },
+                  {
+                    "name": "S Lowndes",
+                    "votes": 714
+                  },
+                  {
+                    "name": "VSU UC # 2",
+                    "votes": 2
+                  },
+                  {
+                    "name": "Jaycee Shack",
+                    "votes": 274
+                  },
+                  {
+                    "name": "Northgate Assembly",
+                    "votes": 271
+                  },
+                  {
+                    "name": "Mt Calvary",
+                    "votes": 47
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 2484,
+                "Precinct": [
+                  {
+                    "name": "Hahira Train Depot",
+                    "votes": 201
+                  },
+                  {
+                    "name": "Trinity",
+                    "votes": 298
+                  },
+                  {
+                    "name": "Northside",
+                    "votes": 748
+                  },
+                  {
+                    "name": "Naylor",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Rainwater",
+                    "votes": 451
+                  },
+                  {
+                    "name": "Mildred",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Clyattville",
+                    "votes": 174
+                  },
+                  {
+                    "name": "Dasher",
+                    "votes": 167
+                  },
+                  {
+                    "name": "S Lowndes",
+                    "votes": 197
+                  },
+                  {
+                    "name": "VSU UC # 2",
+                    "votes": 1
+                  },
+                  {
+                    "name": "Jaycee Shack",
+                    "votes": 88
+                  },
+                  {
+                    "name": "Northgate Assembly",
+                    "votes": 63
+                  },
+                  {
+                    "name": "Mt Calvary",
+                    "votes": 30
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Hahira Train Depot",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trinity",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northside",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Naylor",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rainwater",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mildred",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Clyattville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dasher",
+                    "votes": 0
+                  },
+                  {
+                    "name": "S Lowndes",
+                    "votes": 0
+                  },
+                  {
+                    "name": "VSU UC # 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jaycee Shack",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northgate Assembly",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mt Calvary",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 13160,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Hahira Train Depot",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trinity",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northside",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Naylor",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rainwater",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mildred",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Clyattville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dasher",
+                    "votes": 0
+                  },
+                  {
+                    "name": "S Lowndes",
+                    "votes": 0
+                  },
+                  {
+                    "name": "VSU UC # 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jaycee Shack",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northgate Assembly",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mt Calvary",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 8234,
+                "Precinct": [
+                  {
+                    "name": "Hahira Train Depot",
+                    "votes": 302
+                  },
+                  {
+                    "name": "Trinity",
+                    "votes": 1429
+                  },
+                  {
+                    "name": "Northside",
+                    "votes": 1852
+                  },
+                  {
+                    "name": "Naylor",
+                    "votes": 137
+                  },
+                  {
+                    "name": "Rainwater",
+                    "votes": 1046
+                  },
+                  {
+                    "name": "Mildred",
+                    "votes": 688
+                  },
+                  {
+                    "name": "Clyattville",
+                    "votes": 295
+                  },
+                  {
+                    "name": "Dasher",
+                    "votes": 211
+                  },
+                  {
+                    "name": "S Lowndes",
+                    "votes": 197
+                  },
+                  {
+                    "name": "VSU UC # 2",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Jaycee Shack",
+                    "votes": 1176
+                  },
+                  {
+                    "name": "Northgate Assembly",
+                    "votes": 176
+                  },
+                  {
+                    "name": "Mt Calvary",
+                    "votes": 707
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 4926,
+                "Precinct": [
+                  {
+                    "name": "Hahira Train Depot",
+                    "votes": 189
+                  },
+                  {
+                    "name": "Trinity",
+                    "votes": 766
+                  },
+                  {
+                    "name": "Northside",
+                    "votes": 1243
+                  },
+                  {
+                    "name": "Naylor",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Rainwater",
+                    "votes": 545
+                  },
+                  {
+                    "name": "Mildred",
+                    "votes": 502
+                  },
+                  {
+                    "name": "Clyattville",
+                    "votes": 236
+                  },
+                  {
+                    "name": "Dasher",
+                    "votes": 116
+                  },
+                  {
+                    "name": "S Lowndes",
+                    "votes": 164
+                  },
+                  {
+                    "name": "VSU UC # 2",
+                    "votes": 13
+                  },
+                  {
+                    "name": "Jaycee Shack",
+                    "votes": 558
+                  },
+                  {
+                    "name": "Northgate Assembly",
+                    "votes": 130
+                  },
+                  {
+                    "name": "Mt Calvary",
+                    "votes": 400
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Hahira Train Depot",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Trinity",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northside",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Naylor",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rainwater",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mildred",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Clyattville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Dasher",
+                    "votes": 0
+                  },
+                  {
+                    "name": "S Lowndes",
+                    "votes": 0
+                  },
+                  {
+                    "name": "VSU UC # 2",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jaycee Shack",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northgate Assembly",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mt Calvary",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
