@@ -1,28 +1,28 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:49:52 PM EST",
+    "Timestamp": "1/5/2021 9:48:59 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Taliaferro",
     "VoterTurnout": {
       "totalVoters": 0,
-      "ballotsCast": 0,
+      "ballotsCast": 848,
       "voterTurnout": 0.0,
       "Precincts": {
         "Precinct": [
           {
             "name": "Sharon",
             "totalVoters": 0,
-            "ballotsCast": 0,
+            "ballotsCast": 172,
             "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "percentReporting": "4"
           },
           {
             "name": "Crawfordville",
             "totalVoters": 0,
-            "ballotsCast": 0,
+            "ballotsCast": 676,
             "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "percentReporting": "4"
           }
         ]
       }
@@ -34,19 +34,19 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 2,
-        "precinctsReported": 0,
+        "precinctsReported": 2,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 0,
+            "votes": 4,
             "Precinct": [
               {
                 "name": "Sharon",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Crawfordville",
-                "votes": 0
+                "votes": 2
               }
             ]
           },
@@ -69,47 +69,47 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 0,
+            "totalVotes": 332,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 136,
                 "Precinct": [
                   {
                     "name": "Sharon",
-                    "votes": 0
+                    "votes": 43
                   },
                   {
                     "name": "Crawfordville",
-                    "votes": 0
+                    "votes": 93
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 148,
                 "Precinct": [
                   {
                     "name": "Sharon",
-                    "votes": 0
+                    "votes": 16
                   },
                   {
                     "name": "Crawfordville",
-                    "votes": 0
+                    "votes": 132
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 48,
                 "Precinct": [
                   {
                     "name": "Sharon",
-                    "votes": 0
+                    "votes": 6
                   },
                   {
                     "name": "Crawfordville",
-                    "votes": 0
+                    "votes": 42
                   }
                 ]
               },
@@ -132,47 +132,47 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 0,
+            "totalVotes": 512,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 120,
                 "Precinct": [
                   {
                     "name": "Sharon",
-                    "votes": 0
+                    "votes": 32
                   },
                   {
                     "name": "Crawfordville",
-                    "votes": 0
+                    "votes": 88
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 184,
                 "Precinct": [
                   {
                     "name": "Sharon",
-                    "votes": 0
+                    "votes": 32
                   },
                   {
                     "name": "Crawfordville",
-                    "votes": 0
+                    "votes": 152
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 208,
                 "Precinct": [
                   {
                     "name": "Sharon",
-                    "votes": 0
+                    "votes": 41
                   },
                   {
                     "name": "Crawfordville",
-                    "votes": 0
+                    "votes": 167
                   }
                 ]
               },
@@ -200,19 +200,19 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 2,
-        "precinctsReported": 0,
+        "precinctsReported": 2,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 0,
+            "votes": 2,
             "Precinct": [
               {
                 "name": "Sharon",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Crawfordville",
-                "votes": 0
+                "votes": 1
               }
             ]
           },
@@ -235,47 +235,47 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 0,
+            "totalVotes": 333,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 135,
                 "Precinct": [
                   {
                     "name": "Sharon",
-                    "votes": 0
+                    "votes": 45
                   },
                   {
                     "name": "Crawfordville",
-                    "votes": 0
+                    "votes": 90
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 150,
                 "Precinct": [
                   {
                     "name": "Sharon",
-                    "votes": 0
+                    "votes": 17
                   },
                   {
                     "name": "Crawfordville",
-                    "votes": 0
+                    "votes": 133
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 48,
                 "Precinct": [
                   {
                     "name": "Sharon",
-                    "votes": 0
+                    "votes": 5
                   },
                   {
                     "name": "Crawfordville",
-                    "votes": 0
+                    "votes": 43
                   }
                 ]
               },
@@ -298,47 +298,47 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 0,
+            "totalVotes": 513,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 122,
                 "Precinct": [
                   {
                     "name": "Sharon",
-                    "votes": 0
+                    "votes": 31
                   },
                   {
                     "name": "Crawfordville",
-                    "votes": 0
+                    "votes": 91
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 183,
                 "Precinct": [
                   {
                     "name": "Sharon",
-                    "votes": 0
+                    "votes": 31
                   },
                   {
                     "name": "Crawfordville",
-                    "votes": 0
+                    "votes": 152
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 208,
                 "Precinct": [
                   {
                     "name": "Sharon",
-                    "votes": 0
+                    "votes": 42
                   },
                   {
                     "name": "Crawfordville",
-                    "votes": 0
+                    "votes": 166
                   }
                 ]
               },
@@ -366,19 +366,19 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 2,
-        "precinctsReported": 0,
+        "precinctsReported": 2,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 0,
+            "votes": 32,
             "Precinct": [
               {
                 "name": "Sharon",
-                "votes": 0
+                "votes": 6
               },
               {
                 "name": "Crawfordville",
-                "votes": 0
+                "votes": 26
               }
             ]
           },
@@ -401,47 +401,47 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 0,
+            "totalVotes": 328,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 136,
                 "Precinct": [
                   {
                     "name": "Sharon",
-                    "votes": 0
+                    "votes": 45
                   },
                   {
                     "name": "Crawfordville",
-                    "votes": 0
+                    "votes": 91
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 146,
                 "Precinct": [
                   {
                     "name": "Sharon",
-                    "votes": 0
+                    "votes": 17
                   },
                   {
                     "name": "Crawfordville",
-                    "votes": 0
+                    "votes": 129
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 46,
                 "Precinct": [
                   {
                     "name": "Sharon",
-                    "votes": 0
+                    "votes": 6
                   },
                   {
                     "name": "Crawfordville",
-                    "votes": 0
+                    "votes": 40
                   }
                 ]
               },
@@ -464,47 +464,47 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 0,
+            "totalVotes": 488,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 116,
                 "Precinct": [
                   {
                     "name": "Sharon",
-                    "votes": 0
+                    "votes": 30
                   },
                   {
                     "name": "Crawfordville",
-                    "votes": 0
+                    "votes": 86
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 174,
                 "Precinct": [
                   {
                     "name": "Sharon",
-                    "votes": 0
+                    "votes": 30
                   },
                   {
                     "name": "Crawfordville",
-                    "votes": 0
+                    "votes": 144
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 198,
                 "Precinct": [
                   {
                     "name": "Sharon",
-                    "votes": 0
+                    "votes": 38
                   },
                   {
                     "name": "Crawfordville",
-                    "votes": 0
+                    "votes": 160
                   }
                 ]
               },
@@ -532,15 +532,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 1,
-        "precinctsReported": 0,
+        "precinctsReported": 1,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 0,
+            "votes": 20,
             "Precinct": [
               {
                 "name": "Crawfordville",
-                "votes": 0
+                "votes": 20
               }
             ]
           },
@@ -559,35 +559,35 @@
           {
             "key": "32",
             "text": "Kendall Richards",
-            "totalVotes": 0,
+            "totalVotes": 146,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 40,
                 "Precinct": [
                   {
                     "name": "Crawfordville",
-                    "votes": 0
+                    "votes": 40
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 69,
                 "Precinct": [
                   {
                     "name": "Crawfordville",
-                    "votes": 0
+                    "votes": 69
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 37,
                 "Precinct": [
                   {
                     "name": "Crawfordville",
-                    "votes": 0
+                    "votes": 37
                   }
                 ]
               },
@@ -606,35 +606,35 @@
           {
             "key": "33",
             "text": "D. R. Smith",
-            "totalVotes": 0,
+            "totalVotes": 84,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 18,
                 "Precinct": [
                   {
                     "name": "Crawfordville",
-                    "votes": 0
+                    "votes": 18
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 37,
                 "Precinct": [
                   {
                     "name": "Crawfordville",
-                    "votes": 0
+                    "votes": 37
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 29,
                 "Precinct": [
                   {
                     "name": "Crawfordville",
-                    "votes": 0
+                    "votes": 29
                   }
                 ]
               },

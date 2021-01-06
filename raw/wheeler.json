@@ -1,28 +1,28 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:09:36 PM EST",
+    "Timestamp": "1/5/2021 9:37:56 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Wheeler",
     "VoterTurnout": {
-      "totalVoters": 0,
-      "ballotsCast": 0,
-      "voterTurnout": 0.0,
+      "totalVoters": 3208,
+      "ballotsCast": 2013,
+      "voterTurnout": 62.75,
       "Precincts": {
         "Precinct": [
           {
             "name": "Alamo",
-            "totalVoters": 0,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "totalVoters": 1866,
+            "ballotsCast": 1209,
+            "voterTurnout": 64.79,
+            "percentReporting": "4"
           },
           {
             "name": "Glenwood",
-            "totalVoters": 0,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "totalVoters": 1342,
+            "ballotsCast": 804,
+            "voterTurnout": 59.91,
+            "percentReporting": "4"
           }
         ]
       }
@@ -34,19 +34,19 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 2,
-        "precinctsReported": 0,
+        "precinctsReported": 2,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 0,
+            "votes": 6,
             "Precinct": [
               {
                 "name": "Alamo",
-                "votes": 0
+                "votes": 3
               },
               {
                 "name": "Glenwood",
-                "votes": 0
+                "votes": 3
               }
             ]
           },
@@ -69,57 +69,57 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 0,
+            "totalVotes": 1381,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 592,
                 "Precinct": [
                   {
                     "name": "Alamo",
-                    "votes": 0
+                    "votes": 294
                   },
                   {
                     "name": "Glenwood",
-                    "votes": 0
+                    "votes": 298
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 634,
                 "Precinct": [
                   {
                     "name": "Alamo",
-                    "votes": 0
+                    "votes": 417
                   },
                   {
                     "name": "Glenwood",
-                    "votes": 0
+                    "votes": 217
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 147,
                 "Precinct": [
                   {
                     "name": "Alamo",
-                    "votes": 0
+                    "votes": 82
                   },
                   {
                     "name": "Glenwood",
-                    "votes": 0
+                    "votes": 65
                   }
                 ]
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 8,
                 "Precinct": [
                   {
                     "name": "Alamo",
-                    "votes": 0
+                    "votes": 8
                   },
                   {
                     "name": "Glenwood",
@@ -132,47 +132,47 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 0,
+            "totalVotes": 626,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 207,
                 "Precinct": [
                   {
                     "name": "Alamo",
-                    "votes": 0
+                    "votes": 126
                   },
                   {
                     "name": "Glenwood",
-                    "votes": 0
+                    "votes": 81
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 245,
                 "Precinct": [
                   {
                     "name": "Alamo",
-                    "votes": 0
+                    "votes": 166
                   },
                   {
                     "name": "Glenwood",
-                    "votes": 0
+                    "votes": 79
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 174,
                 "Precinct": [
                   {
                     "name": "Alamo",
-                    "votes": 0
+                    "votes": 113
                   },
                   {
                     "name": "Glenwood",
-                    "votes": 0
+                    "votes": 61
                   }
                 ]
               },
@@ -200,19 +200,19 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 2,
-        "precinctsReported": 0,
+        "precinctsReported": 2,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 0,
+            "votes": 7,
             "Precinct": [
               {
                 "name": "Alamo",
-                "votes": 0
+                "votes": 5
               },
               {
                 "name": "Glenwood",
-                "votes": 0
+                "votes": 2
               }
             ]
           },
@@ -235,57 +235,57 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 0,
+            "totalVotes": 1373,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 588,
                 "Precinct": [
                   {
                     "name": "Alamo",
-                    "votes": 0
+                    "votes": 293
                   },
                   {
                     "name": "Glenwood",
-                    "votes": 0
+                    "votes": 295
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 634,
                 "Precinct": [
                   {
                     "name": "Alamo",
-                    "votes": 0
+                    "votes": 416
                   },
                   {
                     "name": "Glenwood",
-                    "votes": 0
+                    "votes": 218
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 143,
                 "Precinct": [
                   {
                     "name": "Alamo",
-                    "votes": 0
+                    "votes": 80
                   },
                   {
                     "name": "Glenwood",
-                    "votes": 0
+                    "votes": 63
                   }
                 ]
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 8,
                 "Precinct": [
                   {
                     "name": "Alamo",
-                    "votes": 0
+                    "votes": 8
                   },
                   {
                     "name": "Glenwood",
@@ -298,47 +298,47 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 0,
+            "totalVotes": 633,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 211,
                 "Precinct": [
                   {
                     "name": "Alamo",
-                    "votes": 0
+                    "votes": 127
                   },
                   {
                     "name": "Glenwood",
-                    "votes": 0
+                    "votes": 84
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 244,
                 "Precinct": [
                   {
                     "name": "Alamo",
-                    "votes": 0
+                    "votes": 166
                   },
                   {
                     "name": "Glenwood",
-                    "votes": 0
+                    "votes": 78
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 178,
                 "Precinct": [
                   {
                     "name": "Alamo",
-                    "votes": 0
+                    "votes": 114
                   },
                   {
                     "name": "Glenwood",
-                    "votes": 0
+                    "votes": 64
                   }
                 ]
               },
@@ -366,19 +366,19 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 2,
-        "precinctsReported": 0,
+        "precinctsReported": 2,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 0,
+            "votes": 40,
             "Precinct": [
               {
                 "name": "Alamo",
-                "votes": 0
+                "votes": 25
               },
               {
                 "name": "Glenwood",
-                "votes": 0
+                "votes": 15
               }
             ]
           },
@@ -401,57 +401,57 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 0,
+            "totalVotes": 1365,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 588,
                 "Precinct": [
                   {
                     "name": "Alamo",
-                    "votes": 0
+                    "votes": 291
                   },
                   {
                     "name": "Glenwood",
-                    "votes": 0
+                    "votes": 297
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 625,
                 "Precinct": [
                   {
                     "name": "Alamo",
-                    "votes": 0
+                    "votes": 415
                   },
                   {
                     "name": "Glenwood",
-                    "votes": 0
+                    "votes": 210
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 145,
                 "Precinct": [
                   {
                     "name": "Alamo",
-                    "votes": 0
+                    "votes": 80
                   },
                   {
                     "name": "Glenwood",
-                    "votes": 0
+                    "votes": 65
                   }
                 ]
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 7,
                 "Precinct": [
                   {
                     "name": "Alamo",
-                    "votes": 0
+                    "votes": 7
                   },
                   {
                     "name": "Glenwood",
@@ -464,47 +464,47 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 0,
+            "totalVotes": 608,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 197,
                 "Precinct": [
                   {
                     "name": "Alamo",
-                    "votes": 0
+                    "votes": 120
                   },
                   {
                     "name": "Glenwood",
-                    "votes": 0
+                    "votes": 77
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 238,
                 "Precinct": [
                   {
                     "name": "Alamo",
-                    "votes": 0
+                    "votes": 158
                   },
                   {
                     "name": "Glenwood",
-                    "votes": 0
+                    "votes": 80
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 173,
                 "Precinct": [
                   {
                     "name": "Alamo",
-                    "votes": 0
+                    "votes": 113
                   },
                   {
                     "name": "Glenwood",
-                    "votes": 0
+                    "votes": 60
                   }
                 ]
               },

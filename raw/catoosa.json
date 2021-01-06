@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:57:24 PM EST",
+    "Timestamp": "1/5/2021 9:43:31 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Catoosa",
     "VoterTurnout": {
       "totalVoters": 46767,
-      "ballotsCast": 24626,
-      "voterTurnout": 52.66,
+      "ballotsCast": 27805,
+      "voterTurnout": 59.45,
       "Precincts": {
         "Precinct": [
           {
@@ -27,16 +27,16 @@
           {
             "name": "Catoosa Keith",
             "totalVoters": 2679,
-            "ballotsCast": 971,
-            "voterTurnout": 36.24,
-            "percentReporting": "2"
+            "ballotsCast": 1653,
+            "voterTurnout": 61.7,
+            "percentReporting": "4"
           },
           {
             "name": "Chambers",
             "totalVoters": 2588,
-            "ballotsCast": 1160,
-            "voterTurnout": 44.82,
-            "percentReporting": "2"
+            "ballotsCast": 1845,
+            "voterTurnout": 71.29,
+            "percentReporting": "4"
           },
           {
             "name": "Ft Oglethorpe",
@@ -48,9 +48,9 @@
           {
             "name": "Graysville",
             "totalVoters": 4606,
-            "ballotsCast": 1666,
-            "voterTurnout": 36.17,
-            "percentReporting": "2"
+            "ballotsCast": 2641,
+            "voterTurnout": 57.34,
+            "percentReporting": "4"
           },
           {
             "name": "Lakeview",
@@ -76,9 +76,9 @@
           {
             "name": "Westside",
             "totalVoters": 6050,
-            "ballotsCast": 2456,
-            "voterTurnout": 40.6,
-            "percentReporting": "2"
+            "ballotsCast": 3293,
+            "voterTurnout": 54.43,
+            "percentReporting": "4"
           },
           {
             "name": "Woodstation",
@@ -97,11 +97,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 11,
-        "precinctsReported": 7,
+        "precinctsReported": 11,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 54,
+            "votes": 58,
             "Precinct": [
               {
                 "name": "Blackstock",
@@ -113,11 +113,11 @@
               },
               {
                 "name": "Catoosa Keith",
-                "votes": 3
+                "votes": 4
               },
               {
                 "name": "Chambers",
-                "votes": 3
+                "votes": 4
               },
               {
                 "name": "Ft Oglethorpe",
@@ -141,7 +141,7 @@
               },
               {
                 "name": "Westside",
-                "votes": 13
+                "votes": 15
               },
               {
                 "name": "Woodstation",
@@ -204,11 +204,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 19005,
+            "totalVotes": 21743,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 5233,
+                "votes": 7971,
                 "Precinct": [
                   {
                     "name": "Blackstock",
@@ -220,11 +220,11 @@
                   },
                   {
                     "name": "Catoosa Keith",
-                    "votes": 0
+                    "votes": 623
                   },
                   {
                     "name": "Chambers",
-                    "votes": 0
+                    "votes": 604
                   },
                   {
                     "name": "Ft Oglethorpe",
@@ -232,7 +232,7 @@
                   },
                   {
                     "name": "Graysville",
-                    "votes": 0
+                    "votes": 825
                   },
                   {
                     "name": "Lakeview",
@@ -248,7 +248,7 @@
                   },
                   {
                     "name": "Westside",
-                    "votes": 0
+                    "votes": 686
                   },
                   {
                     "name": "Woodstation",
@@ -411,11 +411,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 5567,
+            "totalVotes": 6004,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 926,
+                "votes": 1363,
                 "Precinct": [
                   {
                     "name": "Blackstock",
@@ -427,11 +427,11 @@
                   },
                   {
                     "name": "Catoosa Keith",
-                    "votes": 0
+                    "votes": 58
                   },
                   {
                     "name": "Chambers",
-                    "votes": 0
+                    "votes": 80
                   },
                   {
                     "name": "Ft Oglethorpe",
@@ -439,7 +439,7 @@
                   },
                   {
                     "name": "Graysville",
-                    "votes": 0
+                    "votes": 150
                   },
                   {
                     "name": "Lakeview",
@@ -455,7 +455,7 @@
                   },
                   {
                     "name": "Westside",
-                    "votes": 0
+                    "votes": 149
                   },
                   {
                     "name": "Woodstation",
@@ -623,11 +623,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 11,
-        "precinctsReported": 7,
+        "precinctsReported": 11,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 44,
+            "votes": 48,
             "Precinct": [
               {
                 "name": "Blackstock",
@@ -639,7 +639,7 @@
               },
               {
                 "name": "Catoosa Keith",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "Chambers",
@@ -651,7 +651,7 @@
               },
               {
                 "name": "Graysville",
-                "votes": 4
+                "votes": 5
               },
               {
                 "name": "Lakeview",
@@ -667,7 +667,7 @@
               },
               {
                 "name": "Westside",
-                "votes": 9
+                "votes": 11
               },
               {
                 "name": "Woodstation",
@@ -730,11 +730,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 19036,
+            "totalVotes": 21778,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 5250,
+                "votes": 7992,
                 "Precinct": [
                   {
                     "name": "Blackstock",
@@ -746,11 +746,11 @@
                   },
                   {
                     "name": "Catoosa Keith",
-                    "votes": 0
+                    "votes": 621
                   },
                   {
                     "name": "Chambers",
-                    "votes": 0
+                    "votes": 606
                   },
                   {
                     "name": "Ft Oglethorpe",
@@ -758,7 +758,7 @@
                   },
                   {
                     "name": "Graysville",
-                    "votes": 0
+                    "votes": 830
                   },
                   {
                     "name": "Lakeview",
@@ -774,7 +774,7 @@
                   },
                   {
                     "name": "Westside",
-                    "votes": 0
+                    "votes": 685
                   },
                   {
                     "name": "Woodstation",
@@ -937,11 +937,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 5546,
+            "totalVotes": 5979,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 912,
+                "votes": 1345,
                 "Precinct": [
                   {
                     "name": "Blackstock",
@@ -953,11 +953,11 @@
                   },
                   {
                     "name": "Catoosa Keith",
-                    "votes": 0
+                    "votes": 60
                   },
                   {
                     "name": "Chambers",
-                    "votes": 0
+                    "votes": 79
                   },
                   {
                     "name": "Ft Oglethorpe",
@@ -965,7 +965,7 @@
                   },
                   {
                     "name": "Graysville",
-                    "votes": 0
+                    "votes": 144
                   },
                   {
                     "name": "Lakeview",
@@ -981,7 +981,7 @@
                   },
                   {
                     "name": "Westside",
-                    "votes": 0
+                    "votes": 150
                   },
                   {
                     "name": "Woodstation",
@@ -1149,11 +1149,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 11,
-        "precinctsReported": 7,
+        "precinctsReported": 11,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 309,
+            "votes": 340,
             "Precinct": [
               {
                 "name": "Blackstock",
@@ -1165,11 +1165,11 @@
               },
               {
                 "name": "Catoosa Keith",
-                "votes": 15
+                "votes": 20
               },
               {
                 "name": "Chambers",
-                "votes": 11
+                "votes": 14
               },
               {
                 "name": "Ft Oglethorpe",
@@ -1177,7 +1177,7 @@
               },
               {
                 "name": "Graysville",
-                "votes": 34
+                "votes": 44
               },
               {
                 "name": "Lakeview",
@@ -1193,7 +1193,7 @@
               },
               {
                 "name": "Westside",
-                "votes": 51
+                "votes": 64
               },
               {
                 "name": "Woodstation",
@@ -1256,11 +1256,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 19022,
+            "totalVotes": 21763,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 5254,
+                "votes": 7995,
                 "Precinct": [
                   {
                     "name": "Blackstock",
@@ -1272,11 +1272,11 @@
                   },
                   {
                     "name": "Catoosa Keith",
-                    "votes": 0
+                    "votes": 618
                   },
                   {
                     "name": "Chambers",
-                    "votes": 0
+                    "votes": 606
                   },
                   {
                     "name": "Ft Oglethorpe",
@@ -1284,7 +1284,7 @@
                   },
                   {
                     "name": "Graysville",
-                    "votes": 0
+                    "votes": 828
                   },
                   {
                     "name": "Lakeview",
@@ -1300,7 +1300,7 @@
                   },
                   {
                     "name": "Westside",
-                    "votes": 0
+                    "votes": 689
                   },
                   {
                     "name": "Woodstation",
@@ -1463,11 +1463,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 5295,
+            "totalVotes": 5702,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 867,
+                "votes": 1274,
                 "Precinct": [
                   {
                     "name": "Blackstock",
@@ -1479,11 +1479,11 @@
                   },
                   {
                     "name": "Catoosa Keith",
-                    "votes": 0
+                    "votes": 59
                   },
                   {
                     "name": "Chambers",
-                    "votes": 0
+                    "votes": 76
                   },
                   {
                     "name": "Ft Oglethorpe",
@@ -1491,7 +1491,7 @@
                   },
                   {
                     "name": "Graysville",
-                    "votes": 0
+                    "votes": 137
                   },
                   {
                     "name": "Lakeview",
@@ -1507,7 +1507,7 @@
                   },
                   {
                     "name": "Westside",
-                    "votes": 0
+                    "votes": 135
                   },
                   {
                     "name": "Woodstation",

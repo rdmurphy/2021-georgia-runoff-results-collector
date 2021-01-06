@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 9:19:02 PM EST",
+    "Timestamp": "1/5/2021 9:41:19 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Spalding",
     "VoterTurnout": {
       "totalVoters": 47215,
-      "ballotsCast": 23932,
-      "voterTurnout": 50.69,
+      "ballotsCast": 25262,
+      "voterTurnout": 53.5,
       "Precincts": {
         "Precinct": [
           {
@@ -55,9 +55,9 @@
           {
             "name": "08",
             "totalVoters": 1813,
-            "ballotsCast": 822,
-            "voterTurnout": 45.34,
-            "percentReporting": "2"
+            "ballotsCast": 1187,
+            "voterTurnout": 65.47,
+            "percentReporting": "4"
           },
           {
             "name": "09",
@@ -97,9 +97,9 @@
           {
             "name": "14",
             "totalVoters": 2060,
-            "ballotsCast": 528,
-            "voterTurnout": 25.63,
-            "percentReporting": "2"
+            "ballotsCast": 1009,
+            "voterTurnout": 48.98,
+            "percentReporting": "4"
           },
           {
             "name": "16",
@@ -125,9 +125,9 @@
           {
             "name": "20",
             "totalVoters": 2229,
-            "ballotsCast": 838,
-            "voterTurnout": 37.6,
-            "percentReporting": "2"
+            "ballotsCast": 1322,
+            "voterTurnout": 59.31,
+            "percentReporting": "4"
           },
           {
             "name": "21",
@@ -146,11 +146,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 18,
-        "precinctsReported": 11,
+        "precinctsReported": 14,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 42,
+            "votes": 44,
             "Precinct": [
               {
                 "name": "01",
@@ -202,7 +202,7 @@
               },
               {
                 "name": "14",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "16",
@@ -309,11 +309,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 13899,
+            "totalVotes": 14982,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 3554,
+                "votes": 4637,
                 "Precinct": [
                   {
                     "name": "01",
@@ -341,7 +341,7 @@
                   },
                   {
                     "name": "08",
-                    "votes": 0
+                    "votes": 279
                   },
                   {
                     "name": "09",
@@ -365,7 +365,7 @@
                   },
                   {
                     "name": "14",
-                    "votes": 0
+                    "votes": 359
                   },
                   {
                     "name": "16",
@@ -381,7 +381,7 @@
                   },
                   {
                     "name": "20",
-                    "votes": 0
+                    "votes": 445
                   },
                   {
                     "name": "21",
@@ -628,11 +628,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 9989,
+            "totalVotes": 10234,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1559,
+                "votes": 1804,
                 "Precinct": [
                   {
                     "name": "01",
@@ -660,7 +660,7 @@
                   },
                   {
                     "name": "08",
-                    "votes": 0
+                    "votes": 86
                   },
                   {
                     "name": "09",
@@ -684,7 +684,7 @@
                   },
                   {
                     "name": "14",
-                    "votes": 0
+                    "votes": 120
                   },
                   {
                     "name": "16",
@@ -700,7 +700,7 @@
                   },
                   {
                     "name": "20",
-                    "votes": 0
+                    "votes": 39
                   },
                   {
                     "name": "21",
@@ -952,11 +952,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 18,
-        "precinctsReported": 11,
+        "precinctsReported": 14,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 39,
+            "votes": 40,
             "Precinct": [
               {
                 "name": "01",
@@ -1008,7 +1008,7 @@
               },
               {
                 "name": "14",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "16",
@@ -1115,11 +1115,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 13819,
+            "totalVotes": 14903,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 3523,
+                "votes": 4607,
                 "Precinct": [
                   {
                     "name": "01",
@@ -1147,7 +1147,7 @@
                   },
                   {
                     "name": "08",
-                    "votes": 0
+                    "votes": 278
                   },
                   {
                     "name": "09",
@@ -1171,7 +1171,7 @@
                   },
                   {
                     "name": "14",
-                    "votes": 0
+                    "votes": 360
                   },
                   {
                     "name": "16",
@@ -1187,7 +1187,7 @@
                   },
                   {
                     "name": "20",
-                    "votes": 0
+                    "votes": 446
                   },
                   {
                     "name": "21",
@@ -1434,11 +1434,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 10072,
+            "totalVotes": 10317,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1590,
+                "votes": 1835,
                 "Precinct": [
                   {
                     "name": "01",
@@ -1466,7 +1466,7 @@
                   },
                   {
                     "name": "08",
-                    "votes": 0
+                    "votes": 87
                   },
                   {
                     "name": "09",
@@ -1490,7 +1490,7 @@
                   },
                   {
                     "name": "14",
-                    "votes": 0
+                    "votes": 120
                   },
                   {
                     "name": "16",
@@ -1506,7 +1506,7 @@
                   },
                   {
                     "name": "20",
-                    "votes": 0
+                    "votes": 38
                   },
                   {
                     "name": "21",
@@ -1758,11 +1758,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 18,
-        "precinctsReported": 11,
+        "precinctsReported": 14,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 325,
+            "votes": 332,
             "Precinct": [
               {
                 "name": "01",
@@ -1790,7 +1790,7 @@
               },
               {
                 "name": "08",
-                "votes": 11
+                "votes": 12
               },
               {
                 "name": "09",
@@ -1814,7 +1814,7 @@
               },
               {
                 "name": "14",
-                "votes": 6
+                "votes": 11
               },
               {
                 "name": "16",
@@ -1830,7 +1830,7 @@
               },
               {
                 "name": "20",
-                "votes": 15
+                "votes": 16
               },
               {
                 "name": "21",
@@ -1921,11 +1921,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 13892,
+            "totalVotes": 14976,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 3561,
+                "votes": 4645,
                 "Precinct": [
                   {
                     "name": "01",
@@ -1953,7 +1953,7 @@
                   },
                   {
                     "name": "08",
-                    "votes": 0
+                    "votes": 281
                   },
                   {
                     "name": "09",
@@ -1977,7 +1977,7 @@
                   },
                   {
                     "name": "14",
-                    "votes": 0
+                    "votes": 356
                   },
                   {
                     "name": "16",
@@ -1993,7 +1993,7 @@
                   },
                   {
                     "name": "20",
-                    "votes": 0
+                    "votes": 447
                   },
                   {
                     "name": "21",
@@ -2240,11 +2240,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 9714,
+            "totalVotes": 9953,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1519,
+                "votes": 1758,
                 "Precinct": [
                   {
                     "name": "01",
@@ -2272,7 +2272,7 @@
                   },
                   {
                     "name": "08",
-                    "votes": 0
+                    "votes": 83
                   },
                   {
                     "name": "09",
@@ -2296,7 +2296,7 @@
                   },
                   {
                     "name": "14",
-                    "votes": 0
+                    "votes": 120
                   },
                   {
                     "name": "16",
@@ -2312,7 +2312,7 @@
                   },
                   {
                     "name": "20",
-                    "votes": 0
+                    "votes": 36
                   },
                   {
                     "name": "21",

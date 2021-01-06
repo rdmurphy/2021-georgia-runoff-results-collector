@@ -1,35 +1,35 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 9:08:55 PM EST",
+    "Timestamp": "1/5/2021 9:45:25 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Newton",
     "VoterTurnout": {
       "totalVoters": 80538,
-      "ballotsCast": 30285,
-      "voterTurnout": 37.6,
+      "ballotsCast": 35188,
+      "voterTurnout": 43.69,
       "Precincts": {
         "Precinct": [
           {
             "name": "City Pond",
             "totalVoters": 1889,
-            "ballotsCast": 295,
-            "voterTurnout": 15.62,
-            "percentReporting": "2"
+            "ballotsCast": 633,
+            "voterTurnout": 33.51,
+            "percentReporting": "4"
           },
           {
             "name": "Town",
             "totalVoters": 4487,
-            "ballotsCast": 859,
-            "voterTurnout": 19.14,
-            "percentReporting": "2"
+            "ballotsCast": 1409,
+            "voterTurnout": 31.4,
+            "percentReporting": "4"
           },
           {
             "name": "Almon",
             "totalVoters": 5097,
-            "ballotsCast": 1374,
-            "voterTurnout": 26.96,
-            "percentReporting": "2"
+            "ballotsCast": 2134,
+            "voterTurnout": 41.87,
+            "percentReporting": "4"
           },
           {
             "name": "Alcovy",
@@ -62,23 +62,23 @@
           {
             "name": "Cedar Shoals",
             "totalVoters": 2879,
-            "ballotsCast": 501,
-            "voterTurnout": 17.4,
-            "percentReporting": "2"
+            "ballotsCast": 1038,
+            "voterTurnout": 36.05,
+            "percentReporting": "4"
           },
           {
             "name": "Livingston",
             "totalVoters": 4693,
-            "ballotsCast": 1115,
-            "voterTurnout": 23.76,
-            "percentReporting": "2"
+            "ballotsCast": 1836,
+            "voterTurnout": 39.12,
+            "percentReporting": "4"
           },
           {
             "name": "Downs",
             "totalVoters": 6349,
-            "ballotsCast": 1701,
-            "voterTurnout": 26.79,
-            "percentReporting": "2"
+            "ballotsCast": 2935,
+            "voterTurnout": 46.23,
+            "percentReporting": "4"
           },
           {
             "name": "Gum Creek",
@@ -139,9 +139,9 @@
           {
             "name": "Stansells",
             "totalVoters": 5076,
-            "ballotsCast": 1278,
-            "voterTurnout": 25.18,
-            "percentReporting": "2"
+            "ballotsCast": 2041,
+            "voterTurnout": 40.21,
+            "percentReporting": "4"
           },
           {
             "name": "Fairview",
@@ -174,15 +174,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 22,
-        "precinctsReported": 15,
+        "precinctsReported": 22,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 32,
+            "votes": 39,
             "Precinct": [
               {
                 "name": "City Pond",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Town",
@@ -190,7 +190,7 @@
               },
               {
                 "name": "Almon",
-                "votes": 2
+                "votes": 5
               },
               {
                 "name": "Alcovy",
@@ -210,7 +210,7 @@
               },
               {
                 "name": "Cedar Shoals",
-                "votes": 1
+                "votes": 3
               },
               {
                 "name": "Livingston",
@@ -218,7 +218,7 @@
               },
               {
                 "name": "Downs",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Gum Creek",
@@ -369,23 +369,23 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 14933,
+            "totalVotes": 16994,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 7543,
+                "votes": 9604,
                 "Precinct": [
                   {
                     "name": "City Pond",
-                    "votes": 0
+                    "votes": 146
                   },
                   {
                     "name": "Town",
-                    "votes": 0
+                    "votes": 152
                   },
                   {
                     "name": "Almon",
-                    "votes": 0
+                    "votes": 248
                   },
                   {
                     "name": "Alcovy",
@@ -405,15 +405,15 @@
                   },
                   {
                     "name": "Cedar Shoals",
-                    "votes": 0
+                    "votes": 289
                   },
                   {
                     "name": "Livingston",
-                    "votes": 0
+                    "votes": 287
                   },
                   {
                     "name": "Downs",
-                    "votes": 0
+                    "votes": 716
                   },
                   {
                     "name": "Gum Creek",
@@ -449,7 +449,7 @@
                   },
                   {
                     "name": "Stansells",
-                    "votes": 0
+                    "votes": 223
                   },
                   {
                     "name": "Fairview",
@@ -752,23 +752,23 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 15320,
+            "totalVotes": 18155,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 3697,
+                "votes": 6532,
                 "Precinct": [
                   {
                     "name": "City Pond",
-                    "votes": 0
+                    "votes": 191
                   },
                   {
                     "name": "Town",
-                    "votes": 0
+                    "votes": 398
                   },
                   {
                     "name": "Almon",
-                    "votes": 0
+                    "votes": 509
                   },
                   {
                     "name": "Alcovy",
@@ -788,15 +788,15 @@
                   },
                   {
                     "name": "Cedar Shoals",
-                    "votes": 0
+                    "votes": 246
                   },
                   {
                     "name": "Livingston",
-                    "votes": 0
+                    "votes": 434
                   },
                   {
                     "name": "Downs",
-                    "votes": 0
+                    "votes": 517
                   },
                   {
                     "name": "Gum Creek",
@@ -832,7 +832,7 @@
                   },
                   {
                     "name": "Stansells",
-                    "votes": 0
+                    "votes": 540
                   },
                   {
                     "name": "Fairview",
@@ -1140,15 +1140,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 22,
-        "precinctsReported": 15,
+        "precinctsReported": 22,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 22,
+            "votes": 27,
             "Precinct": [
               {
                 "name": "City Pond",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Town",
@@ -1156,7 +1156,7 @@
               },
               {
                 "name": "Almon",
-                "votes": 2
+                "votes": 4
               },
               {
                 "name": "Alcovy",
@@ -1176,7 +1176,7 @@
               },
               {
                 "name": "Cedar Shoals",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Livingston",
@@ -1335,23 +1335,23 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 14851,
+            "totalVotes": 16897,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 7502,
+                "votes": 9548,
                 "Precinct": [
                   {
                     "name": "City Pond",
-                    "votes": 0
+                    "votes": 145
                   },
                   {
                     "name": "Town",
-                    "votes": 0
+                    "votes": 149
                   },
                   {
                     "name": "Almon",
-                    "votes": 0
+                    "votes": 249
                   },
                   {
                     "name": "Alcovy",
@@ -1371,15 +1371,15 @@
                   },
                   {
                     "name": "Cedar Shoals",
-                    "votes": 0
+                    "votes": 287
                   },
                   {
                     "name": "Livingston",
-                    "votes": 0
+                    "votes": 285
                   },
                   {
                     "name": "Downs",
-                    "votes": 0
+                    "votes": 708
                   },
                   {
                     "name": "Gum Creek",
@@ -1415,7 +1415,7 @@
                   },
                   {
                     "name": "Stansells",
-                    "votes": 0
+                    "votes": 223
                   },
                   {
                     "name": "Fairview",
@@ -1718,23 +1718,23 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 15412,
+            "totalVotes": 18264,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 3741,
+                "votes": 6593,
                 "Precinct": [
                   {
                     "name": "City Pond",
-                    "votes": 0
+                    "votes": 192
                   },
                   {
                     "name": "Town",
-                    "votes": 0
+                    "votes": 401
                   },
                   {
                     "name": "Almon",
-                    "votes": 0
+                    "votes": 509
                   },
                   {
                     "name": "Alcovy",
@@ -1754,15 +1754,15 @@
                   },
                   {
                     "name": "Cedar Shoals",
-                    "votes": 0
+                    "votes": 248
                   },
                   {
                     "name": "Livingston",
-                    "votes": 0
+                    "votes": 436
                   },
                   {
                     "name": "Downs",
-                    "votes": 0
+                    "votes": 526
                   },
                   {
                     "name": "Gum Creek",
@@ -1798,7 +1798,7 @@
                   },
                   {
                     "name": "Stansells",
-                    "votes": 0
+                    "votes": 540
                   },
                   {
                     "name": "Fairview",
@@ -2106,23 +2106,23 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 22,
-        "precinctsReported": 15,
+        "precinctsReported": 22,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 202,
+            "votes": 232,
             "Precinct": [
               {
                 "name": "City Pond",
-                "votes": 9
+                "votes": 14
               },
               {
                 "name": "Town",
-                "votes": 6
+                "votes": 11
               },
               {
                 "name": "Almon",
-                "votes": 8
+                "votes": 10
               },
               {
                 "name": "Alcovy",
@@ -2142,15 +2142,15 @@
               },
               {
                 "name": "Cedar Shoals",
-                "votes": 6
+                "votes": 12
               },
               {
                 "name": "Livingston",
-                "votes": 6
+                "votes": 8
               },
               {
                 "name": "Downs",
-                "votes": 11
+                "votes": 16
               },
               {
                 "name": "Gum Creek",
@@ -2186,7 +2186,7 @@
               },
               {
                 "name": "Stansells",
-                "votes": 6
+                "votes": 11
               },
               {
                 "name": "Fairview",
@@ -2301,23 +2301,23 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 15012,
+            "totalVotes": 17082,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 7567,
+                "votes": 9637,
                 "Precinct": [
                   {
                     "name": "City Pond",
-                    "votes": 0
+                    "votes": 146
                   },
                   {
                     "name": "Town",
-                    "votes": 0
+                    "votes": 155
                   },
                   {
                     "name": "Almon",
-                    "votes": 0
+                    "votes": 247
                   },
                   {
                     "name": "Alcovy",
@@ -2337,15 +2337,15 @@
                   },
                   {
                     "name": "Cedar Shoals",
-                    "votes": 0
+                    "votes": 293
                   },
                   {
                     "name": "Livingston",
-                    "votes": 0
+                    "votes": 287
                   },
                   {
                     "name": "Downs",
-                    "votes": 0
+                    "votes": 717
                   },
                   {
                     "name": "Gum Creek",
@@ -2381,7 +2381,7 @@
                   },
                   {
                     "name": "Stansells",
-                    "votes": 0
+                    "votes": 225
                   },
                   {
                     "name": "Fairview",
@@ -2684,23 +2684,23 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 15071,
+            "totalVotes": 17874,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 3619,
+                "votes": 6422,
                 "Precinct": [
                   {
                     "name": "City Pond",
-                    "votes": 0
+                    "votes": 187
                   },
                   {
                     "name": "Town",
-                    "votes": 0
+                    "votes": 390
                   },
                   {
                     "name": "Almon",
-                    "votes": 0
+                    "votes": 511
                   },
                   {
                     "name": "Alcovy",
@@ -2720,15 +2720,15 @@
                   },
                   {
                     "name": "Cedar Shoals",
-                    "votes": 0
+                    "votes": 238
                   },
                   {
                     "name": "Livingston",
-                    "votes": 0
+                    "votes": 432
                   },
                   {
                     "name": "Downs",
-                    "votes": 0
+                    "votes": 512
                   },
                   {
                     "name": "Gum Creek",
@@ -2764,7 +2764,7 @@
                   },
                   {
                     "name": "Stansells",
-                    "votes": 0
+                    "votes": 533
                   },
                   {
                     "name": "Fairview",

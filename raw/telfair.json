@@ -1,56 +1,56 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:42:40 PM EST",
+    "Timestamp": "1/5/2021 9:46:49 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Telfair",
     "VoterTurnout": {
       "totalVoters": 6153,
-      "ballotsCast": 1767,
-      "voterTurnout": 28.72,
+      "ballotsCast": 3855,
+      "voterTurnout": 62.65,
       "Precincts": {
         "Precinct": [
           {
             "name": "Helena",
             "totalVoters": 999,
-            "ballotsCast": 285,
-            "voterTurnout": 28.53,
-            "percentReporting": "2"
+            "ballotsCast": 576,
+            "voterTurnout": 57.66,
+            "percentReporting": "4"
           },
           {
             "name": "Jacksonville",
             "totalVoters": 637,
-            "ballotsCast": 282,
-            "voterTurnout": 44.27,
-            "percentReporting": "2"
+            "ballotsCast": 403,
+            "voterTurnout": 63.27,
+            "percentReporting": "4"
           },
           {
             "name": "Lumber-City",
             "totalVoters": 971,
-            "ballotsCast": 234,
-            "voterTurnout": 24.1,
-            "percentReporting": "1"
+            "ballotsCast": 640,
+            "voterTurnout": 65.91,
+            "percentReporting": "4"
           },
           {
             "name": "McRae",
             "totalVoters": 2394,
-            "ballotsCast": 752,
-            "voterTurnout": 31.41,
-            "percentReporting": "2"
+            "ballotsCast": 1470,
+            "voterTurnout": 61.4,
+            "percentReporting": "4"
           },
           {
             "name": "Milan",
             "totalVoters": 813,
-            "ballotsCast": 73,
-            "voterTurnout": 8.98,
-            "percentReporting": "1"
+            "ballotsCast": 559,
+            "voterTurnout": 68.76,
+            "percentReporting": "4"
           },
           {
             "name": "Scotland",
             "totalVoters": 339,
-            "ballotsCast": 141,
-            "voterTurnout": 41.59,
-            "percentReporting": "2"
+            "ballotsCast": 207,
+            "voterTurnout": 61.06,
+            "percentReporting": "4"
           }
         ]
       }
@@ -62,11 +62,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 6,
-        "precinctsReported": 0,
+        "precinctsReported": 6,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 3,
+            "votes": 12,
             "Precinct": [
               {
                 "name": "Helena",
@@ -74,19 +74,19 @@
               },
               {
                 "name": "Jacksonville",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Lumber-City",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "McRae",
-                "votes": 1
+                "votes": 4
               },
               {
                 "name": "Milan",
-                "votes": 0
+                "votes": 3
               },
               {
                 "name": "Scotland",
@@ -129,11 +129,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 937,
+            "totalVotes": 2496,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 647,
+                "votes": 1077,
                 "Precinct": [
                   {
                     "name": "Helena",
@@ -145,7 +145,7 @@
                   },
                   {
                     "name": "Lumber-City",
-                    "votes": 0
+                    "votes": 183
                   },
                   {
                     "name": "McRae",
@@ -153,7 +153,7 @@
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 247
                   },
                   {
                     "name": "Scotland",
@@ -163,31 +163,31 @@
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 1129,
                 "Precinct": [
                   {
                     "name": "Helena",
-                    "votes": 0
+                    "votes": 200
                   },
                   {
                     "name": "Jacksonville",
-                    "votes": 0
+                    "votes": 97
                   },
                   {
                     "name": "Lumber-City",
-                    "votes": 0
+                    "votes": 134
                   },
                   {
                     "name": "McRae",
-                    "votes": 0
+                    "votes": 466
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 185
                   },
                   {
                     "name": "Scotland",
-                    "votes": 0
+                    "votes": 47
                   }
                 ]
               },
@@ -256,11 +256,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 827,
+            "totalVotes": 1347,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 280,
+                "votes": 364,
                 "Precinct": [
                   {
                     "name": "Helena",
@@ -272,7 +272,7 @@
                   },
                   {
                     "name": "Lumber-City",
-                    "votes": 0
+                    "votes": 55
                   },
                   {
                     "name": "McRae",
@@ -280,7 +280,7 @@
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 29
                   },
                   {
                     "name": "Scotland",
@@ -290,31 +290,31 @@
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 436,
                 "Precinct": [
                   {
                     "name": "Helena",
-                    "votes": 0
+                    "votes": 91
                   },
                   {
                     "name": "Jacksonville",
-                    "votes": 0
+                    "votes": 23
                   },
                   {
                     "name": "Lumber-City",
-                    "votes": 0
+                    "votes": 32
                   },
                   {
                     "name": "McRae",
-                    "votes": 0
+                    "votes": 249
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 22
                   },
                   {
                     "name": "Scotland",
-                    "votes": 0
+                    "votes": 19
                   }
                 ]
               },
@@ -388,11 +388,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 6,
-        "precinctsReported": 0,
+        "precinctsReported": 6,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 9,
+            "votes": 12,
             "Precinct": [
               {
                 "name": "Helena",
@@ -400,7 +400,7 @@
               },
               {
                 "name": "Jacksonville",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "Lumber-City",
@@ -408,7 +408,7 @@
               },
               {
                 "name": "McRae",
-                "votes": 3
+                "votes": 5
               },
               {
                 "name": "Milan",
@@ -455,11 +455,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 935,
+            "totalVotes": 2491,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 647,
+                "votes": 1076,
                 "Precinct": [
                   {
                     "name": "Helena",
@@ -471,7 +471,7 @@
                   },
                   {
                     "name": "Lumber-City",
-                    "votes": 0
+                    "votes": 181
                   },
                   {
                     "name": "McRae",
@@ -479,7 +479,7 @@
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 248
                   },
                   {
                     "name": "Scotland",
@@ -489,31 +489,31 @@
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 1127,
                 "Precinct": [
                   {
                     "name": "Helena",
-                    "votes": 0
+                    "votes": 197
                   },
                   {
                     "name": "Jacksonville",
-                    "votes": 0
+                    "votes": 97
                   },
                   {
                     "name": "Lumber-City",
-                    "votes": 0
+                    "votes": 135
                   },
                   {
                     "name": "McRae",
-                    "votes": 0
+                    "votes": 467
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 184
                   },
                   {
                     "name": "Scotland",
-                    "votes": 0
+                    "votes": 47
                   }
                 ]
               },
@@ -582,11 +582,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 823,
+            "totalVotes": 1352,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 275,
+                "votes": 362,
                 "Precinct": [
                   {
                     "name": "Helena",
@@ -598,7 +598,7 @@
                   },
                   {
                     "name": "Lumber-City",
-                    "votes": 0
+                    "votes": 58
                   },
                   {
                     "name": "McRae",
@@ -606,7 +606,7 @@
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 29
                   },
                   {
                     "name": "Scotland",
@@ -616,31 +616,31 @@
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 442,
                 "Precinct": [
                   {
                     "name": "Helena",
-                    "votes": 0
+                    "votes": 94
                   },
                   {
                     "name": "Jacksonville",
-                    "votes": 0
+                    "votes": 23
                   },
                   {
                     "name": "Lumber-City",
-                    "votes": 0
+                    "votes": 32
                   },
                   {
                     "name": "McRae",
-                    "votes": 0
+                    "votes": 249
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 25
                   },
                   {
                     "name": "Scotland",
-                    "votes": 0
+                    "votes": 19
                   }
                 ]
               },
@@ -714,35 +714,35 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 6,
-        "precinctsReported": 0,
+        "precinctsReported": 6,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 43,
+            "votes": 119,
             "Precinct": [
               {
                 "name": "Helena",
-                "votes": 8
+                "votes": 25
               },
               {
                 "name": "Jacksonville",
-                "votes": 10
+                "votes": 18
               },
               {
                 "name": "Lumber-City",
-                "votes": 2
+                "votes": 10
               },
               {
                 "name": "McRae",
-                "votes": 20
+                "votes": 49
               },
               {
                 "name": "Milan",
-                "votes": 2
+                "votes": 13
               },
               {
                 "name": "Scotland",
-                "votes": 1
+                "votes": 4
               }
             ]
           },
@@ -781,11 +781,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 910,
+            "totalVotes": 2436,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 635,
+                "votes": 1064,
                 "Precinct": [
                   {
                     "name": "Helena",
@@ -797,7 +797,7 @@
                   },
                   {
                     "name": "Lumber-City",
-                    "votes": 0
+                    "votes": 184
                   },
                   {
                     "name": "McRae",
@@ -805,7 +805,7 @@
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 245
                   },
                   {
                     "name": "Scotland",
@@ -815,31 +815,31 @@
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 1097,
                 "Precinct": [
                   {
                     "name": "Helena",
-                    "votes": 0
+                    "votes": 193
                   },
                   {
                     "name": "Jacksonville",
-                    "votes": 0
+                    "votes": 91
                   },
                   {
                     "name": "Lumber-City",
-                    "votes": 0
+                    "votes": 129
                   },
                   {
                     "name": "McRae",
-                    "votes": 0
+                    "votes": 455
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 184
                   },
                   {
                     "name": "Scotland",
-                    "votes": 0
+                    "votes": 45
                   }
                 ]
               },
@@ -908,11 +908,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 814,
+            "totalVotes": 1300,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 269,
+                "votes": 348,
                 "Precinct": [
                   {
                     "name": "Helena",
@@ -924,7 +924,7 @@
                   },
                   {
                     "name": "Lumber-City",
-                    "votes": 0
+                    "votes": 53
                   },
                   {
                     "name": "McRae",
@@ -932,7 +932,7 @@
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 26
                   },
                   {
                     "name": "Scotland",
@@ -942,31 +942,31 @@
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 407,
                 "Precinct": [
                   {
                     "name": "Helena",
-                    "votes": 0
+                    "votes": 81
                   },
                   {
                     "name": "Jacksonville",
-                    "votes": 0
+                    "votes": 22
                   },
                   {
                     "name": "Lumber-City",
-                    "votes": 0
+                    "votes": 32
                   },
                   {
                     "name": "McRae",
-                    "votes": 0
+                    "votes": 234
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 20
                   },
                   {
                     "name": "Scotland",
-                    "votes": 0
+                    "votes": 18
                   }
                 ]
               },

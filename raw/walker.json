@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:54:17 PM EST",
+    "Timestamp": "1/5/2021 9:43:13 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Walker",
     "VoterTurnout": {
       "totalVoters": 44180,
-      "ballotsCast": 21152,
-      "voterTurnout": 47.88,
+      "ballotsCast": 24175,
+      "voterTurnout": 54.72,
       "Precincts": {
         "Precinct": [
           {
@@ -48,9 +48,9 @@
           {
             "name": "Chattanooga Valley",
             "totalVoters": 6508,
-            "ballotsCast": 2211,
-            "voterTurnout": 33.97,
-            "percentReporting": "2"
+            "ballotsCast": 3558,
+            "voterTurnout": 54.67,
+            "percentReporting": "4"
           },
           {
             "name": "Kensington",
@@ -69,16 +69,16 @@
           {
             "name": "Chickamauga",
             "totalVoters": 7087,
-            "ballotsCast": 2721,
-            "voterTurnout": 38.39,
-            "percentReporting": "2"
+            "ballotsCast": 4043,
+            "voterTurnout": 57.05,
+            "percentReporting": "4"
           },
           {
             "name": "Fairyland",
             "totalVoters": 1288,
-            "ballotsCast": 536,
-            "voterTurnout": 41.61,
-            "percentReporting": "2"
+            "ballotsCast": 890,
+            "voterTurnout": 69.1,
+            "percentReporting": "4"
           },
           {
             "name": "Fairview",
@@ -97,11 +97,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 11,
-        "precinctsReported": 8,
+        "precinctsReported": 11,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 33,
+            "votes": 38,
             "Precinct": [
               {
                 "name": "La Fayette",
@@ -125,7 +125,7 @@
               },
               {
                 "name": "Chattanooga Valley",
-                "votes": 3
+                "votes": 5
               },
               {
                 "name": "Kensington",
@@ -137,11 +137,11 @@
               },
               {
                 "name": "Chickamauga",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Fairyland",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Fairview",
@@ -204,11 +204,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 16648,
+            "totalVotes": 19250,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 5435,
+                "votes": 8037,
                 "Precinct": [
                   {
                     "name": "La Fayette",
@@ -232,7 +232,7 @@
                   },
                   {
                     "name": "Chattanooga Valley",
-                    "votes": 0
+                    "votes": 1132
                   },
                   {
                     "name": "Kensington",
@@ -244,11 +244,11 @@
                   },
                   {
                     "name": "Chickamauga",
-                    "votes": 0
+                    "votes": 1193
                   },
                   {
                     "name": "Fairyland",
-                    "votes": 0
+                    "votes": 277
                   },
                   {
                     "name": "Fairview",
@@ -411,11 +411,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 4471,
+            "totalVotes": 4887,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 819,
+                "votes": 1235,
                 "Precinct": [
                   {
                     "name": "La Fayette",
@@ -439,7 +439,7 @@
                   },
                   {
                     "name": "Chattanooga Valley",
-                    "votes": 0
+                    "votes": 213
                   },
                   {
                     "name": "Kensington",
@@ -451,11 +451,11 @@
                   },
                   {
                     "name": "Chickamauga",
-                    "votes": 0
+                    "votes": 128
                   },
                   {
                     "name": "Fairyland",
-                    "votes": 0
+                    "votes": 75
                   },
                   {
                     "name": "Fairview",
@@ -623,11 +623,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 11,
-        "precinctsReported": 8,
+        "precinctsReported": 11,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 46,
+            "votes": 52,
             "Precinct": [
               {
                 "name": "La Fayette",
@@ -651,7 +651,7 @@
               },
               {
                 "name": "Chattanooga Valley",
-                "votes": 6
+                "votes": 7
               },
               {
                 "name": "Kensington",
@@ -663,11 +663,11 @@
               },
               {
                 "name": "Chickamauga",
-                "votes": 6
+                "votes": 9
               },
               {
                 "name": "Fairyland",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Fairview",
@@ -730,11 +730,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 16680,
+            "totalVotes": 19274,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 5443,
+                "votes": 8037,
                 "Precinct": [
                   {
                     "name": "La Fayette",
@@ -758,7 +758,7 @@
                   },
                   {
                     "name": "Chattanooga Valley",
-                    "votes": 0
+                    "votes": 1131
                   },
                   {
                     "name": "Kensington",
@@ -770,11 +770,11 @@
                   },
                   {
                     "name": "Chickamauga",
-                    "votes": 0
+                    "votes": 1192
                   },
                   {
                     "name": "Fairyland",
-                    "votes": 0
+                    "votes": 271
                   },
                   {
                     "name": "Fairview",
@@ -937,11 +937,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 4426,
+            "totalVotes": 4849,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 813,
+                "votes": 1236,
                 "Precinct": [
                   {
                     "name": "La Fayette",
@@ -965,7 +965,7 @@
                   },
                   {
                     "name": "Chattanooga Valley",
-                    "votes": 0
+                    "votes": 215
                   },
                   {
                     "name": "Kensington",
@@ -977,11 +977,11 @@
                   },
                   {
                     "name": "Chickamauga",
-                    "votes": 0
+                    "votes": 127
                   },
                   {
                     "name": "Fairyland",
-                    "votes": 0
+                    "votes": 81
                   },
                   {
                     "name": "Fairview",
@@ -1149,11 +1149,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 11,
-        "precinctsReported": 8,
+        "precinctsReported": 11,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 303,
+            "votes": 339,
             "Precinct": [
               {
                 "name": "La Fayette",
@@ -1177,7 +1177,7 @@
               },
               {
                 "name": "Chattanooga Valley",
-                "votes": 22
+                "votes": 35
               },
               {
                 "name": "Kensington",
@@ -1189,11 +1189,11 @@
               },
               {
                 "name": "Chickamauga",
-                "votes": 41
+                "votes": 57
               },
               {
                 "name": "Fairyland",
-                "votes": 17
+                "votes": 24
               },
               {
                 "name": "Fairview",
@@ -1256,11 +1256,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 16595,
+            "totalVotes": 19190,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 5420,
+                "votes": 8015,
                 "Precinct": [
                   {
                     "name": "La Fayette",
@@ -1284,7 +1284,7 @@
                   },
                   {
                     "name": "Chattanooga Valley",
-                    "votes": 0
+                    "votes": 1129
                   },
                   {
                     "name": "Kensington",
@@ -1296,11 +1296,11 @@
                   },
                   {
                     "name": "Chickamauga",
-                    "votes": 0
+                    "votes": 1188
                   },
                   {
                     "name": "Fairyland",
-                    "votes": 0
+                    "votes": 278
                   },
                   {
                     "name": "Fairview",
@@ -1463,11 +1463,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 4250,
+            "totalVotes": 4642,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 777,
+                "votes": 1169,
                 "Precinct": [
                   {
                     "name": "La Fayette",
@@ -1491,7 +1491,7 @@
                   },
                   {
                     "name": "Chattanooga Valley",
-                    "votes": 0
+                    "votes": 205
                   },
                   {
                     "name": "Kensington",
@@ -1503,11 +1503,11 @@
                   },
                   {
                     "name": "Chickamauga",
-                    "votes": 0
+                    "votes": 118
                   },
                   {
                     "name": "Fairyland",
-                    "votes": 0
+                    "votes": 69
                   },
                   {
                     "name": "Fairview",

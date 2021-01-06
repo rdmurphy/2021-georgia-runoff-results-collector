@@ -1,21 +1,21 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 9:23:07 PM EST",
+    "Timestamp": "1/5/2021 9:45:59 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Hall",
     "VoterTurnout": {
       "totalVoters": 0,
-      "ballotsCast": 69393,
+      "ballotsCast": 76052,
       "voterTurnout": 0.0,
       "Precincts": {
         "Precinct": [
           {
             "name": "Wilson",
             "totalVoters": 0,
-            "ballotsCast": 3010,
+            "ballotsCast": 3852,
             "voterTurnout": 0.0,
-            "percentReporting": "2"
+            "percentReporting": "4"
           },
           {
             "name": "Chicopee",
@@ -34,9 +34,9 @@
           {
             "name": "Oakwood II",
             "totalVoters": 0,
-            "ballotsCast": 1652,
+            "ballotsCast": 2666,
             "voterTurnout": 0.0,
-            "percentReporting": "2"
+            "percentReporting": "4"
           },
           {
             "name": "Flowery Branch I",
@@ -76,9 +76,9 @@
           {
             "name": "Candler",
             "totalVoters": 0,
-            "ballotsCast": 1980,
+            "ballotsCast": 3304,
             "voterTurnout": 0.0,
-            "percentReporting": "2"
+            "percentReporting": "4"
           },
           {
             "name": "Tadmore",
@@ -97,9 +97,9 @@
           {
             "name": "Lula",
             "totalVoters": 0,
-            "ballotsCast": 1290,
+            "ballotsCast": 2057,
             "voterTurnout": 0.0,
-            "percentReporting": "2"
+            "percentReporting": "4"
           },
           {
             "name": "Clermont",
@@ -118,16 +118,16 @@
           {
             "name": "Bark Camp",
             "totalVoters": 0,
-            "ballotsCast": 2457,
+            "ballotsCast": 3628,
             "voterTurnout": 0.0,
-            "percentReporting": "2"
+            "percentReporting": "4"
           },
           {
             "name": "Chestatee",
             "totalVoters": 0,
-            "ballotsCast": 1601,
+            "ballotsCast": 2459,
             "voterTurnout": 0.0,
-            "percentReporting": "2"
+            "percentReporting": "4"
           },
           {
             "name": "Fork",
@@ -167,9 +167,9 @@
           {
             "name": "Gainesville III",
             "totalVoters": 0,
-            "ballotsCast": 1222,
+            "ballotsCast": 1905,
             "voterTurnout": 0.0,
-            "percentReporting": "2"
+            "percentReporting": "4"
           },
           {
             "name": "Gainesville IV",
@@ -237,15 +237,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 31,
-        "precinctsReported": 21,
+        "precinctsReported": 28,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 79,
+            "votes": 85,
             "Precinct": [
               {
                 "name": "Wilson",
-                "votes": 6
+                "votes": 7
               },
               {
                 "name": "Chicopee",
@@ -281,7 +281,7 @@
               },
               {
                 "name": "Candler",
-                "votes": 1
+                "votes": 4
               },
               {
                 "name": "Tadmore",
@@ -309,7 +309,7 @@
               },
               {
                 "name": "Chestatee",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Fork",
@@ -333,7 +333,7 @@
               },
               {
                 "name": "Gainesville III",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "Gainesville IV",
@@ -504,15 +504,15 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 49721,
+            "totalVotes": 54880,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 13125,
+                "votes": 18284,
                 "Precinct": [
                   {
                     "name": "Wilson",
-                    "votes": 0
+                    "votes": 613
                   },
                   {
                     "name": "Chicopee",
@@ -524,7 +524,7 @@
                   },
                   {
                     "name": "Oakwood II",
-                    "votes": 0
+                    "votes": 820
                   },
                   {
                     "name": "Flowery Branch I",
@@ -548,7 +548,7 @@
                   },
                   {
                     "name": "Candler",
-                    "votes": 0
+                    "votes": 972
                   },
                   {
                     "name": "Tadmore",
@@ -560,7 +560,7 @@
                   },
                   {
                     "name": "Lula",
-                    "votes": 0
+                    "votes": 690
                   },
                   {
                     "name": "Clermont",
@@ -572,11 +572,11 @@
                   },
                   {
                     "name": "Bark Camp",
-                    "votes": 0
+                    "votes": 1001
                   },
                   {
                     "name": "Chestatee",
-                    "votes": 0
+                    "votes": 735
                   },
                   {
                     "name": "Fork",
@@ -600,7 +600,7 @@
                   },
                   {
                     "name": "Gainesville III",
-                    "votes": 0
+                    "votes": 328
                   },
                   {
                     "name": "Gainesville IV",
@@ -1031,15 +1031,15 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 19593,
+            "totalVotes": 21087,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 3693,
+                "votes": 5187,
                 "Precinct": [
                   {
                     "name": "Wilson",
-                    "votes": 0
+                    "votes": 228
                   },
                   {
                     "name": "Chicopee",
@@ -1051,7 +1051,7 @@
                   },
                   {
                     "name": "Oakwood II",
-                    "votes": 0
+                    "votes": 194
                   },
                   {
                     "name": "Flowery Branch I",
@@ -1075,7 +1075,7 @@
                   },
                   {
                     "name": "Candler",
-                    "votes": 0
+                    "votes": 349
                   },
                   {
                     "name": "Tadmore",
@@ -1087,7 +1087,7 @@
                   },
                   {
                     "name": "Lula",
-                    "votes": 0
+                    "votes": 77
                   },
                   {
                     "name": "Clermont",
@@ -1099,11 +1099,11 @@
                   },
                   {
                     "name": "Bark Camp",
-                    "votes": 0
+                    "votes": 170
                   },
                   {
                     "name": "Chestatee",
-                    "votes": 0
+                    "votes": 122
                   },
                   {
                     "name": "Fork",
@@ -1127,7 +1127,7 @@
                   },
                   {
                     "name": "Gainesville III",
-                    "votes": 0
+                    "votes": 354
                   },
                   {
                     "name": "Gainesville IV",
@@ -1563,15 +1563,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 31,
-        "precinctsReported": 21,
+        "precinctsReported": 28,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 99,
+            "votes": 109,
             "Precinct": [
               {
                 "name": "Wilson",
-                "votes": 11
+                "votes": 13
               },
               {
                 "name": "Chicopee",
@@ -1583,7 +1583,7 @@
               },
               {
                 "name": "Oakwood II",
-                "votes": 2
+                "votes": 4
               },
               {
                 "name": "Flowery Branch I",
@@ -1607,7 +1607,7 @@
               },
               {
                 "name": "Candler",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "Tadmore",
@@ -1619,7 +1619,7 @@
               },
               {
                 "name": "Lula",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Clermont",
@@ -1631,7 +1631,7 @@
               },
               {
                 "name": "Bark Camp",
-                "votes": 2
+                "votes": 4
               },
               {
                 "name": "Chestatee",
@@ -1659,7 +1659,7 @@
               },
               {
                 "name": "Gainesville III",
-                "votes": 2
+                "votes": 4
               },
               {
                 "name": "Gainesville IV",
@@ -1830,15 +1830,15 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 49321,
+            "totalVotes": 54447,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 13026,
+                "votes": 18152,
                 "Precinct": [
                   {
                     "name": "Wilson",
-                    "votes": 0
+                    "votes": 599
                   },
                   {
                     "name": "Chicopee",
@@ -1850,7 +1850,7 @@
                   },
                   {
                     "name": "Oakwood II",
-                    "votes": 0
+                    "votes": 810
                   },
                   {
                     "name": "Flowery Branch I",
@@ -1874,7 +1874,7 @@
                   },
                   {
                     "name": "Candler",
-                    "votes": 0
+                    "votes": 975
                   },
                   {
                     "name": "Tadmore",
@@ -1886,7 +1886,7 @@
                   },
                   {
                     "name": "Lula",
-                    "votes": 0
+                    "votes": 691
                   },
                   {
                     "name": "Clermont",
@@ -1898,11 +1898,11 @@
                   },
                   {
                     "name": "Bark Camp",
-                    "votes": 0
+                    "votes": 998
                   },
                   {
                     "name": "Chestatee",
-                    "votes": 0
+                    "votes": 727
                   },
                   {
                     "name": "Fork",
@@ -1926,7 +1926,7 @@
                   },
                   {
                     "name": "Gainesville III",
-                    "votes": 0
+                    "votes": 326
                   },
                   {
                     "name": "Gainesville IV",
@@ -2357,15 +2357,15 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 19973,
+            "totalVotes": 21496,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 3786,
+                "votes": 5309,
                 "Precinct": [
                   {
                     "name": "Wilson",
-                    "votes": 0
+                    "votes": 241
                   },
                   {
                     "name": "Chicopee",
@@ -2377,7 +2377,7 @@
                   },
                   {
                     "name": "Oakwood II",
-                    "votes": 0
+                    "votes": 202
                   },
                   {
                     "name": "Flowery Branch I",
@@ -2401,7 +2401,7 @@
                   },
                   {
                     "name": "Candler",
-                    "votes": 0
+                    "votes": 348
                   },
                   {
                     "name": "Tadmore",
@@ -2413,7 +2413,7 @@
                   },
                   {
                     "name": "Lula",
-                    "votes": 0
+                    "votes": 75
                   },
                   {
                     "name": "Clermont",
@@ -2425,11 +2425,11 @@
                   },
                   {
                     "name": "Bark Camp",
-                    "votes": 0
+                    "votes": 171
                   },
                   {
                     "name": "Chestatee",
-                    "votes": 0
+                    "votes": 131
                   },
                   {
                     "name": "Fork",
@@ -2453,7 +2453,7 @@
                   },
                   {
                     "name": "Gainesville III",
-                    "votes": 0
+                    "votes": 355
                   },
                   {
                     "name": "Gainesville IV",
@@ -2889,15 +2889,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 31,
-        "precinctsReported": 21,
+        "precinctsReported": 28,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 775,
+            "votes": 823,
             "Precinct": [
               {
                 "name": "Wilson",
-                "votes": 43
+                "votes": 48
               },
               {
                 "name": "Chicopee",
@@ -2909,7 +2909,7 @@
               },
               {
                 "name": "Oakwood II",
-                "votes": 14
+                "votes": 19
               },
               {
                 "name": "Flowery Branch I",
@@ -2933,7 +2933,7 @@
               },
               {
                 "name": "Candler",
-                "votes": 19
+                "votes": 29
               },
               {
                 "name": "Tadmore",
@@ -2945,7 +2945,7 @@
               },
               {
                 "name": "Lula",
-                "votes": 17
+                "votes": 21
               },
               {
                 "name": "Clermont",
@@ -2957,11 +2957,11 @@
               },
               {
                 "name": "Bark Camp",
-                "votes": 30
+                "votes": 39
               },
               {
                 "name": "Chestatee",
-                "votes": 15
+                "votes": 23
               },
               {
                 "name": "Fork",
@@ -2985,7 +2985,7 @@
               },
               {
                 "name": "Gainesville III",
-                "votes": 15
+                "votes": 22
               },
               {
                 "name": "Gainesville IV",
@@ -3156,15 +3156,15 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 49982,
+            "totalVotes": 55170,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 13192,
+                "votes": 18380,
                 "Precinct": [
                   {
                     "name": "Wilson",
-                    "votes": 0
+                    "votes": 610
                   },
                   {
                     "name": "Chicopee",
@@ -3176,7 +3176,7 @@
                   },
                   {
                     "name": "Oakwood II",
-                    "votes": 0
+                    "votes": 823
                   },
                   {
                     "name": "Flowery Branch I",
@@ -3200,7 +3200,7 @@
                   },
                   {
                     "name": "Candler",
-                    "votes": 0
+                    "votes": 984
                   },
                   {
                     "name": "Tadmore",
@@ -3212,7 +3212,7 @@
                   },
                   {
                     "name": "Lula",
-                    "votes": 0
+                    "votes": 694
                   },
                   {
                     "name": "Clermont",
@@ -3224,11 +3224,11 @@
                   },
                   {
                     "name": "Bark Camp",
-                    "votes": 0
+                    "votes": 1008
                   },
                   {
                     "name": "Chestatee",
-                    "votes": 0
+                    "votes": 735
                   },
                   {
                     "name": "Fork",
@@ -3252,7 +3252,7 @@
                   },
                   {
                     "name": "Gainesville III",
-                    "votes": 0
+                    "votes": 334
                   },
                   {
                     "name": "Gainesville IV",
@@ -3683,15 +3683,15 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 18626,
+            "totalVotes": 20049,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 3496,
+                "votes": 4919,
                 "Precinct": [
                   {
                     "name": "Wilson",
-                    "votes": 0
+                    "votes": 227
                   },
                   {
                     "name": "Chicopee",
@@ -3703,7 +3703,7 @@
                   },
                   {
                     "name": "Oakwood II",
-                    "votes": 0
+                    "votes": 186
                   },
                   {
                     "name": "Flowery Branch I",
@@ -3727,7 +3727,7 @@
                   },
                   {
                     "name": "Candler",
-                    "votes": 0
+                    "votes": 330
                   },
                   {
                     "name": "Tadmore",
@@ -3739,7 +3739,7 @@
                   },
                   {
                     "name": "Lula",
-                    "votes": 0
+                    "votes": 69
                   },
                   {
                     "name": "Clermont",
@@ -3751,11 +3751,11 @@
                   },
                   {
                     "name": "Bark Camp",
-                    "votes": 0
+                    "votes": 154
                   },
                   {
                     "name": "Chestatee",
-                    "votes": 0
+                    "votes": 115
                   },
                   {
                     "name": "Fork",
@@ -3779,7 +3779,7 @@
                   },
                   {
                     "name": "Gainesville III",
-                    "votes": 0
+                    "votes": 342
                   },
                   {
                     "name": "Gainesville IV",
