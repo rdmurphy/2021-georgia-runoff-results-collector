@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 9:15:31 PM EST",
+    "Timestamp": "1/6/2021 2:27:58 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Screven",
     "VoterTurnout": {
       "totalVoters": 10133,
-      "ballotsCast": 5936,
-      "voterTurnout": 58.58,
+      "ballotsCast": 5942,
+      "voterTurnout": 58.64,
       "Precincts": {
         "Precinct": [
           {
@@ -20,15 +20,15 @@
           {
             "name": "Hunters",
             "totalVoters": 502,
-            "ballotsCast": 312,
-            "voterTurnout": 62.15,
+            "ballotsCast": 313,
+            "voterTurnout": 62.35,
             "percentReporting": "4"
           },
           {
             "name": "Newington",
             "totalVoters": 1142,
-            "ballotsCast": 667,
-            "voterTurnout": 58.41,
+            "ballotsCast": 668,
+            "voterTurnout": 58.49,
             "percentReporting": "4"
           },
           {
@@ -48,8 +48,8 @@
           {
             "name": "Bay Branch",
             "totalVoters": 975,
-            "ballotsCast": 638,
-            "voterTurnout": 65.44,
+            "ballotsCast": 641,
+            "voterTurnout": 65.74,
             "percentReporting": "4"
           },
           {
@@ -90,8 +90,8 @@
           {
             "name": "Cooperville Fire Station",
             "totalVoters": 281,
-            "ballotsCast": 163,
-            "voterTurnout": 58.01,
+            "ballotsCast": 164,
+            "voterTurnout": 58.36,
             "percentReporting": "4"
           }
         ]
@@ -219,7 +219,7 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 3506,
+            "totalVotes": 3509,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -385,7 +385,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 3,
                 "Precinct": [
                   {
                     "name": "Sylvania",
@@ -409,7 +409,7 @@
                   },
                   {
                     "name": "Bay Branch",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Hiltonia",
@@ -442,7 +442,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 2405,
+            "totalVotes": 2408,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -608,7 +608,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 3,
                 "Precinct": [
                   {
                     "name": "Sylvania",
@@ -616,11 +616,11 @@
                   },
                   {
                     "name": "Hunters",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Newington",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Jenk Hill Fire Sta",
@@ -656,7 +656,7 @@
                   },
                   {
                     "name": "Cooperville Fire Station",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -785,7 +785,7 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 3493,
+            "totalVotes": 3496,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -951,7 +951,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 3,
                 "Precinct": [
                   {
                     "name": "Sylvania",
@@ -975,7 +975,7 @@
                   },
                   {
                     "name": "Bay Branch",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Hiltonia",
@@ -1008,7 +1008,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 2424,
+            "totalVotes": 2427,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1174,7 +1174,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 3,
                 "Precinct": [
                   {
                     "name": "Sylvania",
@@ -1182,11 +1182,11 @@
                   },
                   {
                     "name": "Hunters",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Newington",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Jenk Hill Fire Sta",
@@ -1222,7 +1222,7 @@
                   },
                   {
                     "name": "Cooperville Fire Station",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -1351,7 +1351,7 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 3485,
+            "totalVotes": 3488,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1517,7 +1517,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 3,
                 "Precinct": [
                   {
                     "name": "Sylvania",
@@ -1541,7 +1541,7 @@
                   },
                   {
                     "name": "Bay Branch",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Hiltonia",
@@ -1574,7 +1574,7 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 2322,
+            "totalVotes": 2325,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1740,7 +1740,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 3,
                 "Precinct": [
                   {
                     "name": "Sylvania",
@@ -1748,11 +1748,11 @@
                   },
                   {
                     "name": "Hunters",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Newington",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Jenk Hill Fire Sta",
@@ -1788,7 +1788,7 @@
                   },
                   {
                     "name": "Cooperville Fire Station",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
