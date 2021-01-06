@@ -1,41 +1,41 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 9:13:39 PM EST",
+    "Timestamp": "1/5/2021 9:24:58 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Jackson",
     "VoterTurnout": {
       "totalVoters": 52859,
-      "ballotsCast": 23334,
-      "voterTurnout": 44.14,
+      "ballotsCast": 32617,
+      "voterTurnout": 61.71,
       "Precincts": {
         "Precinct": [
           {
             "name": "Central Jackson",
             "totalVoters": 16582,
-            "ballotsCast": 8575,
-            "voterTurnout": 51.71,
+            "ballotsCast": 10156,
+            "voterTurnout": 61.25,
             "percentReporting": "4"
           },
           {
             "name": "North Jackson",
             "totalVoters": 12916,
-            "ballotsCast": 6006,
-            "voterTurnout": 46.5,
+            "ballotsCast": 7494,
+            "voterTurnout": 58.02,
             "percentReporting": "4"
           },
           {
             "name": "West Jackson",
             "totalVoters": 15187,
-            "ballotsCast": 4947,
-            "voterTurnout": 32.57,
-            "percentReporting": "2"
+            "ballotsCast": 10158,
+            "voterTurnout": 66.89,
+            "percentReporting": "4"
           },
           {
             "name": "South Jackson",
             "totalVoters": 8174,
-            "ballotsCast": 3806,
-            "voterTurnout": 46.56,
+            "ballotsCast": 4809,
+            "voterTurnout": 58.83,
             "percentReporting": "4"
           }
         ]
@@ -48,23 +48,23 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 4,
-        "precinctsReported": 3,
+        "precinctsReported": 4,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 25,
+            "votes": 46,
             "Precinct": [
               {
                 "name": "Central Jackson",
-                "votes": 11
+                "votes": 18
               },
               {
                 "name": "North Jackson",
-                "votes": 6
+                "votes": 9
               },
               {
                 "name": "West Jackson",
-                "votes": 2
+                "votes": 13
               },
               {
                 "name": "South Jackson",
@@ -74,7 +74,7 @@
           },
           {
             "name": "Overvotes",
-            "votes": 0,
+            "votes": 3,
             "Precinct": [
               {
                 "name": "Central Jackson",
@@ -82,7 +82,7 @@
               },
               {
                 "name": "North Jackson",
-                "votes": 0
+                "votes": 3
               },
               {
                 "name": "West Jackson",
@@ -99,11 +99,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 19474,
+            "totalVotes": 25786,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 5817,
+                "votes": 8757,
                 "Precinct": [
                   {
                     "name": "Central Jackson",
@@ -115,7 +115,7 @@
                   },
                   {
                     "name": "West Jackson",
-                    "votes": 0
+                    "votes": 2940
                   },
                   {
                     "name": "South Jackson",
@@ -147,23 +147,23 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 3372,
                 "Precinct": [
                   {
                     "name": "Central Jackson",
-                    "votes": 0
+                    "votes": 887
                   },
                   {
                     "name": "North Jackson",
-                    "votes": 0
+                    "votes": 936
                   },
                   {
                     "name": "West Jackson",
-                    "votes": 0
+                    "votes": 1019
                   },
                   {
                     "name": "South Jackson",
-                    "votes": 0
+                    "votes": 530
                   }
                 ]
               },
@@ -194,11 +194,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 3835,
+            "totalVotes": 6782,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1107,
+                "votes": 1604,
                 "Precinct": [
                   {
                     "name": "Central Jackson",
@@ -210,7 +210,7 @@
                   },
                   {
                     "name": "West Jackson",
-                    "votes": 0
+                    "votes": 497
                   },
                   {
                     "name": "South Jackson",
@@ -242,23 +242,23 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 2450,
                 "Precinct": [
                   {
                     "name": "Central Jackson",
-                    "votes": 0
+                    "votes": 687
                   },
                   {
                     "name": "North Jackson",
-                    "votes": 0
+                    "votes": 546
                   },
                   {
                     "name": "West Jackson",
-                    "votes": 0
+                    "votes": 744
                   },
                   {
                     "name": "South Jackson",
-                    "votes": 0
+                    "votes": 473
                   }
                 ]
               },
@@ -294,27 +294,27 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 4,
-        "precinctsReported": 3,
+        "precinctsReported": 4,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 29,
+            "votes": 44,
             "Precinct": [
               {
                 "name": "Central Jackson",
-                "votes": 12
+                "votes": 13
               },
               {
                 "name": "North Jackson",
-                "votes": 7
+                "votes": 12
               },
               {
                 "name": "West Jackson",
-                "votes": 8
+                "votes": 16
               },
               {
                 "name": "South Jackson",
-                "votes": 2
+                "votes": 3
               }
             ]
           },
@@ -345,11 +345,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 19390,
+            "totalVotes": 25651,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 5794,
+                "votes": 8718,
                 "Precinct": [
                   {
                     "name": "Central Jackson",
@@ -361,7 +361,7 @@
                   },
                   {
                     "name": "West Jackson",
-                    "votes": 0
+                    "votes": 2924
                   },
                   {
                     "name": "South Jackson",
@@ -393,23 +393,23 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 3337,
                 "Precinct": [
                   {
                     "name": "Central Jackson",
-                    "votes": 0
+                    "votes": 875
                   },
                   {
                     "name": "North Jackson",
-                    "votes": 0
+                    "votes": 924
                   },
                   {
                     "name": "West Jackson",
-                    "votes": 0
+                    "votes": 1007
                   },
                   {
                     "name": "South Jackson",
-                    "votes": 0
+                    "votes": 531
                   }
                 ]
               },
@@ -440,11 +440,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 3915,
+            "totalVotes": 6922,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1137,
+                "votes": 1652,
                 "Precinct": [
                   {
                     "name": "Central Jackson",
@@ -456,7 +456,7 @@
                   },
                   {
                     "name": "West Jackson",
-                    "votes": 0
+                    "votes": 515
                   },
                   {
                     "name": "South Jackson",
@@ -488,23 +488,23 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 2492,
                 "Precinct": [
                   {
                     "name": "Central Jackson",
-                    "votes": 0
+                    "votes": 705
                   },
                   {
                     "name": "North Jackson",
-                    "votes": 0
+                    "votes": 559
                   },
                   {
                     "name": "West Jackson",
-                    "votes": 0
+                    "votes": 757
                   },
                   {
                     "name": "South Jackson",
-                    "votes": 0
+                    "votes": 471
                   }
                 ]
               },
@@ -540,37 +540,37 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 4,
-        "precinctsReported": 3,
+        "precinctsReported": 4,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 195,
+            "votes": 310,
             "Precinct": [
               {
                 "name": "Central Jackson",
-                "votes": 73
+                "votes": 101
               },
               {
                 "name": "North Jackson",
-                "votes": 58
+                "votes": 74
               },
               {
                 "name": "West Jackson",
-                "votes": 37
+                "votes": 93
               },
               {
                 "name": "South Jackson",
-                "votes": 27
+                "votes": 42
               }
             ]
           },
           {
             "name": "Overvotes",
-            "votes": 0,
+            "votes": 1,
             "Precinct": [
               {
                 "name": "Central Jackson",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "North Jackson",
@@ -591,11 +591,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 19532,
+            "totalVotes": 25961,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 5878,
+                "votes": 8842,
                 "Precinct": [
                   {
                     "name": "Central Jackson",
@@ -607,7 +607,7 @@
                   },
                   {
                     "name": "West Jackson",
-                    "votes": 0
+                    "votes": 2964
                   },
                   {
                     "name": "South Jackson",
@@ -639,23 +639,23 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 3465,
                 "Precinct": [
                   {
                     "name": "Central Jackson",
-                    "votes": 0
+                    "votes": 890
                   },
                   {
                     "name": "North Jackson",
-                    "votes": 0
+                    "votes": 972
                   },
                   {
                     "name": "West Jackson",
-                    "votes": 0
+                    "votes": 1042
                   },
                   {
                     "name": "South Jackson",
-                    "votes": 0
+                    "votes": 561
                   }
                 ]
               },
@@ -686,11 +686,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 3607,
+            "totalVotes": 6340,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1009,
+                "votes": 1461,
                 "Precinct": [
                   {
                     "name": "Central Jackson",
@@ -702,7 +702,7 @@
                   },
                   {
                     "name": "West Jackson",
-                    "votes": 0
+                    "votes": 452
                   },
                   {
                     "name": "South Jackson",
@@ -734,23 +734,23 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 2281,
                 "Precinct": [
                   {
                     "name": "Central Jackson",
-                    "votes": 0
+                    "votes": 661
                   },
                   {
                     "name": "North Jackson",
-                    "votes": 0
+                    "votes": 499
                   },
                   {
                     "name": "West Jackson",
-                    "votes": 0
+                    "votes": 695
                   },
                   {
                     "name": "South Jackson",
-                    "votes": 0
+                    "votes": 426
                   }
                 ]
               },

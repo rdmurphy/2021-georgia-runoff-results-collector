@@ -1,28 +1,28 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 9:00:06 PM EST",
+    "Timestamp": "1/5/2021 9:29:08 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Coweta",
     "VoterTurnout": {
       "totalVoters": 103616,
-      "ballotsCast": 32128,
-      "voterTurnout": 31.01,
+      "ballotsCast": 42224,
+      "voterTurnout": 40.75,
       "Precincts": {
         "Precinct": [
           {
             "name": "Senoia",
             "totalVoters": 5961,
-            "ballotsCast": 1545,
-            "voterTurnout": 25.92,
-            "percentReporting": "2"
+            "ballotsCast": 3198,
+            "voterTurnout": 53.65,
+            "percentReporting": "4"
           },
           {
             "name": "Moreland",
             "totalVoters": 2805,
-            "ballotsCast": 452,
-            "voterTurnout": 16.11,
-            "percentReporting": "2"
+            "ballotsCast": 1564,
+            "voterTurnout": 55.76,
+            "percentReporting": "4"
           },
           {
             "name": "Pine Road",
@@ -48,9 +48,9 @@
           {
             "name": "Sharpsburg",
             "totalVoters": 4598,
-            "ballotsCast": 1171,
-            "voterTurnout": 25.47,
-            "percentReporting": "2"
+            "ballotsCast": 2547,
+            "voterTurnout": 55.39,
+            "percentReporting": "4"
           },
           {
             "name": "Fischer Road",
@@ -62,9 +62,9 @@
           {
             "name": "Cedar Creek",
             "totalVoters": 5416,
-            "ballotsCast": 1497,
-            "voterTurnout": 27.64,
-            "percentReporting": "2"
+            "ballotsCast": 2905,
+            "voterTurnout": 53.64,
+            "percentReporting": "4"
           },
           {
             "name": "Grantville",
@@ -76,9 +76,9 @@
           {
             "name": "Haralson",
             "totalVoters": 2394,
-            "ballotsCast": 335,
-            "voterTurnout": 13.99,
-            "percentReporting": "2"
+            "ballotsCast": 1304,
+            "voterTurnout": 54.47,
+            "percentReporting": "4"
           },
           {
             "name": "Welcome",
@@ -118,9 +118,9 @@
           {
             "name": "Central",
             "totalVoters": 4536,
-            "ballotsCast": 687,
-            "voterTurnout": 15.15,
-            "percentReporting": "2"
+            "ballotsCast": 1437,
+            "voterTurnout": 31.68,
+            "percentReporting": "4"
           },
           {
             "name": "Newnan Centre",
@@ -153,9 +153,9 @@
           {
             "name": "Madras",
             "totalVoters": 4525,
-            "ballotsCast": 1203,
-            "voterTurnout": 26.59,
-            "percentReporting": "2"
+            "ballotsCast": 2392,
+            "voterTurnout": 52.86,
+            "percentReporting": "4"
           },
           {
             "name": "Cannongate",
@@ -167,9 +167,9 @@
           {
             "name": "Westside",
             "totalVoters": 864,
-            "ballotsCast": 95,
-            "voterTurnout": 11.0,
-            "percentReporting": "2"
+            "ballotsCast": 328,
+            "voterTurnout": 37.96,
+            "percentReporting": "4"
           },
           {
             "name": "Northside",
@@ -181,9 +181,9 @@
           {
             "name": "Thomas Crossroads",
             "totalVoters": 5012,
-            "ballotsCast": 1435,
-            "voterTurnout": 28.63,
-            "percentReporting": "2"
+            "ballotsCast": 2841,
+            "voterTurnout": 56.68,
+            "percentReporting": "4"
           },
           {
             "name": "Coweta Central Library",
@@ -202,19 +202,19 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 26,
-        "precinctsReported": 11,
+        "precinctsReported": 20,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 22,
+            "votes": 31,
             "Precinct": [
               {
                 "name": "Senoia",
-                "votes": 3
+                "votes": 4
               },
               {
                 "name": "Moreland",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Pine Road",
@@ -230,7 +230,7 @@
               },
               {
                 "name": "Sharpsburg",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Fischer Road",
@@ -270,7 +270,7 @@
               },
               {
                 "name": "Central",
-                "votes": 2
+                "votes": 4
               },
               {
                 "name": "Newnan Centre",
@@ -298,7 +298,7 @@
               },
               {
                 "name": "Westside",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Northside",
@@ -306,7 +306,7 @@
               },
               {
                 "name": "Thomas Crossroads",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Coweta Central Library",
@@ -429,19 +429,19 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 22959,
+            "totalVotes": 31219,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 6912,
+                "votes": 15172,
                 "Precinct": [
                   {
                     "name": "Senoia",
-                    "votes": 0
+                    "votes": 1428
                   },
                   {
                     "name": "Moreland",
-                    "votes": 0
+                    "votes": 991
                   },
                   {
                     "name": "Pine Road",
@@ -457,7 +457,7 @@
                   },
                   {
                     "name": "Sharpsburg",
-                    "votes": 0
+                    "votes": 1207
                   },
                   {
                     "name": "Fischer Road",
@@ -465,7 +465,7 @@
                   },
                   {
                     "name": "Cedar Creek",
-                    "votes": 0
+                    "votes": 1250
                   },
                   {
                     "name": "Grantville",
@@ -473,7 +473,7 @@
                   },
                   {
                     "name": "Haralson",
-                    "votes": 0
+                    "votes": 870
                   },
                   {
                     "name": "Welcome",
@@ -497,7 +497,7 @@
                   },
                   {
                     "name": "Central",
-                    "votes": 0
+                    "votes": 288
                   },
                   {
                     "name": "Newnan Centre",
@@ -517,7 +517,7 @@
                   },
                   {
                     "name": "Madras",
-                    "votes": 0
+                    "votes": 945
                   },
                   {
                     "name": "Cannongate",
@@ -525,7 +525,7 @@
                   },
                   {
                     "name": "Westside",
-                    "votes": 0
+                    "votes": 77
                   },
                   {
                     "name": "Northside",
@@ -533,7 +533,7 @@
                   },
                   {
                     "name": "Thomas Crossroads",
-                    "votes": 0
+                    "votes": 1204
                   },
                   {
                     "name": "Coweta Central Library",
@@ -876,19 +876,19 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 9147,
+            "totalVotes": 10974,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2058,
+                "votes": 3885,
                 "Precinct": [
                   {
                     "name": "Senoia",
-                    "votes": 0
+                    "votes": 224
                   },
                   {
                     "name": "Moreland",
-                    "votes": 0
+                    "votes": 119
                   },
                   {
                     "name": "Pine Road",
@@ -904,7 +904,7 @@
                   },
                   {
                     "name": "Sharpsburg",
-                    "votes": 0
+                    "votes": 168
                   },
                   {
                     "name": "Fischer Road",
@@ -912,7 +912,7 @@
                   },
                   {
                     "name": "Cedar Creek",
-                    "votes": 0
+                    "votes": 158
                   },
                   {
                     "name": "Grantville",
@@ -920,7 +920,7 @@
                   },
                   {
                     "name": "Haralson",
-                    "votes": 0
+                    "votes": 99
                   },
                   {
                     "name": "Welcome",
@@ -944,7 +944,7 @@
                   },
                   {
                     "name": "Central",
-                    "votes": 0
+                    "votes": 460
                   },
                   {
                     "name": "Newnan Centre",
@@ -964,7 +964,7 @@
                   },
                   {
                     "name": "Madras",
-                    "votes": 0
+                    "votes": 244
                   },
                   {
                     "name": "Cannongate",
@@ -972,7 +972,7 @@
                   },
                   {
                     "name": "Westside",
-                    "votes": 0
+                    "votes": 155
                   },
                   {
                     "name": "Northside",
@@ -980,7 +980,7 @@
                   },
                   {
                     "name": "Thomas Crossroads",
-                    "votes": 0
+                    "votes": 200
                   },
                   {
                     "name": "Coweta Central Library",
@@ -1328,19 +1328,19 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 26,
-        "precinctsReported": 11,
+        "precinctsReported": 20,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 36,
+            "votes": 51,
             "Precinct": [
               {
                 "name": "Senoia",
-                "votes": 2
+                "votes": 5
               },
               {
                 "name": "Moreland",
-                "votes": 3
+                "votes": 6
               },
               {
                 "name": "Pine Road",
@@ -1356,7 +1356,7 @@
               },
               {
                 "name": "Sharpsburg",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Fischer Road",
@@ -1396,7 +1396,7 @@
               },
               {
                 "name": "Central",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Newnan Centre",
@@ -1424,7 +1424,7 @@
               },
               {
                 "name": "Westside",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Northside",
@@ -1432,7 +1432,7 @@
               },
               {
                 "name": "Thomas Crossroads",
-                "votes": 1
+                "votes": 4
               },
               {
                 "name": "Coweta Central Library",
@@ -1555,19 +1555,19 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 22845,
+            "totalVotes": 31064,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 6878,
+                "votes": 15097,
                 "Precinct": [
                   {
                     "name": "Senoia",
-                    "votes": 0
+                    "votes": 1420
                   },
                   {
                     "name": "Moreland",
-                    "votes": 0
+                    "votes": 988
                   },
                   {
                     "name": "Pine Road",
@@ -1583,7 +1583,7 @@
                   },
                   {
                     "name": "Sharpsburg",
-                    "votes": 0
+                    "votes": 1200
                   },
                   {
                     "name": "Fischer Road",
@@ -1591,7 +1591,7 @@
                   },
                   {
                     "name": "Cedar Creek",
-                    "votes": 0
+                    "votes": 1240
                   },
                   {
                     "name": "Grantville",
@@ -1599,7 +1599,7 @@
                   },
                   {
                     "name": "Haralson",
-                    "votes": 0
+                    "votes": 865
                   },
                   {
                     "name": "Welcome",
@@ -1623,7 +1623,7 @@
                   },
                   {
                     "name": "Central",
-                    "votes": 0
+                    "votes": 287
                   },
                   {
                     "name": "Newnan Centre",
@@ -1643,7 +1643,7 @@
                   },
                   {
                     "name": "Madras",
-                    "votes": 0
+                    "votes": 938
                   },
                   {
                     "name": "Cannongate",
@@ -1651,7 +1651,7 @@
                   },
                   {
                     "name": "Westside",
-                    "votes": 0
+                    "votes": 74
                   },
                   {
                     "name": "Northside",
@@ -1659,7 +1659,7 @@
                   },
                   {
                     "name": "Thomas Crossroads",
-                    "votes": 0
+                    "votes": 1207
                   },
                   {
                     "name": "Coweta Central Library",
@@ -2002,19 +2002,19 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 9247,
+            "totalVotes": 11109,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2088,
+                "votes": 3950,
                 "Precinct": [
                   {
                     "name": "Senoia",
-                    "votes": 0
+                    "votes": 230
                   },
                   {
                     "name": "Moreland",
-                    "votes": 0
+                    "votes": 121
                   },
                   {
                     "name": "Pine Road",
@@ -2030,7 +2030,7 @@
                   },
                   {
                     "name": "Sharpsburg",
-                    "votes": 0
+                    "votes": 174
                   },
                   {
                     "name": "Fischer Road",
@@ -2038,7 +2038,7 @@
                   },
                   {
                     "name": "Cedar Creek",
-                    "votes": 0
+                    "votes": 168
                   },
                   {
                     "name": "Grantville",
@@ -2046,7 +2046,7 @@
                   },
                   {
                     "name": "Haralson",
-                    "votes": 0
+                    "votes": 104
                   },
                   {
                     "name": "Welcome",
@@ -2070,7 +2070,7 @@
                   },
                   {
                     "name": "Central",
-                    "votes": 0
+                    "votes": 461
                   },
                   {
                     "name": "Newnan Centre",
@@ -2090,7 +2090,7 @@
                   },
                   {
                     "name": "Madras",
-                    "votes": 0
+                    "votes": 251
                   },
                   {
                     "name": "Cannongate",
@@ -2098,7 +2098,7 @@
                   },
                   {
                     "name": "Westside",
-                    "votes": 0
+                    "votes": 157
                   },
                   {
                     "name": "Northside",
@@ -2106,7 +2106,7 @@
                   },
                   {
                     "name": "Thomas Crossroads",
-                    "votes": 0
+                    "votes": 196
                   },
                   {
                     "name": "Coweta Central Library",
@@ -2454,19 +2454,19 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 26,
-        "precinctsReported": 11,
+        "precinctsReported": 20,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 243,
+            "votes": 318,
             "Precinct": [
               {
                 "name": "Senoia",
-                "votes": 16
+                "votes": 25
               },
               {
                 "name": "Moreland",
-                "votes": 5
+                "votes": 13
               },
               {
                 "name": "Pine Road",
@@ -2482,7 +2482,7 @@
               },
               {
                 "name": "Sharpsburg",
-                "votes": 7
+                "votes": 18
               },
               {
                 "name": "Fischer Road",
@@ -2490,7 +2490,7 @@
               },
               {
                 "name": "Cedar Creek",
-                "votes": 10
+                "votes": 18
               },
               {
                 "name": "Grantville",
@@ -2498,7 +2498,7 @@
               },
               {
                 "name": "Haralson",
-                "votes": 1
+                "votes": 7
               },
               {
                 "name": "Welcome",
@@ -2522,7 +2522,7 @@
               },
               {
                 "name": "Central",
-                "votes": 7
+                "votes": 15
               },
               {
                 "name": "Newnan Centre",
@@ -2542,7 +2542,7 @@
               },
               {
                 "name": "Madras",
-                "votes": 9
+                "votes": 18
               },
               {
                 "name": "Cannongate",
@@ -2550,7 +2550,7 @@
               },
               {
                 "name": "Westside",
-                "votes": 1
+                "votes": 7
               },
               {
                 "name": "Northside",
@@ -2558,7 +2558,7 @@
               },
               {
                 "name": "Thomas Crossroads",
-                "votes": 6
+                "votes": 16
               },
               {
                 "name": "Coweta Central Library",
@@ -2681,19 +2681,19 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 23136,
+            "totalVotes": 31439,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 7025,
+                "votes": 15328,
                 "Precinct": [
                   {
                     "name": "Senoia",
-                    "votes": 0
+                    "votes": 1441
                   },
                   {
                     "name": "Moreland",
-                    "votes": 0
+                    "votes": 993
                   },
                   {
                     "name": "Pine Road",
@@ -2709,7 +2709,7 @@
                   },
                   {
                     "name": "Sharpsburg",
-                    "votes": 0
+                    "votes": 1208
                   },
                   {
                     "name": "Fischer Road",
@@ -2717,7 +2717,7 @@
                   },
                   {
                     "name": "Cedar Creek",
-                    "votes": 0
+                    "votes": 1253
                   },
                   {
                     "name": "Grantville",
@@ -2725,7 +2725,7 @@
                   },
                   {
                     "name": "Haralson",
-                    "votes": 0
+                    "votes": 874
                   },
                   {
                     "name": "Welcome",
@@ -2749,7 +2749,7 @@
                   },
                   {
                     "name": "Central",
-                    "votes": 0
+                    "votes": 294
                   },
                   {
                     "name": "Newnan Centre",
@@ -2769,7 +2769,7 @@
                   },
                   {
                     "name": "Madras",
-                    "votes": 0
+                    "votes": 958
                   },
                   {
                     "name": "Cannongate",
@@ -2777,7 +2777,7 @@
                   },
                   {
                     "name": "Westside",
-                    "votes": 0
+                    "votes": 72
                   },
                   {
                     "name": "Northside",
@@ -2785,7 +2785,7 @@
                   },
                   {
                     "name": "Thomas Crossroads",
-                    "votes": 0
+                    "votes": 1210
                   },
                   {
                     "name": "Coweta Central Library",
@@ -3128,19 +3128,19 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 8746,
+            "totalVotes": 10463,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1888,
+                "votes": 3605,
                 "Precinct": [
                   {
                     "name": "Senoia",
-                    "votes": 0
+                    "votes": 203
                   },
                   {
                     "name": "Moreland",
-                    "votes": 0
+                    "votes": 111
                   },
                   {
                     "name": "Pine Road",
@@ -3156,7 +3156,7 @@
                   },
                   {
                     "name": "Sharpsburg",
-                    "votes": 0
+                    "votes": 157
                   },
                   {
                     "name": "Fischer Road",
@@ -3164,7 +3164,7 @@
                   },
                   {
                     "name": "Cedar Creek",
-                    "votes": 0
+                    "votes": 147
                   },
                   {
                     "name": "Grantville",
@@ -3172,7 +3172,7 @@
                   },
                   {
                     "name": "Haralson",
-                    "votes": 0
+                    "votes": 89
                   },
                   {
                     "name": "Welcome",
@@ -3196,7 +3196,7 @@
                   },
                   {
                     "name": "Central",
-                    "votes": 0
+                    "votes": 448
                   },
                   {
                     "name": "Newnan Centre",
@@ -3216,7 +3216,7 @@
                   },
                   {
                     "name": "Madras",
-                    "votes": 0
+                    "votes": 222
                   },
                   {
                     "name": "Cannongate",
@@ -3224,7 +3224,7 @@
                   },
                   {
                     "name": "Westside",
-                    "votes": 0
+                    "votes": 155
                   },
                   {
                     "name": "Northside",
@@ -3232,7 +3232,7 @@
                   },
                   {
                     "name": "Thomas Crossroads",
-                    "votes": 0
+                    "votes": 185
                   },
                   {
                     "name": "Coweta Central Library",

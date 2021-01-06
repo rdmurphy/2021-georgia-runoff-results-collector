@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 9:13:37 PM EST",
+    "Timestamp": "1/5/2021 9:24:03 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Dodge",
     "VoterTurnout": {
       "totalVoters": 11662,
-      "ballotsCast": 795,
-      "voterTurnout": 6.82,
+      "ballotsCast": 1542,
+      "voterTurnout": 13.22,
       "Precincts": {
         "Precinct": [
           {
@@ -48,9 +48,9 @@
           {
             "name": "Jones",
             "totalVoters": 455,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 143,
+            "voterTurnout": 31.43,
+            "percentReporting": "2"
           },
           {
             "name": "Lee",
@@ -62,30 +62,30 @@
           {
             "name": "McCranie",
             "totalVoters": 295,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 117,
+            "voterTurnout": 39.66,
+            "percentReporting": "2"
           },
           {
             "name": "Milan",
             "totalVoters": 348,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 141,
+            "voterTurnout": 40.52,
+            "percentReporting": "2"
           },
           {
             "name": "Mitchell",
             "totalVoters": 343,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 136,
+            "voterTurnout": 39.65,
+            "percentReporting": "2"
           },
           {
             "name": "Mullis",
             "totalVoters": 516,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 210,
+            "voterTurnout": 40.7,
+            "percentReporting": "2"
           },
           {
             "name": "Plainfield",
@@ -136,7 +136,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 3,
+            "votes": 6,
             "Precinct": [
               {
                 "name": "Chauncey",
@@ -172,11 +172,11 @@
               },
               {
                 "name": "Milan",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Mitchell",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Mullis",
@@ -279,11 +279,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 661,
+            "totalVotes": 1306,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 661,
+                "votes": 1306,
                 "Precinct": [
                   {
                     "name": "Chauncey",
@@ -307,7 +307,7 @@
                   },
                   {
                     "name": "Jones",
-                    "votes": 0
+                    "votes": 126
                   },
                   {
                     "name": "Lee",
@@ -315,19 +315,19 @@
                   },
                   {
                     "name": "McCranie",
-                    "votes": 0
+                    "votes": 107
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 119
                   },
                   {
                     "name": "Mitchell",
-                    "votes": 0
+                    "votes": 122
                   },
                   {
                     "name": "Mullis",
-                    "votes": 0
+                    "votes": 171
                   },
                   {
                     "name": "Plainfield",
@@ -566,11 +566,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 131,
+            "totalVotes": 230,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 131,
+                "votes": 230,
                 "Precinct": [
                   {
                     "name": "Chauncey",
@@ -594,7 +594,7 @@
                   },
                   {
                     "name": "Jones",
-                    "votes": 0
+                    "votes": 17
                   },
                   {
                     "name": "Lee",
@@ -602,19 +602,19 @@
                   },
                   {
                     "name": "McCranie",
-                    "votes": 0
+                    "votes": 10
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 20
                   },
                   {
                     "name": "Mitchell",
-                    "votes": 0
+                    "votes": 13
                   },
                   {
                     "name": "Mullis",
-                    "votes": 0
+                    "votes": 39
                   },
                   {
                     "name": "Plainfield",
@@ -862,7 +862,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 1,
+            "votes": 2,
             "Precinct": [
               {
                 "name": "Chauncey",
@@ -898,7 +898,7 @@
               },
               {
                 "name": "Milan",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Mitchell",
@@ -1005,11 +1005,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 664,
+            "totalVotes": 1311,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 664,
+                "votes": 1311,
                 "Precinct": [
                   {
                     "name": "Chauncey",
@@ -1033,7 +1033,7 @@
                   },
                   {
                     "name": "Jones",
-                    "votes": 0
+                    "votes": 126
                   },
                   {
                     "name": "Lee",
@@ -1041,19 +1041,19 @@
                   },
                   {
                     "name": "McCranie",
-                    "votes": 0
+                    "votes": 108
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 121
                   },
                   {
                     "name": "Mitchell",
-                    "votes": 0
+                    "votes": 122
                   },
                   {
                     "name": "Mullis",
-                    "votes": 0
+                    "votes": 170
                   },
                   {
                     "name": "Plainfield",
@@ -1292,11 +1292,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 130,
+            "totalVotes": 229,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 130,
+                "votes": 229,
                 "Precinct": [
                   {
                     "name": "Chauncey",
@@ -1320,7 +1320,7 @@
                   },
                   {
                     "name": "Jones",
-                    "votes": 0
+                    "votes": 17
                   },
                   {
                     "name": "Lee",
@@ -1328,19 +1328,19 @@
                   },
                   {
                     "name": "McCranie",
-                    "votes": 0
+                    "votes": 9
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 19
                   },
                   {
                     "name": "Mitchell",
-                    "votes": 0
+                    "votes": 14
                   },
                   {
                     "name": "Mullis",
-                    "votes": 0
+                    "votes": 40
                   },
                   {
                     "name": "Plainfield",
@@ -1588,7 +1588,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 14,
+            "votes": 36,
             "Precinct": [
               {
                 "name": "Chauncey",
@@ -1612,7 +1612,7 @@
               },
               {
                 "name": "Jones",
-                "votes": 0
+                "votes": 3
               },
               {
                 "name": "Lee",
@@ -1620,19 +1620,19 @@
               },
               {
                 "name": "McCranie",
-                "votes": 0
+                "votes": 3
               },
               {
                 "name": "Milan",
-                "votes": 0
+                "votes": 4
               },
               {
                 "name": "Mitchell",
-                "votes": 0
+                "votes": 7
               },
               {
                 "name": "Mullis",
-                "votes": 0
+                "votes": 5
               },
               {
                 "name": "Plainfield",
@@ -1731,11 +1731,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 656,
+            "totalVotes": 1294,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 656,
+                "votes": 1294,
                 "Precinct": [
                   {
                     "name": "Chauncey",
@@ -1759,7 +1759,7 @@
                   },
                   {
                     "name": "Jones",
-                    "votes": 0
+                    "votes": 124
                   },
                   {
                     "name": "Lee",
@@ -1767,19 +1767,19 @@
                   },
                   {
                     "name": "McCranie",
-                    "votes": 0
+                    "votes": 105
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 118
                   },
                   {
                     "name": "Mitchell",
-                    "votes": 0
+                    "votes": 118
                   },
                   {
                     "name": "Mullis",
-                    "votes": 0
+                    "votes": 173
                   },
                   {
                     "name": "Plainfield",
@@ -2018,11 +2018,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 125,
+            "totalVotes": 212,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 125,
+                "votes": 212,
                 "Precinct": [
                   {
                     "name": "Chauncey",
@@ -2046,7 +2046,7 @@
                   },
                   {
                     "name": "Jones",
-                    "votes": 0
+                    "votes": 16
                   },
                   {
                     "name": "Lee",
@@ -2054,19 +2054,19 @@
                   },
                   {
                     "name": "McCranie",
-                    "votes": 0
+                    "votes": 9
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 19
                   },
                   {
                     "name": "Mitchell",
-                    "votes": 0
+                    "votes": 11
                   },
                   {
                     "name": "Mullis",
-                    "votes": 0
+                    "votes": 32
                   },
                   {
                     "name": "Plainfield",

@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:45:54 PM EST",
+    "Timestamp": "1/5/2021 9:21:58 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Bryan",
     "VoterTurnout": {
       "totalVoters": 31344,
-      "ballotsCast": 13611,
-      "voterTurnout": 43.42,
+      "ballotsCast": 17085,
+      "voterTurnout": 54.51,
       "Precincts": {
         "Precinct": [
           {
@@ -20,9 +20,9 @@
           {
             "name": "Danielsiding",
             "totalVoters": 2326,
-            "ballotsCast": 886,
-            "voterTurnout": 38.09,
-            "percentReporting": "2"
+            "ballotsCast": 1296,
+            "voterTurnout": 55.72,
+            "percentReporting": "4"
           },
           {
             "name": "Ellabell",
@@ -41,44 +41,44 @@
           {
             "name": "Ways Station",
             "totalVoters": 2011,
-            "ballotsCast": 658,
-            "voterTurnout": 32.72,
-            "percentReporting": "2"
+            "ballotsCast": 980,
+            "voterTurnout": 48.73,
+            "percentReporting": "4"
           },
           {
             "name": "RH Rec Complex",
             "totalVoters": 3336,
-            "ballotsCast": 1081,
-            "voterTurnout": 32.4,
-            "percentReporting": "2"
+            "ballotsCast": 1527,
+            "voterTurnout": 45.77,
+            "percentReporting": "4"
           },
           {
             "name": "JF Gregory Park",
             "totalVoters": 2941,
-            "ballotsCast": 1599,
-            "voterTurnout": 54.37,
-            "percentReporting": "2"
+            "ballotsCast": 1983,
+            "voterTurnout": 67.43,
+            "percentReporting": "4"
           },
           {
             "name": "Keller",
             "totalVoters": 4371,
-            "ballotsCast": 2072,
-            "voterTurnout": 47.4,
-            "percentReporting": "2"
+            "ballotsCast": 2811,
+            "voterTurnout": 64.31,
+            "percentReporting": "4"
           },
           {
             "name": "Hwy 144 East",
             "totalVoters": 5594,
-            "ballotsCast": 2481,
-            "voterTurnout": 44.35,
-            "percentReporting": "2"
+            "ballotsCast": 3291,
+            "voterTurnout": 58.83,
+            "percentReporting": "4"
           },
           {
             "name": "Public Safety Complex",
             "totalVoters": 2631,
-            "ballotsCast": 795,
-            "voterTurnout": 30.22,
-            "percentReporting": "2"
+            "ballotsCast": 1158,
+            "voterTurnout": 44.01,
+            "percentReporting": "4"
           }
         ]
       }
@@ -90,11 +90,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 10,
-        "precinctsReported": 3,
+        "precinctsReported": 10,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 8,
+            "votes": 9,
             "Precinct": [
               {
                 "name": "Pembroke",
@@ -114,7 +114,7 @@
               },
               {
                 "name": "Ways Station",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "RH Rec Complex",
@@ -189,11 +189,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 9280,
+            "totalVotes": 11971,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1262,
+                "votes": 3953,
                 "Precinct": [
                   {
                     "name": "Pembroke",
@@ -201,7 +201,7 @@
                   },
                   {
                     "name": "Danielsiding",
-                    "votes": 0
+                    "votes": 340
                   },
                   {
                     "name": "Ellabell",
@@ -213,27 +213,27 @@
                   },
                   {
                     "name": "Ways Station",
-                    "votes": 0
+                    "votes": 235
                   },
                   {
                     "name": "RH Rec Complex",
-                    "votes": 0
+                    "votes": 282
                   },
                   {
                     "name": "JF Gregory Park",
-                    "votes": 0
+                    "votes": 323
                   },
                   {
                     "name": "Keller",
-                    "votes": 0
+                    "votes": 602
                   },
                   {
                     "name": "Hwy 144 East",
-                    "votes": 0
+                    "votes": 650
                   },
                   {
                     "name": "Public Safety Complex",
-                    "votes": 0
+                    "votes": 259
                   }
                 ]
               },
@@ -380,11 +380,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 4323,
+            "totalVotes": 5105,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 307,
+                "votes": 1089,
                 "Precinct": [
                   {
                     "name": "Pembroke",
@@ -392,7 +392,7 @@
                   },
                   {
                     "name": "Danielsiding",
-                    "votes": 0
+                    "votes": 70
                   },
                   {
                     "name": "Ellabell",
@@ -404,27 +404,27 @@
                   },
                   {
                     "name": "Ways Station",
-                    "votes": 0
+                    "votes": 86
                   },
                   {
                     "name": "RH Rec Complex",
-                    "votes": 0
+                    "votes": 164
                   },
                   {
                     "name": "JF Gregory Park",
-                    "votes": 0
+                    "votes": 61
                   },
                   {
                     "name": "Keller",
-                    "votes": 0
+                    "votes": 137
                   },
                   {
                     "name": "Hwy 144 East",
-                    "votes": 0
+                    "votes": 160
                   },
                   {
                     "name": "Public Safety Complex",
-                    "votes": 0
+                    "votes": 104
                   }
                 ]
               },
@@ -576,11 +576,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 10,
-        "precinctsReported": 3,
+        "precinctsReported": 10,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 15,
+            "votes": 17,
             "Precinct": [
               {
                 "name": "Pembroke",
@@ -612,11 +612,11 @@
               },
               {
                 "name": "Keller",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Hwy 144 East",
-                "votes": 4
+                "votes": 5
               },
               {
                 "name": "Public Safety Complex",
@@ -675,11 +675,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 9268,
+            "totalVotes": 11968,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1260,
+                "votes": 3960,
                 "Precinct": [
                   {
                     "name": "Pembroke",
@@ -687,7 +687,7 @@
                   },
                   {
                     "name": "Danielsiding",
-                    "votes": 0
+                    "votes": 341
                   },
                   {
                     "name": "Ellabell",
@@ -699,27 +699,27 @@
                   },
                   {
                     "name": "Ways Station",
-                    "votes": 0
+                    "votes": 235
                   },
                   {
                     "name": "RH Rec Complex",
-                    "votes": 0
+                    "votes": 283
                   },
                   {
                     "name": "JF Gregory Park",
-                    "votes": 0
+                    "votes": 323
                   },
                   {
                     "name": "Keller",
-                    "votes": 0
+                    "votes": 603
                   },
                   {
                     "name": "Hwy 144 East",
-                    "votes": 0
+                    "votes": 652
                   },
                   {
                     "name": "Public Safety Complex",
-                    "votes": 0
+                    "votes": 263
                   }
                 ]
               },
@@ -866,11 +866,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 4328,
+            "totalVotes": 5100,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 311,
+                "votes": 1083,
                 "Precinct": [
                   {
                     "name": "Pembroke",
@@ -878,7 +878,7 @@
                   },
                   {
                     "name": "Danielsiding",
-                    "votes": 0
+                    "votes": 69
                   },
                   {
                     "name": "Ellabell",
@@ -890,27 +890,27 @@
                   },
                   {
                     "name": "Ways Station",
-                    "votes": 0
+                    "votes": 87
                   },
                   {
                     "name": "RH Rec Complex",
-                    "votes": 0
+                    "votes": 163
                   },
                   {
                     "name": "JF Gregory Park",
-                    "votes": 0
+                    "votes": 61
                   },
                   {
                     "name": "Keller",
-                    "votes": 0
+                    "votes": 135
                   },
                   {
                     "name": "Hwy 144 East",
-                    "votes": 0
+                    "votes": 157
                   },
                   {
                     "name": "Public Safety Complex",
-                    "votes": 0
+                    "votes": 100
                   }
                 ]
               },
@@ -1062,11 +1062,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 10,
-        "precinctsReported": 3,
+        "precinctsReported": 10,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 146,
+            "votes": 173,
             "Precinct": [
               {
                 "name": "Pembroke",
@@ -1074,7 +1074,7 @@
               },
               {
                 "name": "Danielsiding",
-                "votes": 4
+                "votes": 8
               },
               {
                 "name": "Ellabell",
@@ -1086,27 +1086,27 @@
               },
               {
                 "name": "Ways Station",
-                "votes": 8
+                "votes": 10
               },
               {
                 "name": "RH Rec Complex",
-                "votes": 12
+                "votes": 19
               },
               {
                 "name": "JF Gregory Park",
-                "votes": 21
-              },
-              {
-                "name": "Keller",
-                "votes": 12
-              },
-              {
-                "name": "Hwy 144 East",
                 "votes": 23
               },
               {
+                "name": "Keller",
+                "votes": 18
+              },
+              {
+                "name": "Hwy 144 East",
+                "votes": 27
+              },
+              {
                 "name": "Public Safety Complex",
-                "votes": 5
+                "votes": 7
               }
             ]
           },
@@ -1161,11 +1161,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 9339,
+            "totalVotes": 12076,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1267,
+                "votes": 4004,
                 "Precinct": [
                   {
                     "name": "Pembroke",
@@ -1173,7 +1173,7 @@
                   },
                   {
                     "name": "Danielsiding",
-                    "votes": 0
+                    "votes": 341
                   },
                   {
                     "name": "Ellabell",
@@ -1185,27 +1185,27 @@
                   },
                   {
                     "name": "Ways Station",
-                    "votes": 0
+                    "votes": 242
                   },
                   {
                     "name": "RH Rec Complex",
-                    "votes": 0
+                    "votes": 285
                   },
                   {
                     "name": "JF Gregory Park",
-                    "votes": 0
+                    "votes": 332
                   },
                   {
                     "name": "Keller",
-                    "votes": 0
+                    "votes": 605
                   },
                   {
                     "name": "Hwy 144 East",
-                    "votes": 0
+                    "votes": 662
                   },
                   {
                     "name": "Public Safety Complex",
-                    "votes": 0
+                    "votes": 270
                   }
                 ]
               },
@@ -1352,11 +1352,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 4126,
+            "totalVotes": 4836,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 288,
+                "votes": 998,
                 "Precinct": [
                   {
                     "name": "Pembroke",
@@ -1364,7 +1364,7 @@
                   },
                   {
                     "name": "Danielsiding",
-                    "votes": 0
+                    "votes": 65
                   },
                   {
                     "name": "Ellabell",
@@ -1376,27 +1376,27 @@
                   },
                   {
                     "name": "Ways Station",
-                    "votes": 0
+                    "votes": 78
                   },
                   {
                     "name": "RH Rec Complex",
-                    "votes": 0
+                    "votes": 154
                   },
                   {
                     "name": "JF Gregory Park",
-                    "votes": 0
+                    "votes": 50
                   },
                   {
                     "name": "Keller",
-                    "votes": 0
+                    "votes": 128
                   },
                   {
                     "name": "Hwy 144 East",
-                    "votes": 0
+                    "votes": 144
                   },
                   {
                     "name": "Public Safety Complex",
-                    "votes": 0
+                    "votes": 91
                   }
                 ]
               },
