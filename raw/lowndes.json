@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:10:57 PM EST",
+    "Timestamp": "1/5/2021 9:01:16 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Lowndes",
     "VoterTurnout": {
       "totalVoters": 77364,
-      "ballotsCast": 36717,
-      "voterTurnout": 47.46,
+      "ballotsCast": 39139,
+      "voterTurnout": 50.59,
       "Precincts": {
         "Precinct": [
           {
@@ -20,9 +20,9 @@
           {
             "name": "Trinity",
             "totalVoters": 11147,
-            "ballotsCast": 4171,
-            "voterTurnout": 37.42,
-            "percentReporting": "2"
+            "ballotsCast": 5595,
+            "voterTurnout": 50.19,
+            "percentReporting": "4"
           },
           {
             "name": "Northside",
@@ -55,9 +55,9 @@
           {
             "name": "Clyattville",
             "totalVoters": 4854,
-            "ballotsCast": 1514,
-            "voterTurnout": 31.19,
-            "percentReporting": "2"
+            "ballotsCast": 2512,
+            "voterTurnout": 51.75,
+            "percentReporting": "4"
           },
           {
             "name": "Dasher",
@@ -111,11 +111,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 13,
-        "precinctsReported": 11,
+        "precinctsReported": 13,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 88,
+            "votes": 90,
             "Precinct": [
               {
                 "name": "Hahira Train Depot",
@@ -143,7 +143,7 @@
               },
               {
                 "name": "Clyattville",
-                "votes": 3
+                "votes": 5
               },
               {
                 "name": "Dasher",
@@ -234,11 +234,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 20388,
+            "totalVotes": 22162,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 6257,
+                "votes": 8031,
                 "Precinct": [
                   {
                     "name": "Hahira Train Depot",
@@ -246,7 +246,7 @@
                   },
                   {
                     "name": "Trinity",
-                    "votes": 0
+                    "votes": 930
                   },
                   {
                     "name": "Northside",
@@ -266,7 +266,7 @@
                   },
                   {
                     "name": "Clyattville",
-                    "votes": 0
+                    "votes": 844
                   },
                   {
                     "name": "Dasher",
@@ -473,11 +473,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 16241,
+            "totalVotes": 16887,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2819,
+                "votes": 3465,
                 "Precinct": [
                   {
                     "name": "Hahira Train Depot",
@@ -485,7 +485,7 @@
                   },
                   {
                     "name": "Trinity",
-                    "votes": 0
+                    "votes": 494
                   },
                   {
                     "name": "Northside",
@@ -505,7 +505,7 @@
                   },
                   {
                     "name": "Clyattville",
-                    "votes": 0
+                    "votes": 152
                   },
                   {
                     "name": "Dasher",
@@ -717,11 +717,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 13,
-        "precinctsReported": 11,
+        "precinctsReported": 13,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 79,
+            "votes": 83,
             "Precinct": [
               {
                 "name": "Hahira Train Depot",
@@ -729,7 +729,7 @@
               },
               {
                 "name": "Trinity",
-                "votes": 10
+                "votes": 12
               },
               {
                 "name": "Northside",
@@ -749,7 +749,7 @@
               },
               {
                 "name": "Clyattville",
-                "votes": 4
+                "votes": 6
               },
               {
                 "name": "Dasher",
@@ -840,11 +840,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 20379,
+            "totalVotes": 22154,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 6247,
+                "votes": 8022,
                 "Precinct": [
                   {
                     "name": "Hahira Train Depot",
@@ -852,7 +852,7 @@
                   },
                   {
                     "name": "Trinity",
-                    "votes": 0
+                    "votes": 927
                   },
                   {
                     "name": "Northside",
@@ -872,7 +872,7 @@
                   },
                   {
                     "name": "Clyattville",
-                    "votes": 0
+                    "votes": 848
                   },
                   {
                     "name": "Dasher",
@@ -1079,11 +1079,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 16259,
+            "totalVotes": 16902,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2825,
+                "votes": 3468,
                 "Precinct": [
                   {
                     "name": "Hahira Train Depot",
@@ -1091,7 +1091,7 @@
                   },
                   {
                     "name": "Trinity",
-                    "votes": 0
+                    "votes": 495
                   },
                   {
                     "name": "Northside",
@@ -1111,7 +1111,7 @@
                   },
                   {
                     "name": "Clyattville",
-                    "votes": 0
+                    "votes": 148
                   },
                   {
                     "name": "Dasher",
@@ -1323,11 +1323,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 13,
-        "precinctsReported": 11,
+        "precinctsReported": 13,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 401,
+            "votes": 412,
             "Precinct": [
               {
                 "name": "Hahira Train Depot",
@@ -1335,7 +1335,7 @@
               },
               {
                 "name": "Trinity",
-                "votes": 38
+                "votes": 45
               },
               {
                 "name": "Northside",
@@ -1355,7 +1355,7 @@
               },
               {
                 "name": "Clyattville",
-                "votes": 13
+                "votes": 17
               },
               {
                 "name": "Dasher",
@@ -1446,11 +1446,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 20434,
+            "totalVotes": 22221,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 6288,
+                "votes": 8075,
                 "Precinct": [
                   {
                     "name": "Hahira Train Depot",
@@ -1458,7 +1458,7 @@
                   },
                   {
                     "name": "Trinity",
-                    "votes": 0
+                    "votes": 940
                   },
                   {
                     "name": "Northside",
@@ -1478,7 +1478,7 @@
                   },
                   {
                     "name": "Clyattville",
-                    "votes": 0
+                    "votes": 847
                   },
                   {
                     "name": "Dasher",
@@ -1685,11 +1685,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 15882,
+            "totalVotes": 16506,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2722,
+                "votes": 3346,
                 "Precinct": [
                   {
                     "name": "Hahira Train Depot",
@@ -1697,7 +1697,7 @@
                   },
                   {
                     "name": "Trinity",
-                    "votes": 0
+                    "votes": 477
                   },
                   {
                     "name": "Northside",
@@ -1717,7 +1717,7 @@
                   },
                   {
                     "name": "Clyattville",
-                    "votes": 0
+                    "votes": 147
                   },
                   {
                     "name": "Dasher",

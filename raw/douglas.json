@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:45:04 PM EST",
+    "Timestamp": "1/5/2021 9:05:30 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Douglas",
     "VoterTurnout": {
       "totalVoters": 110796,
-      "ballotsCast": 50891,
-      "voterTurnout": 45.93,
+      "ballotsCast": 55041,
+      "voterTurnout": 49.68,
       "Precincts": {
         "Precinct": [
           {
@@ -27,9 +27,9 @@
           {
             "name": "Dog River Library",
             "totalVoters": 5005,
-            "ballotsCast": 2794,
-            "voterTurnout": 55.82,
-            "percentReporting": "2"
+            "ballotsCast": 3512,
+            "voterTurnout": 70.17,
+            "percentReporting": "4"
           },
           {
             "name": "Atlanta West Pentecostal",
@@ -83,9 +83,9 @@
           {
             "name": "Golden Methodist Church",
             "totalVoters": 5737,
-            "ballotsCast": 2473,
-            "voterTurnout": 43.11,
-            "percentReporting": "2"
+            "ballotsCast": 3098,
+            "voterTurnout": 54.0,
+            "percentReporting": "4"
           },
           {
             "name": "Old Courthouse",
@@ -97,8 +97,8 @@
           {
             "name": "Beulah Baptist Church",
             "totalVoters": 3540,
-            "ballotsCast": 2040,
-            "voterTurnout": 57.63,
+            "ballotsCast": 2080,
+            "voterTurnout": 58.76,
             "percentReporting": "4"
           },
           {
@@ -111,23 +111,23 @@
           {
             "name": "Arbor Station",
             "totalVoters": 3022,
-            "ballotsCast": 1237,
-            "voterTurnout": 40.93,
-            "percentReporting": "2"
+            "ballotsCast": 1700,
+            "voterTurnout": 56.25,
+            "percentReporting": "4"
           },
           {
             "name": "Bright Star",
             "totalVoters": 2727,
-            "ballotsCast": 1133,
-            "voterTurnout": 41.55,
-            "percentReporting": "2"
+            "ballotsCast": 1596,
+            "voterTurnout": 58.53,
+            "percentReporting": "4"
           },
           {
             "name": "Dorsett Shoals",
             "totalVoters": 3951,
-            "ballotsCast": 1564,
-            "voterTurnout": 39.58,
-            "percentReporting": "2"
+            "ballotsCast": 2112,
+            "voterTurnout": 53.45,
+            "percentReporting": "4"
           },
           {
             "name": "Chapel Hill",
@@ -139,16 +139,16 @@
           {
             "name": "Church At Chapel Hill",
             "totalVoters": 6405,
-            "ballotsCast": 3409,
-            "voterTurnout": 53.22,
-            "percentReporting": "2"
+            "ballotsCast": 4199,
+            "voterTurnout": 65.56,
+            "percentReporting": "4"
           },
           {
             "name": "Chestnut Log",
             "totalVoters": 4096,
-            "ballotsCast": 1967,
-            "voterTurnout": 48.02,
-            "percentReporting": "2"
+            "ballotsCast": 2470,
+            "voterTurnout": 60.3,
+            "percentReporting": "4"
           },
           {
             "name": "St Julians Episcopal",
@@ -195,11 +195,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 25,
-        "precinctsReported": 7,
+        "precinctsReported": 14,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 62,
+            "votes": 66,
             "Precinct": [
               {
                 "name": "Mirror Lake Elementary",
@@ -211,7 +211,7 @@
               },
               {
                 "name": "Dog River Library",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Atlanta West Pentecostal",
@@ -267,7 +267,7 @@
               },
               {
                 "name": "Dorsett Shoals",
-                "votes": 3
+                "votes": 4
               },
               {
                 "name": "Chapel Hill",
@@ -275,11 +275,11 @@
               },
               {
                 "name": "Church At Chapel Hill",
-                "votes": 5
+                "votes": 6
               },
               {
                 "name": "Chestnut Log",
-                "votes": 6
+                "votes": 7
               },
               {
                 "name": "St Julians Episcopal",
@@ -414,11 +414,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 17169,
+            "totalVotes": 19121,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1521,
+                "votes": 3473,
                 "Precinct": [
                   {
                     "name": "Mirror Lake Elementary",
@@ -430,7 +430,7 @@
                   },
                   {
                     "name": "Dog River Library",
-                    "votes": 0
+                    "votes": 611
                   },
                   {
                     "name": "Atlanta West Pentecostal",
@@ -462,7 +462,7 @@
                   },
                   {
                     "name": "Golden Methodist Church",
-                    "votes": 0
+                    "votes": 92
                   },
                   {
                     "name": "Old Courthouse",
@@ -470,7 +470,7 @@
                   },
                   {
                     "name": "Beulah Baptist Church",
-                    "votes": 319
+                    "votes": 337
                   },
                   {
                     "name": "Stewart",
@@ -478,15 +478,15 @@
                   },
                   {
                     "name": "Arbor Station",
-                    "votes": 0
+                    "votes": 179
                   },
                   {
                     "name": "Bright Star",
-                    "votes": 0
+                    "votes": 294
                   },
                   {
                     "name": "Dorsett Shoals",
-                    "votes": 0
+                    "votes": 328
                   },
                   {
                     "name": "Chapel Hill",
@@ -494,11 +494,11 @@
                   },
                   {
                     "name": "Church At Chapel Hill",
-                    "votes": 0
+                    "votes": 274
                   },
                   {
                     "name": "Chestnut Log",
-                    "votes": 0
+                    "votes": 156
                   },
                   {
                     "name": "St Julians Episcopal",
@@ -845,11 +845,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 33660,
+            "totalVotes": 35854,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1498,
+                "votes": 3692,
                 "Precinct": [
                   {
                     "name": "Mirror Lake Elementary",
@@ -861,7 +861,7 @@
                   },
                   {
                     "name": "Dog River Library",
-                    "votes": 0
+                    "votes": 106
                   },
                   {
                     "name": "Atlanta West Pentecostal",
@@ -893,7 +893,7 @@
                   },
                   {
                     "name": "Golden Methodist Church",
-                    "votes": 0
+                    "votes": 533
                   },
                   {
                     "name": "Old Courthouse",
@@ -901,7 +901,7 @@
                   },
                   {
                     "name": "Beulah Baptist Church",
-                    "votes": 227
+                    "votes": 249
                   },
                   {
                     "name": "Stewart",
@@ -909,15 +909,15 @@
                   },
                   {
                     "name": "Arbor Station",
-                    "votes": 0
+                    "votes": 284
                   },
                   {
                     "name": "Bright Star",
-                    "votes": 0
+                    "votes": 169
                   },
                   {
                     "name": "Dorsett Shoals",
-                    "votes": 0
+                    "votes": 219
                   },
                   {
                     "name": "Chapel Hill",
@@ -925,11 +925,11 @@
                   },
                   {
                     "name": "Church At Chapel Hill",
-                    "votes": 0
+                    "votes": 515
                   },
                   {
                     "name": "Chestnut Log",
-                    "votes": 0
+                    "votes": 346
                   },
                   {
                     "name": "St Julians Episcopal",
@@ -1281,11 +1281,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 25,
-        "precinctsReported": 7,
+        "precinctsReported": 14,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 60,
+            "votes": 61,
             "Precinct": [
               {
                 "name": "Mirror Lake Elementary",
@@ -1297,7 +1297,7 @@
               },
               {
                 "name": "Dog River Library",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "Atlanta West Pentecostal",
@@ -1500,11 +1500,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 17001,
+            "totalVotes": 18922,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1512,
+                "votes": 3433,
                 "Precinct": [
                   {
                     "name": "Mirror Lake Elementary",
@@ -1516,7 +1516,7 @@
                   },
                   {
                     "name": "Dog River Library",
-                    "votes": 0
+                    "votes": 610
                   },
                   {
                     "name": "Atlanta West Pentecostal",
@@ -1548,7 +1548,7 @@
                   },
                   {
                     "name": "Golden Methodist Church",
-                    "votes": 0
+                    "votes": 88
                   },
                   {
                     "name": "Old Courthouse",
@@ -1556,7 +1556,7 @@
                   },
                   {
                     "name": "Beulah Baptist Church",
-                    "votes": 319
+                    "votes": 337
                   },
                   {
                     "name": "Stewart",
@@ -1564,15 +1564,15 @@
                   },
                   {
                     "name": "Arbor Station",
-                    "votes": 0
+                    "votes": 168
                   },
                   {
                     "name": "Bright Star",
-                    "votes": 0
+                    "votes": 285
                   },
                   {
                     "name": "Dorsett Shoals",
-                    "votes": 0
+                    "votes": 319
                   },
                   {
                     "name": "Chapel Hill",
@@ -1580,11 +1580,11 @@
                   },
                   {
                     "name": "Church At Chapel Hill",
-                    "votes": 0
+                    "votes": 276
                   },
                   {
                     "name": "Chestnut Log",
-                    "votes": 0
+                    "votes": 157
                   },
                   {
                     "name": "St Julians Episcopal",
@@ -1931,11 +1931,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 33830,
+            "totalVotes": 36058,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1505,
+                "votes": 3733,
                 "Precinct": [
                   {
                     "name": "Mirror Lake Elementary",
@@ -1947,7 +1947,7 @@
                   },
                   {
                     "name": "Dog River Library",
-                    "votes": 0
+                    "votes": 107
                   },
                   {
                     "name": "Atlanta West Pentecostal",
@@ -1979,7 +1979,7 @@
                   },
                   {
                     "name": "Golden Methodist Church",
-                    "votes": 0
+                    "votes": 537
                   },
                   {
                     "name": "Old Courthouse",
@@ -1987,7 +1987,7 @@
                   },
                   {
                     "name": "Beulah Baptist Church",
-                    "votes": 227
+                    "votes": 249
                   },
                   {
                     "name": "Stewart",
@@ -1995,15 +1995,15 @@
                   },
                   {
                     "name": "Arbor Station",
-                    "votes": 0
+                    "votes": 295
                   },
                   {
                     "name": "Bright Star",
-                    "votes": 0
+                    "votes": 178
                   },
                   {
                     "name": "Dorsett Shoals",
-                    "votes": 0
+                    "votes": 229
                   },
                   {
                     "name": "Chapel Hill",
@@ -2011,11 +2011,11 @@
                   },
                   {
                     "name": "Church At Chapel Hill",
-                    "votes": 0
+                    "votes": 514
                   },
                   {
                     "name": "Chestnut Log",
-                    "votes": 0
+                    "votes": 346
                   },
                   {
                     "name": "St Julians Episcopal",
@@ -2367,11 +2367,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 25,
-        "precinctsReported": 7,
+        "precinctsReported": 14,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 447,
+            "votes": 465,
             "Precinct": [
               {
                 "name": "Mirror Lake Elementary",
@@ -2383,7 +2383,7 @@
               },
               {
                 "name": "Dog River Library",
-                "votes": 20
+                "votes": 22
               },
               {
                 "name": "Atlanta West Pentecostal",
@@ -2415,7 +2415,7 @@
               },
               {
                 "name": "Golden Methodist Church",
-                "votes": 16
+                "votes": 20
               },
               {
                 "name": "Old Courthouse",
@@ -2431,15 +2431,15 @@
               },
               {
                 "name": "Arbor Station",
-                "votes": 16
+                "votes": 18
               },
               {
                 "name": "Bright Star",
-                "votes": 13
+                "votes": 15
               },
               {
                 "name": "Dorsett Shoals",
-                "votes": 16
+                "votes": 17
               },
               {
                 "name": "Chapel Hill",
@@ -2447,11 +2447,11 @@
               },
               {
                 "name": "Church At Chapel Hill",
-                "votes": 28
+                "votes": 33
               },
               {
                 "name": "Chestnut Log",
-                "votes": 15
+                "votes": 17
               },
               {
                 "name": "St Julians Episcopal",
@@ -2586,11 +2586,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 17570,
+            "totalVotes": 19542,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1523,
+                "votes": 3495,
                 "Precinct": [
                   {
                     "name": "Mirror Lake Elementary",
@@ -2602,7 +2602,7 @@
                   },
                   {
                     "name": "Dog River Library",
-                    "votes": 0
+                    "votes": 618
                   },
                   {
                     "name": "Atlanta West Pentecostal",
@@ -2634,7 +2634,7 @@
                   },
                   {
                     "name": "Golden Methodist Church",
-                    "votes": 0
+                    "votes": 94
                   },
                   {
                     "name": "Old Courthouse",
@@ -2642,7 +2642,7 @@
                   },
                   {
                     "name": "Beulah Baptist Church",
-                    "votes": 318
+                    "votes": 337
                   },
                   {
                     "name": "Stewart",
@@ -2650,15 +2650,15 @@
                   },
                   {
                     "name": "Arbor Station",
-                    "votes": 0
+                    "votes": 177
                   },
                   {
                     "name": "Bright Star",
-                    "votes": 0
+                    "votes": 290
                   },
                   {
                     "name": "Dorsett Shoals",
-                    "votes": 0
+                    "votes": 334
                   },
                   {
                     "name": "Chapel Hill",
@@ -2666,11 +2666,11 @@
                   },
                   {
                     "name": "Church At Chapel Hill",
-                    "votes": 0
+                    "votes": 280
                   },
                   {
                     "name": "Chestnut Log",
-                    "votes": 0
+                    "votes": 160
                   },
                   {
                     "name": "St Julians Episcopal",
@@ -3017,11 +3017,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 32833,
+            "totalVotes": 34993,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1476,
+                "votes": 3636,
                 "Precinct": [
                   {
                     "name": "Mirror Lake Elementary",
@@ -3033,7 +3033,7 @@
                   },
                   {
                     "name": "Dog River Library",
-                    "votes": 0
+                    "votes": 98
                   },
                   {
                     "name": "Atlanta West Pentecostal",
@@ -3065,7 +3065,7 @@
                   },
                   {
                     "name": "Golden Methodist Church",
-                    "votes": 0
+                    "votes": 527
                   },
                   {
                     "name": "Old Courthouse",
@@ -3073,7 +3073,7 @@
                   },
                   {
                     "name": "Beulah Baptist Church",
-                    "votes": 225
+                    "votes": 246
                   },
                   {
                     "name": "Stewart",
@@ -3081,15 +3081,15 @@
                   },
                   {
                     "name": "Arbor Station",
-                    "votes": 0
+                    "votes": 284
                   },
                   {
                     "name": "Bright Star",
-                    "votes": 0
+                    "votes": 171
                   },
                   {
                     "name": "Dorsett Shoals",
-                    "votes": 0
+                    "votes": 213
                   },
                   {
                     "name": "Chapel Hill",
@@ -3097,11 +3097,11 @@
                   },
                   {
                     "name": "Church At Chapel Hill",
-                    "votes": 0
+                    "votes": 505
                   },
                   {
                     "name": "Chestnut Log",
-                    "votes": 0
+                    "votes": 341
                   },
                   {
                     "name": "St Julians Episcopal",

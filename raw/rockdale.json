@@ -1,0 +1,2309 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 9:07:23 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Rockdale",
+    "VoterTurnout": {
+      "totalVoters": 66526,
+      "ballotsCast": 40199,
+      "voterTurnout": 60.43,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "BA",
+            "totalVoters": 4859,
+            "ballotsCast": 3176,
+            "voterTurnout": 65.36,
+            "percentReporting": "4"
+          },
+          {
+            "name": "BT",
+            "totalVoters": 4079,
+            "ballotsCast": 2434,
+            "voterTurnout": 59.67,
+            "percentReporting": "4"
+          },
+          {
+            "name": "CO",
+            "totalVoters": 3960,
+            "ballotsCast": 1934,
+            "voterTurnout": 48.84,
+            "percentReporting": "4"
+          },
+          {
+            "name": "FI",
+            "totalVoters": 6419,
+            "ballotsCast": 3903,
+            "voterTurnout": 60.8,
+            "percentReporting": "4"
+          },
+          {
+            "name": "FS",
+            "totalVoters": 4070,
+            "ballotsCast": 2496,
+            "voterTurnout": 61.33,
+            "percentReporting": "4"
+          },
+          {
+            "name": "HC",
+            "totalVoters": 2443,
+            "ballotsCast": 1633,
+            "voterTurnout": 66.84,
+            "percentReporting": "4"
+          },
+          {
+            "name": "HI",
+            "totalVoters": 3595,
+            "ballotsCast": 2239,
+            "voterTurnout": 62.28,
+            "percentReporting": "4"
+          },
+          {
+            "name": "LA",
+            "totalVoters": 2052,
+            "ballotsCast": 1055,
+            "voterTurnout": 51.41,
+            "percentReporting": "4"
+          },
+          {
+            "name": "LO",
+            "totalVoters": 3982,
+            "ballotsCast": 2808,
+            "voterTurnout": 70.52,
+            "percentReporting": "4"
+          },
+          {
+            "name": "MA",
+            "totalVoters": 3224,
+            "ballotsCast": 2000,
+            "voterTurnout": 62.03,
+            "percentReporting": "4"
+          },
+          {
+            "name": "MI",
+            "totalVoters": 4288,
+            "ballotsCast": 2333,
+            "voterTurnout": 54.41,
+            "percentReporting": "4"
+          },
+          {
+            "name": "OT",
+            "totalVoters": 6231,
+            "ballotsCast": 3174,
+            "voterTurnout": 50.94,
+            "percentReporting": "4"
+          },
+          {
+            "name": "RO",
+            "totalVoters": 4732,
+            "ballotsCast": 2908,
+            "voterTurnout": 61.45,
+            "percentReporting": "4"
+          },
+          {
+            "name": "SM",
+            "totalVoters": 4348,
+            "ballotsCast": 2861,
+            "voterTurnout": 65.8,
+            "percentReporting": "4"
+          },
+          {
+            "name": "SP",
+            "totalVoters": 4855,
+            "ballotsCast": 3114,
+            "voterTurnout": 64.14,
+            "percentReporting": "4"
+          },
+          {
+            "name": "ST",
+            "totalVoters": 3389,
+            "ballotsCast": 2131,
+            "voterTurnout": 62.88,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 16,
+        "precinctsReported": 16,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 51,
+            "Precinct": [
+              {
+                "name": "BA",
+                "votes": 1
+              },
+              {
+                "name": "BT",
+                "votes": 3
+              },
+              {
+                "name": "CO",
+                "votes": 4
+              },
+              {
+                "name": "FI",
+                "votes": 4
+              },
+              {
+                "name": "FS",
+                "votes": 9
+              },
+              {
+                "name": "HC",
+                "votes": 0
+              },
+              {
+                "name": "HI",
+                "votes": 4
+              },
+              {
+                "name": "LA",
+                "votes": 3
+              },
+              {
+                "name": "LO",
+                "votes": 3
+              },
+              {
+                "name": "MA",
+                "votes": 0
+              },
+              {
+                "name": "MI",
+                "votes": 4
+              },
+              {
+                "name": "OT",
+                "votes": 4
+              },
+              {
+                "name": "RO",
+                "votes": 1
+              },
+              {
+                "name": "SM",
+                "votes": 6
+              },
+              {
+                "name": "SP",
+                "votes": 3
+              },
+              {
+                "name": "ST",
+                "votes": 2
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 2,
+            "Precinct": [
+              {
+                "name": "BA",
+                "votes": 0
+              },
+              {
+                "name": "BT",
+                "votes": 0
+              },
+              {
+                "name": "CO",
+                "votes": 0
+              },
+              {
+                "name": "FI",
+                "votes": 0
+              },
+              {
+                "name": "FS",
+                "votes": 0
+              },
+              {
+                "name": "HC",
+                "votes": 0
+              },
+              {
+                "name": "HI",
+                "votes": 0
+              },
+              {
+                "name": "LA",
+                "votes": 0
+              },
+              {
+                "name": "LO",
+                "votes": 0
+              },
+              {
+                "name": "MA",
+                "votes": 0
+              },
+              {
+                "name": "MI",
+                "votes": 2
+              },
+              {
+                "name": "OT",
+                "votes": 0
+              },
+              {
+                "name": "RO",
+                "votes": 0
+              },
+              {
+                "name": "SM",
+                "votes": 0
+              },
+              {
+                "name": "SP",
+                "votes": 0
+              },
+              {
+                "name": "ST",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 11098,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 3693,
+                "Precinct": [
+                  {
+                    "name": "BA",
+                    "votes": 387
+                  },
+                  {
+                    "name": "BT",
+                    "votes": 632
+                  },
+                  {
+                    "name": "CO",
+                    "votes": 136
+                  },
+                  {
+                    "name": "FI",
+                    "votes": 119
+                  },
+                  {
+                    "name": "FS",
+                    "votes": 109
+                  },
+                  {
+                    "name": "HC",
+                    "votes": 251
+                  },
+                  {
+                    "name": "HI",
+                    "votes": 208
+                  },
+                  {
+                    "name": "LA",
+                    "votes": 106
+                  },
+                  {
+                    "name": "LO",
+                    "votes": 485
+                  },
+                  {
+                    "name": "MA",
+                    "votes": 328
+                  },
+                  {
+                    "name": "MI",
+                    "votes": 139
+                  },
+                  {
+                    "name": "OT",
+                    "votes": 89
+                  },
+                  {
+                    "name": "RO",
+                    "votes": 199
+                  },
+                  {
+                    "name": "SM",
+                    "votes": 179
+                  },
+                  {
+                    "name": "SP",
+                    "votes": 145
+                  },
+                  {
+                    "name": "ST",
+                    "votes": 181
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 5075,
+                "Precinct": [
+                  {
+                    "name": "BA",
+                    "votes": 527
+                  },
+                  {
+                    "name": "BT",
+                    "votes": 538
+                  },
+                  {
+                    "name": "CO",
+                    "votes": 154
+                  },
+                  {
+                    "name": "FI",
+                    "votes": 241
+                  },
+                  {
+                    "name": "FS",
+                    "votes": 243
+                  },
+                  {
+                    "name": "HC",
+                    "votes": 331
+                  },
+                  {
+                    "name": "HI",
+                    "votes": 354
+                  },
+                  {
+                    "name": "LA",
+                    "votes": 119
+                  },
+                  {
+                    "name": "LO",
+                    "votes": 393
+                  },
+                  {
+                    "name": "MA",
+                    "votes": 372
+                  },
+                  {
+                    "name": "MI",
+                    "votes": 198
+                  },
+                  {
+                    "name": "OT",
+                    "votes": 163
+                  },
+                  {
+                    "name": "RO",
+                    "votes": 360
+                  },
+                  {
+                    "name": "SM",
+                    "votes": 352
+                  },
+                  {
+                    "name": "SP",
+                    "votes": 339
+                  },
+                  {
+                    "name": "ST",
+                    "votes": 391
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 2330,
+                "Precinct": [
+                  {
+                    "name": "BA",
+                    "votes": 195
+                  },
+                  {
+                    "name": "BT",
+                    "votes": 255
+                  },
+                  {
+                    "name": "CO",
+                    "votes": 85
+                  },
+                  {
+                    "name": "FI",
+                    "votes": 104
+                  },
+                  {
+                    "name": "FS",
+                    "votes": 126
+                  },
+                  {
+                    "name": "HC",
+                    "votes": 127
+                  },
+                  {
+                    "name": "HI",
+                    "votes": 135
+                  },
+                  {
+                    "name": "LA",
+                    "votes": 67
+                  },
+                  {
+                    "name": "LO",
+                    "votes": 210
+                  },
+                  {
+                    "name": "MA",
+                    "votes": 167
+                  },
+                  {
+                    "name": "MI",
+                    "votes": 93
+                  },
+                  {
+                    "name": "OT",
+                    "votes": 122
+                  },
+                  {
+                    "name": "RO",
+                    "votes": 155
+                  },
+                  {
+                    "name": "SM",
+                    "votes": 143
+                  },
+                  {
+                    "name": "SP",
+                    "votes": 158
+                  },
+                  {
+                    "name": "ST",
+                    "votes": 188
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "BA",
+                    "votes": 0
+                  },
+                  {
+                    "name": "BT",
+                    "votes": 0
+                  },
+                  {
+                    "name": "CO",
+                    "votes": 0
+                  },
+                  {
+                    "name": "FI",
+                    "votes": 0
+                  },
+                  {
+                    "name": "FS",
+                    "votes": 0
+                  },
+                  {
+                    "name": "HC",
+                    "votes": 0
+                  },
+                  {
+                    "name": "HI",
+                    "votes": 0
+                  },
+                  {
+                    "name": "LA",
+                    "votes": 0
+                  },
+                  {
+                    "name": "LO",
+                    "votes": 0
+                  },
+                  {
+                    "name": "MA",
+                    "votes": 0
+                  },
+                  {
+                    "name": "MI",
+                    "votes": 0
+                  },
+                  {
+                    "name": "OT",
+                    "votes": 0
+                  },
+                  {
+                    "name": "RO",
+                    "votes": 0
+                  },
+                  {
+                    "name": "SM",
+                    "votes": 0
+                  },
+                  {
+                    "name": "SP",
+                    "votes": 0
+                  },
+                  {
+                    "name": "ST",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 29048,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 5375,
+                "Precinct": [
+                  {
+                    "name": "BA",
+                    "votes": 385
+                  },
+                  {
+                    "name": "BT",
+                    "votes": 217
+                  },
+                  {
+                    "name": "CO",
+                    "votes": 377
+                  },
+                  {
+                    "name": "FI",
+                    "votes": 554
+                  },
+                  {
+                    "name": "FS",
+                    "votes": 340
+                  },
+                  {
+                    "name": "HC",
+                    "votes": 216
+                  },
+                  {
+                    "name": "HI",
+                    "votes": 272
+                  },
+                  {
+                    "name": "LA",
+                    "votes": 154
+                  },
+                  {
+                    "name": "LO",
+                    "votes": 296
+                  },
+                  {
+                    "name": "MA",
+                    "votes": 246
+                  },
+                  {
+                    "name": "MI",
+                    "votes": 349
+                  },
+                  {
+                    "name": "OT",
+                    "votes": 621
+                  },
+                  {
+                    "name": "RO",
+                    "votes": 412
+                  },
+                  {
+                    "name": "SM",
+                    "votes": 334
+                  },
+                  {
+                    "name": "SP",
+                    "votes": 426
+                  },
+                  {
+                    "name": "ST",
+                    "votes": 176
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 15401,
+                "Precinct": [
+                  {
+                    "name": "BA",
+                    "votes": 1120
+                  },
+                  {
+                    "name": "BT",
+                    "votes": 439
+                  },
+                  {
+                    "name": "CO",
+                    "votes": 781
+                  },
+                  {
+                    "name": "FI",
+                    "votes": 1901
+                  },
+                  {
+                    "name": "FS",
+                    "votes": 1086
+                  },
+                  {
+                    "name": "HC",
+                    "votes": 440
+                  },
+                  {
+                    "name": "HI",
+                    "votes": 833
+                  },
+                  {
+                    "name": "LA",
+                    "votes": 331
+                  },
+                  {
+                    "name": "LO",
+                    "votes": 904
+                  },
+                  {
+                    "name": "MA",
+                    "votes": 539
+                  },
+                  {
+                    "name": "MI",
+                    "votes": 1002
+                  },
+                  {
+                    "name": "OT",
+                    "votes": 1432
+                  },
+                  {
+                    "name": "RO",
+                    "votes": 1159
+                  },
+                  {
+                    "name": "SM",
+                    "votes": 1264
+                  },
+                  {
+                    "name": "SP",
+                    "votes": 1431
+                  },
+                  {
+                    "name": "ST",
+                    "votes": 739
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 8272,
+                "Precinct": [
+                  {
+                    "name": "BA",
+                    "votes": 561
+                  },
+                  {
+                    "name": "BT",
+                    "votes": 350
+                  },
+                  {
+                    "name": "CO",
+                    "votes": 397
+                  },
+                  {
+                    "name": "FI",
+                    "votes": 980
+                  },
+                  {
+                    "name": "FS",
+                    "votes": 583
+                  },
+                  {
+                    "name": "HC",
+                    "votes": 268
+                  },
+                  {
+                    "name": "HI",
+                    "votes": 433
+                  },
+                  {
+                    "name": "LA",
+                    "votes": 275
+                  },
+                  {
+                    "name": "LO",
+                    "votes": 517
+                  },
+                  {
+                    "name": "MA",
+                    "votes": 348
+                  },
+                  {
+                    "name": "MI",
+                    "votes": 546
+                  },
+                  {
+                    "name": "OT",
+                    "votes": 743
+                  },
+                  {
+                    "name": "RO",
+                    "votes": 622
+                  },
+                  {
+                    "name": "SM",
+                    "votes": 583
+                  },
+                  {
+                    "name": "SP",
+                    "votes": 612
+                  },
+                  {
+                    "name": "ST",
+                    "votes": 454
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "BA",
+                    "votes": 0
+                  },
+                  {
+                    "name": "BT",
+                    "votes": 0
+                  },
+                  {
+                    "name": "CO",
+                    "votes": 0
+                  },
+                  {
+                    "name": "FI",
+                    "votes": 0
+                  },
+                  {
+                    "name": "FS",
+                    "votes": 0
+                  },
+                  {
+                    "name": "HC",
+                    "votes": 0
+                  },
+                  {
+                    "name": "HI",
+                    "votes": 0
+                  },
+                  {
+                    "name": "LA",
+                    "votes": 0
+                  },
+                  {
+                    "name": "LO",
+                    "votes": 0
+                  },
+                  {
+                    "name": "MA",
+                    "votes": 0
+                  },
+                  {
+                    "name": "MI",
+                    "votes": 0
+                  },
+                  {
+                    "name": "OT",
+                    "votes": 0
+                  },
+                  {
+                    "name": "RO",
+                    "votes": 0
+                  },
+                  {
+                    "name": "SM",
+                    "votes": 0
+                  },
+                  {
+                    "name": "SP",
+                    "votes": 0
+                  },
+                  {
+                    "name": "ST",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 16,
+        "precinctsReported": 16,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 42,
+            "Precinct": [
+              {
+                "name": "BA",
+                "votes": 2
+              },
+              {
+                "name": "BT",
+                "votes": 3
+              },
+              {
+                "name": "CO",
+                "votes": 3
+              },
+              {
+                "name": "FI",
+                "votes": 1
+              },
+              {
+                "name": "FS",
+                "votes": 2
+              },
+              {
+                "name": "HC",
+                "votes": 1
+              },
+              {
+                "name": "HI",
+                "votes": 3
+              },
+              {
+                "name": "LA",
+                "votes": 2
+              },
+              {
+                "name": "LO",
+                "votes": 2
+              },
+              {
+                "name": "MA",
+                "votes": 0
+              },
+              {
+                "name": "MI",
+                "votes": 3
+              },
+              {
+                "name": "OT",
+                "votes": 4
+              },
+              {
+                "name": "RO",
+                "votes": 4
+              },
+              {
+                "name": "SM",
+                "votes": 8
+              },
+              {
+                "name": "SP",
+                "votes": 2
+              },
+              {
+                "name": "ST",
+                "votes": 2
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 3,
+            "Precinct": [
+              {
+                "name": "BA",
+                "votes": 0
+              },
+              {
+                "name": "BT",
+                "votes": 0
+              },
+              {
+                "name": "CO",
+                "votes": 0
+              },
+              {
+                "name": "FI",
+                "votes": 0
+              },
+              {
+                "name": "FS",
+                "votes": 1
+              },
+              {
+                "name": "HC",
+                "votes": 0
+              },
+              {
+                "name": "HI",
+                "votes": 0
+              },
+              {
+                "name": "LA",
+                "votes": 1
+              },
+              {
+                "name": "LO",
+                "votes": 0
+              },
+              {
+                "name": "MA",
+                "votes": 0
+              },
+              {
+                "name": "MI",
+                "votes": 1
+              },
+              {
+                "name": "OT",
+                "votes": 0
+              },
+              {
+                "name": "RO",
+                "votes": 0
+              },
+              {
+                "name": "SM",
+                "votes": 0
+              },
+              {
+                "name": "SP",
+                "votes": 0
+              },
+              {
+                "name": "ST",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 11018,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 3660,
+                "Precinct": [
+                  {
+                    "name": "BA",
+                    "votes": 382
+                  },
+                  {
+                    "name": "BT",
+                    "votes": 632
+                  },
+                  {
+                    "name": "CO",
+                    "votes": 138
+                  },
+                  {
+                    "name": "FI",
+                    "votes": 116
+                  },
+                  {
+                    "name": "FS",
+                    "votes": 111
+                  },
+                  {
+                    "name": "HC",
+                    "votes": 246
+                  },
+                  {
+                    "name": "HI",
+                    "votes": 209
+                  },
+                  {
+                    "name": "LA",
+                    "votes": 102
+                  },
+                  {
+                    "name": "LO",
+                    "votes": 479
+                  },
+                  {
+                    "name": "MA",
+                    "votes": 322
+                  },
+                  {
+                    "name": "MI",
+                    "votes": 140
+                  },
+                  {
+                    "name": "OT",
+                    "votes": 89
+                  },
+                  {
+                    "name": "RO",
+                    "votes": 190
+                  },
+                  {
+                    "name": "SM",
+                    "votes": 177
+                  },
+                  {
+                    "name": "SP",
+                    "votes": 146
+                  },
+                  {
+                    "name": "ST",
+                    "votes": 181
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 5041,
+                "Precinct": [
+                  {
+                    "name": "BA",
+                    "votes": 526
+                  },
+                  {
+                    "name": "BT",
+                    "votes": 531
+                  },
+                  {
+                    "name": "CO",
+                    "votes": 149
+                  },
+                  {
+                    "name": "FI",
+                    "votes": 242
+                  },
+                  {
+                    "name": "FS",
+                    "votes": 240
+                  },
+                  {
+                    "name": "HC",
+                    "votes": 329
+                  },
+                  {
+                    "name": "HI",
+                    "votes": 351
+                  },
+                  {
+                    "name": "LA",
+                    "votes": 119
+                  },
+                  {
+                    "name": "LO",
+                    "votes": 398
+                  },
+                  {
+                    "name": "MA",
+                    "votes": 369
+                  },
+                  {
+                    "name": "MI",
+                    "votes": 198
+                  },
+                  {
+                    "name": "OT",
+                    "votes": 161
+                  },
+                  {
+                    "name": "RO",
+                    "votes": 357
+                  },
+                  {
+                    "name": "SM",
+                    "votes": 347
+                  },
+                  {
+                    "name": "SP",
+                    "votes": 335
+                  },
+                  {
+                    "name": "ST",
+                    "votes": 389
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 2317,
+                "Precinct": [
+                  {
+                    "name": "BA",
+                    "votes": 193
+                  },
+                  {
+                    "name": "BT",
+                    "votes": 254
+                  },
+                  {
+                    "name": "CO",
+                    "votes": 83
+                  },
+                  {
+                    "name": "FI",
+                    "votes": 105
+                  },
+                  {
+                    "name": "FS",
+                    "votes": 124
+                  },
+                  {
+                    "name": "HC",
+                    "votes": 126
+                  },
+                  {
+                    "name": "HI",
+                    "votes": 135
+                  },
+                  {
+                    "name": "LA",
+                    "votes": 68
+                  },
+                  {
+                    "name": "LO",
+                    "votes": 207
+                  },
+                  {
+                    "name": "MA",
+                    "votes": 167
+                  },
+                  {
+                    "name": "MI",
+                    "votes": 89
+                  },
+                  {
+                    "name": "OT",
+                    "votes": 121
+                  },
+                  {
+                    "name": "RO",
+                    "votes": 155
+                  },
+                  {
+                    "name": "SM",
+                    "votes": 143
+                  },
+                  {
+                    "name": "SP",
+                    "votes": 158
+                  },
+                  {
+                    "name": "ST",
+                    "votes": 189
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "BA",
+                    "votes": 0
+                  },
+                  {
+                    "name": "BT",
+                    "votes": 0
+                  },
+                  {
+                    "name": "CO",
+                    "votes": 0
+                  },
+                  {
+                    "name": "FI",
+                    "votes": 0
+                  },
+                  {
+                    "name": "FS",
+                    "votes": 0
+                  },
+                  {
+                    "name": "HC",
+                    "votes": 0
+                  },
+                  {
+                    "name": "HI",
+                    "votes": 0
+                  },
+                  {
+                    "name": "LA",
+                    "votes": 0
+                  },
+                  {
+                    "name": "LO",
+                    "votes": 0
+                  },
+                  {
+                    "name": "MA",
+                    "votes": 0
+                  },
+                  {
+                    "name": "MI",
+                    "votes": 0
+                  },
+                  {
+                    "name": "OT",
+                    "votes": 0
+                  },
+                  {
+                    "name": "RO",
+                    "votes": 0
+                  },
+                  {
+                    "name": "SM",
+                    "votes": 0
+                  },
+                  {
+                    "name": "SP",
+                    "votes": 0
+                  },
+                  {
+                    "name": "ST",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 29136,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 5414,
+                "Precinct": [
+                  {
+                    "name": "BA",
+                    "votes": 390
+                  },
+                  {
+                    "name": "BT",
+                    "votes": 217
+                  },
+                  {
+                    "name": "CO",
+                    "votes": 376
+                  },
+                  {
+                    "name": "FI",
+                    "votes": 557
+                  },
+                  {
+                    "name": "FS",
+                    "votes": 340
+                  },
+                  {
+                    "name": "HC",
+                    "votes": 221
+                  },
+                  {
+                    "name": "HI",
+                    "votes": 271
+                  },
+                  {
+                    "name": "LA",
+                    "votes": 160
+                  },
+                  {
+                    "name": "LO",
+                    "votes": 303
+                  },
+                  {
+                    "name": "MA",
+                    "votes": 252
+                  },
+                  {
+                    "name": "MI",
+                    "votes": 348
+                  },
+                  {
+                    "name": "OT",
+                    "votes": 620
+                  },
+                  {
+                    "name": "RO",
+                    "votes": 420
+                  },
+                  {
+                    "name": "SM",
+                    "votes": 337
+                  },
+                  {
+                    "name": "SP",
+                    "votes": 426
+                  },
+                  {
+                    "name": "ST",
+                    "votes": 176
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 15438,
+                "Precinct": [
+                  {
+                    "name": "BA",
+                    "votes": 1122
+                  },
+                  {
+                    "name": "BT",
+                    "votes": 445
+                  },
+                  {
+                    "name": "CO",
+                    "votes": 786
+                  },
+                  {
+                    "name": "FI",
+                    "votes": 1901
+                  },
+                  {
+                    "name": "FS",
+                    "votes": 1091
+                  },
+                  {
+                    "name": "HC",
+                    "votes": 442
+                  },
+                  {
+                    "name": "HI",
+                    "votes": 836
+                  },
+                  {
+                    "name": "LA",
+                    "votes": 331
+                  },
+                  {
+                    "name": "LO",
+                    "votes": 899
+                  },
+                  {
+                    "name": "MA",
+                    "votes": 542
+                  },
+                  {
+                    "name": "MI",
+                    "votes": 1003
+                  },
+                  {
+                    "name": "OT",
+                    "votes": 1436
+                  },
+                  {
+                    "name": "RO",
+                    "votes": 1162
+                  },
+                  {
+                    "name": "SM",
+                    "votes": 1267
+                  },
+                  {
+                    "name": "SP",
+                    "votes": 1434
+                  },
+                  {
+                    "name": "ST",
+                    "votes": 741
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 8284,
+                "Precinct": [
+                  {
+                    "name": "BA",
+                    "votes": 561
+                  },
+                  {
+                    "name": "BT",
+                    "votes": 352
+                  },
+                  {
+                    "name": "CO",
+                    "votes": 399
+                  },
+                  {
+                    "name": "FI",
+                    "votes": 981
+                  },
+                  {
+                    "name": "FS",
+                    "votes": 587
+                  },
+                  {
+                    "name": "HC",
+                    "votes": 268
+                  },
+                  {
+                    "name": "HI",
+                    "votes": 434
+                  },
+                  {
+                    "name": "LA",
+                    "votes": 272
+                  },
+                  {
+                    "name": "LO",
+                    "votes": 520
+                  },
+                  {
+                    "name": "MA",
+                    "votes": 348
+                  },
+                  {
+                    "name": "MI",
+                    "votes": 551
+                  },
+                  {
+                    "name": "OT",
+                    "votes": 743
+                  },
+                  {
+                    "name": "RO",
+                    "votes": 620
+                  },
+                  {
+                    "name": "SM",
+                    "votes": 582
+                  },
+                  {
+                    "name": "SP",
+                    "votes": 613
+                  },
+                  {
+                    "name": "ST",
+                    "votes": 453
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "BA",
+                    "votes": 0
+                  },
+                  {
+                    "name": "BT",
+                    "votes": 0
+                  },
+                  {
+                    "name": "CO",
+                    "votes": 0
+                  },
+                  {
+                    "name": "FI",
+                    "votes": 0
+                  },
+                  {
+                    "name": "FS",
+                    "votes": 0
+                  },
+                  {
+                    "name": "HC",
+                    "votes": 0
+                  },
+                  {
+                    "name": "HI",
+                    "votes": 0
+                  },
+                  {
+                    "name": "LA",
+                    "votes": 0
+                  },
+                  {
+                    "name": "LO",
+                    "votes": 0
+                  },
+                  {
+                    "name": "MA",
+                    "votes": 0
+                  },
+                  {
+                    "name": "MI",
+                    "votes": 0
+                  },
+                  {
+                    "name": "OT",
+                    "votes": 0
+                  },
+                  {
+                    "name": "RO",
+                    "votes": 0
+                  },
+                  {
+                    "name": "SM",
+                    "votes": 0
+                  },
+                  {
+                    "name": "SP",
+                    "votes": 0
+                  },
+                  {
+                    "name": "ST",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 16,
+        "precinctsReported": 16,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 398,
+            "Precinct": [
+              {
+                "name": "BA",
+                "votes": 29
+              },
+              {
+                "name": "BT",
+                "votes": 17
+              },
+              {
+                "name": "CO",
+                "votes": 17
+              },
+              {
+                "name": "FI",
+                "votes": 38
+              },
+              {
+                "name": "FS",
+                "votes": 24
+              },
+              {
+                "name": "HC",
+                "votes": 17
+              },
+              {
+                "name": "HI",
+                "votes": 26
+              },
+              {
+                "name": "LA",
+                "votes": 15
+              },
+              {
+                "name": "LO",
+                "votes": 30
+              },
+              {
+                "name": "MA",
+                "votes": 25
+              },
+              {
+                "name": "MI",
+                "votes": 22
+              },
+              {
+                "name": "OT",
+                "votes": 31
+              },
+              {
+                "name": "RO",
+                "votes": 26
+              },
+              {
+                "name": "SM",
+                "votes": 32
+              },
+              {
+                "name": "SP",
+                "votes": 25
+              },
+              {
+                "name": "ST",
+                "votes": 24
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "BA",
+                "votes": 0
+              },
+              {
+                "name": "BT",
+                "votes": 0
+              },
+              {
+                "name": "CO",
+                "votes": 0
+              },
+              {
+                "name": "FI",
+                "votes": 0
+              },
+              {
+                "name": "FS",
+                "votes": 0
+              },
+              {
+                "name": "HC",
+                "votes": 0
+              },
+              {
+                "name": "HI",
+                "votes": 0
+              },
+              {
+                "name": "LA",
+                "votes": 0
+              },
+              {
+                "name": "LO",
+                "votes": 0
+              },
+              {
+                "name": "MA",
+                "votes": 0
+              },
+              {
+                "name": "MI",
+                "votes": 0
+              },
+              {
+                "name": "OT",
+                "votes": 0
+              },
+              {
+                "name": "RO",
+                "votes": 0
+              },
+              {
+                "name": "SM",
+                "votes": 0
+              },
+              {
+                "name": "SP",
+                "votes": 0
+              },
+              {
+                "name": "ST",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 11299,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 3733,
+                "Precinct": [
+                  {
+                    "name": "BA",
+                    "votes": 390
+                  },
+                  {
+                    "name": "BT",
+                    "votes": 636
+                  },
+                  {
+                    "name": "CO",
+                    "votes": 138
+                  },
+                  {
+                    "name": "FI",
+                    "votes": 114
+                  },
+                  {
+                    "name": "FS",
+                    "votes": 112
+                  },
+                  {
+                    "name": "HC",
+                    "votes": 257
+                  },
+                  {
+                    "name": "HI",
+                    "votes": 208
+                  },
+                  {
+                    "name": "LA",
+                    "votes": 101
+                  },
+                  {
+                    "name": "LO",
+                    "votes": 491
+                  },
+                  {
+                    "name": "MA",
+                    "votes": 332
+                  },
+                  {
+                    "name": "MI",
+                    "votes": 139
+                  },
+                  {
+                    "name": "OT",
+                    "votes": 99
+                  },
+                  {
+                    "name": "RO",
+                    "votes": 196
+                  },
+                  {
+                    "name": "SM",
+                    "votes": 178
+                  },
+                  {
+                    "name": "SP",
+                    "votes": 153
+                  },
+                  {
+                    "name": "ST",
+                    "votes": 189
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 5170,
+                "Precinct": [
+                  {
+                    "name": "BA",
+                    "votes": 542
+                  },
+                  {
+                    "name": "BT",
+                    "votes": 540
+                  },
+                  {
+                    "name": "CO",
+                    "votes": 153
+                  },
+                  {
+                    "name": "FI",
+                    "votes": 240
+                  },
+                  {
+                    "name": "FS",
+                    "votes": 260
+                  },
+                  {
+                    "name": "HC",
+                    "votes": 330
+                  },
+                  {
+                    "name": "HI",
+                    "votes": 361
+                  },
+                  {
+                    "name": "LA",
+                    "votes": 119
+                  },
+                  {
+                    "name": "LO",
+                    "votes": 402
+                  },
+                  {
+                    "name": "MA",
+                    "votes": 373
+                  },
+                  {
+                    "name": "MI",
+                    "votes": 202
+                  },
+                  {
+                    "name": "OT",
+                    "votes": 175
+                  },
+                  {
+                    "name": "RO",
+                    "votes": 365
+                  },
+                  {
+                    "name": "SM",
+                    "votes": 365
+                  },
+                  {
+                    "name": "SP",
+                    "votes": 341
+                  },
+                  {
+                    "name": "ST",
+                    "votes": 402
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 2396,
+                "Precinct": [
+                  {
+                    "name": "BA",
+                    "votes": 192
+                  },
+                  {
+                    "name": "BT",
+                    "votes": 265
+                  },
+                  {
+                    "name": "CO",
+                    "votes": 85
+                  },
+                  {
+                    "name": "FI",
+                    "votes": 114
+                  },
+                  {
+                    "name": "FS",
+                    "votes": 139
+                  },
+                  {
+                    "name": "HC",
+                    "votes": 131
+                  },
+                  {
+                    "name": "HI",
+                    "votes": 140
+                  },
+                  {
+                    "name": "LA",
+                    "votes": 72
+                  },
+                  {
+                    "name": "LO",
+                    "votes": 221
+                  },
+                  {
+                    "name": "MA",
+                    "votes": 168
+                  },
+                  {
+                    "name": "MI",
+                    "votes": 96
+                  },
+                  {
+                    "name": "OT",
+                    "votes": 122
+                  },
+                  {
+                    "name": "RO",
+                    "votes": 152
+                  },
+                  {
+                    "name": "SM",
+                    "votes": 147
+                  },
+                  {
+                    "name": "SP",
+                    "votes": 163
+                  },
+                  {
+                    "name": "ST",
+                    "votes": 189
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "BA",
+                    "votes": 0
+                  },
+                  {
+                    "name": "BT",
+                    "votes": 0
+                  },
+                  {
+                    "name": "CO",
+                    "votes": 0
+                  },
+                  {
+                    "name": "FI",
+                    "votes": 0
+                  },
+                  {
+                    "name": "FS",
+                    "votes": 0
+                  },
+                  {
+                    "name": "HC",
+                    "votes": 0
+                  },
+                  {
+                    "name": "HI",
+                    "votes": 0
+                  },
+                  {
+                    "name": "LA",
+                    "votes": 0
+                  },
+                  {
+                    "name": "LO",
+                    "votes": 0
+                  },
+                  {
+                    "name": "MA",
+                    "votes": 0
+                  },
+                  {
+                    "name": "MI",
+                    "votes": 0
+                  },
+                  {
+                    "name": "OT",
+                    "votes": 0
+                  },
+                  {
+                    "name": "RO",
+                    "votes": 0
+                  },
+                  {
+                    "name": "SM",
+                    "votes": 0
+                  },
+                  {
+                    "name": "SP",
+                    "votes": 0
+                  },
+                  {
+                    "name": "ST",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 28501,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 5270,
+                "Precinct": [
+                  {
+                    "name": "BA",
+                    "votes": 376
+                  },
+                  {
+                    "name": "BT",
+                    "votes": 209
+                  },
+                  {
+                    "name": "CO",
+                    "votes": 374
+                  },
+                  {
+                    "name": "FI",
+                    "votes": 553
+                  },
+                  {
+                    "name": "FS",
+                    "votes": 335
+                  },
+                  {
+                    "name": "HC",
+                    "votes": 205
+                  },
+                  {
+                    "name": "HI",
+                    "votes": 267
+                  },
+                  {
+                    "name": "LA",
+                    "votes": 158
+                  },
+                  {
+                    "name": "LO",
+                    "votes": 283
+                  },
+                  {
+                    "name": "MA",
+                    "votes": 235
+                  },
+                  {
+                    "name": "MI",
+                    "votes": 347
+                  },
+                  {
+                    "name": "OT",
+                    "votes": 606
+                  },
+                  {
+                    "name": "RO",
+                    "votes": 408
+                  },
+                  {
+                    "name": "SM",
+                    "votes": 332
+                  },
+                  {
+                    "name": "SP",
+                    "votes": 416
+                  },
+                  {
+                    "name": "ST",
+                    "votes": 166
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 15190,
+                "Precinct": [
+                  {
+                    "name": "BA",
+                    "votes": 1100
+                  },
+                  {
+                    "name": "BT",
+                    "votes": 433
+                  },
+                  {
+                    "name": "CO",
+                    "votes": 777
+                  },
+                  {
+                    "name": "FI",
+                    "votes": 1887
+                  },
+                  {
+                    "name": "FS",
+                    "votes": 1061
+                  },
+                  {
+                    "name": "HC",
+                    "votes": 432
+                  },
+                  {
+                    "name": "HI",
+                    "votes": 820
+                  },
+                  {
+                    "name": "LA",
+                    "votes": 327
+                  },
+                  {
+                    "name": "LO",
+                    "votes": 885
+                  },
+                  {
+                    "name": "MA",
+                    "votes": 532
+                  },
+                  {
+                    "name": "MI",
+                    "votes": 990
+                  },
+                  {
+                    "name": "OT",
+                    "votes": 1416
+                  },
+                  {
+                    "name": "RO",
+                    "votes": 1146
+                  },
+                  {
+                    "name": "SM",
+                    "votes": 1238
+                  },
+                  {
+                    "name": "SP",
+                    "votes": 1423
+                  },
+                  {
+                    "name": "ST",
+                    "votes": 723
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 8041,
+                "Precinct": [
+                  {
+                    "name": "BA",
+                    "votes": 547
+                  },
+                  {
+                    "name": "BT",
+                    "votes": 334
+                  },
+                  {
+                    "name": "CO",
+                    "votes": 390
+                  },
+                  {
+                    "name": "FI",
+                    "votes": 957
+                  },
+                  {
+                    "name": "FS",
+                    "votes": 565
+                  },
+                  {
+                    "name": "HC",
+                    "votes": 261
+                  },
+                  {
+                    "name": "HI",
+                    "votes": 417
+                  },
+                  {
+                    "name": "LA",
+                    "votes": 263
+                  },
+                  {
+                    "name": "LO",
+                    "votes": 496
+                  },
+                  {
+                    "name": "MA",
+                    "votes": 335
+                  },
+                  {
+                    "name": "MI",
+                    "votes": 537
+                  },
+                  {
+                    "name": "OT",
+                    "votes": 724
+                  },
+                  {
+                    "name": "RO",
+                    "votes": 615
+                  },
+                  {
+                    "name": "SM",
+                    "votes": 569
+                  },
+                  {
+                    "name": "SP",
+                    "votes": 593
+                  },
+                  {
+                    "name": "ST",
+                    "votes": 438
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "BA",
+                    "votes": 0
+                  },
+                  {
+                    "name": "BT",
+                    "votes": 0
+                  },
+                  {
+                    "name": "CO",
+                    "votes": 0
+                  },
+                  {
+                    "name": "FI",
+                    "votes": 0
+                  },
+                  {
+                    "name": "FS",
+                    "votes": 0
+                  },
+                  {
+                    "name": "HC",
+                    "votes": 0
+                  },
+                  {
+                    "name": "HI",
+                    "votes": 0
+                  },
+                  {
+                    "name": "LA",
+                    "votes": 0
+                  },
+                  {
+                    "name": "LO",
+                    "votes": 0
+                  },
+                  {
+                    "name": "MA",
+                    "votes": 0
+                  },
+                  {
+                    "name": "MI",
+                    "votes": 0
+                  },
+                  {
+                    "name": "OT",
+                    "votes": 0
+                  },
+                  {
+                    "name": "RO",
+                    "votes": 0
+                  },
+                  {
+                    "name": "SM",
+                    "votes": 0
+                  },
+                  {
+                    "name": "SP",
+                    "votes": 0
+                  },
+                  {
+                    "name": "ST",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,48 +1,48 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 9:09:05 PM EST",
+    "Timestamp": "1/5/2021 9:03:29 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
-    "Region": "Dooly",
+    "Region": "Putnam",
     "VoterTurnout": {
-      "totalVoters": 5533,
-      "ballotsCast": 3745,
-      "voterTurnout": 67.68,
+      "totalVoters": 16264,
+      "ballotsCast": 10846,
+      "voterTurnout": 66.69,
       "Precincts": {
         "Precinct": [
           {
-            "name": "Lilly",
-            "totalVoters": 0,
-            "ballotsCast": 329,
-            "voterTurnout": 0.0,
+            "name": "101",
+            "totalVoters": 3311,
+            "ballotsCast": 2023,
+            "voterTurnout": 61.1,
             "percentReporting": "4"
           },
           {
-            "name": "Byromville",
-            "totalVoters": 625,
-            "ballotsCast": 408,
-            "voterTurnout": 65.28,
+            "name": "104",
+            "totalVoters": 3414,
+            "ballotsCast": 2099,
+            "voterTurnout": 61.48,
             "percentReporting": "4"
           },
           {
-            "name": "Unadilla",
-            "totalVoters": 1664,
-            "ballotsCast": 1001,
-            "voterTurnout": 60.16,
+            "name": "105",
+            "totalVoters": 3793,
+            "ballotsCast": 2905,
+            "voterTurnout": 76.59,
             "percentReporting": "4"
           },
           {
-            "name": "Vienna",
-            "totalVoters": 2768,
-            "ballotsCast": 1649,
-            "voterTurnout": 59.57,
+            "name": "106",
+            "totalVoters": 1358,
+            "ballotsCast": 925,
+            "voterTurnout": 68.11,
             "percentReporting": "4"
           },
           {
-            "name": "Pinehurst",
-            "totalVoters": 476,
-            "ballotsCast": 358,
-            "voterTurnout": 75.21,
+            "name": "107",
+            "totalVoters": 4388,
+            "ballotsCast": 2894,
+            "voterTurnout": 65.95,
             "percentReporting": "4"
           }
         ]
@@ -59,26 +59,26 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 15,
+            "votes": 16,
             "Precinct": [
               {
-                "name": "Lilly",
-                "votes": 1
+                "name": "101",
+                "votes": 8
               },
               {
-                "name": "Byromville",
-                "votes": 1
-              },
-              {
-                "name": "Unadilla",
+                "name": "104",
                 "votes": 2
               },
               {
-                "name": "Vienna",
-                "votes": 9
+                "name": "105",
+                "votes": 2
               },
               {
-                "name": "Pinehurst",
+                "name": "106",
+                "votes": 2
+              },
+              {
+                "name": "107",
                 "votes": 2
               }
             ]
@@ -88,23 +88,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Lilly",
+                "name": "101",
                 "votes": 0
               },
               {
-                "name": "Byromville",
+                "name": "104",
                 "votes": 0
               },
               {
-                "name": "Unadilla",
+                "name": "105",
                 "votes": 0
               },
               {
-                "name": "Vienna",
+                "name": "106",
                 "votes": 0
               },
               {
-                "name": "Pinehurst",
+                "name": "107",
                 "votes": 0
               }
             ]
@@ -114,83 +114,83 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 1932,
+            "totalVotes": 7675,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 699,
+                "votes": 2163,
                 "Precinct": [
                   {
-                    "name": "Lilly",
-                    "votes": 63
+                    "name": "101",
+                    "votes": 272
                   },
                   {
-                    "name": "Byromville",
-                    "votes": 110
+                    "name": "104",
+                    "votes": 273
                   },
                   {
-                    "name": "Unadilla",
-                    "votes": 214
+                    "name": "105",
+                    "votes": 602
                   },
                   {
-                    "name": "Vienna",
-                    "votes": 187
+                    "name": "106",
+                    "votes": 298
                   },
                   {
-                    "name": "Pinehurst",
-                    "votes": 125
+                    "name": "107",
+                    "votes": 718
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 1039,
+                "votes": 4086,
                 "Precinct": [
                   {
-                    "name": "Lilly",
-                    "votes": 72
+                    "name": "101",
+                    "votes": 656
                   },
                   {
-                    "name": "Byromville",
-                    "votes": 71
+                    "name": "104",
+                    "votes": 572
                   },
                   {
-                    "name": "Unadilla",
-                    "votes": 210
+                    "name": "105",
+                    "votes": 1305
                   },
                   {
-                    "name": "Vienna",
-                    "votes": 578
+                    "name": "106",
+                    "votes": 363
                   },
                   {
-                    "name": "Pinehurst",
-                    "votes": 108
+                    "name": "107",
+                    "votes": 1190
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 194,
+                "votes": 1426,
                 "Precinct": [
                   {
-                    "name": "Lilly",
-                    "votes": 13
+                    "name": "101",
+                    "votes": 172
                   },
                   {
-                    "name": "Byromville",
-                    "votes": 22
+                    "name": "104",
+                    "votes": 193
                   },
                   {
-                    "name": "Unadilla",
-                    "votes": 58
+                    "name": "105",
+                    "votes": 500
                   },
                   {
-                    "name": "Vienna",
-                    "votes": 68
+                    "name": "106",
+                    "votes": 109
                   },
                   {
-                    "name": "Pinehurst",
-                    "votes": 33
+                    "name": "107",
+                    "votes": 452
                   }
                 ]
               },
@@ -199,23 +199,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Lilly",
+                    "name": "101",
                     "votes": 0
                   },
                   {
-                    "name": "Byromville",
+                    "name": "104",
                     "votes": 0
                   },
                   {
-                    "name": "Unadilla",
+                    "name": "105",
                     "votes": 0
                   },
                   {
-                    "name": "Vienna",
+                    "name": "106",
                     "votes": 0
                   },
                   {
-                    "name": "Pinehurst",
+                    "name": "107",
                     "votes": 0
                   }
                 ]
@@ -225,83 +225,83 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 1798,
+            "totalVotes": 3155,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 555,
+                "votes": 581,
                 "Precinct": [
                   {
-                    "name": "Lilly",
-                    "votes": 70
+                    "name": "101",
+                    "votes": 172
                   },
                   {
-                    "name": "Byromville",
-                    "votes": 80
+                    "name": "104",
+                    "votes": 203
                   },
                   {
-                    "name": "Unadilla",
-                    "votes": 185
+                    "name": "105",
+                    "votes": 83
                   },
                   {
-                    "name": "Vienna",
-                    "votes": 183
+                    "name": "106",
+                    "votes": 36
                   },
                   {
-                    "name": "Pinehurst",
-                    "votes": 37
+                    "name": "107",
+                    "votes": 87
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 810,
+                "votes": 1316,
                 "Precinct": [
                   {
-                    "name": "Lilly",
-                    "votes": 72
+                    "name": "101",
+                    "votes": 426
                   },
                   {
-                    "name": "Byromville",
-                    "votes": 69
+                    "name": "104",
+                    "votes": 489
                   },
                   {
-                    "name": "Unadilla",
-                    "votes": 199
+                    "name": "105",
+                    "votes": 172
                   },
                   {
-                    "name": "Vienna",
-                    "votes": 436
+                    "name": "106",
+                    "votes": 50
                   },
                   {
-                    "name": "Pinehurst",
-                    "votes": 34
+                    "name": "107",
+                    "votes": 179
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 433,
+                "votes": 1258,
                 "Precinct": [
                   {
-                    "name": "Lilly",
-                    "votes": 38
+                    "name": "101",
+                    "votes": 317
                   },
                   {
-                    "name": "Byromville",
-                    "votes": 55
+                    "name": "104",
+                    "votes": 367
                   },
                   {
-                    "name": "Unadilla",
-                    "votes": 133
+                    "name": "105",
+                    "votes": 241
                   },
                   {
-                    "name": "Vienna",
-                    "votes": 188
+                    "name": "106",
+                    "votes": 67
                   },
                   {
-                    "name": "Pinehurst",
-                    "votes": 19
+                    "name": "107",
+                    "votes": 266
                   }
                 ]
               },
@@ -310,23 +310,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Lilly",
+                    "name": "101",
                     "votes": 0
                   },
                   {
-                    "name": "Byromville",
+                    "name": "104",
                     "votes": 0
                   },
                   {
-                    "name": "Unadilla",
+                    "name": "105",
                     "votes": 0
                   },
                   {
-                    "name": "Vienna",
+                    "name": "106",
                     "votes": 0
                   },
                   {
-                    "name": "Pinehurst",
+                    "name": "107",
                     "votes": 0
                   }
                 ]
@@ -345,27 +345,27 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 11,
+            "votes": 19,
             "Precinct": [
               {
-                "name": "Lilly",
-                "votes": 2
-              },
-              {
-                "name": "Byromville",
-                "votes": 0
-              },
-              {
-                "name": "Unadilla",
-                "votes": 1
-              },
-              {
-                "name": "Vienna",
+                "name": "101",
                 "votes": 8
               },
               {
-                "name": "Pinehurst",
-                "votes": 0
+                "name": "104",
+                "votes": 3
+              },
+              {
+                "name": "105",
+                "votes": 1
+              },
+              {
+                "name": "106",
+                "votes": 4
+              },
+              {
+                "name": "107",
+                "votes": 3
               }
             ]
           },
@@ -374,23 +374,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Lilly",
+                "name": "101",
                 "votes": 0
               },
               {
-                "name": "Byromville",
+                "name": "104",
                 "votes": 0
               },
               {
-                "name": "Unadilla",
+                "name": "105",
                 "votes": 0
               },
               {
-                "name": "Vienna",
+                "name": "106",
                 "votes": 0
               },
               {
-                "name": "Pinehurst",
+                "name": "107",
                 "votes": 0
               }
             ]
@@ -400,83 +400,83 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 1926,
+            "totalVotes": 7637,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 703,
+                "votes": 2160,
                 "Precinct": [
                   {
-                    "name": "Lilly",
-                    "votes": 64
+                    "name": "101",
+                    "votes": 268
                   },
                   {
-                    "name": "Byromville",
-                    "votes": 111
+                    "name": "104",
+                    "votes": 270
                   },
                   {
-                    "name": "Unadilla",
-                    "votes": 219
+                    "name": "105",
+                    "votes": 606
                   },
                   {
-                    "name": "Vienna",
-                    "votes": 183
+                    "name": "106",
+                    "votes": 299
                   },
                   {
-                    "name": "Pinehurst",
-                    "votes": 126
+                    "name": "107",
+                    "votes": 717
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 1034,
+                "votes": 4068,
                 "Precinct": [
                   {
-                    "name": "Lilly",
-                    "votes": 72
+                    "name": "101",
+                    "votes": 653
                   },
                   {
-                    "name": "Byromville",
-                    "votes": 71
+                    "name": "104",
+                    "votes": 574
                   },
                   {
-                    "name": "Unadilla",
-                    "votes": 210
+                    "name": "105",
+                    "votes": 1294
                   },
                   {
-                    "name": "Vienna",
-                    "votes": 573
+                    "name": "106",
+                    "votes": 360
                   },
                   {
-                    "name": "Pinehurst",
-                    "votes": 108
+                    "name": "107",
+                    "votes": 1187
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 189,
+                "votes": 1409,
                 "Precinct": [
                   {
-                    "name": "Lilly",
-                    "votes": 13
+                    "name": "101",
+                    "votes": 174
                   },
                   {
-                    "name": "Byromville",
-                    "votes": 21
+                    "name": "104",
+                    "votes": 190
                   },
                   {
-                    "name": "Unadilla",
-                    "votes": 57
+                    "name": "105",
+                    "votes": 491
                   },
                   {
-                    "name": "Vienna",
-                    "votes": 65
+                    "name": "106",
+                    "votes": 108
                   },
                   {
-                    "name": "Pinehurst",
-                    "votes": 33
+                    "name": "107",
+                    "votes": 446
                   }
                 ]
               },
@@ -485,23 +485,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Lilly",
+                    "name": "101",
                     "votes": 0
                   },
                   {
-                    "name": "Byromville",
+                    "name": "104",
                     "votes": 0
                   },
                   {
-                    "name": "Unadilla",
+                    "name": "105",
                     "votes": 0
                   },
                   {
-                    "name": "Vienna",
+                    "name": "106",
                     "votes": 0
                   },
                   {
-                    "name": "Pinehurst",
+                    "name": "107",
                     "votes": 0
                   }
                 ]
@@ -511,83 +511,83 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 1808,
+            "totalVotes": 3190,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 552,
+                "votes": 586,
                 "Precinct": [
                   {
-                    "name": "Lilly",
-                    "votes": 69
+                    "name": "101",
+                    "votes": 177
                   },
                   {
-                    "name": "Byromville",
-                    "votes": 80
+                    "name": "104",
+                    "votes": 204
                   },
                   {
-                    "name": "Unadilla",
-                    "votes": 180
+                    "name": "105",
+                    "votes": 81
                   },
                   {
-                    "name": "Vienna",
-                    "votes": 186
+                    "name": "106",
+                    "votes": 36
                   },
                   {
-                    "name": "Pinehurst",
-                    "votes": 37
+                    "name": "107",
+                    "votes": 88
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 820,
+                "votes": 1332,
                 "Precinct": [
                   {
-                    "name": "Lilly",
-                    "votes": 72
+                    "name": "101",
+                    "votes": 428
                   },
                   {
-                    "name": "Byromville",
-                    "votes": 69
+                    "name": "104",
+                    "votes": 489
                   },
                   {
-                    "name": "Unadilla",
-                    "votes": 201
+                    "name": "105",
+                    "votes": 183
                   },
                   {
-                    "name": "Vienna",
-                    "votes": 443
+                    "name": "106",
+                    "votes": 51
                   },
                   {
-                    "name": "Pinehurst",
-                    "votes": 35
+                    "name": "107",
+                    "votes": 181
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 436,
+                "votes": 1272,
                 "Precinct": [
                   {
-                    "name": "Lilly",
-                    "votes": 37
+                    "name": "101",
+                    "votes": 315
                   },
                   {
-                    "name": "Byromville",
-                    "votes": 56
+                    "name": "104",
+                    "votes": 369
                   },
                   {
-                    "name": "Unadilla",
-                    "votes": 133
+                    "name": "105",
+                    "votes": 249
                   },
                   {
-                    "name": "Vienna",
-                    "votes": 191
+                    "name": "106",
+                    "votes": 67
                   },
                   {
-                    "name": "Pinehurst",
-                    "votes": 19
+                    "name": "107",
+                    "votes": 272
                   }
                 ]
               },
@@ -596,23 +596,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Lilly",
+                    "name": "101",
                     "votes": 0
                   },
                   {
-                    "name": "Byromville",
+                    "name": "104",
                     "votes": 0
                   },
                   {
-                    "name": "Unadilla",
+                    "name": "105",
                     "votes": 0
                   },
                   {
-                    "name": "Vienna",
+                    "name": "106",
                     "votes": 0
                   },
                   {
-                    "name": "Pinehurst",
+                    "name": "107",
                     "votes": 0
                   }
                 ]
@@ -631,27 +631,27 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 100,
+            "votes": 152,
             "Precinct": [
               {
-                "name": "Lilly",
-                "votes": 10
+                "name": "101",
+                "votes": 30
               },
               {
-                "name": "Byromville",
-                "votes": 9
+                "name": "104",
+                "votes": 33
               },
               {
-                "name": "Unadilla",
-                "votes": 29
+                "name": "105",
+                "votes": 32
               },
               {
-                "name": "Vienna",
-                "votes": 45
+                "name": "106",
+                "votes": 20
               },
               {
-                "name": "Pinehurst",
-                "votes": 7
+                "name": "107",
+                "votes": 37
               }
             ]
           },
@@ -660,23 +660,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Lilly",
+                "name": "101",
                 "votes": 0
               },
               {
-                "name": "Byromville",
+                "name": "104",
                 "votes": 0
               },
               {
-                "name": "Unadilla",
+                "name": "105",
                 "votes": 0
               },
               {
-                "name": "Vienna",
+                "name": "106",
                 "votes": 0
               },
               {
-                "name": "Pinehurst",
+                "name": "107",
                 "votes": 0
               }
             ]
@@ -686,83 +686,83 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 1914,
+            "totalVotes": 7679,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 699,
+                "votes": 2171,
                 "Precinct": [
                   {
-                    "name": "Lilly",
-                    "votes": 66
+                    "name": "101",
+                    "votes": 272
                   },
                   {
-                    "name": "Byromville",
-                    "votes": 110
+                    "name": "104",
+                    "votes": 277
                   },
                   {
-                    "name": "Unadilla",
-                    "votes": 210
+                    "name": "105",
+                    "votes": 601
                   },
                   {
-                    "name": "Vienna",
-                    "votes": 187
+                    "name": "106",
+                    "votes": 298
                   },
                   {
-                    "name": "Pinehurst",
-                    "votes": 126
+                    "name": "107",
+                    "votes": 723
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 1018,
+                "votes": 4086,
                 "Precinct": [
                   {
-                    "name": "Lilly",
-                    "votes": 71
+                    "name": "101",
+                    "votes": 649
                   },
                   {
-                    "name": "Byromville",
-                    "votes": 71
+                    "name": "104",
+                    "votes": 580
                   },
                   {
-                    "name": "Unadilla",
-                    "votes": 205
+                    "name": "105",
+                    "votes": 1302
                   },
                   {
-                    "name": "Vienna",
-                    "votes": 565
+                    "name": "106",
+                    "votes": 359
                   },
                   {
-                    "name": "Pinehurst",
-                    "votes": 106
+                    "name": "107",
+                    "votes": 1196
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 197,
+                "votes": 1422,
                 "Precinct": [
                   {
-                    "name": "Lilly",
-                    "votes": 13
+                    "name": "101",
+                    "votes": 173
                   },
                   {
-                    "name": "Byromville",
-                    "votes": 22
+                    "name": "104",
+                    "votes": 188
                   },
                   {
-                    "name": "Unadilla",
-                    "votes": 59
+                    "name": "105",
+                    "votes": 503
                   },
                   {
-                    "name": "Vienna",
-                    "votes": 70
+                    "name": "106",
+                    "votes": 111
                   },
                   {
-                    "name": "Pinehurst",
-                    "votes": 33
+                    "name": "107",
+                    "votes": 447
                   }
                 ]
               },
@@ -771,23 +771,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Lilly",
+                    "name": "101",
                     "votes": 0
                   },
                   {
-                    "name": "Byromville",
+                    "name": "104",
                     "votes": 0
                   },
                   {
-                    "name": "Unadilla",
+                    "name": "105",
                     "votes": 0
                   },
                   {
-                    "name": "Vienna",
+                    "name": "106",
                     "votes": 0
                   },
                   {
-                    "name": "Pinehurst",
+                    "name": "107",
                     "votes": 0
                   }
                 ]
@@ -797,83 +797,83 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 1730,
+            "totalVotes": 3014,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 523,
+                "votes": 553,
                 "Precinct": [
                   {
-                    "name": "Lilly",
-                    "votes": 62
+                    "name": "101",
+                    "votes": 171
                   },
                   {
-                    "name": "Byromville",
-                    "votes": 78
+                    "name": "104",
+                    "votes": 197
                   },
                   {
-                    "name": "Unadilla",
-                    "votes": 174
+                    "name": "105",
+                    "votes": 77
                   },
                   {
-                    "name": "Vienna",
-                    "votes": 175
+                    "name": "106",
+                    "votes": 33
                   },
                   {
-                    "name": "Pinehurst",
-                    "votes": 34
+                    "name": "107",
+                    "votes": 75
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 789,
+                "votes": 1255,
                 "Precinct": [
                   {
-                    "name": "Lilly",
-                    "votes": 69
+                    "name": "101",
+                    "votes": 415
                   },
                   {
-                    "name": "Byromville",
-                    "votes": 63
+                    "name": "104",
+                    "votes": 463
                   },
                   {
-                    "name": "Unadilla",
-                    "votes": 193
+                    "name": "105",
+                    "votes": 165
                   },
                   {
-                    "name": "Vienna",
-                    "votes": 429
+                    "name": "106",
+                    "votes": 45
                   },
                   {
-                    "name": "Pinehurst",
-                    "votes": 35
+                    "name": "107",
+                    "votes": 167
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 418,
+                "votes": 1206,
                 "Precinct": [
                   {
-                    "name": "Lilly",
-                    "votes": 38
+                    "name": "101",
+                    "votes": 312
                   },
                   {
-                    "name": "Byromville",
-                    "votes": 55
+                    "name": "104",
+                    "votes": 361
                   },
                   {
-                    "name": "Unadilla",
-                    "votes": 131
+                    "name": "105",
+                    "votes": 225
                   },
                   {
-                    "name": "Vienna",
-                    "votes": 178
+                    "name": "106",
+                    "votes": 59
                   },
                   {
-                    "name": "Pinehurst",
-                    "votes": 16
+                    "name": "107",
+                    "votes": 249
                   }
                 ]
               },
@@ -882,23 +882,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Lilly",
+                    "name": "101",
                     "votes": 0
                   },
                   {
-                    "name": "Byromville",
+                    "name": "104",
                     "votes": 0
                   },
                   {
-                    "name": "Unadilla",
+                    "name": "105",
                     "votes": 0
                   },
                   {
-                    "name": "Vienna",
+                    "name": "106",
                     "votes": 0
                   },
                   {
-                    "name": "Pinehurst",
+                    "name": "107",
                     "votes": 0
                   }
                 ]

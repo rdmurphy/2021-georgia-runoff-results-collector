@@ -1,0 +1,1166 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 9:01:33 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Polk",
+    "VoterTurnout": {
+      "totalVoters": 0,
+      "ballotsCast": 12616,
+      "voterTurnout": 0.0,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Aragon",
+            "totalVoters": 0,
+            "ballotsCast": 1251,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Blooming Grove",
+            "totalVoters": 0,
+            "ballotsCast": 983,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Cedartown",
+            "totalVoters": 0,
+            "ballotsCast": 3539,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Fish Creek",
+            "totalVoters": 0,
+            "ballotsCast": 1637,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Lake Creek",
+            "totalVoters": 0,
+            "ballotsCast": 1907,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Rockmart",
+            "totalVoters": 0,
+            "ballotsCast": 2509,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Youngs Grove",
+            "totalVoters": 0,
+            "ballotsCast": 790,
+            "voterTurnout": 0.0,
+            "percentReporting": "2"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 7,
+        "precinctsReported": 4,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 26,
+            "Precinct": [
+              {
+                "name": "Aragon",
+                "votes": 1
+              },
+              {
+                "name": "Blooming Grove",
+                "votes": 2
+              },
+              {
+                "name": "Cedartown",
+                "votes": 8
+              },
+              {
+                "name": "Fish Creek",
+                "votes": 3
+              },
+              {
+                "name": "Lake Creek",
+                "votes": 4
+              },
+              {
+                "name": "Rockmart",
+                "votes": 7
+              },
+              {
+                "name": "Youngs Grove",
+                "votes": 1
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Aragon",
+                "votes": 0
+              },
+              {
+                "name": "Blooming Grove",
+                "votes": 0
+              },
+              {
+                "name": "Cedartown",
+                "votes": 0
+              },
+              {
+                "name": "Fish Creek",
+                "votes": 0
+              },
+              {
+                "name": "Lake Creek",
+                "votes": 0
+              },
+              {
+                "name": "Rockmart",
+                "votes": 0
+              },
+              {
+                "name": "Youngs Grove",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 9659,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1981,
+                "Precinct": [
+                  {
+                    "name": "Aragon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blooming Grove",
+                    "votes": 338
+                  },
+                  {
+                    "name": "Cedartown",
+                    "votes": 602
+                  },
+                  {
+                    "name": "Fish Creek",
+                    "votes": 506
+                  },
+                  {
+                    "name": "Lake Creek",
+                    "votes": 535
+                  },
+                  {
+                    "name": "Rockmart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Youngs Grove",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 6492,
+                "Precinct": [
+                  {
+                    "name": "Aragon",
+                    "votes": 839
+                  },
+                  {
+                    "name": "Blooming Grove",
+                    "votes": 401
+                  },
+                  {
+                    "name": "Cedartown",
+                    "votes": 1381
+                  },
+                  {
+                    "name": "Fish Creek",
+                    "votes": 754
+                  },
+                  {
+                    "name": "Lake Creek",
+                    "votes": 962
+                  },
+                  {
+                    "name": "Rockmart",
+                    "votes": 1587
+                  },
+                  {
+                    "name": "Youngs Grove",
+                    "votes": 568
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1186,
+                "Precinct": [
+                  {
+                    "name": "Aragon",
+                    "votes": 136
+                  },
+                  {
+                    "name": "Blooming Grove",
+                    "votes": 72
+                  },
+                  {
+                    "name": "Cedartown",
+                    "votes": 383
+                  },
+                  {
+                    "name": "Fish Creek",
+                    "votes": 123
+                  },
+                  {
+                    "name": "Lake Creek",
+                    "votes": 122
+                  },
+                  {
+                    "name": "Rockmart",
+                    "votes": 239
+                  },
+                  {
+                    "name": "Youngs Grove",
+                    "votes": 111
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Aragon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blooming Grove",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cedartown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fish Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lake Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rockmart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Youngs Grove",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 2931,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 422,
+                "Precinct": [
+                  {
+                    "name": "Aragon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blooming Grove",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Cedartown",
+                    "votes": 257
+                  },
+                  {
+                    "name": "Fish Creek",
+                    "votes": 52
+                  },
+                  {
+                    "name": "Lake Creek",
+                    "votes": 74
+                  },
+                  {
+                    "name": "Rockmart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Youngs Grove",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1606,
+                "Precinct": [
+                  {
+                    "name": "Aragon",
+                    "votes": 163
+                  },
+                  {
+                    "name": "Blooming Grove",
+                    "votes": 91
+                  },
+                  {
+                    "name": "Cedartown",
+                    "votes": 566
+                  },
+                  {
+                    "name": "Fish Creek",
+                    "votes": 124
+                  },
+                  {
+                    "name": "Lake Creek",
+                    "votes": 140
+                  },
+                  {
+                    "name": "Rockmart",
+                    "votes": 457
+                  },
+                  {
+                    "name": "Youngs Grove",
+                    "votes": 65
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 903,
+                "Precinct": [
+                  {
+                    "name": "Aragon",
+                    "votes": 112
+                  },
+                  {
+                    "name": "Blooming Grove",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Cedartown",
+                    "votes": 342
+                  },
+                  {
+                    "name": "Fish Creek",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Lake Creek",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Rockmart",
+                    "votes": 219
+                  },
+                  {
+                    "name": "Youngs Grove",
+                    "votes": 45
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Aragon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blooming Grove",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cedartown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fish Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lake Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rockmart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Youngs Grove",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 7,
+        "precinctsReported": 4,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 25,
+            "Precinct": [
+              {
+                "name": "Aragon",
+                "votes": 2
+              },
+              {
+                "name": "Blooming Grove",
+                "votes": 1
+              },
+              {
+                "name": "Cedartown",
+                "votes": 7
+              },
+              {
+                "name": "Fish Creek",
+                "votes": 4
+              },
+              {
+                "name": "Lake Creek",
+                "votes": 4
+              },
+              {
+                "name": "Rockmart",
+                "votes": 6
+              },
+              {
+                "name": "Youngs Grove",
+                "votes": 1
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Aragon",
+                "votes": 0
+              },
+              {
+                "name": "Blooming Grove",
+                "votes": 0
+              },
+              {
+                "name": "Cedartown",
+                "votes": 0
+              },
+              {
+                "name": "Fish Creek",
+                "votes": 0
+              },
+              {
+                "name": "Lake Creek",
+                "votes": 0
+              },
+              {
+                "name": "Rockmart",
+                "votes": 0
+              },
+              {
+                "name": "Youngs Grove",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 9645,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1977,
+                "Precinct": [
+                  {
+                    "name": "Aragon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blooming Grove",
+                    "votes": 337
+                  },
+                  {
+                    "name": "Cedartown",
+                    "votes": 601
+                  },
+                  {
+                    "name": "Fish Creek",
+                    "votes": 506
+                  },
+                  {
+                    "name": "Lake Creek",
+                    "votes": 533
+                  },
+                  {
+                    "name": "Rockmart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Youngs Grove",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 6488,
+                "Precinct": [
+                  {
+                    "name": "Aragon",
+                    "votes": 834
+                  },
+                  {
+                    "name": "Blooming Grove",
+                    "votes": 400
+                  },
+                  {
+                    "name": "Cedartown",
+                    "votes": 1374
+                  },
+                  {
+                    "name": "Fish Creek",
+                    "votes": 759
+                  },
+                  {
+                    "name": "Lake Creek",
+                    "votes": 963
+                  },
+                  {
+                    "name": "Rockmart",
+                    "votes": 1589
+                  },
+                  {
+                    "name": "Youngs Grove",
+                    "votes": 569
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1180,
+                "Precinct": [
+                  {
+                    "name": "Aragon",
+                    "votes": 138
+                  },
+                  {
+                    "name": "Blooming Grove",
+                    "votes": 73
+                  },
+                  {
+                    "name": "Cedartown",
+                    "votes": 377
+                  },
+                  {
+                    "name": "Fish Creek",
+                    "votes": 121
+                  },
+                  {
+                    "name": "Lake Creek",
+                    "votes": 123
+                  },
+                  {
+                    "name": "Rockmart",
+                    "votes": 238
+                  },
+                  {
+                    "name": "Youngs Grove",
+                    "votes": 110
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Aragon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blooming Grove",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cedartown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fish Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lake Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rockmart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Youngs Grove",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 2946,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 422,
+                "Precinct": [
+                  {
+                    "name": "Aragon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blooming Grove",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Cedartown",
+                    "votes": 258
+                  },
+                  {
+                    "name": "Fish Creek",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Lake Creek",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Rockmart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Youngs Grove",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1613,
+                "Precinct": [
+                  {
+                    "name": "Aragon",
+                    "votes": 167
+                  },
+                  {
+                    "name": "Blooming Grove",
+                    "votes": 94
+                  },
+                  {
+                    "name": "Cedartown",
+                    "votes": 574
+                  },
+                  {
+                    "name": "Fish Creek",
+                    "votes": 121
+                  },
+                  {
+                    "name": "Lake Creek",
+                    "votes": 139
+                  },
+                  {
+                    "name": "Rockmart",
+                    "votes": 454
+                  },
+                  {
+                    "name": "Youngs Grove",
+                    "votes": 64
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 911,
+                "Precinct": [
+                  {
+                    "name": "Aragon",
+                    "votes": 110
+                  },
+                  {
+                    "name": "Blooming Grove",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Cedartown",
+                    "votes": 348
+                  },
+                  {
+                    "name": "Fish Creek",
+                    "votes": 76
+                  },
+                  {
+                    "name": "Lake Creek",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Rockmart",
+                    "votes": 222
+                  },
+                  {
+                    "name": "Youngs Grove",
+                    "votes": 46
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Aragon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blooming Grove",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cedartown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fish Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lake Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rockmart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Youngs Grove",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 7,
+        "precinctsReported": 4,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 184,
+            "Precinct": [
+              {
+                "name": "Aragon",
+                "votes": 20
+              },
+              {
+                "name": "Blooming Grove",
+                "votes": 14
+              },
+              {
+                "name": "Cedartown",
+                "votes": 61
+              },
+              {
+                "name": "Fish Creek",
+                "votes": 17
+              },
+              {
+                "name": "Lake Creek",
+                "votes": 32
+              },
+              {
+                "name": "Rockmart",
+                "votes": 27
+              },
+              {
+                "name": "Youngs Grove",
+                "votes": 13
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Aragon",
+                "votes": 0
+              },
+              {
+                "name": "Blooming Grove",
+                "votes": 0
+              },
+              {
+                "name": "Cedartown",
+                "votes": 0
+              },
+              {
+                "name": "Fish Creek",
+                "votes": 0
+              },
+              {
+                "name": "Lake Creek",
+                "votes": 0
+              },
+              {
+                "name": "Rockmart",
+                "votes": 0
+              },
+              {
+                "name": "Youngs Grove",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 9560,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1967,
+                "Precinct": [
+                  {
+                    "name": "Aragon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blooming Grove",
+                    "votes": 336
+                  },
+                  {
+                    "name": "Cedartown",
+                    "votes": 597
+                  },
+                  {
+                    "name": "Fish Creek",
+                    "votes": 502
+                  },
+                  {
+                    "name": "Lake Creek",
+                    "votes": 532
+                  },
+                  {
+                    "name": "Rockmart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Youngs Grove",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 6426,
+                "Precinct": [
+                  {
+                    "name": "Aragon",
+                    "votes": 832
+                  },
+                  {
+                    "name": "Blooming Grove",
+                    "votes": 386
+                  },
+                  {
+                    "name": "Cedartown",
+                    "votes": 1367
+                  },
+                  {
+                    "name": "Fish Creek",
+                    "votes": 758
+                  },
+                  {
+                    "name": "Lake Creek",
+                    "votes": 958
+                  },
+                  {
+                    "name": "Rockmart",
+                    "votes": 1575
+                  },
+                  {
+                    "name": "Youngs Grove",
+                    "votes": 550
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1167,
+                "Precinct": [
+                  {
+                    "name": "Aragon",
+                    "votes": 135
+                  },
+                  {
+                    "name": "Blooming Grove",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Cedartown",
+                    "votes": 377
+                  },
+                  {
+                    "name": "Fish Creek",
+                    "votes": 124
+                  },
+                  {
+                    "name": "Lake Creek",
+                    "votes": 121
+                  },
+                  {
+                    "name": "Rockmart",
+                    "votes": 232
+                  },
+                  {
+                    "name": "Youngs Grove",
+                    "votes": 108
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Aragon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blooming Grove",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cedartown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fish Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lake Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rockmart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Youngs Grove",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 2872,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 416,
+                "Precinct": [
+                  {
+                    "name": "Aragon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blooming Grove",
+                    "votes": 38
+                  },
+                  {
+                    "name": "Cedartown",
+                    "votes": 253
+                  },
+                  {
+                    "name": "Fish Creek",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Lake Creek",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Rockmart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Youngs Grove",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1594,
+                "Precinct": [
+                  {
+                    "name": "Aragon",
+                    "votes": 158
+                  },
+                  {
+                    "name": "Blooming Grove",
+                    "votes": 101
+                  },
+                  {
+                    "name": "Cedartown",
+                    "votes": 558
+                  },
+                  {
+                    "name": "Fish Creek",
+                    "votes": 115
+                  },
+                  {
+                    "name": "Lake Creek",
+                    "votes": 129
+                  },
+                  {
+                    "name": "Rockmart",
+                    "votes": 458
+                  },
+                  {
+                    "name": "Youngs Grove",
+                    "votes": 75
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 862,
+                "Precinct": [
+                  {
+                    "name": "Aragon",
+                    "votes": 106
+                  },
+                  {
+                    "name": "Blooming Grove",
+                    "votes": 38
+                  },
+                  {
+                    "name": "Cedartown",
+                    "votes": 326
+                  },
+                  {
+                    "name": "Fish Creek",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Lake Creek",
+                    "votes": 60
+                  },
+                  {
+                    "name": "Rockmart",
+                    "votes": 217
+                  },
+                  {
+                    "name": "Youngs Grove",
+                    "votes": 44
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Aragon",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blooming Grove",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cedartown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fish Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lake Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rockmart",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Youngs Grove",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

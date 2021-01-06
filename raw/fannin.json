@@ -1,0 +1,1801 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 9:09:29 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Fannin",
+    "VoterTurnout": {
+      "totalVoters": 20399,
+      "ballotsCast": 11871,
+      "voterTurnout": 58.19,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Colwell",
+            "totalVoters": 1105,
+            "ballotsCast": 474,
+            "voterTurnout": 42.9,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Fairplay",
+            "totalVoters": 1262,
+            "ballotsCast": 802,
+            "voterTurnout": 63.55,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Flinthill",
+            "totalVoters": 3202,
+            "ballotsCast": 1890,
+            "voterTurnout": 59.03,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Hemptown",
+            "totalVoters": 1336,
+            "ballotsCast": 460,
+            "voterTurnout": 34.43,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Hothouse",
+            "totalVoters": 1290,
+            "ballotsCast": 520,
+            "voterTurnout": 40.31,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Mineral Bluff",
+            "totalVoters": 1817,
+            "ballotsCast": 810,
+            "voterTurnout": 44.58,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Mobile",
+            "totalVoters": 1160,
+            "ballotsCast": 750,
+            "voterTurnout": 64.66,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Morganton",
+            "totalVoters": 2067,
+            "ballotsCast": 1421,
+            "voterTurnout": 68.75,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Noontootla",
+            "totalVoters": 839,
+            "ballotsCast": 632,
+            "voterTurnout": 75.33,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Skeniah",
+            "totalVoters": 331,
+            "ballotsCast": 251,
+            "voterTurnout": 75.83,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Sugar Creek",
+            "totalVoters": 2437,
+            "ballotsCast": 1646,
+            "voterTurnout": 67.54,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Toccoa",
+            "totalVoters": 3553,
+            "ballotsCast": 2215,
+            "voterTurnout": 62.34,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 12,
+        "precinctsReported": 8,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 15,
+            "Precinct": [
+              {
+                "name": "Colwell",
+                "votes": 2
+              },
+              {
+                "name": "Fairplay",
+                "votes": 2
+              },
+              {
+                "name": "Flinthill",
+                "votes": 3
+              },
+              {
+                "name": "Hemptown",
+                "votes": 1
+              },
+              {
+                "name": "Hothouse",
+                "votes": 2
+              },
+              {
+                "name": "Mineral Bluff",
+                "votes": 1
+              },
+              {
+                "name": "Mobile",
+                "votes": 1
+              },
+              {
+                "name": "Morganton",
+                "votes": 0
+              },
+              {
+                "name": "Noontootla",
+                "votes": 0
+              },
+              {
+                "name": "Skeniah",
+                "votes": 0
+              },
+              {
+                "name": "Sugar Creek",
+                "votes": 0
+              },
+              {
+                "name": "Toccoa",
+                "votes": 3
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Colwell",
+                "votes": 0
+              },
+              {
+                "name": "Fairplay",
+                "votes": 0
+              },
+              {
+                "name": "Flinthill",
+                "votes": 0
+              },
+              {
+                "name": "Hemptown",
+                "votes": 0
+              },
+              {
+                "name": "Hothouse",
+                "votes": 0
+              },
+              {
+                "name": "Mineral Bluff",
+                "votes": 0
+              },
+              {
+                "name": "Mobile",
+                "votes": 0
+              },
+              {
+                "name": "Morganton",
+                "votes": 0
+              },
+              {
+                "name": "Noontootla",
+                "votes": 0
+              },
+              {
+                "name": "Skeniah",
+                "votes": 0
+              },
+              {
+                "name": "Sugar Creek",
+                "votes": 0
+              },
+              {
+                "name": "Toccoa",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 9587,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 3355,
+                "Precinct": [
+                  {
+                    "name": "Colwell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairplay",
+                    "votes": 314
+                  },
+                  {
+                    "name": "Flinthill",
+                    "votes": 752
+                  },
+                  {
+                    "name": "Hemptown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hothouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mineral Bluff",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mobile",
+                    "votes": 342
+                  },
+                  {
+                    "name": "Morganton",
+                    "votes": 540
+                  },
+                  {
+                    "name": "Noontootla",
+                    "votes": 207
+                  },
+                  {
+                    "name": "Skeniah",
+                    "votes": 120
+                  },
+                  {
+                    "name": "Sugar Creek",
+                    "votes": 488
+                  },
+                  {
+                    "name": "Toccoa",
+                    "votes": 592
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 4371,
+                "Precinct": [
+                  {
+                    "name": "Colwell",
+                    "votes": 244
+                  },
+                  {
+                    "name": "Fairplay",
+                    "votes": 252
+                  },
+                  {
+                    "name": "Flinthill",
+                    "votes": 571
+                  },
+                  {
+                    "name": "Hemptown",
+                    "votes": 232
+                  },
+                  {
+                    "name": "Hothouse",
+                    "votes": 262
+                  },
+                  {
+                    "name": "Mineral Bluff",
+                    "votes": 451
+                  },
+                  {
+                    "name": "Mobile",
+                    "votes": 188
+                  },
+                  {
+                    "name": "Morganton",
+                    "votes": 454
+                  },
+                  {
+                    "name": "Noontootla",
+                    "votes": 198
+                  },
+                  {
+                    "name": "Skeniah",
+                    "votes": 51
+                  },
+                  {
+                    "name": "Sugar Creek",
+                    "votes": 627
+                  },
+                  {
+                    "name": "Toccoa",
+                    "votes": 841
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1861,
+                "Precinct": [
+                  {
+                    "name": "Colwell",
+                    "votes": 105
+                  },
+                  {
+                    "name": "Fairplay",
+                    "votes": 72
+                  },
+                  {
+                    "name": "Flinthill",
+                    "votes": 292
+                  },
+                  {
+                    "name": "Hemptown",
+                    "votes": 95
+                  },
+                  {
+                    "name": "Hothouse",
+                    "votes": 123
+                  },
+                  {
+                    "name": "Mineral Bluff",
+                    "votes": 191
+                  },
+                  {
+                    "name": "Mobile",
+                    "votes": 106
+                  },
+                  {
+                    "name": "Morganton",
+                    "votes": 181
+                  },
+                  {
+                    "name": "Noontootla",
+                    "votes": 103
+                  },
+                  {
+                    "name": "Skeniah",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Sugar Creek",
+                    "votes": 228
+                  },
+                  {
+                    "name": "Toccoa",
+                    "votes": 331
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Colwell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairplay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Flinthill",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hemptown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hothouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mineral Bluff",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mobile",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morganton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Noontootla",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Skeniah",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sugar Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Toccoa",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 2269,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 360,
+                "Precinct": [
+                  {
+                    "name": "Colwell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairplay",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Flinthill",
+                    "votes": 66
+                  },
+                  {
+                    "name": "Hemptown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hothouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mineral Bluff",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mobile",
+                    "votes": 37
+                  },
+                  {
+                    "name": "Morganton",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Noontootla",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Skeniah",
+                    "votes": 9
+                  },
+                  {
+                    "name": "Sugar Creek",
+                    "votes": 54
+                  },
+                  {
+                    "name": "Toccoa",
+                    "votes": 78
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 842,
+                "Precinct": [
+                  {
+                    "name": "Colwell",
+                    "votes": 44
+                  },
+                  {
+                    "name": "Fairplay",
+                    "votes": 59
+                  },
+                  {
+                    "name": "Flinthill",
+                    "votes": 66
+                  },
+                  {
+                    "name": "Hemptown",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Hothouse",
+                    "votes": 60
+                  },
+                  {
+                    "name": "Mineral Bluff",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Mobile",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Morganton",
+                    "votes": 101
+                  },
+                  {
+                    "name": "Noontootla",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Skeniah",
+                    "votes": 12
+                  },
+                  {
+                    "name": "Sugar Creek",
+                    "votes": 120
+                  },
+                  {
+                    "name": "Toccoa",
+                    "votes": 173
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1067,
+                "Precinct": [
+                  {
+                    "name": "Colwell",
+                    "votes": 79
+                  },
+                  {
+                    "name": "Fairplay",
+                    "votes": 69
+                  },
+                  {
+                    "name": "Flinthill",
+                    "votes": 140
+                  },
+                  {
+                    "name": "Hemptown",
+                    "votes": 74
+                  },
+                  {
+                    "name": "Hothouse",
+                    "votes": 73
+                  },
+                  {
+                    "name": "Mineral Bluff",
+                    "votes": 96
+                  },
+                  {
+                    "name": "Mobile",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Morganton",
+                    "votes": 95
+                  },
+                  {
+                    "name": "Noontootla",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Skeniah",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Sugar Creek",
+                    "votes": 129
+                  },
+                  {
+                    "name": "Toccoa",
+                    "votes": 197
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Colwell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairplay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Flinthill",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hemptown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hothouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mineral Bluff",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mobile",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morganton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Noontootla",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Skeniah",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sugar Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Toccoa",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 12,
+        "precinctsReported": 8,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 21,
+            "Precinct": [
+              {
+                "name": "Colwell",
+                "votes": 1
+              },
+              {
+                "name": "Fairplay",
+                "votes": 2
+              },
+              {
+                "name": "Flinthill",
+                "votes": 3
+              },
+              {
+                "name": "Hemptown",
+                "votes": 1
+              },
+              {
+                "name": "Hothouse",
+                "votes": 0
+              },
+              {
+                "name": "Mineral Bluff",
+                "votes": 4
+              },
+              {
+                "name": "Mobile",
+                "votes": 0
+              },
+              {
+                "name": "Morganton",
+                "votes": 2
+              },
+              {
+                "name": "Noontootla",
+                "votes": 0
+              },
+              {
+                "name": "Skeniah",
+                "votes": 0
+              },
+              {
+                "name": "Sugar Creek",
+                "votes": 2
+              },
+              {
+                "name": "Toccoa",
+                "votes": 6
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Colwell",
+                "votes": 0
+              },
+              {
+                "name": "Fairplay",
+                "votes": 0
+              },
+              {
+                "name": "Flinthill",
+                "votes": 0
+              },
+              {
+                "name": "Hemptown",
+                "votes": 0
+              },
+              {
+                "name": "Hothouse",
+                "votes": 0
+              },
+              {
+                "name": "Mineral Bluff",
+                "votes": 0
+              },
+              {
+                "name": "Mobile",
+                "votes": 0
+              },
+              {
+                "name": "Morganton",
+                "votes": 0
+              },
+              {
+                "name": "Noontootla",
+                "votes": 0
+              },
+              {
+                "name": "Skeniah",
+                "votes": 0
+              },
+              {
+                "name": "Sugar Creek",
+                "votes": 0
+              },
+              {
+                "name": "Toccoa",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 9530,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 3345,
+                "Precinct": [
+                  {
+                    "name": "Colwell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairplay",
+                    "votes": 314
+                  },
+                  {
+                    "name": "Flinthill",
+                    "votes": 751
+                  },
+                  {
+                    "name": "Hemptown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hothouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mineral Bluff",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mobile",
+                    "votes": 340
+                  },
+                  {
+                    "name": "Morganton",
+                    "votes": 533
+                  },
+                  {
+                    "name": "Noontootla",
+                    "votes": 207
+                  },
+                  {
+                    "name": "Skeniah",
+                    "votes": 119
+                  },
+                  {
+                    "name": "Sugar Creek",
+                    "votes": 487
+                  },
+                  {
+                    "name": "Toccoa",
+                    "votes": 594
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 4358,
+                "Precinct": [
+                  {
+                    "name": "Colwell",
+                    "votes": 242
+                  },
+                  {
+                    "name": "Fairplay",
+                    "votes": 251
+                  },
+                  {
+                    "name": "Flinthill",
+                    "votes": 571
+                  },
+                  {
+                    "name": "Hemptown",
+                    "votes": 233
+                  },
+                  {
+                    "name": "Hothouse",
+                    "votes": 262
+                  },
+                  {
+                    "name": "Mineral Bluff",
+                    "votes": 449
+                  },
+                  {
+                    "name": "Mobile",
+                    "votes": 188
+                  },
+                  {
+                    "name": "Morganton",
+                    "votes": 454
+                  },
+                  {
+                    "name": "Noontootla",
+                    "votes": 197
+                  },
+                  {
+                    "name": "Skeniah",
+                    "votes": 49
+                  },
+                  {
+                    "name": "Sugar Creek",
+                    "votes": 629
+                  },
+                  {
+                    "name": "Toccoa",
+                    "votes": 833
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1827,
+                "Precinct": [
+                  {
+                    "name": "Colwell",
+                    "votes": 105
+                  },
+                  {
+                    "name": "Fairplay",
+                    "votes": 73
+                  },
+                  {
+                    "name": "Flinthill",
+                    "votes": 291
+                  },
+                  {
+                    "name": "Hemptown",
+                    "votes": 91
+                  },
+                  {
+                    "name": "Hothouse",
+                    "votes": 122
+                  },
+                  {
+                    "name": "Mineral Bluff",
+                    "votes": 180
+                  },
+                  {
+                    "name": "Mobile",
+                    "votes": 105
+                  },
+                  {
+                    "name": "Morganton",
+                    "votes": 182
+                  },
+                  {
+                    "name": "Noontootla",
+                    "votes": 101
+                  },
+                  {
+                    "name": "Skeniah",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Sugar Creek",
+                    "votes": 216
+                  },
+                  {
+                    "name": "Toccoa",
+                    "votes": 327
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Colwell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairplay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Flinthill",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hemptown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hothouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mineral Bluff",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mobile",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morganton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Noontootla",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Skeniah",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sugar Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Toccoa",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 2320,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 370,
+                "Precinct": [
+                  {
+                    "name": "Colwell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairplay",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Flinthill",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Hemptown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hothouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mineral Bluff",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mobile",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Morganton",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Noontootla",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Skeniah",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Sugar Creek",
+                    "votes": 55
+                  },
+                  {
+                    "name": "Toccoa",
+                    "votes": 77
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 855,
+                "Precinct": [
+                  {
+                    "name": "Colwell",
+                    "votes": 46
+                  },
+                  {
+                    "name": "Fairplay",
+                    "votes": 59
+                  },
+                  {
+                    "name": "Flinthill",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Hemptown",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Hothouse",
+                    "votes": 61
+                  },
+                  {
+                    "name": "Mineral Bluff",
+                    "votes": 73
+                  },
+                  {
+                    "name": "Mobile",
+                    "votes": 37
+                  },
+                  {
+                    "name": "Morganton",
+                    "votes": 100
+                  },
+                  {
+                    "name": "Noontootla",
+                    "votes": 43
+                  },
+                  {
+                    "name": "Skeniah",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Sugar Creek",
+                    "votes": 118
+                  },
+                  {
+                    "name": "Toccoa",
+                    "votes": 179
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1095,
+                "Precinct": [
+                  {
+                    "name": "Colwell",
+                    "votes": 80
+                  },
+                  {
+                    "name": "Fairplay",
+                    "votes": 69
+                  },
+                  {
+                    "name": "Flinthill",
+                    "votes": 140
+                  },
+                  {
+                    "name": "Hemptown",
+                    "votes": 77
+                  },
+                  {
+                    "name": "Hothouse",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Mineral Bluff",
+                    "votes": 104
+                  },
+                  {
+                    "name": "Mobile",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Morganton",
+                    "votes": 94
+                  },
+                  {
+                    "name": "Noontootla",
+                    "votes": 52
+                  },
+                  {
+                    "name": "Skeniah",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Sugar Creek",
+                    "votes": 139
+                  },
+                  {
+                    "name": "Toccoa",
+                    "votes": 199
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Colwell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairplay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Flinthill",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hemptown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hothouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mineral Bluff",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mobile",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morganton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Noontootla",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Skeniah",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sugar Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Toccoa",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 12,
+        "precinctsReported": 8,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 188,
+            "Precinct": [
+              {
+                "name": "Colwell",
+                "votes": 8
+              },
+              {
+                "name": "Fairplay",
+                "votes": 9
+              },
+              {
+                "name": "Flinthill",
+                "votes": 40
+              },
+              {
+                "name": "Hemptown",
+                "votes": 4
+              },
+              {
+                "name": "Hothouse",
+                "votes": 5
+              },
+              {
+                "name": "Mineral Bluff",
+                "votes": 12
+              },
+              {
+                "name": "Mobile",
+                "votes": 8
+              },
+              {
+                "name": "Morganton",
+                "votes": 25
+              },
+              {
+                "name": "Noontootla",
+                "votes": 7
+              },
+              {
+                "name": "Skeniah",
+                "votes": 3
+              },
+              {
+                "name": "Sugar Creek",
+                "votes": 26
+              },
+              {
+                "name": "Toccoa",
+                "votes": 41
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Colwell",
+                "votes": 0
+              },
+              {
+                "name": "Fairplay",
+                "votes": 0
+              },
+              {
+                "name": "Flinthill",
+                "votes": 0
+              },
+              {
+                "name": "Hemptown",
+                "votes": 0
+              },
+              {
+                "name": "Hothouse",
+                "votes": 0
+              },
+              {
+                "name": "Mineral Bluff",
+                "votes": 0
+              },
+              {
+                "name": "Mobile",
+                "votes": 0
+              },
+              {
+                "name": "Morganton",
+                "votes": 0
+              },
+              {
+                "name": "Noontootla",
+                "votes": 0
+              },
+              {
+                "name": "Skeniah",
+                "votes": 0
+              },
+              {
+                "name": "Sugar Creek",
+                "votes": 0
+              },
+              {
+                "name": "Toccoa",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 9520,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 3323,
+                "Precinct": [
+                  {
+                    "name": "Colwell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairplay",
+                    "votes": 310
+                  },
+                  {
+                    "name": "Flinthill",
+                    "votes": 741
+                  },
+                  {
+                    "name": "Hemptown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hothouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mineral Bluff",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mobile",
+                    "votes": 338
+                  },
+                  {
+                    "name": "Morganton",
+                    "votes": 535
+                  },
+                  {
+                    "name": "Noontootla",
+                    "votes": 205
+                  },
+                  {
+                    "name": "Skeniah",
+                    "votes": 116
+                  },
+                  {
+                    "name": "Sugar Creek",
+                    "votes": 488
+                  },
+                  {
+                    "name": "Toccoa",
+                    "votes": 590
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 4358,
+                "Precinct": [
+                  {
+                    "name": "Colwell",
+                    "votes": 241
+                  },
+                  {
+                    "name": "Fairplay",
+                    "votes": 247
+                  },
+                  {
+                    "name": "Flinthill",
+                    "votes": 560
+                  },
+                  {
+                    "name": "Hemptown",
+                    "votes": 240
+                  },
+                  {
+                    "name": "Hothouse",
+                    "votes": 265
+                  },
+                  {
+                    "name": "Mineral Bluff",
+                    "votes": 449
+                  },
+                  {
+                    "name": "Mobile",
+                    "votes": 191
+                  },
+                  {
+                    "name": "Morganton",
+                    "votes": 453
+                  },
+                  {
+                    "name": "Noontootla",
+                    "votes": 202
+                  },
+                  {
+                    "name": "Skeniah",
+                    "votes": 52
+                  },
+                  {
+                    "name": "Sugar Creek",
+                    "votes": 623
+                  },
+                  {
+                    "name": "Toccoa",
+                    "votes": 835
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1839,
+                "Precinct": [
+                  {
+                    "name": "Colwell",
+                    "votes": 103
+                  },
+                  {
+                    "name": "Fairplay",
+                    "votes": 76
+                  },
+                  {
+                    "name": "Flinthill",
+                    "votes": 287
+                  },
+                  {
+                    "name": "Hemptown",
+                    "votes": 98
+                  },
+                  {
+                    "name": "Hothouse",
+                    "votes": 124
+                  },
+                  {
+                    "name": "Mineral Bluff",
+                    "votes": 191
+                  },
+                  {
+                    "name": "Mobile",
+                    "votes": 101
+                  },
+                  {
+                    "name": "Morganton",
+                    "votes": 174
+                  },
+                  {
+                    "name": "Noontootla",
+                    "votes": 102
+                  },
+                  {
+                    "name": "Skeniah",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Sugar Creek",
+                    "votes": 215
+                  },
+                  {
+                    "name": "Toccoa",
+                    "votes": 334
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Colwell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairplay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Flinthill",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hemptown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hothouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mineral Bluff",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mobile",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morganton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Noontootla",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Skeniah",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sugar Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Toccoa",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 2163,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 342,
+                "Precinct": [
+                  {
+                    "name": "Colwell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairplay",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Flinthill",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Hemptown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hothouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mineral Bluff",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mobile",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Morganton",
+                    "votes": 47
+                  },
+                  {
+                    "name": "Noontootla",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Skeniah",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Sugar Creek",
+                    "votes": 48
+                  },
+                  {
+                    "name": "Toccoa",
+                    "votes": 67
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 799,
+                "Precinct": [
+                  {
+                    "name": "Colwell",
+                    "votes": 43
+                  },
+                  {
+                    "name": "Fairplay",
+                    "votes": 60
+                  },
+                  {
+                    "name": "Flinthill",
+                    "votes": 69
+                  },
+                  {
+                    "name": "Hemptown",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Hothouse",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Mineral Bluff",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Mobile",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Morganton",
+                    "votes": 94
+                  },
+                  {
+                    "name": "Noontootla",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Skeniah",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Sugar Creek",
+                    "votes": 113
+                  },
+                  {
+                    "name": "Toccoa",
+                    "votes": 169
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1022,
+                "Precinct": [
+                  {
+                    "name": "Colwell",
+                    "votes": 79
+                  },
+                  {
+                    "name": "Fairplay",
+                    "votes": 65
+                  },
+                  {
+                    "name": "Flinthill",
+                    "votes": 129
+                  },
+                  {
+                    "name": "Hemptown",
+                    "votes": 68
+                  },
+                  {
+                    "name": "Hothouse",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Mineral Bluff",
+                    "votes": 91
+                  },
+                  {
+                    "name": "Mobile",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Morganton",
+                    "votes": 93
+                  },
+                  {
+                    "name": "Noontootla",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Skeniah",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Sugar Creek",
+                    "votes": 133
+                  },
+                  {
+                    "name": "Toccoa",
+                    "votes": 179
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Colwell",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fairplay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Flinthill",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hemptown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hothouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mineral Bluff",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mobile",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morganton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Noontootla",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Skeniah",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sugar Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Toccoa",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

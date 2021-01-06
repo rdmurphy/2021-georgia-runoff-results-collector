@@ -1,21 +1,21 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:33:30 PM EST",
+    "Timestamp": "1/5/2021 9:01:30 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "White",
     "VoterTurnout": {
       "totalVoters": 0,
-      "ballotsCast": 10751,
+      "ballotsCast": 13306,
       "voterTurnout": 0.0,
       "Precincts": {
         "Precinct": [
           {
             "name": "Blue Creek",
             "totalVoters": 0,
-            "ballotsCast": 1092,
+            "ballotsCast": 1613,
             "voterTurnout": 0.0,
-            "percentReporting": "2"
+            "percentReporting": "4"
           },
           {
             "name": "Blue Ridge",
@@ -41,16 +41,16 @@
           {
             "name": "Mt Yonah",
             "totalVoters": 0,
-            "ballotsCast": 1974,
+            "ballotsCast": 2774,
             "voterTurnout": 0.0,
-            "percentReporting": "2"
+            "percentReporting": "4"
           },
           {
             "name": "Nacoochee",
             "totalVoters": 0,
-            "ballotsCast": 889,
+            "ballotsCast": 1189,
             "voterTurnout": 0.0,
-            "percentReporting": "2"
+            "percentReporting": "4"
           },
           {
             "name": "Robertstown",
@@ -62,9 +62,9 @@
           {
             "name": "Shoal Creek",
             "totalVoters": 0,
-            "ballotsCast": 912,
+            "ballotsCast": 1482,
             "voterTurnout": 0.0,
-            "percentReporting": "2"
+            "percentReporting": "4"
           },
           {
             "name": "Tesnatee",
@@ -76,9 +76,9 @@
           {
             "name": "Town Creek",
             "totalVoters": 0,
-            "ballotsCast": 674,
+            "ballotsCast": 1038,
             "voterTurnout": 0.0,
-            "percentReporting": "2"
+            "percentReporting": "4"
           },
           {
             "name": "White Creek",
@@ -97,11 +97,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 11,
-        "precinctsReported": 6,
+        "precinctsReported": 11,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 16,
+            "votes": 17,
             "Precinct": [
               {
                 "name": "Blue Creek",
@@ -141,7 +141,7 @@
               },
               {
                 "name": "Town Creek",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "White Creek",
@@ -204,15 +204,15 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 8775,
+            "totalVotes": 11067,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1788,
+                "votes": 4080,
                 "Precinct": [
                   {
                     "name": "Blue Creek",
-                    "votes": 0
+                    "votes": 472
                   },
                   {
                     "name": "Blue Ridge",
@@ -228,11 +228,11 @@
                   },
                   {
                     "name": "Mt Yonah",
-                    "votes": 0
+                    "votes": 710
                   },
                   {
                     "name": "Nacoochee",
-                    "votes": 0
+                    "votes": 237
                   },
                   {
                     "name": "Robertstown",
@@ -240,7 +240,7 @@
                   },
                   {
                     "name": "Shoal Creek",
-                    "votes": 0
+                    "votes": 533
                   },
                   {
                     "name": "Tesnatee",
@@ -248,7 +248,7 @@
                   },
                   {
                     "name": "Town Creek",
-                    "votes": 0
+                    "votes": 340
                   },
                   {
                     "name": "White Creek",
@@ -411,15 +411,15 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 1960,
+            "totalVotes": 2222,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 169,
+                "votes": 431,
                 "Precinct": [
                   {
                     "name": "Blue Creek",
-                    "votes": 0
+                    "votes": 49
                   },
                   {
                     "name": "Blue Ridge",
@@ -435,11 +435,11 @@
                   },
                   {
                     "name": "Mt Yonah",
-                    "votes": 0
+                    "votes": 90
                   },
                   {
                     "name": "Nacoochee",
-                    "votes": 0
+                    "votes": 63
                   },
                   {
                     "name": "Robertstown",
@@ -447,7 +447,7 @@
                   },
                   {
                     "name": "Shoal Creek",
-                    "votes": 0
+                    "votes": 37
                   },
                   {
                     "name": "Tesnatee",
@@ -455,7 +455,7 @@
                   },
                   {
                     "name": "Town Creek",
-                    "votes": 0
+                    "votes": 23
                   },
                   {
                     "name": "White Creek",
@@ -623,11 +623,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 11,
-        "precinctsReported": 6,
+        "precinctsReported": 11,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 17,
+            "votes": 20,
             "Precinct": [
               {
                 "name": "Blue Creek",
@@ -651,7 +651,7 @@
               },
               {
                 "name": "Nacoochee",
-                "votes": 1
+                "votes": 3
               },
               {
                 "name": "Robertstown",
@@ -667,7 +667,7 @@
               },
               {
                 "name": "Town Creek",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "White Creek",
@@ -730,15 +730,15 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 8726,
+            "totalVotes": 11014,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1785,
+                "votes": 4073,
                 "Precinct": [
                   {
                     "name": "Blue Creek",
-                    "votes": 0
+                    "votes": 472
                   },
                   {
                     "name": "Blue Ridge",
@@ -754,11 +754,11 @@
                   },
                   {
                     "name": "Mt Yonah",
-                    "votes": 0
+                    "votes": 711
                   },
                   {
                     "name": "Nacoochee",
-                    "votes": 0
+                    "votes": 231
                   },
                   {
                     "name": "Robertstown",
@@ -766,7 +766,7 @@
                   },
                   {
                     "name": "Shoal Creek",
-                    "votes": 0
+                    "votes": 533
                   },
                   {
                     "name": "Tesnatee",
@@ -774,7 +774,7 @@
                   },
                   {
                     "name": "Town Creek",
-                    "votes": 0
+                    "votes": 341
                   },
                   {
                     "name": "White Creek",
@@ -937,15 +937,15 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 2008,
+            "totalVotes": 2272,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 173,
+                "votes": 437,
                 "Precinct": [
                   {
                     "name": "Blue Creek",
-                    "votes": 0
+                    "votes": 49
                   },
                   {
                     "name": "Blue Ridge",
@@ -961,11 +961,11 @@
                   },
                   {
                     "name": "Mt Yonah",
-                    "votes": 0
+                    "votes": 89
                   },
                   {
                     "name": "Nacoochee",
-                    "votes": 0
+                    "votes": 67
                   },
                   {
                     "name": "Robertstown",
@@ -973,7 +973,7 @@
                   },
                   {
                     "name": "Shoal Creek",
-                    "votes": 0
+                    "votes": 37
                   },
                   {
                     "name": "Tesnatee",
@@ -981,7 +981,7 @@
                   },
                   {
                     "name": "Town Creek",
-                    "votes": 0
+                    "votes": 22
                   },
                   {
                     "name": "White Creek",
@@ -1149,15 +1149,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 11,
-        "precinctsReported": 6,
+        "precinctsReported": 11,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 140,
+            "votes": 159,
             "Precinct": [
               {
                 "name": "Blue Creek",
-                "votes": 12
+                "votes": 15
               },
               {
                 "name": "Blue Ridge",
@@ -1173,11 +1173,11 @@
               },
               {
                 "name": "Mt Yonah",
-                "votes": 32
+                "votes": 38
               },
               {
                 "name": "Nacoochee",
-                "votes": 7
+                "votes": 11
               },
               {
                 "name": "Robertstown",
@@ -1185,7 +1185,7 @@
               },
               {
                 "name": "Shoal Creek",
-                "votes": 11
+                "votes": 14
               },
               {
                 "name": "Tesnatee",
@@ -1193,7 +1193,7 @@
               },
               {
                 "name": "Town Creek",
-                "votes": 10
+                "votes": 13
               },
               {
                 "name": "White Creek",
@@ -1256,15 +1256,15 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 8753,
+            "totalVotes": 11033,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1777,
+                "votes": 4057,
                 "Precinct": [
                   {
                     "name": "Blue Creek",
-                    "votes": 0
+                    "votes": 471
                   },
                   {
                     "name": "Blue Ridge",
@@ -1280,11 +1280,11 @@
                   },
                   {
                     "name": "Mt Yonah",
-                    "votes": 0
+                    "votes": 705
                   },
                   {
                     "name": "Nacoochee",
-                    "votes": 0
+                    "votes": 232
                   },
                   {
                     "name": "Robertstown",
@@ -1292,7 +1292,7 @@
                   },
                   {
                     "name": "Shoal Creek",
-                    "votes": 0
+                    "votes": 536
                   },
                   {
                     "name": "Tesnatee",
@@ -1300,7 +1300,7 @@
                   },
                   {
                     "name": "Town Creek",
-                    "votes": 0
+                    "votes": 336
                   },
                   {
                     "name": "White Creek",
@@ -1463,15 +1463,15 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 1856,
+            "totalVotes": 2112,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 161,
+                "votes": 417,
                 "Precinct": [
                   {
                     "name": "Blue Creek",
-                    "votes": 0
+                    "votes": 47
                   },
                   {
                     "name": "Blue Ridge",
@@ -1487,11 +1487,11 @@
                   },
                   {
                     "name": "Mt Yonah",
-                    "votes": 0
+                    "votes": 89
                   },
                   {
                     "name": "Nacoochee",
-                    "votes": 0
+                    "votes": 64
                   },
                   {
                     "name": "Robertstown",
@@ -1499,7 +1499,7 @@
                   },
                   {
                     "name": "Shoal Creek",
-                    "votes": 0
+                    "votes": 31
                   },
                   {
                     "name": "Tesnatee",
@@ -1507,7 +1507,7 @@
                   },
                   {
                     "name": "Town Creek",
-                    "votes": 0
+                    "votes": 25
                   },
                   {
                     "name": "White Creek",

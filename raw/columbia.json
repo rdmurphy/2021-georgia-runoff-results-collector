@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:52:13 PM EST",
+    "Timestamp": "1/5/2021 9:00:19 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Columbia",
     "VoterTurnout": {
       "totalVoters": 109715,
-      "ballotsCast": 15033,
-      "voterTurnout": 13.7,
+      "ballotsCast": 19847,
+      "voterTurnout": 18.09,
       "Precincts": {
         "Precinct": [
           {
@@ -104,9 +104,9 @@
           {
             "name": "Grovetown Public Safety Station 2",
             "totalVoters": 3817,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 565,
+            "voterTurnout": 14.8,
+            "percentReporting": "2"
           },
           {
             "name": "Grove First Baptist Church",
@@ -132,9 +132,9 @@
           {
             "name": "Damascus Baptist Church",
             "totalVoters": 1042,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 450,
+            "voterTurnout": 43.19,
+            "percentReporting": "2"
           },
           {
             "name": "Col Cty Bd of Edu",
@@ -146,16 +146,16 @@
           {
             "name": "Greenbrier High",
             "totalVoters": 3461,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 848,
+            "voterTurnout": 24.5,
+            "percentReporting": "2"
           },
           {
             "name": "Parkway Baptist Church",
             "totalVoters": 4706,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 1077,
+            "voterTurnout": 22.89,
+            "percentReporting": "2"
           },
           {
             "name": "Riverview Church",
@@ -167,9 +167,9 @@
           {
             "name": "Grace Baptist Church",
             "totalVoters": 3612,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 744,
+            "voterTurnout": 20.6,
+            "percentReporting": "2"
           },
           {
             "name": "Christ Sanctified",
@@ -188,9 +188,9 @@
           {
             "name": "Belair Baptist Church",
             "totalVoters": 2485,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 574,
+            "voterTurnout": 23.1,
+            "percentReporting": "2"
           },
           {
             "name": "Marvin Methodist",
@@ -307,9 +307,9 @@
           {
             "name": "Wesley Methodist",
             "totalVoters": 2461,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 556,
+            "voterTurnout": 22.59,
+            "percentReporting": "2"
           },
           {
             "name": "Col Cty Main Library",
@@ -353,7 +353,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 24,
+            "votes": 30,
             "Precinct": [
               {
                 "name": "Kiokee Baptist Church",
@@ -409,7 +409,7 @@
               },
               {
                 "name": "Grovetown Public Safety Station 2",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Grove First Baptist Church",
@@ -433,7 +433,7 @@
               },
               {
                 "name": "Greenbrier High",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Parkway Baptist Church",
@@ -445,7 +445,7 @@
               },
               {
                 "name": "Grace Baptist Church",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Christ Sanctified",
@@ -525,7 +525,7 @@
               },
               {
                 "name": "Wesley Methodist",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Col Cty Main Library",
@@ -744,11 +744,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 11198,
+            "totalVotes": 14851,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 11198,
+                "votes": 14851,
                 "Precinct": [
                   {
                     "name": "Kiokee Baptist Church",
@@ -804,7 +804,7 @@
                   },
                   {
                     "name": "Grovetown Public Safety Station 2",
-                    "votes": 0
+                    "votes": 280
                   },
                   {
                     "name": "Grove First Baptist Church",
@@ -820,7 +820,7 @@
                   },
                   {
                     "name": "Damascus Baptist Church",
-                    "votes": 0
+                    "votes": 410
                   },
                   {
                     "name": "Col Cty Bd of Edu",
@@ -828,11 +828,11 @@
                   },
                   {
                     "name": "Greenbrier High",
-                    "votes": 0
+                    "votes": 692
                   },
                   {
                     "name": "Parkway Baptist Church",
-                    "votes": 0
+                    "votes": 848
                   },
                   {
                     "name": "Riverview Church",
@@ -840,7 +840,7 @@
                   },
                   {
                     "name": "Grace Baptist Church",
-                    "votes": 0
+                    "votes": 554
                   },
                   {
                     "name": "Christ Sanctified",
@@ -852,7 +852,7 @@
                   },
                   {
                     "name": "Belair Baptist Church",
-                    "votes": 0
+                    "votes": 417
                   },
                   {
                     "name": "Marvin Methodist",
@@ -920,7 +920,7 @@
                   },
                   {
                     "name": "Wesley Methodist",
-                    "votes": 0
+                    "votes": 452
                   },
                   {
                     "name": "Col Cty Main Library",
@@ -1527,11 +1527,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 3811,
+            "totalVotes": 4966,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 3811,
+                "votes": 4966,
                 "Precinct": [
                   {
                     "name": "Kiokee Baptist Church",
@@ -1587,7 +1587,7 @@
                   },
                   {
                     "name": "Grovetown Public Safety Station 2",
-                    "votes": 0
+                    "votes": 284
                   },
                   {
                     "name": "Grove First Baptist Church",
@@ -1603,7 +1603,7 @@
                   },
                   {
                     "name": "Damascus Baptist Church",
-                    "votes": 0
+                    "votes": 40
                   },
                   {
                     "name": "Col Cty Bd of Edu",
@@ -1611,11 +1611,11 @@
                   },
                   {
                     "name": "Greenbrier High",
-                    "votes": 0
+                    "votes": 154
                   },
                   {
                     "name": "Parkway Baptist Church",
-                    "votes": 0
+                    "votes": 229
                   },
                   {
                     "name": "Riverview Church",
@@ -1623,7 +1623,7 @@
                   },
                   {
                     "name": "Grace Baptist Church",
-                    "votes": 0
+                    "votes": 188
                   },
                   {
                     "name": "Christ Sanctified",
@@ -1635,7 +1635,7 @@
                   },
                   {
                     "name": "Belair Baptist Church",
-                    "votes": 0
+                    "votes": 157
                   },
                   {
                     "name": "Marvin Methodist",
@@ -1703,7 +1703,7 @@
                   },
                   {
                     "name": "Wesley Methodist",
-                    "votes": 0
+                    "votes": 103
                   },
                   {
                     "name": "Col Cty Main Library",
@@ -2319,7 +2319,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 30,
+            "votes": 37,
             "Precinct": [
               {
                 "name": "Kiokee Baptist Church",
@@ -2375,7 +2375,7 @@
               },
               {
                 "name": "Grovetown Public Safety Station 2",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Grove First Baptist Church",
@@ -2399,7 +2399,7 @@
               },
               {
                 "name": "Greenbrier High",
-                "votes": 0
+                "votes": 3
               },
               {
                 "name": "Parkway Baptist Church",
@@ -2411,7 +2411,7 @@
               },
               {
                 "name": "Grace Baptist Church",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Christ Sanctified",
@@ -2423,7 +2423,7 @@
               },
               {
                 "name": "Belair Baptist Church",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Marvin Methodist",
@@ -2491,7 +2491,7 @@
               },
               {
                 "name": "Wesley Methodist",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Col Cty Main Library",
@@ -2710,11 +2710,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 11183,
+            "totalVotes": 14843,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 11183,
+                "votes": 14843,
                 "Precinct": [
                   {
                     "name": "Kiokee Baptist Church",
@@ -2770,7 +2770,7 @@
                   },
                   {
                     "name": "Grovetown Public Safety Station 2",
-                    "votes": 0
+                    "votes": 278
                   },
                   {
                     "name": "Grove First Baptist Church",
@@ -2786,7 +2786,7 @@
                   },
                   {
                     "name": "Damascus Baptist Church",
-                    "votes": 0
+                    "votes": 411
                   },
                   {
                     "name": "Col Cty Bd of Edu",
@@ -2794,11 +2794,11 @@
                   },
                   {
                     "name": "Greenbrier High",
-                    "votes": 0
+                    "votes": 695
                   },
                   {
                     "name": "Parkway Baptist Church",
-                    "votes": 0
+                    "votes": 844
                   },
                   {
                     "name": "Riverview Church",
@@ -2806,7 +2806,7 @@
                   },
                   {
                     "name": "Grace Baptist Church",
-                    "votes": 0
+                    "votes": 560
                   },
                   {
                     "name": "Christ Sanctified",
@@ -2818,7 +2818,7 @@
                   },
                   {
                     "name": "Belair Baptist Church",
-                    "votes": 0
+                    "votes": 414
                   },
                   {
                     "name": "Marvin Methodist",
@@ -2886,7 +2886,7 @@
                   },
                   {
                     "name": "Wesley Methodist",
-                    "votes": 0
+                    "votes": 458
                   },
                   {
                     "name": "Col Cty Main Library",
@@ -3493,11 +3493,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 3819,
+            "totalVotes": 4966,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 3819,
+                "votes": 4966,
                 "Precinct": [
                   {
                     "name": "Kiokee Baptist Church",
@@ -3553,7 +3553,7 @@
                   },
                   {
                     "name": "Grovetown Public Safety Station 2",
-                    "votes": 0
+                    "votes": 286
                   },
                   {
                     "name": "Grove First Baptist Church",
@@ -3569,7 +3569,7 @@
                   },
                   {
                     "name": "Damascus Baptist Church",
-                    "votes": 0
+                    "votes": 39
                   },
                   {
                     "name": "Col Cty Bd of Edu",
@@ -3577,11 +3577,11 @@
                   },
                   {
                     "name": "Greenbrier High",
-                    "votes": 0
+                    "votes": 150
                   },
                   {
                     "name": "Parkway Baptist Church",
-                    "votes": 0
+                    "votes": 233
                   },
                   {
                     "name": "Riverview Church",
@@ -3589,7 +3589,7 @@
                   },
                   {
                     "name": "Grace Baptist Church",
-                    "votes": 0
+                    "votes": 183
                   },
                   {
                     "name": "Christ Sanctified",
@@ -3601,7 +3601,7 @@
                   },
                   {
                     "name": "Belair Baptist Church",
-                    "votes": 0
+                    "votes": 159
                   },
                   {
                     "name": "Marvin Methodist",
@@ -3669,7 +3669,7 @@
                   },
                   {
                     "name": "Wesley Methodist",
-                    "votes": 0
+                    "votes": 97
                   },
                   {
                     "name": "Col Cty Main Library",
@@ -4285,7 +4285,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 131,
+            "votes": 168,
             "Precinct": [
               {
                 "name": "Kiokee Baptist Church",
@@ -4341,7 +4341,7 @@
               },
               {
                 "name": "Grovetown Public Safety Station 2",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Grove First Baptist Church",
@@ -4357,7 +4357,7 @@
               },
               {
                 "name": "Damascus Baptist Church",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Col Cty Bd of Edu",
@@ -4365,11 +4365,11 @@
               },
               {
                 "name": "Greenbrier High",
-                "votes": 0
+                "votes": 8
               },
               {
                 "name": "Parkway Baptist Church",
-                "votes": 0
+                "votes": 4
               },
               {
                 "name": "Riverview Church",
@@ -4377,7 +4377,7 @@
               },
               {
                 "name": "Grace Baptist Church",
-                "votes": 0
+                "votes": 7
               },
               {
                 "name": "Christ Sanctified",
@@ -4389,7 +4389,7 @@
               },
               {
                 "name": "Belair Baptist Church",
-                "votes": 0
+                "votes": 6
               },
               {
                 "name": "Marvin Methodist",
@@ -4457,7 +4457,7 @@
               },
               {
                 "name": "Wesley Methodist",
-                "votes": 0
+                "votes": 9
               },
               {
                 "name": "Col Cty Main Library",
@@ -4676,11 +4676,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 11318,
+            "totalVotes": 15022,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 11318,
+                "votes": 15022,
                 "Precinct": [
                   {
                     "name": "Kiokee Baptist Church",
@@ -4736,7 +4736,7 @@
                   },
                   {
                     "name": "Grovetown Public Safety Station 2",
-                    "votes": 0
+                    "votes": 282
                   },
                   {
                     "name": "Grove First Baptist Church",
@@ -4752,7 +4752,7 @@
                   },
                   {
                     "name": "Damascus Baptist Church",
-                    "votes": 0
+                    "votes": 417
                   },
                   {
                     "name": "Col Cty Bd of Edu",
@@ -4760,11 +4760,11 @@
                   },
                   {
                     "name": "Greenbrier High",
-                    "votes": 0
+                    "votes": 705
                   },
                   {
                     "name": "Parkway Baptist Church",
-                    "votes": 0
+                    "votes": 854
                   },
                   {
                     "name": "Riverview Church",
@@ -4772,7 +4772,7 @@
                   },
                   {
                     "name": "Grace Baptist Church",
-                    "votes": 0
+                    "votes": 567
                   },
                   {
                     "name": "Christ Sanctified",
@@ -4784,7 +4784,7 @@
                   },
                   {
                     "name": "Belair Baptist Church",
-                    "votes": 0
+                    "votes": 424
                   },
                   {
                     "name": "Marvin Methodist",
@@ -4852,7 +4852,7 @@
                   },
                   {
                     "name": "Wesley Methodist",
-                    "votes": 0
+                    "votes": 455
                   },
                   {
                     "name": "Col Cty Main Library",
@@ -5459,11 +5459,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 3584,
+            "totalVotes": 4652,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 3584,
+                "votes": 4652,
                 "Precinct": [
                   {
                     "name": "Kiokee Baptist Church",
@@ -5519,7 +5519,7 @@
                   },
                   {
                     "name": "Grovetown Public Safety Station 2",
-                    "votes": 0
+                    "votes": 282
                   },
                   {
                     "name": "Grove First Baptist Church",
@@ -5535,7 +5535,7 @@
                   },
                   {
                     "name": "Damascus Baptist Church",
-                    "votes": 0
+                    "votes": 31
                   },
                   {
                     "name": "Col Cty Bd of Edu",
@@ -5543,11 +5543,11 @@
                   },
                   {
                     "name": "Greenbrier High",
-                    "votes": 0
+                    "votes": 130
                   },
                   {
                     "name": "Parkway Baptist Church",
-                    "votes": 0
+                    "votes": 219
                   },
                   {
                     "name": "Riverview Church",
@@ -5555,7 +5555,7 @@
                   },
                   {
                     "name": "Grace Baptist Church",
-                    "votes": 0
+                    "votes": 170
                   },
                   {
                     "name": "Christ Sanctified",
@@ -5567,7 +5567,7 @@
                   },
                   {
                     "name": "Belair Baptist Church",
-                    "votes": 0
+                    "votes": 144
                   },
                   {
                     "name": "Marvin Methodist",
@@ -5635,7 +5635,7 @@
                   },
                   {
                     "name": "Wesley Methodist",
-                    "votes": 0
+                    "votes": 92
                   },
                   {
                     "name": "Col Cty Main Library",

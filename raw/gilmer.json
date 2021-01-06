@@ -1,49 +1,49 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:39:07 PM EST",
+    "Timestamp": "1/5/2021 9:06:39 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Gilmer",
     "VoterTurnout": {
       "totalVoters": 22781,
-      "ballotsCast": 8099,
-      "voterTurnout": 35.55,
+      "ballotsCast": 11893,
+      "voterTurnout": 52.21,
       "Precincts": {
         "Precinct": [
           {
             "name": "Ellijay South",
             "totalVoters": 3226,
-            "ballotsCast": 985,
-            "voterTurnout": 30.53,
-            "percentReporting": "2"
+            "ballotsCast": 1524,
+            "voterTurnout": 47.24,
+            "percentReporting": "4"
           },
           {
             "name": "Cartecay",
             "totalVoters": 1624,
-            "ballotsCast": 426,
-            "voterTurnout": 26.23,
-            "percentReporting": "2"
+            "ballotsCast": 887,
+            "voterTurnout": 54.62,
+            "percentReporting": "4"
           },
           {
             "name": "Tails Creek",
             "totalVoters": 1845,
-            "ballotsCast": 393,
-            "voterTurnout": 21.3,
-            "percentReporting": "2"
+            "ballotsCast": 913,
+            "voterTurnout": 49.49,
+            "percentReporting": "4"
           },
           {
             "name": "Town Creek",
             "totalVoters": 1270,
-            "ballotsCast": 241,
-            "voterTurnout": 18.98,
-            "percentReporting": "2"
+            "ballotsCast": 620,
+            "voterTurnout": 48.82,
+            "percentReporting": "4"
           },
           {
             "name": "Leaches",
             "totalVoters": 3022,
-            "ballotsCast": 857,
-            "voterTurnout": 28.36,
-            "percentReporting": "2"
+            "ballotsCast": 1567,
+            "voterTurnout": 51.85,
+            "percentReporting": "4"
           },
           {
             "name": "Cherry Log",
@@ -69,16 +69,16 @@
           {
             "name": "East Ellijay",
             "totalVoters": 1700,
-            "ballotsCast": 502,
-            "voterTurnout": 29.53,
-            "percentReporting": "2"
+            "ballotsCast": 888,
+            "voterTurnout": 52.24,
+            "percentReporting": "4"
           },
           {
             "name": "Ellijay North",
             "totalVoters": 1844,
-            "ballotsCast": 507,
-            "voterTurnout": 27.49,
-            "percentReporting": "2"
+            "ballotsCast": 881,
+            "voterTurnout": 47.78,
+            "percentReporting": "4"
           },
           {
             "name": "Yukon",
@@ -90,9 +90,9 @@
           {
             "name": "Big Creek",
             "totalVoters": 1503,
-            "ballotsCast": 391,
-            "voterTurnout": 26.01,
-            "percentReporting": "2"
+            "ballotsCast": 816,
+            "voterTurnout": 54.29,
+            "percentReporting": "4"
           },
           {
             "name": "Ellijay Northeast",
@@ -111,15 +111,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 13,
-        "precinctsReported": 5,
+        "precinctsReported": 13,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 11,
+            "votes": 15,
             "Precinct": [
               {
                 "name": "Ellijay South",
-                "votes": 3
+                "votes": 4
               },
               {
                 "name": "Cartecay",
@@ -127,7 +127,7 @@
               },
               {
                 "name": "Tails Creek",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Town Creek",
@@ -135,7 +135,7 @@
               },
               {
                 "name": "Leaches",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "Cherry Log",
@@ -163,7 +163,7 @@
               },
               {
                 "name": "Big Creek",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Ellijay Northeast",
@@ -234,31 +234,31 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 6965,
+            "totalVotes": 10407,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1647,
+                "votes": 5089,
                 "Precinct": [
                   {
                     "name": "Ellijay South",
-                    "votes": 0
+                    "votes": 488
                   },
                   {
                     "name": "Cartecay",
-                    "votes": 0
+                    "votes": 438
                   },
                   {
                     "name": "Tails Creek",
-                    "votes": 0
+                    "votes": 457
                   },
                   {
                     "name": "Town Creek",
-                    "votes": 0
+                    "votes": 346
                   },
                   {
                     "name": "Leaches",
-                    "votes": 0
+                    "votes": 645
                   },
                   {
                     "name": "Cherry Log",
@@ -274,11 +274,11 @@
                   },
                   {
                     "name": "East Ellijay",
-                    "votes": 0
+                    "votes": 334
                   },
                   {
                     "name": "Ellijay North",
-                    "votes": 0
+                    "votes": 337
                   },
                   {
                     "name": "Yukon",
@@ -286,7 +286,7 @@
                   },
                   {
                     "name": "Big Creek",
-                    "votes": 0
+                    "votes": 397
                   },
                   {
                     "name": "Ellijay Northeast",
@@ -473,31 +473,31 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 1123,
+            "totalVotes": 1471,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 158,
+                "votes": 506,
                 "Precinct": [
                   {
                     "name": "Ellijay South",
-                    "votes": 0
+                    "votes": 50
                   },
                   {
                     "name": "Cartecay",
-                    "votes": 0
+                    "votes": 23
                   },
                   {
                     "name": "Tails Creek",
-                    "votes": 0
+                    "votes": 62
                   },
                   {
                     "name": "Town Creek",
-                    "votes": 0
+                    "votes": 33
                   },
                   {
                     "name": "Leaches",
-                    "votes": 0
+                    "votes": 64
                   },
                   {
                     "name": "Cherry Log",
@@ -513,11 +513,11 @@
                   },
                   {
                     "name": "East Ellijay",
-                    "votes": 0
+                    "votes": 52
                   },
                   {
                     "name": "Ellijay North",
-                    "votes": 0
+                    "votes": 37
                   },
                   {
                     "name": "Yukon",
@@ -525,7 +525,7 @@
                   },
                   {
                     "name": "Big Creek",
-                    "votes": 0
+                    "votes": 27
                   },
                   {
                     "name": "Ellijay Northeast",
@@ -717,11 +717,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 13,
-        "precinctsReported": 5,
+        "precinctsReported": 13,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 7,
+            "votes": 10,
             "Precinct": [
               {
                 "name": "Ellijay South",
@@ -729,11 +729,11 @@
               },
               {
                 "name": "Cartecay",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Tails Creek",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Town Creek",
@@ -761,7 +761,7 @@
               },
               {
                 "name": "Ellijay North",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Yukon",
@@ -840,31 +840,31 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 6959,
+            "totalVotes": 10401,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1647,
+                "votes": 5089,
                 "Precinct": [
                   {
                     "name": "Ellijay South",
-                    "votes": 0
+                    "votes": 485
                   },
                   {
                     "name": "Cartecay",
-                    "votes": 0
+                    "votes": 437
                   },
                   {
                     "name": "Tails Creek",
-                    "votes": 0
+                    "votes": 458
                   },
                   {
                     "name": "Town Creek",
-                    "votes": 0
+                    "votes": 349
                   },
                   {
                     "name": "Leaches",
-                    "votes": 0
+                    "votes": 649
                   },
                   {
                     "name": "Cherry Log",
@@ -880,11 +880,11 @@
                   },
                   {
                     "name": "East Ellijay",
-                    "votes": 0
+                    "votes": 332
                   },
                   {
                     "name": "Ellijay North",
-                    "votes": 0
+                    "votes": 336
                   },
                   {
                     "name": "Yukon",
@@ -892,7 +892,7 @@
                   },
                   {
                     "name": "Big Creek",
-                    "votes": 0
+                    "votes": 396
                   },
                   {
                     "name": "Ellijay Northeast",
@@ -1079,31 +1079,31 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 1133,
+            "totalVotes": 1482,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 157,
+                "votes": 506,
                 "Precinct": [
                   {
                     "name": "Ellijay South",
-                    "votes": 0
+                    "votes": 54
                   },
                   {
                     "name": "Cartecay",
-                    "votes": 0
+                    "votes": 23
                   },
                   {
                     "name": "Tails Creek",
-                    "votes": 0
+                    "votes": 61
                   },
                   {
                     "name": "Town Creek",
-                    "votes": 0
+                    "votes": 30
                   },
                   {
                     "name": "Leaches",
-                    "votes": 0
+                    "votes": 61
                   },
                   {
                     "name": "Cherry Log",
@@ -1119,11 +1119,11 @@
                   },
                   {
                     "name": "East Ellijay",
-                    "votes": 0
+                    "votes": 54
                   },
                   {
                     "name": "Ellijay North",
-                    "votes": 0
+                    "votes": 37
                   },
                   {
                     "name": "Yukon",
@@ -1131,7 +1131,7 @@
                   },
                   {
                     "name": "Big Creek",
-                    "votes": 0
+                    "votes": 29
                   },
                   {
                     "name": "Ellijay Northeast",
@@ -1323,31 +1323,31 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 13,
-        "precinctsReported": 5,
+        "precinctsReported": 13,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 93,
+            "votes": 145,
             "Precinct": [
               {
                 "name": "Ellijay South",
-                "votes": 15
+                "votes": 22
               },
               {
                 "name": "Cartecay",
-                "votes": 3
+                "votes": 7
               },
               {
                 "name": "Tails Creek",
-                "votes": 6
+                "votes": 14
               },
               {
                 "name": "Town Creek",
-                "votes": 1
+                "votes": 9
               },
               {
                 "name": "Leaches",
-                "votes": 10
+                "votes": 20
               },
               {
                 "name": "Cherry Log",
@@ -1363,11 +1363,11 @@
               },
               {
                 "name": "East Ellijay",
-                "votes": 7
+                "votes": 12
               },
               {
                 "name": "Ellijay North",
-                "votes": 11
+                "votes": 14
               },
               {
                 "name": "Yukon",
@@ -1375,7 +1375,7 @@
               },
               {
                 "name": "Big Creek",
-                "votes": 9
+                "votes": 16
               },
               {
                 "name": "Ellijay Northeast",
@@ -1446,31 +1446,31 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 6931,
+            "totalVotes": 10349,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1635,
+                "votes": 5053,
                 "Precinct": [
                   {
                     "name": "Ellijay South",
-                    "votes": 0
+                    "votes": 481
                   },
                   {
                     "name": "Cartecay",
-                    "votes": 0
+                    "votes": 433
                   },
                   {
                     "name": "Tails Creek",
-                    "votes": 0
+                    "votes": 457
                   },
                   {
                     "name": "Town Creek",
-                    "votes": 0
+                    "votes": 342
                   },
                   {
                     "name": "Leaches",
-                    "votes": 0
+                    "votes": 642
                   },
                   {
                     "name": "Cherry Log",
@@ -1486,11 +1486,11 @@
                   },
                   {
                     "name": "East Ellijay",
-                    "votes": 0
+                    "votes": 334
                   },
                   {
                     "name": "Ellijay North",
-                    "votes": 0
+                    "votes": 336
                   },
                   {
                     "name": "Yukon",
@@ -1498,7 +1498,7 @@
                   },
                   {
                     "name": "Big Creek",
-                    "votes": 0
+                    "votes": 393
                   },
                   {
                     "name": "Ellijay Northeast",
@@ -1685,31 +1685,31 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 1075,
+            "totalVotes": 1399,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 153,
+                "votes": 477,
                 "Precinct": [
                   {
                     "name": "Ellijay South",
-                    "votes": 0
+                    "votes": 51
                   },
                   {
                     "name": "Cartecay",
-                    "votes": 0
+                    "votes": 24
                   },
                   {
                     "name": "Tails Creek",
-                    "votes": 0
+                    "votes": 55
                   },
                   {
                     "name": "Town Creek",
-                    "votes": 0
+                    "votes": 29
                   },
                   {
                     "name": "Leaches",
-                    "votes": 0
+                    "votes": 58
                   },
                   {
                     "name": "Cherry Log",
@@ -1725,11 +1725,11 @@
                   },
                   {
                     "name": "East Ellijay",
-                    "votes": 0
+                    "votes": 47
                   },
                   {
                     "name": "Ellijay North",
-                    "votes": 0
+                    "votes": 35
                   },
                   {
                     "name": "Yukon",
@@ -1737,7 +1737,7 @@
                   },
                   {
                     "name": "Big Creek",
-                    "votes": 0
+                    "votes": 25
                   },
                   {
                     "name": "Ellijay Northeast",

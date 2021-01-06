@@ -1,21 +1,28 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 9:08:52 PM EST",
+    "Timestamp": "1/5/2021 9:04:22 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
-    "Region": "Chattahoochee",
+    "Region": "Quitman",
     "VoterTurnout": {
-      "totalVoters": 4102,
-      "ballotsCast": 1319,
-      "voterTurnout": 32.16,
+      "totalVoters": 1747,
+      "ballotsCast": 0,
+      "voterTurnout": 0.0,
       "Precincts": {
         "Precinct": [
           {
-            "name": "Activity Center",
-            "totalVoters": 4102,
-            "ballotsCast": 1319,
-            "voterTurnout": 32.16,
-            "percentReporting": "4"
+            "name": "Georgetown",
+            "totalVoters": 1651,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Morris",
+            "totalVoters": 96,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
           }
         ]
       }
@@ -26,16 +33,20 @@
         "text": "US Senate (Perdue)",
         "voteFor": 1,
         "isQuestion": "false",
-        "precinctsReporting": 1,
-        "precinctsReported": 1,
+        "precinctsReporting": 2,
+        "precinctsReported": 0,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 3,
+            "votes": 0,
             "Precinct": [
               {
-                "name": "Activity Center",
-                "votes": 3
+                "name": "Georgetown",
+                "votes": 0
+              },
+              {
+                "name": "Morris",
+                "votes": 0
               }
             ]
           },
@@ -44,7 +55,11 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Activity Center",
+                "name": "Georgetown",
+                "votes": 0
+              },
+              {
+                "name": "Morris",
                 "votes": 0
               }
             ]
@@ -54,35 +69,47 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 712,
+            "totalVotes": 0,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 329,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Activity Center",
-                    "votes": 329
+                    "name": "Georgetown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morris",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 318,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Activity Center",
-                    "votes": 318
+                    "name": "Georgetown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morris",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 65,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Activity Center",
-                    "votes": 65
+                    "name": "Georgetown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morris",
+                    "votes": 0
                   }
                 ]
               },
@@ -91,7 +118,11 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Activity Center",
+                    "name": "Georgetown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morris",
                     "votes": 0
                   }
                 ]
@@ -101,45 +132,61 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 604,
+            "totalVotes": 0,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 160,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Activity Center",
-                    "votes": 160
+                    "name": "Georgetown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morris",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 307,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Activity Center",
-                    "votes": 307
+                    "name": "Georgetown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morris",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 136,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Activity Center",
-                    "votes": 136
+                    "name": "Georgetown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morris",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Provisional Votes",
-                "votes": 1,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Activity Center",
-                    "votes": 1
+                    "name": "Georgetown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morris",
+                    "votes": 0
                   }
                 ]
               }
@@ -152,16 +199,20 @@
         "text": "US Senate (Loeffler) - Special",
         "voteFor": 1,
         "isQuestion": "false",
-        "precinctsReporting": 1,
-        "precinctsReported": 1,
+        "precinctsReporting": 2,
+        "precinctsReported": 0,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 4,
+            "votes": 0,
             "Precinct": [
               {
-                "name": "Activity Center",
-                "votes": 4
+                "name": "Georgetown",
+                "votes": 0
+              },
+              {
+                "name": "Morris",
+                "votes": 0
               }
             ]
           },
@@ -170,7 +221,11 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Activity Center",
+                "name": "Georgetown",
+                "votes": 0
+              },
+              {
+                "name": "Morris",
                 "votes": 0
               }
             ]
@@ -180,35 +235,47 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 716,
+            "totalVotes": 0,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 331,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Activity Center",
-                    "votes": 331
+                    "name": "Georgetown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morris",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 319,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Activity Center",
-                    "votes": 319
+                    "name": "Georgetown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morris",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 66,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Activity Center",
-                    "votes": 66
+                    "name": "Georgetown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morris",
+                    "votes": 0
                   }
                 ]
               },
@@ -217,7 +284,11 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Activity Center",
+                    "name": "Georgetown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morris",
                     "votes": 0
                   }
                 ]
@@ -227,45 +298,61 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 599,
+            "totalVotes": 0,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 156,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Activity Center",
-                    "votes": 156
+                    "name": "Georgetown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morris",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 307,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Activity Center",
-                    "votes": 307
+                    "name": "Georgetown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morris",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 135,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Activity Center",
-                    "votes": 135
+                    "name": "Georgetown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morris",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Provisional Votes",
-                "votes": 1,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Activity Center",
-                    "votes": 1
+                    "name": "Georgetown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morris",
+                    "votes": 0
                   }
                 ]
               }
@@ -278,16 +365,20 @@
         "text": "Public Service Commission District 4",
         "voteFor": 1,
         "isQuestion": "false",
-        "precinctsReporting": 1,
-        "precinctsReported": 1,
+        "precinctsReporting": 2,
+        "precinctsReported": 0,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 38,
+            "votes": 0,
             "Precinct": [
               {
-                "name": "Activity Center",
-                "votes": 38
+                "name": "Georgetown",
+                "votes": 0
+              },
+              {
+                "name": "Morris",
+                "votes": 0
               }
             ]
           },
@@ -296,7 +387,11 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Activity Center",
+                "name": "Georgetown",
+                "votes": 0
+              },
+              {
+                "name": "Morris",
                 "votes": 0
               }
             ]
@@ -306,35 +401,47 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 702,
+            "totalVotes": 0,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 322,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Activity Center",
-                    "votes": 322
+                    "name": "Georgetown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morris",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 316,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Activity Center",
-                    "votes": 316
+                    "name": "Georgetown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morris",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 64,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Activity Center",
-                    "votes": 64
+                    "name": "Georgetown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morris",
+                    "votes": 0
                   }
                 ]
               },
@@ -343,7 +450,11 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Activity Center",
+                    "name": "Georgetown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morris",
                     "votes": 0
                   }
                 ]
@@ -353,45 +464,61 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 578,
+            "totalVotes": 0,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 160,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Activity Center",
-                    "votes": 160
+                    "name": "Georgetown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morris",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 288,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Activity Center",
-                    "votes": 288
+                    "name": "Georgetown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morris",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 129,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Activity Center",
-                    "votes": 129
+                    "name": "Georgetown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morris",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Provisional Votes",
-                "votes": 1,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Activity Center",
-                    "votes": 1
+                    "name": "Georgetown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Morris",
+                    "votes": 0
                   }
                 ]
               }

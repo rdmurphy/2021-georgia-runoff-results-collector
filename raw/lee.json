@@ -1,0 +1,1547 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 9:01:19 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Lee",
+    "VoterTurnout": {
+      "totalVoters": 23344,
+      "ballotsCast": 14906,
+      "voterTurnout": 63.85,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Chokee",
+            "totalVoters": 481,
+            "ballotsCast": 327,
+            "voterTurnout": 67.98,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Redbone",
+            "totalVoters": 4914,
+            "ballotsCast": 3126,
+            "voterTurnout": 63.61,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Smithville",
+            "totalVoters": 1017,
+            "ballotsCast": 633,
+            "voterTurnout": 62.24,
+            "percentReporting": "4"
+          },
+          {
+            "name": "CJC",
+            "totalVoters": 627,
+            "ballotsCast": 453,
+            "voterTurnout": 72.25,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Leesburg",
+            "totalVoters": 3391,
+            "ballotsCast": 1925,
+            "voterTurnout": 56.77,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Friendship Baptist",
+            "totalVoters": 1402,
+            "ballotsCast": 919,
+            "voterTurnout": 65.55,
+            "percentReporting": "4"
+          },
+          {
+            "name": "First Baptist",
+            "totalVoters": 3980,
+            "ballotsCast": 2908,
+            "voterTurnout": 73.07,
+            "percentReporting": "4"
+          },
+          {
+            "name": "SDA Church",
+            "totalVoters": 1619,
+            "ballotsCast": 1116,
+            "voterTurnout": 68.93,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Flint Reformed Baptist",
+            "totalVoters": 2679,
+            "ballotsCast": 1485,
+            "voterTurnout": 55.43,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Century Fire Station",
+            "totalVoters": 3234,
+            "ballotsCast": 2014,
+            "voterTurnout": 62.28,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 10,
+        "precinctsReported": 10,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 25,
+            "Precinct": [
+              {
+                "name": "Chokee",
+                "votes": 1
+              },
+              {
+                "name": "Redbone",
+                "votes": 8
+              },
+              {
+                "name": "Smithville",
+                "votes": 2
+              },
+              {
+                "name": "CJC",
+                "votes": 0
+              },
+              {
+                "name": "Leesburg",
+                "votes": 1
+              },
+              {
+                "name": "Friendship Baptist",
+                "votes": 2
+              },
+              {
+                "name": "First Baptist",
+                "votes": 2
+              },
+              {
+                "name": "SDA Church",
+                "votes": 2
+              },
+              {
+                "name": "Flint Reformed Baptist",
+                "votes": 3
+              },
+              {
+                "name": "Century Fire Station",
+                "votes": 4
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Chokee",
+                "votes": 0
+              },
+              {
+                "name": "Redbone",
+                "votes": 0
+              },
+              {
+                "name": "Smithville",
+                "votes": 0
+              },
+              {
+                "name": "CJC",
+                "votes": 0
+              },
+              {
+                "name": "Leesburg",
+                "votes": 0
+              },
+              {
+                "name": "Friendship Baptist",
+                "votes": 0
+              },
+              {
+                "name": "First Baptist",
+                "votes": 0
+              },
+              {
+                "name": "SDA Church",
+                "votes": 0
+              },
+              {
+                "name": "Flint Reformed Baptist",
+                "votes": 0
+              },
+              {
+                "name": "Century Fire Station",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 10657,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 4376,
+                "Precinct": [
+                  {
+                    "name": "Chokee",
+                    "votes": 85
+                  },
+                  {
+                    "name": "Redbone",
+                    "votes": 1052
+                  },
+                  {
+                    "name": "Smithville",
+                    "votes": 143
+                  },
+                  {
+                    "name": "CJC",
+                    "votes": 177
+                  },
+                  {
+                    "name": "Leesburg",
+                    "votes": 467
+                  },
+                  {
+                    "name": "Friendship Baptist",
+                    "votes": 365
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 840
+                  },
+                  {
+                    "name": "SDA Church",
+                    "votes": 378
+                  },
+                  {
+                    "name": "Flint Reformed Baptist",
+                    "votes": 390
+                  },
+                  {
+                    "name": "Century Fire Station",
+                    "votes": 479
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 5390,
+                "Precinct": [
+                  {
+                    "name": "Chokee",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Redbone",
+                    "votes": 1190
+                  },
+                  {
+                    "name": "Smithville",
+                    "votes": 186
+                  },
+                  {
+                    "name": "CJC",
+                    "votes": 193
+                  },
+                  {
+                    "name": "Leesburg",
+                    "votes": 731
+                  },
+                  {
+                    "name": "Friendship Baptist",
+                    "votes": 342
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 998
+                  },
+                  {
+                    "name": "SDA Church",
+                    "votes": 379
+                  },
+                  {
+                    "name": "Flint Reformed Baptist",
+                    "votes": 600
+                  },
+                  {
+                    "name": "Century Fire Station",
+                    "votes": 707
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 891,
+                "Precinct": [
+                  {
+                    "name": "Chokee",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Redbone",
+                    "votes": 199
+                  },
+                  {
+                    "name": "Smithville",
+                    "votes": 35
+                  },
+                  {
+                    "name": "CJC",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Leesburg",
+                    "votes": 105
+                  },
+                  {
+                    "name": "Friendship Baptist",
+                    "votes": 44
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 185
+                  },
+                  {
+                    "name": "SDA Church",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Flint Reformed Baptist",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Century Fire Station",
+                    "votes": 139
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Chokee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Redbone",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Smithville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "CJC",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leesburg",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Friendship Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "SDA Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Flint Reformed Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Century Fire Station",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 4224,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1074,
+                "Precinct": [
+                  {
+                    "name": "Chokee",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Redbone",
+                    "votes": 159
+                  },
+                  {
+                    "name": "Smithville",
+                    "votes": 113
+                  },
+                  {
+                    "name": "CJC",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Leesburg",
+                    "votes": 164
+                  },
+                  {
+                    "name": "Friendship Baptist",
+                    "votes": 31
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 186
+                  },
+                  {
+                    "name": "SDA Church",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Flint Reformed Baptist",
+                    "votes": 111
+                  },
+                  {
+                    "name": "Century Fire Station",
+                    "votes": 189
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2044,
+                "Precinct": [
+                  {
+                    "name": "Chokee",
+                    "votes": 47
+                  },
+                  {
+                    "name": "Redbone",
+                    "votes": 325
+                  },
+                  {
+                    "name": "Smithville",
+                    "votes": 85
+                  },
+                  {
+                    "name": "CJC",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Leesburg",
+                    "votes": 312
+                  },
+                  {
+                    "name": "Friendship Baptist",
+                    "votes": 100
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 445
+                  },
+                  {
+                    "name": "SDA Church",
+                    "votes": 134
+                  },
+                  {
+                    "name": "Flint Reformed Baptist",
+                    "votes": 209
+                  },
+                  {
+                    "name": "Century Fire Station",
+                    "votes": 351
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1106,
+                "Precinct": [
+                  {
+                    "name": "Chokee",
+                    "votes": 72
+                  },
+                  {
+                    "name": "Redbone",
+                    "votes": 193
+                  },
+                  {
+                    "name": "Smithville",
+                    "votes": 69
+                  },
+                  {
+                    "name": "CJC",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Leesburg",
+                    "votes": 145
+                  },
+                  {
+                    "name": "Friendship Baptist",
+                    "votes": 35
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 252
+                  },
+                  {
+                    "name": "SDA Church",
+                    "votes": 82
+                  },
+                  {
+                    "name": "Flint Reformed Baptist",
+                    "votes": 97
+                  },
+                  {
+                    "name": "Century Fire Station",
+                    "votes": 145
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Chokee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Redbone",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Smithville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "CJC",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leesburg",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Friendship Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "SDA Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Flint Reformed Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Century Fire Station",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 10,
+        "precinctsReported": 10,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 18,
+            "Precinct": [
+              {
+                "name": "Chokee",
+                "votes": 0
+              },
+              {
+                "name": "Redbone",
+                "votes": 5
+              },
+              {
+                "name": "Smithville",
+                "votes": 4
+              },
+              {
+                "name": "CJC",
+                "votes": 0
+              },
+              {
+                "name": "Leesburg",
+                "votes": 1
+              },
+              {
+                "name": "Friendship Baptist",
+                "votes": 0
+              },
+              {
+                "name": "First Baptist",
+                "votes": 3
+              },
+              {
+                "name": "SDA Church",
+                "votes": 1
+              },
+              {
+                "name": "Flint Reformed Baptist",
+                "votes": 0
+              },
+              {
+                "name": "Century Fire Station",
+                "votes": 4
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Chokee",
+                "votes": 0
+              },
+              {
+                "name": "Redbone",
+                "votes": 0
+              },
+              {
+                "name": "Smithville",
+                "votes": 0
+              },
+              {
+                "name": "CJC",
+                "votes": 0
+              },
+              {
+                "name": "Leesburg",
+                "votes": 0
+              },
+              {
+                "name": "Friendship Baptist",
+                "votes": 0
+              },
+              {
+                "name": "First Baptist",
+                "votes": 0
+              },
+              {
+                "name": "SDA Church",
+                "votes": 0
+              },
+              {
+                "name": "Flint Reformed Baptist",
+                "votes": 0
+              },
+              {
+                "name": "Century Fire Station",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 10649,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 4384,
+                "Precinct": [
+                  {
+                    "name": "Chokee",
+                    "votes": 85
+                  },
+                  {
+                    "name": "Redbone",
+                    "votes": 1054
+                  },
+                  {
+                    "name": "Smithville",
+                    "votes": 144
+                  },
+                  {
+                    "name": "CJC",
+                    "votes": 177
+                  },
+                  {
+                    "name": "Leesburg",
+                    "votes": 470
+                  },
+                  {
+                    "name": "Friendship Baptist",
+                    "votes": 365
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 843
+                  },
+                  {
+                    "name": "SDA Church",
+                    "votes": 379
+                  },
+                  {
+                    "name": "Flint Reformed Baptist",
+                    "votes": 390
+                  },
+                  {
+                    "name": "Century Fire Station",
+                    "votes": 477
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 5388,
+                "Precinct": [
+                  {
+                    "name": "Chokee",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Redbone",
+                    "votes": 1187
+                  },
+                  {
+                    "name": "Smithville",
+                    "votes": 185
+                  },
+                  {
+                    "name": "CJC",
+                    "votes": 192
+                  },
+                  {
+                    "name": "Leesburg",
+                    "votes": 731
+                  },
+                  {
+                    "name": "Friendship Baptist",
+                    "votes": 342
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 999
+                  },
+                  {
+                    "name": "SDA Church",
+                    "votes": 380
+                  },
+                  {
+                    "name": "Flint Reformed Baptist",
+                    "votes": 598
+                  },
+                  {
+                    "name": "Century Fire Station",
+                    "votes": 710
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 877,
+                "Precinct": [
+                  {
+                    "name": "Chokee",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Redbone",
+                    "votes": 196
+                  },
+                  {
+                    "name": "Smithville",
+                    "votes": 34
+                  },
+                  {
+                    "name": "CJC",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Leesburg",
+                    "votes": 105
+                  },
+                  {
+                    "name": "Friendship Baptist",
+                    "votes": 44
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 183
+                  },
+                  {
+                    "name": "SDA Church",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Flint Reformed Baptist",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Century Fire Station",
+                    "votes": 133
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Chokee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Redbone",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Smithville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "CJC",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leesburg",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Friendship Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "SDA Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Flint Reformed Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Century Fire Station",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 4239,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1071,
+                "Precinct": [
+                  {
+                    "name": "Chokee",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Redbone",
+                    "votes": 160
+                  },
+                  {
+                    "name": "Smithville",
+                    "votes": 110
+                  },
+                  {
+                    "name": "CJC",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Leesburg",
+                    "votes": 161
+                  },
+                  {
+                    "name": "Friendship Baptist",
+                    "votes": 32
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 183
+                  },
+                  {
+                    "name": "SDA Church",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Flint Reformed Baptist",
+                    "votes": 112
+                  },
+                  {
+                    "name": "Century Fire Station",
+                    "votes": 192
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2050,
+                "Precinct": [
+                  {
+                    "name": "Chokee",
+                    "votes": 47
+                  },
+                  {
+                    "name": "Redbone",
+                    "votes": 329
+                  },
+                  {
+                    "name": "Smithville",
+                    "votes": 86
+                  },
+                  {
+                    "name": "CJC",
+                    "votes": 37
+                  },
+                  {
+                    "name": "Leesburg",
+                    "votes": 312
+                  },
+                  {
+                    "name": "Friendship Baptist",
+                    "votes": 101
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 443
+                  },
+                  {
+                    "name": "SDA Church",
+                    "votes": 133
+                  },
+                  {
+                    "name": "Flint Reformed Baptist",
+                    "votes": 213
+                  },
+                  {
+                    "name": "Century Fire Station",
+                    "votes": 349
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1118,
+                "Precinct": [
+                  {
+                    "name": "Chokee",
+                    "votes": 73
+                  },
+                  {
+                    "name": "Redbone",
+                    "votes": 195
+                  },
+                  {
+                    "name": "Smithville",
+                    "votes": 70
+                  },
+                  {
+                    "name": "CJC",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Leesburg",
+                    "votes": 145
+                  },
+                  {
+                    "name": "Friendship Baptist",
+                    "votes": 35
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 254
+                  },
+                  {
+                    "name": "SDA Church",
+                    "votes": 83
+                  },
+                  {
+                    "name": "Flint Reformed Baptist",
+                    "votes": 97
+                  },
+                  {
+                    "name": "Century Fire Station",
+                    "votes": 149
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Chokee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Redbone",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Smithville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "CJC",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leesburg",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Friendship Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "SDA Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Flint Reformed Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Century Fire Station",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 10,
+        "precinctsReported": 10,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 121,
+            "Precinct": [
+              {
+                "name": "Chokee",
+                "votes": 3
+              },
+              {
+                "name": "Redbone",
+                "votes": 26
+              },
+              {
+                "name": "Smithville",
+                "votes": 10
+              },
+              {
+                "name": "CJC",
+                "votes": 3
+              },
+              {
+                "name": "Leesburg",
+                "votes": 17
+              },
+              {
+                "name": "Friendship Baptist",
+                "votes": 3
+              },
+              {
+                "name": "First Baptist",
+                "votes": 18
+              },
+              {
+                "name": "SDA Church",
+                "votes": 7
+              },
+              {
+                "name": "Flint Reformed Baptist",
+                "votes": 13
+              },
+              {
+                "name": "Century Fire Station",
+                "votes": 21
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Chokee",
+                "votes": 0
+              },
+              {
+                "name": "Redbone",
+                "votes": 0
+              },
+              {
+                "name": "Smithville",
+                "votes": 0
+              },
+              {
+                "name": "CJC",
+                "votes": 0
+              },
+              {
+                "name": "Leesburg",
+                "votes": 0
+              },
+              {
+                "name": "Friendship Baptist",
+                "votes": 0
+              },
+              {
+                "name": "First Baptist",
+                "votes": 0
+              },
+              {
+                "name": "SDA Church",
+                "votes": 0
+              },
+              {
+                "name": "Flint Reformed Baptist",
+                "votes": 0
+              },
+              {
+                "name": "Century Fire Station",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 10751,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 4410,
+                "Precinct": [
+                  {
+                    "name": "Chokee",
+                    "votes": 86
+                  },
+                  {
+                    "name": "Redbone",
+                    "votes": 1054
+                  },
+                  {
+                    "name": "Smithville",
+                    "votes": 147
+                  },
+                  {
+                    "name": "CJC",
+                    "votes": 174
+                  },
+                  {
+                    "name": "Leesburg",
+                    "votes": 479
+                  },
+                  {
+                    "name": "Friendship Baptist",
+                    "votes": 368
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 850
+                  },
+                  {
+                    "name": "SDA Church",
+                    "votes": 381
+                  },
+                  {
+                    "name": "Flint Reformed Baptist",
+                    "votes": 392
+                  },
+                  {
+                    "name": "Century Fire Station",
+                    "votes": 479
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 5425,
+                "Precinct": [
+                  {
+                    "name": "Chokee",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Redbone",
+                    "votes": 1199
+                  },
+                  {
+                    "name": "Smithville",
+                    "votes": 187
+                  },
+                  {
+                    "name": "CJC",
+                    "votes": 192
+                  },
+                  {
+                    "name": "Leesburg",
+                    "votes": 735
+                  },
+                  {
+                    "name": "Friendship Baptist",
+                    "votes": 350
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 1005
+                  },
+                  {
+                    "name": "SDA Church",
+                    "votes": 381
+                  },
+                  {
+                    "name": "Flint Reformed Baptist",
+                    "votes": 601
+                  },
+                  {
+                    "name": "Century Fire Station",
+                    "votes": 711
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 916,
+                "Precinct": [
+                  {
+                    "name": "Chokee",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Redbone",
+                    "votes": 200
+                  },
+                  {
+                    "name": "Smithville",
+                    "votes": 35
+                  },
+                  {
+                    "name": "CJC",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Leesburg",
+                    "votes": 110
+                  },
+                  {
+                    "name": "Friendship Baptist",
+                    "votes": 44
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 202
+                  },
+                  {
+                    "name": "SDA Church",
+                    "votes": 68
+                  },
+                  {
+                    "name": "Flint Reformed Baptist",
+                    "votes": 79
+                  },
+                  {
+                    "name": "Century Fire Station",
+                    "votes": 139
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Chokee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Redbone",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Smithville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "CJC",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leesburg",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Friendship Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "SDA Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Flint Reformed Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Century Fire Station",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 4034,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1020,
+                "Precinct": [
+                  {
+                    "name": "Chokee",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Redbone",
+                    "votes": 153
+                  },
+                  {
+                    "name": "Smithville",
+                    "votes": 104
+                  },
+                  {
+                    "name": "CJC",
+                    "votes": 12
+                  },
+                  {
+                    "name": "Leesburg",
+                    "votes": 151
+                  },
+                  {
+                    "name": "Friendship Baptist",
+                    "votes": 29
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 172
+                  },
+                  {
+                    "name": "SDA Church",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Flint Reformed Baptist",
+                    "votes": 108
+                  },
+                  {
+                    "name": "Century Fire Station",
+                    "votes": 185
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1965,
+                "Precinct": [
+                  {
+                    "name": "Chokee",
+                    "votes": 47
+                  },
+                  {
+                    "name": "Redbone",
+                    "votes": 308
+                  },
+                  {
+                    "name": "Smithville",
+                    "votes": 82
+                  },
+                  {
+                    "name": "CJC",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Leesburg",
+                    "votes": 295
+                  },
+                  {
+                    "name": "Friendship Baptist",
+                    "votes": 92
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 432
+                  },
+                  {
+                    "name": "SDA Church",
+                    "votes": 131
+                  },
+                  {
+                    "name": "Flint Reformed Baptist",
+                    "votes": 204
+                  },
+                  {
+                    "name": "Century Fire Station",
+                    "votes": 339
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1049,
+                "Precinct": [
+                  {
+                    "name": "Chokee",
+                    "votes": 69
+                  },
+                  {
+                    "name": "Redbone",
+                    "votes": 186
+                  },
+                  {
+                    "name": "Smithville",
+                    "votes": 68
+                  },
+                  {
+                    "name": "CJC",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Leesburg",
+                    "votes": 138
+                  },
+                  {
+                    "name": "Friendship Baptist",
+                    "votes": 33
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 229
+                  },
+                  {
+                    "name": "SDA Church",
+                    "votes": 81
+                  },
+                  {
+                    "name": "Flint Reformed Baptist",
+                    "votes": 88
+                  },
+                  {
+                    "name": "Century Fire Station",
+                    "votes": 140
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Chokee",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Redbone",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Smithville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "CJC",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Leesburg",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Friendship Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "SDA Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Flint Reformed Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Century Fire Station",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

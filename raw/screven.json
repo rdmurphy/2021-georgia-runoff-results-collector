@@ -1,0 +1,1801 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 9:06:58 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Screven",
+    "VoterTurnout": {
+      "totalVoters": 0,
+      "ballotsCast": 5936,
+      "voterTurnout": 0.0,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Sylvania",
+            "totalVoters": 0,
+            "ballotsCast": 717,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Hunters",
+            "totalVoters": 0,
+            "ballotsCast": 312,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Newington",
+            "totalVoters": 0,
+            "ballotsCast": 667,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Jenk Hill Fire Sta",
+            "totalVoters": 0,
+            "ballotsCast": 740,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Rocky Ford",
+            "totalVoters": 0,
+            "ballotsCast": 358,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Bay Branch",
+            "totalVoters": 0,
+            "ballotsCast": 638,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Hiltonia",
+            "totalVoters": 0,
+            "ballotsCast": 539,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Screven Rec Dept",
+            "totalVoters": 0,
+            "ballotsCast": 260,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Greenhill Church",
+            "totalVoters": 0,
+            "ballotsCast": 569,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Sr Citizens Center",
+            "totalVoters": 0,
+            "ballotsCast": 706,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Jackson Fire Station",
+            "totalVoters": 0,
+            "ballotsCast": 267,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Cooperville Fire Station",
+            "totalVoters": 0,
+            "ballotsCast": 163,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 12,
+        "precinctsReported": 12,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 25,
+            "Precinct": [
+              {
+                "name": "Sylvania",
+                "votes": 2
+              },
+              {
+                "name": "Hunters",
+                "votes": 1
+              },
+              {
+                "name": "Newington",
+                "votes": 3
+              },
+              {
+                "name": "Jenk Hill Fire Sta",
+                "votes": 3
+              },
+              {
+                "name": "Rocky Ford",
+                "votes": 4
+              },
+              {
+                "name": "Bay Branch",
+                "votes": 2
+              },
+              {
+                "name": "Hiltonia",
+                "votes": 4
+              },
+              {
+                "name": "Screven Rec Dept",
+                "votes": 0
+              },
+              {
+                "name": "Greenhill Church",
+                "votes": 1
+              },
+              {
+                "name": "Sr Citizens Center",
+                "votes": 2
+              },
+              {
+                "name": "Jackson Fire Station",
+                "votes": 1
+              },
+              {
+                "name": "Cooperville Fire Station",
+                "votes": 2
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Sylvania",
+                "votes": 0
+              },
+              {
+                "name": "Hunters",
+                "votes": 0
+              },
+              {
+                "name": "Newington",
+                "votes": 0
+              },
+              {
+                "name": "Jenk Hill Fire Sta",
+                "votes": 0
+              },
+              {
+                "name": "Rocky Ford",
+                "votes": 0
+              },
+              {
+                "name": "Bay Branch",
+                "votes": 0
+              },
+              {
+                "name": "Hiltonia",
+                "votes": 0
+              },
+              {
+                "name": "Screven Rec Dept",
+                "votes": 0
+              },
+              {
+                "name": "Greenhill Church",
+                "votes": 0
+              },
+              {
+                "name": "Sr Citizens Center",
+                "votes": 0
+              },
+              {
+                "name": "Jackson Fire Station",
+                "votes": 0
+              },
+              {
+                "name": "Cooperville Fire Station",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 3506,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1547,
+                "Precinct": [
+                  {
+                    "name": "Sylvania",
+                    "votes": 118
+                  },
+                  {
+                    "name": "Hunters",
+                    "votes": 94
+                  },
+                  {
+                    "name": "Newington",
+                    "votes": 267
+                  },
+                  {
+                    "name": "Jenk Hill Fire Sta",
+                    "votes": 127
+                  },
+                  {
+                    "name": "Rocky Ford",
+                    "votes": 140
+                  },
+                  {
+                    "name": "Bay Branch",
+                    "votes": 230
+                  },
+                  {
+                    "name": "Hiltonia",
+                    "votes": 120
+                  },
+                  {
+                    "name": "Screven Rec Dept",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Greenhill Church",
+                    "votes": 192
+                  },
+                  {
+                    "name": "Sr Citizens Center",
+                    "votes": 72
+                  },
+                  {
+                    "name": "Jackson Fire Station",
+                    "votes": 114
+                  },
+                  {
+                    "name": "Cooperville Fire Station",
+                    "votes": 23
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1547,
+                "Precinct": [
+                  {
+                    "name": "Sylvania",
+                    "votes": 190
+                  },
+                  {
+                    "name": "Hunters",
+                    "votes": 66
+                  },
+                  {
+                    "name": "Newington",
+                    "votes": 146
+                  },
+                  {
+                    "name": "Jenk Hill Fire Sta",
+                    "votes": 182
+                  },
+                  {
+                    "name": "Rocky Ford",
+                    "votes": 97
+                  },
+                  {
+                    "name": "Bay Branch",
+                    "votes": 267
+                  },
+                  {
+                    "name": "Hiltonia",
+                    "votes": 140
+                  },
+                  {
+                    "name": "Screven Rec Dept",
+                    "votes": 52
+                  },
+                  {
+                    "name": "Greenhill Church",
+                    "votes": 187
+                  },
+                  {
+                    "name": "Sr Citizens Center",
+                    "votes": 138
+                  },
+                  {
+                    "name": "Jackson Fire Station",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Cooperville Fire Station",
+                    "votes": 20
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 412,
+                "Precinct": [
+                  {
+                    "name": "Sylvania",
+                    "votes": 80
+                  },
+                  {
+                    "name": "Hunters",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Newington",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Jenk Hill Fire Sta",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Rocky Ford",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Bay Branch",
+                    "votes": 47
+                  },
+                  {
+                    "name": "Hiltonia",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Screven Rec Dept",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Greenhill Church",
+                    "votes": 44
+                  },
+                  {
+                    "name": "Sr Citizens Center",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Jackson Fire Station",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Cooperville Fire Station",
+                    "votes": 5
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sylvania",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hunters",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Newington",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jenk Hill Fire Sta",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rocky Ford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay Branch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hiltonia",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Screven Rec Dept",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenhill Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sr Citizens Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jackson Fire Station",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cooperville Fire Station",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 2405,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 617,
+                "Precinct": [
+                  {
+                    "name": "Sylvania",
+                    "votes": 51
+                  },
+                  {
+                    "name": "Hunters",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Newington",
+                    "votes": 77
+                  },
+                  {
+                    "name": "Jenk Hill Fire Sta",
+                    "votes": 98
+                  },
+                  {
+                    "name": "Rocky Ford",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Bay Branch",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Hiltonia",
+                    "votes": 74
+                  },
+                  {
+                    "name": "Screven Rec Dept",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Greenhill Church",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Sr Citizens Center",
+                    "votes": 129
+                  },
+                  {
+                    "name": "Jackson Fire Station",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Cooperville Fire Station",
+                    "votes": 27
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1068,
+                "Precinct": [
+                  {
+                    "name": "Sylvania",
+                    "votes": 167
+                  },
+                  {
+                    "name": "Hunters",
+                    "votes": 53
+                  },
+                  {
+                    "name": "Newington",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Jenk Hill Fire Sta",
+                    "votes": 186
+                  },
+                  {
+                    "name": "Rocky Ford",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Bay Branch",
+                    "votes": 43
+                  },
+                  {
+                    "name": "Hiltonia",
+                    "votes": 103
+                  },
+                  {
+                    "name": "Screven Rec Dept",
+                    "votes": 59
+                  },
+                  {
+                    "name": "Greenhill Church",
+                    "votes": 45
+                  },
+                  {
+                    "name": "Sr Citizens Center",
+                    "votes": 244
+                  },
+                  {
+                    "name": "Jackson Fire Station",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Cooperville Fire Station",
+                    "votes": 52
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 720,
+                "Precinct": [
+                  {
+                    "name": "Sylvania",
+                    "votes": 109
+                  },
+                  {
+                    "name": "Hunters",
+                    "votes": 49
+                  },
+                  {
+                    "name": "Newington",
+                    "votes": 68
+                  },
+                  {
+                    "name": "Jenk Hill Fire Sta",
+                    "votes": 94
+                  },
+                  {
+                    "name": "Rocky Ford",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Bay Branch",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Hiltonia",
+                    "votes": 74
+                  },
+                  {
+                    "name": "Screven Rec Dept",
+                    "votes": 45
+                  },
+                  {
+                    "name": "Greenhill Church",
+                    "votes": 66
+                  },
+                  {
+                    "name": "Sr Citizens Center",
+                    "votes": 85
+                  },
+                  {
+                    "name": "Jackson Fire Station",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Cooperville Fire Station",
+                    "votes": 34
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sylvania",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hunters",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Newington",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jenk Hill Fire Sta",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rocky Ford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay Branch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hiltonia",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Screven Rec Dept",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenhill Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sr Citizens Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jackson Fire Station",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cooperville Fire Station",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 12,
+        "precinctsReported": 12,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 19,
+            "Precinct": [
+              {
+                "name": "Sylvania",
+                "votes": 2
+              },
+              {
+                "name": "Hunters",
+                "votes": 0
+              },
+              {
+                "name": "Newington",
+                "votes": 2
+              },
+              {
+                "name": "Jenk Hill Fire Sta",
+                "votes": 1
+              },
+              {
+                "name": "Rocky Ford",
+                "votes": 3
+              },
+              {
+                "name": "Bay Branch",
+                "votes": 3
+              },
+              {
+                "name": "Hiltonia",
+                "votes": 1
+              },
+              {
+                "name": "Screven Rec Dept",
+                "votes": 4
+              },
+              {
+                "name": "Greenhill Church",
+                "votes": 1
+              },
+              {
+                "name": "Sr Citizens Center",
+                "votes": 1
+              },
+              {
+                "name": "Jackson Fire Station",
+                "votes": 1
+              },
+              {
+                "name": "Cooperville Fire Station",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Sylvania",
+                "votes": 0
+              },
+              {
+                "name": "Hunters",
+                "votes": 0
+              },
+              {
+                "name": "Newington",
+                "votes": 0
+              },
+              {
+                "name": "Jenk Hill Fire Sta",
+                "votes": 0
+              },
+              {
+                "name": "Rocky Ford",
+                "votes": 0
+              },
+              {
+                "name": "Bay Branch",
+                "votes": 0
+              },
+              {
+                "name": "Hiltonia",
+                "votes": 0
+              },
+              {
+                "name": "Screven Rec Dept",
+                "votes": 0
+              },
+              {
+                "name": "Greenhill Church",
+                "votes": 0
+              },
+              {
+                "name": "Sr Citizens Center",
+                "votes": 0
+              },
+              {
+                "name": "Jackson Fire Station",
+                "votes": 0
+              },
+              {
+                "name": "Cooperville Fire Station",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 3493,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1544,
+                "Precinct": [
+                  {
+                    "name": "Sylvania",
+                    "votes": 118
+                  },
+                  {
+                    "name": "Hunters",
+                    "votes": 94
+                  },
+                  {
+                    "name": "Newington",
+                    "votes": 267
+                  },
+                  {
+                    "name": "Jenk Hill Fire Sta",
+                    "votes": 129
+                  },
+                  {
+                    "name": "Rocky Ford",
+                    "votes": 140
+                  },
+                  {
+                    "name": "Bay Branch",
+                    "votes": 228
+                  },
+                  {
+                    "name": "Hiltonia",
+                    "votes": 119
+                  },
+                  {
+                    "name": "Screven Rec Dept",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Greenhill Church",
+                    "votes": 192
+                  },
+                  {
+                    "name": "Sr Citizens Center",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Jackson Fire Station",
+                    "votes": 113
+                  },
+                  {
+                    "name": "Cooperville Fire Station",
+                    "votes": 23
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1536,
+                "Precinct": [
+                  {
+                    "name": "Sylvania",
+                    "votes": 188
+                  },
+                  {
+                    "name": "Hunters",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Newington",
+                    "votes": 146
+                  },
+                  {
+                    "name": "Jenk Hill Fire Sta",
+                    "votes": 179
+                  },
+                  {
+                    "name": "Rocky Ford",
+                    "votes": 97
+                  },
+                  {
+                    "name": "Bay Branch",
+                    "votes": 266
+                  },
+                  {
+                    "name": "Hiltonia",
+                    "votes": 140
+                  },
+                  {
+                    "name": "Screven Rec Dept",
+                    "votes": 52
+                  },
+                  {
+                    "name": "Greenhill Church",
+                    "votes": 186
+                  },
+                  {
+                    "name": "Sr Citizens Center",
+                    "votes": 133
+                  },
+                  {
+                    "name": "Jackson Fire Station",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Cooperville Fire Station",
+                    "votes": 20
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 413,
+                "Precinct": [
+                  {
+                    "name": "Sylvania",
+                    "votes": 80
+                  },
+                  {
+                    "name": "Hunters",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Newington",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Jenk Hill Fire Sta",
+                    "votes": 52
+                  },
+                  {
+                    "name": "Rocky Ford",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Bay Branch",
+                    "votes": 48
+                  },
+                  {
+                    "name": "Hiltonia",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Screven Rec Dept",
+                    "votes": 13
+                  },
+                  {
+                    "name": "Greenhill Church",
+                    "votes": 45
+                  },
+                  {
+                    "name": "Sr Citizens Center",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Jackson Fire Station",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Cooperville Fire Station",
+                    "votes": 5
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sylvania",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hunters",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Newington",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jenk Hill Fire Sta",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rocky Ford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay Branch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hiltonia",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Screven Rec Dept",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenhill Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sr Citizens Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jackson Fire Station",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cooperville Fire Station",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 2424,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 621,
+                "Precinct": [
+                  {
+                    "name": "Sylvania",
+                    "votes": 51
+                  },
+                  {
+                    "name": "Hunters",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Newington",
+                    "votes": 78
+                  },
+                  {
+                    "name": "Jenk Hill Fire Sta",
+                    "votes": 97
+                  },
+                  {
+                    "name": "Rocky Ford",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Bay Branch",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Hiltonia",
+                    "votes": 76
+                  },
+                  {
+                    "name": "Screven Rec Dept",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Greenhill Church",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Sr Citizens Center",
+                    "votes": 130
+                  },
+                  {
+                    "name": "Jackson Fire Station",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Cooperville Fire Station",
+                    "votes": 27
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1085,
+                "Precinct": [
+                  {
+                    "name": "Sylvania",
+                    "votes": 169
+                  },
+                  {
+                    "name": "Hunters",
+                    "votes": 53
+                  },
+                  {
+                    "name": "Newington",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Jenk Hill Fire Sta",
+                    "votes": 190
+                  },
+                  {
+                    "name": "Rocky Ford",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Bay Branch",
+                    "votes": 44
+                  },
+                  {
+                    "name": "Hiltonia",
+                    "votes": 104
+                  },
+                  {
+                    "name": "Screven Rec Dept",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Greenhill Church",
+                    "votes": 46
+                  },
+                  {
+                    "name": "Sr Citizens Center",
+                    "votes": 250
+                  },
+                  {
+                    "name": "Jackson Fire Station",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Cooperville Fire Station",
+                    "votes": 53
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 718,
+                "Precinct": [
+                  {
+                    "name": "Sylvania",
+                    "votes": 109
+                  },
+                  {
+                    "name": "Hunters",
+                    "votes": 49
+                  },
+                  {
+                    "name": "Newington",
+                    "votes": 68
+                  },
+                  {
+                    "name": "Jenk Hill Fire Sta",
+                    "votes": 92
+                  },
+                  {
+                    "name": "Rocky Ford",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Bay Branch",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Hiltonia",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Screven Rec Dept",
+                    "votes": 44
+                  },
+                  {
+                    "name": "Greenhill Church",
+                    "votes": 65
+                  },
+                  {
+                    "name": "Sr Citizens Center",
+                    "votes": 85
+                  },
+                  {
+                    "name": "Jackson Fire Station",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Cooperville Fire Station",
+                    "votes": 35
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sylvania",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hunters",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Newington",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jenk Hill Fire Sta",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rocky Ford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay Branch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hiltonia",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Screven Rec Dept",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenhill Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sr Citizens Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jackson Fire Station",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cooperville Fire Station",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 12,
+        "precinctsReported": 12,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 129,
+            "Precinct": [
+              {
+                "name": "Sylvania",
+                "votes": 23
+              },
+              {
+                "name": "Hunters",
+                "votes": 6
+              },
+              {
+                "name": "Newington",
+                "votes": 10
+              },
+              {
+                "name": "Jenk Hill Fire Sta",
+                "votes": 20
+              },
+              {
+                "name": "Rocky Ford",
+                "votes": 9
+              },
+              {
+                "name": "Bay Branch",
+                "votes": 8
+              },
+              {
+                "name": "Hiltonia",
+                "votes": 8
+              },
+              {
+                "name": "Screven Rec Dept",
+                "votes": 9
+              },
+              {
+                "name": "Greenhill Church",
+                "votes": 16
+              },
+              {
+                "name": "Sr Citizens Center",
+                "votes": 14
+              },
+              {
+                "name": "Jackson Fire Station",
+                "votes": 2
+              },
+              {
+                "name": "Cooperville Fire Station",
+                "votes": 4
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Sylvania",
+                "votes": 0
+              },
+              {
+                "name": "Hunters",
+                "votes": 0
+              },
+              {
+                "name": "Newington",
+                "votes": 0
+              },
+              {
+                "name": "Jenk Hill Fire Sta",
+                "votes": 0
+              },
+              {
+                "name": "Rocky Ford",
+                "votes": 0
+              },
+              {
+                "name": "Bay Branch",
+                "votes": 0
+              },
+              {
+                "name": "Hiltonia",
+                "votes": 0
+              },
+              {
+                "name": "Screven Rec Dept",
+                "votes": 0
+              },
+              {
+                "name": "Greenhill Church",
+                "votes": 0
+              },
+              {
+                "name": "Sr Citizens Center",
+                "votes": 0
+              },
+              {
+                "name": "Jackson Fire Station",
+                "votes": 0
+              },
+              {
+                "name": "Cooperville Fire Station",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 3485,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1548,
+                "Precinct": [
+                  {
+                    "name": "Sylvania",
+                    "votes": 116
+                  },
+                  {
+                    "name": "Hunters",
+                    "votes": 92
+                  },
+                  {
+                    "name": "Newington",
+                    "votes": 268
+                  },
+                  {
+                    "name": "Jenk Hill Fire Sta",
+                    "votes": 129
+                  },
+                  {
+                    "name": "Rocky Ford",
+                    "votes": 140
+                  },
+                  {
+                    "name": "Bay Branch",
+                    "votes": 232
+                  },
+                  {
+                    "name": "Hiltonia",
+                    "votes": 118
+                  },
+                  {
+                    "name": "Screven Rec Dept",
+                    "votes": 49
+                  },
+                  {
+                    "name": "Greenhill Church",
+                    "votes": 195
+                  },
+                  {
+                    "name": "Sr Citizens Center",
+                    "votes": 68
+                  },
+                  {
+                    "name": "Jackson Fire Station",
+                    "votes": 117
+                  },
+                  {
+                    "name": "Cooperville Fire Station",
+                    "votes": 24
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1528,
+                "Precinct": [
+                  {
+                    "name": "Sylvania",
+                    "votes": 183
+                  },
+                  {
+                    "name": "Hunters",
+                    "votes": 65
+                  },
+                  {
+                    "name": "Newington",
+                    "votes": 143
+                  },
+                  {
+                    "name": "Jenk Hill Fire Sta",
+                    "votes": 179
+                  },
+                  {
+                    "name": "Rocky Ford",
+                    "votes": 97
+                  },
+                  {
+                    "name": "Bay Branch",
+                    "votes": 265
+                  },
+                  {
+                    "name": "Hiltonia",
+                    "votes": 138
+                  },
+                  {
+                    "name": "Screven Rec Dept",
+                    "votes": 51
+                  },
+                  {
+                    "name": "Greenhill Church",
+                    "votes": 181
+                  },
+                  {
+                    "name": "Sr Citizens Center",
+                    "votes": 142
+                  },
+                  {
+                    "name": "Jackson Fire Station",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Cooperville Fire Station",
+                    "votes": 20
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 409,
+                "Precinct": [
+                  {
+                    "name": "Sylvania",
+                    "votes": 79
+                  },
+                  {
+                    "name": "Hunters",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Newington",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Jenk Hill Fire Sta",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Rocky Ford",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Bay Branch",
+                    "votes": 48
+                  },
+                  {
+                    "name": "Hiltonia",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Screven Rec Dept",
+                    "votes": 13
+                  },
+                  {
+                    "name": "Greenhill Church",
+                    "votes": 47
+                  },
+                  {
+                    "name": "Sr Citizens Center",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Jackson Fire Station",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Cooperville Fire Station",
+                    "votes": 5
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sylvania",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hunters",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Newington",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jenk Hill Fire Sta",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rocky Ford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay Branch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hiltonia",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Screven Rec Dept",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenhill Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sr Citizens Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jackson Fire Station",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cooperville Fire Station",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 2322,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 593,
+                "Precinct": [
+                  {
+                    "name": "Sylvania",
+                    "votes": 48
+                  },
+                  {
+                    "name": "Hunters",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Newington",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Jenk Hill Fire Sta",
+                    "votes": 94
+                  },
+                  {
+                    "name": "Rocky Ford",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Bay Branch",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Hiltonia",
+                    "votes": 76
+                  },
+                  {
+                    "name": "Screven Rec Dept",
+                    "votes": 37
+                  },
+                  {
+                    "name": "Greenhill Church",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Sr Citizens Center",
+                    "votes": 127
+                  },
+                  {
+                    "name": "Jackson Fire Station",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Cooperville Fire Station",
+                    "votes": 26
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1038,
+                "Precinct": [
+                  {
+                    "name": "Sylvania",
+                    "votes": 163
+                  },
+                  {
+                    "name": "Hunters",
+                    "votes": 52
+                  },
+                  {
+                    "name": "Newington",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Jenk Hill Fire Sta",
+                    "votes": 179
+                  },
+                  {
+                    "name": "Rocky Ford",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Bay Branch",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Hiltonia",
+                    "votes": 100
+                  },
+                  {
+                    "name": "Screven Rec Dept",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Greenhill Church",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Sr Citizens Center",
+                    "votes": 238
+                  },
+                  {
+                    "name": "Jackson Fire Station",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Cooperville Fire Station",
+                    "votes": 51
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 691,
+                "Precinct": [
+                  {
+                    "name": "Sylvania",
+                    "votes": 105
+                  },
+                  {
+                    "name": "Hunters",
+                    "votes": 48
+                  },
+                  {
+                    "name": "Newington",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Jenk Hill Fire Sta",
+                    "votes": 89
+                  },
+                  {
+                    "name": "Rocky Ford",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Bay Branch",
+                    "votes": 22
+                  },
+                  {
+                    "name": "Hiltonia",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Screven Rec Dept",
+                    "votes": 43
+                  },
+                  {
+                    "name": "Greenhill Church",
+                    "votes": 59
+                  },
+                  {
+                    "name": "Sr Citizens Center",
+                    "votes": 83
+                  },
+                  {
+                    "name": "Jackson Fire Station",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Cooperville Fire Station",
+                    "votes": 33
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sylvania",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hunters",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Newington",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jenk Hill Fire Sta",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rocky Ford",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bay Branch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hiltonia",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Screven Rec Dept",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenhill Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sr Citizens Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jackson Fire Station",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cooperville Fire Station",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

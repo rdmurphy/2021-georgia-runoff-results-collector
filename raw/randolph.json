@@ -1,0 +1,1039 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 9:05:54 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Randolph",
+    "VoterTurnout": {
+      "totalVoters": 4415,
+      "ballotsCast": 2971,
+      "voterTurnout": 67.29,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Coleman",
+            "totalVoters": 235,
+            "ballotsCast": 171,
+            "voterTurnout": 72.77,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Shellman",
+            "totalVoters": 929,
+            "ballotsCast": 649,
+            "voterTurnout": 69.86,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Benevolence",
+            "totalVoters": 355,
+            "ballotsCast": 246,
+            "voterTurnout": 69.3,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Cuthbert-Courthouse",
+            "totalVoters": 2299,
+            "ballotsCast": 1508,
+            "voterTurnout": 65.59,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Cuthbert",
+            "totalVoters": 340,
+            "ballotsCast": 227,
+            "voterTurnout": 66.76,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Springvale",
+            "totalVoters": 257,
+            "ballotsCast": 170,
+            "voterTurnout": 66.15,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 6,
+        "precinctsReported": 6,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 9,
+            "Precinct": [
+              {
+                "name": "Coleman",
+                "votes": 2
+              },
+              {
+                "name": "Shellman",
+                "votes": 2
+              },
+              {
+                "name": "Benevolence",
+                "votes": 0
+              },
+              {
+                "name": "Cuthbert-Courthouse",
+                "votes": 4
+              },
+              {
+                "name": "Cuthbert",
+                "votes": 1
+              },
+              {
+                "name": "Springvale",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Coleman",
+                "votes": 0
+              },
+              {
+                "name": "Shellman",
+                "votes": 0
+              },
+              {
+                "name": "Benevolence",
+                "votes": 0
+              },
+              {
+                "name": "Cuthbert-Courthouse",
+                "votes": 0
+              },
+              {
+                "name": "Cuthbert",
+                "votes": 0
+              },
+              {
+                "name": "Springvale",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 1290,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 432,
+                "Precinct": [
+                  {
+                    "name": "Coleman",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Shellman",
+                    "votes": 159
+                  },
+                  {
+                    "name": "Benevolence",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Cuthbert-Courthouse",
+                    "votes": 151
+                  },
+                  {
+                    "name": "Cuthbert",
+                    "votes": 4
+                  },
+                  {
+                    "name": "Springvale",
+                    "votes": 20
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 701,
+                "Precinct": [
+                  {
+                    "name": "Coleman",
+                    "votes": 46
+                  },
+                  {
+                    "name": "Shellman",
+                    "votes": 127
+                  },
+                  {
+                    "name": "Benevolence",
+                    "votes": 91
+                  },
+                  {
+                    "name": "Cuthbert-Courthouse",
+                    "votes": 411
+                  },
+                  {
+                    "name": "Cuthbert",
+                    "votes": 3
+                  },
+                  {
+                    "name": "Springvale",
+                    "votes": 23
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 156,
+                "Precinct": [
+                  {
+                    "name": "Coleman",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Shellman",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Benevolence",
+                    "votes": 13
+                  },
+                  {
+                    "name": "Cuthbert-Courthouse",
+                    "votes": 79
+                  },
+                  {
+                    "name": "Cuthbert",
+                    "votes": 2
+                  },
+                  {
+                    "name": "Springvale",
+                    "votes": 7
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 1,
+                "Precinct": [
+                  {
+                    "name": "Coleman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shellman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Benevolence",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cuthbert-Courthouse",
+                    "votes": 1
+                  },
+                  {
+                    "name": "Cuthbert",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Springvale",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 1672,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 411,
+                "Precinct": [
+                  {
+                    "name": "Coleman",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Shellman",
+                    "votes": 131
+                  },
+                  {
+                    "name": "Benevolence",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Cuthbert-Courthouse",
+                    "votes": 143
+                  },
+                  {
+                    "name": "Cuthbert",
+                    "votes": 49
+                  },
+                  {
+                    "name": "Springvale",
+                    "votes": 23
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 807,
+                "Precinct": [
+                  {
+                    "name": "Coleman",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Shellman",
+                    "votes": 83
+                  },
+                  {
+                    "name": "Benevolence",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Cuthbert-Courthouse",
+                    "votes": 478
+                  },
+                  {
+                    "name": "Cuthbert",
+                    "votes": 127
+                  },
+                  {
+                    "name": "Springvale",
+                    "votes": 57
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 454,
+                "Precinct": [
+                  {
+                    "name": "Coleman",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Shellman",
+                    "votes": 106
+                  },
+                  {
+                    "name": "Benevolence",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Cuthbert-Courthouse",
+                    "votes": 241
+                  },
+                  {
+                    "name": "Cuthbert",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Springvale",
+                    "votes": 40
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Coleman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shellman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Benevolence",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cuthbert-Courthouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cuthbert",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Springvale",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 6,
+        "precinctsReported": 6,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 4,
+            "Precinct": [
+              {
+                "name": "Coleman",
+                "votes": 2
+              },
+              {
+                "name": "Shellman",
+                "votes": 1
+              },
+              {
+                "name": "Benevolence",
+                "votes": 0
+              },
+              {
+                "name": "Cuthbert-Courthouse",
+                "votes": 1
+              },
+              {
+                "name": "Cuthbert",
+                "votes": 0
+              },
+              {
+                "name": "Springvale",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Coleman",
+                "votes": 0
+              },
+              {
+                "name": "Shellman",
+                "votes": 0
+              },
+              {
+                "name": "Benevolence",
+                "votes": 0
+              },
+              {
+                "name": "Cuthbert-Courthouse",
+                "votes": 0
+              },
+              {
+                "name": "Cuthbert",
+                "votes": 0
+              },
+              {
+                "name": "Springvale",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 1289,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 434,
+                "Precinct": [
+                  {
+                    "name": "Coleman",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Shellman",
+                    "votes": 160
+                  },
+                  {
+                    "name": "Benevolence",
+                    "votes": 68
+                  },
+                  {
+                    "name": "Cuthbert-Courthouse",
+                    "votes": 151
+                  },
+                  {
+                    "name": "Cuthbert",
+                    "votes": 4
+                  },
+                  {
+                    "name": "Springvale",
+                    "votes": 20
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 699,
+                "Precinct": [
+                  {
+                    "name": "Coleman",
+                    "votes": 46
+                  },
+                  {
+                    "name": "Shellman",
+                    "votes": 125
+                  },
+                  {
+                    "name": "Benevolence",
+                    "votes": 91
+                  },
+                  {
+                    "name": "Cuthbert-Courthouse",
+                    "votes": 409
+                  },
+                  {
+                    "name": "Cuthbert",
+                    "votes": 4
+                  },
+                  {
+                    "name": "Springvale",
+                    "votes": 24
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 155,
+                "Precinct": [
+                  {
+                    "name": "Coleman",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Shellman",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Benevolence",
+                    "votes": 13
+                  },
+                  {
+                    "name": "Cuthbert-Courthouse",
+                    "votes": 79
+                  },
+                  {
+                    "name": "Cuthbert",
+                    "votes": 1
+                  },
+                  {
+                    "name": "Springvale",
+                    "votes": 7
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 1,
+                "Precinct": [
+                  {
+                    "name": "Coleman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shellman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Benevolence",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cuthbert-Courthouse",
+                    "votes": 1
+                  },
+                  {
+                    "name": "Cuthbert",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Springvale",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 1678,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 412,
+                "Precinct": [
+                  {
+                    "name": "Coleman",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Shellman",
+                    "votes": 132
+                  },
+                  {
+                    "name": "Benevolence",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Cuthbert-Courthouse",
+                    "votes": 144
+                  },
+                  {
+                    "name": "Cuthbert",
+                    "votes": 49
+                  },
+                  {
+                    "name": "Springvale",
+                    "votes": 23
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 811,
+                "Precinct": [
+                  {
+                    "name": "Coleman",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Shellman",
+                    "votes": 84
+                  },
+                  {
+                    "name": "Benevolence",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Cuthbert-Courthouse",
+                    "votes": 482
+                  },
+                  {
+                    "name": "Cuthbert",
+                    "votes": 127
+                  },
+                  {
+                    "name": "Springvale",
+                    "votes": 56
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 455,
+                "Precinct": [
+                  {
+                    "name": "Coleman",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Shellman",
+                    "votes": 106
+                  },
+                  {
+                    "name": "Benevolence",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Cuthbert-Courthouse",
+                    "votes": 241
+                  },
+                  {
+                    "name": "Cuthbert",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Springvale",
+                    "votes": 40
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Coleman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shellman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Benevolence",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cuthbert-Courthouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cuthbert",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Springvale",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 6,
+        "precinctsReported": 6,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 38,
+            "Precinct": [
+              {
+                "name": "Coleman",
+                "votes": 2
+              },
+              {
+                "name": "Shellman",
+                "votes": 7
+              },
+              {
+                "name": "Benevolence",
+                "votes": 2
+              },
+              {
+                "name": "Cuthbert-Courthouse",
+                "votes": 17
+              },
+              {
+                "name": "Cuthbert",
+                "votes": 3
+              },
+              {
+                "name": "Springvale",
+                "votes": 7
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Coleman",
+                "votes": 0
+              },
+              {
+                "name": "Shellman",
+                "votes": 0
+              },
+              {
+                "name": "Benevolence",
+                "votes": 0
+              },
+              {
+                "name": "Cuthbert-Courthouse",
+                "votes": 0
+              },
+              {
+                "name": "Cuthbert",
+                "votes": 0
+              },
+              {
+                "name": "Springvale",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 1298,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 430,
+                "Precinct": [
+                  {
+                    "name": "Coleman",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Shellman",
+                    "votes": 160
+                  },
+                  {
+                    "name": "Benevolence",
+                    "votes": 65
+                  },
+                  {
+                    "name": "Cuthbert-Courthouse",
+                    "votes": 152
+                  },
+                  {
+                    "name": "Cuthbert",
+                    "votes": 3
+                  },
+                  {
+                    "name": "Springvale",
+                    "votes": 19
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 710,
+                "Precinct": [
+                  {
+                    "name": "Coleman",
+                    "votes": 46
+                  },
+                  {
+                    "name": "Shellman",
+                    "votes": 127
+                  },
+                  {
+                    "name": "Benevolence",
+                    "votes": 92
+                  },
+                  {
+                    "name": "Cuthbert-Courthouse",
+                    "votes": 416
+                  },
+                  {
+                    "name": "Cuthbert",
+                    "votes": 5
+                  },
+                  {
+                    "name": "Springvale",
+                    "votes": 24
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 157,
+                "Precinct": [
+                  {
+                    "name": "Coleman",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Shellman",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Benevolence",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Cuthbert-Courthouse",
+                    "votes": 78
+                  },
+                  {
+                    "name": "Cuthbert",
+                    "votes": 2
+                  },
+                  {
+                    "name": "Springvale",
+                    "votes": 8
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 1,
+                "Precinct": [
+                  {
+                    "name": "Coleman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shellman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Benevolence",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cuthbert-Courthouse",
+                    "votes": 1
+                  },
+                  {
+                    "name": "Cuthbert",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Springvale",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 1635,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 408,
+                "Precinct": [
+                  {
+                    "name": "Coleman",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Shellman",
+                    "votes": 128
+                  },
+                  {
+                    "name": "Benevolence",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Cuthbert-Courthouse",
+                    "votes": 143
+                  },
+                  {
+                    "name": "Cuthbert",
+                    "votes": 49
+                  },
+                  {
+                    "name": "Springvale",
+                    "votes": 23
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 783,
+                "Precinct": [
+                  {
+                    "name": "Coleman",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Shellman",
+                    "votes": 83
+                  },
+                  {
+                    "name": "Benevolence",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Cuthbert-Courthouse",
+                    "votes": 463
+                  },
+                  {
+                    "name": "Cuthbert",
+                    "votes": 124
+                  },
+                  {
+                    "name": "Springvale",
+                    "votes": 52
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 444,
+                "Precinct": [
+                  {
+                    "name": "Coleman",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Shellman",
+                    "votes": 103
+                  },
+                  {
+                    "name": "Benevolence",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Cuthbert-Courthouse",
+                    "votes": 238
+                  },
+                  {
+                    "name": "Cuthbert",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Springvale",
+                    "votes": 37
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Coleman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shellman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Benevolence",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cuthbert-Courthouse",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cuthbert",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Springvale",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

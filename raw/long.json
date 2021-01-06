@@ -1,0 +1,1166 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 9:03:30 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Long",
+    "VoterTurnout": {
+      "totalVoters": 10756,
+      "ballotsCast": 4640,
+      "voterTurnout": 43.14,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Beards Creek",
+            "totalVoters": 1572,
+            "ballotsCast": 723,
+            "voterTurnout": 45.99,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Rye Patch/Oak Dale",
+            "totalVoters": 3242,
+            "ballotsCast": 1396,
+            "voterTurnout": 43.06,
+            "percentReporting": "4"
+          },
+          {
+            "name": "South Ludowici",
+            "totalVoters": 1435,
+            "ballotsCast": 554,
+            "voterTurnout": 38.61,
+            "percentReporting": "4"
+          },
+          {
+            "name": "North Ludowici",
+            "totalVoters": 2342,
+            "ballotsCast": 920,
+            "voterTurnout": 39.28,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Tibet",
+            "totalVoters": 937,
+            "ballotsCast": 460,
+            "voterTurnout": 49.09,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Alma Flournoy",
+            "totalVoters": 301,
+            "ballotsCast": 170,
+            "voterTurnout": 56.48,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Faith Baptist Annex",
+            "totalVoters": 927,
+            "ballotsCast": 417,
+            "voterTurnout": 44.98,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 7,
+        "precinctsReported": 7,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 15,
+            "Precinct": [
+              {
+                "name": "Beards Creek",
+                "votes": 3
+              },
+              {
+                "name": "Rye Patch/Oak Dale",
+                "votes": 2
+              },
+              {
+                "name": "South Ludowici",
+                "votes": 6
+              },
+              {
+                "name": "North Ludowici",
+                "votes": 2
+              },
+              {
+                "name": "Tibet",
+                "votes": 1
+              },
+              {
+                "name": "Alma Flournoy",
+                "votes": 0
+              },
+              {
+                "name": "Faith Baptist Annex",
+                "votes": 1
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Beards Creek",
+                "votes": 0
+              },
+              {
+                "name": "Rye Patch/Oak Dale",
+                "votes": 0
+              },
+              {
+                "name": "South Ludowici",
+                "votes": 0
+              },
+              {
+                "name": "North Ludowici",
+                "votes": 0
+              },
+              {
+                "name": "Tibet",
+                "votes": 0
+              },
+              {
+                "name": "Alma Flournoy",
+                "votes": 0
+              },
+              {
+                "name": "Faith Baptist Annex",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 2834,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1365,
+                "Precinct": [
+                  {
+                    "name": "Beards Creek",
+                    "votes": 244
+                  },
+                  {
+                    "name": "Rye Patch/Oak Dale",
+                    "votes": 414
+                  },
+                  {
+                    "name": "South Ludowici",
+                    "votes": 103
+                  },
+                  {
+                    "name": "North Ludowici",
+                    "votes": 197
+                  },
+                  {
+                    "name": "Tibet",
+                    "votes": 191
+                  },
+                  {
+                    "name": "Alma Flournoy",
+                    "votes": 79
+                  },
+                  {
+                    "name": "Faith Baptist Annex",
+                    "votes": 137
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1285,
+                "Precinct": [
+                  {
+                    "name": "Beards Creek",
+                    "votes": 149
+                  },
+                  {
+                    "name": "Rye Patch/Oak Dale",
+                    "votes": 401
+                  },
+                  {
+                    "name": "South Ludowici",
+                    "votes": 138
+                  },
+                  {
+                    "name": "North Ludowici",
+                    "votes": 227
+                  },
+                  {
+                    "name": "Tibet",
+                    "votes": 161
+                  },
+                  {
+                    "name": "Alma Flournoy",
+                    "votes": 61
+                  },
+                  {
+                    "name": "Faith Baptist Annex",
+                    "votes": 148
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 184,
+                "Precinct": [
+                  {
+                    "name": "Beards Creek",
+                    "votes": 27
+                  },
+                  {
+                    "name": "Rye Patch/Oak Dale",
+                    "votes": 62
+                  },
+                  {
+                    "name": "South Ludowici",
+                    "votes": 12
+                  },
+                  {
+                    "name": "North Ludowici",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Tibet",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Alma Flournoy",
+                    "votes": 4
+                  },
+                  {
+                    "name": "Faith Baptist Annex",
+                    "votes": 19
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Beards Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rye Patch/Oak Dale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Ludowici",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Ludowici",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tibet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alma Flournoy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Baptist Annex",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 1791,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 458,
+                "Precinct": [
+                  {
+                    "name": "Beards Creek",
+                    "votes": 82
+                  },
+                  {
+                    "name": "Rye Patch/Oak Dale",
+                    "votes": 117
+                  },
+                  {
+                    "name": "South Ludowici",
+                    "votes": 101
+                  },
+                  {
+                    "name": "North Ludowici",
+                    "votes": 113
+                  },
+                  {
+                    "name": "Tibet",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Alma Flournoy",
+                    "votes": 5
+                  },
+                  {
+                    "name": "Faith Baptist Annex",
+                    "votes": 23
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 891,
+                "Precinct": [
+                  {
+                    "name": "Beards Creek",
+                    "votes": 119
+                  },
+                  {
+                    "name": "Rye Patch/Oak Dale",
+                    "votes": 273
+                  },
+                  {
+                    "name": "South Ludowici",
+                    "votes": 130
+                  },
+                  {
+                    "name": "North Ludowici",
+                    "votes": 257
+                  },
+                  {
+                    "name": "Tibet",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Alma Flournoy",
+                    "votes": 7
+                  },
+                  {
+                    "name": "Faith Baptist Annex",
+                    "votes": 65
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 442,
+                "Precinct": [
+                  {
+                    "name": "Beards Creek",
+                    "votes": 99
+                  },
+                  {
+                    "name": "Rye Patch/Oak Dale",
+                    "votes": 127
+                  },
+                  {
+                    "name": "South Ludowici",
+                    "votes": 64
+                  },
+                  {
+                    "name": "North Ludowici",
+                    "votes": 90
+                  },
+                  {
+                    "name": "Tibet",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Alma Flournoy",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Faith Baptist Annex",
+                    "votes": 24
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Beards Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rye Patch/Oak Dale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Ludowici",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Ludowici",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tibet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alma Flournoy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Baptist Annex",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 7,
+        "precinctsReported": 7,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 10,
+            "Precinct": [
+              {
+                "name": "Beards Creek",
+                "votes": 1
+              },
+              {
+                "name": "Rye Patch/Oak Dale",
+                "votes": 3
+              },
+              {
+                "name": "South Ludowici",
+                "votes": 2
+              },
+              {
+                "name": "North Ludowici",
+                "votes": 0
+              },
+              {
+                "name": "Tibet",
+                "votes": 0
+              },
+              {
+                "name": "Alma Flournoy",
+                "votes": 0
+              },
+              {
+                "name": "Faith Baptist Annex",
+                "votes": 4
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Beards Creek",
+                "votes": 0
+              },
+              {
+                "name": "Rye Patch/Oak Dale",
+                "votes": 0
+              },
+              {
+                "name": "South Ludowici",
+                "votes": 0
+              },
+              {
+                "name": "North Ludowici",
+                "votes": 0
+              },
+              {
+                "name": "Tibet",
+                "votes": 0
+              },
+              {
+                "name": "Alma Flournoy",
+                "votes": 0
+              },
+              {
+                "name": "Faith Baptist Annex",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 2831,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1366,
+                "Precinct": [
+                  {
+                    "name": "Beards Creek",
+                    "votes": 241
+                  },
+                  {
+                    "name": "Rye Patch/Oak Dale",
+                    "votes": 414
+                  },
+                  {
+                    "name": "South Ludowici",
+                    "votes": 103
+                  },
+                  {
+                    "name": "North Ludowici",
+                    "votes": 200
+                  },
+                  {
+                    "name": "Tibet",
+                    "votes": 192
+                  },
+                  {
+                    "name": "Alma Flournoy",
+                    "votes": 79
+                  },
+                  {
+                    "name": "Faith Baptist Annex",
+                    "votes": 137
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1282,
+                "Precinct": [
+                  {
+                    "name": "Beards Creek",
+                    "votes": 149
+                  },
+                  {
+                    "name": "Rye Patch/Oak Dale",
+                    "votes": 402
+                  },
+                  {
+                    "name": "South Ludowici",
+                    "votes": 138
+                  },
+                  {
+                    "name": "North Ludowici",
+                    "votes": 226
+                  },
+                  {
+                    "name": "Tibet",
+                    "votes": 161
+                  },
+                  {
+                    "name": "Alma Flournoy",
+                    "votes": 60
+                  },
+                  {
+                    "name": "Faith Baptist Annex",
+                    "votes": 146
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 183,
+                "Precinct": [
+                  {
+                    "name": "Beards Creek",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Rye Patch/Oak Dale",
+                    "votes": 61
+                  },
+                  {
+                    "name": "South Ludowici",
+                    "votes": 11
+                  },
+                  {
+                    "name": "North Ludowici",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Tibet",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Alma Flournoy",
+                    "votes": 5
+                  },
+                  {
+                    "name": "Faith Baptist Annex",
+                    "votes": 20
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Beards Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rye Patch/Oak Dale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Ludowici",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Ludowici",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tibet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alma Flournoy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Baptist Annex",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 1799,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 461,
+                "Precinct": [
+                  {
+                    "name": "Beards Creek",
+                    "votes": 85
+                  },
+                  {
+                    "name": "Rye Patch/Oak Dale",
+                    "votes": 116
+                  },
+                  {
+                    "name": "South Ludowici",
+                    "votes": 104
+                  },
+                  {
+                    "name": "North Ludowici",
+                    "votes": 111
+                  },
+                  {
+                    "name": "Tibet",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Alma Flournoy",
+                    "votes": 5
+                  },
+                  {
+                    "name": "Faith Baptist Annex",
+                    "votes": 23
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 895,
+                "Precinct": [
+                  {
+                    "name": "Beards Creek",
+                    "votes": 121
+                  },
+                  {
+                    "name": "Rye Patch/Oak Dale",
+                    "votes": 272
+                  },
+                  {
+                    "name": "South Ludowici",
+                    "votes": 131
+                  },
+                  {
+                    "name": "North Ludowici",
+                    "votes": 259
+                  },
+                  {
+                    "name": "Tibet",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Alma Flournoy",
+                    "votes": 8
+                  },
+                  {
+                    "name": "Faith Baptist Annex",
+                    "votes": 64
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 443,
+                "Precinct": [
+                  {
+                    "name": "Beards Creek",
+                    "votes": 101
+                  },
+                  {
+                    "name": "Rye Patch/Oak Dale",
+                    "votes": 128
+                  },
+                  {
+                    "name": "South Ludowici",
+                    "votes": 65
+                  },
+                  {
+                    "name": "North Ludowici",
+                    "votes": 89
+                  },
+                  {
+                    "name": "Tibet",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Alma Flournoy",
+                    "votes": 13
+                  },
+                  {
+                    "name": "Faith Baptist Annex",
+                    "votes": 23
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Beards Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rye Patch/Oak Dale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Ludowici",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Ludowici",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tibet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alma Flournoy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Baptist Annex",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 7,
+        "precinctsReported": 7,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 79,
+            "Precinct": [
+              {
+                "name": "Beards Creek",
+                "votes": 17
+              },
+              {
+                "name": "Rye Patch/Oak Dale",
+                "votes": 22
+              },
+              {
+                "name": "South Ludowici",
+                "votes": 13
+              },
+              {
+                "name": "North Ludowici",
+                "votes": 12
+              },
+              {
+                "name": "Tibet",
+                "votes": 8
+              },
+              {
+                "name": "Alma Flournoy",
+                "votes": 2
+              },
+              {
+                "name": "Faith Baptist Annex",
+                "votes": 5
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Beards Creek",
+                "votes": 0
+              },
+              {
+                "name": "Rye Patch/Oak Dale",
+                "votes": 0
+              },
+              {
+                "name": "South Ludowici",
+                "votes": 0
+              },
+              {
+                "name": "North Ludowici",
+                "votes": 0
+              },
+              {
+                "name": "Tibet",
+                "votes": 0
+              },
+              {
+                "name": "Alma Flournoy",
+                "votes": 0
+              },
+              {
+                "name": "Faith Baptist Annex",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 2825,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1359,
+                "Precinct": [
+                  {
+                    "name": "Beards Creek",
+                    "votes": 241
+                  },
+                  {
+                    "name": "Rye Patch/Oak Dale",
+                    "votes": 413
+                  },
+                  {
+                    "name": "South Ludowici",
+                    "votes": 102
+                  },
+                  {
+                    "name": "North Ludowici",
+                    "votes": 198
+                  },
+                  {
+                    "name": "Tibet",
+                    "votes": 192
+                  },
+                  {
+                    "name": "Alma Flournoy",
+                    "votes": 76
+                  },
+                  {
+                    "name": "Faith Baptist Annex",
+                    "votes": 137
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1278,
+                "Precinct": [
+                  {
+                    "name": "Beards Creek",
+                    "votes": 147
+                  },
+                  {
+                    "name": "Rye Patch/Oak Dale",
+                    "votes": 399
+                  },
+                  {
+                    "name": "South Ludowici",
+                    "votes": 138
+                  },
+                  {
+                    "name": "North Ludowici",
+                    "votes": 224
+                  },
+                  {
+                    "name": "Tibet",
+                    "votes": 161
+                  },
+                  {
+                    "name": "Alma Flournoy",
+                    "votes": 60
+                  },
+                  {
+                    "name": "Faith Baptist Annex",
+                    "votes": 149
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 188,
+                "Precinct": [
+                  {
+                    "name": "Beards Creek",
+                    "votes": 28
+                  },
+                  {
+                    "name": "Rye Patch/Oak Dale",
+                    "votes": 61
+                  },
+                  {
+                    "name": "South Ludowici",
+                    "votes": 15
+                  },
+                  {
+                    "name": "North Ludowici",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Tibet",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Alma Flournoy",
+                    "votes": 5
+                  },
+                  {
+                    "name": "Faith Baptist Annex",
+                    "votes": 19
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Beards Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rye Patch/Oak Dale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Ludowici",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Ludowici",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tibet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alma Flournoy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Baptist Annex",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 1736,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 443,
+                "Precinct": [
+                  {
+                    "name": "Beards Creek",
+                    "votes": 79
+                  },
+                  {
+                    "name": "Rye Patch/Oak Dale",
+                    "votes": 112
+                  },
+                  {
+                    "name": "South Ludowici",
+                    "votes": 100
+                  },
+                  {
+                    "name": "North Ludowici",
+                    "votes": 111
+                  },
+                  {
+                    "name": "Tibet",
+                    "votes": 12
+                  },
+                  {
+                    "name": "Alma Flournoy",
+                    "votes": 6
+                  },
+                  {
+                    "name": "Faith Baptist Annex",
+                    "votes": 23
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 866,
+                "Precinct": [
+                  {
+                    "name": "Beards Creek",
+                    "votes": 113
+                  },
+                  {
+                    "name": "Rye Patch/Oak Dale",
+                    "votes": 266
+                  },
+                  {
+                    "name": "South Ludowici",
+                    "votes": 127
+                  },
+                  {
+                    "name": "North Ludowici",
+                    "votes": 255
+                  },
+                  {
+                    "name": "Tibet",
+                    "votes": 37
+                  },
+                  {
+                    "name": "Alma Flournoy",
+                    "votes": 8
+                  },
+                  {
+                    "name": "Faith Baptist Annex",
+                    "votes": 60
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 427,
+                "Precinct": [
+                  {
+                    "name": "Beards Creek",
+                    "votes": 98
+                  },
+                  {
+                    "name": "Rye Patch/Oak Dale",
+                    "votes": 123
+                  },
+                  {
+                    "name": "South Ludowici",
+                    "votes": 59
+                  },
+                  {
+                    "name": "North Ludowici",
+                    "votes": 86
+                  },
+                  {
+                    "name": "Tibet",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Alma Flournoy",
+                    "votes": 13
+                  },
+                  {
+                    "name": "Faith Baptist Annex",
+                    "votes": 24
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Beards Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Rye Patch/Oak Dale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Ludowici",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Ludowici",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tibet",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alma Flournoy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Baptist Annex",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

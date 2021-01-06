@@ -1,21 +1,21 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:52:46 PM EST",
+    "Timestamp": "1/5/2021 9:03:05 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Houston",
     "VoterTurnout": {
       "totalVoters": 108099,
-      "ballotsCast": 45824,
-      "voterTurnout": 42.39,
+      "ballotsCast": 56922,
+      "voterTurnout": 52.66,
       "Precincts": {
         "Precinct": [
           {
             "name": "ANNX",
             "totalVoters": 4607,
-            "ballotsCast": 2298,
-            "voterTurnout": 49.88,
-            "percentReporting": "2"
+            "ballotsCast": 3028,
+            "voterTurnout": 65.73,
+            "percentReporting": "4"
           },
           {
             "name": "BMS",
@@ -27,37 +27,37 @@
           {
             "name": "CENT",
             "totalVoters": 8014,
-            "ballotsCast": 3303,
-            "voterTurnout": 41.22,
-            "percentReporting": "2"
+            "ballotsCast": 4829,
+            "voterTurnout": 60.26,
+            "percentReporting": "4"
           },
           {
             "name": "CGTC",
             "totalVoters": 4993,
-            "ballotsCast": 2520,
-            "voterTurnout": 50.47,
-            "percentReporting": "2"
+            "ballotsCast": 3317,
+            "voterTurnout": 66.43,
+            "percentReporting": "4"
           },
           {
             "name": "FMMS",
             "totalVoters": 8962,
-            "ballotsCast": 3941,
-            "voterTurnout": 43.97,
-            "percentReporting": "2"
+            "ballotsCast": 5685,
+            "voterTurnout": 63.43,
+            "percentReporting": "4"
           },
           {
             "name": "HAFS",
             "totalVoters": 1852,
-            "ballotsCast": 578,
-            "voterTurnout": 31.21,
-            "percentReporting": "2"
+            "ballotsCast": 1293,
+            "voterTurnout": 69.82,
+            "percentReporting": "4"
           },
           {
             "name": "HCTC",
             "totalVoters": 6527,
-            "ballotsCast": 2349,
-            "voterTurnout": 35.99,
-            "percentReporting": "2"
+            "ballotsCast": 3269,
+            "voterTurnout": 50.08,
+            "percentReporting": "4"
           },
           {
             "name": "HEFS",
@@ -76,16 +76,16 @@
           {
             "name": "MCMS",
             "totalVoters": 9387,
-            "ballotsCast": 4440,
-            "voterTurnout": 47.3,
-            "percentReporting": "2"
+            "ballotsCast": 6223,
+            "voterTurnout": 66.29,
+            "percentReporting": "4"
           },
           {
             "name": "NSES",
             "totalVoters": 2505,
-            "ballotsCast": 1099,
-            "voterTurnout": 43.87,
-            "percentReporting": "2"
+            "ballotsCast": 1627,
+            "voterTurnout": 64.95,
+            "percentReporting": "4"
           },
           {
             "name": "RECR",
@@ -104,9 +104,9 @@
           {
             "name": "TMS",
             "totalVoters": 5445,
-            "ballotsCast": 2230,
-            "voterTurnout": 40.96,
-            "percentReporting": "2"
+            "ballotsCast": 3105,
+            "voterTurnout": 57.02,
+            "percentReporting": "4"
           },
           {
             "name": "TWPK",
@@ -118,9 +118,9 @@
           {
             "name": "VHS",
             "totalVoters": 6495,
-            "ballotsCast": 2855,
-            "voterTurnout": 43.96,
-            "percentReporting": "2"
+            "ballotsCast": 4335,
+            "voterTurnout": 66.74,
+            "percentReporting": "4"
           }
         ]
       }
@@ -132,15 +132,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 16,
-        "precinctsReported": 0,
+        "precinctsReported": 10,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 54,
+            "votes": 68,
             "Precinct": [
               {
                 "name": "ANNX",
-                "votes": 4
+                "votes": 5
               },
               {
                 "name": "BMS",
@@ -148,23 +148,23 @@
               },
               {
                 "name": "CENT",
-                "votes": 3
+                "votes": 5
               },
               {
                 "name": "CGTC",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "FMMS",
-                "votes": 2
+                "votes": 4
               },
               {
                 "name": "HAFS",
-                "votes": 0
+                "votes": 5
               },
               {
                 "name": "HCTC",
-                "votes": 2
+                "votes": 4
               },
               {
                 "name": "HEFS",
@@ -176,7 +176,7 @@
               },
               {
                 "name": "MCMS",
-                "votes": 4
+                "votes": 5
               },
               {
                 "name": "NSES",
@@ -279,15 +279,15 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 23366,
+            "totalVotes": 31171,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 7805,
                 "Precinct": [
                   {
                     "name": "ANNX",
-                    "votes": 0
+                    "votes": 534
                   },
                   {
                     "name": "BMS",
@@ -295,23 +295,23 @@
                   },
                   {
                     "name": "CENT",
-                    "votes": 0
+                    "votes": 1044
                   },
                   {
                     "name": "CGTC",
-                    "votes": 0
+                    "votes": 573
                   },
                   {
                     "name": "FMMS",
-                    "votes": 0
+                    "votes": 1177
                   },
                   {
                     "name": "HAFS",
-                    "votes": 0
+                    "votes": 625
                   },
                   {
                     "name": "HCTC",
-                    "votes": 0
+                    "votes": 506
                   },
                   {
                     "name": "HEFS",
@@ -323,11 +323,11 @@
                   },
                   {
                     "name": "MCMS",
-                    "votes": 0
+                    "votes": 1329
                   },
                   {
                     "name": "NSES",
-                    "votes": 0
+                    "votes": 403
                   },
                   {
                     "name": "RECR",
@@ -339,7 +339,7 @@
                   },
                   {
                     "name": "TMS",
-                    "votes": 0
+                    "votes": 445
                   },
                   {
                     "name": "TWPK",
@@ -347,7 +347,7 @@
                   },
                   {
                     "name": "VHS",
-                    "votes": 0
+                    "votes": 1169
                   }
                 ]
               },
@@ -566,15 +566,15 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 22404,
+            "totalVotes": 25683,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 3279,
                 "Precinct": [
                   {
                     "name": "ANNX",
-                    "votes": 0
+                    "votes": 195
                   },
                   {
                     "name": "BMS",
@@ -582,23 +582,23 @@
                   },
                   {
                     "name": "CENT",
-                    "votes": 0
+                    "votes": 480
                   },
                   {
                     "name": "CGTC",
-                    "votes": 0
+                    "votes": 223
                   },
                   {
                     "name": "FMMS",
-                    "votes": 0
+                    "votes": 565
                   },
                   {
                     "name": "HAFS",
-                    "votes": 0
+                    "votes": 85
                   },
                   {
                     "name": "HCTC",
-                    "votes": 0
+                    "votes": 412
                   },
                   {
                     "name": "HEFS",
@@ -610,11 +610,11 @@
                   },
                   {
                     "name": "MCMS",
-                    "votes": 0
+                    "votes": 453
                   },
                   {
                     "name": "NSES",
-                    "votes": 0
+                    "votes": 125
                   },
                   {
                     "name": "RECR",
@@ -626,7 +626,7 @@
                   },
                   {
                     "name": "TMS",
-                    "votes": 0
+                    "votes": 430
                   },
                   {
                     "name": "TWPK",
@@ -634,7 +634,7 @@
                   },
                   {
                     "name": "VHS",
-                    "votes": 0
+                    "votes": 311
                   }
                 ]
               },
@@ -858,11 +858,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 16,
-        "precinctsReported": 0,
+        "precinctsReported": 10,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 59,
+            "votes": 65,
             "Precinct": [
               {
                 "name": "ANNX",
@@ -874,11 +874,11 @@
               },
               {
                 "name": "CENT",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "CGTC",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "FMMS",
@@ -902,11 +902,11 @@
               },
               {
                 "name": "MCMS",
-                "votes": 7
+                "votes": 8
               },
               {
                 "name": "NSES",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "RECR",
@@ -926,7 +926,7 @@
               },
               {
                 "name": "VHS",
-                "votes": 4
+                "votes": 6
               }
             ]
           },
@@ -1005,15 +1005,15 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 23278,
+            "totalVotes": 31041,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 7763,
                 "Precinct": [
                   {
                     "name": "ANNX",
-                    "votes": 0
+                    "votes": 530
                   },
                   {
                     "name": "BMS",
@@ -1021,23 +1021,23 @@
                   },
                   {
                     "name": "CENT",
-                    "votes": 0
+                    "votes": 1036
                   },
                   {
                     "name": "CGTC",
-                    "votes": 0
+                    "votes": 572
                   },
                   {
                     "name": "FMMS",
-                    "votes": 0
+                    "votes": 1170
                   },
                   {
                     "name": "HAFS",
-                    "votes": 0
+                    "votes": 625
                   },
                   {
                     "name": "HCTC",
-                    "votes": 0
+                    "votes": 509
                   },
                   {
                     "name": "HEFS",
@@ -1049,11 +1049,11 @@
                   },
                   {
                     "name": "MCMS",
-                    "votes": 0
+                    "votes": 1317
                   },
                   {
                     "name": "NSES",
-                    "votes": 0
+                    "votes": 402
                   },
                   {
                     "name": "RECR",
@@ -1065,7 +1065,7 @@
                   },
                   {
                     "name": "TMS",
-                    "votes": 0
+                    "votes": 437
                   },
                   {
                     "name": "TWPK",
@@ -1073,7 +1073,7 @@
                   },
                   {
                     "name": "VHS",
-                    "votes": 0
+                    "votes": 1165
                   }
                 ]
               },
@@ -1292,15 +1292,15 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 22487,
+            "totalVotes": 25816,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 3329,
                 "Precinct": [
                   {
                     "name": "ANNX",
-                    "votes": 0
+                    "votes": 200
                   },
                   {
                     "name": "BMS",
@@ -1308,23 +1308,23 @@
                   },
                   {
                     "name": "CENT",
-                    "votes": 0
+                    "votes": 489
                   },
                   {
                     "name": "CGTC",
-                    "votes": 0
+                    "votes": 224
                   },
                   {
                     "name": "FMMS",
-                    "votes": 0
+                    "votes": 574
                   },
                   {
                     "name": "HAFS",
-                    "votes": 0
+                    "votes": 90
                   },
                   {
                     "name": "HCTC",
-                    "votes": 0
+                    "votes": 411
                   },
                   {
                     "name": "HEFS",
@@ -1336,11 +1336,11 @@
                   },
                   {
                     "name": "MCMS",
-                    "votes": 0
+                    "votes": 465
                   },
                   {
                     "name": "NSES",
-                    "votes": 0
+                    "votes": 125
                   },
                   {
                     "name": "RECR",
@@ -1352,7 +1352,7 @@
                   },
                   {
                     "name": "TMS",
-                    "votes": 0
+                    "votes": 438
                   },
                   {
                     "name": "TWPK",
@@ -1360,7 +1360,7 @@
                   },
                   {
                     "name": "VHS",
-                    "votes": 0
+                    "votes": 313
                   }
                 ]
               },
@@ -1584,15 +1584,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 16,
-        "precinctsReported": 0,
+        "precinctsReported": 10,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 583,
+            "votes": 655,
             "Precinct": [
               {
                 "name": "ANNX",
-                "votes": 34
+                "votes": 37
               },
               {
                 "name": "BMS",
@@ -1600,23 +1600,23 @@
               },
               {
                 "name": "CENT",
-                "votes": 60
+                "votes": 70
               },
               {
                 "name": "CGTC",
-                "votes": 29
+                "votes": 37
               },
               {
                 "name": "FMMS",
-                "votes": 49
+                "votes": 57
               },
               {
                 "name": "HAFS",
-                "votes": 6
+                "votes": 14
               },
               {
                 "name": "HCTC",
-                "votes": 27
+                "votes": 31
               },
               {
                 "name": "HEFS",
@@ -1628,11 +1628,11 @@
               },
               {
                 "name": "MCMS",
-                "votes": 47
+                "votes": 56
               },
               {
                 "name": "NSES",
-                "votes": 15
+                "votes": 20
               },
               {
                 "name": "RECR",
@@ -1644,7 +1644,7 @@
               },
               {
                 "name": "TMS",
-                "votes": 27
+                "votes": 34
               },
               {
                 "name": "TWPK",
@@ -1652,7 +1652,7 @@
               },
               {
                 "name": "VHS",
-                "votes": 31
+                "votes": 41
               }
             ]
           },
@@ -1731,15 +1731,15 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 23433,
+            "totalVotes": 31289,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 7856,
                 "Precinct": [
                   {
                     "name": "ANNX",
-                    "votes": 0
+                    "votes": 539
                   },
                   {
                     "name": "BMS",
@@ -1747,23 +1747,23 @@
                   },
                   {
                     "name": "CENT",
-                    "votes": 0
+                    "votes": 1055
                   },
                   {
                     "name": "CGTC",
-                    "votes": 0
+                    "votes": 570
                   },
                   {
                     "name": "FMMS",
-                    "votes": 0
+                    "votes": 1193
                   },
                   {
                     "name": "HAFS",
-                    "votes": 0
+                    "votes": 621
                   },
                   {
                     "name": "HCTC",
-                    "votes": 0
+                    "votes": 521
                   },
                   {
                     "name": "HEFS",
@@ -1775,11 +1775,11 @@
                   },
                   {
                     "name": "MCMS",
-                    "votes": 0
+                    "votes": 1349
                   },
                   {
                     "name": "NSES",
-                    "votes": 0
+                    "votes": 400
                   },
                   {
                     "name": "RECR",
@@ -1791,7 +1791,7 @@
                   },
                   {
                     "name": "TMS",
-                    "votes": 0
+                    "votes": 441
                   },
                   {
                     "name": "TWPK",
@@ -1799,7 +1799,7 @@
                   },
                   {
                     "name": "VHS",
-                    "votes": 0
+                    "votes": 1167
                   }
                 ]
               },
@@ -2018,15 +2018,15 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 21806,
+            "totalVotes": 24975,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 3169,
                 "Precinct": [
                   {
                     "name": "ANNX",
-                    "votes": 0
+                    "votes": 188
                   },
                   {
                     "name": "BMS",
@@ -2034,23 +2034,23 @@
                   },
                   {
                     "name": "CENT",
-                    "votes": 0
+                    "votes": 461
                   },
                   {
                     "name": "CGTC",
-                    "votes": 0
+                    "votes": 219
                   },
                   {
                     "name": "FMMS",
-                    "votes": 0
+                    "votes": 543
                   },
                   {
                     "name": "HAFS",
-                    "votes": 0
+                    "votes": 86
                   },
                   {
                     "name": "HCTC",
-                    "votes": 0
+                    "votes": 395
                   },
                   {
                     "name": "HEFS",
@@ -2062,11 +2062,11 @@
                   },
                   {
                     "name": "MCMS",
-                    "votes": 0
+                    "votes": 424
                   },
                   {
                     "name": "NSES",
-                    "votes": 0
+                    "votes": 123
                   },
                   {
                     "name": "RECR",
@@ -2078,7 +2078,7 @@
                   },
                   {
                     "name": "TMS",
-                    "votes": 0
+                    "votes": 427
                   },
                   {
                     "name": "TWPK",
@@ -2086,7 +2086,7 @@
                   },
                   {
                     "name": "VHS",
-                    "votes": 0
+                    "votes": 303
                   }
                 ]
               },

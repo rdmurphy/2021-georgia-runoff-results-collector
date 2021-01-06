@@ -1,0 +1,1928 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 9:02:07 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Liberty",
+    "VoterTurnout": {
+      "totalVoters": 37354,
+      "ballotsCast": 15723,
+      "voterTurnout": 42.09,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Riceboro Youth Center",
+            "totalVoters": 1104,
+            "ballotsCast": 748,
+            "voterTurnout": 67.75,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Lyman Hall School",
+            "totalVoters": 4729,
+            "ballotsCast": 2058,
+            "voterTurnout": 43.52,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Lewis Frasier School",
+            "totalVoters": 4482,
+            "ballotsCast": 2491,
+            "voterTurnout": 55.58,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Memorial Dr East",
+            "totalVoters": 2183,
+            "ballotsCast": 730,
+            "voterTurnout": 33.44,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Button Gwinnett",
+            "totalVoters": 2489,
+            "ballotsCast": 217,
+            "voterTurnout": 8.72,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Town of Allenhurst",
+            "totalVoters": 2537,
+            "ballotsCast": 1061,
+            "voterTurnout": 41.82,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Hinesville",
+            "totalVoters": 2093,
+            "ballotsCast": 1045,
+            "voterTurnout": 49.93,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Liberty County Complex",
+            "totalVoters": 4480,
+            "ballotsCast": 2228,
+            "voterTurnout": 49.73,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Walthourville",
+            "totalVoters": 3189,
+            "ballotsCast": 1189,
+            "voterTurnout": 37.28,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Fleming West",
+            "totalVoters": 525,
+            "ballotsCast": 324,
+            "voterTurnout": 61.71,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Fleming East",
+            "totalVoters": 3357,
+            "ballotsCast": 1325,
+            "voterTurnout": 39.47,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Gum Branch",
+            "totalVoters": 3435,
+            "ballotsCast": 955,
+            "voterTurnout": 27.8,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Hinesville Lodge 271",
+            "totalVoters": 2751,
+            "ballotsCast": 1352,
+            "voterTurnout": 49.15,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 13,
+        "precinctsReported": 6,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 36,
+            "Precinct": [
+              {
+                "name": "Riceboro Youth Center",
+                "votes": 4
+              },
+              {
+                "name": "Lyman Hall School",
+                "votes": 4
+              },
+              {
+                "name": "Lewis Frasier School",
+                "votes": 2
+              },
+              {
+                "name": "Memorial Dr East",
+                "votes": 4
+              },
+              {
+                "name": "Button Gwinnett",
+                "votes": 0
+              },
+              {
+                "name": "Town of Allenhurst",
+                "votes": 1
+              },
+              {
+                "name": "Hinesville",
+                "votes": 2
+              },
+              {
+                "name": "Liberty County Complex",
+                "votes": 9
+              },
+              {
+                "name": "Walthourville",
+                "votes": 0
+              },
+              {
+                "name": "Fleming West",
+                "votes": 2
+              },
+              {
+                "name": "Fleming East",
+                "votes": 3
+              },
+              {
+                "name": "Gum Branch",
+                "votes": 3
+              },
+              {
+                "name": "Hinesville Lodge 271",
+                "votes": 2
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 1,
+            "Precinct": [
+              {
+                "name": "Riceboro Youth Center",
+                "votes": 0
+              },
+              {
+                "name": "Lyman Hall School",
+                "votes": 0
+              },
+              {
+                "name": "Lewis Frasier School",
+                "votes": 0
+              },
+              {
+                "name": "Memorial Dr East",
+                "votes": 1
+              },
+              {
+                "name": "Button Gwinnett",
+                "votes": 0
+              },
+              {
+                "name": "Town of Allenhurst",
+                "votes": 0
+              },
+              {
+                "name": "Hinesville",
+                "votes": 0
+              },
+              {
+                "name": "Liberty County Complex",
+                "votes": 0
+              },
+              {
+                "name": "Walthourville",
+                "votes": 0
+              },
+              {
+                "name": "Fleming West",
+                "votes": 0
+              },
+              {
+                "name": "Fleming East",
+                "votes": 0
+              },
+              {
+                "name": "Gum Branch",
+                "votes": 0
+              },
+              {
+                "name": "Hinesville Lodge 271",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 4914,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 688,
+                "Precinct": [
+                  {
+                    "name": "Riceboro Youth Center",
+                    "votes": 52
+                  },
+                  {
+                    "name": "Lyman Hall School",
+                    "votes": 132
+                  },
+                  {
+                    "name": "Lewis Frasier School",
+                    "votes": 238
+                  },
+                  {
+                    "name": "Memorial Dr East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Button Gwinnett",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town of Allenhurst",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinesville",
+                    "votes": 140
+                  },
+                  {
+                    "name": "Liberty County Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Walthourville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fleming West",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Fleming East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Branch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinesville Lodge 271",
+                    "votes": 100
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 3335,
+                "Precinct": [
+                  {
+                    "name": "Riceboro Youth Center",
+                    "votes": 68
+                  },
+                  {
+                    "name": "Lyman Hall School",
+                    "votes": 228
+                  },
+                  {
+                    "name": "Lewis Frasier School",
+                    "votes": 478
+                  },
+                  {
+                    "name": "Memorial Dr East",
+                    "votes": 85
+                  },
+                  {
+                    "name": "Button Gwinnett",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Town of Allenhurst",
+                    "votes": 138
+                  },
+                  {
+                    "name": "Hinesville",
+                    "votes": 266
+                  },
+                  {
+                    "name": "Liberty County Complex",
+                    "votes": 751
+                  },
+                  {
+                    "name": "Walthourville",
+                    "votes": 146
+                  },
+                  {
+                    "name": "Fleming West",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Fleming East",
+                    "votes": 694
+                  },
+                  {
+                    "name": "Gum Branch",
+                    "votes": 241
+                  },
+                  {
+                    "name": "Hinesville Lodge 271",
+                    "votes": 165
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 891,
+                "Precinct": [
+                  {
+                    "name": "Riceboro Youth Center",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Lyman Hall School",
+                    "votes": 84
+                  },
+                  {
+                    "name": "Lewis Frasier School",
+                    "votes": 118
+                  },
+                  {
+                    "name": "Memorial Dr East",
+                    "votes": 22
+                  },
+                  {
+                    "name": "Button Gwinnett",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Town of Allenhurst",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Hinesville",
+                    "votes": 68
+                  },
+                  {
+                    "name": "Liberty County Complex",
+                    "votes": 137
+                  },
+                  {
+                    "name": "Walthourville",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Fleming West",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Fleming East",
+                    "votes": 153
+                  },
+                  {
+                    "name": "Gum Branch",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Hinesville Lodge 271",
+                    "votes": 79
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Riceboro Youth Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lyman Hall School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lewis Frasier School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Memorial Dr East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Button Gwinnett",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town of Allenhurst",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinesville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Liberty County Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Walthourville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fleming West",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fleming East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Branch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinesville Lodge 271",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 10772,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1043,
+                "Precinct": [
+                  {
+                    "name": "Riceboro Youth Center",
+                    "votes": 122
+                  },
+                  {
+                    "name": "Lyman Hall School",
+                    "votes": 308
+                  },
+                  {
+                    "name": "Lewis Frasier School",
+                    "votes": 270
+                  },
+                  {
+                    "name": "Memorial Dr East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Button Gwinnett",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town of Allenhurst",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinesville",
+                    "votes": 108
+                  },
+                  {
+                    "name": "Liberty County Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Walthourville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fleming West",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Fleming East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Branch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinesville Lodge 271",
+                    "votes": 194
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 6084,
+                "Precinct": [
+                  {
+                    "name": "Riceboro Youth Center",
+                    "votes": 293
+                  },
+                  {
+                    "name": "Lyman Hall School",
+                    "votes": 790
+                  },
+                  {
+                    "name": "Lewis Frasier School",
+                    "votes": 865
+                  },
+                  {
+                    "name": "Memorial Dr East",
+                    "votes": 385
+                  },
+                  {
+                    "name": "Button Gwinnett",
+                    "votes": 91
+                  },
+                  {
+                    "name": "Town of Allenhurst",
+                    "votes": 574
+                  },
+                  {
+                    "name": "Hinesville",
+                    "votes": 295
+                  },
+                  {
+                    "name": "Liberty County Complex",
+                    "votes": 849
+                  },
+                  {
+                    "name": "Walthourville",
+                    "votes": 679
+                  },
+                  {
+                    "name": "Fleming West",
+                    "votes": 115
+                  },
+                  {
+                    "name": "Fleming East",
+                    "votes": 285
+                  },
+                  {
+                    "name": "Gum Branch",
+                    "votes": 388
+                  },
+                  {
+                    "name": "Hinesville Lodge 271",
+                    "votes": 475
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 3645,
+                "Precinct": [
+                  {
+                    "name": "Riceboro Youth Center",
+                    "votes": 193
+                  },
+                  {
+                    "name": "Lyman Hall School",
+                    "votes": 512
+                  },
+                  {
+                    "name": "Lewis Frasier School",
+                    "votes": 520
+                  },
+                  {
+                    "name": "Memorial Dr East",
+                    "votes": 233
+                  },
+                  {
+                    "name": "Button Gwinnett",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Town of Allenhurst",
+                    "votes": 290
+                  },
+                  {
+                    "name": "Hinesville",
+                    "votes": 166
+                  },
+                  {
+                    "name": "Liberty County Complex",
+                    "votes": 482
+                  },
+                  {
+                    "name": "Walthourville",
+                    "votes": 314
+                  },
+                  {
+                    "name": "Fleming West",
+                    "votes": 91
+                  },
+                  {
+                    "name": "Fleming East",
+                    "votes": 190
+                  },
+                  {
+                    "name": "Gum Branch",
+                    "votes": 253
+                  },
+                  {
+                    "name": "Hinesville Lodge 271",
+                    "votes": 337
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Riceboro Youth Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lyman Hall School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lewis Frasier School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Memorial Dr East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Button Gwinnett",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town of Allenhurst",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinesville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Liberty County Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Walthourville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fleming West",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fleming East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Branch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinesville Lodge 271",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 13,
+        "precinctsReported": 6,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 22,
+            "Precinct": [
+              {
+                "name": "Riceboro Youth Center",
+                "votes": 0
+              },
+              {
+                "name": "Lyman Hall School",
+                "votes": 5
+              },
+              {
+                "name": "Lewis Frasier School",
+                "votes": 2
+              },
+              {
+                "name": "Memorial Dr East",
+                "votes": 2
+              },
+              {
+                "name": "Button Gwinnett",
+                "votes": 0
+              },
+              {
+                "name": "Town of Allenhurst",
+                "votes": 0
+              },
+              {
+                "name": "Hinesville",
+                "votes": 2
+              },
+              {
+                "name": "Liberty County Complex",
+                "votes": 5
+              },
+              {
+                "name": "Walthourville",
+                "votes": 1
+              },
+              {
+                "name": "Fleming West",
+                "votes": 0
+              },
+              {
+                "name": "Fleming East",
+                "votes": 2
+              },
+              {
+                "name": "Gum Branch",
+                "votes": 2
+              },
+              {
+                "name": "Hinesville Lodge 271",
+                "votes": 1
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Riceboro Youth Center",
+                "votes": 0
+              },
+              {
+                "name": "Lyman Hall School",
+                "votes": 0
+              },
+              {
+                "name": "Lewis Frasier School",
+                "votes": 0
+              },
+              {
+                "name": "Memorial Dr East",
+                "votes": 0
+              },
+              {
+                "name": "Button Gwinnett",
+                "votes": 0
+              },
+              {
+                "name": "Town of Allenhurst",
+                "votes": 0
+              },
+              {
+                "name": "Hinesville",
+                "votes": 0
+              },
+              {
+                "name": "Liberty County Complex",
+                "votes": 0
+              },
+              {
+                "name": "Walthourville",
+                "votes": 0
+              },
+              {
+                "name": "Fleming West",
+                "votes": 0
+              },
+              {
+                "name": "Fleming East",
+                "votes": 0
+              },
+              {
+                "name": "Gum Branch",
+                "votes": 0
+              },
+              {
+                "name": "Hinesville Lodge 271",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 4893,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 695,
+                "Precinct": [
+                  {
+                    "name": "Riceboro Youth Center",
+                    "votes": 52
+                  },
+                  {
+                    "name": "Lyman Hall School",
+                    "votes": 137
+                  },
+                  {
+                    "name": "Lewis Frasier School",
+                    "votes": 237
+                  },
+                  {
+                    "name": "Memorial Dr East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Button Gwinnett",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town of Allenhurst",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinesville",
+                    "votes": 140
+                  },
+                  {
+                    "name": "Liberty County Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Walthourville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fleming West",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Fleming East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Branch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinesville Lodge 271",
+                    "votes": 103
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 3322,
+                "Precinct": [
+                  {
+                    "name": "Riceboro Youth Center",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Lyman Hall School",
+                    "votes": 225
+                  },
+                  {
+                    "name": "Lewis Frasier School",
+                    "votes": 478
+                  },
+                  {
+                    "name": "Memorial Dr East",
+                    "votes": 83
+                  },
+                  {
+                    "name": "Button Gwinnett",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Town of Allenhurst",
+                    "votes": 137
+                  },
+                  {
+                    "name": "Hinesville",
+                    "votes": 260
+                  },
+                  {
+                    "name": "Liberty County Complex",
+                    "votes": 750
+                  },
+                  {
+                    "name": "Walthourville",
+                    "votes": 146
+                  },
+                  {
+                    "name": "Fleming West",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Fleming East",
+                    "votes": 694
+                  },
+                  {
+                    "name": "Gum Branch",
+                    "votes": 241
+                  },
+                  {
+                    "name": "Hinesville Lodge 271",
+                    "votes": 165
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 876,
+                "Precinct": [
+                  {
+                    "name": "Riceboro Youth Center",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Lyman Hall School",
+                    "votes": 79
+                  },
+                  {
+                    "name": "Lewis Frasier School",
+                    "votes": 117
+                  },
+                  {
+                    "name": "Memorial Dr East",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Button Gwinnett",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Town of Allenhurst",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Hinesville",
+                    "votes": 68
+                  },
+                  {
+                    "name": "Liberty County Complex",
+                    "votes": 134
+                  },
+                  {
+                    "name": "Walthourville",
+                    "votes": 48
+                  },
+                  {
+                    "name": "Fleming West",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Fleming East",
+                    "votes": 153
+                  },
+                  {
+                    "name": "Gum Branch",
+                    "votes": 69
+                  },
+                  {
+                    "name": "Hinesville Lodge 271",
+                    "votes": 79
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Riceboro Youth Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lyman Hall School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lewis Frasier School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Memorial Dr East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Button Gwinnett",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town of Allenhurst",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinesville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Liberty County Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Walthourville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fleming West",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fleming East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Branch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinesville Lodge 271",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 10808,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1040,
+                "Precinct": [
+                  {
+                    "name": "Riceboro Youth Center",
+                    "votes": 124
+                  },
+                  {
+                    "name": "Lyman Hall School",
+                    "votes": 303
+                  },
+                  {
+                    "name": "Lewis Frasier School",
+                    "votes": 272
+                  },
+                  {
+                    "name": "Memorial Dr East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Button Gwinnett",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town of Allenhurst",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinesville",
+                    "votes": 108
+                  },
+                  {
+                    "name": "Liberty County Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Walthourville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fleming West",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Fleming East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Branch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinesville Lodge 271",
+                    "votes": 191
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 6109,
+                "Precinct": [
+                  {
+                    "name": "Riceboro Youth Center",
+                    "votes": 296
+                  },
+                  {
+                    "name": "Lyman Hall School",
+                    "votes": 795
+                  },
+                  {
+                    "name": "Lewis Frasier School",
+                    "votes": 864
+                  },
+                  {
+                    "name": "Memorial Dr East",
+                    "votes": 389
+                  },
+                  {
+                    "name": "Button Gwinnett",
+                    "votes": 91
+                  },
+                  {
+                    "name": "Town of Allenhurst",
+                    "votes": 575
+                  },
+                  {
+                    "name": "Hinesville",
+                    "votes": 302
+                  },
+                  {
+                    "name": "Liberty County Complex",
+                    "votes": 854
+                  },
+                  {
+                    "name": "Walthourville",
+                    "votes": 678
+                  },
+                  {
+                    "name": "Fleming West",
+                    "votes": 115
+                  },
+                  {
+                    "name": "Fleming East",
+                    "votes": 286
+                  },
+                  {
+                    "name": "Gum Branch",
+                    "votes": 388
+                  },
+                  {
+                    "name": "Hinesville Lodge 271",
+                    "votes": 476
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 3659,
+                "Precinct": [
+                  {
+                    "name": "Riceboro Youth Center",
+                    "votes": 193
+                  },
+                  {
+                    "name": "Lyman Hall School",
+                    "votes": 514
+                  },
+                  {
+                    "name": "Lewis Frasier School",
+                    "votes": 521
+                  },
+                  {
+                    "name": "Memorial Dr East",
+                    "votes": 236
+                  },
+                  {
+                    "name": "Button Gwinnett",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Town of Allenhurst",
+                    "votes": 291
+                  },
+                  {
+                    "name": "Hinesville",
+                    "votes": 165
+                  },
+                  {
+                    "name": "Liberty County Complex",
+                    "votes": 485
+                  },
+                  {
+                    "name": "Walthourville",
+                    "votes": 316
+                  },
+                  {
+                    "name": "Fleming West",
+                    "votes": 92
+                  },
+                  {
+                    "name": "Fleming East",
+                    "votes": 190
+                  },
+                  {
+                    "name": "Gum Branch",
+                    "votes": 255
+                  },
+                  {
+                    "name": "Hinesville Lodge 271",
+                    "votes": 337
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Riceboro Youth Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lyman Hall School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lewis Frasier School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Memorial Dr East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Button Gwinnett",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town of Allenhurst",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinesville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Liberty County Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Walthourville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fleming West",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fleming East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Branch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinesville Lodge 271",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 13,
+        "precinctsReported": 6,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 228,
+            "Precinct": [
+              {
+                "name": "Riceboro Youth Center",
+                "votes": 21
+              },
+              {
+                "name": "Lyman Hall School",
+                "votes": 20
+              },
+              {
+                "name": "Lewis Frasier School",
+                "votes": 26
+              },
+              {
+                "name": "Memorial Dr East",
+                "votes": 13
+              },
+              {
+                "name": "Button Gwinnett",
+                "votes": 3
+              },
+              {
+                "name": "Town of Allenhurst",
+                "votes": 10
+              },
+              {
+                "name": "Hinesville",
+                "votes": 17
+              },
+              {
+                "name": "Liberty County Complex",
+                "votes": 41
+              },
+              {
+                "name": "Walthourville",
+                "votes": 13
+              },
+              {
+                "name": "Fleming West",
+                "votes": 6
+              },
+              {
+                "name": "Fleming East",
+                "votes": 29
+              },
+              {
+                "name": "Gum Branch",
+                "votes": 15
+              },
+              {
+                "name": "Hinesville Lodge 271",
+                "votes": 14
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Riceboro Youth Center",
+                "votes": 0
+              },
+              {
+                "name": "Lyman Hall School",
+                "votes": 0
+              },
+              {
+                "name": "Lewis Frasier School",
+                "votes": 0
+              },
+              {
+                "name": "Memorial Dr East",
+                "votes": 0
+              },
+              {
+                "name": "Button Gwinnett",
+                "votes": 0
+              },
+              {
+                "name": "Town of Allenhurst",
+                "votes": 0
+              },
+              {
+                "name": "Hinesville",
+                "votes": 0
+              },
+              {
+                "name": "Liberty County Complex",
+                "votes": 0
+              },
+              {
+                "name": "Walthourville",
+                "votes": 0
+              },
+              {
+                "name": "Fleming West",
+                "votes": 0
+              },
+              {
+                "name": "Fleming East",
+                "votes": 0
+              },
+              {
+                "name": "Gum Branch",
+                "votes": 0
+              },
+              {
+                "name": "Hinesville Lodge 271",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 4925,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 676,
+                "Precinct": [
+                  {
+                    "name": "Riceboro Youth Center",
+                    "votes": 48
+                  },
+                  {
+                    "name": "Lyman Hall School",
+                    "votes": 131
+                  },
+                  {
+                    "name": "Lewis Frasier School",
+                    "votes": 232
+                  },
+                  {
+                    "name": "Memorial Dr East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Button Gwinnett",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town of Allenhurst",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinesville",
+                    "votes": 140
+                  },
+                  {
+                    "name": "Liberty County Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Walthourville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fleming West",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Fleming East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Branch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinesville Lodge 271",
+                    "votes": 100
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 3345,
+                "Precinct": [
+                  {
+                    "name": "Riceboro Youth Center",
+                    "votes": 66
+                  },
+                  {
+                    "name": "Lyman Hall School",
+                    "votes": 235
+                  },
+                  {
+                    "name": "Lewis Frasier School",
+                    "votes": 480
+                  },
+                  {
+                    "name": "Memorial Dr East",
+                    "votes": 86
+                  },
+                  {
+                    "name": "Button Gwinnett",
+                    "votes": 44
+                  },
+                  {
+                    "name": "Town of Allenhurst",
+                    "votes": 146
+                  },
+                  {
+                    "name": "Hinesville",
+                    "votes": 260
+                  },
+                  {
+                    "name": "Liberty County Complex",
+                    "votes": 745
+                  },
+                  {
+                    "name": "Walthourville",
+                    "votes": 150
+                  },
+                  {
+                    "name": "Fleming West",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Fleming East",
+                    "votes": 686
+                  },
+                  {
+                    "name": "Gum Branch",
+                    "votes": 245
+                  },
+                  {
+                    "name": "Hinesville Lodge 271",
+                    "votes": 168
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 904,
+                "Precinct": [
+                  {
+                    "name": "Riceboro Youth Center",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Lyman Hall School",
+                    "votes": 82
+                  },
+                  {
+                    "name": "Lewis Frasier School",
+                    "votes": 123
+                  },
+                  {
+                    "name": "Memorial Dr East",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Button Gwinnett",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Town of Allenhurst",
+                    "votes": 63
+                  },
+                  {
+                    "name": "Hinesville",
+                    "votes": 69
+                  },
+                  {
+                    "name": "Liberty County Complex",
+                    "votes": 138
+                  },
+                  {
+                    "name": "Walthourville",
+                    "votes": 47
+                  },
+                  {
+                    "name": "Fleming West",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Fleming East",
+                    "votes": 156
+                  },
+                  {
+                    "name": "Gum Branch",
+                    "votes": 68
+                  },
+                  {
+                    "name": "Hinesville Lodge 271",
+                    "votes": 83
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Riceboro Youth Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lyman Hall School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lewis Frasier School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Memorial Dr East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Button Gwinnett",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town of Allenhurst",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinesville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Liberty County Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Walthourville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fleming West",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fleming East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Branch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinesville Lodge 271",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 10570,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1033,
+                "Precinct": [
+                  {
+                    "name": "Riceboro Youth Center",
+                    "votes": 122
+                  },
+                  {
+                    "name": "Lyman Hall School",
+                    "votes": 305
+                  },
+                  {
+                    "name": "Lewis Frasier School",
+                    "votes": 269
+                  },
+                  {
+                    "name": "Memorial Dr East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Button Gwinnett",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town of Allenhurst",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinesville",
+                    "votes": 106
+                  },
+                  {
+                    "name": "Liberty County Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Walthourville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fleming West",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Fleming East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Branch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinesville Lodge 271",
+                    "votes": 190
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 5979,
+                "Precinct": [
+                  {
+                    "name": "Riceboro Youth Center",
+                    "votes": 288
+                  },
+                  {
+                    "name": "Lyman Hall School",
+                    "votes": 780
+                  },
+                  {
+                    "name": "Lewis Frasier School",
+                    "votes": 852
+                  },
+                  {
+                    "name": "Memorial Dr East",
+                    "votes": 379
+                  },
+                  {
+                    "name": "Button Gwinnett",
+                    "votes": 88
+                  },
+                  {
+                    "name": "Town of Allenhurst",
+                    "votes": 561
+                  },
+                  {
+                    "name": "Hinesville",
+                    "votes": 295
+                  },
+                  {
+                    "name": "Liberty County Complex",
+                    "votes": 833
+                  },
+                  {
+                    "name": "Walthourville",
+                    "votes": 667
+                  },
+                  {
+                    "name": "Fleming West",
+                    "votes": 111
+                  },
+                  {
+                    "name": "Fleming East",
+                    "votes": 282
+                  },
+                  {
+                    "name": "Gum Branch",
+                    "votes": 376
+                  },
+                  {
+                    "name": "Hinesville Lodge 271",
+                    "votes": 467
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 3558,
+                "Precinct": [
+                  {
+                    "name": "Riceboro Youth Center",
+                    "votes": 187
+                  },
+                  {
+                    "name": "Lyman Hall School",
+                    "votes": 505
+                  },
+                  {
+                    "name": "Lewis Frasier School",
+                    "votes": 509
+                  },
+                  {
+                    "name": "Memorial Dr East",
+                    "votes": 228
+                  },
+                  {
+                    "name": "Button Gwinnett",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Town of Allenhurst",
+                    "votes": 281
+                  },
+                  {
+                    "name": "Hinesville",
+                    "votes": 158
+                  },
+                  {
+                    "name": "Liberty County Complex",
+                    "votes": 471
+                  },
+                  {
+                    "name": "Walthourville",
+                    "votes": 312
+                  },
+                  {
+                    "name": "Fleming West",
+                    "votes": 92
+                  },
+                  {
+                    "name": "Fleming East",
+                    "votes": 172
+                  },
+                  {
+                    "name": "Gum Branch",
+                    "votes": 251
+                  },
+                  {
+                    "name": "Hinesville Lodge 271",
+                    "votes": 330
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Riceboro Youth Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lyman Hall School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lewis Frasier School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Memorial Dr East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Button Gwinnett",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Town of Allenhurst",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinesville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Liberty County Complex",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Walthourville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fleming West",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Fleming East",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gum Branch",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hinesville Lodge 271",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

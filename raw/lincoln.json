@@ -1,0 +1,1166 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 9:02:50 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Lincoln",
+    "VoterTurnout": {
+      "totalVoters": 6223,
+      "ballotsCast": 0,
+      "voterTurnout": 0.0,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Midway",
+            "totalVoters": 600,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Lincoln Club House",
+            "totalVoters": 801,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Lincoln Center",
+            "totalVoters": 1483,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Faith Temple of Lincoln",
+            "totalVoters": 495,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Tabernacle",
+            "totalVoters": 1011,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Bethany Church",
+            "totalVoters": 583,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          },
+          {
+            "name": "Martins Crossroad",
+            "totalVoters": 1250,
+            "ballotsCast": 0,
+            "voterTurnout": 0.0,
+            "percentReporting": "1"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 7,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Midway",
+                "votes": 0
+              },
+              {
+                "name": "Lincoln Club House",
+                "votes": 0
+              },
+              {
+                "name": "Lincoln Center",
+                "votes": 0
+              },
+              {
+                "name": "Faith Temple of Lincoln",
+                "votes": 0
+              },
+              {
+                "name": "Tabernacle",
+                "votes": 0
+              },
+              {
+                "name": "Bethany Church",
+                "votes": 0
+              },
+              {
+                "name": "Martins Crossroad",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Midway",
+                "votes": 0
+              },
+              {
+                "name": "Lincoln Club House",
+                "votes": 0
+              },
+              {
+                "name": "Lincoln Center",
+                "votes": 0
+              },
+              {
+                "name": "Faith Temple of Lincoln",
+                "votes": 0
+              },
+              {
+                "name": "Tabernacle",
+                "votes": 0
+              },
+              {
+                "name": "Bethany Church",
+                "votes": 0
+              },
+              {
+                "name": "Martins Crossroad",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 0,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Midway",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Club House",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Temple of Lincoln",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tabernacle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bethany Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martins Crossroad",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Midway",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Club House",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Temple of Lincoln",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tabernacle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bethany Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martins Crossroad",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Midway",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Club House",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Temple of Lincoln",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tabernacle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bethany Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martins Crossroad",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Midway",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Club House",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Temple of Lincoln",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tabernacle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bethany Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martins Crossroad",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 0,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Midway",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Club House",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Temple of Lincoln",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tabernacle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bethany Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martins Crossroad",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Midway",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Club House",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Temple of Lincoln",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tabernacle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bethany Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martins Crossroad",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Midway",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Club House",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Temple of Lincoln",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tabernacle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bethany Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martins Crossroad",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Midway",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Club House",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Temple of Lincoln",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tabernacle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bethany Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martins Crossroad",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 7,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Midway",
+                "votes": 0
+              },
+              {
+                "name": "Lincoln Club House",
+                "votes": 0
+              },
+              {
+                "name": "Lincoln Center",
+                "votes": 0
+              },
+              {
+                "name": "Faith Temple of Lincoln",
+                "votes": 0
+              },
+              {
+                "name": "Tabernacle",
+                "votes": 0
+              },
+              {
+                "name": "Bethany Church",
+                "votes": 0
+              },
+              {
+                "name": "Martins Crossroad",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Midway",
+                "votes": 0
+              },
+              {
+                "name": "Lincoln Club House",
+                "votes": 0
+              },
+              {
+                "name": "Lincoln Center",
+                "votes": 0
+              },
+              {
+                "name": "Faith Temple of Lincoln",
+                "votes": 0
+              },
+              {
+                "name": "Tabernacle",
+                "votes": 0
+              },
+              {
+                "name": "Bethany Church",
+                "votes": 0
+              },
+              {
+                "name": "Martins Crossroad",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 0,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Midway",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Club House",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Temple of Lincoln",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tabernacle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bethany Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martins Crossroad",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Midway",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Club House",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Temple of Lincoln",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tabernacle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bethany Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martins Crossroad",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Midway",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Club House",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Temple of Lincoln",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tabernacle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bethany Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martins Crossroad",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Midway",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Club House",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Temple of Lincoln",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tabernacle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bethany Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martins Crossroad",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 0,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Midway",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Club House",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Temple of Lincoln",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tabernacle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bethany Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martins Crossroad",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Midway",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Club House",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Temple of Lincoln",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tabernacle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bethany Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martins Crossroad",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Midway",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Club House",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Temple of Lincoln",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tabernacle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bethany Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martins Crossroad",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Midway",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Club House",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Temple of Lincoln",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tabernacle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bethany Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martins Crossroad",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 7,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Midway",
+                "votes": 0
+              },
+              {
+                "name": "Lincoln Club House",
+                "votes": 0
+              },
+              {
+                "name": "Lincoln Center",
+                "votes": 0
+              },
+              {
+                "name": "Faith Temple of Lincoln",
+                "votes": 0
+              },
+              {
+                "name": "Tabernacle",
+                "votes": 0
+              },
+              {
+                "name": "Bethany Church",
+                "votes": 0
+              },
+              {
+                "name": "Martins Crossroad",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Midway",
+                "votes": 0
+              },
+              {
+                "name": "Lincoln Club House",
+                "votes": 0
+              },
+              {
+                "name": "Lincoln Center",
+                "votes": 0
+              },
+              {
+                "name": "Faith Temple of Lincoln",
+                "votes": 0
+              },
+              {
+                "name": "Tabernacle",
+                "votes": 0
+              },
+              {
+                "name": "Bethany Church",
+                "votes": 0
+              },
+              {
+                "name": "Martins Crossroad",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 0,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Midway",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Club House",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Temple of Lincoln",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tabernacle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bethany Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martins Crossroad",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Midway",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Club House",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Temple of Lincoln",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tabernacle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bethany Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martins Crossroad",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Midway",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Club House",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Temple of Lincoln",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tabernacle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bethany Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martins Crossroad",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Midway",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Club House",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Temple of Lincoln",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tabernacle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bethany Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martins Crossroad",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 0,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Midway",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Club House",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Temple of Lincoln",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tabernacle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bethany Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martins Crossroad",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Midway",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Club House",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Temple of Lincoln",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tabernacle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bethany Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martins Crossroad",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Midway",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Club House",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Temple of Lincoln",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tabernacle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bethany Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martins Crossroad",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Midway",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Club House",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lincoln Center",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Faith Temple of Lincoln",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tabernacle",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Bethany Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Martins Crossroad",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

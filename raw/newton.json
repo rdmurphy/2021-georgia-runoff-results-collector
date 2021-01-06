@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:54:51 PM EST",
+    "Timestamp": "1/5/2021 9:08:55 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Newton",
     "VoterTurnout": {
       "totalVoters": 80538,
-      "ballotsCast": 24911,
-      "voterTurnout": 30.93,
+      "ballotsCast": 30285,
+      "voterTurnout": 37.6,
       "Precincts": {
         "Precinct": [
           {
@@ -34,9 +34,9 @@
           {
             "name": "Alcovy",
             "totalVoters": 4737,
-            "ballotsCast": 1366,
-            "voterTurnout": 28.84,
-            "percentReporting": "2"
+            "ballotsCast": 2215,
+            "voterTurnout": 46.76,
+            "percentReporting": "4"
           },
           {
             "name": "Covington Mills",
@@ -83,23 +83,23 @@
           {
             "name": "Gum Creek",
             "totalVoters": 4170,
-            "ballotsCast": 1162,
-            "voterTurnout": 27.87,
-            "percentReporting": "2"
+            "ballotsCast": 2193,
+            "voterTurnout": 52.59,
+            "percentReporting": "4"
           },
           {
             "name": "Beaverdam",
             "totalVoters": 5541,
-            "ballotsCast": 1468,
-            "voterTurnout": 26.49,
-            "percentReporting": "2"
+            "ballotsCast": 2276,
+            "voterTurnout": 41.08,
+            "percentReporting": "4"
           },
           {
             "name": "Leguinn",
             "totalVoters": 2206,
-            "ballotsCast": 428,
-            "voterTurnout": 19.4,
-            "percentReporting": "2"
+            "ballotsCast": 1161,
+            "voterTurnout": 52.63,
+            "percentReporting": "4"
           },
           {
             "name": "Mansfield",
@@ -118,9 +118,9 @@
           {
             "name": "Oxford",
             "totalVoters": 2464,
-            "ballotsCast": 422,
-            "voterTurnout": 17.13,
-            "percentReporting": "2"
+            "ballotsCast": 1088,
+            "voterTurnout": 44.16,
+            "percentReporting": "4"
           },
           {
             "name": "Rocky Plains",
@@ -132,9 +132,9 @@
           {
             "name": "Buck Creek",
             "totalVoters": 4912,
-            "ballotsCast": 1197,
-            "voterTurnout": 24.37,
-            "percentReporting": "2"
+            "ballotsCast": 2022,
+            "voterTurnout": 41.16,
+            "percentReporting": "4"
           },
           {
             "name": "Stansells",
@@ -146,9 +146,9 @@
           {
             "name": "Fairview",
             "totalVoters": 3008,
-            "ballotsCast": 671,
-            "voterTurnout": 22.31,
-            "percentReporting": "2"
+            "ballotsCast": 1133,
+            "voterTurnout": 37.67,
+            "percentReporting": "4"
           },
           {
             "name": "Crowell",
@@ -174,11 +174,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 22,
-        "precinctsReported": 8,
+        "precinctsReported": 15,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 27,
+            "votes": 32,
             "Precinct": [
               {
                 "name": "City Pond",
@@ -194,7 +194,7 @@
               },
               {
                 "name": "Alcovy",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Covington Mills",
@@ -222,11 +222,11 @@
               },
               {
                 "name": "Gum Creek",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Beaverdam",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "Leguinn",
@@ -242,7 +242,7 @@
               },
               {
                 "name": "Oxford",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Rocky Plains",
@@ -369,11 +369,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 11650,
+            "totalVotes": 14933,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 4260,
+                "votes": 7543,
                 "Precinct": [
                   {
                     "name": "City Pond",
@@ -389,7 +389,7 @@
                   },
                   {
                     "name": "Alcovy",
-                    "votes": 0
+                    "votes": 541
                   },
                   {
                     "name": "Covington Mills",
@@ -417,15 +417,15 @@
                   },
                   {
                     "name": "Gum Creek",
-                    "votes": 0
+                    "votes": 867
                   },
                   {
                     "name": "Beaverdam",
-                    "votes": 0
+                    "votes": 197
                   },
                   {
                     "name": "Leguinn",
-                    "votes": 0
+                    "votes": 629
                   },
                   {
                     "name": "Mansfield",
@@ -437,7 +437,7 @@
                   },
                   {
                     "name": "Oxford",
-                    "votes": 0
+                    "votes": 533
                   },
                   {
                     "name": "Rocky Plains",
@@ -445,7 +445,7 @@
                   },
                   {
                     "name": "Buck Creek",
-                    "votes": 0
+                    "votes": 456
                   },
                   {
                     "name": "Stansells",
@@ -453,7 +453,7 @@
                   },
                   {
                     "name": "Fairview",
-                    "votes": 0
+                    "votes": 60
                   },
                   {
                     "name": "Crowell",
@@ -752,11 +752,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 13234,
+            "totalVotes": 15320,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1611,
+                "votes": 3697,
                 "Precinct": [
                   {
                     "name": "City Pond",
@@ -772,7 +772,7 @@
                   },
                   {
                     "name": "Alcovy",
-                    "votes": 0
+                    "votes": 307
                   },
                   {
                     "name": "Covington Mills",
@@ -800,15 +800,15 @@
                   },
                   {
                     "name": "Gum Creek",
-                    "votes": 0
+                    "votes": 162
                   },
                   {
                     "name": "Beaverdam",
-                    "votes": 0
+                    "votes": 610
                   },
                   {
                     "name": "Leguinn",
-                    "votes": 0
+                    "votes": 104
                   },
                   {
                     "name": "Mansfield",
@@ -820,7 +820,7 @@
                   },
                   {
                     "name": "Oxford",
-                    "votes": 0
+                    "votes": 132
                   },
                   {
                     "name": "Rocky Plains",
@@ -828,7 +828,7 @@
                   },
                   {
                     "name": "Buck Creek",
-                    "votes": 0
+                    "votes": 369
                   },
                   {
                     "name": "Stansells",
@@ -836,7 +836,7 @@
                   },
                   {
                     "name": "Fairview",
-                    "votes": 0
+                    "votes": 402
                   },
                   {
                     "name": "Crowell",
@@ -1140,11 +1140,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 22,
-        "precinctsReported": 8,
+        "precinctsReported": 15,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 16,
+            "votes": 22,
             "Precinct": [
               {
                 "name": "City Pond",
@@ -1160,7 +1160,7 @@
               },
               {
                 "name": "Alcovy",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Covington Mills",
@@ -1188,11 +1188,11 @@
               },
               {
                 "name": "Gum Creek",
-                "votes": 0
+                "votes": 4
               },
               {
                 "name": "Beaverdam",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Leguinn",
@@ -1335,11 +1335,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 11592,
+            "totalVotes": 14851,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 4243,
+                "votes": 7502,
                 "Precinct": [
                   {
                     "name": "City Pond",
@@ -1355,7 +1355,7 @@
                   },
                   {
                     "name": "Alcovy",
-                    "votes": 0
+                    "votes": 532
                   },
                   {
                     "name": "Covington Mills",
@@ -1383,15 +1383,15 @@
                   },
                   {
                     "name": "Gum Creek",
-                    "votes": 0
+                    "votes": 865
                   },
                   {
                     "name": "Beaverdam",
-                    "votes": 0
+                    "votes": 196
                   },
                   {
                     "name": "Leguinn",
-                    "votes": 0
+                    "votes": 625
                   },
                   {
                     "name": "Mansfield",
@@ -1403,7 +1403,7 @@
                   },
                   {
                     "name": "Oxford",
-                    "votes": 0
+                    "votes": 532
                   },
                   {
                     "name": "Rocky Plains",
@@ -1411,7 +1411,7 @@
                   },
                   {
                     "name": "Buck Creek",
-                    "votes": 0
+                    "votes": 451
                   },
                   {
                     "name": "Stansells",
@@ -1419,7 +1419,7 @@
                   },
                   {
                     "name": "Fairview",
-                    "votes": 0
+                    "votes": 58
                   },
                   {
                     "name": "Crowell",
@@ -1718,11 +1718,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 13303,
+            "totalVotes": 15412,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1632,
+                "votes": 3741,
                 "Precinct": [
                   {
                     "name": "City Pond",
@@ -1738,7 +1738,7 @@
                   },
                   {
                     "name": "Alcovy",
-                    "votes": 0
+                    "votes": 316
                   },
                   {
                     "name": "Covington Mills",
@@ -1766,15 +1766,15 @@
                   },
                   {
                     "name": "Gum Creek",
-                    "votes": 0
+                    "votes": 162
                   },
                   {
                     "name": "Beaverdam",
-                    "votes": 0
+                    "votes": 611
                   },
                   {
                     "name": "Leguinn",
-                    "votes": 0
+                    "votes": 108
                   },
                   {
                     "name": "Mansfield",
@@ -1786,7 +1786,7 @@
                   },
                   {
                     "name": "Oxford",
-                    "votes": 0
+                    "votes": 134
                   },
                   {
                     "name": "Rocky Plains",
@@ -1794,7 +1794,7 @@
                   },
                   {
                     "name": "Buck Creek",
-                    "votes": 0
+                    "votes": 374
                   },
                   {
                     "name": "Stansells",
@@ -1802,7 +1802,7 @@
                   },
                   {
                     "name": "Fairview",
-                    "votes": 0
+                    "votes": 404
                   },
                   {
                     "name": "Crowell",
@@ -2106,11 +2106,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 22,
-        "precinctsReported": 8,
+        "precinctsReported": 15,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 169,
+            "votes": 202,
             "Precinct": [
               {
                 "name": "City Pond",
@@ -2126,7 +2126,7 @@
               },
               {
                 "name": "Alcovy",
-                "votes": 8
+                "votes": 15
               },
               {
                 "name": "Covington Mills",
@@ -2154,15 +2154,15 @@
               },
               {
                 "name": "Gum Creek",
-                "votes": 5
+                "votes": 7
               },
               {
                 "name": "Beaverdam",
-                "votes": 8
+                "votes": 17
               },
               {
                 "name": "Leguinn",
-                "votes": 5
+                "votes": 9
               },
               {
                 "name": "Mansfield",
@@ -2174,7 +2174,7 @@
               },
               {
                 "name": "Oxford",
-                "votes": 2
+                "votes": 6
               },
               {
                 "name": "Rocky Plains",
@@ -2182,7 +2182,7 @@
               },
               {
                 "name": "Buck Creek",
-                "votes": 12
+                "votes": 17
               },
               {
                 "name": "Stansells",
@@ -2190,7 +2190,7 @@
               },
               {
                 "name": "Fairview",
-                "votes": 4
+                "votes": 6
               },
               {
                 "name": "Crowell",
@@ -2301,11 +2301,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 11714,
+            "totalVotes": 15012,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 4269,
+                "votes": 7567,
                 "Precinct": [
                   {
                     "name": "City Pond",
@@ -2321,7 +2321,7 @@
                   },
                   {
                     "name": "Alcovy",
-                    "votes": 0
+                    "votes": 549
                   },
                   {
                     "name": "Covington Mills",
@@ -2349,15 +2349,15 @@
                   },
                   {
                     "name": "Gum Creek",
-                    "votes": 0
+                    "votes": 878
                   },
                   {
                     "name": "Beaverdam",
-                    "votes": 0
+                    "votes": 195
                   },
                   {
                     "name": "Leguinn",
-                    "votes": 0
+                    "votes": 629
                   },
                   {
                     "name": "Mansfield",
@@ -2369,7 +2369,7 @@
                   },
                   {
                     "name": "Oxford",
-                    "votes": 0
+                    "votes": 532
                   },
                   {
                     "name": "Rocky Plains",
@@ -2377,7 +2377,7 @@
                   },
                   {
                     "name": "Buck Creek",
-                    "votes": 0
+                    "votes": 461
                   },
                   {
                     "name": "Stansells",
@@ -2385,7 +2385,7 @@
                   },
                   {
                     "name": "Fairview",
-                    "votes": 0
+                    "votes": 54
                   },
                   {
                     "name": "Crowell",
@@ -2684,11 +2684,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 13028,
+            "totalVotes": 15071,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1576,
+                "votes": 3619,
                 "Precinct": [
                   {
                     "name": "City Pond",
@@ -2704,7 +2704,7 @@
                   },
                   {
                     "name": "Alcovy",
-                    "votes": 0
+                    "votes": 293
                   },
                   {
                     "name": "Covington Mills",
@@ -2732,15 +2732,15 @@
                   },
                   {
                     "name": "Gum Creek",
-                    "votes": 0
+                    "votes": 151
                   },
                   {
                     "name": "Beaverdam",
-                    "votes": 0
+                    "votes": 604
                   },
                   {
                     "name": "Leguinn",
-                    "votes": 0
+                    "votes": 100
                   },
                   {
                     "name": "Mansfield",
@@ -2752,7 +2752,7 @@
                   },
                   {
                     "name": "Oxford",
-                    "votes": 0
+                    "votes": 130
                   },
                   {
                     "name": "Rocky Plains",
@@ -2760,7 +2760,7 @@
                   },
                   {
                     "name": "Buck Creek",
-                    "votes": 0
+                    "votes": 359
                   },
                   {
                     "name": "Stansells",
@@ -2768,7 +2768,7 @@
                   },
                   {
                     "name": "Fairview",
-                    "votes": 0
+                    "votes": 406
                   },
                   {
                     "name": "Crowell",

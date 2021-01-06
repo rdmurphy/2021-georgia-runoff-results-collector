@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:21:12 PM EST",
+    "Timestamp": "1/5/2021 9:00:03 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Worth",
     "VoterTurnout": {
       "totalVoters": 14021,
-      "ballotsCast": 6005,
-      "voterTurnout": 42.83,
+      "ballotsCast": 8286,
+      "voterTurnout": 59.1,
       "Precincts": {
         "Precinct": [
           {
@@ -20,23 +20,23 @@
           {
             "name": "Scooterville",
             "totalVoters": 596,
-            "ballotsCast": 124,
-            "voterTurnout": 20.81,
-            "percentReporting": "2"
+            "ballotsCast": 366,
+            "voterTurnout": 61.41,
+            "percentReporting": "4"
           },
           {
             "name": "Minton",
             "totalVoters": 541,
-            "ballotsCast": 139,
-            "voterTurnout": 25.69,
-            "percentReporting": "2"
+            "ballotsCast": 371,
+            "voterTurnout": 68.58,
+            "percentReporting": "4"
           },
           {
             "name": "Bridgeboro",
             "totalVoters": 1251,
-            "ballotsCast": 347,
-            "voterTurnout": 27.74,
-            "percentReporting": "2"
+            "ballotsCast": 727,
+            "voterTurnout": 58.11,
+            "percentReporting": "4"
           },
           {
             "name": "County Line",
@@ -48,9 +48,9 @@
           {
             "name": "Isabella",
             "totalVoters": 1380,
-            "ballotsCast": 539,
-            "voterTurnout": 39.06,
-            "percentReporting": "2"
+            "ballotsCast": 913,
+            "voterTurnout": 66.16,
+            "percentReporting": "4"
           },
           {
             "name": "Piney Woods",
@@ -62,16 +62,16 @@
           {
             "name": "Sylvester East",
             "totalVoters": 1362,
-            "ballotsCast": 545,
-            "voterTurnout": 40.01,
-            "percentReporting": "2"
+            "ballotsCast": 822,
+            "voterTurnout": 60.35,
+            "percentReporting": "4"
           },
           {
             "name": "Poulan",
             "totalVoters": 850,
-            "ballotsCast": 263,
-            "voterTurnout": 30.94,
-            "percentReporting": "2"
+            "ballotsCast": 523,
+            "voterTurnout": 61.53,
+            "percentReporting": "4"
           },
           {
             "name": "Sumner",
@@ -83,9 +83,9 @@
           {
             "name": "Shingler",
             "totalVoters": 541,
-            "ballotsCast": 186,
-            "voterTurnout": 34.38,
-            "percentReporting": "2"
+            "ballotsCast": 390,
+            "voterTurnout": 72.09,
+            "percentReporting": "4"
           },
           {
             "name": "Red Rock",
@@ -104,16 +104,16 @@
           {
             "name": "Oakfield",
             "totalVoters": 213,
-            "ballotsCast": 73,
-            "voterTurnout": 34.27,
-            "percentReporting": "2"
+            "ballotsCast": 130,
+            "voterTurnout": 61.03,
+            "percentReporting": "4"
           },
           {
             "name": "Warwick",
             "totalVoters": 676,
-            "ballotsCast": 209,
-            "voterTurnout": 30.92,
-            "percentReporting": "2"
+            "ballotsCast": 464,
+            "voterTurnout": 68.64,
+            "percentReporting": "4"
           }
         ]
       }
@@ -125,11 +125,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 15,
-        "precinctsReported": 6,
+        "precinctsReported": 15,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 18,
+            "votes": 22,
             "Precinct": [
               {
                 "name": "Sylvester",
@@ -137,11 +137,11 @@
               },
               {
                 "name": "Scooterville",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Minton",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Bridgeboro",
@@ -173,7 +173,7 @@
               },
               {
                 "name": "Shingler",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Red Rock",
@@ -189,7 +189,7 @@
               },
               {
                 "name": "Warwick",
-                "votes": 0
+                "votes": 1
               }
             ]
           },
@@ -264,11 +264,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 3997,
+            "totalVotes": 6041,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1109,
+                "votes": 3153,
                 "Precinct": [
                   {
                     "name": "Sylvester",
@@ -276,15 +276,15 @@
                   },
                   {
                     "name": "Scooterville",
-                    "votes": 0
+                    "votes": 237
                   },
                   {
                     "name": "Minton",
-                    "votes": 0
+                    "votes": 226
                   },
                   {
                     "name": "Bridgeboro",
-                    "votes": 0
+                    "votes": 335
                   },
                   {
                     "name": "County Line",
@@ -292,7 +292,7 @@
                   },
                   {
                     "name": "Isabella",
-                    "votes": 0
+                    "votes": 341
                   },
                   {
                     "name": "Piney Woods",
@@ -300,11 +300,11 @@
                   },
                   {
                     "name": "Sylvester East",
-                    "votes": 0
+                    "votes": 232
                   },
                   {
                     "name": "Poulan",
-                    "votes": 0
+                    "votes": 224
                   },
                   {
                     "name": "Sumner",
@@ -312,7 +312,7 @@
                   },
                   {
                     "name": "Shingler",
-                    "votes": 0
+                    "votes": 196
                   },
                   {
                     "name": "Red Rock",
@@ -324,11 +324,11 @@
                   },
                   {
                     "name": "Oakfield",
-                    "votes": 0
+                    "votes": 49
                   },
                   {
                     "name": "Warwick",
-                    "votes": 0
+                    "votes": 204
                   }
                 ]
               },
@@ -535,11 +535,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 1990,
+            "totalVotes": 2223,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 354,
+                "votes": 587,
                 "Precinct": [
                   {
                     "name": "Sylvester",
@@ -547,15 +547,15 @@
                   },
                   {
                     "name": "Scooterville",
-                    "votes": 0
+                    "votes": 4
                   },
                   {
                     "name": "Minton",
-                    "votes": 0
+                    "votes": 5
                   },
                   {
                     "name": "Bridgeboro",
-                    "votes": 0
+                    "votes": 45
                   },
                   {
                     "name": "County Line",
@@ -563,7 +563,7 @@
                   },
                   {
                     "name": "Isabella",
-                    "votes": 0
+                    "votes": 33
                   },
                   {
                     "name": "Piney Woods",
@@ -571,11 +571,11 @@
                   },
                   {
                     "name": "Sylvester East",
-                    "votes": 0
+                    "votes": 45
                   },
                   {
                     "name": "Poulan",
-                    "votes": 0
+                    "votes": 36
                   },
                   {
                     "name": "Sumner",
@@ -583,7 +583,7 @@
                   },
                   {
                     "name": "Shingler",
-                    "votes": 0
+                    "votes": 7
                   },
                   {
                     "name": "Red Rock",
@@ -595,11 +595,11 @@
                   },
                   {
                     "name": "Oakfield",
-                    "votes": 0
+                    "votes": 8
                   },
                   {
                     "name": "Warwick",
-                    "votes": 0
+                    "votes": 50
                   }
                 ]
               },
@@ -811,11 +811,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 15,
-        "precinctsReported": 6,
+        "precinctsReported": 15,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 18,
+            "votes": 22,
             "Precinct": [
               {
                 "name": "Sylvester",
@@ -823,7 +823,7 @@
               },
               {
                 "name": "Scooterville",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Minton",
@@ -831,7 +831,7 @@
               },
               {
                 "name": "Bridgeboro",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "County Line",
@@ -859,7 +859,7 @@
               },
               {
                 "name": "Shingler",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Red Rock",
@@ -950,11 +950,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 3998,
+            "totalVotes": 6037,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1106,
+                "votes": 3145,
                 "Precinct": [
                   {
                     "name": "Sylvester",
@@ -962,15 +962,15 @@
                   },
                   {
                     "name": "Scooterville",
-                    "votes": 0
+                    "votes": 235
                   },
                   {
                     "name": "Minton",
-                    "votes": 0
+                    "votes": 227
                   },
                   {
                     "name": "Bridgeboro",
-                    "votes": 0
+                    "votes": 331
                   },
                   {
                     "name": "County Line",
@@ -978,7 +978,7 @@
                   },
                   {
                     "name": "Isabella",
-                    "votes": 0
+                    "votes": 340
                   },
                   {
                     "name": "Piney Woods",
@@ -986,11 +986,11 @@
                   },
                   {
                     "name": "Sylvester East",
-                    "votes": 0
+                    "votes": 233
                   },
                   {
                     "name": "Poulan",
-                    "votes": 0
+                    "votes": 225
                   },
                   {
                     "name": "Sumner",
@@ -998,7 +998,7 @@
                   },
                   {
                     "name": "Shingler",
-                    "votes": 0
+                    "votes": 195
                   },
                   {
                     "name": "Red Rock",
@@ -1010,11 +1010,11 @@
                   },
                   {
                     "name": "Oakfield",
-                    "votes": 0
+                    "votes": 49
                   },
                   {
                     "name": "Warwick",
-                    "votes": 0
+                    "votes": 204
                   }
                 ]
               },
@@ -1221,11 +1221,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 1989,
+            "totalVotes": 2227,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 355,
+                "votes": 593,
                 "Precinct": [
                   {
                     "name": "Sylvester",
@@ -1233,15 +1233,15 @@
                   },
                   {
                     "name": "Scooterville",
-                    "votes": 0
+                    "votes": 6
                   },
                   {
                     "name": "Minton",
-                    "votes": 0
+                    "votes": 5
                   },
                   {
                     "name": "Bridgeboro",
-                    "votes": 0
+                    "votes": 48
                   },
                   {
                     "name": "County Line",
@@ -1249,7 +1249,7 @@
                   },
                   {
                     "name": "Isabella",
-                    "votes": 0
+                    "votes": 34
                   },
                   {
                     "name": "Piney Woods",
@@ -1257,11 +1257,11 @@
                   },
                   {
                     "name": "Sylvester East",
-                    "votes": 0
+                    "votes": 44
                   },
                   {
                     "name": "Poulan",
-                    "votes": 0
+                    "votes": 35
                   },
                   {
                     "name": "Sumner",
@@ -1269,7 +1269,7 @@
                   },
                   {
                     "name": "Shingler",
-                    "votes": 0
+                    "votes": 7
                   },
                   {
                     "name": "Red Rock",
@@ -1281,11 +1281,11 @@
                   },
                   {
                     "name": "Oakfield",
-                    "votes": 0
+                    "votes": 8
                   },
                   {
                     "name": "Warwick",
-                    "votes": 0
+                    "votes": 51
                   }
                 ]
               },
@@ -1497,11 +1497,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 15,
-        "precinctsReported": 6,
+        "precinctsReported": 15,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 83,
+            "votes": 109,
             "Precinct": [
               {
                 "name": "Sylvester",
@@ -1509,15 +1509,15 @@
               },
               {
                 "name": "Scooterville",
-                "votes": 3
+                "votes": 8
               },
               {
                 "name": "Minton",
-                "votes": 3
+                "votes": 6
               },
               {
                 "name": "Bridgeboro",
-                "votes": 6
+                "votes": 11
               },
               {
                 "name": "County Line",
@@ -1525,7 +1525,7 @@
               },
               {
                 "name": "Isabella",
-                "votes": 3
+                "votes": 5
               },
               {
                 "name": "Piney Woods",
@@ -1533,11 +1533,11 @@
               },
               {
                 "name": "Sylvester East",
-                "votes": 10
+                "votes": 14
               },
               {
                 "name": "Poulan",
-                "votes": 3
+                "votes": 4
               },
               {
                 "name": "Sumner",
@@ -1545,7 +1545,7 @@
               },
               {
                 "name": "Shingler",
-                "votes": 1
+                "votes": 3
               },
               {
                 "name": "Red Rock",
@@ -1561,7 +1561,7 @@
               },
               {
                 "name": "Warwick",
-                "votes": 5
+                "votes": 9
               }
             ]
           },
@@ -1636,11 +1636,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 4010,
+            "totalVotes": 6049,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1110,
+                "votes": 3149,
                 "Precinct": [
                   {
                     "name": "Sylvester",
@@ -1648,15 +1648,15 @@
                   },
                   {
                     "name": "Scooterville",
-                    "votes": 0
+                    "votes": 232
                   },
                   {
                     "name": "Minton",
-                    "votes": 0
+                    "votes": 224
                   },
                   {
                     "name": "Bridgeboro",
-                    "votes": 0
+                    "votes": 336
                   },
                   {
                     "name": "County Line",
@@ -1664,7 +1664,7 @@
                   },
                   {
                     "name": "Isabella",
-                    "votes": 0
+                    "votes": 340
                   },
                   {
                     "name": "Piney Woods",
@@ -1672,11 +1672,11 @@
                   },
                   {
                     "name": "Sylvester East",
-                    "votes": 0
+                    "votes": 235
                   },
                   {
                     "name": "Poulan",
-                    "votes": 0
+                    "votes": 224
                   },
                   {
                     "name": "Sumner",
@@ -1684,7 +1684,7 @@
                   },
                   {
                     "name": "Shingler",
-                    "votes": 0
+                    "votes": 194
                   },
                   {
                     "name": "Red Rock",
@@ -1696,11 +1696,11 @@
                   },
                   {
                     "name": "Oakfield",
-                    "votes": 0
+                    "votes": 49
                   },
                   {
                     "name": "Warwick",
-                    "votes": 0
+                    "votes": 205
                   }
                 ]
               },
@@ -1907,11 +1907,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 1912,
+            "totalVotes": 2128,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 343,
+                "votes": 559,
                 "Precinct": [
                   {
                     "name": "Sylvester",
@@ -1919,15 +1919,15 @@
                   },
                   {
                     "name": "Scooterville",
-                    "votes": 0
+                    "votes": 5
                   },
                   {
                     "name": "Minton",
-                    "votes": 0
+                    "votes": 5
                   },
                   {
                     "name": "Bridgeboro",
-                    "votes": 0
+                    "votes": 39
                   },
                   {
                     "name": "County Line",
@@ -1935,7 +1935,7 @@
                   },
                   {
                     "name": "Isabella",
-                    "votes": 0
+                    "votes": 32
                   },
                   {
                     "name": "Piney Woods",
@@ -1943,11 +1943,11 @@
                   },
                   {
                     "name": "Sylvester East",
-                    "votes": 0
+                    "votes": 38
                   },
                   {
                     "name": "Poulan",
-                    "votes": 0
+                    "votes": 35
                   },
                   {
                     "name": "Sumner",
@@ -1955,7 +1955,7 @@
                   },
                   {
                     "name": "Shingler",
-                    "votes": 0
+                    "votes": 8
                   },
                   {
                     "name": "Red Rock",
@@ -1967,11 +1967,11 @@
                   },
                   {
                     "name": "Oakfield",
-                    "votes": 0
+                    "votes": 8
                   },
                   {
                     "name": "Warwick",
-                    "votes": 0
+                    "votes": 46
                   }
                 ]
               },

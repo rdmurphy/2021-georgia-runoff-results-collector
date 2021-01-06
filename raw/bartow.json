@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:40:50 PM EST",
+    "Timestamp": "1/5/2021 8:59:56 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Bartow",
     "VoterTurnout": {
       "totalVoters": 75882,
-      "ballotsCast": 3600,
-      "voterTurnout": 4.74,
+      "ballotsCast": 8186,
+      "voterTurnout": 10.79,
       "Precincts": {
         "Precinct": [
           {
@@ -27,9 +27,9 @@
           {
             "name": "Cartersville East",
             "totalVoters": 6974,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 1104,
+            "voterTurnout": 15.83,
+            "percentReporting": "2"
           },
           {
             "name": "Cartersville West",
@@ -48,16 +48,16 @@
           {
             "name": "Center",
             "totalVoters": 4055,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 1001,
+            "voterTurnout": 24.69,
+            "percentReporting": "2"
           },
           {
             "name": "Emerson",
             "totalVoters": 3160,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 761,
+            "voterTurnout": 24.08,
+            "percentReporting": "2"
           },
           {
             "name": "Euharlee",
@@ -90,9 +90,9 @@
           {
             "name": "Mission Road",
             "totalVoters": 4090,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 730,
+            "voterTurnout": 17.85,
+            "percentReporting": "2"
           },
           {
             "name": "Pine Log",
@@ -104,9 +104,9 @@
           {
             "name": "Taylorsville",
             "totalVoters": 2888,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 990,
+            "voterTurnout": 34.28,
+            "percentReporting": "2"
           },
           {
             "name": "White",
@@ -143,7 +143,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 6,
+            "votes": 9,
             "Precinct": [
               {
                 "name": "Adairsville",
@@ -155,7 +155,7 @@
               },
               {
                 "name": "Cartersville East",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Cartersville West",
@@ -167,7 +167,7 @@
               },
               {
                 "name": "Center",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Emerson",
@@ -199,7 +199,7 @@
               },
               {
                 "name": "Taylorsville",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "White",
@@ -294,11 +294,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 3042,
+            "totalVotes": 6894,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 3042,
+                "votes": 6894,
                 "Precinct": [
                   {
                     "name": "Adairsville",
@@ -310,7 +310,7 @@
                   },
                   {
                     "name": "Cartersville East",
-                    "votes": 0
+                    "votes": 786
                   },
                   {
                     "name": "Cartersville West",
@@ -322,11 +322,11 @@
                   },
                   {
                     "name": "Center",
-                    "votes": 0
+                    "votes": 882
                   },
                   {
                     "name": "Emerson",
-                    "votes": 0
+                    "votes": 669
                   },
                   {
                     "name": "Euharlee",
@@ -346,7 +346,7 @@
                   },
                   {
                     "name": "Mission Road",
-                    "votes": 0
+                    "votes": 581
                   },
                   {
                     "name": "Pine Log",
@@ -354,7 +354,7 @@
                   },
                   {
                     "name": "Taylorsville",
-                    "votes": 0
+                    "votes": 934
                   },
                   {
                     "name": "White",
@@ -597,11 +597,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 552,
+            "totalVotes": 1283,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 552,
+                "votes": 1283,
                 "Precinct": [
                   {
                     "name": "Adairsville",
@@ -613,7 +613,7 @@
                   },
                   {
                     "name": "Cartersville East",
-                    "votes": 0
+                    "votes": 317
                   },
                   {
                     "name": "Cartersville West",
@@ -625,11 +625,11 @@
                   },
                   {
                     "name": "Center",
-                    "votes": 0
+                    "votes": 118
                   },
                   {
                     "name": "Emerson",
-                    "votes": 0
+                    "votes": 92
                   },
                   {
                     "name": "Euharlee",
@@ -649,7 +649,7 @@
                   },
                   {
                     "name": "Mission Road",
-                    "votes": 0
+                    "votes": 149
                   },
                   {
                     "name": "Pine Log",
@@ -657,7 +657,7 @@
                   },
                   {
                     "name": "Taylorsville",
-                    "votes": 0
+                    "votes": 55
                   },
                   {
                     "name": "White",
@@ -909,7 +909,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 6,
+            "votes": 13,
             "Precinct": [
               {
                 "name": "Adairsville",
@@ -921,7 +921,7 @@
               },
               {
                 "name": "Cartersville East",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Cartersville West",
@@ -933,7 +933,7 @@
               },
               {
                 "name": "Center",
-                "votes": 0
+                "votes": 4
               },
               {
                 "name": "Emerson",
@@ -965,7 +965,7 @@
               },
               {
                 "name": "Taylorsville",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "White",
@@ -1060,11 +1060,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 3035,
+            "totalVotes": 6863,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 3035,
+                "votes": 6863,
                 "Precinct": [
                   {
                     "name": "Adairsville",
@@ -1076,7 +1076,7 @@
                   },
                   {
                     "name": "Cartersville East",
-                    "votes": 0
+                    "votes": 778
                   },
                   {
                     "name": "Cartersville West",
@@ -1088,11 +1088,11 @@
                   },
                   {
                     "name": "Center",
-                    "votes": 0
+                    "votes": 878
                   },
                   {
                     "name": "Emerson",
-                    "votes": 0
+                    "votes": 664
                   },
                   {
                     "name": "Euharlee",
@@ -1112,7 +1112,7 @@
                   },
                   {
                     "name": "Mission Road",
-                    "votes": 0
+                    "votes": 576
                   },
                   {
                     "name": "Pine Log",
@@ -1120,7 +1120,7 @@
                   },
                   {
                     "name": "Taylorsville",
-                    "votes": 0
+                    "votes": 932
                   },
                   {
                     "name": "White",
@@ -1363,11 +1363,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 559,
+            "totalVotes": 1310,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 559,
+                "votes": 1310,
                 "Precinct": [
                   {
                     "name": "Adairsville",
@@ -1379,7 +1379,7 @@
                   },
                   {
                     "name": "Cartersville East",
-                    "votes": 0
+                    "votes": 324
                   },
                   {
                     "name": "Cartersville West",
@@ -1391,11 +1391,11 @@
                   },
                   {
                     "name": "Center",
-                    "votes": 0
+                    "votes": 119
                   },
                   {
                     "name": "Emerson",
-                    "votes": 0
+                    "votes": 97
                   },
                   {
                     "name": "Euharlee",
@@ -1415,7 +1415,7 @@
                   },
                   {
                     "name": "Mission Road",
-                    "votes": 0
+                    "votes": 154
                   },
                   {
                     "name": "Pine Log",
@@ -1423,7 +1423,7 @@
                   },
                   {
                     "name": "Taylorsville",
-                    "votes": 0
+                    "votes": 57
                   },
                   {
                     "name": "White",
@@ -1675,7 +1675,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 28,
+            "votes": 70,
             "Precinct": [
               {
                 "name": "Adairsville",
@@ -1687,7 +1687,7 @@
               },
               {
                 "name": "Cartersville East",
-                "votes": 0
+                "votes": 12
               },
               {
                 "name": "Cartersville West",
@@ -1699,11 +1699,11 @@
               },
               {
                 "name": "Center",
-                "votes": 0
+                "votes": 13
               },
               {
                 "name": "Emerson",
-                "votes": 0
+                "votes": 6
               },
               {
                 "name": "Euharlee",
@@ -1723,7 +1723,7 @@
               },
               {
                 "name": "Mission Road",
-                "votes": 0
+                "votes": 5
               },
               {
                 "name": "Pine Log",
@@ -1731,7 +1731,7 @@
               },
               {
                 "name": "Taylorsville",
-                "votes": 0
+                "votes": 6
               },
               {
                 "name": "White",
@@ -1826,11 +1826,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 3051,
+            "totalVotes": 6883,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 3051,
+                "votes": 6883,
                 "Precinct": [
                   {
                     "name": "Adairsville",
@@ -1842,7 +1842,7 @@
                   },
                   {
                     "name": "Cartersville East",
-                    "votes": 0
+                    "votes": 779
                   },
                   {
                     "name": "Cartersville West",
@@ -1854,11 +1854,11 @@
                   },
                   {
                     "name": "Center",
-                    "votes": 0
+                    "votes": 884
                   },
                   {
                     "name": "Emerson",
-                    "votes": 0
+                    "votes": 665
                   },
                   {
                     "name": "Euharlee",
@@ -1878,7 +1878,7 @@
                   },
                   {
                     "name": "Mission Road",
-                    "votes": 0
+                    "votes": 580
                   },
                   {
                     "name": "Pine Log",
@@ -1886,7 +1886,7 @@
                   },
                   {
                     "name": "Taylorsville",
-                    "votes": 0
+                    "votes": 924
                   },
                   {
                     "name": "White",
@@ -2129,11 +2129,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 521,
+            "totalVotes": 1233,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 521,
+                "votes": 1233,
                 "Precinct": [
                   {
                     "name": "Adairsville",
@@ -2145,7 +2145,7 @@
                   },
                   {
                     "name": "Cartersville East",
-                    "votes": 0
+                    "votes": 313
                   },
                   {
                     "name": "Cartersville West",
@@ -2157,11 +2157,11 @@
                   },
                   {
                     "name": "Center",
-                    "votes": 0
+                    "votes": 104
                   },
                   {
                     "name": "Emerson",
-                    "votes": 0
+                    "votes": 90
                   },
                   {
                     "name": "Euharlee",
@@ -2181,7 +2181,7 @@
                   },
                   {
                     "name": "Mission Road",
-                    "votes": 0
+                    "votes": 145
                   },
                   {
                     "name": "Pine Log",
@@ -2189,7 +2189,7 @@
                   },
                   {
                     "name": "Taylorsville",
-                    "votes": 0
+                    "votes": 60
                   },
                   {
                     "name": "White",
