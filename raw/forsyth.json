@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 9:34:01 PM EST",
+    "Timestamp": "1/5/2021 10:20:53 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Forsyth",
     "VoterTurnout": {
       "totalVoters": 166928,
-      "ballotsCast": 92692,
-      "voterTurnout": 55.53,
+      "ballotsCast": 98116,
+      "voterTurnout": 58.78,
       "Precincts": {
         "Precinct": [
           {
@@ -48,9 +48,9 @@
           {
             "name": "06 Crossroads",
             "totalVoters": 7210,
-            "ballotsCast": 3300,
-            "voterTurnout": 45.77,
-            "percentReporting": "2"
+            "ballotsCast": 4441,
+            "voterTurnout": 61.6,
+            "percentReporting": "4"
           },
           {
             "name": "07 Cumming",
@@ -62,16 +62,16 @@
           {
             "name": "08 Mashburn",
             "totalVoters": 8391,
-            "ballotsCast": 4211,
-            "voterTurnout": 50.18,
-            "percentReporting": "2"
+            "ballotsCast": 5878,
+            "voterTurnout": 70.05,
+            "percentReporting": "4"
           },
           {
             "name": "10 Midway",
             "totalVoters": 11841,
-            "ballotsCast": 6721,
-            "voterTurnout": 56.76,
-            "percentReporting": "2"
+            "ballotsCast": 8489,
+            "voterTurnout": 71.69,
+            "percentReporting": "4"
           },
           {
             "name": "15 Heardsville",
@@ -125,9 +125,9 @@
           {
             "name": "34 Fowler",
             "totalVoters": 5048,
-            "ballotsCast": 2420,
-            "voterTurnout": 47.94,
-            "percentReporting": "2"
+            "ballotsCast": 3268,
+            "voterTurnout": 64.74,
+            "percentReporting": "4"
           },
           {
             "name": "35 Johns Creek",
@@ -160,11 +160,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 20,
-        "precinctsReported": 8,
+        "precinctsReported": 12,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 71,
+            "votes": 74,
             "Precinct": [
               {
                 "name": "01 Big Creek",
@@ -196,7 +196,7 @@
               },
               {
                 "name": "08 Mashburn",
-                "votes": 4
+                "votes": 5
               },
               {
                 "name": "10 Midway",
@@ -232,7 +232,7 @@
               },
               {
                 "name": "34 Fowler",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "35 Johns Creek",
@@ -339,11 +339,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 62850,
+            "totalVotes": 67165,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 8654,
+                "votes": 12969,
                 "Precinct": [
                   {
                     "name": "01 Big Creek",
@@ -367,7 +367,7 @@
                   },
                   {
                     "name": "06 Crossroads",
-                    "votes": 0
+                    "votes": 992
                   },
                   {
                     "name": "07 Cumming",
@@ -375,11 +375,11 @@
                   },
                   {
                     "name": "08 Mashburn",
-                    "votes": 0
+                    "votes": 1354
                   },
                   {
                     "name": "10 Midway",
-                    "votes": 0
+                    "votes": 1382
                   },
                   {
                     "name": "15 Heardsville",
@@ -411,7 +411,7 @@
                   },
                   {
                     "name": "34 Fowler",
-                    "votes": 0
+                    "votes": 587
                   },
                   {
                     "name": "35 Johns Creek",
@@ -690,11 +690,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 29771,
+            "totalVotes": 30877,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2583,
+                "votes": 3689,
                 "Precinct": [
                   {
                     "name": "01 Big Creek",
@@ -718,7 +718,7 @@
                   },
                   {
                     "name": "06 Crossroads",
-                    "votes": 0
+                    "votes": 149
                   },
                   {
                     "name": "07 Cumming",
@@ -726,11 +726,11 @@
                   },
                   {
                     "name": "08 Mashburn",
-                    "votes": 0
+                    "votes": 312
                   },
                   {
                     "name": "10 Midway",
-                    "votes": 0
+                    "votes": 386
                   },
                   {
                     "name": "15 Heardsville",
@@ -762,7 +762,7 @@
                   },
                   {
                     "name": "34 Fowler",
-                    "votes": 0
+                    "votes": 259
                   },
                   {
                     "name": "35 Johns Creek",
@@ -1046,11 +1046,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 20,
-        "precinctsReported": 8,
+        "precinctsReported": 12,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 107,
+            "votes": 115,
             "Precinct": [
               {
                 "name": "01 Big Creek",
@@ -1074,7 +1074,7 @@
               },
               {
                 "name": "06 Crossroads",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "07 Cumming",
@@ -1082,7 +1082,7 @@
               },
               {
                 "name": "08 Mashburn",
-                "votes": 6
+                "votes": 8
               },
               {
                 "name": "10 Midway",
@@ -1118,7 +1118,7 @@
               },
               {
                 "name": "34 Fowler",
-                "votes": 4
+                "votes": 8
               },
               {
                 "name": "35 Johns Creek",
@@ -1225,11 +1225,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 62269,
+            "totalVotes": 66514,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 8576,
+                "votes": 12821,
                 "Precinct": [
                   {
                     "name": "01 Big Creek",
@@ -1253,7 +1253,7 @@
                   },
                   {
                     "name": "06 Crossroads",
-                    "votes": 0
+                    "votes": 982
                   },
                   {
                     "name": "07 Cumming",
@@ -1261,11 +1261,11 @@
                   },
                   {
                     "name": "08 Mashburn",
-                    "votes": 0
+                    "votes": 1324
                   },
                   {
                     "name": "10 Midway",
-                    "votes": 0
+                    "votes": 1351
                   },
                   {
                     "name": "15 Heardsville",
@@ -1297,7 +1297,7 @@
                   },
                   {
                     "name": "34 Fowler",
-                    "votes": 0
+                    "votes": 588
                   },
                   {
                     "name": "35 Johns Creek",
@@ -1576,11 +1576,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 30316,
+            "totalVotes": 31487,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2665,
+                "votes": 3836,
                 "Precinct": [
                   {
                     "name": "01 Big Creek",
@@ -1604,7 +1604,7 @@
                   },
                   {
                     "name": "06 Crossroads",
-                    "votes": 0
+                    "votes": 157
                   },
                   {
                     "name": "07 Cumming",
@@ -1612,11 +1612,11 @@
                   },
                   {
                     "name": "08 Mashburn",
-                    "votes": 0
+                    "votes": 341
                   },
                   {
                     "name": "10 Midway",
-                    "votes": 0
+                    "votes": 417
                   },
                   {
                     "name": "15 Heardsville",
@@ -1648,7 +1648,7 @@
                   },
                   {
                     "name": "34 Fowler",
-                    "votes": 0
+                    "votes": 256
                   },
                   {
                     "name": "35 Johns Creek",
@@ -1932,11 +1932,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 20,
-        "precinctsReported": 8,
+        "precinctsReported": 12,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 861,
+            "votes": 896,
             "Precinct": [
               {
                 "name": "01 Big Creek",
@@ -1960,7 +1960,7 @@
               },
               {
                 "name": "06 Crossroads",
-                "votes": 29
+                "votes": 38
               },
               {
                 "name": "07 Cumming",
@@ -1968,11 +1968,11 @@
               },
               {
                 "name": "08 Mashburn",
-                "votes": 37
+                "votes": 43
               },
               {
                 "name": "10 Midway",
-                "votes": 62
+                "votes": 75
               },
               {
                 "name": "15 Heardsville",
@@ -2004,7 +2004,7 @@
               },
               {
                 "name": "34 Fowler",
-                "votes": 21
+                "votes": 28
               },
               {
                 "name": "35 Johns Creek",
@@ -2111,11 +2111,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 63858,
+            "totalVotes": 68236,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 8800,
+                "votes": 13178,
                 "Precinct": [
                   {
                     "name": "01 Big Creek",
@@ -2139,7 +2139,7 @@
                   },
                   {
                     "name": "06 Crossroads",
-                    "votes": 0
+                    "votes": 998
                   },
                   {
                     "name": "07 Cumming",
@@ -2147,11 +2147,11 @@
                   },
                   {
                     "name": "08 Mashburn",
-                    "votes": 0
+                    "votes": 1382
                   },
                   {
                     "name": "10 Midway",
-                    "votes": 0
+                    "votes": 1397
                   },
                   {
                     "name": "15 Heardsville",
@@ -2183,7 +2183,7 @@
                   },
                   {
                     "name": "34 Fowler",
-                    "votes": 0
+                    "votes": 601
                   },
                   {
                     "name": "35 Johns Creek",
@@ -2462,11 +2462,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 27973,
+            "totalVotes": 28984,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2364,
+                "votes": 3375,
                 "Precinct": [
                   {
                     "name": "01 Big Creek",
@@ -2490,7 +2490,7 @@
                   },
                   {
                     "name": "06 Crossroads",
-                    "votes": 0
+                    "votes": 134
                   },
                   {
                     "name": "07 Cumming",
@@ -2498,11 +2498,11 @@
                   },
                   {
                     "name": "08 Mashburn",
-                    "votes": 0
+                    "votes": 279
                   },
                   {
                     "name": "10 Midway",
-                    "votes": 0
+                    "votes": 358
                   },
                   {
                     "name": "15 Heardsville",
@@ -2534,7 +2534,7 @@
                   },
                   {
                     "name": "34 Fowler",
-                    "votes": 0
+                    "votes": 240
                   },
                   {
                     "name": "35 Johns Creek",
