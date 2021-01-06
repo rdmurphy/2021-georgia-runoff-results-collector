@@ -1,132 +1,132 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:52:06 PM EST",
+    "Timestamp": "1/5/2021 10:54:00 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Effingham",
     "VoterTurnout": {
       "totalVoters": 45313,
-      "ballotsCast": 20548,
-      "voterTurnout": 45.35,
+      "ballotsCast": 27368,
+      "voterTurnout": 60.4,
       "Precincts": {
         "Precinct": [
           {
             "name": "1A",
             "totalVoters": 2019,
-            "ballotsCast": 1258,
-            "voterTurnout": 62.31,
+            "ballotsCast": 1320,
+            "voterTurnout": 65.38,
             "percentReporting": "4"
           },
           {
             "name": "1B",
             "totalVoters": 3071,
-            "ballotsCast": 993,
-            "voterTurnout": 32.33,
-            "percentReporting": "2"
+            "ballotsCast": 1891,
+            "voterTurnout": 61.58,
+            "percentReporting": "4"
           },
           {
             "name": "1C",
             "totalVoters": 1466,
-            "ballotsCast": 340,
-            "voterTurnout": 23.19,
-            "percentReporting": "2"
+            "ballotsCast": 905,
+            "voterTurnout": 61.73,
+            "percentReporting": "4"
           },
           {
             "name": "1D",
             "totalVoters": 2075,
-            "ballotsCast": 1253,
-            "voterTurnout": 60.39,
+            "ballotsCast": 1294,
+            "voterTurnout": 62.36,
             "percentReporting": "4"
           },
           {
             "name": "2A",
             "totalVoters": 3133,
-            "ballotsCast": 1979,
-            "voterTurnout": 63.17,
+            "ballotsCast": 2051,
+            "voterTurnout": 65.46,
             "percentReporting": "4"
           },
           {
             "name": "2B",
             "totalVoters": 3064,
-            "ballotsCast": 967,
-            "voterTurnout": 31.56,
-            "percentReporting": "2"
+            "ballotsCast": 1838,
+            "voterTurnout": 59.99,
+            "percentReporting": "4"
           },
           {
             "name": "2C",
             "totalVoters": 4769,
-            "ballotsCast": 2826,
-            "voterTurnout": 59.26,
+            "ballotsCast": 2973,
+            "voterTurnout": 62.34,
             "percentReporting": "4"
           },
           {
             "name": "3A",
             "totalVoters": 1430,
-            "ballotsCast": 880,
-            "voterTurnout": 61.54,
+            "ballotsCast": 907,
+            "voterTurnout": 63.43,
             "percentReporting": "4"
           },
           {
             "name": "3B",
             "totalVoters": 1573,
-            "ballotsCast": 998,
-            "voterTurnout": 63.45,
+            "ballotsCast": 1034,
+            "voterTurnout": 65.73,
             "percentReporting": "4"
           },
           {
             "name": "3C",
             "totalVoters": 2111,
-            "ballotsCast": 747,
-            "voterTurnout": 35.39,
-            "percentReporting": "2"
+            "ballotsCast": 1258,
+            "voterTurnout": 59.59,
+            "percentReporting": "4"
           },
           {
             "name": "3D",
             "totalVoters": 3191,
-            "ballotsCast": 1120,
-            "voterTurnout": 35.1,
-            "percentReporting": "2"
+            "ballotsCast": 1950,
+            "voterTurnout": 61.11,
+            "percentReporting": "4"
           },
           {
             "name": "4A",
             "totalVoters": 3811,
-            "ballotsCast": 1364,
-            "voterTurnout": 35.79,
-            "percentReporting": "2"
+            "ballotsCast": 2237,
+            "voterTurnout": 58.7,
+            "percentReporting": "4"
           },
           {
             "name": "4B",
             "totalVoters": 1912,
-            "ballotsCast": 1087,
-            "voterTurnout": 56.85,
+            "ballotsCast": 1131,
+            "voterTurnout": 59.15,
             "percentReporting": "4"
           },
           {
             "name": "4C",
             "totalVoters": 2912,
-            "ballotsCast": 1602,
-            "voterTurnout": 55.01,
+            "ballotsCast": 1675,
+            "voterTurnout": 57.52,
             "percentReporting": "4"
           },
           {
             "name": "5A",
             "totalVoters": 2980,
-            "ballotsCast": 1038,
-            "voterTurnout": 34.83,
-            "percentReporting": "2"
+            "ballotsCast": 1801,
+            "voterTurnout": 60.44,
+            "percentReporting": "4"
           },
           {
             "name": "5B",
             "totalVoters": 4059,
-            "ballotsCast": 1421,
-            "voterTurnout": 35.01,
-            "percentReporting": "2"
+            "ballotsCast": 2386,
+            "voterTurnout": 58.78,
+            "percentReporting": "4"
           },
           {
             "name": "5C",
             "totalVoters": 1737,
-            "ballotsCast": 675,
-            "voterTurnout": 38.86,
+            "ballotsCast": 717,
+            "voterTurnout": 41.28,
             "percentReporting": "2"
           }
         ]
@@ -139,15 +139,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 17,
-        "precinctsReported": 8,
+        "precinctsReported": 16,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 24,
+            "votes": 30,
             "Precinct": [
               {
                 "name": "1A",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "1B",
@@ -155,7 +155,7 @@
               },
               {
                 "name": "1C",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "1D",
@@ -183,7 +183,7 @@
               },
               {
                 "name": "3C",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "3D",
@@ -203,11 +203,11 @@
               },
               {
                 "name": "5A",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "5B",
-                "votes": 2
+                "votes": 4
               },
               {
                 "name": "5C",
@@ -294,11 +294,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 15150,
+            "totalVotes": 20310,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 4390,
+                "votes": 9042,
                 "Precinct": [
                   {
                     "name": "1A",
@@ -306,11 +306,11 @@
                   },
                   {
                     "name": "1B",
-                    "votes": 0
+                    "votes": 741
                   },
                   {
                     "name": "1C",
-                    "votes": 0
+                    "votes": 449
                   },
                   {
                     "name": "1D",
@@ -322,7 +322,7 @@
                   },
                   {
                     "name": "2B",
-                    "votes": 0
+                    "votes": 651
                   },
                   {
                     "name": "2C",
@@ -338,15 +338,15 @@
                   },
                   {
                     "name": "3C",
-                    "votes": 0
+                    "votes": 407
                   },
                   {
                     "name": "3D",
-                    "votes": 0
+                    "votes": 586
                   },
                   {
                     "name": "4A",
-                    "votes": 0
+                    "votes": 643
                   },
                   {
                     "name": "4B",
@@ -358,11 +358,11 @@
                   },
                   {
                     "name": "5A",
-                    "votes": 0
+                    "votes": 561
                   },
                   {
                     "name": "5B",
-                    "votes": 0
+                    "votes": 614
                   },
                   {
                     "name": "5C",
@@ -446,75 +446,75 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1234,
+                "votes": 1742,
                 "Precinct": [
                   {
                     "name": "1A",
-                    "votes": 51
+                    "votes": 78
                   },
                   {
                     "name": "1B",
-                    "votes": 95
+                    "votes": 129
                   },
                   {
                     "name": "1C",
-                    "votes": 34
+                    "votes": 49
                   },
                   {
                     "name": "1D",
-                    "votes": 79
+                    "votes": 101
                   },
                   {
                     "name": "2A",
-                    "votes": 80
+                    "votes": 113
                   },
                   {
                     "name": "2B",
-                    "votes": 100
+                    "votes": 129
                   },
                   {
                     "name": "2C",
-                    "votes": 161
+                    "votes": 212
                   },
                   {
                     "name": "3A",
-                    "votes": 41
+                    "votes": 63
                   },
                   {
                     "name": "3B",
-                    "votes": 30
+                    "votes": 44
                   },
                   {
                     "name": "3C",
-                    "votes": 55
+                    "votes": 76
                   },
                   {
                     "name": "3D",
-                    "votes": 68
+                    "votes": 95
                   },
                   {
                     "name": "4A",
-                    "votes": 119
+                    "votes": 173
                   },
                   {
                     "name": "4B",
-                    "votes": 40
+                    "votes": 60
                   },
                   {
                     "name": "4C",
-                    "votes": 67
+                    "votes": 105
                   },
                   {
                     "name": "5A",
-                    "votes": 75
+                    "votes": 125
                   },
                   {
                     "name": "5B",
-                    "votes": 93
+                    "votes": 122
                   },
                   {
                     "name": "5C",
-                    "votes": 46
+                    "votes": 68
                   }
                 ]
               },
@@ -597,11 +597,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 5372,
+            "totalVotes": 7026,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 840,
+                "votes": 1931,
                 "Precinct": [
                   {
                     "name": "1A",
@@ -609,11 +609,11 @@
                   },
                   {
                     "name": "1B",
-                    "votes": 0
+                    "votes": 97
                   },
                   {
                     "name": "1C",
-                    "votes": 0
+                    "votes": 88
                   },
                   {
                     "name": "1D",
@@ -625,7 +625,7 @@
                   },
                   {
                     "name": "2B",
-                    "votes": 0
+                    "votes": 159
                   },
                   {
                     "name": "2C",
@@ -641,15 +641,15 @@
                   },
                   {
                     "name": "3C",
-                    "votes": 0
+                    "votes": 71
                   },
                   {
                     "name": "3D",
-                    "votes": 0
+                    "votes": 167
                   },
                   {
                     "name": "4A",
-                    "votes": 0
+                    "votes": 133
                   },
                   {
                     "name": "4B",
@@ -661,11 +661,11 @@
                   },
                   {
                     "name": "5A",
-                    "votes": 0
+                    "votes": 113
                   },
                   {
                     "name": "5B",
-                    "votes": 0
+                    "votes": 263
                   },
                   {
                     "name": "5C",
@@ -749,75 +749,75 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1549,
+                "votes": 2112,
                 "Precinct": [
                   {
                     "name": "1A",
-                    "votes": 71
+                    "votes": 105
                   },
                   {
                     "name": "1B",
-                    "votes": 71
+                    "votes": 97
                   },
                   {
                     "name": "1C",
-                    "votes": 46
+                    "votes": 58
                   },
                   {
                     "name": "1D",
-                    "votes": 48
+                    "votes": 67
                   },
                   {
                     "name": "2A",
-                    "votes": 94
+                    "votes": 133
                   },
                   {
                     "name": "2B",
-                    "votes": 103
+                    "votes": 135
                   },
                   {
                     "name": "2C",
-                    "votes": 180
+                    "votes": 276
                   },
                   {
                     "name": "3A",
-                    "votes": 43
+                    "votes": 48
                   },
                   {
                     "name": "3B",
-                    "votes": 73
+                    "votes": 95
                   },
                   {
                     "name": "3C",
-                    "votes": 45
+                    "votes": 56
                   },
                   {
                     "name": "3D",
-                    "votes": 101
+                    "votes": 151
                   },
                   {
                     "name": "4A",
-                    "votes": 119
+                    "votes": 162
                   },
                   {
                     "name": "4B",
-                    "votes": 110
+                    "votes": 134
                   },
                   {
                     "name": "4C",
-                    "votes": 74
+                    "votes": 109
                   },
                   {
                     "name": "5A",
-                    "votes": 91
+                    "votes": 129
                   },
                   {
                     "name": "5B",
-                    "votes": 187
+                    "votes": 244
                   },
                   {
                     "name": "5C",
-                    "votes": 93
+                    "votes": 113
                   }
                 ]
               },
@@ -905,15 +905,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 17,
-        "precinctsReported": 8,
+        "precinctsReported": 16,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 25,
+            "votes": 35,
             "Precinct": [
               {
                 "name": "1A",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "1B",
@@ -921,7 +921,7 @@
               },
               {
                 "name": "1C",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "1D",
@@ -933,7 +933,7 @@
               },
               {
                 "name": "2B",
-                "votes": 1
+                "votes": 4
               },
               {
                 "name": "2C",
@@ -949,7 +949,7 @@
               },
               {
                 "name": "3C",
-                "votes": 2
+                "votes": 5
               },
               {
                 "name": "3D",
@@ -957,7 +957,7 @@
               },
               {
                 "name": "4A",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "4B",
@@ -973,7 +973,7 @@
               },
               {
                 "name": "5B",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "5C",
@@ -983,7 +983,7 @@
           },
           {
             "name": "Overvotes",
-            "votes": 3,
+            "votes": 4,
             "Precinct": [
               {
                 "name": "1A",
@@ -1051,7 +1051,7 @@
               },
               {
                 "name": "5C",
-                "votes": 0
+                "votes": 1
               }
             ]
           }
@@ -1060,11 +1060,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 15164,
+            "totalVotes": 20318,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 4393,
+                "votes": 9039,
                 "Precinct": [
                   {
                     "name": "1A",
@@ -1072,11 +1072,11 @@
                   },
                   {
                     "name": "1B",
-                    "votes": 0
+                    "votes": 746
                   },
                   {
                     "name": "1C",
-                    "votes": 0
+                    "votes": 445
                   },
                   {
                     "name": "1D",
@@ -1088,7 +1088,7 @@
                   },
                   {
                     "name": "2B",
-                    "votes": 0
+                    "votes": 649
                   },
                   {
                     "name": "2C",
@@ -1104,15 +1104,15 @@
                   },
                   {
                     "name": "3C",
-                    "votes": 0
+                    "votes": 405
                   },
                   {
                     "name": "3D",
-                    "votes": 0
+                    "votes": 582
                   },
                   {
                     "name": "4A",
-                    "votes": 0
+                    "votes": 642
                   },
                   {
                     "name": "4B",
@@ -1124,11 +1124,11 @@
                   },
                   {
                     "name": "5A",
-                    "votes": 0
+                    "votes": 560
                   },
                   {
                     "name": "5B",
-                    "votes": 0
+                    "votes": 617
                   },
                   {
                     "name": "5C",
@@ -1212,75 +1212,75 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1251,
+                "votes": 1759,
                 "Precinct": [
                   {
                     "name": "1A",
-                    "votes": 52
+                    "votes": 79
                   },
                   {
                     "name": "1B",
-                    "votes": 97
+                    "votes": 131
                   },
                   {
                     "name": "1C",
-                    "votes": 34
+                    "votes": 48
                   },
                   {
                     "name": "1D",
-                    "votes": 80
+                    "votes": 103
                   },
                   {
                     "name": "2A",
-                    "votes": 82
+                    "votes": 115
                   },
                   {
                     "name": "2B",
-                    "votes": 97
+                    "votes": 126
                   },
                   {
                     "name": "2C",
-                    "votes": 161
+                    "votes": 213
                   },
                   {
                     "name": "3A",
-                    "votes": 40
+                    "votes": 62
                   },
                   {
                     "name": "3B",
-                    "votes": 31
+                    "votes": 45
                   },
                   {
                     "name": "3C",
-                    "votes": 56
+                    "votes": 76
                   },
                   {
                     "name": "3D",
-                    "votes": 71
+                    "votes": 98
                   },
                   {
                     "name": "4A",
-                    "votes": 120
+                    "votes": 174
                   },
                   {
                     "name": "4B",
-                    "votes": 42
+                    "votes": 63
                   },
                   {
                     "name": "4C",
-                    "votes": 70
+                    "votes": 110
                   },
                   {
                     "name": "5A",
-                    "votes": 77
+                    "votes": 127
                   },
                   {
                     "name": "5B",
-                    "votes": 94
+                    "votes": 123
                   },
                   {
                     "name": "5C",
-                    "votes": 47
+                    "votes": 66
                   }
                 ]
               },
@@ -1363,11 +1363,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 5356,
+            "totalVotes": 7011,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 838,
+                "votes": 1932,
                 "Precinct": [
                   {
                     "name": "1A",
@@ -1375,11 +1375,11 @@
                   },
                   {
                     "name": "1B",
-                    "votes": 0
+                    "votes": 92
                   },
                   {
                     "name": "1C",
-                    "votes": 0
+                    "votes": 92
                   },
                   {
                     "name": "1D",
@@ -1391,7 +1391,7 @@
                   },
                   {
                     "name": "2B",
-                    "votes": 0
+                    "votes": 158
                   },
                   {
                     "name": "2C",
@@ -1407,15 +1407,15 @@
                   },
                   {
                     "name": "3C",
-                    "votes": 0
+                    "votes": 71
                   },
                   {
                     "name": "3D",
-                    "votes": 0
+                    "votes": 171
                   },
                   {
                     "name": "4A",
-                    "votes": 0
+                    "votes": 134
                   },
                   {
                     "name": "4B",
@@ -1427,11 +1427,11 @@
                   },
                   {
                     "name": "5A",
-                    "votes": 0
+                    "votes": 115
                   },
                   {
                     "name": "5B",
-                    "votes": 0
+                    "votes": 261
                   },
                   {
                     "name": "5C",
@@ -1515,75 +1515,75 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1530,
+                "votes": 2091,
                 "Precinct": [
                   {
                     "name": "1A",
-                    "votes": 70
+                    "votes": 104
                   },
                   {
                     "name": "1B",
-                    "votes": 69
+                    "votes": 95
                   },
                   {
                     "name": "1C",
-                    "votes": 46
+                    "votes": 59
                   },
                   {
                     "name": "1D",
-                    "votes": 48
+                    "votes": 66
                   },
                   {
                     "name": "2A",
-                    "votes": 92
+                    "votes": 131
                   },
                   {
                     "name": "2B",
-                    "votes": 106
+                    "votes": 138
                   },
                   {
                     "name": "2C",
-                    "votes": 178
+                    "votes": 273
                   },
                   {
                     "name": "3A",
-                    "votes": 44
+                    "votes": 49
                   },
                   {
                     "name": "3B",
-                    "votes": 72
+                    "votes": 94
                   },
                   {
                     "name": "3C",
-                    "votes": 42
+                    "votes": 54
                   },
                   {
                     "name": "3D",
-                    "votes": 98
+                    "votes": 148
                   },
                   {
                     "name": "4A",
-                    "votes": 119
+                    "votes": 161
                   },
                   {
                     "name": "4B",
-                    "votes": 108
+                    "votes": 131
                   },
                   {
                     "name": "4C",
-                    "votes": 71
+                    "votes": 104
                   },
                   {
                     "name": "5A",
-                    "votes": 89
+                    "votes": 127
                   },
                   {
                     "name": "5B",
-                    "votes": 186
+                    "votes": 243
                   },
                   {
                     "name": "5C",
-                    "votes": 92
+                    "votes": 114
                   }
                 ]
               },
@@ -1671,39 +1671,39 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 17,
-        "precinctsReported": 8,
+        "precinctsReported": 16,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 219,
+            "votes": 301,
             "Precinct": [
               {
                 "name": "1A",
-                "votes": 4
+                "votes": 6
               },
               {
                 "name": "1B",
-                "votes": 10
+                "votes": 17
               },
               {
                 "name": "1C",
-                "votes": 10
+                "votes": 15
               },
               {
                 "name": "1D",
-                "votes": 14
+                "votes": 16
               },
               {
                 "name": "2A",
-                "votes": 12
+                "votes": 16
               },
               {
                 "name": "2B",
-                "votes": 7
+                "votes": 18
               },
               {
                 "name": "2C",
-                "votes": 23
+                "votes": 26
               },
               {
                 "name": "3A",
@@ -1711,19 +1711,19 @@
               },
               {
                 "name": "3B",
-                "votes": 17
+                "votes": 18
               },
               {
                 "name": "3C",
-                "votes": 17
+                "votes": 22
               },
               {
                 "name": "3D",
-                "votes": 15
+                "votes": 25
               },
               {
                 "name": "4A",
-                "votes": 15
+                "votes": 24
               },
               {
                 "name": "4B",
@@ -1735,15 +1735,15 @@
               },
               {
                 "name": "5A",
-                "votes": 6
+                "votes": 19
               },
               {
                 "name": "5B",
-                "votes": 16
+                "votes": 24
               },
               {
                 "name": "5C",
-                "votes": 6
+                "votes": 8
               }
             ]
           },
@@ -1826,11 +1826,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 15191,
+            "totalVotes": 20357,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 4410,
+                "votes": 9067,
                 "Precinct": [
                   {
                     "name": "1A",
@@ -1838,11 +1838,11 @@
                   },
                   {
                     "name": "1B",
-                    "votes": 0
+                    "votes": 743
                   },
                   {
                     "name": "1C",
-                    "votes": 0
+                    "votes": 450
                   },
                   {
                     "name": "1D",
@@ -1854,7 +1854,7 @@
                   },
                   {
                     "name": "2B",
-                    "votes": 0
+                    "votes": 650
                   },
                   {
                     "name": "2C",
@@ -1870,15 +1870,15 @@
                   },
                   {
                     "name": "3C",
-                    "votes": 0
+                    "votes": 406
                   },
                   {
                     "name": "3D",
-                    "votes": 0
+                    "votes": 578
                   },
                   {
                     "name": "4A",
-                    "votes": 0
+                    "votes": 649
                   },
                   {
                     "name": "4B",
@@ -1890,11 +1890,11 @@
                   },
                   {
                     "name": "5A",
-                    "votes": 0
+                    "votes": 562
                   },
                   {
                     "name": "5B",
-                    "votes": 0
+                    "votes": 619
                   },
                   {
                     "name": "5C",
@@ -1978,75 +1978,75 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1260,
+                "votes": 1769,
                 "Precinct": [
                   {
                     "name": "1A",
-                    "votes": 51
+                    "votes": 79
                   },
                   {
                     "name": "1B",
-                    "votes": 96
+                    "votes": 128
                   },
                   {
                     "name": "1C",
-                    "votes": 32
+                    "votes": 47
                   },
                   {
                     "name": "1D",
-                    "votes": 81
+                    "votes": 103
                   },
                   {
                     "name": "2A",
-                    "votes": 84
+                    "votes": 118
                   },
                   {
                     "name": "2B",
-                    "votes": 102
+                    "votes": 131
                   },
                   {
                     "name": "2C",
-                    "votes": 169
+                    "votes": 219
                   },
                   {
                     "name": "3A",
-                    "votes": 41
+                    "votes": 62
                   },
                   {
                     "name": "3B",
-                    "votes": 33
+                    "votes": 48
                   },
                   {
                     "name": "3C",
-                    "votes": 56
+                    "votes": 76
                   },
                   {
                     "name": "3D",
-                    "votes": 69
+                    "votes": 93
                   },
                   {
                     "name": "4A",
-                    "votes": 120
+                    "votes": 171
                   },
                   {
                     "name": "4B",
-                    "votes": 42
+                    "votes": 64
                   },
                   {
                     "name": "4C",
-                    "votes": 67
+                    "votes": 109
                   },
                   {
                     "name": "5A",
-                    "votes": 74
+                    "votes": 125
                   },
                   {
                     "name": "5B",
-                    "votes": 95
+                    "votes": 127
                   },
                   {
                     "name": "5C",
-                    "votes": 48
+                    "votes": 69
                   }
                 ]
               },
@@ -2129,11 +2129,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 5137,
+            "totalVotes": 6709,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 785,
+                "votes": 1827,
                 "Precinct": [
                   {
                     "name": "1A",
@@ -2141,11 +2141,11 @@
                   },
                   {
                     "name": "1B",
-                    "votes": 0
+                    "votes": 89
                   },
                   {
                     "name": "1C",
-                    "votes": 0
+                    "votes": 84
                   },
                   {
                     "name": "1D",
@@ -2157,7 +2157,7 @@
                   },
                   {
                     "name": "2B",
-                    "votes": 0
+                    "votes": 151
                   },
                   {
                     "name": "2C",
@@ -2173,15 +2173,15 @@
                   },
                   {
                     "name": "3C",
-                    "votes": 0
+                    "votes": 69
                   },
                   {
                     "name": "3D",
-                    "votes": 0
+                    "votes": 169
                   },
                   {
                     "name": "4A",
-                    "votes": 0
+                    "votes": 123
                   },
                   {
                     "name": "4B",
@@ -2193,11 +2193,11 @@
                   },
                   {
                     "name": "5A",
-                    "votes": 0
+                    "votes": 104
                   },
                   {
                     "name": "5B",
-                    "votes": 0
+                    "votes": 253
                   },
                   {
                     "name": "5C",
@@ -2281,75 +2281,75 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1480,
+                "votes": 2010,
                 "Precinct": [
                   {
                     "name": "1A",
-                    "votes": 71
+                    "votes": 103
                   },
                   {
                     "name": "1B",
-                    "votes": 68
+                    "votes": 95
                   },
                   {
                     "name": "1C",
-                    "votes": 44
+                    "votes": 55
                   },
                   {
                     "name": "1D",
-                    "votes": 42
+                    "votes": 59
                   },
                   {
                     "name": "2A",
-                    "votes": 89
+                    "votes": 123
                   },
                   {
                     "name": "2B",
-                    "votes": 96
+                    "votes": 126
                   },
                   {
                     "name": "2C",
-                    "votes": 170
+                    "votes": 264
                   },
                   {
                     "name": "3A",
-                    "votes": 41
+                    "votes": 47
                   },
                   {
                     "name": "3B",
-                    "votes": 69
-                  },
-                  {
-                    "name": "3C",
-                    "votes": 41
-                  },
-                  {
-                    "name": "3D",
-                    "votes": 97
-                  },
-                  {
-                    "name": "4A",
-                    "votes": 114
-                  },
-                  {
-                    "name": "4B",
-                    "votes": 108
-                  },
-                  {
-                    "name": "4C",
-                    "votes": 70
-                  },
-                  {
-                    "name": "5A",
                     "votes": 89
                   },
                   {
+                    "name": "3C",
+                    "votes": 52
+                  },
+                  {
+                    "name": "3D",
+                    "votes": 146
+                  },
+                  {
+                    "name": "4A",
+                    "votes": 155
+                  },
+                  {
+                    "name": "4B",
+                    "votes": 130
+                  },
+                  {
+                    "name": "4C",
+                    "votes": 101
+                  },
+                  {
+                    "name": "5A",
+                    "votes": 122
+                  },
+                  {
                     "name": "5B",
-                    "votes": 180
+                    "votes": 233
                   },
                   {
                     "name": "5C",
-                    "votes": 91
+                    "votes": 110
                   }
                 ]
               },

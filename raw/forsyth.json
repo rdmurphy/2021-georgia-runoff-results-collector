@@ -1,21 +1,21 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 10:20:53 PM EST",
+    "Timestamp": "1/5/2021 10:56:32 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Forsyth",
     "VoterTurnout": {
       "totalVoters": 166928,
-      "ballotsCast": 98116,
-      "voterTurnout": 58.78,
+      "ballotsCast": 109582,
+      "voterTurnout": 65.65,
       "Precincts": {
         "Precinct": [
           {
             "name": "01 Big Creek",
             "totalVoters": 11458,
-            "ballotsCast": 5793,
-            "voterTurnout": 50.56,
-            "percentReporting": "2"
+            "ballotsCast": 7538,
+            "voterTurnout": 65.79,
+            "percentReporting": "4"
           },
           {
             "name": "02 Brandywine",
@@ -34,9 +34,9 @@
           {
             "name": "04 Chestatee",
             "totalVoters": 6922,
-            "ballotsCast": 3210,
-            "voterTurnout": 46.37,
-            "percentReporting": "2"
+            "ballotsCast": 4442,
+            "voterTurnout": 64.17,
+            "percentReporting": "4"
           },
           {
             "name": "05 Coal Mountain",
@@ -55,9 +55,9 @@
           {
             "name": "07 Cumming",
             "totalVoters": 6427,
-            "ballotsCast": 2762,
-            "voterTurnout": 42.97,
-            "percentReporting": "2"
+            "ballotsCast": 3651,
+            "voterTurnout": 56.81,
+            "percentReporting": "4"
           },
           {
             "name": "08 Mashburn",
@@ -90,23 +90,23 @@
           {
             "name": "19 Old Atlanta",
             "totalVoters": 3784,
-            "ballotsCast": 1471,
-            "voterTurnout": 38.87,
-            "percentReporting": "2"
+            "ballotsCast": 2605,
+            "voterTurnout": 68.84,
+            "percentReporting": "4"
           },
           {
             "name": "21 South Forsyth",
             "totalVoters": 8431,
-            "ballotsCast": 4491,
-            "voterTurnout": 53.27,
-            "percentReporting": "2"
+            "ballotsCast": 5769,
+            "voterTurnout": 68.43,
+            "percentReporting": "4"
           },
           {
             "name": "25 Windermere",
             "totalVoters": 9935,
-            "ballotsCast": 4304,
-            "voterTurnout": 43.32,
-            "percentReporting": "2"
+            "ballotsCast": 6368,
+            "voterTurnout": 64.1,
+            "percentReporting": "4"
           },
           {
             "name": "27 Concord",
@@ -118,9 +118,9 @@
           {
             "name": "29 Polo",
             "totalVoters": 11386,
-            "ballotsCast": 5844,
-            "voterTurnout": 51.33,
-            "percentReporting": "2"
+            "ballotsCast": 7471,
+            "voterTurnout": 65.62,
+            "percentReporting": "4"
           },
           {
             "name": "34 Fowler",
@@ -146,9 +146,9 @@
           {
             "name": "37 Sawnee",
             "totalVoters": 12163,
-            "ballotsCast": 6718,
-            "voterTurnout": 55.23,
-            "percentReporting": "2"
+            "ballotsCast": 8215,
+            "voterTurnout": 67.54,
+            "percentReporting": "4"
           }
         ]
       }
@@ -160,15 +160,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 20,
-        "precinctsReported": 12,
+        "precinctsReported": 20,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 74,
+            "votes": 84,
             "Precinct": [
               {
                 "name": "01 Big Creek",
-                "votes": 4
+                "votes": 9
               },
               {
                 "name": "02 Brandywine",
@@ -212,15 +212,15 @@
               },
               {
                 "name": "19 Old Atlanta",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "21 South Forsyth",
-                "votes": 5
+                "votes": 6
               },
               {
                 "name": "25 Windermere",
-                "votes": 8
+                "votes": 9
               },
               {
                 "name": "27 Concord",
@@ -228,7 +228,7 @@
               },
               {
                 "name": "29 Polo",
-                "votes": 7
+                "votes": 8
               },
               {
                 "name": "34 Fowler",
@@ -244,7 +244,7 @@
               },
               {
                 "name": "37 Sawnee",
-                "votes": 0
+                "votes": 1
               }
             ]
           },
@@ -339,15 +339,15 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 67165,
+            "totalVotes": 75734,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 12969,
+                "votes": 21538,
                 "Precinct": [
                   {
                     "name": "01 Big Creek",
-                    "votes": 0
+                    "votes": 1202
                   },
                   {
                     "name": "02 Brandywine",
@@ -359,7 +359,7 @@
                   },
                   {
                     "name": "04 Chestatee",
-                    "votes": 0
+                    "votes": 1088
                   },
                   {
                     "name": "05 Coal Mountain",
@@ -371,7 +371,7 @@
                   },
                   {
                     "name": "07 Cumming",
-                    "votes": 0
+                    "votes": 649
                   },
                   {
                     "name": "08 Mashburn",
@@ -391,15 +391,15 @@
                   },
                   {
                     "name": "19 Old Atlanta",
-                    "votes": 0
+                    "votes": 820
                   },
                   {
                     "name": "21 South Forsyth",
-                    "votes": 0
+                    "votes": 969
                   },
                   {
                     "name": "25 Windermere",
-                    "votes": 0
+                    "votes": 1442
                   },
                   {
                     "name": "27 Concord",
@@ -407,7 +407,7 @@
                   },
                   {
                     "name": "29 Polo",
-                    "votes": 0
+                    "votes": 1205
                   },
                   {
                     "name": "34 Fowler",
@@ -423,7 +423,7 @@
                   },
                   {
                     "name": "37 Sawnee",
-                    "votes": 0
+                    "votes": 1194
                   }
                 ]
               },
@@ -690,15 +690,15 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 30877,
+            "totalVotes": 33764,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 3689,
+                "votes": 6576,
                 "Precinct": [
                   {
                     "name": "01 Big Creek",
-                    "votes": 0
+                    "votes": 538
                   },
                   {
                     "name": "02 Brandywine",
@@ -710,7 +710,7 @@
                   },
                   {
                     "name": "04 Chestatee",
-                    "votes": 0
+                    "votes": 144
                   },
                   {
                     "name": "05 Coal Mountain",
@@ -722,7 +722,7 @@
                   },
                   {
                     "name": "07 Cumming",
-                    "votes": 0
+                    "votes": 240
                   },
                   {
                     "name": "08 Mashburn",
@@ -742,15 +742,15 @@
                   },
                   {
                     "name": "19 Old Atlanta",
-                    "votes": 0
+                    "votes": 313
                   },
                   {
                     "name": "21 South Forsyth",
-                    "votes": 0
+                    "votes": 308
                   },
                   {
                     "name": "25 Windermere",
-                    "votes": 0
+                    "votes": 621
                   },
                   {
                     "name": "27 Concord",
@@ -758,7 +758,7 @@
                   },
                   {
                     "name": "29 Polo",
-                    "votes": 0
+                    "votes": 421
                   },
                   {
                     "name": "34 Fowler",
@@ -774,7 +774,7 @@
                   },
                   {
                     "name": "37 Sawnee",
-                    "votes": 0
+                    "votes": 302
                   }
                 ]
               },
@@ -1046,15 +1046,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 20,
-        "precinctsReported": 12,
+        "precinctsReported": 20,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 115,
+            "votes": 138,
             "Precinct": [
               {
                 "name": "01 Big Creek",
-                "votes": 8
+                "votes": 13
               },
               {
                 "name": "02 Brandywine",
@@ -1066,7 +1066,7 @@
               },
               {
                 "name": "04 Chestatee",
-                "votes": 3
+                "votes": 4
               },
               {
                 "name": "05 Coal Mountain",
@@ -1078,7 +1078,7 @@
               },
               {
                 "name": "07 Cumming",
-                "votes": 5
+                "votes": 9
               },
               {
                 "name": "08 Mashburn",
@@ -1098,15 +1098,15 @@
               },
               {
                 "name": "19 Old Atlanta",
-                "votes": 2
+                "votes": 5
               },
               {
                 "name": "21 South Forsyth",
-                "votes": 16
+                "votes": 17
               },
               {
                 "name": "25 Windermere",
-                "votes": 7
+                "votes": 10
               },
               {
                 "name": "27 Concord",
@@ -1114,7 +1114,7 @@
               },
               {
                 "name": "29 Polo",
-                "votes": 7
+                "votes": 10
               },
               {
                 "name": "34 Fowler",
@@ -1130,7 +1130,7 @@
               },
               {
                 "name": "37 Sawnee",
-                "votes": 9
+                "votes": 12
               }
             ]
           },
@@ -1225,15 +1225,15 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 66514,
+            "totalVotes": 74988,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 12821,
+                "votes": 21295,
                 "Precinct": [
                   {
                     "name": "01 Big Creek",
-                    "votes": 0
+                    "votes": 1186
                   },
                   {
                     "name": "02 Brandywine",
@@ -1245,7 +1245,7 @@
                   },
                   {
                     "name": "04 Chestatee",
-                    "votes": 0
+                    "votes": 1082
                   },
                   {
                     "name": "05 Coal Mountain",
@@ -1257,7 +1257,7 @@
                   },
                   {
                     "name": "07 Cumming",
-                    "votes": 0
+                    "votes": 640
                   },
                   {
                     "name": "08 Mashburn",
@@ -1277,15 +1277,15 @@
                   },
                   {
                     "name": "19 Old Atlanta",
-                    "votes": 0
+                    "votes": 799
                   },
                   {
                     "name": "21 South Forsyth",
-                    "votes": 0
+                    "votes": 955
                   },
                   {
                     "name": "25 Windermere",
-                    "votes": 0
+                    "votes": 1434
                   },
                   {
                     "name": "27 Concord",
@@ -1293,7 +1293,7 @@
                   },
                   {
                     "name": "29 Polo",
-                    "votes": 0
+                    "votes": 1188
                   },
                   {
                     "name": "34 Fowler",
@@ -1309,7 +1309,7 @@
                   },
                   {
                     "name": "37 Sawnee",
-                    "votes": 0
+                    "votes": 1190
                   }
                 ]
               },
@@ -1576,15 +1576,15 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 31487,
+            "totalVotes": 34456,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 3836,
+                "votes": 6805,
                 "Precinct": [
                   {
                     "name": "01 Big Creek",
-                    "votes": 0
+                    "votes": 554
                   },
                   {
                     "name": "02 Brandywine",
@@ -1596,7 +1596,7 @@
                   },
                   {
                     "name": "04 Chestatee",
-                    "votes": 0
+                    "votes": 149
                   },
                   {
                     "name": "05 Coal Mountain",
@@ -1608,7 +1608,7 @@
                   },
                   {
                     "name": "07 Cumming",
-                    "votes": 0
+                    "votes": 245
                   },
                   {
                     "name": "08 Mashburn",
@@ -1628,15 +1628,15 @@
                   },
                   {
                     "name": "19 Old Atlanta",
-                    "votes": 0
+                    "votes": 332
                   },
                   {
                     "name": "21 South Forsyth",
-                    "votes": 0
+                    "votes": 322
                   },
                   {
                     "name": "25 Windermere",
-                    "votes": 0
+                    "votes": 627
                   },
                   {
                     "name": "27 Concord",
@@ -1644,7 +1644,7 @@
                   },
                   {
                     "name": "29 Polo",
-                    "votes": 0
+                    "votes": 436
                   },
                   {
                     "name": "34 Fowler",
@@ -1660,7 +1660,7 @@
                   },
                   {
                     "name": "37 Sawnee",
-                    "votes": 0
+                    "votes": 304
                   }
                 ]
               },
@@ -1932,15 +1932,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 20,
-        "precinctsReported": 12,
+        "precinctsReported": 20,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 896,
+            "votes": 990,
             "Precinct": [
               {
                 "name": "01 Big Creek",
-                "votes": 70
+                "votes": 80
               },
               {
                 "name": "02 Brandywine",
@@ -1952,7 +1952,7 @@
               },
               {
                 "name": "04 Chestatee",
-                "votes": 34
+                "votes": 44
               },
               {
                 "name": "05 Coal Mountain",
@@ -1964,7 +1964,7 @@
               },
               {
                 "name": "07 Cumming",
-                "votes": 28
+                "votes": 37
               },
               {
                 "name": "08 Mashburn",
@@ -1984,15 +1984,15 @@
               },
               {
                 "name": "19 Old Atlanta",
-                "votes": 18
+                "votes": 25
               },
               {
                 "name": "21 South Forsyth",
-                "votes": 44
+                "votes": 56
               },
               {
                 "name": "25 Windermere",
-                "votes": 43
+                "votes": 65
               },
               {
                 "name": "27 Concord",
@@ -2000,7 +2000,7 @@
               },
               {
                 "name": "29 Polo",
-                "votes": 66
+                "votes": 76
               },
               {
                 "name": "34 Fowler",
@@ -2016,7 +2016,7 @@
               },
               {
                 "name": "37 Sawnee",
-                "votes": 46
+                "votes": 60
               }
             ]
           },
@@ -2111,15 +2111,15 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 68236,
+            "totalVotes": 76926,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 13178,
+                "votes": 21868,
                 "Precinct": [
                   {
                     "name": "01 Big Creek",
-                    "votes": 0
+                    "votes": 1219
                   },
                   {
                     "name": "02 Brandywine",
@@ -2131,7 +2131,7 @@
                   },
                   {
                     "name": "04 Chestatee",
-                    "votes": 0
+                    "votes": 1096
                   },
                   {
                     "name": "05 Coal Mountain",
@@ -2143,7 +2143,7 @@
                   },
                   {
                     "name": "07 Cumming",
-                    "votes": 0
+                    "votes": 656
                   },
                   {
                     "name": "08 Mashburn",
@@ -2163,15 +2163,15 @@
                   },
                   {
                     "name": "19 Old Atlanta",
-                    "votes": 0
+                    "votes": 847
                   },
                   {
                     "name": "21 South Forsyth",
-                    "votes": 0
+                    "votes": 965
                   },
                   {
                     "name": "25 Windermere",
-                    "votes": 0
+                    "votes": 1485
                   },
                   {
                     "name": "27 Concord",
@@ -2179,7 +2179,7 @@
                   },
                   {
                     "name": "29 Polo",
-                    "votes": 0
+                    "votes": 1215
                   },
                   {
                     "name": "34 Fowler",
@@ -2195,7 +2195,7 @@
                   },
                   {
                     "name": "37 Sawnee",
-                    "votes": 0
+                    "votes": 1207
                   }
                 ]
               },
@@ -2462,15 +2462,15 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 28984,
+            "totalVotes": 31666,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 3375,
+                "votes": 6057,
                 "Precinct": [
                   {
                     "name": "01 Big Creek",
-                    "votes": 0
+                    "votes": 516
                   },
                   {
                     "name": "02 Brandywine",
@@ -2482,7 +2482,7 @@
                   },
                   {
                     "name": "04 Chestatee",
-                    "votes": 0
+                    "votes": 126
                   },
                   {
                     "name": "05 Coal Mountain",
@@ -2494,7 +2494,7 @@
                   },
                   {
                     "name": "07 Cumming",
-                    "votes": 0
+                    "votes": 224
                   },
                   {
                     "name": "08 Mashburn",
@@ -2514,15 +2514,15 @@
                   },
                   {
                     "name": "19 Old Atlanta",
-                    "votes": 0
+                    "votes": 280
                   },
                   {
                     "name": "21 South Forsyth",
-                    "votes": 0
+                    "votes": 301
                   },
                   {
                     "name": "25 Windermere",
-                    "votes": 0
+                    "votes": 557
                   },
                   {
                     "name": "27 Concord",
@@ -2530,7 +2530,7 @@
                   },
                   {
                     "name": "29 Polo",
-                    "votes": 0
+                    "votes": 402
                   },
                   {
                     "name": "34 Fowler",
@@ -2546,7 +2546,7 @@
                   },
                   {
                     "name": "37 Sawnee",
-                    "votes": 0
+                    "votes": 276
                   }
                 ]
               },
