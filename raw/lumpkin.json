@@ -1,21 +1,21 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 9:04:32 PM EST",
+    "Timestamp": "1/5/2021 10:12:54 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Lumpkin",
     "VoterTurnout": {
       "totalVoters": 22821,
-      "ballotsCast": 0,
-      "voterTurnout": 0.0,
+      "ballotsCast": 11046,
+      "voterTurnout": 48.4,
       "Precincts": {
         "Precinct": [
           {
             "name": "Dahlonega",
             "totalVoters": 22821,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 11046,
+            "voterTurnout": 48.4,
+            "percentReporting": "4"
           }
         ]
       }
@@ -27,15 +27,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 1,
-        "precinctsReported": 0,
+        "precinctsReported": 1,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 0,
+            "votes": 12,
             "Precinct": [
               {
                 "name": "Dahlonega",
-                "votes": 0
+                "votes": 12
               }
             ]
           },
@@ -54,25 +54,25 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 0,
+            "totalVotes": 9300,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 2977,
                 "Precinct": [
                   {
                     "name": "Dahlonega",
-                    "votes": 0
+                    "votes": 2977
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 6323,
                 "Precinct": [
                   {
                     "name": "Dahlonega",
-                    "votes": 0
+                    "votes": 6323
                   }
                 ]
               },
@@ -101,25 +101,25 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 0,
+            "totalVotes": 1734,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 417,
                 "Precinct": [
                   {
                     "name": "Dahlonega",
-                    "votes": 0
+                    "votes": 417
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 1317,
                 "Precinct": [
                   {
                     "name": "Dahlonega",
-                    "votes": 0
+                    "votes": 1317
                   }
                 ]
               },
@@ -153,15 +153,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 1,
-        "precinctsReported": 0,
+        "precinctsReported": 1,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 0,
+            "votes": 11,
             "Precinct": [
               {
                 "name": "Dahlonega",
-                "votes": 0
+                "votes": 11
               }
             ]
           },
@@ -180,25 +180,25 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 0,
+            "totalVotes": 9270,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 2966,
                 "Precinct": [
                   {
                     "name": "Dahlonega",
-                    "votes": 0
+                    "votes": 2966
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 6304,
                 "Precinct": [
                   {
                     "name": "Dahlonega",
-                    "votes": 0
+                    "votes": 6304
                   }
                 ]
               },
@@ -227,25 +227,25 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 0,
+            "totalVotes": 1765,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 427,
                 "Precinct": [
                   {
                     "name": "Dahlonega",
-                    "votes": 0
+                    "votes": 427
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 1338,
                 "Precinct": [
                   {
                     "name": "Dahlonega",
-                    "votes": 0
+                    "votes": 1338
                   }
                 ]
               },
@@ -279,15 +279,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 1,
-        "precinctsReported": 0,
+        "precinctsReported": 1,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 0,
+            "votes": 84,
             "Precinct": [
               {
                 "name": "Dahlonega",
-                "votes": 0
+                "votes": 84
               }
             ]
           },
@@ -306,25 +306,25 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 0,
+            "totalVotes": 9309,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 2989,
                 "Precinct": [
                   {
                     "name": "Dahlonega",
-                    "votes": 0
+                    "votes": 2989
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 6320,
                 "Precinct": [
                   {
                     "name": "Dahlonega",
-                    "votes": 0
+                    "votes": 6320
                   }
                 ]
               },
@@ -353,25 +353,25 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 0,
+            "totalVotes": 1653,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 386,
                 "Precinct": [
                   {
                     "name": "Dahlonega",
-                    "votes": 0
+                    "votes": 386
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 1267,
                 "Precinct": [
                   {
                     "name": "Dahlonega",
-                    "votes": 0
+                    "votes": 1267
                   }
                 ]
               },

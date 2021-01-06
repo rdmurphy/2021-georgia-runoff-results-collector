@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 9:02:07 PM EST",
+    "Timestamp": "1/5/2021 10:01:32 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Liberty",
     "VoterTurnout": {
       "totalVoters": 37354,
-      "ballotsCast": 15723,
-      "voterTurnout": 42.09,
+      "ballotsCast": 18338,
+      "voterTurnout": 49.09,
       "Precincts": {
         "Precinct": [
           {
@@ -34,23 +34,23 @@
           {
             "name": "Memorial Dr East",
             "totalVoters": 2183,
-            "ballotsCast": 730,
-            "voterTurnout": 33.44,
-            "percentReporting": "2"
+            "ballotsCast": 910,
+            "voterTurnout": 41.69,
+            "percentReporting": "4"
           },
           {
             "name": "Button Gwinnett",
             "totalVoters": 2489,
-            "ballotsCast": 217,
-            "voterTurnout": 8.72,
-            "percentReporting": "2"
+            "ballotsCast": 344,
+            "voterTurnout": 13.82,
+            "percentReporting": "4"
           },
           {
             "name": "Town of Allenhurst",
             "totalVoters": 2537,
-            "ballotsCast": 1061,
-            "voterTurnout": 41.82,
-            "percentReporting": "2"
+            "ballotsCast": 1380,
+            "voterTurnout": 54.39,
+            "percentReporting": "4"
           },
           {
             "name": "Hinesville",
@@ -62,16 +62,16 @@
           {
             "name": "Liberty County Complex",
             "totalVoters": 4480,
-            "ballotsCast": 2228,
-            "voterTurnout": 49.73,
-            "percentReporting": "2"
+            "ballotsCast": 2761,
+            "voterTurnout": 61.63,
+            "percentReporting": "4"
           },
           {
             "name": "Walthourville",
             "totalVoters": 3189,
-            "ballotsCast": 1189,
-            "voterTurnout": 37.28,
-            "percentReporting": "2"
+            "ballotsCast": 1528,
+            "voterTurnout": 47.91,
+            "percentReporting": "4"
           },
           {
             "name": "Fleming West",
@@ -83,16 +83,16 @@
           {
             "name": "Fleming East",
             "totalVoters": 3357,
-            "ballotsCast": 1325,
-            "voterTurnout": 39.47,
-            "percentReporting": "2"
+            "ballotsCast": 1936,
+            "voterTurnout": 57.67,
+            "percentReporting": "4"
           },
           {
             "name": "Gum Branch",
             "totalVoters": 3435,
-            "ballotsCast": 955,
-            "voterTurnout": 27.8,
-            "percentReporting": "2"
+            "ballotsCast": 1461,
+            "voterTurnout": 42.53,
+            "percentReporting": "4"
           },
           {
             "name": "Hinesville Lodge 271",
@@ -111,11 +111,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 13,
-        "precinctsReported": 6,
+        "precinctsReported": 13,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 36,
+            "votes": 42,
             "Precinct": [
               {
                 "name": "Riceboro Youth Center",
@@ -131,7 +131,7 @@
               },
               {
                 "name": "Memorial Dr East",
-                "votes": 4
+                "votes": 5
               },
               {
                 "name": "Button Gwinnett",
@@ -147,7 +147,7 @@
               },
               {
                 "name": "Liberty County Complex",
-                "votes": 9
+                "votes": 12
               },
               {
                 "name": "Walthourville",
@@ -163,7 +163,7 @@
               },
               {
                 "name": "Gum Branch",
-                "votes": 3
+                "votes": 5
               },
               {
                 "name": "Hinesville Lodge 271",
@@ -234,11 +234,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 4914,
+            "totalVotes": 6482,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 688,
+                "votes": 2256,
                 "Precinct": [
                   {
                     "name": "Riceboro Youth Center",
@@ -254,15 +254,15 @@
                   },
                   {
                     "name": "Memorial Dr East",
-                    "votes": 0
+                    "votes": 58
                   },
                   {
                     "name": "Button Gwinnett",
-                    "votes": 0
+                    "votes": 61
                   },
                   {
                     "name": "Town of Allenhurst",
-                    "votes": 0
+                    "votes": 111
                   },
                   {
                     "name": "Hinesville",
@@ -270,11 +270,11 @@
                   },
                   {
                     "name": "Liberty County Complex",
-                    "votes": 0
+                    "votes": 330
                   },
                   {
                     "name": "Walthourville",
-                    "votes": 0
+                    "votes": 125
                   },
                   {
                     "name": "Fleming West",
@@ -282,11 +282,11 @@
                   },
                   {
                     "name": "Fleming East",
-                    "votes": 0
+                    "votes": 494
                   },
                   {
                     "name": "Gum Branch",
-                    "votes": 0
+                    "votes": 389
                   },
                   {
                     "name": "Hinesville Lodge 271",
@@ -473,11 +473,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 10772,
+            "totalVotes": 11813,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1043,
+                "votes": 2084,
                 "Precinct": [
                   {
                     "name": "Riceboro Youth Center",
@@ -493,15 +493,15 @@
                   },
                   {
                     "name": "Memorial Dr East",
-                    "votes": 0
+                    "votes": 121
                   },
                   {
                     "name": "Button Gwinnett",
-                    "votes": 0
+                    "votes": 66
                   },
                   {
                     "name": "Town of Allenhurst",
-                    "votes": 0
+                    "votes": 208
                   },
                   {
                     "name": "Hinesville",
@@ -509,11 +509,11 @@
                   },
                   {
                     "name": "Liberty County Complex",
-                    "votes": 0
+                    "votes": 200
                   },
                   {
                     "name": "Walthourville",
-                    "votes": 0
+                    "votes": 214
                   },
                   {
                     "name": "Fleming West",
@@ -521,11 +521,11 @@
                   },
                   {
                     "name": "Fleming East",
-                    "votes": 0
+                    "votes": 117
                   },
                   {
                     "name": "Gum Branch",
-                    "votes": 0
+                    "votes": 115
                   },
                   {
                     "name": "Hinesville Lodge 271",
@@ -717,11 +717,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 13,
-        "precinctsReported": 6,
+        "precinctsReported": 13,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 22,
+            "votes": 26,
             "Precinct": [
               {
                 "name": "Riceboro Youth Center",
@@ -753,7 +753,7 @@
               },
               {
                 "name": "Liberty County Complex",
-                "votes": 5
+                "votes": 7
               },
               {
                 "name": "Walthourville",
@@ -765,7 +765,7 @@
               },
               {
                 "name": "Fleming East",
-                "votes": 2
+                "votes": 4
               },
               {
                 "name": "Gum Branch",
@@ -840,11 +840,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 4893,
+            "totalVotes": 6454,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 695,
+                "votes": 2256,
                 "Precinct": [
                   {
                     "name": "Riceboro Youth Center",
@@ -860,15 +860,15 @@
                   },
                   {
                     "name": "Memorial Dr East",
-                    "votes": 0
+                    "votes": 57
                   },
                   {
                     "name": "Button Gwinnett",
-                    "votes": 0
+                    "votes": 62
                   },
                   {
                     "name": "Town of Allenhurst",
-                    "votes": 0
+                    "votes": 110
                   },
                   {
                     "name": "Hinesville",
@@ -876,11 +876,11 @@
                   },
                   {
                     "name": "Liberty County Complex",
-                    "votes": 0
+                    "votes": 330
                   },
                   {
                     "name": "Walthourville",
-                    "votes": 0
+                    "votes": 125
                   },
                   {
                     "name": "Fleming West",
@@ -888,11 +888,11 @@
                   },
                   {
                     "name": "Fleming East",
-                    "votes": 0
+                    "votes": 489
                   },
                   {
                     "name": "Gum Branch",
-                    "votes": 0
+                    "votes": 388
                   },
                   {
                     "name": "Hinesville Lodge 271",
@@ -1079,11 +1079,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 10808,
+            "totalVotes": 11858,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1040,
+                "votes": 2090,
                 "Precinct": [
                   {
                     "name": "Riceboro Youth Center",
@@ -1099,15 +1099,15 @@
                   },
                   {
                     "name": "Memorial Dr East",
-                    "votes": 0
+                    "votes": 123
                   },
                   {
                     "name": "Button Gwinnett",
-                    "votes": 0
+                    "votes": 65
                   },
                   {
                     "name": "Town of Allenhurst",
-                    "votes": 0
+                    "votes": 209
                   },
                   {
                     "name": "Hinesville",
@@ -1115,11 +1115,11 @@
                   },
                   {
                     "name": "Liberty County Complex",
-                    "votes": 0
+                    "votes": 201
                   },
                   {
                     "name": "Walthourville",
-                    "votes": 0
+                    "votes": 214
                   },
                   {
                     "name": "Fleming West",
@@ -1127,11 +1127,11 @@
                   },
                   {
                     "name": "Fleming East",
-                    "votes": 0
+                    "votes": 120
                   },
                   {
                     "name": "Gum Branch",
-                    "votes": 0
+                    "votes": 118
                   },
                   {
                     "name": "Hinesville Lodge 271",
@@ -1323,11 +1323,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 13,
-        "precinctsReported": 6,
+        "precinctsReported": 13,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 228,
+            "votes": 250,
             "Precinct": [
               {
                 "name": "Riceboro Youth Center",
@@ -1343,15 +1343,15 @@
               },
               {
                 "name": "Memorial Dr East",
-                "votes": 13
+                "votes": 16
               },
               {
                 "name": "Button Gwinnett",
-                "votes": 3
+                "votes": 4
               },
               {
                 "name": "Town of Allenhurst",
-                "votes": 10
+                "votes": 11
               },
               {
                 "name": "Hinesville",
@@ -1359,11 +1359,11 @@
               },
               {
                 "name": "Liberty County Complex",
-                "votes": 41
+                "votes": 47
               },
               {
                 "name": "Walthourville",
-                "votes": 13
+                "votes": 15
               },
               {
                 "name": "Fleming West",
@@ -1371,11 +1371,11 @@
               },
               {
                 "name": "Fleming East",
-                "votes": 29
+                "votes": 32
               },
               {
                 "name": "Gum Branch",
-                "votes": 15
+                "votes": 21
               },
               {
                 "name": "Hinesville Lodge 271",
@@ -1446,11 +1446,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 4925,
+            "totalVotes": 6506,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 676,
+                "votes": 2257,
                 "Precinct": [
                   {
                     "name": "Riceboro Youth Center",
@@ -1466,15 +1466,15 @@
                   },
                   {
                     "name": "Memorial Dr East",
-                    "votes": 0
+                    "votes": 62
                   },
                   {
                     "name": "Button Gwinnett",
-                    "votes": 0
+                    "votes": 59
                   },
                   {
                     "name": "Town of Allenhurst",
-                    "votes": 0
+                    "votes": 114
                   },
                   {
                     "name": "Hinesville",
@@ -1482,11 +1482,11 @@
                   },
                   {
                     "name": "Liberty County Complex",
-                    "votes": 0
+                    "votes": 334
                   },
                   {
                     "name": "Walthourville",
-                    "votes": 0
+                    "votes": 126
                   },
                   {
                     "name": "Fleming West",
@@ -1494,11 +1494,11 @@
                   },
                   {
                     "name": "Fleming East",
-                    "votes": 0
+                    "votes": 498
                   },
                   {
                     "name": "Gum Branch",
-                    "votes": 0
+                    "votes": 388
                   },
                   {
                     "name": "Hinesville Lodge 271",
@@ -1685,11 +1685,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 10570,
+            "totalVotes": 11582,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1033,
+                "votes": 2045,
                 "Precinct": [
                   {
                     "name": "Riceboro Youth Center",
@@ -1705,15 +1705,15 @@
                   },
                   {
                     "name": "Memorial Dr East",
-                    "votes": 0
+                    "votes": 115
                   },
                   {
                     "name": "Button Gwinnett",
-                    "votes": 0
+                    "votes": 67
                   },
                   {
                     "name": "Town of Allenhurst",
-                    "votes": 0
+                    "votes": 204
                   },
                   {
                     "name": "Hinesville",
@@ -1721,11 +1721,11 @@
                   },
                   {
                     "name": "Liberty County Complex",
-                    "votes": 0
+                    "votes": 193
                   },
                   {
                     "name": "Walthourville",
-                    "votes": 0
+                    "votes": 211
                   },
                   {
                     "name": "Fleming West",
@@ -1733,11 +1733,11 @@
                   },
                   {
                     "name": "Fleming East",
-                    "votes": 0
+                    "votes": 110
                   },
                   {
                     "name": "Gum Branch",
-                    "votes": 0
+                    "votes": 112
                   },
                   {
                     "name": "Hinesville Lodge 271",

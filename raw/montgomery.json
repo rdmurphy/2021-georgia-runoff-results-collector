@@ -1,62 +1,62 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 10:10:01 PM EST",
+    "Timestamp": "1/5/2021 10:06:01 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
-    "Region": "Morgan",
+    "Region": "Montgomery",
     "VoterTurnout": {
-      "totalVoters": 15059,
-      "ballotsCast": 10832,
-      "voterTurnout": 71.93,
+      "totalVoters": 0,
+      "ballotsCast": 3533,
+      "voterTurnout": 0.0,
       "Precincts": {
         "Precinct": [
           {
-            "name": "Northeast Morgan",
-            "totalVoters": 2972,
-            "ballotsCast": 2013,
-            "voterTurnout": 67.73,
+            "name": "Ailey",
+            "totalVoters": 0,
+            "ballotsCast": 315,
+            "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
-            "name": "East Morgan",
-            "totalVoters": 2267,
-            "ballotsCast": 1693,
-            "voterTurnout": 74.68,
+            "name": "Alston",
+            "totalVoters": 0,
+            "ballotsCast": 342,
+            "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
-            "name": "Beth/Springfield",
-            "totalVoters": 866,
-            "ballotsCast": 656,
-            "voterTurnout": 75.75,
+            "name": "Higgston",
+            "totalVoters": 0,
+            "ballotsCast": 850,
+            "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
-            "name": "Central Morgan",
-            "totalVoters": 2800,
-            "ballotsCast": 2037,
-            "voterTurnout": 72.75,
+            "name": "Kibbee",
+            "totalVoters": 0,
+            "ballotsCast": 378,
+            "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
-            "name": "Clacks Chapel",
-            "totalVoters": 731,
-            "ballotsCast": 559,
-            "voterTurnout": 76.47,
+            "name": "Mount Vernon",
+            "totalVoters": 0,
+            "ballotsCast": 836,
+            "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
-            "name": "West Morgan",
-            "totalVoters": 2700,
-            "ballotsCast": 1982,
-            "voterTurnout": 73.41,
+            "name": "Tarrytown",
+            "totalVoters": 0,
+            "ballotsCast": 242,
+            "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
-            "name": "North Morgan",
-            "totalVoters": 2723,
-            "ballotsCast": 1892,
-            "voterTurnout": 69.48,
+            "name": "Uvalda",
+            "totalVoters": 0,
+            "ballotsCast": 570,
+            "voterTurnout": 0.0,
             "percentReporting": "4"
           }
         ]
@@ -73,35 +73,35 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 12,
+            "votes": 14,
             "Precinct": [
               {
-                "name": "Northeast Morgan",
-                "votes": 3
-              },
-              {
-                "name": "East Morgan",
-                "votes": 1
-              },
-              {
-                "name": "Beth/Springfield",
+                "name": "Ailey",
                 "votes": 2
               },
               {
-                "name": "Central Morgan",
-                "votes": 1
-              },
-              {
-                "name": "Clacks Chapel",
-                "votes": 1
-              },
-              {
-                "name": "West Morgan",
-                "votes": 4
-              },
-              {
-                "name": "North Morgan",
+                "name": "Alston",
                 "votes": 0
+              },
+              {
+                "name": "Higgston",
+                "votes": 2
+              },
+              {
+                "name": "Kibbee",
+                "votes": 1
+              },
+              {
+                "name": "Mount Vernon",
+                "votes": 5
+              },
+              {
+                "name": "Tarrytown",
+                "votes": 0
+              },
+              {
+                "name": "Uvalda",
+                "votes": 4
               }
             ]
           },
@@ -110,31 +110,31 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Northeast Morgan",
+                "name": "Ailey",
                 "votes": 0
               },
               {
-                "name": "East Morgan",
+                "name": "Alston",
                 "votes": 0
               },
               {
-                "name": "Beth/Springfield",
+                "name": "Higgston",
                 "votes": 0
               },
               {
-                "name": "Central Morgan",
+                "name": "Kibbee",
                 "votes": 0
               },
               {
-                "name": "Clacks Chapel",
+                "name": "Mount Vernon",
                 "votes": 0
               },
               {
-                "name": "West Morgan",
+                "name": "Tarrytown",
                 "votes": 0
               },
               {
-                "name": "North Morgan",
+                "name": "Uvalda",
                 "votes": 0
               }
             ]
@@ -144,107 +144,107 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 7727,
+            "totalVotes": 2635,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2579,
+                "votes": 1321,
                 "Precinct": [
                   {
-                    "name": "Northeast Morgan",
-                    "votes": 223
+                    "name": "Ailey",
+                    "votes": 81
                   },
                   {
-                    "name": "East Morgan",
-                    "votes": 493
+                    "name": "Alston",
+                    "votes": 170
                   },
                   {
-                    "name": "Beth/Springfield",
-                    "votes": 181
+                    "name": "Higgston",
+                    "votes": 320
                   },
                   {
-                    "name": "Central Morgan",
-                    "votes": 349
+                    "name": "Kibbee",
+                    "votes": 206
                   },
                   {
-                    "name": "Clacks Chapel",
-                    "votes": 171
+                    "name": "Mount Vernon",
+                    "votes": 183
                   },
                   {
-                    "name": "West Morgan",
-                    "votes": 581
+                    "name": "Tarrytown",
+                    "votes": 132
                   },
                   {
-                    "name": "North Morgan",
-                    "votes": 581
+                    "name": "Uvalda",
+                    "votes": 229
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 4420,
+                "votes": 1060,
                 "Precinct": [
                   {
-                    "name": "Northeast Morgan",
-                    "votes": 552
+                    "name": "Ailey",
+                    "votes": 127
                   },
                   {
-                    "name": "East Morgan",
-                    "votes": 727
+                    "name": "Alston",
+                    "votes": 103
                   },
                   {
-                    "name": "Beth/Springfield",
-                    "votes": 293
+                    "name": "Higgston",
+                    "votes": 292
                   },
                   {
-                    "name": "Central Morgan",
-                    "votes": 956
+                    "name": "Kibbee",
+                    "votes": 94
                   },
                   {
-                    "name": "Clacks Chapel",
-                    "votes": 264
+                    "name": "Mount Vernon",
+                    "votes": 225
                   },
                   {
-                    "name": "West Morgan",
-                    "votes": 905
+                    "name": "Tarrytown",
+                    "votes": 74
                   },
                   {
-                    "name": "North Morgan",
-                    "votes": 723
+                    "name": "Uvalda",
+                    "votes": 145
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 728,
+                "votes": 254,
                 "Precinct": [
                   {
-                    "name": "Northeast Morgan",
-                    "votes": 94
+                    "name": "Ailey",
+                    "votes": 19
                   },
                   {
-                    "name": "East Morgan",
-                    "votes": 99
+                    "name": "Alston",
+                    "votes": 25
                   },
                   {
-                    "name": "Beth/Springfield",
-                    "votes": 51
+                    "name": "Higgston",
+                    "votes": 45
                   },
                   {
-                    "name": "Central Morgan",
-                    "votes": 174
+                    "name": "Kibbee",
+                    "votes": 44
                   },
                   {
-                    "name": "Clacks Chapel",
-                    "votes": 40
+                    "name": "Mount Vernon",
+                    "votes": 58
                   },
                   {
-                    "name": "West Morgan",
-                    "votes": 112
+                    "name": "Tarrytown",
+                    "votes": 22
                   },
                   {
-                    "name": "North Morgan",
-                    "votes": 158
+                    "name": "Uvalda",
+                    "votes": 41
                   }
                 ]
               },
@@ -253,31 +253,31 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Northeast Morgan",
+                    "name": "Ailey",
                     "votes": 0
                   },
                   {
-                    "name": "East Morgan",
+                    "name": "Alston",
                     "votes": 0
                   },
                   {
-                    "name": "Beth/Springfield",
+                    "name": "Higgston",
                     "votes": 0
                   },
                   {
-                    "name": "Central Morgan",
+                    "name": "Kibbee",
                     "votes": 0
                   },
                   {
-                    "name": "Clacks Chapel",
+                    "name": "Mount Vernon",
                     "votes": 0
                   },
                   {
-                    "name": "West Morgan",
+                    "name": "Tarrytown",
                     "votes": 0
                   },
                   {
-                    "name": "North Morgan",
+                    "name": "Uvalda",
                     "votes": 0
                   }
                 ]
@@ -287,107 +287,107 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 3093,
+            "totalVotes": 884,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 589,
+                "votes": 282,
                 "Precinct": [
                   {
-                    "name": "Northeast Morgan",
-                    "votes": 186
+                    "name": "Ailey",
+                    "votes": 28
                   },
                   {
-                    "name": "East Morgan",
-                    "votes": 77
+                    "name": "Alston",
+                    "votes": 6
                   },
                   {
-                    "name": "Beth/Springfield",
-                    "votes": 30
+                    "name": "Higgston",
+                    "votes": 54
                   },
                   {
-                    "name": "Central Morgan",
-                    "votes": 99
+                    "name": "Kibbee",
+                    "votes": 9
                   },
                   {
-                    "name": "Clacks Chapel",
-                    "votes": 18
+                    "name": "Mount Vernon",
+                    "votes": 130
                   },
                   {
-                    "name": "West Morgan",
-                    "votes": 95
+                    "name": "Tarrytown",
+                    "votes": 8
                   },
                   {
-                    "name": "North Morgan",
-                    "votes": 84
+                    "name": "Uvalda",
+                    "votes": 47
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 1614,
+                "votes": 341,
                 "Precinct": [
                   {
-                    "name": "Northeast Morgan",
-                    "votes": 639
+                    "name": "Ailey",
+                    "votes": 34
                   },
                   {
-                    "name": "East Morgan",
-                    "votes": 201
+                    "name": "Alston",
+                    "votes": 28
                   },
                   {
-                    "name": "Beth/Springfield",
-                    "votes": 38
+                    "name": "Higgston",
+                    "votes": 80
                   },
                   {
-                    "name": "Central Morgan",
-                    "votes": 282
+                    "name": "Kibbee",
+                    "votes": 10
                   },
                   {
-                    "name": "Clacks Chapel",
-                    "votes": 32
+                    "name": "Mount Vernon",
+                    "votes": 137
                   },
                   {
-                    "name": "West Morgan",
-                    "votes": 193
+                    "name": "Tarrytown",
+                    "votes": 3
                   },
                   {
-                    "name": "North Morgan",
-                    "votes": 229
+                    "name": "Uvalda",
+                    "votes": 49
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 890,
+                "votes": 261,
                 "Precinct": [
                   {
-                    "name": "Northeast Morgan",
-                    "votes": 316
+                    "name": "Ailey",
+                    "votes": 24
                   },
                   {
-                    "name": "East Morgan",
-                    "votes": 95
+                    "name": "Alston",
+                    "votes": 10
                   },
                   {
-                    "name": "Beth/Springfield",
-                    "votes": 61
+                    "name": "Higgston",
+                    "votes": 57
                   },
                   {
-                    "name": "Central Morgan",
-                    "votes": 176
+                    "name": "Kibbee",
+                    "votes": 14
                   },
                   {
-                    "name": "Clacks Chapel",
-                    "votes": 33
+                    "name": "Mount Vernon",
+                    "votes": 98
                   },
                   {
-                    "name": "West Morgan",
-                    "votes": 92
+                    "name": "Tarrytown",
+                    "votes": 3
                   },
                   {
-                    "name": "North Morgan",
-                    "votes": 117
+                    "name": "Uvalda",
+                    "votes": 55
                   }
                 ]
               },
@@ -396,31 +396,31 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Northeast Morgan",
+                    "name": "Ailey",
                     "votes": 0
                   },
                   {
-                    "name": "East Morgan",
+                    "name": "Alston",
                     "votes": 0
                   },
                   {
-                    "name": "Beth/Springfield",
+                    "name": "Higgston",
                     "votes": 0
                   },
                   {
-                    "name": "Central Morgan",
+                    "name": "Kibbee",
                     "votes": 0
                   },
                   {
-                    "name": "Clacks Chapel",
+                    "name": "Mount Vernon",
                     "votes": 0
                   },
                   {
-                    "name": "West Morgan",
+                    "name": "Tarrytown",
                     "votes": 0
                   },
                   {
-                    "name": "North Morgan",
+                    "name": "Uvalda",
                     "votes": 0
                   }
                 ]
@@ -439,35 +439,35 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 14,
+            "votes": 7,
             "Precinct": [
               {
-                "name": "Northeast Morgan",
-                "votes": 3
-              },
-              {
-                "name": "East Morgan",
-                "votes": 3
-              },
-              {
-                "name": "Beth/Springfield",
+                "name": "Ailey",
                 "votes": 1
               },
               {
-                "name": "Central Morgan",
-                "votes": 3
-              },
-              {
-                "name": "Clacks Chapel",
-                "votes": 1
-              },
-              {
-                "name": "West Morgan",
-                "votes": 3
-              },
-              {
-                "name": "North Morgan",
+                "name": "Alston",
                 "votes": 0
+              },
+              {
+                "name": "Higgston",
+                "votes": 2
+              },
+              {
+                "name": "Kibbee",
+                "votes": 1
+              },
+              {
+                "name": "Mount Vernon",
+                "votes": 1
+              },
+              {
+                "name": "Tarrytown",
+                "votes": 0
+              },
+              {
+                "name": "Uvalda",
+                "votes": 2
               }
             ]
           },
@@ -476,31 +476,31 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Northeast Morgan",
+                "name": "Ailey",
                 "votes": 0
               },
               {
-                "name": "East Morgan",
+                "name": "Alston",
                 "votes": 0
               },
               {
-                "name": "Beth/Springfield",
+                "name": "Higgston",
                 "votes": 0
               },
               {
-                "name": "Central Morgan",
+                "name": "Kibbee",
                 "votes": 0
               },
               {
-                "name": "Clacks Chapel",
+                "name": "Mount Vernon",
                 "votes": 0
               },
               {
-                "name": "West Morgan",
+                "name": "Tarrytown",
                 "votes": 0
               },
               {
-                "name": "North Morgan",
+                "name": "Uvalda",
                 "votes": 0
               }
             ]
@@ -510,107 +510,107 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 7693,
+            "totalVotes": 2630,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2567,
+                "votes": 1318,
                 "Precinct": [
                   {
-                    "name": "Northeast Morgan",
-                    "votes": 218
+                    "name": "Ailey",
+                    "votes": 80
                   },
                   {
-                    "name": "East Morgan",
-                    "votes": 492
+                    "name": "Alston",
+                    "votes": 170
                   },
                   {
-                    "name": "Beth/Springfield",
-                    "votes": 182
+                    "name": "Higgston",
+                    "votes": 320
                   },
                   {
-                    "name": "Central Morgan",
-                    "votes": 346
+                    "name": "Kibbee",
+                    "votes": 206
                   },
                   {
-                    "name": "Clacks Chapel",
-                    "votes": 172
+                    "name": "Mount Vernon",
+                    "votes": 180
                   },
                   {
-                    "name": "West Morgan",
-                    "votes": 578
+                    "name": "Tarrytown",
+                    "votes": 132
                   },
                   {
-                    "name": "North Morgan",
-                    "votes": 579
+                    "name": "Uvalda",
+                    "votes": 230
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 4405,
+                "votes": 1060,
                 "Precinct": [
                   {
-                    "name": "Northeast Morgan",
-                    "votes": 552
+                    "name": "Ailey",
+                    "votes": 127
                   },
                   {
-                    "name": "East Morgan",
-                    "votes": 723
+                    "name": "Alston",
+                    "votes": 103
                   },
                   {
-                    "name": "Beth/Springfield",
-                    "votes": 293
+                    "name": "Higgston",
+                    "votes": 291
                   },
                   {
-                    "name": "Central Morgan",
-                    "votes": 953
+                    "name": "Kibbee",
+                    "votes": 95
                   },
                   {
-                    "name": "Clacks Chapel",
-                    "votes": 263
+                    "name": "Mount Vernon",
+                    "votes": 224
                   },
                   {
-                    "name": "West Morgan",
-                    "votes": 900
+                    "name": "Tarrytown",
+                    "votes": 74
                   },
                   {
-                    "name": "North Morgan",
-                    "votes": 721
+                    "name": "Uvalda",
+                    "votes": 146
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 721,
+                "votes": 252,
                 "Precinct": [
                   {
-                    "name": "Northeast Morgan",
-                    "votes": 91
+                    "name": "Ailey",
+                    "votes": 18
                   },
                   {
-                    "name": "East Morgan",
-                    "votes": 98
+                    "name": "Alston",
+                    "votes": 25
                   },
                   {
-                    "name": "Beth/Springfield",
-                    "votes": 51
+                    "name": "Higgston",
+                    "votes": 45
                   },
                   {
-                    "name": "Central Morgan",
-                    "votes": 170
+                    "name": "Kibbee",
+                    "votes": 44
                   },
                   {
-                    "name": "Clacks Chapel",
-                    "votes": 42
+                    "name": "Mount Vernon",
+                    "votes": 58
                   },
                   {
-                    "name": "West Morgan",
-                    "votes": 109
+                    "name": "Tarrytown",
+                    "votes": 22
                   },
                   {
-                    "name": "North Morgan",
-                    "votes": 160
+                    "name": "Uvalda",
+                    "votes": 40
                   }
                 ]
               },
@@ -619,31 +619,31 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Northeast Morgan",
+                    "name": "Ailey",
                     "votes": 0
                   },
                   {
-                    "name": "East Morgan",
+                    "name": "Alston",
                     "votes": 0
                   },
                   {
-                    "name": "Beth/Springfield",
+                    "name": "Higgston",
                     "votes": 0
                   },
                   {
-                    "name": "Central Morgan",
+                    "name": "Kibbee",
                     "votes": 0
                   },
                   {
-                    "name": "Clacks Chapel",
+                    "name": "Mount Vernon",
                     "votes": 0
                   },
                   {
-                    "name": "West Morgan",
+                    "name": "Tarrytown",
                     "votes": 0
                   },
                   {
-                    "name": "North Morgan",
+                    "name": "Uvalda",
                     "votes": 0
                   }
                 ]
@@ -653,107 +653,107 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 3125,
+            "totalVotes": 896,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 600,
+                "votes": 286,
                 "Precinct": [
                   {
-                    "name": "Northeast Morgan",
-                    "votes": 191
-                  },
-                  {
-                    "name": "East Morgan",
-                    "votes": 78
-                  },
-                  {
-                    "name": "Beth/Springfield",
+                    "name": "Ailey",
                     "votes": 29
                   },
                   {
-                    "name": "Central Morgan",
-                    "votes": 100
+                    "name": "Alston",
+                    "votes": 6
                   },
                   {
-                    "name": "Clacks Chapel",
-                    "votes": 17
+                    "name": "Higgston",
+                    "votes": 54
                   },
                   {
-                    "name": "West Morgan",
-                    "votes": 99
+                    "name": "Kibbee",
+                    "votes": 8
                   },
                   {
-                    "name": "North Morgan",
-                    "votes": 86
+                    "name": "Mount Vernon",
+                    "votes": 133
+                  },
+                  {
+                    "name": "Tarrytown",
+                    "votes": 8
+                  },
+                  {
+                    "name": "Uvalda",
+                    "votes": 48
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 1629,
+                "votes": 343,
                 "Precinct": [
                   {
-                    "name": "Northeast Morgan",
-                    "votes": 639
+                    "name": "Ailey",
+                    "votes": 34
                   },
                   {
-                    "name": "East Morgan",
-                    "votes": 203
+                    "name": "Alston",
+                    "votes": 28
                   },
                   {
-                    "name": "Beth/Springfield",
-                    "votes": 39
+                    "name": "Higgston",
+                    "votes": 81
                   },
                   {
-                    "name": "Central Morgan",
-                    "votes": 285
+                    "name": "Kibbee",
+                    "votes": 10
                   },
                   {
-                    "name": "Clacks Chapel",
-                    "votes": 33
+                    "name": "Mount Vernon",
+                    "votes": 139
                   },
                   {
-                    "name": "West Morgan",
-                    "votes": 199
+                    "name": "Tarrytown",
+                    "votes": 3
                   },
                   {
-                    "name": "North Morgan",
-                    "votes": 231
+                    "name": "Uvalda",
+                    "votes": 48
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 896,
+                "votes": 267,
                 "Precinct": [
                   {
-                    "name": "Northeast Morgan",
-                    "votes": 319
+                    "name": "Ailey",
+                    "votes": 26
                   },
                   {
-                    "name": "East Morgan",
-                    "votes": 96
+                    "name": "Alston",
+                    "votes": 10
                   },
                   {
-                    "name": "Beth/Springfield",
-                    "votes": 61
+                    "name": "Higgston",
+                    "votes": 57
                   },
                   {
-                    "name": "Central Morgan",
-                    "votes": 180
+                    "name": "Kibbee",
+                    "votes": 14
                   },
                   {
-                    "name": "Clacks Chapel",
-                    "votes": 31
+                    "name": "Mount Vernon",
+                    "votes": 101
                   },
                   {
-                    "name": "West Morgan",
-                    "votes": 94
+                    "name": "Tarrytown",
+                    "votes": 3
                   },
                   {
-                    "name": "North Morgan",
-                    "votes": 115
+                    "name": "Uvalda",
+                    "votes": 56
                   }
                 ]
               },
@@ -762,31 +762,31 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Northeast Morgan",
+                    "name": "Ailey",
                     "votes": 0
                   },
                   {
-                    "name": "East Morgan",
+                    "name": "Alston",
                     "votes": 0
                   },
                   {
-                    "name": "Beth/Springfield",
+                    "name": "Higgston",
                     "votes": 0
                   },
                   {
-                    "name": "Central Morgan",
+                    "name": "Kibbee",
                     "votes": 0
                   },
                   {
-                    "name": "Clacks Chapel",
+                    "name": "Mount Vernon",
                     "votes": 0
                   },
                   {
-                    "name": "West Morgan",
+                    "name": "Tarrytown",
                     "votes": 0
                   },
                   {
-                    "name": "North Morgan",
+                    "name": "Uvalda",
                     "votes": 0
                   }
                 ]
@@ -805,35 +805,35 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 103,
+            "votes": 57,
             "Precinct": [
               {
-                "name": "Northeast Morgan",
-                "votes": 31
+                "name": "Ailey",
+                "votes": 5
               },
               {
-                "name": "East Morgan",
-                "votes": 14
+                "name": "Alston",
+                "votes": 7
               },
               {
-                "name": "Beth/Springfield",
-                "votes": 10
+                "name": "Higgston",
+                "votes": 9
               },
               {
-                "name": "Central Morgan",
-                "votes": 15
+                "name": "Kibbee",
+                "votes": 6
               },
               {
-                "name": "Clacks Chapel",
-                "votes": 3
+                "name": "Mount Vernon",
+                "votes": 16
               },
               {
-                "name": "West Morgan",
-                "votes": 13
+                "name": "Tarrytown",
+                "votes": 2
               },
               {
-                "name": "North Morgan",
-                "votes": 17
+                "name": "Uvalda",
+                "votes": 12
               }
             ]
           },
@@ -842,31 +842,31 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Northeast Morgan",
+                "name": "Ailey",
                 "votes": 0
               },
               {
-                "name": "East Morgan",
+                "name": "Alston",
                 "votes": 0
               },
               {
-                "name": "Beth/Springfield",
+                "name": "Higgston",
                 "votes": 0
               },
               {
-                "name": "Central Morgan",
+                "name": "Kibbee",
                 "votes": 0
               },
               {
-                "name": "Clacks Chapel",
+                "name": "Mount Vernon",
                 "votes": 0
               },
               {
-                "name": "West Morgan",
+                "name": "Tarrytown",
                 "votes": 0
               },
               {
-                "name": "North Morgan",
+                "name": "Uvalda",
                 "votes": 0
               }
             ]
@@ -876,107 +876,107 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 7721,
+            "totalVotes": 2632,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2574,
+                "votes": 1316,
                 "Precinct": [
                   {
-                    "name": "Northeast Morgan",
-                    "votes": 227
+                    "name": "Ailey",
+                    "votes": 79
                   },
                   {
-                    "name": "East Morgan",
-                    "votes": 490
+                    "name": "Alston",
+                    "votes": 169
                   },
                   {
-                    "name": "Beth/Springfield",
-                    "votes": 180
+                    "name": "Higgston",
+                    "votes": 323
                   },
                   {
-                    "name": "Central Morgan",
-                    "votes": 349
+                    "name": "Kibbee",
+                    "votes": 207
                   },
                   {
-                    "name": "Clacks Chapel",
-                    "votes": 174
+                    "name": "Mount Vernon",
+                    "votes": 183
                   },
                   {
-                    "name": "West Morgan",
-                    "votes": 579
+                    "name": "Tarrytown",
+                    "votes": 129
                   },
                   {
-                    "name": "North Morgan",
-                    "votes": 575
+                    "name": "Uvalda",
+                    "votes": 226
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 4413,
+                "votes": 1070,
                 "Precinct": [
                   {
-                    "name": "Northeast Morgan",
-                    "votes": 551
+                    "name": "Ailey",
+                    "votes": 130
                   },
                   {
-                    "name": "East Morgan",
-                    "votes": 726
+                    "name": "Alston",
+                    "votes": 103
                   },
                   {
-                    "name": "Beth/Springfield",
-                    "votes": 288
+                    "name": "Higgston",
+                    "votes": 294
                   },
                   {
-                    "name": "Central Morgan",
-                    "votes": 951
+                    "name": "Kibbee",
+                    "votes": 96
                   },
                   {
-                    "name": "Clacks Chapel",
-                    "votes": 261
+                    "name": "Mount Vernon",
+                    "votes": 226
                   },
                   {
-                    "name": "West Morgan",
-                    "votes": 910
+                    "name": "Tarrytown",
+                    "votes": 74
                   },
                   {
-                    "name": "North Morgan",
-                    "votes": 726
+                    "name": "Uvalda",
+                    "votes": 147
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 734,
+                "votes": 246,
                 "Precinct": [
                   {
-                    "name": "Northeast Morgan",
-                    "votes": 99
+                    "name": "Ailey",
+                    "votes": 18
                   },
                   {
-                    "name": "East Morgan",
-                    "votes": 98
+                    "name": "Alston",
+                    "votes": 22
                   },
                   {
-                    "name": "Beth/Springfield",
+                    "name": "Higgston",
                     "votes": 45
                   },
                   {
-                    "name": "Central Morgan",
-                    "votes": 178
-                  },
-                  {
-                    "name": "Clacks Chapel",
+                    "name": "Kibbee",
                     "votes": 42
                   },
                   {
-                    "name": "West Morgan",
-                    "votes": 111
+                    "name": "Mount Vernon",
+                    "votes": 58
                   },
                   {
-                    "name": "North Morgan",
-                    "votes": 161
+                    "name": "Tarrytown",
+                    "votes": 22
+                  },
+                  {
+                    "name": "Uvalda",
+                    "votes": 39
                   }
                 ]
               },
@@ -985,31 +985,31 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Northeast Morgan",
+                    "name": "Ailey",
                     "votes": 0
                   },
                   {
-                    "name": "East Morgan",
+                    "name": "Alston",
                     "votes": 0
                   },
                   {
-                    "name": "Beth/Springfield",
+                    "name": "Higgston",
                     "votes": 0
                   },
                   {
-                    "name": "Central Morgan",
+                    "name": "Kibbee",
                     "votes": 0
                   },
                   {
-                    "name": "Clacks Chapel",
+                    "name": "Mount Vernon",
                     "votes": 0
                   },
                   {
-                    "name": "West Morgan",
+                    "name": "Tarrytown",
                     "votes": 0
                   },
                   {
-                    "name": "North Morgan",
+                    "name": "Uvalda",
                     "votes": 0
                   }
                 ]
@@ -1019,107 +1019,107 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 3007,
+            "totalVotes": 844,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 579,
+                "votes": 268,
                 "Precinct": [
                   {
-                    "name": "Northeast Morgan",
-                    "votes": 181
-                  },
-                  {
-                    "name": "East Morgan",
-                    "votes": 77
-                  },
-                  {
-                    "name": "Beth/Springfield",
+                    "name": "Ailey",
                     "votes": 28
                   },
                   {
-                    "name": "Central Morgan",
-                    "votes": 97
+                    "name": "Alston",
+                    "votes": 5
                   },
                   {
-                    "name": "Clacks Chapel",
-                    "votes": 16
+                    "name": "Higgston",
+                    "votes": 50
                   },
                   {
-                    "name": "West Morgan",
-                    "votes": 95
+                    "name": "Kibbee",
+                    "votes": 5
                   },
                   {
-                    "name": "North Morgan",
-                    "votes": 85
+                    "name": "Mount Vernon",
+                    "votes": 123
+                  },
+                  {
+                    "name": "Tarrytown",
+                    "votes": 9
+                  },
+                  {
+                    "name": "Uvalda",
+                    "votes": 48
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 1569,
+                "votes": 315,
                 "Precinct": [
                   {
-                    "name": "Northeast Morgan",
-                    "votes": 622
+                    "name": "Ailey",
+                    "votes": 29
                   },
                   {
-                    "name": "East Morgan",
-                    "votes": 195
+                    "name": "Alston",
+                    "votes": 26
                   },
                   {
-                    "name": "Beth/Springfield",
-                    "votes": 41
+                    "name": "Higgston",
+                    "votes": 75
                   },
                   {
-                    "name": "Central Morgan",
-                    "votes": 278
+                    "name": "Kibbee",
+                    "votes": 8
                   },
                   {
-                    "name": "Clacks Chapel",
-                    "votes": 32
+                    "name": "Mount Vernon",
+                    "votes": 129
                   },
                   {
-                    "name": "West Morgan",
-                    "votes": 185
+                    "name": "Tarrytown",
+                    "votes": 3
                   },
                   {
-                    "name": "North Morgan",
-                    "votes": 216
+                    "name": "Uvalda",
+                    "votes": 45
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 859,
+                "votes": 261,
                 "Precinct": [
                   {
-                    "name": "Northeast Morgan",
-                    "votes": 302
+                    "name": "Ailey",
+                    "votes": 26
                   },
                   {
-                    "name": "East Morgan",
-                    "votes": 93
+                    "name": "Alston",
+                    "votes": 10
                   },
                   {
-                    "name": "Beth/Springfield",
-                    "votes": 64
+                    "name": "Higgston",
+                    "votes": 54
                   },
                   {
-                    "name": "Central Morgan",
-                    "votes": 168
+                    "name": "Kibbee",
+                    "votes": 14
                   },
                   {
-                    "name": "Clacks Chapel",
-                    "votes": 31
+                    "name": "Mount Vernon",
+                    "votes": 101
                   },
                   {
-                    "name": "West Morgan",
-                    "votes": 89
+                    "name": "Tarrytown",
+                    "votes": 3
                   },
                   {
-                    "name": "North Morgan",
-                    "votes": 112
+                    "name": "Uvalda",
+                    "votes": 53
                   }
                 ]
               },
@@ -1128,31 +1128,31 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Northeast Morgan",
+                    "name": "Ailey",
                     "votes": 0
                   },
                   {
-                    "name": "East Morgan",
+                    "name": "Alston",
                     "votes": 0
                   },
                   {
-                    "name": "Beth/Springfield",
+                    "name": "Higgston",
                     "votes": 0
                   },
                   {
-                    "name": "Central Morgan",
+                    "name": "Kibbee",
                     "votes": 0
                   },
                   {
-                    "name": "Clacks Chapel",
+                    "name": "Mount Vernon",
                     "votes": 0
                   },
                   {
-                    "name": "West Morgan",
+                    "name": "Tarrytown",
                     "votes": 0
                   },
                   {
-                    "name": "North Morgan",
+                    "name": "Uvalda",
                     "votes": 0
                   }
                 ]
