@@ -1,12 +1,12 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 9:02:54 PM EST",
+    "Timestamp": "1/5/2021 9:12:00 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Hall",
     "VoterTurnout": {
       "totalVoters": 0,
-      "ballotsCast": 62595,
+      "ballotsCast": 66949,
       "voterTurnout": 0.0,
       "Precincts": {
         "Precinct": [
@@ -83,9 +83,9 @@
           {
             "name": "Tadmore",
             "totalVoters": 0,
-            "ballotsCast": 1849,
+            "ballotsCast": 2760,
             "voterTurnout": 0.0,
-            "percentReporting": "2"
+            "percentReporting": "4"
           },
           {
             "name": "Glade",
@@ -174,9 +174,9 @@
           {
             "name": "Gainesville IV",
             "totalVoters": 0,
-            "ballotsCast": 1116,
+            "ballotsCast": 1536,
             "voterTurnout": 0.0,
-            "percentReporting": "2"
+            "percentReporting": "4"
           },
           {
             "name": "Gainesville V",
@@ -188,9 +188,9 @@
           {
             "name": "Gillsville",
             "totalVoters": 0,
-            "ballotsCast": 389,
+            "ballotsCast": 751,
             "voterTurnout": 0.0,
-            "percentReporting": "2"
+            "percentReporting": "4"
           },
           {
             "name": "Big Hickory",
@@ -202,9 +202,9 @@
           {
             "name": "Friendship I",
             "totalVoters": 0,
-            "ballotsCast": 4602,
+            "ballotsCast": 6242,
             "voterTurnout": 0.0,
-            "percentReporting": "2"
+            "percentReporting": "4"
           },
           {
             "name": "Friendship II",
@@ -216,9 +216,9 @@
           {
             "name": "Friendship III",
             "totalVoters": 0,
-            "ballotsCast": 1783,
+            "ballotsCast": 2804,
             "voterTurnout": 0.0,
-            "percentReporting": "2"
+            "percentReporting": "4"
           },
           {
             "name": "Friendship IV",
@@ -237,11 +237,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 31,
-        "precinctsReported": 12,
+        "precinctsReported": 17,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 72,
+            "votes": 76,
             "Precinct": [
               {
                 "name": "Wilson",
@@ -285,7 +285,7 @@
               },
               {
                 "name": "Tadmore",
-                "votes": 4
+                "votes": 7
               },
               {
                 "name": "Glade",
@@ -345,7 +345,7 @@
               },
               {
                 "name": "Gillsville",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Big Hickory",
@@ -504,11 +504,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 44747,
+            "totalVotes": 47982,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 8171,
+                "votes": 11406,
                 "Precinct": [
                   {
                     "name": "Wilson",
@@ -552,7 +552,7 @@
                   },
                   {
                     "name": "Tadmore",
-                    "votes": 0
+                    "votes": 441
                   },
                   {
                     "name": "Glade",
@@ -604,7 +604,7 @@
                   },
                   {
                     "name": "Gainesville IV",
-                    "votes": 0
+                    "votes": 255
                   },
                   {
                     "name": "Gainesville V",
@@ -612,7 +612,7 @@
                   },
                   {
                     "name": "Gillsville",
-                    "votes": 0
+                    "votes": 332
                   },
                   {
                     "name": "Big Hickory",
@@ -620,7 +620,7 @@
                   },
                   {
                     "name": "Friendship I",
-                    "votes": 0
+                    "votes": 1401
                   },
                   {
                     "name": "Friendship II",
@@ -628,7 +628,7 @@
                   },
                   {
                     "name": "Friendship III",
-                    "votes": 0
+                    "votes": 806
                   },
                   {
                     "name": "Friendship IV",
@@ -1031,11 +1031,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 17776,
+            "totalVotes": 18891,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1880,
+                "votes": 2995,
                 "Precinct": [
                   {
                     "name": "Wilson",
@@ -1079,7 +1079,7 @@
                   },
                   {
                     "name": "Tadmore",
-                    "votes": 0
+                    "votes": 467
                   },
                   {
                     "name": "Glade",
@@ -1131,7 +1131,7 @@
                   },
                   {
                     "name": "Gainesville IV",
-                    "votes": 0
+                    "votes": 165
                   },
                   {
                     "name": "Gainesville V",
@@ -1139,7 +1139,7 @@
                   },
                   {
                     "name": "Gillsville",
-                    "votes": 0
+                    "votes": 29
                   },
                   {
                     "name": "Big Hickory",
@@ -1147,7 +1147,7 @@
                   },
                   {
                     "name": "Friendship I",
-                    "votes": 0
+                    "votes": 239
                   },
                   {
                     "name": "Friendship II",
@@ -1155,7 +1155,7 @@
                   },
                   {
                     "name": "Friendship III",
-                    "votes": 0
+                    "votes": 215
                   },
                   {
                     "name": "Friendship IV",
@@ -1563,11 +1563,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 31,
-        "precinctsReported": 12,
+        "precinctsReported": 17,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 92,
+            "votes": 93,
             "Precinct": [
               {
                 "name": "Wilson",
@@ -1611,7 +1611,7 @@
               },
               {
                 "name": "Tadmore",
-                "votes": 5
+                "votes": 6
               },
               {
                 "name": "Glade",
@@ -1830,11 +1830,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 44384,
+            "totalVotes": 47602,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 8108,
+                "votes": 11326,
                 "Precinct": [
                   {
                     "name": "Wilson",
@@ -1878,7 +1878,7 @@
                   },
                   {
                     "name": "Tadmore",
-                    "votes": 0
+                    "votes": 437
                   },
                   {
                     "name": "Glade",
@@ -1930,7 +1930,7 @@
                   },
                   {
                     "name": "Gainesville IV",
-                    "votes": 0
+                    "votes": 253
                   },
                   {
                     "name": "Gainesville V",
@@ -1938,7 +1938,7 @@
                   },
                   {
                     "name": "Gillsville",
-                    "votes": 0
+                    "votes": 332
                   },
                   {
                     "name": "Big Hickory",
@@ -1946,7 +1946,7 @@
                   },
                   {
                     "name": "Friendship I",
-                    "votes": 0
+                    "votes": 1394
                   },
                   {
                     "name": "Friendship II",
@@ -1954,7 +1954,7 @@
                   },
                   {
                     "name": "Friendship III",
-                    "votes": 0
+                    "votes": 802
                   },
                   {
                     "name": "Friendship IV",
@@ -2357,11 +2357,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 18119,
+            "totalVotes": 19254,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1937,
+                "votes": 3072,
                 "Precinct": [
                   {
                     "name": "Wilson",
@@ -2405,7 +2405,7 @@
                   },
                   {
                     "name": "Tadmore",
-                    "votes": 0
+                    "votes": 473
                   },
                   {
                     "name": "Glade",
@@ -2457,7 +2457,7 @@
                   },
                   {
                     "name": "Gainesville IV",
-                    "votes": 0
+                    "votes": 167
                   },
                   {
                     "name": "Gainesville V",
@@ -2465,7 +2465,7 @@
                   },
                   {
                     "name": "Gillsville",
-                    "votes": 0
+                    "votes": 30
                   },
                   {
                     "name": "Big Hickory",
@@ -2473,7 +2473,7 @@
                   },
                   {
                     "name": "Friendship I",
-                    "votes": 0
+                    "votes": 246
                   },
                   {
                     "name": "Friendship II",
@@ -2481,7 +2481,7 @@
                   },
                   {
                     "name": "Friendship III",
-                    "votes": 0
+                    "votes": 219
                   },
                   {
                     "name": "Friendship IV",
@@ -2889,11 +2889,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 31,
-        "precinctsReported": 12,
+        "precinctsReported": 17,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 718,
+            "votes": 745,
             "Precinct": [
               {
                 "name": "Wilson",
@@ -2937,7 +2937,7 @@
               },
               {
                 "name": "Tadmore",
-                "votes": 21
+                "votes": 27
               },
               {
                 "name": "Glade",
@@ -2989,7 +2989,7 @@
               },
               {
                 "name": "Gainesville IV",
-                "votes": 18
+                "votes": 22
               },
               {
                 "name": "Gainesville V",
@@ -2997,7 +2997,7 @@
               },
               {
                 "name": "Gillsville",
-                "votes": 3
+                "votes": 6
               },
               {
                 "name": "Big Hickory",
@@ -3005,7 +3005,7 @@
               },
               {
                 "name": "Friendship I",
-                "votes": 80
+                "votes": 88
               },
               {
                 "name": "Friendship II",
@@ -3013,7 +3013,7 @@
               },
               {
                 "name": "Friendship III",
-                "votes": 14
+                "votes": 20
               },
               {
                 "name": "Friendship IV",
@@ -3156,11 +3156,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 44964,
+            "totalVotes": 48226,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 8194,
+                "votes": 11456,
                 "Precinct": [
                   {
                     "name": "Wilson",
@@ -3204,7 +3204,7 @@
                   },
                   {
                     "name": "Tadmore",
-                    "votes": 0
+                    "votes": 449
                   },
                   {
                     "name": "Glade",
@@ -3256,7 +3256,7 @@
                   },
                   {
                     "name": "Gainesville IV",
-                    "votes": 0
+                    "votes": 259
                   },
                   {
                     "name": "Gainesville V",
@@ -3264,7 +3264,7 @@
                   },
                   {
                     "name": "Gillsville",
-                    "votes": 0
+                    "votes": 331
                   },
                   {
                     "name": "Big Hickory",
@@ -3272,7 +3272,7 @@
                   },
                   {
                     "name": "Friendship I",
-                    "votes": 0
+                    "votes": 1413
                   },
                   {
                     "name": "Friendship II",
@@ -3280,7 +3280,7 @@
                   },
                   {
                     "name": "Friendship III",
-                    "votes": 0
+                    "votes": 810
                   },
                   {
                     "name": "Friendship IV",
@@ -3683,11 +3683,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 16903,
+            "totalVotes": 17968,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1777,
+                "votes": 2842,
                 "Precinct": [
                   {
                     "name": "Wilson",
@@ -3731,7 +3731,7 @@
                   },
                   {
                     "name": "Tadmore",
-                    "votes": 0
+                    "votes": 456
                   },
                   {
                     "name": "Glade",
@@ -3783,7 +3783,7 @@
                   },
                   {
                     "name": "Gainesville IV",
-                    "votes": 0
+                    "votes": 157
                   },
                   {
                     "name": "Gainesville V",
@@ -3791,7 +3791,7 @@
                   },
                   {
                     "name": "Gillsville",
-                    "votes": 0
+                    "votes": 28
                   },
                   {
                     "name": "Big Hickory",
@@ -3799,7 +3799,7 @@
                   },
                   {
                     "name": "Friendship I",
-                    "votes": 0
+                    "votes": 219
                   },
                   {
                     "name": "Friendship II",
@@ -3807,7 +3807,7 @@
                   },
                   {
                     "name": "Friendship III",
-                    "votes": 0
+                    "votes": 205
                   },
                   {
                     "name": "Friendship IV",

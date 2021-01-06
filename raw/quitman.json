@@ -1,28 +1,28 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 9:04:22 PM EST",
+    "Timestamp": "1/5/2021 9:17:30 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Quitman",
     "VoterTurnout": {
       "totalVoters": 1747,
-      "ballotsCast": 0,
-      "voterTurnout": 0.0,
+      "ballotsCast": 1015,
+      "voterTurnout": 58.1,
       "Precincts": {
         "Precinct": [
           {
             "name": "Georgetown",
             "totalVoters": 1651,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 953,
+            "voterTurnout": 57.72,
+            "percentReporting": "4"
           },
           {
             "name": "Morris",
             "totalVoters": 96,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 62,
+            "voterTurnout": 64.58,
+            "percentReporting": "4"
           }
         ]
       }
@@ -34,15 +34,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 2,
-        "precinctsReported": 0,
+        "precinctsReported": 2,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 0,
+            "votes": 4,
             "Precinct": [
               {
                 "name": "Georgetown",
-                "votes": 0
+                "votes": 4
               },
               {
                 "name": "Morris",
@@ -69,47 +69,47 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 0,
+            "totalVotes": 548,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 170,
                 "Precinct": [
                   {
                     "name": "Georgetown",
-                    "votes": 0
+                    "votes": 150
                   },
                   {
                     "name": "Morris",
-                    "votes": 0
+                    "votes": 20
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 306,
                 "Precinct": [
                   {
                     "name": "Georgetown",
-                    "votes": 0
+                    "votes": 298
                   },
                   {
                     "name": "Morris",
-                    "votes": 0
+                    "votes": 8
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 72,
                 "Precinct": [
                   {
                     "name": "Georgetown",
-                    "votes": 0
+                    "votes": 66
                   },
                   {
                     "name": "Morris",
-                    "votes": 0
+                    "votes": 6
                   }
                 ]
               },
@@ -132,47 +132,47 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 0,
+            "totalVotes": 463,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 186,
                 "Precinct": [
                   {
                     "name": "Georgetown",
-                    "votes": 0
+                    "votes": 167
                   },
                   {
                     "name": "Morris",
-                    "votes": 0
+                    "votes": 19
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 156,
                 "Precinct": [
                   {
                     "name": "Georgetown",
-                    "votes": 0
+                    "votes": 154
                   },
                   {
                     "name": "Morris",
-                    "votes": 0
+                    "votes": 2
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 121,
                 "Precinct": [
                   {
                     "name": "Georgetown",
-                    "votes": 0
+                    "votes": 114
                   },
                   {
                     "name": "Morris",
-                    "votes": 0
+                    "votes": 7
                   }
                 ]
               },
@@ -200,15 +200,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 2,
-        "precinctsReported": 0,
+        "precinctsReported": 2,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 0,
+            "votes": 3,
             "Precinct": [
               {
                 "name": "Georgetown",
-                "votes": 0
+                "votes": 3
               },
               {
                 "name": "Morris",
@@ -235,47 +235,47 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 0,
+            "totalVotes": 548,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 172,
                 "Precinct": [
                   {
                     "name": "Georgetown",
-                    "votes": 0
+                    "votes": 152
                   },
                   {
                     "name": "Morris",
-                    "votes": 0
+                    "votes": 20
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 304,
                 "Precinct": [
                   {
                     "name": "Georgetown",
-                    "votes": 0
+                    "votes": 296
                   },
                   {
                     "name": "Morris",
-                    "votes": 0
+                    "votes": 8
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 72,
                 "Precinct": [
                   {
                     "name": "Georgetown",
-                    "votes": 0
+                    "votes": 66
                   },
                   {
                     "name": "Morris",
-                    "votes": 0
+                    "votes": 6
                   }
                 ]
               },
@@ -298,47 +298,47 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 0,
+            "totalVotes": 464,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 186,
                 "Precinct": [
                   {
                     "name": "Georgetown",
-                    "votes": 0
+                    "votes": 167
                   },
                   {
                     "name": "Morris",
-                    "votes": 0
+                    "votes": 19
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 157,
                 "Precinct": [
                   {
                     "name": "Georgetown",
-                    "votes": 0
+                    "votes": 155
                   },
                   {
                     "name": "Morris",
-                    "votes": 0
+                    "votes": 2
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 121,
                 "Precinct": [
                   {
                     "name": "Georgetown",
-                    "votes": 0
+                    "votes": 114
                   },
                   {
                     "name": "Morris",
-                    "votes": 0
+                    "votes": 7
                   }
                 ]
               },
@@ -366,19 +366,19 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 2,
-        "precinctsReported": 0,
+        "precinctsReported": 2,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 0,
+            "votes": 37,
             "Precinct": [
               {
                 "name": "Georgetown",
-                "votes": 0
+                "votes": 34
               },
               {
                 "name": "Morris",
-                "votes": 0
+                "votes": 3
               }
             ]
           },
@@ -401,47 +401,47 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 0,
+            "totalVotes": 520,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 158,
                 "Precinct": [
                   {
                     "name": "Georgetown",
-                    "votes": 0
+                    "votes": 142
                   },
                   {
                     "name": "Morris",
-                    "votes": 0
+                    "votes": 16
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 292,
                 "Precinct": [
                   {
                     "name": "Georgetown",
-                    "votes": 0
+                    "votes": 284
                   },
                   {
                     "name": "Morris",
-                    "votes": 0
+                    "votes": 8
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 70,
                 "Precinct": [
                   {
                     "name": "Georgetown",
-                    "votes": 0
+                    "votes": 64
                   },
                   {
                     "name": "Morris",
-                    "votes": 0
+                    "votes": 6
                   }
                 ]
               },
@@ -464,47 +464,47 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 0,
+            "totalVotes": 455,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 181,
                 "Precinct": [
                   {
                     "name": "Georgetown",
-                    "votes": 0
+                    "votes": 162
                   },
                   {
                     "name": "Morris",
-                    "votes": 0
+                    "votes": 19
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 160,
                 "Precinct": [
                   {
                     "name": "Georgetown",
-                    "votes": 0
+                    "votes": 158
                   },
                   {
                     "name": "Morris",
-                    "votes": 0
+                    "votes": 2
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 114,
                 "Precinct": [
                   {
                     "name": "Georgetown",
-                    "votes": 0
+                    "votes": 108
                   },
                   {
                     "name": "Morris",
-                    "votes": 0
+                    "votes": 6
                   }
                 ]
               },

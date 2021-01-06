@@ -1,63 +1,63 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:51:08 PM EST",
+    "Timestamp": "1/5/2021 9:12:12 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Talbot",
     "VoterTurnout": {
       "totalVoters": 4633,
-      "ballotsCast": 2062,
-      "voterTurnout": 44.51,
+      "ballotsCast": 3191,
+      "voterTurnout": 68.88,
       "Precincts": {
         "Precinct": [
           {
             "name": "ONeal",
             "totalVoters": 563,
-            "ballotsCast": 276,
-            "voterTurnout": 49.02,
-            "percentReporting": "2"
+            "ballotsCast": 424,
+            "voterTurnout": 75.31,
+            "percentReporting": "4"
           },
           {
             "name": "Valley",
             "totalVoters": 691,
-            "ballotsCast": 345,
-            "voterTurnout": 49.93,
-            "percentReporting": "2"
+            "ballotsCast": 526,
+            "voterTurnout": 76.12,
+            "percentReporting": "4"
           },
           {
             "name": "Junction City",
             "totalVoters": 451,
-            "ballotsCast": 170,
-            "voterTurnout": 37.69,
-            "percentReporting": "2"
+            "ballotsCast": 269,
+            "voterTurnout": 59.65,
+            "percentReporting": "4"
           },
           {
             "name": "Geneva",
             "totalVoters": 484,
-            "ballotsCast": 221,
-            "voterTurnout": 45.66,
-            "percentReporting": "2"
+            "ballotsCast": 329,
+            "voterTurnout": 67.98,
+            "percentReporting": "4"
           },
           {
             "name": "Talbotton",
             "totalVoters": 903,
-            "ballotsCast": 396,
-            "voterTurnout": 43.85,
-            "percentReporting": "2"
+            "ballotsCast": 556,
+            "voterTurnout": 61.57,
+            "percentReporting": "4"
           },
           {
             "name": "Box Springs",
             "totalVoters": 479,
-            "ballotsCast": 146,
-            "voterTurnout": 30.48,
-            "percentReporting": "2"
+            "ballotsCast": 326,
+            "voterTurnout": 68.06,
+            "percentReporting": "4"
           },
           {
             "name": "Flint Hill",
             "totalVoters": 1062,
-            "ballotsCast": 508,
-            "voterTurnout": 47.83,
-            "percentReporting": "2"
+            "ballotsCast": 761,
+            "voterTurnout": 71.66,
+            "percentReporting": "4"
           }
         ]
       }
@@ -69,11 +69,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 7,
-        "precinctsReported": 0,
+        "precinctsReported": 7,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 5,
+            "votes": 8,
             "Precinct": [
               {
                 "name": "ONeal",
@@ -81,11 +81,11 @@
               },
               {
                 "name": "Valley",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Junction City",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Geneva",
@@ -93,7 +93,7 @@
               },
               {
                 "name": "Talbotton",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "Box Springs",
@@ -144,39 +144,39 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 699,
+            "totalVotes": 1241,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 542,
                 "Precinct": [
                   {
                     "name": "ONeal",
-                    "votes": 0
+                    "votes": 74
                   },
                   {
                     "name": "Valley",
-                    "votes": 0
+                    "votes": 99
                   },
                   {
                     "name": "Junction City",
-                    "votes": 0
+                    "votes": 45
                   },
                   {
                     "name": "Geneva",
-                    "votes": 0
+                    "votes": 58
                   },
                   {
                     "name": "Talbotton",
-                    "votes": 0
+                    "votes": 34
                   },
                   {
                     "name": "Box Springs",
-                    "votes": 0
+                    "votes": 135
                   },
                   {
                     "name": "Flint Hill",
-                    "votes": 0
+                    "votes": 97
                   }
                 ]
               },
@@ -287,39 +287,39 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 1358,
+            "totalVotes": 1942,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 584,
                 "Precinct": [
                   {
                     "name": "ONeal",
-                    "votes": 0
+                    "votes": 74
                   },
                   {
                     "name": "Valley",
-                    "votes": 0
+                    "votes": 81
                   },
                   {
                     "name": "Junction City",
-                    "votes": 0
+                    "votes": 53
                   },
                   {
                     "name": "Geneva",
-                    "votes": 0
+                    "votes": 50
                   },
                   {
                     "name": "Talbotton",
-                    "votes": 0
+                    "votes": 125
                   },
                   {
                     "name": "Box Springs",
-                    "votes": 0
+                    "votes": 45
                   },
                   {
                     "name": "Flint Hill",
-                    "votes": 0
+                    "votes": 156
                   }
                 ]
               },
@@ -435,11 +435,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 7,
-        "precinctsReported": 0,
+        "precinctsReported": 7,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 4,
+            "votes": 7,
             "Precinct": [
               {
                 "name": "ONeal",
@@ -447,11 +447,11 @@
               },
               {
                 "name": "Valley",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Junction City",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Geneva",
@@ -463,7 +463,7 @@
               },
               {
                 "name": "Box Springs",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Flint Hill",
@@ -510,39 +510,39 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 702,
+            "totalVotes": 1239,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 537,
                 "Precinct": [
                   {
                     "name": "ONeal",
-                    "votes": 0
+                    "votes": 74
                   },
                   {
                     "name": "Valley",
-                    "votes": 0
+                    "votes": 98
                   },
                   {
                     "name": "Junction City",
-                    "votes": 0
+                    "votes": 44
                   },
                   {
                     "name": "Geneva",
-                    "votes": 0
+                    "votes": 58
                   },
                   {
                     "name": "Talbotton",
-                    "votes": 0
+                    "votes": 33
                   },
                   {
                     "name": "Box Springs",
-                    "votes": 0
+                    "votes": 134
                   },
                   {
                     "name": "Flint Hill",
-                    "votes": 0
+                    "votes": 96
                   }
                 ]
               },
@@ -653,39 +653,39 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 1356,
+            "totalVotes": 1945,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 589,
                 "Precinct": [
                   {
                     "name": "ONeal",
-                    "votes": 0
+                    "votes": 74
                   },
                   {
                     "name": "Valley",
-                    "votes": 0
+                    "votes": 82
                   },
                   {
                     "name": "Junction City",
-                    "votes": 0
+                    "votes": 54
                   },
                   {
                     "name": "Geneva",
-                    "votes": 0
+                    "votes": 50
                   },
                   {
                     "name": "Talbotton",
-                    "votes": 0
+                    "votes": 127
                   },
                   {
                     "name": "Box Springs",
-                    "votes": 0
+                    "votes": 45
                   },
                   {
                     "name": "Flint Hill",
-                    "votes": 0
+                    "votes": 157
                   }
                 ]
               },
@@ -801,23 +801,23 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 7,
-        "precinctsReported": 0,
+        "precinctsReported": 7,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 49,
+            "votes": 64,
             "Precinct": [
               {
                 "name": "ONeal",
-                "votes": 4
+                "votes": 5
               },
               {
                 "name": "Valley",
-                "votes": 7
+                "votes": 12
               },
               {
                 "name": "Junction City",
-                "votes": 5
+                "votes": 9
               },
               {
                 "name": "Geneva",
@@ -825,7 +825,7 @@
               },
               {
                 "name": "Talbotton",
-                "votes": 10
+                "votes": 13
               },
               {
                 "name": "Box Springs",
@@ -833,7 +833,7 @@
               },
               {
                 "name": "Flint Hill",
-                "votes": 15
+                "votes": 17
               }
             ]
           },
@@ -876,39 +876,39 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 706,
+            "totalVotes": 1243,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 537,
                 "Precinct": [
                   {
                     "name": "ONeal",
-                    "votes": 0
+                    "votes": 71
                   },
                   {
                     "name": "Valley",
-                    "votes": 0
+                    "votes": 98
                   },
                   {
                     "name": "Junction City",
-                    "votes": 0
+                    "votes": 45
                   },
                   {
                     "name": "Geneva",
-                    "votes": 0
+                    "votes": 58
                   },
                   {
                     "name": "Talbotton",
-                    "votes": 0
+                    "votes": 32
                   },
                   {
                     "name": "Box Springs",
-                    "votes": 0
+                    "votes": 137
                   },
                   {
                     "name": "Flint Hill",
-                    "votes": 0
+                    "votes": 96
                   }
                 ]
               },
@@ -1019,39 +1019,39 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 1307,
+            "totalVotes": 1884,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 577,
                 "Precinct": [
                   {
                     "name": "ONeal",
-                    "votes": 0
+                    "votes": 76
                   },
                   {
                     "name": "Valley",
-                    "votes": 0
+                    "votes": 78
                   },
                   {
                     "name": "Junction City",
-                    "votes": 0
+                    "votes": 50
                   },
                   {
                     "name": "Geneva",
-                    "votes": 0
+                    "votes": 50
                   },
                   {
                     "name": "Talbotton",
-                    "votes": 0
+                    "votes": 125
                   },
                   {
                     "name": "Box Springs",
-                    "votes": 0
+                    "votes": 43
                   },
                   {
                     "name": "Flint Hill",
-                    "votes": 0
+                    "votes": 155
                   }
                 ]
               },

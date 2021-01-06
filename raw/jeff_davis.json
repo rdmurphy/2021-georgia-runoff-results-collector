@@ -1,76 +1,76 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:55:15 PM EST",
+    "Timestamp": "1/5/2021 9:16:46 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Jeff Davis",
     "VoterTurnout": {
       "totalVoters": 8665,
-      "ballotsCast": 4629,
-      "voterTurnout": 53.42,
+      "ballotsCast": 5095,
+      "voterTurnout": 58.8,
       "Precincts": {
         "Precinct": [
           {
             "name": "Hazlehurst",
             "totalVoters": 1450,
-            "ballotsCast": 680,
-            "voterTurnout": 46.9,
+            "ballotsCast": 728,
+            "voterTurnout": 50.21,
             "percentReporting": "4"
           },
           {
             "name": "Altamaha 1",
             "totalVoters": 708,
-            "ballotsCast": 428,
-            "voterTurnout": 60.45,
+            "ballotsCast": 450,
+            "voterTurnout": 63.56,
             "percentReporting": "4"
           },
           {
             "name": "Altamaha 2",
             "totalVoters": 1261,
-            "ballotsCast": 824,
-            "voterTurnout": 65.34,
+            "ballotsCast": 850,
+            "voterTurnout": 67.41,
             "percentReporting": "4"
           },
           {
             "name": "Blackburn 1",
             "totalVoters": 895,
-            "ballotsCast": 382,
-            "voterTurnout": 42.68,
+            "ballotsCast": 409,
+            "voterTurnout": 45.7,
             "percentReporting": "4"
           },
           {
             "name": "Blackburn 2",
             "totalVoters": 734,
-            "ballotsCast": 462,
-            "voterTurnout": 62.94,
+            "ballotsCast": 479,
+            "voterTurnout": 65.26,
             "percentReporting": "4"
           },
           {
             "name": "Whitehead 1",
             "totalVoters": 1002,
-            "ballotsCast": 529,
-            "voterTurnout": 52.79,
+            "ballotsCast": 560,
+            "voterTurnout": 55.89,
             "percentReporting": "4"
           },
           {
             "name": "Whitehead 2",
             "totalVoters": 661,
-            "ballotsCast": 193,
-            "voterTurnout": 29.2,
-            "percentReporting": "2"
+            "ballotsCast": 436,
+            "voterTurnout": 65.96,
+            "percentReporting": "4"
           },
           {
             "name": "Ocmulgee 1",
             "totalVoters": 1444,
-            "ballotsCast": 829,
-            "voterTurnout": 57.41,
+            "ballotsCast": 872,
+            "voterTurnout": 60.39,
             "percentReporting": "4"
           },
           {
             "name": "Ocmulgee 2",
             "totalVoters": 510,
-            "ballotsCast": 302,
-            "voterTurnout": 59.22,
+            "ballotsCast": 311,
+            "voterTurnout": 60.98,
             "percentReporting": "4"
           }
         ]
@@ -83,15 +83,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 9,
-        "precinctsReported": 8,
+        "precinctsReported": 9,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 8,
+            "votes": 10,
             "Precinct": [
               {
                 "name": "Hazlehurst",
-                "votes": 3
+                "votes": 5
               },
               {
                 "name": "Altamaha 1",
@@ -174,11 +174,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 3780,
+            "totalVotes": 4138,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1570,
+                "votes": 1791,
                 "Precinct": [
                   {
                     "name": "Hazlehurst",
@@ -206,7 +206,7 @@
                   },
                   {
                     "name": "Whitehead 2",
-                    "votes": 0
+                    "votes": 221
                   },
                   {
                     "name": "Ocmulgee 1",
@@ -262,43 +262,43 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 256,
+                "votes": 393,
                 "Precinct": [
                   {
                     "name": "Hazlehurst",
-                    "votes": 33
+                    "votes": 42
                   },
                   {
                     "name": "Altamaha 1",
-                    "votes": 18
+                    "votes": 30
                   },
                   {
                     "name": "Altamaha 2",
-                    "votes": 31
+                    "votes": 51
                   },
                   {
                     "name": "Blackburn 1",
-                    "votes": 22
+                    "votes": 33
                   },
                   {
                     "name": "Blackburn 2",
-                    "votes": 24
+                    "votes": 41
                   },
                   {
                     "name": "Whitehead 1",
-                    "votes": 29
-                  },
-                  {
-                    "name": "Whitehead 2",
-                    "votes": 36
-                  },
-                  {
-                    "name": "Ocmulgee 1",
                     "votes": 49
                   },
                   {
+                    "name": "Whitehead 2",
+                    "votes": 46
+                  },
+                  {
+                    "name": "Ocmulgee 1",
+                    "votes": 83
+                  },
+                  {
                     "name": "Ocmulgee 2",
-                    "votes": 14
+                    "votes": 18
                   }
                 ]
               },
@@ -349,11 +349,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 841,
+            "totalVotes": 947,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 254,
+                "votes": 262,
                 "Precinct": [
                   {
                     "name": "Hazlehurst",
@@ -381,7 +381,7 @@
                   },
                   {
                     "name": "Whitehead 2",
-                    "votes": 0
+                    "votes": 8
                   },
                   {
                     "name": "Ocmulgee 1",
@@ -437,23 +437,23 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 142,
+                "votes": 240,
                 "Precinct": [
                   {
                     "name": "Hazlehurst",
-                    "votes": 49
+                    "votes": 86
                   },
                   {
                     "name": "Altamaha 1",
-                    "votes": 2
+                    "votes": 12
                   },
                   {
                     "name": "Altamaha 2",
-                    "votes": 8
+                    "votes": 14
                   },
                   {
                     "name": "Blackburn 1",
-                    "votes": 13
+                    "votes": 29
                   },
                   {
                     "name": "Blackburn 2",
@@ -461,19 +461,19 @@
                   },
                   {
                     "name": "Whitehead 1",
-                    "votes": 14
+                    "votes": 25
                   },
                   {
                     "name": "Whitehead 2",
-                    "votes": 3
+                    "votes": 7
                   },
                   {
                     "name": "Ocmulgee 1",
-                    "votes": 23
+                    "votes": 32
                   },
                   {
                     "name": "Ocmulgee 2",
-                    "votes": 20
+                    "votes": 25
                   }
                 ]
               },
@@ -529,15 +529,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 9,
-        "precinctsReported": 8,
+        "precinctsReported": 9,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 14,
+            "votes": 16,
             "Precinct": [
               {
                 "name": "Hazlehurst",
-                "votes": 2
+                "votes": 4
               },
               {
                 "name": "Altamaha 1",
@@ -620,11 +620,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 3781,
+            "totalVotes": 4142,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1567,
+                "votes": 1788,
                 "Precinct": [
                   {
                     "name": "Hazlehurst",
@@ -652,7 +652,7 @@
                   },
                   {
                     "name": "Whitehead 2",
-                    "votes": 0
+                    "votes": 221
                   },
                   {
                     "name": "Ocmulgee 1",
@@ -708,43 +708,43 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 259,
+                "votes": 399,
                 "Precinct": [
                   {
                     "name": "Hazlehurst",
-                    "votes": 32
+                    "votes": 41
                   },
                   {
                     "name": "Altamaha 1",
-                    "votes": 18
-                  },
-                  {
-                    "name": "Altamaha 2",
                     "votes": 31
                   },
                   {
+                    "name": "Altamaha 2",
+                    "votes": 51
+                  },
+                  {
                     "name": "Blackburn 1",
-                    "votes": 22
+                    "votes": 34
                   },
                   {
                     "name": "Blackburn 2",
-                    "votes": 24
+                    "votes": 41
                   },
                   {
                     "name": "Whitehead 1",
-                    "votes": 29
+                    "votes": 49
                   },
                   {
                     "name": "Whitehead 2",
-                    "votes": 36
+                    "votes": 46
                   },
                   {
                     "name": "Ocmulgee 1",
-                    "votes": 54
+                    "votes": 88
                   },
                   {
                     "name": "Ocmulgee 2",
-                    "votes": 13
+                    "votes": 18
                   }
                 ]
               },
@@ -795,11 +795,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 834,
+            "totalVotes": 937,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 255,
+                "votes": 263,
                 "Precinct": [
                   {
                     "name": "Hazlehurst",
@@ -827,7 +827,7 @@
                   },
                   {
                     "name": "Whitehead 2",
-                    "votes": 0
+                    "votes": 8
                   },
                   {
                     "name": "Ocmulgee 1",
@@ -883,23 +883,23 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 139,
+                "votes": 234,
                 "Precinct": [
                   {
                     "name": "Hazlehurst",
-                    "votes": 50
+                    "votes": 87
                   },
                   {
                     "name": "Altamaha 1",
-                    "votes": 2
+                    "votes": 11
                   },
                   {
                     "name": "Altamaha 2",
-                    "votes": 8
+                    "votes": 14
                   },
                   {
                     "name": "Blackburn 1",
-                    "votes": 13
+                    "votes": 28
                   },
                   {
                     "name": "Blackburn 2",
@@ -907,19 +907,19 @@
                   },
                   {
                     "name": "Whitehead 1",
-                    "votes": 14
+                    "votes": 25
                   },
                   {
                     "name": "Whitehead 2",
-                    "votes": 3
+                    "votes": 7
                   },
                   {
                     "name": "Ocmulgee 1",
-                    "votes": 18
+                    "votes": 27
                   },
                   {
                     "name": "Ocmulgee 2",
-                    "votes": 21
+                    "votes": 25
                   }
                 ]
               },
@@ -975,11 +975,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 9,
-        "precinctsReported": 8,
+        "precinctsReported": 9,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 109,
+            "votes": 118,
             "Precinct": [
               {
                 "name": "Hazlehurst",
@@ -987,11 +987,11 @@
               },
               {
                 "name": "Altamaha 1",
-                "votes": 11
+                "votes": 12
               },
               {
                 "name": "Altamaha 2",
-                "votes": 17
+                "votes": 18
               },
               {
                 "name": "Blackburn 1",
@@ -999,7 +999,7 @@
               },
               {
                 "name": "Blackburn 2",
-                "votes": 5
+                "votes": 7
               },
               {
                 "name": "Whitehead 1",
@@ -1007,15 +1007,15 @@
               },
               {
                 "name": "Whitehead 2",
-                "votes": 4
+                "votes": 6
               },
               {
                 "name": "Ocmulgee 1",
-                "votes": 12
+                "votes": 14
               },
               {
                 "name": "Ocmulgee 2",
-                "votes": 12
+                "votes": 13
               }
             ]
           },
@@ -1066,11 +1066,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 3729,
+            "totalVotes": 4083,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1555,
+                "votes": 1777,
                 "Precinct": [
                   {
                     "name": "Hazlehurst",
@@ -1098,7 +1098,7 @@
                   },
                   {
                     "name": "Whitehead 2",
-                    "votes": 0
+                    "votes": 222
                   },
                   {
                     "name": "Ocmulgee 1",
@@ -1154,43 +1154,43 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 249,
+                "votes": 381,
                 "Precinct": [
                   {
                     "name": "Hazlehurst",
-                    "votes": 28
+                    "votes": 37
                   },
                   {
                     "name": "Altamaha 1",
-                    "votes": 18
+                    "votes": 31
                   },
                   {
                     "name": "Altamaha 2",
-                    "votes": 33
+                    "votes": 53
                   },
                   {
                     "name": "Blackburn 1",
-                    "votes": 21
+                    "votes": 32
                   },
                   {
                     "name": "Blackburn 2",
-                    "votes": 25
+                    "votes": 40
                   },
                   {
                     "name": "Whitehead 1",
-                    "votes": 30
+                    "votes": 50
                   },
                   {
                     "name": "Whitehead 2",
-                    "votes": 33
+                    "votes": 41
                   },
                   {
                     "name": "Ocmulgee 1",
-                    "votes": 47
+                    "votes": 79
                   },
                   {
                     "name": "Ocmulgee 2",
-                    "votes": 14
+                    "votes": 18
                   }
                 ]
               },
@@ -1241,11 +1241,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 791,
+            "totalVotes": 894,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 237,
+                "votes": 243,
                 "Precinct": [
                   {
                     "name": "Hazlehurst",
@@ -1273,7 +1273,7 @@
                   },
                   {
                     "name": "Whitehead 2",
-                    "votes": 0
+                    "votes": 6
                   },
                   {
                     "name": "Ocmulgee 1",
@@ -1329,23 +1329,23 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 132,
+                "votes": 229,
                 "Precinct": [
                   {
                     "name": "Hazlehurst",
-                    "votes": 51
+                    "votes": 90
                   },
                   {
                     "name": "Altamaha 1",
-                    "votes": 2
+                    "votes": 10
                   },
                   {
                     "name": "Altamaha 2",
-                    "votes": 4
+                    "votes": 9
                   },
                   {
                     "name": "Blackburn 1",
-                    "votes": 12
+                    "votes": 28
                   },
                   {
                     "name": "Blackburn 2",
@@ -1353,19 +1353,19 @@
                   },
                   {
                     "name": "Whitehead 1",
-                    "votes": 12
+                    "votes": 23
                   },
                   {
                     "name": "Whitehead 2",
-                    "votes": 3
+                    "votes": 8
                   },
                   {
                     "name": "Ocmulgee 1",
-                    "votes": 19
+                    "votes": 28
                   },
                   {
                     "name": "Ocmulgee 2",
-                    "votes": 19
+                    "votes": 23
                   }
                 ]
               },

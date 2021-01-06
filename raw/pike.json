@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 9:00:45 PM EST",
+    "Timestamp": "1/5/2021 9:09:03 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Pike",
     "VoterTurnout": {
       "totalVoters": 13991,
-      "ballotsCast": 7581,
-      "voterTurnout": 54.18,
+      "ballotsCast": 9628,
+      "voterTurnout": 68.82,
       "Precincts": {
         "Precinct": [
           {
@@ -20,16 +20,16 @@
           {
             "name": "Hollonville",
             "totalVoters": 1778,
-            "ballotsCast": 745,
-            "voterTurnout": 41.9,
-            "percentReporting": "2"
+            "ballotsCast": 1265,
+            "voterTurnout": 71.15,
+            "percentReporting": "4"
           },
           {
             "name": "Meansville",
             "totalVoters": 1333,
-            "ballotsCast": 522,
-            "voterTurnout": 39.16,
-            "percentReporting": "2"
+            "ballotsCast": 917,
+            "voterTurnout": 68.79,
+            "percentReporting": "4"
           },
           {
             "name": "Molena",
@@ -41,9 +41,9 @@
           {
             "name": "Second District",
             "totalVoters": 2621,
-            "ballotsCast": 1230,
-            "voterTurnout": 46.93,
-            "percentReporting": "2"
+            "ballotsCast": 1860,
+            "voterTurnout": 70.97,
+            "percentReporting": "4"
           },
           {
             "name": "Lifsey Springs",
@@ -55,9 +55,9 @@
           {
             "name": "Williamson",
             "totalVoters": 1832,
-            "ballotsCast": 768,
-            "voterTurnout": 41.92,
-            "percentReporting": "2"
+            "ballotsCast": 1270,
+            "voterTurnout": 69.32,
+            "percentReporting": "4"
           },
           {
             "name": "Zebulon",
@@ -76,11 +76,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 8,
-        "precinctsReported": 4,
+        "precinctsReported": 8,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 10,
+            "votes": 11,
             "Precinct": [
               {
                 "name": "Concord",
@@ -108,7 +108,7 @@
               },
               {
                 "name": "Williamson",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Zebulon",
@@ -159,11 +159,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 6336,
+            "totalVotes": 8249,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1558,
+                "votes": 3471,
                 "Precinct": [
                   {
                     "name": "Concord",
@@ -171,11 +171,11 @@
                   },
                   {
                     "name": "Hollonville",
-                    "votes": 0
+                    "votes": 501
                   },
                   {
                     "name": "Meansville",
-                    "votes": 0
+                    "votes": 363
                   },
                   {
                     "name": "Molena",
@@ -183,7 +183,7 @@
                   },
                   {
                     "name": "Second District",
-                    "votes": 0
+                    "votes": 586
                   },
                   {
                     "name": "Lifsey Springs",
@@ -191,7 +191,7 @@
                   },
                   {
                     "name": "Williamson",
-                    "votes": 0
+                    "votes": 463
                   },
                   {
                     "name": "Zebulon",
@@ -318,11 +318,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 1235,
+            "totalVotes": 1368,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 202,
+                "votes": 335,
                 "Precinct": [
                   {
                     "name": "Concord",
@@ -330,11 +330,11 @@
                   },
                   {
                     "name": "Hollonville",
-                    "votes": 0
+                    "votes": 19
                   },
                   {
                     "name": "Meansville",
-                    "votes": 0
+                    "votes": 32
                   },
                   {
                     "name": "Molena",
@@ -342,7 +342,7 @@
                   },
                   {
                     "name": "Second District",
-                    "votes": 0
+                    "votes": 44
                   },
                   {
                     "name": "Lifsey Springs",
@@ -350,7 +350,7 @@
                   },
                   {
                     "name": "Williamson",
-                    "votes": 0
+                    "votes": 38
                   },
                   {
                     "name": "Zebulon",
@@ -482,11 +482,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 8,
-        "precinctsReported": 4,
+        "precinctsReported": 8,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 12,
+            "votes": 17,
             "Precinct": [
               {
                 "name": "Concord",
@@ -494,11 +494,11 @@
               },
               {
                 "name": "Hollonville",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "Meansville",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "Molena",
@@ -506,7 +506,7 @@
               },
               {
                 "name": "Second District",
-                "votes": 3
+                "votes": 4
               },
               {
                 "name": "Lifsey Springs",
@@ -514,7 +514,7 @@
               },
               {
                 "name": "Williamson",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Zebulon",
@@ -565,11 +565,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 6322,
+            "totalVotes": 8225,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1553,
+                "votes": 3456,
                 "Precinct": [
                   {
                     "name": "Concord",
@@ -577,11 +577,11 @@
                   },
                   {
                     "name": "Hollonville",
-                    "votes": 0
+                    "votes": 501
                   },
                   {
                     "name": "Meansville",
-                    "votes": 0
+                    "votes": 360
                   },
                   {
                     "name": "Molena",
@@ -589,7 +589,7 @@
                   },
                   {
                     "name": "Second District",
-                    "votes": 0
+                    "votes": 583
                   },
                   {
                     "name": "Lifsey Springs",
@@ -597,7 +597,7 @@
                   },
                   {
                     "name": "Williamson",
-                    "votes": 0
+                    "votes": 459
                   },
                   {
                     "name": "Zebulon",
@@ -724,11 +724,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 1247,
+            "totalVotes": 1386,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 207,
+                "votes": 346,
                 "Precinct": [
                   {
                     "name": "Concord",
@@ -736,11 +736,11 @@
                   },
                   {
                     "name": "Hollonville",
-                    "votes": 0
+                    "votes": 18
                   },
                   {
                     "name": "Meansville",
-                    "votes": 0
+                    "votes": 34
                   },
                   {
                     "name": "Molena",
@@ -748,7 +748,7 @@
                   },
                   {
                     "name": "Second District",
-                    "votes": 0
+                    "votes": 46
                   },
                   {
                     "name": "Lifsey Springs",
@@ -756,7 +756,7 @@
                   },
                   {
                     "name": "Williamson",
-                    "votes": 0
+                    "votes": 41
                   },
                   {
                     "name": "Zebulon",
@@ -888,11 +888,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 8,
-        "precinctsReported": 4,
+        "precinctsReported": 8,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 73,
+            "votes": 87,
             "Precinct": [
               {
                 "name": "Concord",
@@ -900,11 +900,11 @@
               },
               {
                 "name": "Hollonville",
-                "votes": 10
+                "votes": 12
               },
               {
                 "name": "Meansville",
-                "votes": 3
+                "votes": 7
               },
               {
                 "name": "Molena",
@@ -912,7 +912,7 @@
               },
               {
                 "name": "Second District",
-                "votes": 14
+                "votes": 16
               },
               {
                 "name": "Lifsey Springs",
@@ -920,7 +920,7 @@
               },
               {
                 "name": "Williamson",
-                "votes": 7
+                "votes": 13
               },
               {
                 "name": "Zebulon",
@@ -971,11 +971,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 6331,
+            "totalVotes": 8241,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1564,
+                "votes": 3474,
                 "Precinct": [
                   {
                     "name": "Concord",
@@ -983,11 +983,11 @@
                   },
                   {
                     "name": "Hollonville",
-                    "votes": 0
+                    "votes": 502
                   },
                   {
                     "name": "Meansville",
-                    "votes": 0
+                    "votes": 364
                   },
                   {
                     "name": "Molena",
@@ -995,7 +995,7 @@
                   },
                   {
                     "name": "Second District",
-                    "votes": 0
+                    "votes": 585
                   },
                   {
                     "name": "Lifsey Springs",
@@ -1003,7 +1003,7 @@
                   },
                   {
                     "name": "Williamson",
-                    "votes": 0
+                    "votes": 459
                   },
                   {
                     "name": "Zebulon",
@@ -1130,11 +1130,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 1173,
+            "totalVotes": 1296,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 187,
+                "votes": 310,
                 "Precinct": [
                   {
                     "name": "Concord",
@@ -1142,11 +1142,11 @@
                   },
                   {
                     "name": "Hollonville",
-                    "votes": 0
+                    "votes": 16
                   },
                   {
                     "name": "Meansville",
-                    "votes": 0
+                    "votes": 27
                   },
                   {
                     "name": "Molena",
@@ -1154,7 +1154,7 @@
                   },
                   {
                     "name": "Second District",
-                    "votes": 0
+                    "votes": 43
                   },
                   {
                     "name": "Lifsey Springs",
@@ -1162,7 +1162,7 @@
                   },
                   {
                     "name": "Williamson",
-                    "votes": 0
+                    "votes": 37
                   },
                   {
                     "name": "Zebulon",

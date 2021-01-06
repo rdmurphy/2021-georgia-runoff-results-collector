@@ -1,55 +1,55 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:58:34 PM EST",
+    "Timestamp": "1/5/2021 9:14:24 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Lamar",
     "VoterTurnout": {
-      "totalVoters": 0,
-      "ballotsCast": 0,
-      "voterTurnout": 0.0,
+      "totalVoters": 13036,
+      "ballotsCast": 2314,
+      "voterTurnout": 17.75,
       "Precincts": {
         "Precinct": [
           {
             "name": "Barnesville",
-            "totalVoters": 0,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "totalVoters": 2571,
+            "ballotsCast": 728,
+            "voterTurnout": 28.32,
+            "percentReporting": "2"
           },
           {
             "name": "Chappell Mill V FD",
-            "totalVoters": 0,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
+            "totalVoters": 1615,
+            "ballotsCast": 142,
+            "voterTurnout": 8.79,
             "percentReporting": "1"
           },
           {
             "name": "Senior Citizen Bldg",
-            "totalVoters": 0,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "totalVoters": 1358,
+            "ballotsCast": 442,
+            "voterTurnout": 32.55,
+            "percentReporting": "2"
           },
           {
             "name": "Redbone",
-            "totalVoters": 0,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
+            "totalVoters": 632,
+            "ballotsCast": 53,
+            "voterTurnout": 8.39,
             "percentReporting": "1"
           },
           {
             "name": "L C S C",
-            "totalVoters": 0,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "totalVoters": 2842,
+            "ballotsCast": 947,
+            "voterTurnout": 33.32,
+            "percentReporting": "2"
           },
           {
             "name": "Milner",
-            "totalVoters": 0,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
+            "totalVoters": 4018,
+            "ballotsCast": 2,
+            "voterTurnout": 0.05,
             "percentReporting": "1"
           }
         ]
@@ -66,11 +66,11 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 0,
+            "votes": 4,
             "Precinct": [
               {
                 "name": "Barnesville",
-                "votes": 0
+                "votes": 3
               },
               {
                 "name": "Chappell Mill V FD",
@@ -86,7 +86,7 @@
               },
               {
                 "name": "L C S C",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Milner",
@@ -129,15 +129,15 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 0,
+            "totalVotes": 1235,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 876,
                 "Precinct": [
                   {
                     "name": "Barnesville",
-                    "votes": 0
+                    "votes": 135
                   },
                   {
                     "name": "Chappell Mill V FD",
@@ -145,7 +145,7 @@
                   },
                   {
                     "name": "Senior Citizen Bldg",
-                    "votes": 0
+                    "votes": 205
                   },
                   {
                     "name": "Redbone",
@@ -153,7 +153,7 @@
                   },
                   {
                     "name": "L C S C",
-                    "votes": 0
+                    "votes": 536
                   },
                   {
                     "name": "Milner",
@@ -193,31 +193,31 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 359,
                 "Precinct": [
                   {
                     "name": "Barnesville",
-                    "votes": 0
+                    "votes": 49
                   },
                   {
                     "name": "Chappell Mill V FD",
-                    "votes": 0
+                    "votes": 64
                   },
                   {
                     "name": "Senior Citizen Bldg",
-                    "votes": 0
+                    "votes": 58
                   },
                   {
                     "name": "Redbone",
-                    "votes": 0
+                    "votes": 25
                   },
                   {
                     "name": "L C S C",
-                    "votes": 0
+                    "votes": 161
                   },
                   {
                     "name": "Milner",
-                    "votes": 0
+                    "votes": 2
                   }
                 ]
               },
@@ -256,15 +256,15 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 0,
+            "totalVotes": 1075,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 429,
                 "Precinct": [
                   {
                     "name": "Barnesville",
-                    "votes": 0
+                    "votes": 223
                   },
                   {
                     "name": "Chappell Mill V FD",
@@ -272,7 +272,7 @@
                   },
                   {
                     "name": "Senior Citizen Bldg",
-                    "votes": 0
+                    "votes": 92
                   },
                   {
                     "name": "Redbone",
@@ -280,7 +280,7 @@
                   },
                   {
                     "name": "L C S C",
-                    "votes": 0
+                    "votes": 114
                   },
                   {
                     "name": "Milner",
@@ -320,27 +320,27 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 646,
                 "Precinct": [
                   {
                     "name": "Barnesville",
-                    "votes": 0
+                    "votes": 318
                   },
                   {
                     "name": "Chappell Mill V FD",
-                    "votes": 0
+                    "votes": 78
                   },
                   {
                     "name": "Senior Citizen Bldg",
-                    "votes": 0
+                    "votes": 87
                   },
                   {
                     "name": "Redbone",
-                    "votes": 0
+                    "votes": 28
                   },
                   {
                     "name": "L C S C",
-                    "votes": 0
+                    "votes": 135
                   },
                   {
                     "name": "Milner",
@@ -392,7 +392,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 0,
+            "votes": 2,
             "Precinct": [
               {
                 "name": "Barnesville",
@@ -404,7 +404,7 @@
               },
               {
                 "name": "Senior Citizen Bldg",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Redbone",
@@ -412,7 +412,7 @@
               },
               {
                 "name": "L C S C",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Milner",
@@ -455,15 +455,15 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 0,
+            "totalVotes": 1223,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 874,
                 "Precinct": [
                   {
                     "name": "Barnesville",
-                    "votes": 0
+                    "votes": 136
                   },
                   {
                     "name": "Chappell Mill V FD",
@@ -471,7 +471,7 @@
                   },
                   {
                     "name": "Senior Citizen Bldg",
-                    "votes": 0
+                    "votes": 203
                   },
                   {
                     "name": "Redbone",
@@ -479,7 +479,7 @@
                   },
                   {
                     "name": "L C S C",
-                    "votes": 0
+                    "votes": 535
                   },
                   {
                     "name": "Milner",
@@ -519,31 +519,31 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 349,
                 "Precinct": [
                   {
                     "name": "Barnesville",
-                    "votes": 0
+                    "votes": 48
                   },
                   {
                     "name": "Chappell Mill V FD",
-                    "votes": 0
+                    "votes": 63
                   },
                   {
                     "name": "Senior Citizen Bldg",
-                    "votes": 0
+                    "votes": 55
                   },
                   {
                     "name": "Redbone",
-                    "votes": 0
+                    "votes": 25
                   },
                   {
                     "name": "L C S C",
-                    "votes": 0
+                    "votes": 156
                   },
                   {
                     "name": "Milner",
-                    "votes": 0
+                    "votes": 2
                   }
                 ]
               },
@@ -582,15 +582,15 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 0,
+            "totalVotes": 1089,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 433,
                 "Precinct": [
                   {
                     "name": "Barnesville",
-                    "votes": 0
+                    "votes": 224
                   },
                   {
                     "name": "Chappell Mill V FD",
@@ -598,7 +598,7 @@
                   },
                   {
                     "name": "Senior Citizen Bldg",
-                    "votes": 0
+                    "votes": 94
                   },
                   {
                     "name": "Redbone",
@@ -606,7 +606,7 @@
                   },
                   {
                     "name": "L C S C",
-                    "votes": 0
+                    "votes": 115
                   },
                   {
                     "name": "Milner",
@@ -646,27 +646,27 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 656,
                 "Precinct": [
                   {
                     "name": "Barnesville",
-                    "votes": 0
+                    "votes": 320
                   },
                   {
                     "name": "Chappell Mill V FD",
-                    "votes": 0
+                    "votes": 79
                   },
                   {
                     "name": "Senior Citizen Bldg",
-                    "votes": 0
+                    "votes": 89
                   },
                   {
                     "name": "Redbone",
-                    "votes": 0
+                    "votes": 28
                   },
                   {
                     "name": "L C S C",
-                    "votes": 0
+                    "votes": 140
                   },
                   {
                     "name": "Milner",
@@ -718,19 +718,19 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 0,
+            "votes": 33,
             "Precinct": [
               {
                 "name": "Barnesville",
-                "votes": 0
+                "votes": 9
               },
               {
                 "name": "Chappell Mill V FD",
-                "votes": 0
+                "votes": 4
               },
               {
                 "name": "Senior Citizen Bldg",
-                "votes": 0
+                "votes": 9
               },
               {
                 "name": "Redbone",
@@ -738,7 +738,7 @@
               },
               {
                 "name": "L C S C",
-                "votes": 0
+                "votes": 11
               },
               {
                 "name": "Milner",
@@ -781,15 +781,15 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 0,
+            "totalVotes": 1233,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 873,
                 "Precinct": [
                   {
                     "name": "Barnesville",
-                    "votes": 0
+                    "votes": 138
                   },
                   {
                     "name": "Chappell Mill V FD",
@@ -797,7 +797,7 @@
                   },
                   {
                     "name": "Senior Citizen Bldg",
-                    "votes": 0
+                    "votes": 199
                   },
                   {
                     "name": "Redbone",
@@ -805,7 +805,7 @@
                   },
                   {
                     "name": "L C S C",
-                    "votes": 0
+                    "votes": 536
                   },
                   {
                     "name": "Milner",
@@ -845,31 +845,31 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 360,
                 "Precinct": [
                   {
                     "name": "Barnesville",
-                    "votes": 0
+                    "votes": 50
                   },
                   {
                     "name": "Chappell Mill V FD",
-                    "votes": 0
+                    "votes": 66
                   },
                   {
                     "name": "Senior Citizen Bldg",
-                    "votes": 0
+                    "votes": 56
                   },
                   {
                     "name": "Redbone",
-                    "votes": 0
+                    "votes": 27
                   },
                   {
                     "name": "L C S C",
-                    "votes": 0
+                    "votes": 159
                   },
                   {
                     "name": "Milner",
-                    "votes": 0
+                    "votes": 2
                   }
                 ]
               },
@@ -908,15 +908,15 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 0,
+            "totalVotes": 1048,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 421,
                 "Precinct": [
                   {
                     "name": "Barnesville",
-                    "votes": 0
+                    "votes": 219
                   },
                   {
                     "name": "Chappell Mill V FD",
@@ -924,7 +924,7 @@
                   },
                   {
                     "name": "Senior Citizen Bldg",
-                    "votes": 0
+                    "votes": 92
                   },
                   {
                     "name": "Redbone",
@@ -932,7 +932,7 @@
                   },
                   {
                     "name": "L C S C",
-                    "votes": 0
+                    "votes": 110
                   },
                   {
                     "name": "Milner",
@@ -972,27 +972,27 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 627,
                 "Precinct": [
                   {
                     "name": "Barnesville",
-                    "votes": 0
+                    "votes": 312
                   },
                   {
                     "name": "Chappell Mill V FD",
-                    "votes": 0
+                    "votes": 72
                   },
                   {
                     "name": "Senior Citizen Bldg",
-                    "votes": 0
+                    "votes": 86
                   },
                   {
                     "name": "Redbone",
-                    "votes": 0
+                    "votes": 26
                   },
                   {
                     "name": "L C S C",
-                    "votes": 0
+                    "votes": 131
                   },
                   {
                     "name": "Milner",
