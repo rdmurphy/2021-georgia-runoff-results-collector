@@ -1,0 +1,1801 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:48:25 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Haralson",
+    "VoterTurnout": {
+      "totalVoters": 21062,
+      "ballotsCast": 8949,
+      "voterTurnout": 42.49,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Bremen",
+            "totalVoters": 6737,
+            "ballotsCast": 2382,
+            "voterTurnout": 35.36,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Buchanan",
+            "totalVoters": 2425,
+            "ballotsCast": 1434,
+            "voterTurnout": 59.13,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Buncombe",
+            "totalVoters": 1101,
+            "ballotsCast": 275,
+            "voterTurnout": 24.98,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Corinth",
+            "totalVoters": 1720,
+            "ballotsCast": 515,
+            "voterTurnout": 29.94,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Twentieth",
+            "totalVoters": 746,
+            "ballotsCast": 486,
+            "voterTurnout": 65.15,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Felton",
+            "totalVoters": 316,
+            "ballotsCast": 195,
+            "voterTurnout": 61.71,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Little Creek",
+            "totalVoters": 706,
+            "ballotsCast": 471,
+            "voterTurnout": 66.71,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Mt View",
+            "totalVoters": 335,
+            "ballotsCast": 217,
+            "voterTurnout": 64.78,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Seventh",
+            "totalVoters": 1971,
+            "ballotsCast": 1142,
+            "voterTurnout": 57.94,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Berea-Steadman",
+            "totalVoters": 678,
+            "ballotsCast": 159,
+            "voterTurnout": 23.45,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Tallapoosa",
+            "totalVoters": 3126,
+            "ballotsCast": 979,
+            "voterTurnout": 31.32,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Waco",
+            "totalVoters": 1201,
+            "ballotsCast": 694,
+            "voterTurnout": 57.79,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 12,
+        "precinctsReported": 7,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 13,
+            "Precinct": [
+              {
+                "name": "Bremen",
+                "votes": 5
+              },
+              {
+                "name": "Buchanan",
+                "votes": 2
+              },
+              {
+                "name": "Buncombe",
+                "votes": 0
+              },
+              {
+                "name": "Corinth",
+                "votes": 0
+              },
+              {
+                "name": "Twentieth",
+                "votes": 1
+              },
+              {
+                "name": "Felton",
+                "votes": 0
+              },
+              {
+                "name": "Little Creek",
+                "votes": 0
+              },
+              {
+                "name": "Mt View",
+                "votes": 0
+              },
+              {
+                "name": "Seventh",
+                "votes": 1
+              },
+              {
+                "name": "Berea-Steadman",
+                "votes": 0
+              },
+              {
+                "name": "Tallapoosa",
+                "votes": 2
+              },
+              {
+                "name": "Waco",
+                "votes": 2
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Bremen",
+                "votes": 0
+              },
+              {
+                "name": "Buchanan",
+                "votes": 0
+              },
+              {
+                "name": "Buncombe",
+                "votes": 0
+              },
+              {
+                "name": "Corinth",
+                "votes": 0
+              },
+              {
+                "name": "Twentieth",
+                "votes": 0
+              },
+              {
+                "name": "Felton",
+                "votes": 0
+              },
+              {
+                "name": "Little Creek",
+                "votes": 0
+              },
+              {
+                "name": "Mt View",
+                "votes": 0
+              },
+              {
+                "name": "Seventh",
+                "votes": 0
+              },
+              {
+                "name": "Berea-Steadman",
+                "votes": 0
+              },
+              {
+                "name": "Tallapoosa",
+                "votes": 0
+              },
+              {
+                "name": "Waco",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 7614,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 2136,
+                "Precinct": [
+                  {
+                    "name": "Bremen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buchanan",
+                    "votes": 500
+                  },
+                  {
+                    "name": "Buncombe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Corinth",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Twentieth",
+                    "votes": 247
+                  },
+                  {
+                    "name": "Felton",
+                    "votes": 125
+                  },
+                  {
+                    "name": "Little Creek",
+                    "votes": 290
+                  },
+                  {
+                    "name": "Mt View",
+                    "votes": 129
+                  },
+                  {
+                    "name": "Seventh",
+                    "votes": 457
+                  },
+                  {
+                    "name": "Berea-Steadman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tallapoosa",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Waco",
+                    "votes": 388
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 4133,
+                "Precinct": [
+                  {
+                    "name": "Bremen",
+                    "votes": 1431
+                  },
+                  {
+                    "name": "Buchanan",
+                    "votes": 601
+                  },
+                  {
+                    "name": "Buncombe",
+                    "votes": 172
+                  },
+                  {
+                    "name": "Corinth",
+                    "votes": 343
+                  },
+                  {
+                    "name": "Twentieth",
+                    "votes": 142
+                  },
+                  {
+                    "name": "Felton",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Little Creek",
+                    "votes": 103
+                  },
+                  {
+                    "name": "Mt View",
+                    "votes": 57
+                  },
+                  {
+                    "name": "Seventh",
+                    "votes": 420
+                  },
+                  {
+                    "name": "Berea-Steadman",
+                    "votes": 98
+                  },
+                  {
+                    "name": "Tallapoosa",
+                    "votes": 545
+                  },
+                  {
+                    "name": "Waco",
+                    "votes": 171
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1345,
+                "Precinct": [
+                  {
+                    "name": "Bremen",
+                    "votes": 433
+                  },
+                  {
+                    "name": "Buchanan",
+                    "votes": 159
+                  },
+                  {
+                    "name": "Buncombe",
+                    "votes": 65
+                  },
+                  {
+                    "name": "Corinth",
+                    "votes": 120
+                  },
+                  {
+                    "name": "Twentieth",
+                    "votes": 53
+                  },
+                  {
+                    "name": "Felton",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Little Creek",
+                    "votes": 48
+                  },
+                  {
+                    "name": "Mt View",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Seventh",
+                    "votes": 103
+                  },
+                  {
+                    "name": "Berea-Steadman",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Tallapoosa",
+                    "votes": 235
+                  },
+                  {
+                    "name": "Waco",
+                    "votes": 69
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Bremen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buchanan",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buncombe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Corinth",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Twentieth",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Felton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Little Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mt View",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Seventh",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Berea-Steadman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tallapoosa",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Waco",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 1322,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 138,
+                "Precinct": [
+                  {
+                    "name": "Bremen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buchanan",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Buncombe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Corinth",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Twentieth",
+                    "votes": 13
+                  },
+                  {
+                    "name": "Felton",
+                    "votes": 2
+                  },
+                  {
+                    "name": "Little Creek",
+                    "votes": 6
+                  },
+                  {
+                    "name": "Mt View",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Seventh",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Berea-Steadman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tallapoosa",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Waco",
+                    "votes": 23
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 552,
+                "Precinct": [
+                  {
+                    "name": "Bremen",
+                    "votes": 243
+                  },
+                  {
+                    "name": "Buchanan",
+                    "votes": 63
+                  },
+                  {
+                    "name": "Buncombe",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Corinth",
+                    "votes": 33
+                  },
+                  {
+                    "name": "Twentieth",
+                    "votes": 8
+                  },
+                  {
+                    "name": "Felton",
+                    "votes": 1
+                  },
+                  {
+                    "name": "Little Creek",
+                    "votes": 6
+                  },
+                  {
+                    "name": "Mt View",
+                    "votes": 4
+                  },
+                  {
+                    "name": "Seventh",
+                    "votes": 59
+                  },
+                  {
+                    "name": "Berea-Steadman",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Tallapoosa",
+                    "votes": 85
+                  },
+                  {
+                    "name": "Waco",
+                    "votes": 14
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 632,
+                "Precinct": [
+                  {
+                    "name": "Bremen",
+                    "votes": 270
+                  },
+                  {
+                    "name": "Buchanan",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Buncombe",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Corinth",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Twentieth",
+                    "votes": 22
+                  },
+                  {
+                    "name": "Felton",
+                    "votes": 7
+                  },
+                  {
+                    "name": "Little Creek",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Mt View",
+                    "votes": 1
+                  },
+                  {
+                    "name": "Seventh",
+                    "votes": 61
+                  },
+                  {
+                    "name": "Berea-Steadman",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Tallapoosa",
+                    "votes": 112
+                  },
+                  {
+                    "name": "Waco",
+                    "votes": 27
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Bremen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buchanan",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buncombe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Corinth",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Twentieth",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Felton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Little Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mt View",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Seventh",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Berea-Steadman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tallapoosa",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Waco",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 12,
+        "precinctsReported": 7,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 14,
+            "Precinct": [
+              {
+                "name": "Bremen",
+                "votes": 5
+              },
+              {
+                "name": "Buchanan",
+                "votes": 3
+              },
+              {
+                "name": "Buncombe",
+                "votes": 0
+              },
+              {
+                "name": "Corinth",
+                "votes": 0
+              },
+              {
+                "name": "Twentieth",
+                "votes": 1
+              },
+              {
+                "name": "Felton",
+                "votes": 0
+              },
+              {
+                "name": "Little Creek",
+                "votes": 1
+              },
+              {
+                "name": "Mt View",
+                "votes": 0
+              },
+              {
+                "name": "Seventh",
+                "votes": 0
+              },
+              {
+                "name": "Berea-Steadman",
+                "votes": 0
+              },
+              {
+                "name": "Tallapoosa",
+                "votes": 2
+              },
+              {
+                "name": "Waco",
+                "votes": 2
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Bremen",
+                "votes": 0
+              },
+              {
+                "name": "Buchanan",
+                "votes": 0
+              },
+              {
+                "name": "Buncombe",
+                "votes": 0
+              },
+              {
+                "name": "Corinth",
+                "votes": 0
+              },
+              {
+                "name": "Twentieth",
+                "votes": 0
+              },
+              {
+                "name": "Felton",
+                "votes": 0
+              },
+              {
+                "name": "Little Creek",
+                "votes": 0
+              },
+              {
+                "name": "Mt View",
+                "votes": 0
+              },
+              {
+                "name": "Seventh",
+                "votes": 0
+              },
+              {
+                "name": "Berea-Steadman",
+                "votes": 0
+              },
+              {
+                "name": "Tallapoosa",
+                "votes": 0
+              },
+              {
+                "name": "Waco",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 7597,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 2127,
+                "Precinct": [
+                  {
+                    "name": "Bremen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buchanan",
+                    "votes": 500
+                  },
+                  {
+                    "name": "Buncombe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Corinth",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Twentieth",
+                    "votes": 249
+                  },
+                  {
+                    "name": "Felton",
+                    "votes": 124
+                  },
+                  {
+                    "name": "Little Creek",
+                    "votes": 286
+                  },
+                  {
+                    "name": "Mt View",
+                    "votes": 128
+                  },
+                  {
+                    "name": "Seventh",
+                    "votes": 455
+                  },
+                  {
+                    "name": "Berea-Steadman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tallapoosa",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Waco",
+                    "votes": 385
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 4133,
+                "Precinct": [
+                  {
+                    "name": "Bremen",
+                    "votes": 1431
+                  },
+                  {
+                    "name": "Buchanan",
+                    "votes": 599
+                  },
+                  {
+                    "name": "Buncombe",
+                    "votes": 170
+                  },
+                  {
+                    "name": "Corinth",
+                    "votes": 344
+                  },
+                  {
+                    "name": "Twentieth",
+                    "votes": 141
+                  },
+                  {
+                    "name": "Felton",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Little Creek",
+                    "votes": 104
+                  },
+                  {
+                    "name": "Mt View",
+                    "votes": 57
+                  },
+                  {
+                    "name": "Seventh",
+                    "votes": 422
+                  },
+                  {
+                    "name": "Berea-Steadman",
+                    "votes": 98
+                  },
+                  {
+                    "name": "Tallapoosa",
+                    "votes": 546
+                  },
+                  {
+                    "name": "Waco",
+                    "votes": 171
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1337,
+                "Precinct": [
+                  {
+                    "name": "Bremen",
+                    "votes": 427
+                  },
+                  {
+                    "name": "Buchanan",
+                    "votes": 159
+                  },
+                  {
+                    "name": "Buncombe",
+                    "votes": 65
+                  },
+                  {
+                    "name": "Corinth",
+                    "votes": 120
+                  },
+                  {
+                    "name": "Twentieth",
+                    "votes": 52
+                  },
+                  {
+                    "name": "Felton",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Little Creek",
+                    "votes": 49
+                  },
+                  {
+                    "name": "Mt View",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Seventh",
+                    "votes": 103
+                  },
+                  {
+                    "name": "Berea-Steadman",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Tallapoosa",
+                    "votes": 233
+                  },
+                  {
+                    "name": "Waco",
+                    "votes": 69
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Bremen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buchanan",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buncombe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Corinth",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Twentieth",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Felton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Little Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mt View",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Seventh",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Berea-Steadman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tallapoosa",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Waco",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 1338,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 146,
+                "Precinct": [
+                  {
+                    "name": "Bremen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buchanan",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Buncombe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Corinth",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Twentieth",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Felton",
+                    "votes": 3
+                  },
+                  {
+                    "name": "Little Creek",
+                    "votes": 9
+                  },
+                  {
+                    "name": "Mt View",
+                    "votes": 12
+                  },
+                  {
+                    "name": "Seventh",
+                    "votes": 43
+                  },
+                  {
+                    "name": "Berea-Steadman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tallapoosa",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Waco",
+                    "votes": 26
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 555,
+                "Precinct": [
+                  {
+                    "name": "Bremen",
+                    "votes": 245
+                  },
+                  {
+                    "name": "Buchanan",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Buncombe",
+                    "votes": 22
+                  },
+                  {
+                    "name": "Corinth",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Twentieth",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Felton",
+                    "votes": 1
+                  },
+                  {
+                    "name": "Little Creek",
+                    "votes": 5
+                  },
+                  {
+                    "name": "Mt View",
+                    "votes": 4
+                  },
+                  {
+                    "name": "Seventh",
+                    "votes": 57
+                  },
+                  {
+                    "name": "Berea-Steadman",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Tallapoosa",
+                    "votes": 85
+                  },
+                  {
+                    "name": "Waco",
+                    "votes": 14
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 637,
+                "Precinct": [
+                  {
+                    "name": "Bremen",
+                    "votes": 274
+                  },
+                  {
+                    "name": "Buchanan",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Buncombe",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Corinth",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Twentieth",
+                    "votes": 22
+                  },
+                  {
+                    "name": "Felton",
+                    "votes": 7
+                  },
+                  {
+                    "name": "Little Creek",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Mt View",
+                    "votes": 1
+                  },
+                  {
+                    "name": "Seventh",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Berea-Steadman",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Tallapoosa",
+                    "votes": 113
+                  },
+                  {
+                    "name": "Waco",
+                    "votes": 27
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Bremen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buchanan",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buncombe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Corinth",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Twentieth",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Felton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Little Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mt View",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Seventh",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Berea-Steadman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tallapoosa",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Waco",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 12,
+        "precinctsReported": 7,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 98,
+            "Precinct": [
+              {
+                "name": "Bremen",
+                "votes": 21
+              },
+              {
+                "name": "Buchanan",
+                "votes": 25
+              },
+              {
+                "name": "Buncombe",
+                "votes": 3
+              },
+              {
+                "name": "Corinth",
+                "votes": 2
+              },
+              {
+                "name": "Twentieth",
+                "votes": 4
+              },
+              {
+                "name": "Felton",
+                "votes": 3
+              },
+              {
+                "name": "Little Creek",
+                "votes": 5
+              },
+              {
+                "name": "Mt View",
+                "votes": 1
+              },
+              {
+                "name": "Seventh",
+                "votes": 6
+              },
+              {
+                "name": "Berea-Steadman",
+                "votes": 1
+              },
+              {
+                "name": "Tallapoosa",
+                "votes": 21
+              },
+              {
+                "name": "Waco",
+                "votes": 6
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Bremen",
+                "votes": 0
+              },
+              {
+                "name": "Buchanan",
+                "votes": 0
+              },
+              {
+                "name": "Buncombe",
+                "votes": 0
+              },
+              {
+                "name": "Corinth",
+                "votes": 0
+              },
+              {
+                "name": "Twentieth",
+                "votes": 0
+              },
+              {
+                "name": "Felton",
+                "votes": 0
+              },
+              {
+                "name": "Little Creek",
+                "votes": 0
+              },
+              {
+                "name": "Mt View",
+                "votes": 0
+              },
+              {
+                "name": "Seventh",
+                "votes": 0
+              },
+              {
+                "name": "Berea-Steadman",
+                "votes": 0
+              },
+              {
+                "name": "Tallapoosa",
+                "votes": 0
+              },
+              {
+                "name": "Waco",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 7523,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 2108,
+                "Precinct": [
+                  {
+                    "name": "Bremen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buchanan",
+                    "votes": 496
+                  },
+                  {
+                    "name": "Buncombe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Corinth",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Twentieth",
+                    "votes": 246
+                  },
+                  {
+                    "name": "Felton",
+                    "votes": 122
+                  },
+                  {
+                    "name": "Little Creek",
+                    "votes": 283
+                  },
+                  {
+                    "name": "Mt View",
+                    "votes": 128
+                  },
+                  {
+                    "name": "Seventh",
+                    "votes": 455
+                  },
+                  {
+                    "name": "Berea-Steadman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tallapoosa",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Waco",
+                    "votes": 378
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 4086,
+                "Precinct": [
+                  {
+                    "name": "Bremen",
+                    "votes": 1434
+                  },
+                  {
+                    "name": "Buchanan",
+                    "votes": 587
+                  },
+                  {
+                    "name": "Buncombe",
+                    "votes": 172
+                  },
+                  {
+                    "name": "Corinth",
+                    "votes": 338
+                  },
+                  {
+                    "name": "Twentieth",
+                    "votes": 138
+                  },
+                  {
+                    "name": "Felton",
+                    "votes": 49
+                  },
+                  {
+                    "name": "Little Creek",
+                    "votes": 100
+                  },
+                  {
+                    "name": "Mt View",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Seventh",
+                    "votes": 418
+                  },
+                  {
+                    "name": "Berea-Steadman",
+                    "votes": 100
+                  },
+                  {
+                    "name": "Tallapoosa",
+                    "votes": 531
+                  },
+                  {
+                    "name": "Waco",
+                    "votes": 163
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1329,
+                "Precinct": [
+                  {
+                    "name": "Bremen",
+                    "votes": 432
+                  },
+                  {
+                    "name": "Buchanan",
+                    "votes": 150
+                  },
+                  {
+                    "name": "Buncombe",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Corinth",
+                    "votes": 120
+                  },
+                  {
+                    "name": "Twentieth",
+                    "votes": 51
+                  },
+                  {
+                    "name": "Felton",
+                    "votes": 9
+                  },
+                  {
+                    "name": "Little Creek",
+                    "votes": 45
+                  },
+                  {
+                    "name": "Mt View",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Seventh",
+                    "votes": 101
+                  },
+                  {
+                    "name": "Berea-Steadman",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Tallapoosa",
+                    "votes": 233
+                  },
+                  {
+                    "name": "Waco",
+                    "votes": 70
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Bremen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buchanan",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buncombe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Corinth",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Twentieth",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Felton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Little Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mt View",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Seventh",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Berea-Steadman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tallapoosa",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Waco",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 1327,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 145,
+                "Precinct": [
+                  {
+                    "name": "Bremen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buchanan",
+                    "votes": 39
+                  },
+                  {
+                    "name": "Buncombe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Corinth",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Twentieth",
+                    "votes": 12
+                  },
+                  {
+                    "name": "Felton",
+                    "votes": 4
+                  },
+                  {
+                    "name": "Little Creek",
+                    "votes": 12
+                  },
+                  {
+                    "name": "Mt View",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Seventh",
+                    "votes": 40
+                  },
+                  {
+                    "name": "Berea-Steadman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tallapoosa",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Waco",
+                    "votes": 27
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 557,
+                "Precinct": [
+                  {
+                    "name": "Bremen",
+                    "votes": 232
+                  },
+                  {
+                    "name": "Buchanan",
+                    "votes": 68
+                  },
+                  {
+                    "name": "Buncombe",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Corinth",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Twentieth",
+                    "votes": 12
+                  },
+                  {
+                    "name": "Felton",
+                    "votes": 1
+                  },
+                  {
+                    "name": "Little Creek",
+                    "votes": 7
+                  },
+                  {
+                    "name": "Mt View",
+                    "votes": 5
+                  },
+                  {
+                    "name": "Seventh",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Berea-Steadman",
+                    "votes": 13
+                  },
+                  {
+                    "name": "Tallapoosa",
+                    "votes": 85
+                  },
+                  {
+                    "name": "Waco",
+                    "votes": 22
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 625,
+                "Precinct": [
+                  {
+                    "name": "Bremen",
+                    "votes": 263
+                  },
+                  {
+                    "name": "Buchanan",
+                    "votes": 69
+                  },
+                  {
+                    "name": "Buncombe",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Corinth",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Twentieth",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Felton",
+                    "votes": 7
+                  },
+                  {
+                    "name": "Little Creek",
+                    "votes": 19
+                  },
+                  {
+                    "name": "Mt View",
+                    "votes": 1
+                  },
+                  {
+                    "name": "Seventh",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Berea-Steadman",
+                    "votes": 9
+                  },
+                  {
+                    "name": "Tallapoosa",
+                    "votes": 109
+                  },
+                  {
+                    "name": "Waco",
+                    "votes": 27
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Bremen",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buchanan",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Buncombe",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Corinth",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Twentieth",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Felton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Little Creek",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Mt View",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Seventh",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Berea-Steadman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Tallapoosa",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Waco",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

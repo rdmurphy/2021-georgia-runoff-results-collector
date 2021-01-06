@@ -1,41 +1,41 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:48:15 PM EST",
+    "Timestamp": "1/5/2021 8:40:54 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
-    "Region": "Upson",
+    "Region": "Glascock",
     "VoterTurnout": {
-      "totalVoters": 18527,
-      "ballotsCast": 11109,
-      "voterTurnout": 59.96,
+      "totalVoters": 2039,
+      "ballotsCast": 1366,
+      "voterTurnout": 66.99,
       "Precincts": {
         "Precinct": [
           {
-            "name": "Yatesville",
-            "totalVoters": 1364,
-            "ballotsCast": 931,
-            "voterTurnout": 68.26,
+            "name": "Edgehill",
+            "totalVoters": 136,
+            "ballotsCast": 113,
+            "voterTurnout": 83.09,
             "percentReporting": "4"
           },
           {
-            "name": "Salem",
-            "totalVoters": 372,
-            "ballotsCast": 197,
-            "voterTurnout": 52.96,
-            "percentReporting": "2"
-          },
-          {
-            "name": "Redbone",
-            "totalVoters": 8380,
-            "ballotsCast": 5223,
-            "voterTurnout": 62.33,
+            "name": "Gibson",
+            "totalVoters": 677,
+            "ballotsCast": 433,
+            "voterTurnout": 63.96,
             "percentReporting": "4"
           },
           {
-            "name": "Town",
-            "totalVoters": 8411,
-            "ballotsCast": 4758,
-            "voterTurnout": 56.57,
+            "name": "Mill",
+            "totalVoters": 778,
+            "ballotsCast": 513,
+            "voterTurnout": 65.94,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Mitchell",
+            "totalVoters": 448,
+            "ballotsCast": 307,
+            "voterTurnout": 68.53,
             "percentReporting": "4"
           }
         ]
@@ -48,27 +48,27 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 4,
-        "precinctsReported": 3,
+        "precinctsReported": 4,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 30,
+            "votes": 2,
             "Precinct": [
               {
-                "name": "Yatesville",
-                "votes": 2
+                "name": "Edgehill",
+                "votes": 0
               },
               {
-                "name": "Salem",
+                "name": "Gibson",
+                "votes": 0
+              },
+              {
+                "name": "Mill",
                 "votes": 1
               },
               {
-                "name": "Redbone",
-                "votes": 10
-              },
-              {
-                "name": "Town",
-                "votes": 17
+                "name": "Mitchell",
+                "votes": 1
               }
             ]
           },
@@ -77,19 +77,19 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Yatesville",
+                "name": "Edgehill",
                 "votes": 0
               },
               {
-                "name": "Salem",
+                "name": "Gibson",
                 "votes": 0
               },
               {
-                "name": "Redbone",
+                "name": "Mill",
                 "votes": 0
               },
               {
-                "name": "Town",
+                "name": "Mitchell",
                 "votes": 0
               }
             ]
@@ -99,71 +99,71 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 7325,
+            "totalVotes": 1230,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2406,
+                "votes": 494,
                 "Precinct": [
                   {
-                    "name": "Yatesville",
-                    "votes": 418
+                    "name": "Edgehill",
+                    "votes": 58
                   },
                   {
-                    "name": "Salem",
-                    "votes": 0
+                    "name": "Gibson",
+                    "votes": 142
                   },
                   {
-                    "name": "Redbone",
-                    "votes": 1229
+                    "name": "Mill",
+                    "votes": 183
                   },
                   {
-                    "name": "Town",
-                    "votes": 759
+                    "name": "Mitchell",
+                    "votes": 111
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 4009,
+                "votes": 589,
                 "Precinct": [
                   {
-                    "name": "Yatesville",
-                    "votes": 229
+                    "name": "Edgehill",
+                    "votes": 35
                   },
                   {
-                    "name": "Salem",
-                    "votes": 14
+                    "name": "Gibson",
+                    "votes": 199
                   },
                   {
-                    "name": "Redbone",
-                    "votes": 2320
+                    "name": "Mill",
+                    "votes": 237
                   },
                   {
-                    "name": "Town",
-                    "votes": 1446
+                    "name": "Mitchell",
+                    "votes": 118
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 910,
+                "votes": 147,
                 "Precinct": [
                   {
-                    "name": "Yatesville",
-                    "votes": 42
+                    "name": "Edgehill",
+                    "votes": 8
                   },
                   {
-                    "name": "Salem",
-                    "votes": 5
+                    "name": "Gibson",
+                    "votes": 45
                   },
                   {
-                    "name": "Redbone",
-                    "votes": 498
+                    "name": "Mill",
+                    "votes": 55
                   },
                   {
-                    "name": "Town",
-                    "votes": 365
+                    "name": "Mitchell",
+                    "votes": 39
                   }
                 ]
               },
@@ -172,19 +172,19 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Yatesville",
+                    "name": "Edgehill",
                     "votes": 0
                   },
                   {
-                    "name": "Salem",
+                    "name": "Gibson",
                     "votes": 0
                   },
                   {
-                    "name": "Redbone",
+                    "name": "Mill",
                     "votes": 0
                   },
                   {
-                    "name": "Town",
+                    "name": "Mitchell",
                     "votes": 0
                   }
                 ]
@@ -194,71 +194,71 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 3754,
+            "totalVotes": 134,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 746,
+                "votes": 45,
                 "Precinct": [
                   {
-                    "name": "Yatesville",
-                    "votes": 75
+                    "name": "Edgehill",
+                    "votes": 4
                   },
                   {
-                    "name": "Salem",
-                    "votes": 0
+                    "name": "Gibson",
+                    "votes": 22
                   },
                   {
-                    "name": "Redbone",
-                    "votes": 219
+                    "name": "Mill",
+                    "votes": 7
                   },
                   {
-                    "name": "Town",
-                    "votes": 452
+                    "name": "Mitchell",
+                    "votes": 12
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 1657,
+                "votes": 47,
                 "Precinct": [
                   {
-                    "name": "Yatesville",
-                    "votes": 72
+                    "name": "Edgehill",
+                    "votes": 6
                   },
                   {
-                    "name": "Salem",
-                    "votes": 73
+                    "name": "Gibson",
+                    "votes": 15
                   },
                   {
-                    "name": "Redbone",
-                    "votes": 532
+                    "name": "Mill",
+                    "votes": 14
                   },
                   {
-                    "name": "Town",
-                    "votes": 980
+                    "name": "Mitchell",
+                    "votes": 12
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1351,
+                "votes": 42,
                 "Precinct": [
                   {
-                    "name": "Yatesville",
-                    "votes": 93
+                    "name": "Edgehill",
+                    "votes": 2
                   },
                   {
-                    "name": "Salem",
-                    "votes": 104
+                    "name": "Gibson",
+                    "votes": 10
                   },
                   {
-                    "name": "Redbone",
-                    "votes": 415
+                    "name": "Mill",
+                    "votes": 16
                   },
                   {
-                    "name": "Town",
-                    "votes": 739
+                    "name": "Mitchell",
+                    "votes": 14
                   }
                 ]
               },
@@ -267,19 +267,19 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Yatesville",
+                    "name": "Edgehill",
                     "votes": 0
                   },
                   {
-                    "name": "Salem",
+                    "name": "Gibson",
                     "votes": 0
                   },
                   {
-                    "name": "Redbone",
+                    "name": "Mill",
                     "votes": 0
                   },
                   {
-                    "name": "Town",
+                    "name": "Mitchell",
                     "votes": 0
                   }
                 ]
@@ -294,27 +294,27 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 4,
-        "precinctsReported": 3,
+        "precinctsReported": 4,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 21,
+            "votes": 2,
             "Precinct": [
               {
-                "name": "Yatesville",
-                "votes": 1
-              },
-              {
-                "name": "Salem",
+                "name": "Edgehill",
                 "votes": 0
               },
               {
-                "name": "Redbone",
-                "votes": 6
+                "name": "Gibson",
+                "votes": 1
               },
               {
-                "name": "Town",
-                "votes": 14
+                "name": "Mill",
+                "votes": 1
+              },
+              {
+                "name": "Mitchell",
+                "votes": 0
               }
             ]
           },
@@ -323,19 +323,19 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Yatesville",
+                "name": "Edgehill",
                 "votes": 0
               },
               {
-                "name": "Salem",
+                "name": "Gibson",
                 "votes": 0
               },
               {
-                "name": "Redbone",
+                "name": "Mill",
                 "votes": 0
               },
               {
-                "name": "Town",
+                "name": "Mitchell",
                 "votes": 0
               }
             ]
@@ -345,71 +345,71 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 7301,
+            "totalVotes": 1234,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2397,
+                "votes": 496,
                 "Precinct": [
                   {
-                    "name": "Yatesville",
-                    "votes": 419
+                    "name": "Edgehill",
+                    "votes": 58
                   },
                   {
-                    "name": "Salem",
-                    "votes": 0
+                    "name": "Gibson",
+                    "votes": 142
                   },
                   {
-                    "name": "Redbone",
-                    "votes": 1228
+                    "name": "Mill",
+                    "votes": 184
                   },
                   {
-                    "name": "Town",
-                    "votes": 750
+                    "name": "Mitchell",
+                    "votes": 112
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 4005,
+                "votes": 590,
                 "Precinct": [
                   {
-                    "name": "Yatesville",
-                    "votes": 229
+                    "name": "Edgehill",
+                    "votes": 35
                   },
                   {
-                    "name": "Salem",
-                    "votes": 15
+                    "name": "Gibson",
+                    "votes": 199
                   },
                   {
-                    "name": "Redbone",
-                    "votes": 2319
+                    "name": "Mill",
+                    "votes": 238
                   },
                   {
-                    "name": "Town",
-                    "votes": 1442
+                    "name": "Mitchell",
+                    "votes": 118
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 899,
+                "votes": 148,
                 "Precinct": [
                   {
-                    "name": "Yatesville",
-                    "votes": 41
+                    "name": "Edgehill",
+                    "votes": 8
                   },
                   {
-                    "name": "Salem",
-                    "votes": 5
+                    "name": "Gibson",
+                    "votes": 45
                   },
                   {
-                    "name": "Redbone",
-                    "votes": 494
+                    "name": "Mill",
+                    "votes": 55
                   },
                   {
-                    "name": "Town",
-                    "votes": 359
+                    "name": "Mitchell",
+                    "votes": 40
                   }
                 ]
               },
@@ -418,19 +418,19 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Yatesville",
+                    "name": "Edgehill",
                     "votes": 0
                   },
                   {
-                    "name": "Salem",
+                    "name": "Gibson",
                     "votes": 0
                   },
                   {
-                    "name": "Redbone",
+                    "name": "Mill",
                     "votes": 0
                   },
                   {
-                    "name": "Town",
+                    "name": "Mitchell",
                     "votes": 0
                   }
                 ]
@@ -440,71 +440,71 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 3787,
+            "totalVotes": 130,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 753,
+                "votes": 43,
                 "Precinct": [
                   {
-                    "name": "Yatesville",
-                    "votes": 74
+                    "name": "Edgehill",
+                    "votes": 4
                   },
                   {
-                    "name": "Salem",
-                    "votes": 0
+                    "name": "Gibson",
+                    "votes": 22
                   },
                   {
-                    "name": "Redbone",
-                    "votes": 220
+                    "name": "Mill",
+                    "votes": 6
                   },
                   {
-                    "name": "Town",
-                    "votes": 459
+                    "name": "Mitchell",
+                    "votes": 11
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 1665,
+                "votes": 46,
                 "Precinct": [
                   {
-                    "name": "Yatesville",
-                    "votes": 72
+                    "name": "Edgehill",
+                    "votes": 6
                   },
                   {
-                    "name": "Salem",
-                    "votes": 72
+                    "name": "Gibson",
+                    "votes": 14
                   },
                   {
-                    "name": "Redbone",
-                    "votes": 535
+                    "name": "Mill",
+                    "votes": 13
                   },
                   {
-                    "name": "Town",
-                    "votes": 986
+                    "name": "Mitchell",
+                    "votes": 13
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1369,
+                "votes": 41,
                 "Precinct": [
                   {
-                    "name": "Yatesville",
-                    "votes": 95
+                    "name": "Edgehill",
+                    "votes": 2
                   },
                   {
-                    "name": "Salem",
-                    "votes": 105
+                    "name": "Gibson",
+                    "votes": 10
                   },
                   {
-                    "name": "Redbone",
-                    "votes": 421
+                    "name": "Mill",
+                    "votes": 16
                   },
                   {
-                    "name": "Town",
-                    "votes": 748
+                    "name": "Mitchell",
+                    "votes": 13
                   }
                 ]
               },
@@ -513,19 +513,19 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Yatesville",
+                    "name": "Edgehill",
                     "votes": 0
                   },
                   {
-                    "name": "Salem",
+                    "name": "Gibson",
                     "votes": 0
                   },
                   {
-                    "name": "Redbone",
+                    "name": "Mill",
                     "votes": 0
                   },
                   {
-                    "name": "Town",
+                    "name": "Mitchell",
                     "votes": 0
                   }
                 ]
@@ -540,27 +540,27 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 4,
-        "precinctsReported": 3,
+        "precinctsReported": 4,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 175,
+            "votes": 28,
             "Precinct": [
               {
-                "name": "Yatesville",
-                "votes": 8
+                "name": "Edgehill",
+                "votes": 2
               },
               {
-                "name": "Salem",
-                "votes": 8
+                "name": "Gibson",
+                "votes": 11
               },
               {
-                "name": "Redbone",
-                "votes": 68
+                "name": "Mill",
+                "votes": 11
               },
               {
-                "name": "Town",
-                "votes": 91
+                "name": "Mitchell",
+                "votes": 4
               }
             ]
           },
@@ -569,19 +569,19 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Yatesville",
+                "name": "Edgehill",
                 "votes": 0
               },
               {
-                "name": "Salem",
+                "name": "Gibson",
                 "votes": 0
               },
               {
-                "name": "Redbone",
+                "name": "Mill",
                 "votes": 0
               },
               {
-                "name": "Town",
+                "name": "Mitchell",
                 "votes": 0
               }
             ]
@@ -591,71 +591,71 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 7307,
+            "totalVotes": 1213,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2404,
+                "votes": 490,
                 "Precinct": [
                   {
-                    "name": "Yatesville",
-                    "votes": 417
+                    "name": "Edgehill",
+                    "votes": 59
                   },
                   {
-                    "name": "Salem",
-                    "votes": 0
+                    "name": "Gibson",
+                    "votes": 143
                   },
                   {
-                    "name": "Redbone",
-                    "votes": 1229
+                    "name": "Mill",
+                    "votes": 179
                   },
                   {
-                    "name": "Town",
-                    "votes": 758
+                    "name": "Mitchell",
+                    "votes": 109
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 3998,
+                "votes": 581,
                 "Precinct": [
                   {
-                    "name": "Yatesville",
-                    "votes": 228
+                    "name": "Edgehill",
+                    "votes": 33
                   },
                   {
-                    "name": "Salem",
-                    "votes": 14
+                    "name": "Gibson",
+                    "votes": 198
                   },
                   {
-                    "name": "Redbone",
-                    "votes": 2309
+                    "name": "Mill",
+                    "votes": 233
                   },
                   {
-                    "name": "Town",
-                    "votes": 1447
+                    "name": "Mitchell",
+                    "votes": 117
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 905,
+                "votes": 142,
                 "Precinct": [
                   {
-                    "name": "Yatesville",
-                    "votes": 44
+                    "name": "Edgehill",
+                    "votes": 8
                   },
                   {
-                    "name": "Salem",
-                    "votes": 5
+                    "name": "Gibson",
+                    "votes": 41
                   },
                   {
-                    "name": "Redbone",
-                    "votes": 488
+                    "name": "Mill",
+                    "votes": 54
                   },
                   {
-                    "name": "Town",
-                    "votes": 368
+                    "name": "Mitchell",
+                    "votes": 39
                   }
                 ]
               },
@@ -664,19 +664,19 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Yatesville",
+                    "name": "Edgehill",
                     "votes": 0
                   },
                   {
-                    "name": "Salem",
+                    "name": "Gibson",
                     "votes": 0
                   },
                   {
-                    "name": "Redbone",
+                    "name": "Mill",
                     "votes": 0
                   },
                   {
-                    "name": "Town",
+                    "name": "Mitchell",
                     "votes": 0
                   }
                 ]
@@ -686,71 +686,71 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 3626,
+            "totalVotes": 125,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 723,
+                "votes": 38,
                 "Precinct": [
                   {
-                    "name": "Yatesville",
-                    "votes": 73
+                    "name": "Edgehill",
+                    "votes": 3
                   },
                   {
-                    "name": "Salem",
-                    "votes": 0
+                    "name": "Gibson",
+                    "votes": 18
                   },
                   {
-                    "name": "Redbone",
-                    "votes": 212
+                    "name": "Mill",
+                    "votes": 5
                   },
                   {
-                    "name": "Town",
-                    "votes": 438
+                    "name": "Mitchell",
+                    "votes": 12
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 1592,
+                "votes": 48,
                 "Precinct": [
                   {
-                    "name": "Yatesville",
-                    "votes": 70
+                    "name": "Edgehill",
+                    "votes": 6
                   },
                   {
-                    "name": "Salem",
-                    "votes": 70
+                    "name": "Gibson",
+                    "votes": 13
                   },
                   {
-                    "name": "Redbone",
-                    "votes": 510
+                    "name": "Mill",
+                    "votes": 16
                   },
                   {
-                    "name": "Town",
-                    "votes": 942
+                    "name": "Mitchell",
+                    "votes": 13
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1311,
+                "votes": 39,
                 "Precinct": [
                   {
-                    "name": "Yatesville",
-                    "votes": 91
+                    "name": "Edgehill",
+                    "votes": 2
                   },
                   {
-                    "name": "Salem",
-                    "votes": 100
+                    "name": "Gibson",
+                    "votes": 9
                   },
                   {
-                    "name": "Redbone",
-                    "votes": 407
+                    "name": "Mill",
+                    "votes": 15
                   },
                   {
-                    "name": "Town",
-                    "votes": 713
+                    "name": "Mitchell",
+                    "votes": 13
                   }
                 ]
               },
@@ -759,19 +759,19 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Yatesville",
+                    "name": "Edgehill",
                     "votes": 0
                   },
                   {
-                    "name": "Salem",
+                    "name": "Gibson",
                     "votes": 0
                   },
                   {
-                    "name": "Redbone",
+                    "name": "Mill",
                     "votes": 0
                   },
                   {
-                    "name": "Town",
+                    "name": "Mitchell",
                     "votes": 0
                   }
                 ]

@@ -1,0 +1,2817 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:43:53 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Glynn",
+    "VoterTurnout": {
+      "totalVoters": 62819,
+      "ballotsCast": 37444,
+      "voterTurnout": 59.61,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Sterling Elementary",
+            "totalVoters": 4654,
+            "ballotsCast": 2756,
+            "voterTurnout": 59.22,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Brookman",
+            "totalVoters": 3513,
+            "ballotsCast": 2105,
+            "voterTurnout": 59.92,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Satilla Marshes",
+            "totalVoters": 2859,
+            "ballotsCast": 1841,
+            "voterTurnout": 64.39,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Blythe Island Baptist",
+            "totalVoters": 2551,
+            "ballotsCast": 1594,
+            "voterTurnout": 62.49,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Christian Renewal",
+            "totalVoters": 3752,
+            "ballotsCast": 2973,
+            "voterTurnout": 79.24,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Hampton River",
+            "totalVoters": 2868,
+            "ballotsCast": 2286,
+            "voterTurnout": 79.71,
+            "percentReporting": "4"
+          },
+          {
+            "name": "St William Catholic Church",
+            "totalVoters": 4383,
+            "ballotsCast": 3365,
+            "voterTurnout": 76.77,
+            "percentReporting": "4"
+          },
+          {
+            "name": "First Baptist",
+            "totalVoters": 4410,
+            "ballotsCast": 3325,
+            "voterTurnout": 75.4,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Jekyll Island",
+            "totalVoters": 784,
+            "ballotsCast": 629,
+            "voterTurnout": 80.23,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Sterling Church of God",
+            "totalVoters": 3977,
+            "ballotsCast": 2102,
+            "voterTurnout": 52.85,
+            "percentReporting": "4"
+          },
+          {
+            "name": "SE Baptist Bldg",
+            "totalVoters": 2136,
+            "ballotsCast": 1114,
+            "voterTurnout": 52.15,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Career Academy",
+            "totalVoters": 2991,
+            "ballotsCast": 1782,
+            "voterTurnout": 59.58,
+            "percentReporting": "4"
+          },
+          {
+            "name": "C B Greer School",
+            "totalVoters": 3340,
+            "ballotsCast": 2014,
+            "voterTurnout": 60.3,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Ballard",
+            "totalVoters": 3363,
+            "ballotsCast": 1711,
+            "voterTurnout": 50.88,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Northside Baptist",
+            "totalVoters": 3362,
+            "ballotsCast": 1760,
+            "voterTurnout": 52.35,
+            "percentReporting": "4"
+          },
+          {
+            "name": "The Chapel",
+            "totalVoters": 3005,
+            "ballotsCast": 1393,
+            "voterTurnout": 46.36,
+            "percentReporting": "4"
+          },
+          {
+            "name": "College Place UMC",
+            "totalVoters": 2386,
+            "ballotsCast": 1208,
+            "voterTurnout": 50.63,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Howard Coffin Park",
+            "totalVoters": 3348,
+            "ballotsCast": 1560,
+            "voterTurnout": 46.59,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Urbana-Perry Parks",
+            "totalVoters": 3682,
+            "ballotsCast": 1383,
+            "voterTurnout": 37.56,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Selden Park",
+            "totalVoters": 1455,
+            "ballotsCast": 543,
+            "voterTurnout": 37.32,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 20,
+        "precinctsReported": 20,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 61,
+            "Precinct": [
+              {
+                "name": "Sterling Elementary",
+                "votes": 4
+              },
+              {
+                "name": "Brookman",
+                "votes": 5
+              },
+              {
+                "name": "Satilla Marshes",
+                "votes": 2
+              },
+              {
+                "name": "Blythe Island Baptist",
+                "votes": 0
+              },
+              {
+                "name": "Christian Renewal",
+                "votes": 4
+              },
+              {
+                "name": "Hampton River",
+                "votes": 1
+              },
+              {
+                "name": "St William Catholic Church",
+                "votes": 8
+              },
+              {
+                "name": "First Baptist",
+                "votes": 4
+              },
+              {
+                "name": "Jekyll Island",
+                "votes": 0
+              },
+              {
+                "name": "Sterling Church of God",
+                "votes": 0
+              },
+              {
+                "name": "SE Baptist Bldg",
+                "votes": 2
+              },
+              {
+                "name": "Career Academy",
+                "votes": 3
+              },
+              {
+                "name": "C B Greer School",
+                "votes": 1
+              },
+              {
+                "name": "Ballard",
+                "votes": 2
+              },
+              {
+                "name": "Northside Baptist",
+                "votes": 5
+              },
+              {
+                "name": "The Chapel",
+                "votes": 9
+              },
+              {
+                "name": "College Place UMC",
+                "votes": 3
+              },
+              {
+                "name": "Howard Coffin Park",
+                "votes": 2
+              },
+              {
+                "name": "Urbana-Perry Parks",
+                "votes": 6
+              },
+              {
+                "name": "Selden Park",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Sterling Elementary",
+                "votes": 0
+              },
+              {
+                "name": "Brookman",
+                "votes": 0
+              },
+              {
+                "name": "Satilla Marshes",
+                "votes": 0
+              },
+              {
+                "name": "Blythe Island Baptist",
+                "votes": 0
+              },
+              {
+                "name": "Christian Renewal",
+                "votes": 0
+              },
+              {
+                "name": "Hampton River",
+                "votes": 0
+              },
+              {
+                "name": "St William Catholic Church",
+                "votes": 0
+              },
+              {
+                "name": "First Baptist",
+                "votes": 0
+              },
+              {
+                "name": "Jekyll Island",
+                "votes": 0
+              },
+              {
+                "name": "Sterling Church of God",
+                "votes": 0
+              },
+              {
+                "name": "SE Baptist Bldg",
+                "votes": 0
+              },
+              {
+                "name": "Career Academy",
+                "votes": 0
+              },
+              {
+                "name": "C B Greer School",
+                "votes": 0
+              },
+              {
+                "name": "Ballard",
+                "votes": 0
+              },
+              {
+                "name": "Northside Baptist",
+                "votes": 0
+              },
+              {
+                "name": "The Chapel",
+                "votes": 0
+              },
+              {
+                "name": "College Place UMC",
+                "votes": 0
+              },
+              {
+                "name": "Howard Coffin Park",
+                "votes": 0
+              },
+              {
+                "name": "Urbana-Perry Parks",
+                "votes": 0
+              },
+              {
+                "name": "Selden Park",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 23435,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 6934,
+                "Precinct": [
+                  {
+                    "name": "Sterling Elementary",
+                    "votes": 593
+                  },
+                  {
+                    "name": "Brookman",
+                    "votes": 583
+                  },
+                  {
+                    "name": "Satilla Marshes",
+                    "votes": 460
+                  },
+                  {
+                    "name": "Blythe Island Baptist",
+                    "votes": 390
+                  },
+                  {
+                    "name": "Christian Renewal",
+                    "votes": 503
+                  },
+                  {
+                    "name": "Hampton River",
+                    "votes": 380
+                  },
+                  {
+                    "name": "St William Catholic Church",
+                    "votes": 584
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 470
+                  },
+                  {
+                    "name": "Jekyll Island",
+                    "votes": 215
+                  },
+                  {
+                    "name": "Sterling Church of God",
+                    "votes": 508
+                  },
+                  {
+                    "name": "SE Baptist Bldg",
+                    "votes": 262
+                  },
+                  {
+                    "name": "Career Academy",
+                    "votes": 434
+                  },
+                  {
+                    "name": "C B Greer School",
+                    "votes": 443
+                  },
+                  {
+                    "name": "Ballard",
+                    "votes": 270
+                  },
+                  {
+                    "name": "Northside Baptist",
+                    "votes": 258
+                  },
+                  {
+                    "name": "The Chapel",
+                    "votes": 164
+                  },
+                  {
+                    "name": "College Place UMC",
+                    "votes": 129
+                  },
+                  {
+                    "name": "Howard Coffin Park",
+                    "votes": 204
+                  },
+                  {
+                    "name": "Urbana-Perry Parks",
+                    "votes": 38
+                  },
+                  {
+                    "name": "Selden Park",
+                    "votes": 46
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 13183,
+                "Precinct": [
+                  {
+                    "name": "Sterling Elementary",
+                    "votes": 1170
+                  },
+                  {
+                    "name": "Brookman",
+                    "votes": 769
+                  },
+                  {
+                    "name": "Satilla Marshes",
+                    "votes": 694
+                  },
+                  {
+                    "name": "Blythe Island Baptist",
+                    "votes": 744
+                  },
+                  {
+                    "name": "Christian Renewal",
+                    "votes": 1286
+                  },
+                  {
+                    "name": "Hampton River",
+                    "votes": 1045
+                  },
+                  {
+                    "name": "St William Catholic Church",
+                    "votes": 1471
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 1495
+                  },
+                  {
+                    "name": "Jekyll Island",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Sterling Church of God",
+                    "votes": 709
+                  },
+                  {
+                    "name": "SE Baptist Bldg",
+                    "votes": 429
+                  },
+                  {
+                    "name": "Career Academy",
+                    "votes": 656
+                  },
+                  {
+                    "name": "C B Greer School",
+                    "votes": 751
+                  },
+                  {
+                    "name": "Ballard",
+                    "votes": 646
+                  },
+                  {
+                    "name": "Northside Baptist",
+                    "votes": 306
+                  },
+                  {
+                    "name": "The Chapel",
+                    "votes": 284
+                  },
+                  {
+                    "name": "College Place UMC",
+                    "votes": 249
+                  },
+                  {
+                    "name": "Howard Coffin Park",
+                    "votes": 260
+                  },
+                  {
+                    "name": "Urbana-Perry Parks",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Selden Park",
+                    "votes": 94
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 3318,
+                "Precinct": [
+                  {
+                    "name": "Sterling Elementary",
+                    "votes": 294
+                  },
+                  {
+                    "name": "Brookman",
+                    "votes": 140
+                  },
+                  {
+                    "name": "Satilla Marshes",
+                    "votes": 134
+                  },
+                  {
+                    "name": "Blythe Island Baptist",
+                    "votes": 177
+                  },
+                  {
+                    "name": "Christian Renewal",
+                    "votes": 323
+                  },
+                  {
+                    "name": "Hampton River",
+                    "votes": 254
+                  },
+                  {
+                    "name": "St William Catholic Church",
+                    "votes": 309
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 356
+                  },
+                  {
+                    "name": "Jekyll Island",
+                    "votes": 65
+                  },
+                  {
+                    "name": "Sterling Church of God",
+                    "votes": 171
+                  },
+                  {
+                    "name": "SE Baptist Bldg",
+                    "votes": 82
+                  },
+                  {
+                    "name": "Career Academy",
+                    "votes": 181
+                  },
+                  {
+                    "name": "C B Greer School",
+                    "votes": 170
+                  },
+                  {
+                    "name": "Ballard",
+                    "votes": 201
+                  },
+                  {
+                    "name": "Northside Baptist",
+                    "votes": 118
+                  },
+                  {
+                    "name": "The Chapel",
+                    "votes": 103
+                  },
+                  {
+                    "name": "College Place UMC",
+                    "votes": 100
+                  },
+                  {
+                    "name": "Howard Coffin Park",
+                    "votes": 91
+                  },
+                  {
+                    "name": "Urbana-Perry Parks",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Selden Park",
+                    "votes": 18
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sterling Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brookman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Satilla Marshes",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blythe Island Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Christian Renewal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hampton River",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St William Catholic Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jekyll Island",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sterling Church of God",
+                    "votes": 0
+                  },
+                  {
+                    "name": "SE Baptist Bldg",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Career Academy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "C B Greer School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ballard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northside Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "The Chapel",
+                    "votes": 0
+                  },
+                  {
+                    "name": "College Place UMC",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Howard Coffin Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Urbana-Perry Parks",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Selden Park",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 13948,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 2518,
+                "Precinct": [
+                  {
+                    "name": "Sterling Elementary",
+                    "votes": 133
+                  },
+                  {
+                    "name": "Brookman",
+                    "votes": 96
+                  },
+                  {
+                    "name": "Satilla Marshes",
+                    "votes": 105
+                  },
+                  {
+                    "name": "Blythe Island Baptist",
+                    "votes": 49
+                  },
+                  {
+                    "name": "Christian Renewal",
+                    "votes": 113
+                  },
+                  {
+                    "name": "Hampton River",
+                    "votes": 55
+                  },
+                  {
+                    "name": "St William Catholic Church",
+                    "votes": 106
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 130
+                  },
+                  {
+                    "name": "Jekyll Island",
+                    "votes": 83
+                  },
+                  {
+                    "name": "Sterling Church of God",
+                    "votes": 145
+                  },
+                  {
+                    "name": "SE Baptist Bldg",
+                    "votes": 83
+                  },
+                  {
+                    "name": "Career Academy",
+                    "votes": 101
+                  },
+                  {
+                    "name": "C B Greer School",
+                    "votes": 95
+                  },
+                  {
+                    "name": "Ballard",
+                    "votes": 125
+                  },
+                  {
+                    "name": "Northside Baptist",
+                    "votes": 229
+                  },
+                  {
+                    "name": "The Chapel",
+                    "votes": 166
+                  },
+                  {
+                    "name": "College Place UMC",
+                    "votes": 138
+                  },
+                  {
+                    "name": "Howard Coffin Park",
+                    "votes": 205
+                  },
+                  {
+                    "name": "Urbana-Perry Parks",
+                    "votes": 275
+                  },
+                  {
+                    "name": "Selden Park",
+                    "votes": 86
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 6490,
+                "Precinct": [
+                  {
+                    "name": "Sterling Elementary",
+                    "votes": 324
+                  },
+                  {
+                    "name": "Brookman",
+                    "votes": 302
+                  },
+                  {
+                    "name": "Satilla Marshes",
+                    "votes": 252
+                  },
+                  {
+                    "name": "Blythe Island Baptist",
+                    "votes": 145
+                  },
+                  {
+                    "name": "Christian Renewal",
+                    "votes": 425
+                  },
+                  {
+                    "name": "Hampton River",
+                    "votes": 271
+                  },
+                  {
+                    "name": "St William Catholic Church",
+                    "votes": 508
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 525
+                  },
+                  {
+                    "name": "Jekyll Island",
+                    "votes": 57
+                  },
+                  {
+                    "name": "Sterling Church of God",
+                    "votes": 346
+                  },
+                  {
+                    "name": "SE Baptist Bldg",
+                    "votes": 155
+                  },
+                  {
+                    "name": "Career Academy",
+                    "votes": 237
+                  },
+                  {
+                    "name": "C B Greer School",
+                    "votes": 308
+                  },
+                  {
+                    "name": "Ballard",
+                    "votes": 285
+                  },
+                  {
+                    "name": "Northside Baptist",
+                    "votes": 489
+                  },
+                  {
+                    "name": "The Chapel",
+                    "votes": 378
+                  },
+                  {
+                    "name": "College Place UMC",
+                    "votes": 301
+                  },
+                  {
+                    "name": "Howard Coffin Park",
+                    "votes": 469
+                  },
+                  {
+                    "name": "Urbana-Perry Parks",
+                    "votes": 559
+                  },
+                  {
+                    "name": "Selden Park",
+                    "votes": 154
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 4940,
+                "Precinct": [
+                  {
+                    "name": "Sterling Elementary",
+                    "votes": 238
+                  },
+                  {
+                    "name": "Brookman",
+                    "votes": 210
+                  },
+                  {
+                    "name": "Satilla Marshes",
+                    "votes": 194
+                  },
+                  {
+                    "name": "Blythe Island Baptist",
+                    "votes": 89
+                  },
+                  {
+                    "name": "Christian Renewal",
+                    "votes": 319
+                  },
+                  {
+                    "name": "Hampton River",
+                    "votes": 280
+                  },
+                  {
+                    "name": "St William Catholic Church",
+                    "votes": 379
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 345
+                  },
+                  {
+                    "name": "Jekyll Island",
+                    "votes": 134
+                  },
+                  {
+                    "name": "Sterling Church of God",
+                    "votes": 223
+                  },
+                  {
+                    "name": "SE Baptist Bldg",
+                    "votes": 101
+                  },
+                  {
+                    "name": "Career Academy",
+                    "votes": 170
+                  },
+                  {
+                    "name": "C B Greer School",
+                    "votes": 246
+                  },
+                  {
+                    "name": "Ballard",
+                    "votes": 182
+                  },
+                  {
+                    "name": "Northside Baptist",
+                    "votes": 355
+                  },
+                  {
+                    "name": "The Chapel",
+                    "votes": 289
+                  },
+                  {
+                    "name": "College Place UMC",
+                    "votes": 288
+                  },
+                  {
+                    "name": "Howard Coffin Park",
+                    "votes": 329
+                  },
+                  {
+                    "name": "Urbana-Perry Parks",
+                    "votes": 424
+                  },
+                  {
+                    "name": "Selden Park",
+                    "votes": 145
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sterling Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brookman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Satilla Marshes",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blythe Island Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Christian Renewal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hampton River",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St William Catholic Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jekyll Island",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sterling Church of God",
+                    "votes": 0
+                  },
+                  {
+                    "name": "SE Baptist Bldg",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Career Academy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "C B Greer School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ballard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northside Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "The Chapel",
+                    "votes": 0
+                  },
+                  {
+                    "name": "College Place UMC",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Howard Coffin Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Urbana-Perry Parks",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Selden Park",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 20,
+        "precinctsReported": 20,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 85,
+            "Precinct": [
+              {
+                "name": "Sterling Elementary",
+                "votes": 8
+              },
+              {
+                "name": "Brookman",
+                "votes": 3
+              },
+              {
+                "name": "Satilla Marshes",
+                "votes": 2
+              },
+              {
+                "name": "Blythe Island Baptist",
+                "votes": 4
+              },
+              {
+                "name": "Christian Renewal",
+                "votes": 9
+              },
+              {
+                "name": "Hampton River",
+                "votes": 9
+              },
+              {
+                "name": "St William Catholic Church",
+                "votes": 6
+              },
+              {
+                "name": "First Baptist",
+                "votes": 9
+              },
+              {
+                "name": "Jekyll Island",
+                "votes": 2
+              },
+              {
+                "name": "Sterling Church of God",
+                "votes": 4
+              },
+              {
+                "name": "SE Baptist Bldg",
+                "votes": 0
+              },
+              {
+                "name": "Career Academy",
+                "votes": 3
+              },
+              {
+                "name": "C B Greer School",
+                "votes": 2
+              },
+              {
+                "name": "Ballard",
+                "votes": 5
+              },
+              {
+                "name": "Northside Baptist",
+                "votes": 4
+              },
+              {
+                "name": "The Chapel",
+                "votes": 3
+              },
+              {
+                "name": "College Place UMC",
+                "votes": 2
+              },
+              {
+                "name": "Howard Coffin Park",
+                "votes": 4
+              },
+              {
+                "name": "Urbana-Perry Parks",
+                "votes": 4
+              },
+              {
+                "name": "Selden Park",
+                "votes": 2
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Sterling Elementary",
+                "votes": 0
+              },
+              {
+                "name": "Brookman",
+                "votes": 0
+              },
+              {
+                "name": "Satilla Marshes",
+                "votes": 0
+              },
+              {
+                "name": "Blythe Island Baptist",
+                "votes": 0
+              },
+              {
+                "name": "Christian Renewal",
+                "votes": 0
+              },
+              {
+                "name": "Hampton River",
+                "votes": 0
+              },
+              {
+                "name": "St William Catholic Church",
+                "votes": 0
+              },
+              {
+                "name": "First Baptist",
+                "votes": 0
+              },
+              {
+                "name": "Jekyll Island",
+                "votes": 0
+              },
+              {
+                "name": "Sterling Church of God",
+                "votes": 0
+              },
+              {
+                "name": "SE Baptist Bldg",
+                "votes": 0
+              },
+              {
+                "name": "Career Academy",
+                "votes": 0
+              },
+              {
+                "name": "C B Greer School",
+                "votes": 0
+              },
+              {
+                "name": "Ballard",
+                "votes": 0
+              },
+              {
+                "name": "Northside Baptist",
+                "votes": 0
+              },
+              {
+                "name": "The Chapel",
+                "votes": 0
+              },
+              {
+                "name": "College Place UMC",
+                "votes": 0
+              },
+              {
+                "name": "Howard Coffin Park",
+                "votes": 0
+              },
+              {
+                "name": "Urbana-Perry Parks",
+                "votes": 0
+              },
+              {
+                "name": "Selden Park",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 23407,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 6915,
+                "Precinct": [
+                  {
+                    "name": "Sterling Elementary",
+                    "votes": 590
+                  },
+                  {
+                    "name": "Brookman",
+                    "votes": 583
+                  },
+                  {
+                    "name": "Satilla Marshes",
+                    "votes": 456
+                  },
+                  {
+                    "name": "Blythe Island Baptist",
+                    "votes": 387
+                  },
+                  {
+                    "name": "Christian Renewal",
+                    "votes": 501
+                  },
+                  {
+                    "name": "Hampton River",
+                    "votes": 379
+                  },
+                  {
+                    "name": "St William Catholic Church",
+                    "votes": 580
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 469
+                  },
+                  {
+                    "name": "Jekyll Island",
+                    "votes": 215
+                  },
+                  {
+                    "name": "Sterling Church of God",
+                    "votes": 513
+                  },
+                  {
+                    "name": "SE Baptist Bldg",
+                    "votes": 261
+                  },
+                  {
+                    "name": "Career Academy",
+                    "votes": 435
+                  },
+                  {
+                    "name": "C B Greer School",
+                    "votes": 443
+                  },
+                  {
+                    "name": "Ballard",
+                    "votes": 271
+                  },
+                  {
+                    "name": "Northside Baptist",
+                    "votes": 259
+                  },
+                  {
+                    "name": "The Chapel",
+                    "votes": 162
+                  },
+                  {
+                    "name": "College Place UMC",
+                    "votes": 128
+                  },
+                  {
+                    "name": "Howard Coffin Park",
+                    "votes": 204
+                  },
+                  {
+                    "name": "Urbana-Perry Parks",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Selden Park",
+                    "votes": 43
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 13180,
+                "Precinct": [
+                  {
+                    "name": "Sterling Elementary",
+                    "votes": 1172
+                  },
+                  {
+                    "name": "Brookman",
+                    "votes": 772
+                  },
+                  {
+                    "name": "Satilla Marshes",
+                    "votes": 691
+                  },
+                  {
+                    "name": "Blythe Island Baptist",
+                    "votes": 748
+                  },
+                  {
+                    "name": "Christian Renewal",
+                    "votes": 1282
+                  },
+                  {
+                    "name": "Hampton River",
+                    "votes": 1039
+                  },
+                  {
+                    "name": "St William Catholic Church",
+                    "votes": 1474
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 1489
+                  },
+                  {
+                    "name": "Jekyll Island",
+                    "votes": 73
+                  },
+                  {
+                    "name": "Sterling Church of God",
+                    "votes": 706
+                  },
+                  {
+                    "name": "SE Baptist Bldg",
+                    "votes": 429
+                  },
+                  {
+                    "name": "Career Academy",
+                    "votes": 657
+                  },
+                  {
+                    "name": "C B Greer School",
+                    "votes": 752
+                  },
+                  {
+                    "name": "Ballard",
+                    "votes": 647
+                  },
+                  {
+                    "name": "Northside Baptist",
+                    "votes": 307
+                  },
+                  {
+                    "name": "The Chapel",
+                    "votes": 284
+                  },
+                  {
+                    "name": "College Place UMC",
+                    "votes": 250
+                  },
+                  {
+                    "name": "Howard Coffin Park",
+                    "votes": 263
+                  },
+                  {
+                    "name": "Urbana-Perry Parks",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Selden Park",
+                    "votes": 95
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 3312,
+                "Precinct": [
+                  {
+                    "name": "Sterling Elementary",
+                    "votes": 298
+                  },
+                  {
+                    "name": "Brookman",
+                    "votes": 143
+                  },
+                  {
+                    "name": "Satilla Marshes",
+                    "votes": 134
+                  },
+                  {
+                    "name": "Blythe Island Baptist",
+                    "votes": 178
+                  },
+                  {
+                    "name": "Christian Renewal",
+                    "votes": 324
+                  },
+                  {
+                    "name": "Hampton River",
+                    "votes": 249
+                  },
+                  {
+                    "name": "St William Catholic Church",
+                    "votes": 307
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 353
+                  },
+                  {
+                    "name": "Jekyll Island",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Sterling Church of God",
+                    "votes": 173
+                  },
+                  {
+                    "name": "SE Baptist Bldg",
+                    "votes": 85
+                  },
+                  {
+                    "name": "Career Academy",
+                    "votes": 180
+                  },
+                  {
+                    "name": "C B Greer School",
+                    "votes": 169
+                  },
+                  {
+                    "name": "Ballard",
+                    "votes": 201
+                  },
+                  {
+                    "name": "Northside Baptist",
+                    "votes": 120
+                  },
+                  {
+                    "name": "The Chapel",
+                    "votes": 104
+                  },
+                  {
+                    "name": "College Place UMC",
+                    "votes": 97
+                  },
+                  {
+                    "name": "Howard Coffin Park",
+                    "votes": 84
+                  },
+                  {
+                    "name": "Urbana-Perry Parks",
+                    "votes": 32
+                  },
+                  {
+                    "name": "Selden Park",
+                    "votes": 17
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sterling Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brookman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Satilla Marshes",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blythe Island Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Christian Renewal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hampton River",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St William Catholic Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jekyll Island",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sterling Church of God",
+                    "votes": 0
+                  },
+                  {
+                    "name": "SE Baptist Bldg",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Career Academy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "C B Greer School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ballard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northside Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "The Chapel",
+                    "votes": 0
+                  },
+                  {
+                    "name": "College Place UMC",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Howard Coffin Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Urbana-Perry Parks",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Selden Park",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 13952,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 2523,
+                "Precinct": [
+                  {
+                    "name": "Sterling Elementary",
+                    "votes": 134
+                  },
+                  {
+                    "name": "Brookman",
+                    "votes": 95
+                  },
+                  {
+                    "name": "Satilla Marshes",
+                    "votes": 108
+                  },
+                  {
+                    "name": "Blythe Island Baptist",
+                    "votes": 50
+                  },
+                  {
+                    "name": "Christian Renewal",
+                    "votes": 113
+                  },
+                  {
+                    "name": "Hampton River",
+                    "votes": 56
+                  },
+                  {
+                    "name": "St William Catholic Church",
+                    "votes": 111
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 131
+                  },
+                  {
+                    "name": "Jekyll Island",
+                    "votes": 82
+                  },
+                  {
+                    "name": "Sterling Church of God",
+                    "votes": 139
+                  },
+                  {
+                    "name": "SE Baptist Bldg",
+                    "votes": 84
+                  },
+                  {
+                    "name": "Career Academy",
+                    "votes": 100
+                  },
+                  {
+                    "name": "C B Greer School",
+                    "votes": 94
+                  },
+                  {
+                    "name": "Ballard",
+                    "votes": 124
+                  },
+                  {
+                    "name": "Northside Baptist",
+                    "votes": 227
+                  },
+                  {
+                    "name": "The Chapel",
+                    "votes": 170
+                  },
+                  {
+                    "name": "College Place UMC",
+                    "votes": 139
+                  },
+                  {
+                    "name": "Howard Coffin Park",
+                    "votes": 202
+                  },
+                  {
+                    "name": "Urbana-Perry Parks",
+                    "votes": 277
+                  },
+                  {
+                    "name": "Selden Park",
+                    "votes": 87
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 6487,
+                "Precinct": [
+                  {
+                    "name": "Sterling Elementary",
+                    "votes": 321
+                  },
+                  {
+                    "name": "Brookman",
+                    "votes": 300
+                  },
+                  {
+                    "name": "Satilla Marshes",
+                    "votes": 255
+                  },
+                  {
+                    "name": "Blythe Island Baptist",
+                    "votes": 139
+                  },
+                  {
+                    "name": "Christian Renewal",
+                    "votes": 427
+                  },
+                  {
+                    "name": "Hampton River",
+                    "votes": 276
+                  },
+                  {
+                    "name": "St William Catholic Church",
+                    "votes": 505
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 529
+                  },
+                  {
+                    "name": "Jekyll Island",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Sterling Church of God",
+                    "votes": 348
+                  },
+                  {
+                    "name": "SE Baptist Bldg",
+                    "votes": 155
+                  },
+                  {
+                    "name": "Career Academy",
+                    "votes": 236
+                  },
+                  {
+                    "name": "C B Greer School",
+                    "votes": 307
+                  },
+                  {
+                    "name": "Ballard",
+                    "votes": 282
+                  },
+                  {
+                    "name": "Northside Baptist",
+                    "votes": 489
+                  },
+                  {
+                    "name": "The Chapel",
+                    "votes": 381
+                  },
+                  {
+                    "name": "College Place UMC",
+                    "votes": 300
+                  },
+                  {
+                    "name": "Howard Coffin Park",
+                    "votes": 467
+                  },
+                  {
+                    "name": "Urbana-Perry Parks",
+                    "votes": 559
+                  },
+                  {
+                    "name": "Selden Park",
+                    "votes": 153
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 4942,
+                "Precinct": [
+                  {
+                    "name": "Sterling Elementary",
+                    "votes": 233
+                  },
+                  {
+                    "name": "Brookman",
+                    "votes": 209
+                  },
+                  {
+                    "name": "Satilla Marshes",
+                    "votes": 195
+                  },
+                  {
+                    "name": "Blythe Island Baptist",
+                    "votes": 88
+                  },
+                  {
+                    "name": "Christian Renewal",
+                    "votes": 317
+                  },
+                  {
+                    "name": "Hampton River",
+                    "votes": 278
+                  },
+                  {
+                    "name": "St William Catholic Church",
+                    "votes": 382
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 345
+                  },
+                  {
+                    "name": "Jekyll Island",
+                    "votes": 135
+                  },
+                  {
+                    "name": "Sterling Church of God",
+                    "votes": 219
+                  },
+                  {
+                    "name": "SE Baptist Bldg",
+                    "votes": 100
+                  },
+                  {
+                    "name": "Career Academy",
+                    "votes": 171
+                  },
+                  {
+                    "name": "C B Greer School",
+                    "votes": 247
+                  },
+                  {
+                    "name": "Ballard",
+                    "votes": 181
+                  },
+                  {
+                    "name": "Northside Baptist",
+                    "votes": 354
+                  },
+                  {
+                    "name": "The Chapel",
+                    "votes": 289
+                  },
+                  {
+                    "name": "College Place UMC",
+                    "votes": 292
+                  },
+                  {
+                    "name": "Howard Coffin Park",
+                    "votes": 336
+                  },
+                  {
+                    "name": "Urbana-Perry Parks",
+                    "votes": 425
+                  },
+                  {
+                    "name": "Selden Park",
+                    "votes": 146
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sterling Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brookman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Satilla Marshes",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blythe Island Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Christian Renewal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hampton River",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St William Catholic Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jekyll Island",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sterling Church of God",
+                    "votes": 0
+                  },
+                  {
+                    "name": "SE Baptist Bldg",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Career Academy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "C B Greer School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ballard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northside Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "The Chapel",
+                    "votes": 0
+                  },
+                  {
+                    "name": "College Place UMC",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Howard Coffin Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Urbana-Perry Parks",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Selden Park",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 20,
+        "precinctsReported": 20,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 470,
+            "Precinct": [
+              {
+                "name": "Sterling Elementary",
+                "votes": 24
+              },
+              {
+                "name": "Brookman",
+                "votes": 7
+              },
+              {
+                "name": "Satilla Marshes",
+                "votes": 21
+              },
+              {
+                "name": "Blythe Island Baptist",
+                "votes": 18
+              },
+              {
+                "name": "Christian Renewal",
+                "votes": 53
+              },
+              {
+                "name": "Hampton River",
+                "votes": 37
+              },
+              {
+                "name": "St William Catholic Church",
+                "votes": 51
+              },
+              {
+                "name": "First Baptist",
+                "votes": 46
+              },
+              {
+                "name": "Jekyll Island",
+                "votes": 13
+              },
+              {
+                "name": "Sterling Church of God",
+                "votes": 18
+              },
+              {
+                "name": "SE Baptist Bldg",
+                "votes": 12
+              },
+              {
+                "name": "Career Academy",
+                "votes": 15
+              },
+              {
+                "name": "C B Greer School",
+                "votes": 19
+              },
+              {
+                "name": "Ballard",
+                "votes": 33
+              },
+              {
+                "name": "Northside Baptist",
+                "votes": 24
+              },
+              {
+                "name": "The Chapel",
+                "votes": 14
+              },
+              {
+                "name": "College Place UMC",
+                "votes": 23
+              },
+              {
+                "name": "Howard Coffin Park",
+                "votes": 22
+              },
+              {
+                "name": "Urbana-Perry Parks",
+                "votes": 13
+              },
+              {
+                "name": "Selden Park",
+                "votes": 7
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Sterling Elementary",
+                "votes": 0
+              },
+              {
+                "name": "Brookman",
+                "votes": 0
+              },
+              {
+                "name": "Satilla Marshes",
+                "votes": 0
+              },
+              {
+                "name": "Blythe Island Baptist",
+                "votes": 0
+              },
+              {
+                "name": "Christian Renewal",
+                "votes": 0
+              },
+              {
+                "name": "Hampton River",
+                "votes": 0
+              },
+              {
+                "name": "St William Catholic Church",
+                "votes": 0
+              },
+              {
+                "name": "First Baptist",
+                "votes": 0
+              },
+              {
+                "name": "Jekyll Island",
+                "votes": 0
+              },
+              {
+                "name": "Sterling Church of God",
+                "votes": 0
+              },
+              {
+                "name": "SE Baptist Bldg",
+                "votes": 0
+              },
+              {
+                "name": "Career Academy",
+                "votes": 0
+              },
+              {
+                "name": "C B Greer School",
+                "votes": 0
+              },
+              {
+                "name": "Ballard",
+                "votes": 0
+              },
+              {
+                "name": "Northside Baptist",
+                "votes": 0
+              },
+              {
+                "name": "The Chapel",
+                "votes": 0
+              },
+              {
+                "name": "College Place UMC",
+                "votes": 0
+              },
+              {
+                "name": "Howard Coffin Park",
+                "votes": 0
+              },
+              {
+                "name": "Urbana-Perry Parks",
+                "votes": 0
+              },
+              {
+                "name": "Selden Park",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 23466,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 6925,
+                "Precinct": [
+                  {
+                    "name": "Sterling Elementary",
+                    "votes": 604
+                  },
+                  {
+                    "name": "Brookman",
+                    "votes": 584
+                  },
+                  {
+                    "name": "Satilla Marshes",
+                    "votes": 457
+                  },
+                  {
+                    "name": "Blythe Island Baptist",
+                    "votes": 383
+                  },
+                  {
+                    "name": "Christian Renewal",
+                    "votes": 498
+                  },
+                  {
+                    "name": "Hampton River",
+                    "votes": 380
+                  },
+                  {
+                    "name": "St William Catholic Church",
+                    "votes": 585
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 476
+                  },
+                  {
+                    "name": "Jekyll Island",
+                    "votes": 220
+                  },
+                  {
+                    "name": "Sterling Church of God",
+                    "votes": 510
+                  },
+                  {
+                    "name": "SE Baptist Bldg",
+                    "votes": 261
+                  },
+                  {
+                    "name": "Career Academy",
+                    "votes": 429
+                  },
+                  {
+                    "name": "C B Greer School",
+                    "votes": 444
+                  },
+                  {
+                    "name": "Ballard",
+                    "votes": 267
+                  },
+                  {
+                    "name": "Northside Baptist",
+                    "votes": 256
+                  },
+                  {
+                    "name": "The Chapel",
+                    "votes": 163
+                  },
+                  {
+                    "name": "College Place UMC",
+                    "votes": 132
+                  },
+                  {
+                    "name": "Howard Coffin Park",
+                    "votes": 197
+                  },
+                  {
+                    "name": "Urbana-Perry Parks",
+                    "votes": 34
+                  },
+                  {
+                    "name": "Selden Park",
+                    "votes": 45
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 13208,
+                "Precinct": [
+                  {
+                    "name": "Sterling Elementary",
+                    "votes": 1166
+                  },
+                  {
+                    "name": "Brookman",
+                    "votes": 765
+                  },
+                  {
+                    "name": "Satilla Marshes",
+                    "votes": 692
+                  },
+                  {
+                    "name": "Blythe Island Baptist",
+                    "votes": 746
+                  },
+                  {
+                    "name": "Christian Renewal",
+                    "votes": 1293
+                  },
+                  {
+                    "name": "Hampton River",
+                    "votes": 1053
+                  },
+                  {
+                    "name": "St William Catholic Church",
+                    "votes": 1478
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 1506
+                  },
+                  {
+                    "name": "Jekyll Island",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Sterling Church of God",
+                    "votes": 711
+                  },
+                  {
+                    "name": "SE Baptist Bldg",
+                    "votes": 427
+                  },
+                  {
+                    "name": "Career Academy",
+                    "votes": 653
+                  },
+                  {
+                    "name": "C B Greer School",
+                    "votes": 754
+                  },
+                  {
+                    "name": "Ballard",
+                    "votes": 642
+                  },
+                  {
+                    "name": "Northside Baptist",
+                    "votes": 302
+                  },
+                  {
+                    "name": "The Chapel",
+                    "votes": 289
+                  },
+                  {
+                    "name": "College Place UMC",
+                    "votes": 249
+                  },
+                  {
+                    "name": "Howard Coffin Park",
+                    "votes": 266
+                  },
+                  {
+                    "name": "Urbana-Perry Parks",
+                    "votes": 49
+                  },
+                  {
+                    "name": "Selden Park",
+                    "votes": 92
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 3333,
+                "Precinct": [
+                  {
+                    "name": "Sterling Elementary",
+                    "votes": 294
+                  },
+                  {
+                    "name": "Brookman",
+                    "votes": 147
+                  },
+                  {
+                    "name": "Satilla Marshes",
+                    "votes": 135
+                  },
+                  {
+                    "name": "Blythe Island Baptist",
+                    "votes": 180
+                  },
+                  {
+                    "name": "Christian Renewal",
+                    "votes": 327
+                  },
+                  {
+                    "name": "Hampton River",
+                    "votes": 255
+                  },
+                  {
+                    "name": "St William Catholic Church",
+                    "votes": 315
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 361
+                  },
+                  {
+                    "name": "Jekyll Island",
+                    "votes": 66
+                  },
+                  {
+                    "name": "Sterling Church of God",
+                    "votes": 167
+                  },
+                  {
+                    "name": "SE Baptist Bldg",
+                    "votes": 87
+                  },
+                  {
+                    "name": "Career Academy",
+                    "votes": 183
+                  },
+                  {
+                    "name": "C B Greer School",
+                    "votes": 172
+                  },
+                  {
+                    "name": "Ballard",
+                    "votes": 195
+                  },
+                  {
+                    "name": "Northside Baptist",
+                    "votes": 116
+                  },
+                  {
+                    "name": "The Chapel",
+                    "votes": 100
+                  },
+                  {
+                    "name": "College Place UMC",
+                    "votes": 100
+                  },
+                  {
+                    "name": "Howard Coffin Park",
+                    "votes": 83
+                  },
+                  {
+                    "name": "Urbana-Perry Parks",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Selden Park",
+                    "votes": 19
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sterling Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brookman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Satilla Marshes",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blythe Island Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Christian Renewal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hampton River",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St William Catholic Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jekyll Island",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sterling Church of God",
+                    "votes": 0
+                  },
+                  {
+                    "name": "SE Baptist Bldg",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Career Academy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "C B Greer School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ballard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northside Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "The Chapel",
+                    "votes": 0
+                  },
+                  {
+                    "name": "College Place UMC",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Howard Coffin Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Urbana-Perry Parks",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Selden Park",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 13508,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 2437,
+                "Precinct": [
+                  {
+                    "name": "Sterling Elementary",
+                    "votes": 120
+                  },
+                  {
+                    "name": "Brookman",
+                    "votes": 94
+                  },
+                  {
+                    "name": "Satilla Marshes",
+                    "votes": 102
+                  },
+                  {
+                    "name": "Blythe Island Baptist",
+                    "votes": 48
+                  },
+                  {
+                    "name": "Christian Renewal",
+                    "votes": 104
+                  },
+                  {
+                    "name": "Hampton River",
+                    "votes": 54
+                  },
+                  {
+                    "name": "St William Catholic Church",
+                    "votes": 97
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 117
+                  },
+                  {
+                    "name": "Jekyll Island",
+                    "votes": 75
+                  },
+                  {
+                    "name": "Sterling Church of God",
+                    "votes": 135
+                  },
+                  {
+                    "name": "SE Baptist Bldg",
+                    "votes": 80
+                  },
+                  {
+                    "name": "Career Academy",
+                    "votes": 102
+                  },
+                  {
+                    "name": "C B Greer School",
+                    "votes": 88
+                  },
+                  {
+                    "name": "Ballard",
+                    "votes": 122
+                  },
+                  {
+                    "name": "Northside Baptist",
+                    "votes": 227
+                  },
+                  {
+                    "name": "The Chapel",
+                    "votes": 168
+                  },
+                  {
+                    "name": "College Place UMC",
+                    "votes": 134
+                  },
+                  {
+                    "name": "Howard Coffin Park",
+                    "votes": 207
+                  },
+                  {
+                    "name": "Urbana-Perry Parks",
+                    "votes": 278
+                  },
+                  {
+                    "name": "Selden Park",
+                    "votes": 85
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 6310,
+                "Precinct": [
+                  {
+                    "name": "Sterling Elementary",
+                    "votes": 317
+                  },
+                  {
+                    "name": "Brookman",
+                    "votes": 303
+                  },
+                  {
+                    "name": "Satilla Marshes",
+                    "votes": 251
+                  },
+                  {
+                    "name": "Blythe Island Baptist",
+                    "votes": 136
+                  },
+                  {
+                    "name": "Christian Renewal",
+                    "votes": 400
+                  },
+                  {
+                    "name": "Hampton River",
+                    "votes": 254
+                  },
+                  {
+                    "name": "St William Catholic Church",
+                    "votes": 482
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 496
+                  },
+                  {
+                    "name": "Jekyll Island",
+                    "votes": 54
+                  },
+                  {
+                    "name": "Sterling Church of God",
+                    "votes": 338
+                  },
+                  {
+                    "name": "SE Baptist Bldg",
+                    "votes": 152
+                  },
+                  {
+                    "name": "Career Academy",
+                    "votes": 235
+                  },
+                  {
+                    "name": "C B Greer School",
+                    "votes": 300
+                  },
+                  {
+                    "name": "Ballard",
+                    "votes": 276
+                  },
+                  {
+                    "name": "Northside Baptist",
+                    "votes": 484
+                  },
+                  {
+                    "name": "The Chapel",
+                    "votes": 373
+                  },
+                  {
+                    "name": "College Place UMC",
+                    "votes": 292
+                  },
+                  {
+                    "name": "Howard Coffin Park",
+                    "votes": 457
+                  },
+                  {
+                    "name": "Urbana-Perry Parks",
+                    "votes": 557
+                  },
+                  {
+                    "name": "Selden Park",
+                    "votes": 153
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 4761,
+                "Precinct": [
+                  {
+                    "name": "Sterling Elementary",
+                    "votes": 231
+                  },
+                  {
+                    "name": "Brookman",
+                    "votes": 205
+                  },
+                  {
+                    "name": "Satilla Marshes",
+                    "votes": 183
+                  },
+                  {
+                    "name": "Blythe Island Baptist",
+                    "votes": 83
+                  },
+                  {
+                    "name": "Christian Renewal",
+                    "votes": 298
+                  },
+                  {
+                    "name": "Hampton River",
+                    "votes": 253
+                  },
+                  {
+                    "name": "St William Catholic Church",
+                    "votes": 357
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 323
+                  },
+                  {
+                    "name": "Jekyll Island",
+                    "votes": 126
+                  },
+                  {
+                    "name": "Sterling Church of God",
+                    "votes": 223
+                  },
+                  {
+                    "name": "SE Baptist Bldg",
+                    "votes": 95
+                  },
+                  {
+                    "name": "Career Academy",
+                    "votes": 165
+                  },
+                  {
+                    "name": "C B Greer School",
+                    "votes": 237
+                  },
+                  {
+                    "name": "Ballard",
+                    "votes": 176
+                  },
+                  {
+                    "name": "Northside Baptist",
+                    "votes": 351
+                  },
+                  {
+                    "name": "The Chapel",
+                    "votes": 286
+                  },
+                  {
+                    "name": "College Place UMC",
+                    "votes": 278
+                  },
+                  {
+                    "name": "Howard Coffin Park",
+                    "votes": 328
+                  },
+                  {
+                    "name": "Urbana-Perry Parks",
+                    "votes": 421
+                  },
+                  {
+                    "name": "Selden Park",
+                    "votes": 142
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sterling Elementary",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Brookman",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Satilla Marshes",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Blythe Island Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Christian Renewal",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Hampton River",
+                    "votes": 0
+                  },
+                  {
+                    "name": "St William Catholic Church",
+                    "votes": 0
+                  },
+                  {
+                    "name": "First Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Jekyll Island",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Sterling Church of God",
+                    "votes": 0
+                  },
+                  {
+                    "name": "SE Baptist Bldg",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Career Academy",
+                    "votes": 0
+                  },
+                  {
+                    "name": "C B Greer School",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Ballard",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Northside Baptist",
+                    "votes": 0
+                  },
+                  {
+                    "name": "The Chapel",
+                    "votes": 0
+                  },
+                  {
+                    "name": "College Place UMC",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Howard Coffin Park",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Urbana-Perry Parks",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Selden Park",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,61 +1,61 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:32:04 PM EST",
+    "Timestamp": "1/5/2021 8:40:20 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Brooks",
     "VoterTurnout": {
       "totalVoters": 0,
-      "ballotsCast": 4883,
+      "ballotsCast": 6203,
       "voterTurnout": 0.0,
       "Precincts": {
         "Precinct": [
           {
             "name": "Quitman",
             "totalVoters": 0,
-            "ballotsCast": 1457,
+            "ballotsCast": 2003,
             "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
             "name": "Barwick",
             "totalVoters": 0,
-            "ballotsCast": 181,
+            "ballotsCast": 220,
             "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
             "name": "Dixie",
             "totalVoters": 0,
-            "ballotsCast": 501,
+            "ballotsCast": 686,
             "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
             "name": "Briggs",
             "totalVoters": 0,
-            "ballotsCast": 1071,
+            "ballotsCast": 1277,
             "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
             "name": "Nankin",
             "totalVoters": 0,
-            "ballotsCast": 391,
+            "ballotsCast": 442,
             "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
             "name": "Morven",
             "totalVoters": 0,
-            "ballotsCast": 947,
+            "ballotsCast": 1188,
             "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
             "name": "Pavo",
             "totalVoters": 0,
-            "ballotsCast": 335,
+            "ballotsCast": 387,
             "voterTurnout": 0.0,
             "percentReporting": "4"
           }
@@ -73,11 +73,11 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 9,
+            "votes": 12,
             "Precinct": [
               {
                 "name": "Quitman",
-                "votes": 3
+                "votes": 5
               },
               {
                 "name": "Barwick",
@@ -97,7 +97,7 @@
               },
               {
                 "name": "Morven",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Pavo",
@@ -107,7 +107,7 @@
           },
           {
             "name": "Overvotes",
-            "votes": 0,
+            "votes": 1,
             "Precinct": [
               {
                 "name": "Quitman",
@@ -123,7 +123,7 @@
               },
               {
                 "name": "Briggs",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Nankin",
@@ -144,7 +144,7 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 3377,
+            "totalVotes": 3746,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -216,35 +216,35 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 369,
                 "Precinct": [
                   {
                     "name": "Quitman",
-                    "votes": 0
+                    "votes": 88
                   },
                   {
                     "name": "Barwick",
-                    "votes": 0
+                    "votes": 14
                   },
                   {
                     "name": "Dixie",
-                    "votes": 0
+                    "votes": 30
                   },
                   {
                     "name": "Briggs",
-                    "votes": 0
+                    "votes": 104
                   },
                   {
                     "name": "Nankin",
-                    "votes": 0
+                    "votes": 25
                   },
                   {
                     "name": "Morven",
-                    "votes": 0
+                    "votes": 91
                   },
                   {
                     "name": "Pavo",
-                    "votes": 0
+                    "votes": 17
                   }
                 ]
               },
@@ -287,7 +287,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 1497,
+            "totalVotes": 2444,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -359,35 +359,35 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 947,
                 "Precinct": [
                   {
                     "name": "Quitman",
-                    "votes": 0
+                    "votes": 456
                   },
                   {
                     "name": "Barwick",
-                    "votes": 0
+                    "votes": 25
                   },
                   {
                     "name": "Dixie",
-                    "votes": 0
+                    "votes": 155
                   },
                   {
                     "name": "Briggs",
-                    "votes": 0
+                    "votes": 101
                   },
                   {
                     "name": "Nankin",
-                    "votes": 0
+                    "votes": 26
                   },
                   {
                     "name": "Morven",
-                    "votes": 0
+                    "votes": 149
                   },
                   {
                     "name": "Pavo",
-                    "votes": 0
+                    "votes": 35
                   }
                 ]
               },
@@ -439,11 +439,11 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 9,
+            "votes": 13,
             "Precinct": [
               {
                 "name": "Quitman",
-                "votes": 2
+                "votes": 4
               },
               {
                 "name": "Barwick",
@@ -451,11 +451,11 @@
               },
               {
                 "name": "Dixie",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Briggs",
-                "votes": 3
+                "votes": 4
               },
               {
                 "name": "Nankin",
@@ -510,7 +510,7 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 3378,
+            "totalVotes": 3747,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -582,35 +582,35 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 369,
                 "Precinct": [
                   {
                     "name": "Quitman",
-                    "votes": 0
+                    "votes": 88
                   },
                   {
                     "name": "Barwick",
-                    "votes": 0
+                    "votes": 14
                   },
                   {
                     "name": "Dixie",
-                    "votes": 0
+                    "votes": 29
                   },
                   {
                     "name": "Briggs",
-                    "votes": 0
+                    "votes": 105
                   },
                   {
                     "name": "Nankin",
-                    "votes": 0
+                    "votes": 25
                   },
                   {
                     "name": "Morven",
-                    "votes": 0
+                    "votes": 92
                   },
                   {
                     "name": "Pavo",
-                    "votes": 0
+                    "votes": 16
                   }
                 ]
               },
@@ -653,7 +653,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 1496,
+            "totalVotes": 2443,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -725,35 +725,35 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 947,
                 "Precinct": [
                   {
                     "name": "Quitman",
-                    "votes": 0
+                    "votes": 456
                   },
                   {
                     "name": "Barwick",
-                    "votes": 0
+                    "votes": 25
                   },
                   {
                     "name": "Dixie",
-                    "votes": 0
+                    "votes": 155
                   },
                   {
                     "name": "Briggs",
-                    "votes": 0
+                    "votes": 100
                   },
                   {
                     "name": "Nankin",
-                    "votes": 0
+                    "votes": 26
                   },
                   {
                     "name": "Morven",
-                    "votes": 0
+                    "votes": 149
                   },
                   {
                     "name": "Pavo",
-                    "votes": 0
+                    "votes": 36
                   }
                 ]
               },
@@ -805,11 +805,11 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 63,
+            "votes": 90,
             "Precinct": [
               {
                 "name": "Quitman",
-                "votes": 28
+                "votes": 43
               },
               {
                 "name": "Barwick",
@@ -817,11 +817,11 @@
               },
               {
                 "name": "Dixie",
-                "votes": 6
+                "votes": 8
               },
               {
                 "name": "Briggs",
-                "votes": 11
+                "votes": 13
               },
               {
                 "name": "Nankin",
@@ -829,11 +829,11 @@
               },
               {
                 "name": "Morven",
-                "votes": 8
+                "votes": 14
               },
               {
                 "name": "Pavo",
-                "votes": 3
+                "votes": 5
               }
             ]
           },
@@ -876,7 +876,7 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 3369,
+            "totalVotes": 3735,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -948,35 +948,35 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 366,
                 "Precinct": [
                   {
                     "name": "Quitman",
-                    "votes": 0
+                    "votes": 88
                   },
                   {
                     "name": "Barwick",
-                    "votes": 0
+                    "votes": 14
                   },
                   {
                     "name": "Dixie",
-                    "votes": 0
+                    "votes": 29
                   },
                   {
                     "name": "Briggs",
-                    "votes": 0
+                    "votes": 106
                   },
                   {
                     "name": "Nankin",
-                    "votes": 0
+                    "votes": 24
                   },
                   {
                     "name": "Morven",
-                    "votes": 0
+                    "votes": 87
                   },
                   {
                     "name": "Pavo",
-                    "votes": 0
+                    "votes": 18
                   }
                 ]
               },
@@ -1019,7 +1019,7 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 1451,
+            "totalVotes": 2378,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1091,35 +1091,35 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 927,
                 "Precinct": [
                   {
                     "name": "Quitman",
-                    "votes": 0
+                    "votes": 443
                   },
                   {
                     "name": "Barwick",
-                    "votes": 0
+                    "votes": 25
                   },
                   {
                     "name": "Dixie",
-                    "votes": 0
+                    "votes": 154
                   },
                   {
                     "name": "Briggs",
-                    "votes": 0
+                    "votes": 98
                   },
                   {
                     "name": "Nankin",
-                    "votes": 0
+                    "votes": 27
                   },
                   {
                     "name": "Morven",
-                    "votes": 0
+                    "votes": 148
                   },
                   {
                     "name": "Pavo",
-                    "votes": 0
+                    "votes": 32
                   }
                 ]
               },

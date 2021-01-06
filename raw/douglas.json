@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:32:01 PM EST",
+    "Timestamp": "1/5/2021 8:45:04 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Douglas",
     "VoterTurnout": {
       "totalVoters": 110796,
-      "ballotsCast": 47870,
-      "voterTurnout": 43.21,
+      "ballotsCast": 50891,
+      "voterTurnout": 45.93,
       "Precincts": {
         "Precinct": [
           {
@@ -41,30 +41,30 @@
           {
             "name": "Ephesus Baptist Church",
             "totalVoters": 3985,
-            "ballotsCast": 1934,
-            "voterTurnout": 48.53,
-            "percentReporting": "2"
+            "ballotsCast": 1962,
+            "voterTurnout": 49.23,
+            "percentReporting": "4"
           },
           {
             "name": "Prays Mill Gym",
             "totalVoters": 5523,
-            "ballotsCast": 2737,
-            "voterTurnout": 49.56,
-            "percentReporting": "2"
+            "ballotsCast": 3498,
+            "voterTurnout": 63.34,
+            "percentReporting": "4"
           },
           {
             "name": "Turner",
             "totalVoters": 3907,
-            "ballotsCast": 1638,
-            "voterTurnout": 41.92,
-            "percentReporting": "2"
+            "ballotsCast": 2225,
+            "voterTurnout": 56.95,
+            "percentReporting": "4"
           },
           {
             "name": "First Baptist Lithia Springs",
             "totalVoters": 1989,
-            "ballotsCast": 801,
-            "voterTurnout": 40.27,
-            "percentReporting": "2"
+            "ballotsCast": 1112,
+            "voterTurnout": 55.91,
+            "percentReporting": "4"
           },
           {
             "name": "Lithia Springs High School",
@@ -97,16 +97,16 @@
           {
             "name": "Beulah Baptist Church",
             "totalVoters": 3540,
-            "ballotsCast": 1493,
-            "voterTurnout": 42.18,
-            "percentReporting": "2"
+            "ballotsCast": 2040,
+            "voterTurnout": 57.63,
+            "percentReporting": "4"
           },
           {
             "name": "Stewart",
             "totalVoters": 3249,
-            "ballotsCast": 1392,
-            "voterTurnout": 42.84,
-            "percentReporting": "2"
+            "ballotsCast": 1787,
+            "voterTurnout": 55.0,
+            "percentReporting": "4"
           },
           {
             "name": "Arbor Station",
@@ -153,9 +153,9 @@
           {
             "name": "St Julians Episcopal",
             "totalVoters": 5663,
-            "ballotsCast": 913,
-            "voterTurnout": 16.12,
-            "percentReporting": "2"
+            "ballotsCast": 1305,
+            "voterTurnout": 23.04,
+            "percentReporting": "4"
           },
           {
             "name": "Lutheran Church-GS",
@@ -195,11 +195,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 25,
-        "precinctsReported": 0,
+        "precinctsReported": 7,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 60,
+            "votes": 62,
             "Precinct": [
               {
                 "name": "Mirror Lake Elementary",
@@ -251,11 +251,11 @@
               },
               {
                 "name": "Beulah Baptist Church",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Stewart",
-                "votes": 5
+                "votes": 6
               },
               {
                 "name": "Arbor Station",
@@ -414,11 +414,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 15648,
+            "totalVotes": 17169,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 1521,
                 "Precinct": [
                   {
                     "name": "Mirror Lake Elementary",
@@ -438,19 +438,19 @@
                   },
                   {
                     "name": "Ephesus Baptist Church",
-                    "votes": 0
+                    "votes": 26
                   },
                   {
                     "name": "Prays Mill Gym",
-                    "votes": 0
+                    "votes": 490
                   },
                   {
                     "name": "Turner",
-                    "votes": 0
+                    "votes": 281
                   },
                   {
                     "name": "First Baptist Lithia Springs",
-                    "votes": 0
+                    "votes": 142
                   },
                   {
                     "name": "Lithia Springs High School",
@@ -470,11 +470,11 @@
                   },
                   {
                     "name": "Beulah Baptist Church",
-                    "votes": 0
+                    "votes": 319
                   },
                   {
                     "name": "Stewart",
-                    "votes": 0
+                    "votes": 41
                   },
                   {
                     "name": "Arbor Station",
@@ -502,7 +502,7 @@
                   },
                   {
                     "name": "St Julians Episcopal",
-                    "votes": 0
+                    "votes": 222
                   },
                   {
                     "name": "Lutheran Church-GS",
@@ -845,11 +845,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 32162,
+            "totalVotes": 33660,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 1498,
                 "Precinct": [
                   {
                     "name": "Mirror Lake Elementary",
@@ -869,19 +869,19 @@
                   },
                   {
                     "name": "Ephesus Baptist Church",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Prays Mill Gym",
-                    "votes": 0
+                    "votes": 271
                   },
                   {
                     "name": "Turner",
-                    "votes": 0
+                    "votes": 306
                   },
                   {
                     "name": "First Baptist Lithia Springs",
-                    "votes": 0
+                    "votes": 169
                   },
                   {
                     "name": "Lithia Springs High School",
@@ -901,11 +901,11 @@
                   },
                   {
                     "name": "Beulah Baptist Church",
-                    "votes": 0
+                    "votes": 227
                   },
                   {
                     "name": "Stewart",
-                    "votes": 0
+                    "votes": 353
                   },
                   {
                     "name": "Arbor Station",
@@ -933,7 +933,7 @@
                   },
                   {
                     "name": "St Julians Episcopal",
-                    "votes": 0
+                    "votes": 170
                   },
                   {
                     "name": "Lutheran Church-GS",
@@ -1281,11 +1281,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 25,
-        "precinctsReported": 0,
+        "precinctsReported": 7,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 56,
+            "votes": 60,
             "Precinct": [
               {
                 "name": "Mirror Lake Elementary",
@@ -1313,11 +1313,11 @@
               },
               {
                 "name": "Turner",
-                "votes": 4
+                "votes": 5
               },
               {
                 "name": "First Baptist Lithia Springs",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Lithia Springs High School",
@@ -1337,11 +1337,11 @@
               },
               {
                 "name": "Beulah Baptist Church",
-                "votes": 4
+                "votes": 5
               },
               {
                 "name": "Stewart",
-                "votes": 3
+                "votes": 4
               },
               {
                 "name": "Arbor Station",
@@ -1500,11 +1500,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 15489,
+            "totalVotes": 17001,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 1512,
                 "Precinct": [
                   {
                     "name": "Mirror Lake Elementary",
@@ -1524,19 +1524,19 @@
                   },
                   {
                     "name": "Ephesus Baptist Church",
-                    "votes": 0
+                    "votes": 26
                   },
                   {
                     "name": "Prays Mill Gym",
-                    "votes": 0
+                    "votes": 488
                   },
                   {
                     "name": "Turner",
-                    "votes": 0
+                    "votes": 279
                   },
                   {
                     "name": "First Baptist Lithia Springs",
-                    "votes": 0
+                    "votes": 137
                   },
                   {
                     "name": "Lithia Springs High School",
@@ -1556,11 +1556,11 @@
                   },
                   {
                     "name": "Beulah Baptist Church",
-                    "votes": 0
+                    "votes": 319
                   },
                   {
                     "name": "Stewart",
-                    "votes": 0
+                    "votes": 42
                   },
                   {
                     "name": "Arbor Station",
@@ -1588,7 +1588,7 @@
                   },
                   {
                     "name": "St Julians Episcopal",
-                    "votes": 0
+                    "votes": 221
                   },
                   {
                     "name": "Lutheran Church-GS",
@@ -1931,11 +1931,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 32325,
+            "totalVotes": 33830,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 1505,
                 "Precinct": [
                   {
                     "name": "Mirror Lake Elementary",
@@ -1955,19 +1955,19 @@
                   },
                   {
                     "name": "Ephesus Baptist Church",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Prays Mill Gym",
-                    "votes": 0
+                    "votes": 273
                   },
                   {
                     "name": "Turner",
-                    "votes": 0
+                    "votes": 307
                   },
                   {
                     "name": "First Baptist Lithia Springs",
-                    "votes": 0
+                    "votes": 173
                   },
                   {
                     "name": "Lithia Springs High School",
@@ -1987,11 +1987,11 @@
                   },
                   {
                     "name": "Beulah Baptist Church",
-                    "votes": 0
+                    "votes": 227
                   },
                   {
                     "name": "Stewart",
-                    "votes": 0
+                    "votes": 352
                   },
                   {
                     "name": "Arbor Station",
@@ -2019,7 +2019,7 @@
                   },
                   {
                     "name": "St Julians Episcopal",
-                    "votes": 0
+                    "votes": 171
                   },
                   {
                     "name": "Lutheran Church-GS",
@@ -2367,11 +2367,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 25,
-        "precinctsReported": 0,
+        "precinctsReported": 7,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 425,
+            "votes": 447,
             "Precinct": [
               {
                 "name": "Mirror Lake Elementary",
@@ -2395,15 +2395,15 @@
               },
               {
                 "name": "Prays Mill Gym",
-                "votes": 29
+                "votes": 36
               },
               {
                 "name": "Turner",
-                "votes": 13
+                "votes": 17
               },
               {
                 "name": "First Baptist Lithia Springs",
-                "votes": 13
+                "votes": 17
               },
               {
                 "name": "Lithia Springs High School",
@@ -2423,11 +2423,11 @@
               },
               {
                 "name": "Beulah Baptist Church",
-                "votes": 23
+                "votes": 27
               },
               {
                 "name": "Stewart",
-                "votes": 10
+                "votes": 11
               },
               {
                 "name": "Arbor Station",
@@ -2455,7 +2455,7 @@
               },
               {
                 "name": "St Julians Episcopal",
-                "votes": 11
+                "votes": 13
               },
               {
                 "name": "Lutheran Church-GS",
@@ -2586,11 +2586,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 16047,
+            "totalVotes": 17570,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 1523,
                 "Precinct": [
                   {
                     "name": "Mirror Lake Elementary",
@@ -2610,19 +2610,19 @@
                   },
                   {
                     "name": "Ephesus Baptist Church",
-                    "votes": 0
+                    "votes": 26
                   },
                   {
                     "name": "Prays Mill Gym",
-                    "votes": 0
+                    "votes": 490
                   },
                   {
                     "name": "Turner",
-                    "votes": 0
+                    "votes": 280
                   },
                   {
                     "name": "First Baptist Lithia Springs",
-                    "votes": 0
+                    "votes": 140
                   },
                   {
                     "name": "Lithia Springs High School",
@@ -2642,11 +2642,11 @@
                   },
                   {
                     "name": "Beulah Baptist Church",
-                    "votes": 0
+                    "votes": 318
                   },
                   {
                     "name": "Stewart",
-                    "votes": 0
+                    "votes": 48
                   },
                   {
                     "name": "Arbor Station",
@@ -2674,7 +2674,7 @@
                   },
                   {
                     "name": "St Julians Episcopal",
-                    "votes": 0
+                    "votes": 221
                   },
                   {
                     "name": "Lutheran Church-GS",
@@ -3017,11 +3017,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 31357,
+            "totalVotes": 32833,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 1476,
                 "Precinct": [
                   {
                     "name": "Mirror Lake Elementary",
@@ -3041,19 +3041,19 @@
                   },
                   {
                     "name": "Ephesus Baptist Church",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Prays Mill Gym",
-                    "votes": 0
+                    "votes": 264
                   },
                   {
                     "name": "Turner",
-                    "votes": 0
+                    "votes": 303
                   },
                   {
                     "name": "First Baptist Lithia Springs",
-                    "votes": 0
+                    "votes": 167
                   },
                   {
                     "name": "Lithia Springs High School",
@@ -3073,11 +3073,11 @@
                   },
                   {
                     "name": "Beulah Baptist Church",
-                    "votes": 0
+                    "votes": 225
                   },
                   {
                     "name": "Stewart",
-                    "votes": 0
+                    "votes": 346
                   },
                   {
                     "name": "Arbor Station",
@@ -3105,7 +3105,7 @@
                   },
                   {
                     "name": "St Julians Episcopal",
-                    "votes": 0
+                    "votes": 169
                   },
                   {
                     "name": "Lutheran Church-GS",

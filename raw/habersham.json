@@ -1,63 +1,63 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:38:41 PM EST",
+    "Timestamp": "1/5/2021 8:46:02 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
-    "Region": "Dade",
+    "Region": "Habersham",
     "VoterTurnout": {
-      "totalVoters": 11962,
-      "ballotsCast": 4942,
-      "voterTurnout": 41.31,
+      "totalVoters": 28768,
+      "ballotsCast": 18018,
+      "voterTurnout": 62.63,
       "Precincts": {
         "Precinct": [
           {
-            "name": "South Dade",
-            "totalVoters": 1011,
-            "ballotsCast": 584,
-            "voterTurnout": 57.76,
+            "name": "Habersham North",
+            "totalVoters": 9226,
+            "ballotsCast": 6323,
+            "voterTurnout": 68.53,
             "percentReporting": "4"
           },
           {
-            "name": "New Salem",
+            "name": "Habersham South",
+            "totalVoters": 6288,
+            "ballotsCast": 3618,
+            "voterTurnout": 57.54,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Demorest",
+            "totalVoters": 5056,
+            "ballotsCast": 3176,
+            "voterTurnout": 62.82,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Town of Mt Airy",
+            "totalVoters": 808,
+            "ballotsCast": 432,
+            "voterTurnout": 53.47,
+            "percentReporting": "4"
+          },
+          {
+            "name": "City of Baldwin",
             "totalVoters": 1292,
-            "ballotsCast": 839,
-            "voterTurnout": 64.94,
+            "ballotsCast": 568,
+            "voterTurnout": 43.96,
             "percentReporting": "4"
           },
           {
-            "name": "Davis",
-            "totalVoters": 2052,
-            "ballotsCast": 1134,
-            "voterTurnout": 55.26,
+            "name": "Mud Creek",
+            "totalVoters": 4506,
+            "ballotsCast": 2707,
+            "voterTurnout": 60.08,
             "percentReporting": "4"
           },
           {
-            "name": "New Home",
-            "totalVoters": 724,
-            "ballotsCast": 172,
-            "voterTurnout": 23.76,
-            "percentReporting": "2"
-          },
-          {
-            "name": "West Brow",
-            "totalVoters": 1275,
-            "ballotsCast": 428,
-            "voterTurnout": 33.57,
-            "percentReporting": "2"
-          },
-          {
-            "name": "Trenton",
-            "totalVoters": 3696,
-            "ballotsCast": 1103,
-            "voterTurnout": 29.84,
-            "percentReporting": "2"
-          },
-          {
-            "name": "North Dade",
-            "totalVoters": 1912,
-            "ballotsCast": 682,
-            "voterTurnout": 35.67,
-            "percentReporting": "2"
+            "name": "Amys Creek",
+            "totalVoters": 1592,
+            "ballotsCast": 1194,
+            "voterTurnout": 75.0,
+            "percentReporting": "4"
           }
         ]
       }
@@ -69,39 +69,39 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 7,
-        "precinctsReported": 3,
+        "precinctsReported": 7,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 13,
+            "votes": 32,
             "Precinct": [
               {
-                "name": "South Dade",
-                "votes": 0
-              },
-              {
-                "name": "New Salem",
-                "votes": 0
-              },
-              {
-                "name": "Davis",
-                "votes": 4
-              },
-              {
-                "name": "New Home",
-                "votes": 2
-              },
-              {
-                "name": "West Brow",
-                "votes": 1
-              },
-              {
-                "name": "Trenton",
+                "name": "Habersham North",
                 "votes": 6
               },
               {
-                "name": "North Dade",
+                "name": "Habersham South",
+                "votes": 7
+              },
+              {
+                "name": "Demorest",
+                "votes": 6
+              },
+              {
+                "name": "Town of Mt Airy",
+                "votes": 1
+              },
+              {
+                "name": "City of Baldwin",
                 "votes": 0
+              },
+              {
+                "name": "Mud Creek",
+                "votes": 6
+              },
+              {
+                "name": "Amys Creek",
+                "votes": 6
               }
             ]
           },
@@ -110,31 +110,31 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "South Dade",
+                "name": "Habersham North",
                 "votes": 0
               },
               {
-                "name": "New Salem",
+                "name": "Habersham South",
                 "votes": 0
               },
               {
-                "name": "Davis",
+                "name": "Demorest",
                 "votes": 0
               },
               {
-                "name": "New Home",
+                "name": "Town of Mt Airy",
                 "votes": 0
               },
               {
-                "name": "West Brow",
+                "name": "City of Baldwin",
                 "votes": 0
               },
               {
-                "name": "Trenton",
+                "name": "Mud Creek",
                 "votes": 0
               },
               {
-                "name": "North Dade",
+                "name": "Amys Creek",
                 "votes": 0
               }
             ]
@@ -144,107 +144,107 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 3988,
+            "totalVotes": 14837,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 992,
+                "votes": 3784,
                 "Precinct": [
                   {
-                    "name": "South Dade",
-                    "votes": 212
+                    "name": "Habersham North",
+                    "votes": 1087
                   },
                   {
-                    "name": "New Salem",
-                    "votes": 320
+                    "name": "Habersham South",
+                    "votes": 724
                   },
                   {
-                    "name": "Davis",
-                    "votes": 460
+                    "name": "Demorest",
+                    "votes": 632
                   },
                   {
-                    "name": "New Home",
-                    "votes": 0
+                    "name": "Town of Mt Airy",
+                    "votes": 139
                   },
                   {
-                    "name": "West Brow",
-                    "votes": 0
+                    "name": "City of Baldwin",
+                    "votes": 167
                   },
                   {
-                    "name": "Trenton",
-                    "votes": 0
+                    "name": "Mud Creek",
+                    "votes": 709
                   },
                   {
-                    "name": "North Dade",
-                    "votes": 0
+                    "name": "Amys Creek",
+                    "votes": 326
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 2536,
+                "votes": 8835,
                 "Precinct": [
                   {
-                    "name": "South Dade",
-                    "votes": 222
+                    "name": "Habersham North",
+                    "votes": 3398
                   },
                   {
-                    "name": "New Salem",
-                    "votes": 262
+                    "name": "Habersham South",
+                    "votes": 1672
                   },
                   {
-                    "name": "Davis",
-                    "votes": 506
+                    "name": "Demorest",
+                    "votes": 1691
                   },
                   {
-                    "name": "New Home",
-                    "votes": 119
+                    "name": "Town of Mt Airy",
+                    "votes": 158
                   },
                   {
-                    "name": "West Brow",
-                    "votes": 233
+                    "name": "City of Baldwin",
+                    "votes": 186
                   },
                   {
-                    "name": "Trenton",
-                    "votes": 770
+                    "name": "Mud Creek",
+                    "votes": 1247
                   },
                   {
-                    "name": "North Dade",
-                    "votes": 424
+                    "name": "Amys Creek",
+                    "votes": 483
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 460,
+                "votes": 2218,
                 "Precinct": [
                   {
-                    "name": "South Dade",
-                    "votes": 43
+                    "name": "Habersham North",
+                    "votes": 769
                   },
                   {
-                    "name": "New Salem",
-                    "votes": 68
+                    "name": "Habersham South",
+                    "votes": 459
                   },
                   {
-                    "name": "Davis",
-                    "votes": 59
+                    "name": "Demorest",
+                    "votes": 380
                   },
                   {
-                    "name": "New Home",
-                    "votes": 27
+                    "name": "Town of Mt Airy",
+                    "votes": 49
                   },
                   {
-                    "name": "West Brow",
-                    "votes": 76
-                  },
-                  {
-                    "name": "Trenton",
-                    "votes": 126
-                  },
-                  {
-                    "name": "North Dade",
+                    "name": "City of Baldwin",
                     "votes": 61
+                  },
+                  {
+                    "name": "Mud Creek",
+                    "votes": 354
+                  },
+                  {
+                    "name": "Amys Creek",
+                    "votes": 146
                   }
                 ]
               },
@@ -253,31 +253,31 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "South Dade",
+                    "name": "Habersham North",
                     "votes": 0
                   },
                   {
-                    "name": "New Salem",
+                    "name": "Habersham South",
                     "votes": 0
                   },
                   {
-                    "name": "Davis",
+                    "name": "Demorest",
                     "votes": 0
                   },
                   {
-                    "name": "New Home",
+                    "name": "Town of Mt Airy",
                     "votes": 0
                   },
                   {
-                    "name": "West Brow",
+                    "name": "City of Baldwin",
                     "votes": 0
                   },
                   {
-                    "name": "Trenton",
+                    "name": "Mud Creek",
                     "votes": 0
                   },
                   {
-                    "name": "North Dade",
+                    "name": "Amys Creek",
                     "votes": 0
                   }
                 ]
@@ -287,107 +287,107 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 941,
+            "totalVotes": 3149,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 104,
+                "votes": 597,
                 "Precinct": [
                   {
-                    "name": "South Dade",
-                    "votes": 29
+                    "name": "Habersham North",
+                    "votes": 136
                   },
                   {
-                    "name": "New Salem",
-                    "votes": 41
+                    "name": "Habersham South",
+                    "votes": 179
                   },
                   {
-                    "name": "Davis",
-                    "votes": 34
+                    "name": "Demorest",
+                    "votes": 108
                   },
                   {
-                    "name": "New Home",
-                    "votes": 0
+                    "name": "Town of Mt Airy",
+                    "votes": 23
                   },
                   {
-                    "name": "West Brow",
-                    "votes": 0
+                    "name": "City of Baldwin",
+                    "votes": 49
                   },
                   {
-                    "name": "Trenton",
-                    "votes": 0
+                    "name": "Mud Creek",
+                    "votes": 74
                   },
                   {
-                    "name": "North Dade",
-                    "votes": 0
+                    "name": "Amys Creek",
+                    "votes": 28
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 484,
+                "votes": 1448,
                 "Precinct": [
                   {
-                    "name": "South Dade",
+                    "name": "Habersham North",
+                    "votes": 531
+                  },
+                  {
+                    "name": "Habersham South",
+                    "votes": 351
+                  },
+                  {
+                    "name": "Demorest",
+                    "votes": 206
+                  },
+                  {
+                    "name": "Town of Mt Airy",
+                    "votes": 40
+                  },
+                  {
+                    "name": "City of Baldwin",
                     "votes": 51
                   },
                   {
-                    "name": "New Salem",
-                    "votes": 79
+                    "name": "Mud Creek",
+                    "votes": 174
                   },
                   {
-                    "name": "Davis",
-                    "votes": 41
-                  },
-                  {
-                    "name": "New Home",
-                    "votes": 11
-                  },
-                  {
-                    "name": "West Brow",
-                    "votes": 62
-                  },
-                  {
-                    "name": "Trenton",
-                    "votes": 136
-                  },
-                  {
-                    "name": "North Dade",
-                    "votes": 104
+                    "name": "Amys Creek",
+                    "votes": 95
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 353,
+                "votes": 1104,
                 "Precinct": [
                   {
-                    "name": "South Dade",
-                    "votes": 27
+                    "name": "Habersham North",
+                    "votes": 396
                   },
                   {
-                    "name": "New Salem",
-                    "votes": 69
+                    "name": "Habersham South",
+                    "votes": 226
                   },
                   {
-                    "name": "Davis",
-                    "votes": 30
+                    "name": "Demorest",
+                    "votes": 153
                   },
                   {
-                    "name": "New Home",
-                    "votes": 13
+                    "name": "Town of Mt Airy",
+                    "votes": 22
                   },
                   {
-                    "name": "West Brow",
-                    "votes": 56
+                    "name": "City of Baldwin",
+                    "votes": 54
                   },
                   {
-                    "name": "Trenton",
-                    "votes": 65
+                    "name": "Mud Creek",
+                    "votes": 143
                   },
                   {
-                    "name": "North Dade",
-                    "votes": 93
+                    "name": "Amys Creek",
+                    "votes": 110
                   }
                 ]
               },
@@ -396,31 +396,31 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "South Dade",
+                    "name": "Habersham North",
                     "votes": 0
                   },
                   {
-                    "name": "New Salem",
+                    "name": "Habersham South",
                     "votes": 0
                   },
                   {
-                    "name": "Davis",
+                    "name": "Demorest",
                     "votes": 0
                   },
                   {
-                    "name": "New Home",
+                    "name": "Town of Mt Airy",
                     "votes": 0
                   },
                   {
-                    "name": "West Brow",
+                    "name": "City of Baldwin",
                     "votes": 0
                   },
                   {
-                    "name": "Trenton",
+                    "name": "Mud Creek",
                     "votes": 0
                   },
                   {
-                    "name": "North Dade",
+                    "name": "Amys Creek",
                     "votes": 0
                   }
                 ]
@@ -435,39 +435,39 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 7,
-        "precinctsReported": 3,
+        "precinctsReported": 7,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 29,
+            "votes": 44,
             "Precinct": [
               {
-                "name": "South Dade",
+                "name": "Habersham North",
+                "votes": 12
+              },
+              {
+                "name": "Habersham South",
+                "votes": 6
+              },
+              {
+                "name": "Demorest",
+                "votes": 15
+              },
+              {
+                "name": "Town of Mt Airy",
+                "votes": 1
+              },
+              {
+                "name": "City of Baldwin",
                 "votes": 2
               },
               {
-                "name": "New Salem",
-                "votes": 5
+                "name": "Mud Creek",
+                "votes": 6
               },
               {
-                "name": "Davis",
-                "votes": 8
-              },
-              {
-                "name": "New Home",
+                "name": "Amys Creek",
                 "votes": 2
-              },
-              {
-                "name": "West Brow",
-                "votes": 3
-              },
-              {
-                "name": "Trenton",
-                "votes": 5
-              },
-              {
-                "name": "North Dade",
-                "votes": 4
               }
             ]
           },
@@ -476,31 +476,31 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "South Dade",
+                "name": "Habersham North",
                 "votes": 0
               },
               {
-                "name": "New Salem",
+                "name": "Habersham South",
                 "votes": 0
               },
               {
-                "name": "Davis",
+                "name": "Demorest",
                 "votes": 0
               },
               {
-                "name": "New Home",
+                "name": "Town of Mt Airy",
                 "votes": 0
               },
               {
-                "name": "West Brow",
+                "name": "City of Baldwin",
                 "votes": 0
               },
               {
-                "name": "Trenton",
+                "name": "Mud Creek",
                 "votes": 0
               },
               {
-                "name": "North Dade",
+                "name": "Amys Creek",
                 "votes": 0
               }
             ]
@@ -510,107 +510,107 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 3990,
+            "totalVotes": 14742,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 991,
+                "votes": 3754,
                 "Precinct": [
                   {
-                    "name": "South Dade",
-                    "votes": 212
+                    "name": "Habersham North",
+                    "votes": 1074
                   },
                   {
-                    "name": "New Salem",
-                    "votes": 318
+                    "name": "Habersham South",
+                    "votes": 720
                   },
                   {
-                    "name": "Davis",
-                    "votes": 461
+                    "name": "Demorest",
+                    "votes": 626
                   },
                   {
-                    "name": "New Home",
-                    "votes": 0
+                    "name": "Town of Mt Airy",
+                    "votes": 137
                   },
                   {
-                    "name": "West Brow",
-                    "votes": 0
+                    "name": "City of Baldwin",
+                    "votes": 166
                   },
                   {
-                    "name": "Trenton",
-                    "votes": 0
+                    "name": "Mud Creek",
+                    "votes": 707
                   },
                   {
-                    "name": "North Dade",
-                    "votes": 0
+                    "name": "Amys Creek",
+                    "votes": 324
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 2534,
+                "votes": 8793,
                 "Precinct": [
                   {
-                    "name": "South Dade",
-                    "votes": 221
+                    "name": "Habersham North",
+                    "votes": 3378
                   },
                   {
-                    "name": "New Salem",
-                    "votes": 262
+                    "name": "Habersham South",
+                    "votes": 1656
                   },
                   {
-                    "name": "Davis",
-                    "votes": 503
+                    "name": "Demorest",
+                    "votes": 1682
                   },
                   {
-                    "name": "New Home",
-                    "votes": 119
+                    "name": "Town of Mt Airy",
+                    "votes": 157
                   },
                   {
-                    "name": "West Brow",
-                    "votes": 233
+                    "name": "City of Baldwin",
+                    "votes": 186
                   },
                   {
-                    "name": "Trenton",
-                    "votes": 769
+                    "name": "Mud Creek",
+                    "votes": 1248
                   },
                   {
-                    "name": "North Dade",
-                    "votes": 427
+                    "name": "Amys Creek",
+                    "votes": 486
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 465,
+                "votes": 2195,
                 "Precinct": [
                   {
-                    "name": "South Dade",
-                    "votes": 44
+                    "name": "Habersham North",
+                    "votes": 760
                   },
                   {
-                    "name": "New Salem",
-                    "votes": 68
+                    "name": "Habersham South",
+                    "votes": 454
                   },
                   {
-                    "name": "Davis",
-                    "votes": 60
+                    "name": "Demorest",
+                    "votes": 375
                   },
                   {
-                    "name": "New Home",
-                    "votes": 27
+                    "name": "Town of Mt Airy",
+                    "votes": 49
                   },
                   {
-                    "name": "West Brow",
-                    "votes": 75
+                    "name": "City of Baldwin",
+                    "votes": 61
                   },
                   {
-                    "name": "Trenton",
-                    "votes": 128
+                    "name": "Mud Creek",
+                    "votes": 351
                   },
                   {
-                    "name": "North Dade",
-                    "votes": 63
+                    "name": "Amys Creek",
+                    "votes": 145
                   }
                 ]
               },
@@ -619,31 +619,31 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "South Dade",
+                    "name": "Habersham North",
                     "votes": 0
                   },
                   {
-                    "name": "New Salem",
+                    "name": "Habersham South",
                     "votes": 0
                   },
                   {
-                    "name": "Davis",
+                    "name": "Demorest",
                     "votes": 0
                   },
                   {
-                    "name": "New Home",
+                    "name": "Town of Mt Airy",
                     "votes": 0
                   },
                   {
-                    "name": "West Brow",
+                    "name": "City of Baldwin",
                     "votes": 0
                   },
                   {
-                    "name": "Trenton",
+                    "name": "Mud Creek",
                     "votes": 0
                   },
                   {
-                    "name": "North Dade",
+                    "name": "Amys Creek",
                     "votes": 0
                   }
                 ]
@@ -653,107 +653,107 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 923,
+            "totalVotes": 3232,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 103,
+                "votes": 621,
                 "Precinct": [
                   {
-                    "name": "South Dade",
-                    "votes": 29
+                    "name": "Habersham North",
+                    "votes": 146
                   },
                   {
-                    "name": "New Salem",
-                    "votes": 42
+                    "name": "Habersham South",
+                    "votes": 184
                   },
                   {
-                    "name": "Davis",
-                    "votes": 32
+                    "name": "Demorest",
+                    "votes": 112
                   },
                   {
-                    "name": "New Home",
-                    "votes": 0
+                    "name": "Town of Mt Airy",
+                    "votes": 25
                   },
                   {
-                    "name": "West Brow",
-                    "votes": 0
+                    "name": "City of Baldwin",
+                    "votes": 49
                   },
                   {
-                    "name": "Trenton",
-                    "votes": 0
+                    "name": "Mud Creek",
+                    "votes": 75
                   },
                   {
-                    "name": "North Dade",
-                    "votes": 0
+                    "name": "Amys Creek",
+                    "votes": 30
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 480,
+                "votes": 1487,
                 "Precinct": [
                   {
-                    "name": "South Dade",
-                    "votes": 50
+                    "name": "Habersham North",
+                    "votes": 548
                   },
                   {
-                    "name": "New Salem",
-                    "votes": 79
+                    "name": "Habersham South",
+                    "votes": 367
                   },
                   {
-                    "name": "Davis",
-                    "votes": 42
+                    "name": "Demorest",
+                    "votes": 211
                   },
                   {
-                    "name": "New Home",
-                    "votes": 11
+                    "name": "Town of Mt Airy",
+                    "votes": 41
                   },
                   {
-                    "name": "West Brow",
-                    "votes": 62
+                    "name": "City of Baldwin",
+                    "votes": 51
                   },
                   {
-                    "name": "Trenton",
-                    "votes": 138
+                    "name": "Mud Creek",
+                    "votes": 174
                   },
                   {
-                    "name": "North Dade",
-                    "votes": 98
+                    "name": "Amys Creek",
+                    "votes": 95
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 340,
+                "votes": 1124,
                 "Precinct": [
                   {
-                    "name": "South Dade",
-                    "votes": 26
+                    "name": "Habersham North",
+                    "votes": 405
                   },
                   {
-                    "name": "New Salem",
-                    "votes": 65
+                    "name": "Habersham South",
+                    "votes": 231
                   },
                   {
-                    "name": "Davis",
-                    "votes": 28
+                    "name": "Demorest",
+                    "votes": 155
                   },
                   {
-                    "name": "New Home",
-                    "votes": 13
+                    "name": "Town of Mt Airy",
+                    "votes": 22
                   },
                   {
-                    "name": "West Brow",
-                    "votes": 55
+                    "name": "City of Baldwin",
+                    "votes": 53
                   },
                   {
-                    "name": "Trenton",
-                    "votes": 63
+                    "name": "Mud Creek",
+                    "votes": 146
                   },
                   {
-                    "name": "North Dade",
-                    "votes": 90
+                    "name": "Amys Creek",
+                    "votes": 112
                   }
                 ]
               },
@@ -762,31 +762,31 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "South Dade",
+                    "name": "Habersham North",
                     "votes": 0
                   },
                   {
-                    "name": "New Salem",
+                    "name": "Habersham South",
                     "votes": 0
                   },
                   {
-                    "name": "Davis",
+                    "name": "Demorest",
                     "votes": 0
                   },
                   {
-                    "name": "New Home",
+                    "name": "Town of Mt Airy",
                     "votes": 0
                   },
                   {
-                    "name": "West Brow",
+                    "name": "City of Baldwin",
                     "votes": 0
                   },
                   {
-                    "name": "Trenton",
+                    "name": "Mud Creek",
                     "votes": 0
                   },
                   {
-                    "name": "North Dade",
+                    "name": "Amys Creek",
                     "votes": 0
                   }
                 ]
@@ -801,39 +801,39 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 7,
-        "precinctsReported": 3,
+        "precinctsReported": 7,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 102,
+            "votes": 218,
             "Precinct": [
               {
-                "name": "South Dade",
-                "votes": 13
+                "name": "Habersham North",
+                "votes": 83
               },
               {
-                "name": "New Salem",
-                "votes": 9
+                "name": "Habersham South",
+                "votes": 46
               },
               {
-                "name": "Davis",
-                "votes": 32
+                "name": "Demorest",
+                "votes": 35
               },
               {
-                "name": "New Home",
-                "votes": 1
+                "name": "Town of Mt Airy",
+                "votes": 6
               },
               {
-                "name": "West Brow",
-                "votes": 9
+                "name": "City of Baldwin",
+                "votes": 5
               },
               {
-                "name": "Trenton",
-                "votes": 23
+                "name": "Mud Creek",
+                "votes": 33
               },
               {
-                "name": "North Dade",
-                "votes": 15
+                "name": "Amys Creek",
+                "votes": 10
               }
             ]
           },
@@ -842,31 +842,31 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "South Dade",
+                "name": "Habersham North",
                 "votes": 0
               },
               {
-                "name": "New Salem",
+                "name": "Habersham South",
                 "votes": 0
               },
               {
-                "name": "Davis",
+                "name": "Demorest",
                 "votes": 0
               },
               {
-                "name": "New Home",
+                "name": "Town of Mt Airy",
                 "votes": 0
               },
               {
-                "name": "West Brow",
+                "name": "City of Baldwin",
                 "votes": 0
               },
               {
-                "name": "Trenton",
+                "name": "Mud Creek",
                 "votes": 0
               },
               {
-                "name": "North Dade",
+                "name": "Amys Creek",
                 "votes": 0
               }
             ]
@@ -876,107 +876,107 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 3947,
+            "totalVotes": 14829,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 981,
+                "votes": 3775,
                 "Precinct": [
                   {
-                    "name": "South Dade",
-                    "votes": 210
+                    "name": "Habersham North",
+                    "votes": 1086
                   },
                   {
-                    "name": "New Salem",
-                    "votes": 319
+                    "name": "Habersham South",
+                    "votes": 718
                   },
                   {
-                    "name": "Davis",
-                    "votes": 452
+                    "name": "Demorest",
+                    "votes": 638
                   },
                   {
-                    "name": "New Home",
-                    "votes": 0
+                    "name": "Town of Mt Airy",
+                    "votes": 135
                   },
                   {
-                    "name": "West Brow",
-                    "votes": 0
+                    "name": "City of Baldwin",
+                    "votes": 168
                   },
                   {
-                    "name": "Trenton",
-                    "votes": 0
+                    "name": "Mud Creek",
+                    "votes": 707
                   },
                   {
-                    "name": "North Dade",
-                    "votes": 0
+                    "name": "Amys Creek",
+                    "votes": 323
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 2505,
+                "votes": 8815,
                 "Precinct": [
                   {
-                    "name": "South Dade",
-                    "votes": 213
+                    "name": "Habersham North",
+                    "votes": 3385
                   },
                   {
-                    "name": "New Salem",
-                    "votes": 261
+                    "name": "Habersham South",
+                    "votes": 1669
                   },
                   {
-                    "name": "Davis",
-                    "votes": 498
+                    "name": "Demorest",
+                    "votes": 1679
                   },
                   {
-                    "name": "New Home",
-                    "votes": 120
+                    "name": "Town of Mt Airy",
+                    "votes": 156
                   },
                   {
-                    "name": "West Brow",
-                    "votes": 233
+                    "name": "City of Baldwin",
+                    "votes": 187
                   },
                   {
-                    "name": "Trenton",
-                    "votes": 760
+                    "name": "Mud Creek",
+                    "votes": 1253
                   },
                   {
-                    "name": "North Dade",
-                    "votes": 420
+                    "name": "Amys Creek",
+                    "votes": 486
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 461,
+                "votes": 2239,
                 "Precinct": [
                   {
-                    "name": "South Dade",
-                    "votes": 44
+                    "name": "Habersham North",
+                    "votes": 786
                   },
                   {
-                    "name": "New Salem",
-                    "votes": 70
+                    "name": "Habersham South",
+                    "votes": 453
                   },
                   {
-                    "name": "Davis",
-                    "votes": 59
+                    "name": "Demorest",
+                    "votes": 385
                   },
                   {
-                    "name": "New Home",
-                    "votes": 27
+                    "name": "Town of Mt Airy",
+                    "votes": 45
                   },
                   {
-                    "name": "West Brow",
-                    "votes": 73
+                    "name": "City of Baldwin",
+                    "votes": 63
                   },
                   {
-                    "name": "Trenton",
-                    "votes": 128
+                    "name": "Mud Creek",
+                    "votes": 354
                   },
                   {
-                    "name": "North Dade",
-                    "votes": 60
+                    "name": "Amys Creek",
+                    "votes": 153
                   }
                 ]
               },
@@ -985,31 +985,31 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "South Dade",
+                    "name": "Habersham North",
                     "votes": 0
                   },
                   {
-                    "name": "New Salem",
+                    "name": "Habersham South",
                     "votes": 0
                   },
                   {
-                    "name": "Davis",
+                    "name": "Demorest",
                     "votes": 0
                   },
                   {
-                    "name": "New Home",
+                    "name": "Town of Mt Airy",
                     "votes": 0
                   },
                   {
-                    "name": "West Brow",
+                    "name": "City of Baldwin",
                     "votes": 0
                   },
                   {
-                    "name": "Trenton",
+                    "name": "Mud Creek",
                     "votes": 0
                   },
                   {
-                    "name": "North Dade",
+                    "name": "Amys Creek",
                     "votes": 0
                   }
                 ]
@@ -1019,107 +1019,107 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 893,
+            "totalVotes": 2971,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 102,
+                "votes": 565,
                 "Precinct": [
                   {
-                    "name": "South Dade",
-                    "votes": 28
+                    "name": "Habersham North",
+                    "votes": 121
                   },
                   {
-                    "name": "New Salem",
-                    "votes": 40
+                    "name": "Habersham South",
+                    "votes": 175
                   },
                   {
-                    "name": "Davis",
-                    "votes": 34
+                    "name": "Demorest",
+                    "votes": 98
                   },
                   {
-                    "name": "New Home",
-                    "votes": 0
+                    "name": "Town of Mt Airy",
+                    "votes": 25
                   },
                   {
-                    "name": "West Brow",
-                    "votes": 0
+                    "name": "City of Baldwin",
+                    "votes": 45
                   },
                   {
-                    "name": "Trenton",
-                    "votes": 0
+                    "name": "Mud Creek",
+                    "votes": 71
                   },
                   {
-                    "name": "North Dade",
-                    "votes": 0
+                    "name": "Amys Creek",
+                    "votes": 30
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 460,
+                "votes": 1378,
                 "Precinct": [
                   {
-                    "name": "South Dade",
-                    "votes": 51
+                    "name": "Habersham North",
+                    "votes": 507
                   },
                   {
-                    "name": "New Salem",
-                    "votes": 76
+                    "name": "Habersham South",
+                    "votes": 333
                   },
                   {
-                    "name": "Davis",
-                    "votes": 34
+                    "name": "Demorest",
+                    "votes": 202
                   },
                   {
-                    "name": "New Home",
-                    "votes": 11
+                    "name": "Town of Mt Airy",
+                    "votes": 40
                   },
                   {
-                    "name": "West Brow",
-                    "votes": 60
+                    "name": "City of Baldwin",
+                    "votes": 49
                   },
                   {
-                    "name": "Trenton",
-                    "votes": 131
+                    "name": "Mud Creek",
+                    "votes": 157
                   },
                   {
-                    "name": "North Dade",
-                    "votes": 97
+                    "name": "Amys Creek",
+                    "votes": 90
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 331,
+                "votes": 1028,
                 "Precinct": [
                   {
-                    "name": "South Dade",
+                    "name": "Habersham North",
+                    "votes": 355
+                  },
+                  {
+                    "name": "Habersham South",
+                    "votes": 224
+                  },
+                  {
+                    "name": "Demorest",
+                    "votes": 139
+                  },
+                  {
+                    "name": "Town of Mt Airy",
                     "votes": 25
                   },
                   {
-                    "name": "New Salem",
-                    "votes": 64
+                    "name": "City of Baldwin",
+                    "votes": 51
                   },
                   {
-                    "name": "Davis",
-                    "votes": 25
+                    "name": "Mud Creek",
+                    "votes": 132
                   },
                   {
-                    "name": "New Home",
-                    "votes": 13
-                  },
-                  {
-                    "name": "West Brow",
-                    "votes": 53
-                  },
-                  {
-                    "name": "Trenton",
-                    "votes": 61
-                  },
-                  {
-                    "name": "North Dade",
-                    "votes": 90
+                    "name": "Amys Creek",
+                    "votes": 102
                   }
                 ]
               },
@@ -1128,31 +1128,31 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "South Dade",
+                    "name": "Habersham North",
                     "votes": 0
                   },
                   {
-                    "name": "New Salem",
+                    "name": "Habersham South",
                     "votes": 0
                   },
                   {
-                    "name": "Davis",
+                    "name": "Demorest",
                     "votes": 0
                   },
                   {
-                    "name": "New Home",
+                    "name": "Town of Mt Airy",
                     "votes": 0
                   },
                   {
-                    "name": "West Brow",
+                    "name": "City of Baldwin",
                     "votes": 0
                   },
                   {
-                    "name": "Trenton",
+                    "name": "Mud Creek",
                     "votes": 0
                   },
                   {
-                    "name": "North Dade",
+                    "name": "Amys Creek",
                     "votes": 0
                   }
                 ]

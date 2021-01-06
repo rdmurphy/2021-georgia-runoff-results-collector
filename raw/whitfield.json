@@ -1,35 +1,35 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:06:05 PM EST",
+    "Timestamp": "1/5/2021 8:22:43 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Whitfield",
     "VoterTurnout": {
       "totalVoters": 55932,
-      "ballotsCast": 0,
-      "voterTurnout": 0.0,
+      "ballotsCast": 4259,
+      "voterTurnout": 7.61,
       "Precincts": {
         "Precinct": [
           {
             "name": "1A",
             "totalVoters": 2582,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 358,
+            "voterTurnout": 13.87,
+            "percentReporting": "2"
           },
           {
             "name": "2A",
             "totalVoters": 3131,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 639,
+            "voterTurnout": 20.41,
+            "percentReporting": "2"
           },
           {
             "name": "3A",
             "totalVoters": 2250,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 509,
+            "voterTurnout": 22.62,
+            "percentReporting": "2"
           },
           {
             "name": "4A",
@@ -41,9 +41,9 @@
           {
             "name": "5A",
             "totalVoters": 2278,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 413,
+            "voterTurnout": 18.13,
+            "percentReporting": "2"
           },
           {
             "name": "6A",
@@ -55,9 +55,9 @@
           {
             "name": "AN",
             "totalVoters": 2548,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 466,
+            "voterTurnout": 18.29,
+            "percentReporting": "2"
           },
           {
             "name": "CA",
@@ -83,9 +83,9 @@
           {
             "name": "ES",
             "totalVoters": 1760,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 388,
+            "voterTurnout": 22.05,
+            "percentReporting": "2"
           },
           {
             "name": "FI",
@@ -160,9 +160,9 @@
           {
             "name": "VA",
             "totalVoters": 5350,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 1486,
+            "voterTurnout": 27.78,
+            "percentReporting": "2"
           },
           {
             "name": "WS",
@@ -185,11 +185,11 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 0,
+            "votes": 5,
             "Precinct": [
               {
                 "name": "1A",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "2A",
@@ -197,7 +197,7 @@
               },
               {
                 "name": "3A",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "4A",
@@ -205,7 +205,7 @@
               },
               {
                 "name": "5A",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "6A",
@@ -213,7 +213,7 @@
               },
               {
                 "name": "AN",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "CA",
@@ -273,7 +273,7 @@
               },
               {
                 "name": "VA",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "WS",
@@ -384,23 +384,23 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 0,
+            "totalVotes": 2928,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 2928,
                 "Precinct": [
                   {
                     "name": "1A",
-                    "votes": 0
+                    "votes": 174
                   },
                   {
                     "name": "2A",
-                    "votes": 0
+                    "votes": 463
                   },
                   {
                     "name": "3A",
-                    "votes": 0
+                    "votes": 359
                   },
                   {
                     "name": "4A",
@@ -408,7 +408,7 @@
                   },
                   {
                     "name": "5A",
-                    "votes": 0
+                    "votes": 124
                   },
                   {
                     "name": "6A",
@@ -416,7 +416,7 @@
                   },
                   {
                     "name": "AN",
-                    "votes": 0
+                    "votes": 268
                   },
                   {
                     "name": "CA",
@@ -432,7 +432,7 @@
                   },
                   {
                     "name": "ES",
-                    "votes": 0
+                    "votes": 279
                   },
                   {
                     "name": "FI",
@@ -476,7 +476,7 @@
                   },
                   {
                     "name": "VA",
-                    "votes": 0
+                    "votes": 1261
                   },
                   {
                     "name": "WS",
@@ -783,23 +783,23 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 0,
+            "totalVotes": 1326,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 1326,
                 "Precinct": [
                   {
                     "name": "1A",
-                    "votes": 0
+                    "votes": 183
                   },
                   {
                     "name": "2A",
-                    "votes": 0
+                    "votes": 176
                   },
                   {
                     "name": "3A",
-                    "votes": 0
+                    "votes": 149
                   },
                   {
                     "name": "4A",
@@ -807,7 +807,7 @@
                   },
                   {
                     "name": "5A",
-                    "votes": 0
+                    "votes": 288
                   },
                   {
                     "name": "6A",
@@ -815,7 +815,7 @@
                   },
                   {
                     "name": "AN",
-                    "votes": 0
+                    "votes": 197
                   },
                   {
                     "name": "CA",
@@ -831,7 +831,7 @@
                   },
                   {
                     "name": "ES",
-                    "votes": 0
+                    "votes": 109
                   },
                   {
                     "name": "FI",
@@ -875,7 +875,7 @@
                   },
                   {
                     "name": "VA",
-                    "votes": 0
+                    "votes": 224
                   },
                   {
                     "name": "WS",
@@ -1191,11 +1191,11 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 0,
+            "votes": 6,
             "Precinct": [
               {
                 "name": "1A",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "2A",
@@ -1219,7 +1219,7 @@
               },
               {
                 "name": "AN",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "CA",
@@ -1279,7 +1279,7 @@
               },
               {
                 "name": "VA",
-                "votes": 0
+                "votes": 3
               },
               {
                 "name": "WS",
@@ -1390,23 +1390,23 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 0,
+            "totalVotes": 2933,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 2933,
                 "Precinct": [
                   {
                     "name": "1A",
-                    "votes": 0
+                    "votes": 176
                   },
                   {
                     "name": "2A",
-                    "votes": 0
+                    "votes": 466
                   },
                   {
                     "name": "3A",
-                    "votes": 0
+                    "votes": 360
                   },
                   {
                     "name": "4A",
@@ -1414,7 +1414,7 @@
                   },
                   {
                     "name": "5A",
-                    "votes": 0
+                    "votes": 123
                   },
                   {
                     "name": "6A",
@@ -1422,7 +1422,7 @@
                   },
                   {
                     "name": "AN",
-                    "votes": 0
+                    "votes": 271
                   },
                   {
                     "name": "CA",
@@ -1438,7 +1438,7 @@
                   },
                   {
                     "name": "ES",
-                    "votes": 0
+                    "votes": 277
                   },
                   {
                     "name": "FI",
@@ -1482,7 +1482,7 @@
                   },
                   {
                     "name": "VA",
-                    "votes": 0
+                    "votes": 1260
                   },
                   {
                     "name": "WS",
@@ -1789,23 +1789,23 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 0,
+            "totalVotes": 1320,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 1320,
                 "Precinct": [
                   {
                     "name": "1A",
-                    "votes": 0
+                    "votes": 180
                   },
                   {
                     "name": "2A",
-                    "votes": 0
+                    "votes": 173
                   },
                   {
                     "name": "3A",
-                    "votes": 0
+                    "votes": 149
                   },
                   {
                     "name": "4A",
@@ -1813,7 +1813,7 @@
                   },
                   {
                     "name": "5A",
-                    "votes": 0
+                    "votes": 290
                   },
                   {
                     "name": "6A",
@@ -1821,7 +1821,7 @@
                   },
                   {
                     "name": "AN",
-                    "votes": 0
+                    "votes": 194
                   },
                   {
                     "name": "CA",
@@ -1837,7 +1837,7 @@
                   },
                   {
                     "name": "ES",
-                    "votes": 0
+                    "votes": 111
                   },
                   {
                     "name": "FI",
@@ -1881,7 +1881,7 @@
                   },
                   {
                     "name": "VA",
-                    "votes": 0
+                    "votes": 223
                   },
                   {
                     "name": "WS",
@@ -2197,19 +2197,19 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 0,
+            "votes": 54,
             "Precinct": [
               {
                 "name": "1A",
-                "votes": 0
+                "votes": 5
               },
               {
                 "name": "2A",
-                "votes": 0
+                "votes": 7
               },
               {
                 "name": "3A",
-                "votes": 0
+                "votes": 4
               },
               {
                 "name": "4A",
@@ -2217,7 +2217,7 @@
               },
               {
                 "name": "5A",
-                "votes": 0
+                "votes": 6
               },
               {
                 "name": "6A",
@@ -2225,7 +2225,7 @@
               },
               {
                 "name": "AN",
-                "votes": 0
+                "votes": 10
               },
               {
                 "name": "CA",
@@ -2241,7 +2241,7 @@
               },
               {
                 "name": "ES",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "FI",
@@ -2285,7 +2285,7 @@
               },
               {
                 "name": "VA",
-                "votes": 0
+                "votes": 20
               },
               {
                 "name": "WS",
@@ -2396,23 +2396,23 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 0,
+            "totalVotes": 2938,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 2938,
                 "Precinct": [
                   {
                     "name": "1A",
-                    "votes": 0
+                    "votes": 180
                   },
                   {
                     "name": "2A",
-                    "votes": 0
+                    "votes": 480
                   },
                   {
                     "name": "3A",
-                    "votes": 0
+                    "votes": 369
                   },
                   {
                     "name": "4A",
@@ -2420,7 +2420,7 @@
                   },
                   {
                     "name": "5A",
-                    "votes": 0
+                    "votes": 123
                   },
                   {
                     "name": "6A",
@@ -2428,7 +2428,7 @@
                   },
                   {
                     "name": "AN",
-                    "votes": 0
+                    "votes": 261
                   },
                   {
                     "name": "CA",
@@ -2444,7 +2444,7 @@
                   },
                   {
                     "name": "ES",
-                    "votes": 0
+                    "votes": 279
                   },
                   {
                     "name": "FI",
@@ -2488,7 +2488,7 @@
                   },
                   {
                     "name": "VA",
-                    "votes": 0
+                    "votes": 1246
                   },
                   {
                     "name": "WS",
@@ -2795,23 +2795,23 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 0,
+            "totalVotes": 1267,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 0,
+                "votes": 1267,
                 "Precinct": [
                   {
                     "name": "1A",
-                    "votes": 0
+                    "votes": 173
                   },
                   {
                     "name": "2A",
-                    "votes": 0
+                    "votes": 152
                   },
                   {
                     "name": "3A",
-                    "votes": 0
+                    "votes": 136
                   },
                   {
                     "name": "4A",
@@ -2819,7 +2819,7 @@
                   },
                   {
                     "name": "5A",
-                    "votes": 0
+                    "votes": 284
                   },
                   {
                     "name": "6A",
@@ -2827,7 +2827,7 @@
                   },
                   {
                     "name": "AN",
-                    "votes": 0
+                    "votes": 195
                   },
                   {
                     "name": "CA",
@@ -2843,7 +2843,7 @@
                   },
                   {
                     "name": "ES",
-                    "votes": 0
+                    "votes": 107
                   },
                   {
                     "name": "FI",
@@ -2887,7 +2887,7 @@
                   },
                   {
                     "name": "VA",
-                    "votes": 0
+                    "votes": 220
                   },
                   {
                     "name": "WS",

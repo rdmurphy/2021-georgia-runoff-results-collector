@@ -1,0 +1,404 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:47:46 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Miller",
+    "VoterTurnout": {
+      "totalVoters": 3984,
+      "ballotsCast": 2460,
+      "voterTurnout": 61.75,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Colquitt-Miller",
+            "totalVoters": 3984,
+            "ballotsCast": 2460,
+            "voterTurnout": 61.75,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 1,
+        "precinctsReported": 1,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 12,
+            "Precinct": [
+              {
+                "name": "Colquitt-Miller",
+                "votes": 12
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Colquitt-Miller",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 1798,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 575,
+                "Precinct": [
+                  {
+                    "name": "Colquitt-Miller",
+                    "votes": 575
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1048,
+                "Precinct": [
+                  {
+                    "name": "Colquitt-Miller",
+                    "votes": 1048
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 175,
+                "Precinct": [
+                  {
+                    "name": "Colquitt-Miller",
+                    "votes": 175
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Colquitt-Miller",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 650,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 217,
+                "Precinct": [
+                  {
+                    "name": "Colquitt-Miller",
+                    "votes": 217
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 260,
+                "Precinct": [
+                  {
+                    "name": "Colquitt-Miller",
+                    "votes": 260
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 173,
+                "Precinct": [
+                  {
+                    "name": "Colquitt-Miller",
+                    "votes": 173
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Colquitt-Miller",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 1,
+        "precinctsReported": 1,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 6,
+            "Precinct": [
+              {
+                "name": "Colquitt-Miller",
+                "votes": 6
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 2,
+            "Precinct": [
+              {
+                "name": "Colquitt-Miller",
+                "votes": 2
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 1801,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 578,
+                "Precinct": [
+                  {
+                    "name": "Colquitt-Miller",
+                    "votes": 578
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1049,
+                "Precinct": [
+                  {
+                    "name": "Colquitt-Miller",
+                    "votes": 1049
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 174,
+                "Precinct": [
+                  {
+                    "name": "Colquitt-Miller",
+                    "votes": 174
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Colquitt-Miller",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 651,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 216,
+                "Precinct": [
+                  {
+                    "name": "Colquitt-Miller",
+                    "votes": 216
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 260,
+                "Precinct": [
+                  {
+                    "name": "Colquitt-Miller",
+                    "votes": 260
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 175,
+                "Precinct": [
+                  {
+                    "name": "Colquitt-Miller",
+                    "votes": 175
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Colquitt-Miller",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 1,
+        "precinctsReported": 1,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 60,
+            "Precinct": [
+              {
+                "name": "Colquitt-Miller",
+                "votes": 60
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Colquitt-Miller",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 1770,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 576,
+                "Precinct": [
+                  {
+                    "name": "Colquitt-Miller",
+                    "votes": 576
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1025,
+                "Precinct": [
+                  {
+                    "name": "Colquitt-Miller",
+                    "votes": 1025
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 169,
+                "Precinct": [
+                  {
+                    "name": "Colquitt-Miller",
+                    "votes": 169
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Colquitt-Miller",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 630,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 208,
+                "Precinct": [
+                  {
+                    "name": "Colquitt-Miller",
+                    "votes": 208
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 248,
+                "Precinct": [
+                  {
+                    "name": "Colquitt-Miller",
+                    "votes": 248
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 174,
+                "Precinct": [
+                  {
+                    "name": "Colquitt-Miller",
+                    "votes": 174
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Colquitt-Miller",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

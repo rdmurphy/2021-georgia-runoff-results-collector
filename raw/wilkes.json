@@ -1,21 +1,21 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:03:08 PM EST",
+    "Timestamp": "1/5/2021 8:39:49 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Wilkes",
     "VoterTurnout": {
       "totalVoters": 6914,
-      "ballotsCast": 3823,
-      "voterTurnout": 55.29,
+      "ballotsCast": 4537,
+      "voterTurnout": 65.62,
       "Precincts": {
         "Precinct": [
           {
             "name": "Senior Citizen Center",
             "totalVoters": 1568,
-            "ballotsCast": 732,
-            "voterTurnout": 46.68,
-            "percentReporting": "2"
+            "ballotsCast": 973,
+            "voterTurnout": 62.05,
+            "percentReporting": "4"
           },
           {
             "name": "Young Farmers Bldg",
@@ -41,9 +41,9 @@
           {
             "name": "Rayle City Hall",
             "totalVoters": 578,
-            "ballotsCast": 186,
-            "voterTurnout": 32.18,
-            "percentReporting": "2"
+            "ballotsCast": 377,
+            "voterTurnout": 65.22,
+            "percentReporting": "4"
           },
           {
             "name": "Courthouse",
@@ -55,9 +55,9 @@
           {
             "name": "Tignal Sch Lunch Rm",
             "totalVoters": 906,
-            "ballotsCast": 345,
-            "voterTurnout": 38.08,
-            "percentReporting": "2"
+            "ballotsCast": 627,
+            "voterTurnout": 69.21,
+            "percentReporting": "4"
           }
         ]
       }
@@ -69,11 +69,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 7,
-        "precinctsReported": 4,
+        "precinctsReported": 7,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 16,
+            "votes": 17,
             "Precinct": [
               {
                 "name": "Senior Citizen Center",
@@ -93,7 +93,7 @@
               },
               {
                 "name": "Rayle City Hall",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Courthouse",
@@ -144,15 +144,15 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 2129,
+            "totalVotes": 2576,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 465,
+                "votes": 912,
                 "Precinct": [
                   {
                     "name": "Senior Citizen Center",
-                    "votes": 0
+                    "votes": 92
                   },
                   {
                     "name": "Young Farmers Bldg",
@@ -168,7 +168,7 @@
                   },
                   {
                     "name": "Rayle City Hall",
-                    "votes": 0
+                    "votes": 151
                   },
                   {
                     "name": "Courthouse",
@@ -176,7 +176,7 @@
                   },
                   {
                     "name": "Tignal Sch Lunch Rm",
-                    "votes": 0
+                    "votes": 204
                   }
                 ]
               },
@@ -287,15 +287,15 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 1678,
+            "totalVotes": 1944,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 248,
+                "votes": 514,
                 "Precinct": [
                   {
                     "name": "Senior Citizen Center",
-                    "votes": 0
+                    "votes": 149
                   },
                   {
                     "name": "Young Farmers Bldg",
@@ -311,7 +311,7 @@
                   },
                   {
                     "name": "Rayle City Hall",
-                    "votes": 0
+                    "votes": 39
                   },
                   {
                     "name": "Courthouse",
@@ -319,7 +319,7 @@
                   },
                   {
                     "name": "Tignal Sch Lunch Rm",
-                    "votes": 0
+                    "votes": 78
                   }
                 ]
               },
@@ -435,15 +435,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 7,
-        "precinctsReported": 4,
+        "precinctsReported": 7,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 8,
+            "votes": 9,
             "Precinct": [
               {
                 "name": "Senior Citizen Center",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "Young Farmers Bldg",
@@ -510,15 +510,15 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 2132,
+            "totalVotes": 2577,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 470,
+                "votes": 915,
                 "Precinct": [
                   {
                     "name": "Senior Citizen Center",
-                    "votes": 0
+                    "votes": 91
                   },
                   {
                     "name": "Young Farmers Bldg",
@@ -534,7 +534,7 @@
                   },
                   {
                     "name": "Rayle City Hall",
-                    "votes": 0
+                    "votes": 150
                   },
                   {
                     "name": "Courthouse",
@@ -542,7 +542,7 @@
                   },
                   {
                     "name": "Tignal Sch Lunch Rm",
-                    "votes": 0
+                    "votes": 204
                   }
                 ]
               },
@@ -653,15 +653,15 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 1683,
+            "totalVotes": 1951,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 245,
+                "votes": 513,
                 "Precinct": [
                   {
                     "name": "Senior Citizen Center",
-                    "votes": 0
+                    "votes": 149
                   },
                   {
                     "name": "Young Farmers Bldg",
@@ -677,7 +677,7 @@
                   },
                   {
                     "name": "Rayle City Hall",
-                    "votes": 0
+                    "votes": 41
                   },
                   {
                     "name": "Courthouse",
@@ -685,7 +685,7 @@
                   },
                   {
                     "name": "Tignal Sch Lunch Rm",
-                    "votes": 0
+                    "votes": 78
                   }
                 ]
               },
@@ -801,15 +801,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 7,
-        "precinctsReported": 4,
+        "precinctsReported": 7,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 63,
+            "votes": 83,
             "Precinct": [
               {
                 "name": "Senior Citizen Center",
-                "votes": 15
+                "votes": 22
               },
               {
                 "name": "Young Farmers Bldg",
@@ -825,7 +825,7 @@
               },
               {
                 "name": "Rayle City Hall",
-                "votes": 1
+                "votes": 7
               },
               {
                 "name": "Courthouse",
@@ -833,7 +833,7 @@
               },
               {
                 "name": "Tignal Sch Lunch Rm",
-                "votes": 5
+                "votes": 12
               }
             ]
           },
@@ -876,15 +876,15 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 2132,
+            "totalVotes": 2575,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 467,
+                "votes": 910,
                 "Precinct": [
                   {
                     "name": "Senior Citizen Center",
-                    "votes": 0
+                    "votes": 92
                   },
                   {
                     "name": "Young Farmers Bldg",
@@ -900,7 +900,7 @@
                   },
                   {
                     "name": "Rayle City Hall",
-                    "votes": 0
+                    "votes": 149
                   },
                   {
                     "name": "Courthouse",
@@ -908,7 +908,7 @@
                   },
                   {
                     "name": "Tignal Sch Lunch Rm",
-                    "votes": 0
+                    "votes": 202
                   }
                 ]
               },
@@ -1019,15 +1019,15 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 1628,
+            "totalVotes": 1879,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 237,
+                "votes": 488,
                 "Precinct": [
                   {
                     "name": "Senior Citizen Center",
-                    "votes": 0
+                    "votes": 142
                   },
                   {
                     "name": "Young Farmers Bldg",
@@ -1043,7 +1043,7 @@
                   },
                   {
                     "name": "Rayle City Hall",
-                    "votes": 0
+                    "votes": 36
                   },
                   {
                     "name": "Courthouse",
@@ -1051,7 +1051,7 @@
                   },
                   {
                     "name": "Tignal Sch Lunch Rm",
-                    "votes": 0
+                    "votes": 73
                   }
                 ]
               },

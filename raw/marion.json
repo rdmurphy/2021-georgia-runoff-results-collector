@@ -1,48 +1,48 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:39:31 PM EST",
+    "Timestamp": "1/5/2021 8:41:25 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
-    "Region": "Twiggs",
+    "Region": "Marion",
     "VoterTurnout": {
-      "totalVoters": 6353,
-      "ballotsCast": 3947,
-      "voterTurnout": 62.13,
+      "totalVoters": 5042,
+      "ballotsCast": 3219,
+      "voterTurnout": 63.84,
       "Precincts": {
         "Precinct": [
           {
-            "name": "Dry Branch",
-            "totalVoters": 1569,
-            "ballotsCast": 851,
-            "voterTurnout": 54.24,
+            "name": "Pineknot",
+            "totalVoters": 985,
+            "ballotsCast": 594,
+            "voterTurnout": 60.3,
             "percentReporting": "4"
           },
           {
-            "name": "Golden Isles",
-            "totalVoters": 1705,
-            "ballotsCast": 1079,
-            "voterTurnout": 63.28,
+            "name": "Buena Vista",
+            "totalVoters": 2413,
+            "ballotsCast": 1630,
+            "voterTurnout": 67.55,
             "percentReporting": "4"
           },
           {
-            "name": "Higgsville",
-            "totalVoters": 766,
-            "ballotsCast": 500,
-            "voterTurnout": 65.27,
+            "name": "Tazewell",
+            "totalVoters": 329,
+            "ballotsCast": 228,
+            "voterTurnout": 69.3,
             "percentReporting": "4"
           },
           {
-            "name": "Jeffersonville/Ware",
-            "totalVoters": 1461,
-            "ballotsCast": 985,
-            "voterTurnout": 67.42,
+            "name": "Brantley",
+            "totalVoters": 402,
+            "ballotsCast": 284,
+            "voterTurnout": 70.65,
             "percentReporting": "4"
           },
           {
-            "name": "Shady Grove/Tarvers",
-            "totalVoters": 852,
-            "ballotsCast": 532,
-            "voterTurnout": 62.44,
+            "name": "Fort Perry",
+            "totalVoters": 913,
+            "ballotsCast": 483,
+            "voterTurnout": 52.9,
             "percentReporting": "4"
           }
         ]
@@ -59,27 +59,27 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 17,
+            "votes": 4,
             "Precinct": [
               {
-                "name": "Dry Branch",
+                "name": "Pineknot",
                 "votes": 2
               },
               {
-                "name": "Golden Isles",
-                "votes": 9
+                "name": "Buena Vista",
+                "votes": 2
               },
               {
-                "name": "Higgsville",
+                "name": "Tazewell",
                 "votes": 0
               },
               {
-                "name": "Jeffersonville/Ware",
-                "votes": 5
+                "name": "Brantley",
+                "votes": 0
               },
               {
-                "name": "Shady Grove/Tarvers",
-                "votes": 1
+                "name": "Fort Perry",
+                "votes": 0
               }
             ]
           },
@@ -88,23 +88,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Dry Branch",
+                "name": "Pineknot",
                 "votes": 0
               },
               {
-                "name": "Golden Isles",
+                "name": "Buena Vista",
                 "votes": 0
               },
               {
-                "name": "Higgsville",
+                "name": "Tazewell",
                 "votes": 0
               },
               {
-                "name": "Jeffersonville/Ware",
+                "name": "Brantley",
                 "votes": 0
               },
               {
-                "name": "Shady Grove/Tarvers",
+                "name": "Fort Perry",
                 "votes": 0
               }
             ]
@@ -114,83 +114,83 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 2057,
+            "totalVotes": 1998,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1013,
+                "votes": 894,
                 "Precinct": [
                   {
-                    "name": "Dry Branch",
-                    "votes": 357
+                    "name": "Pineknot",
+                    "votes": 319
                   },
                   {
-                    "name": "Golden Isles",
-                    "votes": 237
+                    "name": "Buena Vista",
+                    "votes": 165
                   },
                   {
-                    "name": "Higgsville",
-                    "votes": 187
+                    "name": "Tazewell",
+                    "votes": 106
                   },
                   {
-                    "name": "Jeffersonville/Ware",
-                    "votes": 125
+                    "name": "Brantley",
+                    "votes": 109
                   },
                   {
-                    "name": "Shady Grove/Tarvers",
-                    "votes": 107
+                    "name": "Fort Perry",
+                    "votes": 195
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 809,
+                "votes": 873,
                 "Precinct": [
                   {
-                    "name": "Dry Branch",
-                    "votes": 214
+                    "name": "Pineknot",
+                    "votes": 165
                   },
                   {
-                    "name": "Golden Isles",
-                    "votes": 157
+                    "name": "Buena Vista",
+                    "votes": 391
                   },
                   {
-                    "name": "Higgsville",
-                    "votes": 130
+                    "name": "Tazewell",
+                    "votes": 63
                   },
                   {
-                    "name": "Jeffersonville/Ware",
-                    "votes": 185
+                    "name": "Brantley",
+                    "votes": 110
                   },
                   {
-                    "name": "Shady Grove/Tarvers",
-                    "votes": 123
+                    "name": "Fort Perry",
+                    "votes": 144
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 235,
+                "votes": 231,
                 "Precinct": [
                   {
-                    "name": "Dry Branch",
-                    "votes": 97
-                  },
-                  {
-                    "name": "Golden Isles",
+                    "name": "Pineknot",
                     "votes": 42
                   },
                   {
-                    "name": "Higgsville",
-                    "votes": 40
+                    "name": "Buena Vista",
+                    "votes": 104
                   },
                   {
-                    "name": "Jeffersonville/Ware",
+                    "name": "Tazewell",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Brantley",
                     "votes": 26
                   },
                   {
-                    "name": "Shady Grove/Tarvers",
-                    "votes": 30
+                    "name": "Fort Perry",
+                    "votes": 45
                   }
                 ]
               },
@@ -199,23 +199,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Dry Branch",
+                    "name": "Pineknot",
                     "votes": 0
                   },
                   {
-                    "name": "Golden Isles",
+                    "name": "Buena Vista",
                     "votes": 0
                   },
                   {
-                    "name": "Higgsville",
+                    "name": "Tazewell",
                     "votes": 0
                   },
                   {
-                    "name": "Jeffersonville/Ware",
+                    "name": "Brantley",
                     "votes": 0
                   },
                   {
-                    "name": "Shady Grove/Tarvers",
+                    "name": "Fort Perry",
                     "votes": 0
                   }
                 ]
@@ -225,83 +225,83 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 1873,
+            "totalVotes": 1217,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 480,
+                "votes": 237,
                 "Precinct": [
                   {
-                    "name": "Dry Branch",
-                    "votes": 55
+                    "name": "Pineknot",
+                    "votes": 18
                   },
                   {
-                    "name": "Golden Isles",
-                    "votes": 178
+                    "name": "Buena Vista",
+                    "votes": 177
                   },
                   {
-                    "name": "Higgsville",
-                    "votes": 45
+                    "name": "Tazewell",
+                    "votes": 11
                   },
                   {
-                    "name": "Jeffersonville/Ware",
-                    "votes": 131
+                    "name": "Brantley",
+                    "votes": 7
                   },
                   {
-                    "name": "Shady Grove/Tarvers",
-                    "votes": 71
+                    "name": "Fort Perry",
+                    "votes": 24
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 727,
+                "votes": 571,
                 "Precinct": [
                   {
-                    "name": "Dry Branch",
-                    "votes": 77
+                    "name": "Pineknot",
+                    "votes": 24
                   },
                   {
-                    "name": "Golden Isles",
-                    "votes": 225
+                    "name": "Buena Vista",
+                    "votes": 483
                   },
                   {
-                    "name": "Higgsville",
-                    "votes": 61
+                    "name": "Tazewell",
+                    "votes": 13
                   },
                   {
-                    "name": "Jeffersonville/Ware",
-                    "votes": 278
+                    "name": "Brantley",
+                    "votes": 12
                   },
                   {
-                    "name": "Shady Grove/Tarvers",
-                    "votes": 86
+                    "name": "Fort Perry",
+                    "votes": 39
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 666,
+                "votes": 409,
                 "Precinct": [
                   {
-                    "name": "Dry Branch",
-                    "votes": 49
+                    "name": "Pineknot",
+                    "votes": 24
                   },
                   {
-                    "name": "Golden Isles",
-                    "votes": 231
+                    "name": "Buena Vista",
+                    "votes": 308
                   },
                   {
-                    "name": "Higgsville",
-                    "votes": 37
+                    "name": "Tazewell",
+                    "votes": 21
                   },
                   {
-                    "name": "Jeffersonville/Ware",
-                    "votes": 235
+                    "name": "Brantley",
+                    "votes": 20
                   },
                   {
-                    "name": "Shady Grove/Tarvers",
-                    "votes": 114
+                    "name": "Fort Perry",
+                    "votes": 36
                   }
                 ]
               },
@@ -310,23 +310,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Dry Branch",
+                    "name": "Pineknot",
                     "votes": 0
                   },
                   {
-                    "name": "Golden Isles",
+                    "name": "Buena Vista",
                     "votes": 0
                   },
                   {
-                    "name": "Higgsville",
+                    "name": "Tazewell",
                     "votes": 0
                   },
                   {
-                    "name": "Jeffersonville/Ware",
+                    "name": "Brantley",
                     "votes": 0
                   },
                   {
-                    "name": "Shady Grove/Tarvers",
+                    "name": "Fort Perry",
                     "votes": 0
                   }
                 ]
@@ -345,27 +345,27 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 11,
+            "votes": 8,
             "Precinct": [
               {
-                "name": "Dry Branch",
+                "name": "Pineknot",
                 "votes": 2
               },
               {
-                "name": "Golden Isles",
-                "votes": 2
+                "name": "Buena Vista",
+                "votes": 5
               },
               {
-                "name": "Higgsville",
+                "name": "Tazewell",
                 "votes": 1
               },
               {
-                "name": "Jeffersonville/Ware",
-                "votes": 4
+                "name": "Brantley",
+                "votes": 0
               },
               {
-                "name": "Shady Grove/Tarvers",
-                "votes": 2
+                "name": "Fort Perry",
+                "votes": 0
               }
             ]
           },
@@ -374,23 +374,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Dry Branch",
+                "name": "Pineknot",
                 "votes": 0
               },
               {
-                "name": "Golden Isles",
+                "name": "Buena Vista",
                 "votes": 0
               },
               {
-                "name": "Higgsville",
+                "name": "Tazewell",
                 "votes": 0
               },
               {
-                "name": "Jeffersonville/Ware",
+                "name": "Brantley",
                 "votes": 0
               },
               {
-                "name": "Shady Grove/Tarvers",
+                "name": "Fort Perry",
                 "votes": 0
               }
             ]
@@ -400,83 +400,83 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 2042,
+            "totalVotes": 1994,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1003,
+                "votes": 893,
                 "Precinct": [
                   {
-                    "name": "Dry Branch",
-                    "votes": 358
+                    "name": "Pineknot",
+                    "votes": 317
                   },
                   {
-                    "name": "Golden Isles",
-                    "votes": 235
+                    "name": "Buena Vista",
+                    "votes": 166
                   },
                   {
-                    "name": "Higgsville",
-                    "votes": 186
-                  },
-                  {
-                    "name": "Jeffersonville/Ware",
-                    "votes": 119
-                  },
-                  {
-                    "name": "Shady Grove/Tarvers",
+                    "name": "Tazewell",
                     "votes": 105
+                  },
+                  {
+                    "name": "Brantley",
+                    "votes": 109
+                  },
+                  {
+                    "name": "Fort Perry",
+                    "votes": 196
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 808,
+                "votes": 874,
                 "Precinct": [
                   {
-                    "name": "Dry Branch",
-                    "votes": 214
+                    "name": "Pineknot",
+                    "votes": 164
                   },
                   {
-                    "name": "Golden Isles",
-                    "votes": 156
+                    "name": "Buena Vista",
+                    "votes": 393
                   },
                   {
-                    "name": "Higgsville",
-                    "votes": 129
+                    "name": "Tazewell",
+                    "votes": 63
                   },
                   {
-                    "name": "Jeffersonville/Ware",
-                    "votes": 186
+                    "name": "Brantley",
+                    "votes": 110
                   },
                   {
-                    "name": "Shady Grove/Tarvers",
-                    "votes": 123
+                    "name": "Fort Perry",
+                    "votes": 144
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 231,
+                "votes": 227,
                 "Precinct": [
                   {
-                    "name": "Dry Branch",
-                    "votes": 97
-                  },
-                  {
-                    "name": "Golden Isles",
+                    "name": "Pineknot",
                     "votes": 42
                   },
                   {
-                    "name": "Higgsville",
-                    "votes": 40
+                    "name": "Buena Vista",
+                    "votes": 101
                   },
                   {
-                    "name": "Jeffersonville/Ware",
+                    "name": "Tazewell",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Brantley",
                     "votes": 26
                   },
                   {
-                    "name": "Shady Grove/Tarvers",
-                    "votes": 26
+                    "name": "Fort Perry",
+                    "votes": 44
                   }
                 ]
               },
@@ -485,23 +485,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Dry Branch",
+                    "name": "Pineknot",
                     "votes": 0
                   },
                   {
-                    "name": "Golden Isles",
+                    "name": "Buena Vista",
                     "votes": 0
                   },
                   {
-                    "name": "Higgsville",
+                    "name": "Tazewell",
                     "votes": 0
                   },
                   {
-                    "name": "Jeffersonville/Ware",
+                    "name": "Brantley",
                     "votes": 0
                   },
                   {
-                    "name": "Shady Grove/Tarvers",
+                    "name": "Fort Perry",
                     "votes": 0
                   }
                 ]
@@ -511,83 +511,83 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 1894,
+            "totalVotes": 1217,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 493,
+                "votes": 237,
                 "Precinct": [
                   {
-                    "name": "Dry Branch",
-                    "votes": 54
+                    "name": "Pineknot",
+                    "votes": 20
                   },
                   {
-                    "name": "Golden Isles",
-                    "votes": 185
+                    "name": "Buena Vista",
+                    "votes": 175
                   },
                   {
-                    "name": "Higgsville",
-                    "votes": 45
+                    "name": "Tazewell",
+                    "votes": 12
                   },
                   {
-                    "name": "Jeffersonville/Ware",
-                    "votes": 137
+                    "name": "Brantley",
+                    "votes": 7
                   },
                   {
-                    "name": "Shady Grove/Tarvers",
-                    "votes": 72
+                    "name": "Fort Perry",
+                    "votes": 23
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 730,
+                "votes": 568,
                 "Precinct": [
                   {
-                    "name": "Dry Branch",
-                    "votes": 77
+                    "name": "Pineknot",
+                    "votes": 25
                   },
                   {
-                    "name": "Golden Isles",
-                    "votes": 227
+                    "name": "Buena Vista",
+                    "votes": 479
                   },
                   {
-                    "name": "Higgsville",
-                    "votes": 62
+                    "name": "Tazewell",
+                    "votes": 13
                   },
                   {
-                    "name": "Jeffersonville/Ware",
-                    "votes": 278
+                    "name": "Brantley",
+                    "votes": 12
                   },
                   {
-                    "name": "Shady Grove/Tarvers",
-                    "votes": 86
+                    "name": "Fort Perry",
+                    "votes": 39
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 671,
+                "votes": 412,
                 "Precinct": [
                   {
-                    "name": "Dry Branch",
-                    "votes": 49
+                    "name": "Pineknot",
+                    "votes": 24
                   },
                   {
-                    "name": "Golden Isles",
-                    "votes": 232
+                    "name": "Buena Vista",
+                    "votes": 311
                   },
                   {
-                    "name": "Higgsville",
+                    "name": "Tazewell",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Brantley",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Fort Perry",
                     "votes": 37
-                  },
-                  {
-                    "name": "Jeffersonville/Ware",
-                    "votes": 235
-                  },
-                  {
-                    "name": "Shady Grove/Tarvers",
-                    "votes": 118
                   }
                 ]
               },
@@ -596,23 +596,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Dry Branch",
+                    "name": "Pineknot",
                     "votes": 0
                   },
                   {
-                    "name": "Golden Isles",
+                    "name": "Buena Vista",
                     "votes": 0
                   },
                   {
-                    "name": "Higgsville",
+                    "name": "Tazewell",
                     "votes": 0
                   },
                   {
-                    "name": "Jeffersonville/Ware",
+                    "name": "Brantley",
                     "votes": 0
                   },
                   {
-                    "name": "Shady Grove/Tarvers",
+                    "name": "Fort Perry",
                     "votes": 0
                   }
                 ]
@@ -631,27 +631,27 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 101,
+            "votes": 56,
             "Precinct": [
               {
-                "name": "Dry Branch",
-                "votes": 22
-              },
-              {
-                "name": "Golden Isles",
-                "votes": 23
-              },
-              {
-                "name": "Higgsville",
+                "name": "Pineknot",
                 "votes": 10
               },
               {
-                "name": "Jeffersonville/Ware",
-                "votes": 28
+                "name": "Buena Vista",
+                "votes": 35
               },
               {
-                "name": "Shady Grove/Tarvers",
-                "votes": 18
+                "name": "Tazewell",
+                "votes": 0
+              },
+              {
+                "name": "Brantley",
+                "votes": 0
+              },
+              {
+                "name": "Fort Perry",
+                "votes": 11
               }
             ]
           },
@@ -660,23 +660,23 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Dry Branch",
+                "name": "Pineknot",
                 "votes": 0
               },
               {
-                "name": "Golden Isles",
+                "name": "Buena Vista",
                 "votes": 0
               },
               {
-                "name": "Higgsville",
+                "name": "Tazewell",
                 "votes": 0
               },
               {
-                "name": "Jeffersonville/Ware",
+                "name": "Brantley",
                 "votes": 0
               },
               {
-                "name": "Shady Grove/Tarvers",
+                "name": "Fort Perry",
                 "votes": 0
               }
             ]
@@ -686,83 +686,83 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 2032,
+            "totalVotes": 1990,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1001,
+                "votes": 891,
                 "Precinct": [
                   {
-                    "name": "Dry Branch",
-                    "votes": 350
+                    "name": "Pineknot",
+                    "votes": 317
                   },
                   {
-                    "name": "Golden Isles",
-                    "votes": 235
+                    "name": "Buena Vista",
+                    "votes": 167
                   },
                   {
-                    "name": "Higgsville",
-                    "votes": 187
-                  },
-                  {
-                    "name": "Jeffersonville/Ware",
-                    "votes": 122
-                  },
-                  {
-                    "name": "Shady Grove/Tarvers",
+                    "name": "Tazewell",
                     "votes": 107
+                  },
+                  {
+                    "name": "Brantley",
+                    "votes": 108
+                  },
+                  {
+                    "name": "Fort Perry",
+                    "votes": 192
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 802,
+                "votes": 877,
                 "Precinct": [
                   {
-                    "name": "Dry Branch",
-                    "votes": 212
+                    "name": "Pineknot",
+                    "votes": 165
                   },
                   {
-                    "name": "Golden Isles",
-                    "votes": 153
+                    "name": "Buena Vista",
+                    "votes": 393
                   },
                   {
-                    "name": "Higgsville",
-                    "votes": 127
+                    "name": "Tazewell",
+                    "votes": 63
                   },
                   {
-                    "name": "Jeffersonville/Ware",
-                    "votes": 186
+                    "name": "Brantley",
+                    "votes": 110
                   },
                   {
-                    "name": "Shady Grove/Tarvers",
-                    "votes": 124
+                    "name": "Fort Perry",
+                    "votes": 146
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 229,
+                "votes": 222,
                 "Precinct": [
                   {
-                    "name": "Dry Branch",
-                    "votes": 94
+                    "name": "Pineknot",
+                    "votes": 42
                   },
                   {
-                    "name": "Golden Isles",
-                    "votes": 40
+                    "name": "Buena Vista",
+                    "votes": 95
                   },
                   {
-                    "name": "Higgsville",
-                    "votes": 38
+                    "name": "Tazewell",
+                    "votes": 15
                   },
                   {
-                    "name": "Jeffersonville/Ware",
+                    "name": "Brantley",
                     "votes": 26
                   },
                   {
-                    "name": "Shady Grove/Tarvers",
-                    "votes": 31
+                    "name": "Fort Perry",
+                    "votes": 44
                   }
                 ]
               },
@@ -771,23 +771,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Dry Branch",
+                    "name": "Pineknot",
                     "votes": 0
                   },
                   {
-                    "name": "Golden Isles",
+                    "name": "Buena Vista",
                     "votes": 0
                   },
                   {
-                    "name": "Higgsville",
+                    "name": "Tazewell",
                     "votes": 0
                   },
                   {
-                    "name": "Jeffersonville/Ware",
+                    "name": "Brantley",
                     "votes": 0
                   },
                   {
-                    "name": "Shady Grove/Tarvers",
+                    "name": "Fort Perry",
                     "votes": 0
                   }
                 ]
@@ -797,83 +797,83 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 1814,
+            "totalVotes": 1173,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 470,
+                "votes": 226,
                 "Precinct": [
                   {
-                    "name": "Dry Branch",
-                    "votes": 53
+                    "name": "Pineknot",
+                    "votes": 12
                   },
                   {
-                    "name": "Golden Isles",
-                    "votes": 179
+                    "name": "Buena Vista",
+                    "votes": 174
                   },
                   {
-                    "name": "Higgsville",
-                    "votes": 44
+                    "name": "Tazewell",
+                    "votes": 10
                   },
                   {
-                    "name": "Jeffersonville/Ware",
-                    "votes": 131
+                    "name": "Brantley",
+                    "votes": 8
                   },
                   {
-                    "name": "Shady Grove/Tarvers",
-                    "votes": 63
+                    "name": "Fort Perry",
+                    "votes": 22
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 699,
+                "votes": 546,
                 "Precinct": [
                   {
-                    "name": "Dry Branch",
-                    "votes": 71
+                    "name": "Pineknot",
+                    "votes": 23
                   },
                   {
-                    "name": "Golden Isles",
-                    "votes": 222
+                    "name": "Buena Vista",
+                    "votes": 463
                   },
                   {
-                    "name": "Higgsville",
-                    "votes": 57
+                    "name": "Tazewell",
+                    "votes": 13
                   },
                   {
-                    "name": "Jeffersonville/Ware",
-                    "votes": 267
+                    "name": "Brantley",
+                    "votes": 12
                   },
                   {
-                    "name": "Shady Grove/Tarvers",
-                    "votes": 82
+                    "name": "Fort Perry",
+                    "votes": 35
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 645,
+                "votes": 401,
                 "Precinct": [
                   {
-                    "name": "Dry Branch",
-                    "votes": 49
+                    "name": "Pineknot",
+                    "votes": 25
                   },
                   {
-                    "name": "Golden Isles",
-                    "votes": 227
+                    "name": "Buena Vista",
+                    "votes": 303
                   },
                   {
-                    "name": "Higgsville",
-                    "votes": 37
+                    "name": "Tazewell",
+                    "votes": 20
                   },
                   {
-                    "name": "Jeffersonville/Ware",
-                    "votes": 225
+                    "name": "Brantley",
+                    "votes": 20
                   },
                   {
-                    "name": "Shady Grove/Tarvers",
-                    "votes": 107
+                    "name": "Fort Perry",
+                    "votes": 33
                   }
                 ]
               },
@@ -882,23 +882,23 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Dry Branch",
+                    "name": "Pineknot",
                     "votes": 0
                   },
                   {
-                    "name": "Golden Isles",
+                    "name": "Buena Vista",
                     "votes": 0
                   },
                   {
-                    "name": "Higgsville",
+                    "name": "Tazewell",
                     "votes": 0
                   },
                   {
-                    "name": "Jeffersonville/Ware",
+                    "name": "Brantley",
                     "votes": 0
                   },
                   {
-                    "name": "Shady Grove/Tarvers",
+                    "name": "Fort Perry",
                     "votes": 0
                   }
                 ]

@@ -1,0 +1,1039 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:45:45 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "McIntosh",
+    "VoterTurnout": {
+      "totalVoters": 10046,
+      "ballotsCast": 4393,
+      "voterTurnout": 43.73,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Sapelo Island",
+            "totalVoters": 53,
+            "ballotsCast": 18,
+            "voterTurnout": 33.96,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Townsend",
+            "totalVoters": 602,
+            "ballotsCast": 234,
+            "voterTurnout": 38.87,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Crescent",
+            "totalVoters": 2116,
+            "ballotsCast": 878,
+            "voterTurnout": 41.49,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Darien",
+            "totalVoters": 2651,
+            "ballotsCast": 1192,
+            "voterTurnout": 44.96,
+            "percentReporting": "2"
+          },
+          {
+            "name": "South Newport",
+            "totalVoters": 2257,
+            "ballotsCast": 1096,
+            "voterTurnout": 48.56,
+            "percentReporting": "2"
+          },
+          {
+            "name": "North Darien",
+            "totalVoters": 2367,
+            "ballotsCast": 975,
+            "voterTurnout": 41.19,
+            "percentReporting": "2"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 6,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 17,
+            "Precinct": [
+              {
+                "name": "Sapelo Island",
+                "votes": 0
+              },
+              {
+                "name": "Townsend",
+                "votes": 0
+              },
+              {
+                "name": "Crescent",
+                "votes": 8
+              },
+              {
+                "name": "Darien",
+                "votes": 1
+              },
+              {
+                "name": "South Newport",
+                "votes": 3
+              },
+              {
+                "name": "North Darien",
+                "votes": 5
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Sapelo Island",
+                "votes": 0
+              },
+              {
+                "name": "Townsend",
+                "votes": 0
+              },
+              {
+                "name": "Crescent",
+                "votes": 0
+              },
+              {
+                "name": "Darien",
+                "votes": 0
+              },
+              {
+                "name": "South Newport",
+                "votes": 0
+              },
+              {
+                "name": "North Darien",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 2453,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sapelo Island",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Townsend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crescent",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Darien",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Newport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Darien",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1891,
+                "Precinct": [
+                  {
+                    "name": "Sapelo Island",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Townsend",
+                    "votes": 78
+                  },
+                  {
+                    "name": "Crescent",
+                    "votes": 220
+                  },
+                  {
+                    "name": "Darien",
+                    "votes": 551
+                  },
+                  {
+                    "name": "South Newport",
+                    "votes": 542
+                  },
+                  {
+                    "name": "North Darien",
+                    "votes": 500
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 562,
+                "Precinct": [
+                  {
+                    "name": "Sapelo Island",
+                    "votes": 2
+                  },
+                  {
+                    "name": "Townsend",
+                    "votes": 57
+                  },
+                  {
+                    "name": "Crescent",
+                    "votes": 55
+                  },
+                  {
+                    "name": "Darien",
+                    "votes": 152
+                  },
+                  {
+                    "name": "South Newport",
+                    "votes": 202
+                  },
+                  {
+                    "name": "North Darien",
+                    "votes": 94
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sapelo Island",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Townsend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crescent",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Darien",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Newport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Darien",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 1923,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sapelo Island",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Townsend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crescent",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Darien",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Newport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Darien",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1185,
+                "Precinct": [
+                  {
+                    "name": "Sapelo Island",
+                    "votes": 5
+                  },
+                  {
+                    "name": "Townsend",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Crescent",
+                    "votes": 390
+                  },
+                  {
+                    "name": "Darien",
+                    "votes": 315
+                  },
+                  {
+                    "name": "South Newport",
+                    "votes": 179
+                  },
+                  {
+                    "name": "North Darien",
+                    "votes": 240
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 738,
+                "Precinct": [
+                  {
+                    "name": "Sapelo Island",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Townsend",
+                    "votes": 43
+                  },
+                  {
+                    "name": "Crescent",
+                    "votes": 205
+                  },
+                  {
+                    "name": "Darien",
+                    "votes": 173
+                  },
+                  {
+                    "name": "South Newport",
+                    "votes": 170
+                  },
+                  {
+                    "name": "North Darien",
+                    "votes": 136
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sapelo Island",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Townsend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crescent",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Darien",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Newport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Darien",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 6,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 7,
+            "Precinct": [
+              {
+                "name": "Sapelo Island",
+                "votes": 0
+              },
+              {
+                "name": "Townsend",
+                "votes": 0
+              },
+              {
+                "name": "Crescent",
+                "votes": 1
+              },
+              {
+                "name": "Darien",
+                "votes": 3
+              },
+              {
+                "name": "South Newport",
+                "votes": 3
+              },
+              {
+                "name": "North Darien",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Sapelo Island",
+                "votes": 0
+              },
+              {
+                "name": "Townsend",
+                "votes": 0
+              },
+              {
+                "name": "Crescent",
+                "votes": 0
+              },
+              {
+                "name": "Darien",
+                "votes": 0
+              },
+              {
+                "name": "South Newport",
+                "votes": 0
+              },
+              {
+                "name": "North Darien",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 2454,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sapelo Island",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Townsend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crescent",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Darien",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Newport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Darien",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1897,
+                "Precinct": [
+                  {
+                    "name": "Sapelo Island",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Townsend",
+                    "votes": 78
+                  },
+                  {
+                    "name": "Crescent",
+                    "votes": 222
+                  },
+                  {
+                    "name": "Darien",
+                    "votes": 549
+                  },
+                  {
+                    "name": "South Newport",
+                    "votes": 542
+                  },
+                  {
+                    "name": "North Darien",
+                    "votes": 506
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 557,
+                "Precinct": [
+                  {
+                    "name": "Sapelo Island",
+                    "votes": 3
+                  },
+                  {
+                    "name": "Townsend",
+                    "votes": 57
+                  },
+                  {
+                    "name": "Crescent",
+                    "votes": 52
+                  },
+                  {
+                    "name": "Darien",
+                    "votes": 150
+                  },
+                  {
+                    "name": "South Newport",
+                    "votes": 203
+                  },
+                  {
+                    "name": "North Darien",
+                    "votes": 92
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sapelo Island",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Townsend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crescent",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Darien",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Newport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Darien",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 1932,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sapelo Island",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Townsend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crescent",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Darien",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Newport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Darien",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1186,
+                "Precinct": [
+                  {
+                    "name": "Sapelo Island",
+                    "votes": 5
+                  },
+                  {
+                    "name": "Townsend",
+                    "votes": 56
+                  },
+                  {
+                    "name": "Crescent",
+                    "votes": 394
+                  },
+                  {
+                    "name": "Darien",
+                    "votes": 315
+                  },
+                  {
+                    "name": "South Newport",
+                    "votes": 179
+                  },
+                  {
+                    "name": "North Darien",
+                    "votes": 237
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 746,
+                "Precinct": [
+                  {
+                    "name": "Sapelo Island",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Townsend",
+                    "votes": 43
+                  },
+                  {
+                    "name": "Crescent",
+                    "votes": 209
+                  },
+                  {
+                    "name": "Darien",
+                    "votes": 175
+                  },
+                  {
+                    "name": "South Newport",
+                    "votes": 169
+                  },
+                  {
+                    "name": "North Darien",
+                    "votes": 140
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sapelo Island",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Townsend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crescent",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Darien",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Newport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Darien",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 6,
+        "precinctsReported": 0,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 77,
+            "Precinct": [
+              {
+                "name": "Sapelo Island",
+                "votes": 0
+              },
+              {
+                "name": "Townsend",
+                "votes": 6
+              },
+              {
+                "name": "Crescent",
+                "votes": 20
+              },
+              {
+                "name": "Darien",
+                "votes": 14
+              },
+              {
+                "name": "South Newport",
+                "votes": 19
+              },
+              {
+                "name": "North Darien",
+                "votes": 18
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Sapelo Island",
+                "votes": 0
+              },
+              {
+                "name": "Townsend",
+                "votes": 0
+              },
+              {
+                "name": "Crescent",
+                "votes": 0
+              },
+              {
+                "name": "Darien",
+                "votes": 0
+              },
+              {
+                "name": "South Newport",
+                "votes": 0
+              },
+              {
+                "name": "North Darien",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 2468,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sapelo Island",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Townsend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crescent",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Darien",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Newport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Darien",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1894,
+                "Precinct": [
+                  {
+                    "name": "Sapelo Island",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Townsend",
+                    "votes": 79
+                  },
+                  {
+                    "name": "Crescent",
+                    "votes": 214
+                  },
+                  {
+                    "name": "Darien",
+                    "votes": 552
+                  },
+                  {
+                    "name": "South Newport",
+                    "votes": 549
+                  },
+                  {
+                    "name": "North Darien",
+                    "votes": 500
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 574,
+                "Precinct": [
+                  {
+                    "name": "Sapelo Island",
+                    "votes": 2
+                  },
+                  {
+                    "name": "Townsend",
+                    "votes": 54
+                  },
+                  {
+                    "name": "Crescent",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Darien",
+                    "votes": 153
+                  },
+                  {
+                    "name": "South Newport",
+                    "votes": 211
+                  },
+                  {
+                    "name": "North Darien",
+                    "votes": 92
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sapelo Island",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Townsend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crescent",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Darien",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Newport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Darien",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 1840,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sapelo Island",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Townsend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crescent",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Darien",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Newport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Darien",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1142,
+                "Precinct": [
+                  {
+                    "name": "Sapelo Island",
+                    "votes": 5
+                  },
+                  {
+                    "name": "Townsend",
+                    "votes": 54
+                  },
+                  {
+                    "name": "Crescent",
+                    "votes": 386
+                  },
+                  {
+                    "name": "Darien",
+                    "votes": 305
+                  },
+                  {
+                    "name": "South Newport",
+                    "votes": 160
+                  },
+                  {
+                    "name": "North Darien",
+                    "votes": 232
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 698,
+                "Precinct": [
+                  {
+                    "name": "Sapelo Island",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Townsend",
+                    "votes": 41
+                  },
+                  {
+                    "name": "Crescent",
+                    "votes": 195
+                  },
+                  {
+                    "name": "Darien",
+                    "votes": 166
+                  },
+                  {
+                    "name": "South Newport",
+                    "votes": 153
+                  },
+                  {
+                    "name": "North Darien",
+                    "votes": 132
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Sapelo Island",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Townsend",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Crescent",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Darien",
+                    "votes": 0
+                  },
+                  {
+                    "name": "South Newport",
+                    "votes": 0
+                  },
+                  {
+                    "name": "North Darien",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

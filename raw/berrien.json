@@ -1,28 +1,28 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 7:54:07 PM EST",
+    "Timestamp": "1/5/2021 8:47:16 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Berrien",
     "VoterTurnout": {
       "totalVoters": 11574,
-      "ballotsCast": 4974,
-      "voterTurnout": 42.98,
+      "ballotsCast": 6694,
+      "voterTurnout": 57.84,
       "Precincts": {
         "Precinct": [
           {
             "name": "West Berrien",
             "totalVoters": 1023,
-            "ballotsCast": 287,
-            "voterTurnout": 28.05,
-            "percentReporting": "2"
+            "ballotsCast": 695,
+            "voterTurnout": 67.94,
+            "percentReporting": "4"
           },
           {
             "name": "Ray City",
             "totalVoters": 2014,
-            "ballotsCast": 602,
-            "voterTurnout": 29.89,
-            "percentReporting": "2"
+            "ballotsCast": 1088,
+            "voterTurnout": 54.02,
+            "percentReporting": "4"
           },
           {
             "name": "Nashville",
@@ -34,16 +34,16 @@
           {
             "name": "Enigma",
             "totalVoters": 1141,
-            "ballotsCast": 221,
-            "voterTurnout": 19.37,
-            "percentReporting": "2"
+            "ballotsCast": 627,
+            "voterTurnout": 54.95,
+            "percentReporting": "4"
           },
           {
             "name": "Alapaha",
             "totalVoters": 1159,
-            "ballotsCast": 327,
-            "voterTurnout": 28.21,
-            "percentReporting": "2"
+            "ballotsCast": 747,
+            "voterTurnout": 64.45,
+            "percentReporting": "4"
           }
         ]
       }
@@ -55,19 +55,19 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 5,
-        "precinctsReported": 1,
+        "precinctsReported": 5,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 7,
+            "votes": 16,
             "Precinct": [
               {
                 "name": "West Berrien",
-                "votes": 3
+                "votes": 4
               },
               {
                 "name": "Ray City",
-                "votes": 0
+                "votes": 5
               },
               {
                 "name": "Nashville",
@@ -75,11 +75,11 @@
               },
               {
                 "name": "Enigma",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Alapaha",
-                "votes": 0
+                "votes": 2
               }
             ]
           },
@@ -114,19 +114,19 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 4073,
+            "totalVotes": 5536,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 888,
+                "votes": 2351,
                 "Precinct": [
                   {
                     "name": "West Berrien",
-                    "votes": 0
+                    "votes": 387
                   },
                   {
                     "name": "Ray City",
-                    "votes": 0
+                    "votes": 401
                   },
                   {
                     "name": "Nashville",
@@ -134,11 +134,11 @@
                   },
                   {
                     "name": "Enigma",
-                    "votes": 0
+                    "votes": 353
                   },
                   {
                     "name": "Alapaha",
-                    "votes": 0
+                    "votes": 322
                   }
                 ]
               },
@@ -225,19 +225,19 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 893,
+            "totalVotes": 1141,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 144,
+                "votes": 392,
                 "Precinct": [
                   {
                     "name": "West Berrien",
-                    "votes": 0
+                    "votes": 20
                   },
                   {
                     "name": "Ray City",
-                    "votes": 0
+                    "votes": 80
                   },
                   {
                     "name": "Nashville",
@@ -245,11 +245,11 @@
                   },
                   {
                     "name": "Enigma",
-                    "votes": 0
+                    "votes": 52
                   },
                   {
                     "name": "Alapaha",
-                    "votes": 0
+                    "votes": 96
                   }
                 ]
               },
@@ -341,11 +341,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 5,
-        "precinctsReported": 1,
+        "precinctsReported": 5,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 7,
+            "votes": 11,
             "Precinct": [
               {
                 "name": "West Berrien",
@@ -353,7 +353,7 @@
               },
               {
                 "name": "Ray City",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Nashville",
@@ -361,7 +361,7 @@
               },
               {
                 "name": "Enigma",
-                "votes": 1
+                "votes": 4
               },
               {
                 "name": "Alapaha",
@@ -400,19 +400,19 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 4074,
+            "totalVotes": 5537,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 889,
+                "votes": 2352,
                 "Precinct": [
                   {
                     "name": "West Berrien",
-                    "votes": 0
+                    "votes": 388
                   },
                   {
                     "name": "Ray City",
-                    "votes": 0
+                    "votes": 401
                   },
                   {
                     "name": "Nashville",
@@ -420,11 +420,11 @@
                   },
                   {
                     "name": "Enigma",
-                    "votes": 0
+                    "votes": 352
                   },
                   {
                     "name": "Alapaha",
-                    "votes": 0
+                    "votes": 322
                   }
                 ]
               },
@@ -511,19 +511,19 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 892,
+            "totalVotes": 1145,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 140,
+                "votes": 393,
                 "Precinct": [
                   {
                     "name": "West Berrien",
-                    "votes": 0
+                    "votes": 20
                   },
                   {
                     "name": "Ray City",
-                    "votes": 0
+                    "votes": 84
                   },
                   {
                     "name": "Nashville",
@@ -531,11 +531,11 @@
                   },
                   {
                     "name": "Enigma",
-                    "votes": 0
+                    "votes": 51
                   },
                   {
                     "name": "Alapaha",
-                    "votes": 0
+                    "votes": 98
                   }
                 ]
               },
@@ -627,19 +627,19 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 5,
-        "precinctsReported": 1,
+        "precinctsReported": 5,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 69,
+            "votes": 83,
             "Precinct": [
               {
                 "name": "West Berrien",
-                "votes": 9
+                "votes": 13
               },
               {
                 "name": "Ray City",
-                "votes": 7
+                "votes": 11
               },
               {
                 "name": "Nashville",
@@ -647,7 +647,7 @@
               },
               {
                 "name": "Enigma",
-                "votes": 7
+                "votes": 13
               },
               {
                 "name": "Alapaha",
@@ -686,19 +686,19 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 4060,
+            "totalVotes": 5523,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 885,
+                "votes": 2348,
                 "Precinct": [
                   {
                     "name": "West Berrien",
-                    "votes": 0
+                    "votes": 383
                   },
                   {
                     "name": "Ray City",
-                    "votes": 0
+                    "votes": 406
                   },
                   {
                     "name": "Nashville",
@@ -706,11 +706,11 @@
                   },
                   {
                     "name": "Enigma",
-                    "votes": 0
+                    "votes": 350
                   },
                   {
                     "name": "Alapaha",
-                    "votes": 0
+                    "votes": 324
                   }
                 ]
               },
@@ -797,19 +797,19 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 845,
+            "totalVotes": 1088,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 134,
+                "votes": 377,
                 "Precinct": [
                   {
                     "name": "West Berrien",
-                    "votes": 0
+                    "votes": 21
                   },
                   {
                     "name": "Ray City",
-                    "votes": 0
+                    "votes": 76
                   },
                   {
                     "name": "Nashville",
@@ -817,11 +817,11 @@
                   },
                   {
                     "name": "Enigma",
-                    "votes": 0
+                    "votes": 50
                   },
                   {
                     "name": "Alapaha",
-                    "votes": 0
+                    "votes": 96
                   }
                 ]
               },

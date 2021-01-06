@@ -1,0 +1,1420 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:44:58 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "McDuffie",
+    "VoterTurnout": {
+      "totalVoters": 0,
+      "ballotsCast": 9255,
+      "voterTurnout": 0.0,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "131",
+            "totalVoters": 0,
+            "ballotsCast": 716,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "132",
+            "totalVoters": 0,
+            "ballotsCast": 1053,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "133A",
+            "totalVoters": 0,
+            "ballotsCast": 755,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "133B",
+            "totalVoters": 0,
+            "ballotsCast": 1213,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "134",
+            "totalVoters": 0,
+            "ballotsCast": 1192,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "135",
+            "totalVoters": 0,
+            "ballotsCast": 1942,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "136",
+            "totalVoters": 0,
+            "ballotsCast": 896,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "137",
+            "totalVoters": 0,
+            "ballotsCast": 855,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          },
+          {
+            "name": "139",
+            "totalVoters": 0,
+            "ballotsCast": 633,
+            "voterTurnout": 0.0,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 9,
+        "precinctsReported": 9,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 25,
+            "Precinct": [
+              {
+                "name": "131",
+                "votes": 4
+              },
+              {
+                "name": "132",
+                "votes": 3
+              },
+              {
+                "name": "133A",
+                "votes": 2
+              },
+              {
+                "name": "133B",
+                "votes": 2
+              },
+              {
+                "name": "134",
+                "votes": 4
+              },
+              {
+                "name": "135",
+                "votes": 4
+              },
+              {
+                "name": "136",
+                "votes": 4
+              },
+              {
+                "name": "137",
+                "votes": 2
+              },
+              {
+                "name": "139",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "131",
+                "votes": 0
+              },
+              {
+                "name": "132",
+                "votes": 0
+              },
+              {
+                "name": "133A",
+                "votes": 0
+              },
+              {
+                "name": "133B",
+                "votes": 0
+              },
+              {
+                "name": "134",
+                "votes": 0
+              },
+              {
+                "name": "135",
+                "votes": 0
+              },
+              {
+                "name": "136",
+                "votes": 0
+              },
+              {
+                "name": "137",
+                "votes": 0
+              },
+              {
+                "name": "139",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 5501,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1586,
+                "Precinct": [
+                  {
+                    "name": "131",
+                    "votes": 27
+                  },
+                  {
+                    "name": "132",
+                    "votes": 223
+                  },
+                  {
+                    "name": "133A",
+                    "votes": 209
+                  },
+                  {
+                    "name": "133B",
+                    "votes": 369
+                  },
+                  {
+                    "name": "134",
+                    "votes": 110
+                  },
+                  {
+                    "name": "135",
+                    "votes": 329
+                  },
+                  {
+                    "name": "136",
+                    "votes": 39
+                  },
+                  {
+                    "name": "137",
+                    "votes": 168
+                  },
+                  {
+                    "name": "139",
+                    "votes": 112
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 3266,
+                "Precinct": [
+                  {
+                    "name": "131",
+                    "votes": 91
+                  },
+                  {
+                    "name": "132",
+                    "votes": 603
+                  },
+                  {
+                    "name": "133A",
+                    "votes": 261
+                  },
+                  {
+                    "name": "133B",
+                    "votes": 473
+                  },
+                  {
+                    "name": "134",
+                    "votes": 287
+                  },
+                  {
+                    "name": "135",
+                    "votes": 804
+                  },
+                  {
+                    "name": "136",
+                    "votes": 67
+                  },
+                  {
+                    "name": "137",
+                    "votes": 454
+                  },
+                  {
+                    "name": "139",
+                    "votes": 226
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 649,
+                "Precinct": [
+                  {
+                    "name": "131",
+                    "votes": 26
+                  },
+                  {
+                    "name": "132",
+                    "votes": 110
+                  },
+                  {
+                    "name": "133A",
+                    "votes": 55
+                  },
+                  {
+                    "name": "133B",
+                    "votes": 91
+                  },
+                  {
+                    "name": "134",
+                    "votes": 62
+                  },
+                  {
+                    "name": "135",
+                    "votes": 157
+                  },
+                  {
+                    "name": "136",
+                    "votes": 28
+                  },
+                  {
+                    "name": "137",
+                    "votes": 72
+                  },
+                  {
+                    "name": "139",
+                    "votes": 48
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "131",
+                    "votes": 0
+                  },
+                  {
+                    "name": "132",
+                    "votes": 0
+                  },
+                  {
+                    "name": "133A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "133B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "134",
+                    "votes": 0
+                  },
+                  {
+                    "name": "135",
+                    "votes": 0
+                  },
+                  {
+                    "name": "136",
+                    "votes": 0
+                  },
+                  {
+                    "name": "137",
+                    "votes": 0
+                  },
+                  {
+                    "name": "139",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 3729,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 686,
+                "Precinct": [
+                  {
+                    "name": "131",
+                    "votes": 99
+                  },
+                  {
+                    "name": "132",
+                    "votes": 14
+                  },
+                  {
+                    "name": "133A",
+                    "votes": 49
+                  },
+                  {
+                    "name": "133B",
+                    "votes": 67
+                  },
+                  {
+                    "name": "134",
+                    "votes": 138
+                  },
+                  {
+                    "name": "135",
+                    "votes": 115
+                  },
+                  {
+                    "name": "136",
+                    "votes": 146
+                  },
+                  {
+                    "name": "137",
+                    "votes": 19
+                  },
+                  {
+                    "name": "139",
+                    "votes": 39
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1697,
+                "Precinct": [
+                  {
+                    "name": "131",
+                    "votes": 279
+                  },
+                  {
+                    "name": "132",
+                    "votes": 48
+                  },
+                  {
+                    "name": "133A",
+                    "votes": 98
+                  },
+                  {
+                    "name": "133B",
+                    "votes": 117
+                  },
+                  {
+                    "name": "134",
+                    "votes": 299
+                  },
+                  {
+                    "name": "135",
+                    "votes": 339
+                  },
+                  {
+                    "name": "136",
+                    "votes": 331
+                  },
+                  {
+                    "name": "137",
+                    "votes": 73
+                  },
+                  {
+                    "name": "139",
+                    "votes": 113
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1346,
+                "Precinct": [
+                  {
+                    "name": "131",
+                    "votes": 190
+                  },
+                  {
+                    "name": "132",
+                    "votes": 52
+                  },
+                  {
+                    "name": "133A",
+                    "votes": 81
+                  },
+                  {
+                    "name": "133B",
+                    "votes": 94
+                  },
+                  {
+                    "name": "134",
+                    "votes": 292
+                  },
+                  {
+                    "name": "135",
+                    "votes": 194
+                  },
+                  {
+                    "name": "136",
+                    "votes": 281
+                  },
+                  {
+                    "name": "137",
+                    "votes": 67
+                  },
+                  {
+                    "name": "139",
+                    "votes": 95
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "131",
+                    "votes": 0
+                  },
+                  {
+                    "name": "132",
+                    "votes": 0
+                  },
+                  {
+                    "name": "133A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "133B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "134",
+                    "votes": 0
+                  },
+                  {
+                    "name": "135",
+                    "votes": 0
+                  },
+                  {
+                    "name": "136",
+                    "votes": 0
+                  },
+                  {
+                    "name": "137",
+                    "votes": 0
+                  },
+                  {
+                    "name": "139",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 9,
+        "precinctsReported": 9,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 28,
+            "Precinct": [
+              {
+                "name": "131",
+                "votes": 2
+              },
+              {
+                "name": "132",
+                "votes": 1
+              },
+              {
+                "name": "133A",
+                "votes": 5
+              },
+              {
+                "name": "133B",
+                "votes": 2
+              },
+              {
+                "name": "134",
+                "votes": 8
+              },
+              {
+                "name": "135",
+                "votes": 4
+              },
+              {
+                "name": "136",
+                "votes": 2
+              },
+              {
+                "name": "137",
+                "votes": 4
+              },
+              {
+                "name": "139",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "131",
+                "votes": 0
+              },
+              {
+                "name": "132",
+                "votes": 0
+              },
+              {
+                "name": "133A",
+                "votes": 0
+              },
+              {
+                "name": "133B",
+                "votes": 0
+              },
+              {
+                "name": "134",
+                "votes": 0
+              },
+              {
+                "name": "135",
+                "votes": 0
+              },
+              {
+                "name": "136",
+                "votes": 0
+              },
+              {
+                "name": "137",
+                "votes": 0
+              },
+              {
+                "name": "139",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 5479,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1577,
+                "Precinct": [
+                  {
+                    "name": "131",
+                    "votes": 27
+                  },
+                  {
+                    "name": "132",
+                    "votes": 221
+                  },
+                  {
+                    "name": "133A",
+                    "votes": 210
+                  },
+                  {
+                    "name": "133B",
+                    "votes": 371
+                  },
+                  {
+                    "name": "134",
+                    "votes": 107
+                  },
+                  {
+                    "name": "135",
+                    "votes": 326
+                  },
+                  {
+                    "name": "136",
+                    "votes": 36
+                  },
+                  {
+                    "name": "137",
+                    "votes": 167
+                  },
+                  {
+                    "name": "139",
+                    "votes": 112
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 3255,
+                "Precinct": [
+                  {
+                    "name": "131",
+                    "votes": 93
+                  },
+                  {
+                    "name": "132",
+                    "votes": 605
+                  },
+                  {
+                    "name": "133A",
+                    "votes": 260
+                  },
+                  {
+                    "name": "133B",
+                    "votes": 469
+                  },
+                  {
+                    "name": "134",
+                    "votes": 281
+                  },
+                  {
+                    "name": "135",
+                    "votes": 800
+                  },
+                  {
+                    "name": "136",
+                    "votes": 65
+                  },
+                  {
+                    "name": "137",
+                    "votes": 454
+                  },
+                  {
+                    "name": "139",
+                    "votes": 228
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 647,
+                "Precinct": [
+                  {
+                    "name": "131",
+                    "votes": 27
+                  },
+                  {
+                    "name": "132",
+                    "votes": 110
+                  },
+                  {
+                    "name": "133A",
+                    "votes": 55
+                  },
+                  {
+                    "name": "133B",
+                    "votes": 91
+                  },
+                  {
+                    "name": "134",
+                    "votes": 57
+                  },
+                  {
+                    "name": "135",
+                    "votes": 157
+                  },
+                  {
+                    "name": "136",
+                    "votes": 29
+                  },
+                  {
+                    "name": "137",
+                    "votes": 73
+                  },
+                  {
+                    "name": "139",
+                    "votes": 48
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "131",
+                    "votes": 0
+                  },
+                  {
+                    "name": "132",
+                    "votes": 0
+                  },
+                  {
+                    "name": "133A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "133B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "134",
+                    "votes": 0
+                  },
+                  {
+                    "name": "135",
+                    "votes": 0
+                  },
+                  {
+                    "name": "136",
+                    "votes": 0
+                  },
+                  {
+                    "name": "137",
+                    "votes": 0
+                  },
+                  {
+                    "name": "139",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 3748,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 696,
+                "Precinct": [
+                  {
+                    "name": "131",
+                    "votes": 98
+                  },
+                  {
+                    "name": "132",
+                    "votes": 17
+                  },
+                  {
+                    "name": "133A",
+                    "votes": 48
+                  },
+                  {
+                    "name": "133B",
+                    "votes": 66
+                  },
+                  {
+                    "name": "134",
+                    "votes": 141
+                  },
+                  {
+                    "name": "135",
+                    "votes": 118
+                  },
+                  {
+                    "name": "136",
+                    "votes": 149
+                  },
+                  {
+                    "name": "137",
+                    "votes": 20
+                  },
+                  {
+                    "name": "139",
+                    "votes": 39
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1703,
+                "Precinct": [
+                  {
+                    "name": "131",
+                    "votes": 278
+                  },
+                  {
+                    "name": "132",
+                    "votes": 46
+                  },
+                  {
+                    "name": "133A",
+                    "votes": 96
+                  },
+                  {
+                    "name": "133B",
+                    "votes": 119
+                  },
+                  {
+                    "name": "134",
+                    "votes": 303
+                  },
+                  {
+                    "name": "135",
+                    "votes": 343
+                  },
+                  {
+                    "name": "136",
+                    "votes": 333
+                  },
+                  {
+                    "name": "137",
+                    "votes": 74
+                  },
+                  {
+                    "name": "139",
+                    "votes": 111
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1349,
+                "Precinct": [
+                  {
+                    "name": "131",
+                    "votes": 191
+                  },
+                  {
+                    "name": "132",
+                    "votes": 53
+                  },
+                  {
+                    "name": "133A",
+                    "votes": 81
+                  },
+                  {
+                    "name": "133B",
+                    "votes": 95
+                  },
+                  {
+                    "name": "134",
+                    "votes": 295
+                  },
+                  {
+                    "name": "135",
+                    "votes": 194
+                  },
+                  {
+                    "name": "136",
+                    "votes": 282
+                  },
+                  {
+                    "name": "137",
+                    "votes": 63
+                  },
+                  {
+                    "name": "139",
+                    "votes": 95
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "131",
+                    "votes": 0
+                  },
+                  {
+                    "name": "132",
+                    "votes": 0
+                  },
+                  {
+                    "name": "133A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "133B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "134",
+                    "votes": 0
+                  },
+                  {
+                    "name": "135",
+                    "votes": 0
+                  },
+                  {
+                    "name": "136",
+                    "votes": 0
+                  },
+                  {
+                    "name": "137",
+                    "votes": 0
+                  },
+                  {
+                    "name": "139",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 9,
+        "precinctsReported": 9,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 137,
+            "Precinct": [
+              {
+                "name": "131",
+                "votes": 16
+              },
+              {
+                "name": "132",
+                "votes": 15
+              },
+              {
+                "name": "133A",
+                "votes": 8
+              },
+              {
+                "name": "133B",
+                "votes": 8
+              },
+              {
+                "name": "134",
+                "votes": 21
+              },
+              {
+                "name": "135",
+                "votes": 31
+              },
+              {
+                "name": "136",
+                "votes": 15
+              },
+              {
+                "name": "137",
+                "votes": 12
+              },
+              {
+                "name": "139",
+                "votes": 11
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "131",
+                "votes": 0
+              },
+              {
+                "name": "132",
+                "votes": 0
+              },
+              {
+                "name": "133A",
+                "votes": 0
+              },
+              {
+                "name": "133B",
+                "votes": 0
+              },
+              {
+                "name": "134",
+                "votes": 0
+              },
+              {
+                "name": "135",
+                "votes": 0
+              },
+              {
+                "name": "136",
+                "votes": 0
+              },
+              {
+                "name": "137",
+                "votes": 0
+              },
+              {
+                "name": "139",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 5487,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 1586,
+                "Precinct": [
+                  {
+                    "name": "131",
+                    "votes": 28
+                  },
+                  {
+                    "name": "132",
+                    "votes": 223
+                  },
+                  {
+                    "name": "133A",
+                    "votes": 207
+                  },
+                  {
+                    "name": "133B",
+                    "votes": 372
+                  },
+                  {
+                    "name": "134",
+                    "votes": 110
+                  },
+                  {
+                    "name": "135",
+                    "votes": 332
+                  },
+                  {
+                    "name": "136",
+                    "votes": 38
+                  },
+                  {
+                    "name": "137",
+                    "votes": 166
+                  },
+                  {
+                    "name": "139",
+                    "votes": 110
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 3260,
+                "Precinct": [
+                  {
+                    "name": "131",
+                    "votes": 90
+                  },
+                  {
+                    "name": "132",
+                    "votes": 606
+                  },
+                  {
+                    "name": "133A",
+                    "votes": 261
+                  },
+                  {
+                    "name": "133B",
+                    "votes": 477
+                  },
+                  {
+                    "name": "134",
+                    "votes": 283
+                  },
+                  {
+                    "name": "135",
+                    "votes": 803
+                  },
+                  {
+                    "name": "136",
+                    "votes": 67
+                  },
+                  {
+                    "name": "137",
+                    "votes": 452
+                  },
+                  {
+                    "name": "139",
+                    "votes": 221
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 641,
+                "Precinct": [
+                  {
+                    "name": "131",
+                    "votes": 26
+                  },
+                  {
+                    "name": "132",
+                    "votes": 105
+                  },
+                  {
+                    "name": "133A",
+                    "votes": 56
+                  },
+                  {
+                    "name": "133B",
+                    "votes": 94
+                  },
+                  {
+                    "name": "134",
+                    "votes": 58
+                  },
+                  {
+                    "name": "135",
+                    "votes": 154
+                  },
+                  {
+                    "name": "136",
+                    "votes": 28
+                  },
+                  {
+                    "name": "137",
+                    "votes": 75
+                  },
+                  {
+                    "name": "139",
+                    "votes": 45
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "131",
+                    "votes": 0
+                  },
+                  {
+                    "name": "132",
+                    "votes": 0
+                  },
+                  {
+                    "name": "133A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "133B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "134",
+                    "votes": 0
+                  },
+                  {
+                    "name": "135",
+                    "votes": 0
+                  },
+                  {
+                    "name": "136",
+                    "votes": 0
+                  },
+                  {
+                    "name": "137",
+                    "votes": 0
+                  },
+                  {
+                    "name": "139",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 3631,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 673,
+                "Precinct": [
+                  {
+                    "name": "131",
+                    "votes": 98
+                  },
+                  {
+                    "name": "132",
+                    "votes": 12
+                  },
+                  {
+                    "name": "133A",
+                    "votes": 49
+                  },
+                  {
+                    "name": "133B",
+                    "votes": 63
+                  },
+                  {
+                    "name": "134",
+                    "votes": 136
+                  },
+                  {
+                    "name": "135",
+                    "votes": 109
+                  },
+                  {
+                    "name": "136",
+                    "votes": 147
+                  },
+                  {
+                    "name": "137",
+                    "votes": 20
+                  },
+                  {
+                    "name": "139",
+                    "votes": 39
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1645,
+                "Precinct": [
+                  {
+                    "name": "131",
+                    "votes": 272
+                  },
+                  {
+                    "name": "132",
+                    "votes": 42
+                  },
+                  {
+                    "name": "133A",
+                    "votes": 94
+                  },
+                  {
+                    "name": "133B",
+                    "votes": 109
+                  },
+                  {
+                    "name": "134",
+                    "votes": 292
+                  },
+                  {
+                    "name": "135",
+                    "votes": 323
+                  },
+                  {
+                    "name": "136",
+                    "votes": 329
+                  },
+                  {
+                    "name": "137",
+                    "votes": 69
+                  },
+                  {
+                    "name": "139",
+                    "votes": 115
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1313,
+                "Precinct": [
+                  {
+                    "name": "131",
+                    "votes": 186
+                  },
+                  {
+                    "name": "132",
+                    "votes": 50
+                  },
+                  {
+                    "name": "133A",
+                    "votes": 80
+                  },
+                  {
+                    "name": "133B",
+                    "votes": 90
+                  },
+                  {
+                    "name": "134",
+                    "votes": 292
+                  },
+                  {
+                    "name": "135",
+                    "votes": 190
+                  },
+                  {
+                    "name": "136",
+                    "votes": 272
+                  },
+                  {
+                    "name": "137",
+                    "votes": 61
+                  },
+                  {
+                    "name": "139",
+                    "votes": 92
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "131",
+                    "votes": 0
+                  },
+                  {
+                    "name": "132",
+                    "votes": 0
+                  },
+                  {
+                    "name": "133A",
+                    "votes": 0
+                  },
+                  {
+                    "name": "133B",
+                    "votes": 0
+                  },
+                  {
+                    "name": "134",
+                    "votes": 0
+                  },
+                  {
+                    "name": "135",
+                    "votes": 0
+                  },
+                  {
+                    "name": "136",
+                    "votes": 0
+                  },
+                  {
+                    "name": "137",
+                    "votes": 0
+                  },
+                  {
+                    "name": "139",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

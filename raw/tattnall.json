@@ -1,0 +1,1293 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:45:30 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Tattnall",
+    "VoterTurnout": {
+      "totalVoters": 12463,
+      "ballotsCast": 5427,
+      "voterTurnout": 43.54,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Cobbtown",
+            "totalVoters": 782,
+            "ballotsCast": 213,
+            "voterTurnout": 27.24,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Shiloh",
+            "totalVoters": 1153,
+            "ballotsCast": 304,
+            "voterTurnout": 26.37,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Collins",
+            "totalVoters": 1527,
+            "ballotsCast": 539,
+            "voterTurnout": 35.3,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Manassas",
+            "totalVoters": 271,
+            "ballotsCast": 178,
+            "voterTurnout": 65.68,
+            "percentReporting": "4"
+          },
+          {
+            "name": "District II",
+            "totalVoters": 2546,
+            "ballotsCast": 998,
+            "voterTurnout": 39.2,
+            "percentReporting": "2"
+          },
+          {
+            "name": "East Glennville",
+            "totalVoters": 2560,
+            "ballotsCast": 992,
+            "voterTurnout": 38.75,
+            "percentReporting": "2"
+          },
+          {
+            "name": "District IV",
+            "totalVoters": 2545,
+            "ballotsCast": 1571,
+            "voterTurnout": 61.73,
+            "percentReporting": "4"
+          },
+          {
+            "name": "District V",
+            "totalVoters": 1079,
+            "ballotsCast": 632,
+            "voterTurnout": 58.57,
+            "percentReporting": "4"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 8,
+        "precinctsReported": 3,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 8,
+            "Precinct": [
+              {
+                "name": "Cobbtown",
+                "votes": 0
+              },
+              {
+                "name": "Shiloh",
+                "votes": 1
+              },
+              {
+                "name": "Collins",
+                "votes": 1
+              },
+              {
+                "name": "Manassas",
+                "votes": 0
+              },
+              {
+                "name": "District II",
+                "votes": 1
+              },
+              {
+                "name": "East Glennville",
+                "votes": 1
+              },
+              {
+                "name": "District IV",
+                "votes": 3
+              },
+              {
+                "name": "District V",
+                "votes": 1
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Cobbtown",
+                "votes": 0
+              },
+              {
+                "name": "Shiloh",
+                "votes": 0
+              },
+              {
+                "name": "Collins",
+                "votes": 0
+              },
+              {
+                "name": "Manassas",
+                "votes": 0
+              },
+              {
+                "name": "District II",
+                "votes": 0
+              },
+              {
+                "name": "East Glennville",
+                "votes": 0
+              },
+              {
+                "name": "District IV",
+                "votes": 0
+              },
+              {
+                "name": "District V",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 3892,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 755,
+                "Precinct": [
+                  {
+                    "name": "Cobbtown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shiloh",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Collins",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Manassas",
+                    "votes": 78
+                  },
+                  {
+                    "name": "District II",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Glennville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District IV",
+                    "votes": 382
+                  },
+                  {
+                    "name": "District V",
+                    "votes": 295
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2571,
+                "Precinct": [
+                  {
+                    "name": "Cobbtown",
+                    "votes": 108
+                  },
+                  {
+                    "name": "Shiloh",
+                    "votes": 162
+                  },
+                  {
+                    "name": "Collins",
+                    "votes": 306
+                  },
+                  {
+                    "name": "Manassas",
+                    "votes": 43
+                  },
+                  {
+                    "name": "District II",
+                    "votes": 542
+                  },
+                  {
+                    "name": "East Glennville",
+                    "votes": 604
+                  },
+                  {
+                    "name": "District IV",
+                    "votes": 601
+                  },
+                  {
+                    "name": "District V",
+                    "votes": 205
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 566,
+                "Precinct": [
+                  {
+                    "name": "Cobbtown",
+                    "votes": 46
+                  },
+                  {
+                    "name": "Shiloh",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Collins",
+                    "votes": 67
+                  },
+                  {
+                    "name": "Manassas",
+                    "votes": 6
+                  },
+                  {
+                    "name": "District II",
+                    "votes": 95
+                  },
+                  {
+                    "name": "East Glennville",
+                    "votes": 164
+                  },
+                  {
+                    "name": "District IV",
+                    "votes": 115
+                  },
+                  {
+                    "name": "District V",
+                    "votes": 48
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Cobbtown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shiloh",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Collins",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Manassas",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District II",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Glennville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District IV",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District V",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 1527,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 165,
+                "Precinct": [
+                  {
+                    "name": "Cobbtown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shiloh",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Collins",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Manassas",
+                    "votes": 20
+                  },
+                  {
+                    "name": "District II",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Glennville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District IV",
+                    "votes": 128
+                  },
+                  {
+                    "name": "District V",
+                    "votes": 17
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 869,
+                "Precinct": [
+                  {
+                    "name": "Cobbtown",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Shiloh",
+                    "votes": 74
+                  },
+                  {
+                    "name": "Collins",
+                    "votes": 95
+                  },
+                  {
+                    "name": "Manassas",
+                    "votes": 16
+                  },
+                  {
+                    "name": "District II",
+                    "votes": 262
+                  },
+                  {
+                    "name": "East Glennville",
+                    "votes": 139
+                  },
+                  {
+                    "name": "District IV",
+                    "votes": 206
+                  },
+                  {
+                    "name": "District V",
+                    "votes": 47
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 493,
+                "Precinct": [
+                  {
+                    "name": "Cobbtown",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Shiloh",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Collins",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Manassas",
+                    "votes": 15
+                  },
+                  {
+                    "name": "District II",
+                    "votes": 98
+                  },
+                  {
+                    "name": "East Glennville",
+                    "votes": 84
+                  },
+                  {
+                    "name": "District IV",
+                    "votes": 136
+                  },
+                  {
+                    "name": "District V",
+                    "votes": 19
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Cobbtown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shiloh",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Collins",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Manassas",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District II",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Glennville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District IV",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District V",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 8,
+        "precinctsReported": 3,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 9,
+            "Precinct": [
+              {
+                "name": "Cobbtown",
+                "votes": 0
+              },
+              {
+                "name": "Shiloh",
+                "votes": 0
+              },
+              {
+                "name": "Collins",
+                "votes": 2
+              },
+              {
+                "name": "Manassas",
+                "votes": 0
+              },
+              {
+                "name": "District II",
+                "votes": 1
+              },
+              {
+                "name": "East Glennville",
+                "votes": 1
+              },
+              {
+                "name": "District IV",
+                "votes": 4
+              },
+              {
+                "name": "District V",
+                "votes": 1
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Cobbtown",
+                "votes": 0
+              },
+              {
+                "name": "Shiloh",
+                "votes": 0
+              },
+              {
+                "name": "Collins",
+                "votes": 0
+              },
+              {
+                "name": "Manassas",
+                "votes": 0
+              },
+              {
+                "name": "District II",
+                "votes": 0
+              },
+              {
+                "name": "East Glennville",
+                "votes": 0
+              },
+              {
+                "name": "District IV",
+                "votes": 0
+              },
+              {
+                "name": "District V",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 3893,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 757,
+                "Precinct": [
+                  {
+                    "name": "Cobbtown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shiloh",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Collins",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Manassas",
+                    "votes": 78
+                  },
+                  {
+                    "name": "District II",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Glennville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District IV",
+                    "votes": 383
+                  },
+                  {
+                    "name": "District V",
+                    "votes": 296
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2567,
+                "Precinct": [
+                  {
+                    "name": "Cobbtown",
+                    "votes": 109
+                  },
+                  {
+                    "name": "Shiloh",
+                    "votes": 165
+                  },
+                  {
+                    "name": "Collins",
+                    "votes": 307
+                  },
+                  {
+                    "name": "Manassas",
+                    "votes": 43
+                  },
+                  {
+                    "name": "District II",
+                    "votes": 537
+                  },
+                  {
+                    "name": "East Glennville",
+                    "votes": 602
+                  },
+                  {
+                    "name": "District IV",
+                    "votes": 598
+                  },
+                  {
+                    "name": "District V",
+                    "votes": 206
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 569,
+                "Precinct": [
+                  {
+                    "name": "Cobbtown",
+                    "votes": 47
+                  },
+                  {
+                    "name": "Shiloh",
+                    "votes": 25
+                  },
+                  {
+                    "name": "Collins",
+                    "votes": 66
+                  },
+                  {
+                    "name": "Manassas",
+                    "votes": 6
+                  },
+                  {
+                    "name": "District II",
+                    "votes": 97
+                  },
+                  {
+                    "name": "East Glennville",
+                    "votes": 165
+                  },
+                  {
+                    "name": "District IV",
+                    "votes": 115
+                  },
+                  {
+                    "name": "District V",
+                    "votes": 48
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Cobbtown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shiloh",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Collins",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Manassas",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District II",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Glennville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District IV",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District V",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 1525,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 162,
+                "Precinct": [
+                  {
+                    "name": "Cobbtown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shiloh",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Collins",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Manassas",
+                    "votes": 20
+                  },
+                  {
+                    "name": "District II",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Glennville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District IV",
+                    "votes": 126
+                  },
+                  {
+                    "name": "District V",
+                    "votes": 16
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 874,
+                "Precinct": [
+                  {
+                    "name": "Cobbtown",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Shiloh",
+                    "votes": 72
+                  },
+                  {
+                    "name": "Collins",
+                    "votes": 94
+                  },
+                  {
+                    "name": "Manassas",
+                    "votes": 16
+                  },
+                  {
+                    "name": "District II",
+                    "votes": 267
+                  },
+                  {
+                    "name": "East Glennville",
+                    "votes": 141
+                  },
+                  {
+                    "name": "District IV",
+                    "votes": 209
+                  },
+                  {
+                    "name": "District V",
+                    "votes": 46
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 489,
+                "Precinct": [
+                  {
+                    "name": "Cobbtown",
+                    "votes": 28
+                  },
+                  {
+                    "name": "Shiloh",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Collins",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Manassas",
+                    "votes": 15
+                  },
+                  {
+                    "name": "District II",
+                    "votes": 96
+                  },
+                  {
+                    "name": "East Glennville",
+                    "votes": 83
+                  },
+                  {
+                    "name": "District IV",
+                    "votes": 136
+                  },
+                  {
+                    "name": "District V",
+                    "votes": 19
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Cobbtown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shiloh",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Collins",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Manassas",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District II",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Glennville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District IV",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District V",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 8,
+        "precinctsReported": 3,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 113,
+            "Precinct": [
+              {
+                "name": "Cobbtown",
+                "votes": 4
+              },
+              {
+                "name": "Shiloh",
+                "votes": 9
+              },
+              {
+                "name": "Collins",
+                "votes": 12
+              },
+              {
+                "name": "Manassas",
+                "votes": 1
+              },
+              {
+                "name": "District II",
+                "votes": 28
+              },
+              {
+                "name": "East Glennville",
+                "votes": 10
+              },
+              {
+                "name": "District IV",
+                "votes": 34
+              },
+              {
+                "name": "District V",
+                "votes": 15
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Cobbtown",
+                "votes": 0
+              },
+              {
+                "name": "Shiloh",
+                "votes": 0
+              },
+              {
+                "name": "Collins",
+                "votes": 0
+              },
+              {
+                "name": "Manassas",
+                "votes": 0
+              },
+              {
+                "name": "District II",
+                "votes": 0
+              },
+              {
+                "name": "East Glennville",
+                "votes": 0
+              },
+              {
+                "name": "District IV",
+                "votes": 0
+              },
+              {
+                "name": "District V",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 3869,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 751,
+                "Precinct": [
+                  {
+                    "name": "Cobbtown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shiloh",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Collins",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Manassas",
+                    "votes": 78
+                  },
+                  {
+                    "name": "District II",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Glennville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District IV",
+                    "votes": 384
+                  },
+                  {
+                    "name": "District V",
+                    "votes": 289
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2547,
+                "Precinct": [
+                  {
+                    "name": "Cobbtown",
+                    "votes": 107
+                  },
+                  {
+                    "name": "Shiloh",
+                    "votes": 164
+                  },
+                  {
+                    "name": "Collins",
+                    "votes": 309
+                  },
+                  {
+                    "name": "Manassas",
+                    "votes": 43
+                  },
+                  {
+                    "name": "District II",
+                    "votes": 536
+                  },
+                  {
+                    "name": "East Glennville",
+                    "votes": 596
+                  },
+                  {
+                    "name": "District IV",
+                    "votes": 587
+                  },
+                  {
+                    "name": "District V",
+                    "votes": 205
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 571,
+                "Precinct": [
+                  {
+                    "name": "Cobbtown",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Shiloh",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Collins",
+                    "votes": 70
+                  },
+                  {
+                    "name": "Manassas",
+                    "votes": 6
+                  },
+                  {
+                    "name": "District II",
+                    "votes": 97
+                  },
+                  {
+                    "name": "East Glennville",
+                    "votes": 167
+                  },
+                  {
+                    "name": "District IV",
+                    "votes": 116
+                  },
+                  {
+                    "name": "District V",
+                    "votes": 47
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Cobbtown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shiloh",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Collins",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Manassas",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District II",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Glennville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District IV",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District V",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 1442,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 158,
+                "Precinct": [
+                  {
+                    "name": "Cobbtown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shiloh",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Collins",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Manassas",
+                    "votes": 20
+                  },
+                  {
+                    "name": "District II",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Glennville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District IV",
+                    "votes": 122
+                  },
+                  {
+                    "name": "District V",
+                    "votes": 16
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 819,
+                "Precinct": [
+                  {
+                    "name": "Cobbtown",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Shiloh",
+                    "votes": 68
+                  },
+                  {
+                    "name": "Collins",
+                    "votes": 84
+                  },
+                  {
+                    "name": "Manassas",
+                    "votes": 15
+                  },
+                  {
+                    "name": "District II",
+                    "votes": 243
+                  },
+                  {
+                    "name": "East Glennville",
+                    "votes": 139
+                  },
+                  {
+                    "name": "District IV",
+                    "votes": 197
+                  },
+                  {
+                    "name": "District V",
+                    "votes": 42
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 465,
+                "Precinct": [
+                  {
+                    "name": "Cobbtown",
+                    "votes": 26
+                  },
+                  {
+                    "name": "Shiloh",
+                    "votes": 37
+                  },
+                  {
+                    "name": "Collins",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Manassas",
+                    "votes": 15
+                  },
+                  {
+                    "name": "District II",
+                    "votes": 94
+                  },
+                  {
+                    "name": "East Glennville",
+                    "votes": 80
+                  },
+                  {
+                    "name": "District IV",
+                    "votes": 131
+                  },
+                  {
+                    "name": "District V",
+                    "votes": 18
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Cobbtown",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Shiloh",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Collins",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Manassas",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District II",
+                    "votes": 0
+                  },
+                  {
+                    "name": "East Glennville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District IV",
+                    "votes": 0
+                  },
+                  {
+                    "name": "District V",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

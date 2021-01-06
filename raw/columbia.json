@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:32:30 PM EST",
+    "Timestamp": "1/5/2021 8:45:32 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Columbia",
     "VoterTurnout": {
       "totalVoters": 109715,
-      "ballotsCast": 3175,
-      "voterTurnout": 2.89,
+      "ballotsCast": 9584,
+      "voterTurnout": 8.74,
       "Precincts": {
         "Precinct": [
           {
@@ -20,9 +20,9 @@
           {
             "name": "Lewis Methodist Church",
             "totalVoters": 3814,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 749,
+            "voterTurnout": 19.64,
+            "percentReporting": "2"
           },
           {
             "name": "Woodlawn Baptist Church",
@@ -41,9 +41,9 @@
           {
             "name": "New Life Church",
             "totalVoters": 4571,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 703,
+            "voterTurnout": 15.38,
+            "percentReporting": "2"
           },
           {
             "name": "Harlem Branch Library",
@@ -55,9 +55,9 @@
           {
             "name": "Harlem Senior Center",
             "totalVoters": 1870,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 468,
+            "voterTurnout": 25.03,
+            "percentReporting": "2"
           },
           {
             "name": "Second Mt Moriah Baptist Church",
@@ -76,9 +76,9 @@
           {
             "name": "Philadelphia Church",
             "totalVoters": 2425,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 430,
+            "voterTurnout": 17.73,
+            "percentReporting": "2"
           },
           {
             "name": "Liberty Park-Grovetown",
@@ -139,9 +139,9 @@
           {
             "name": "Col Cty Bd of Edu",
             "totalVoters": 2200,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 412,
+            "voterTurnout": 18.73,
+            "percentReporting": "2"
           },
           {
             "name": "Greenbrier High",
@@ -174,9 +174,9 @@
           {
             "name": "Christ Sanctified",
             "totalVoters": 2576,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 629,
+            "voterTurnout": 24.42,
+            "percentReporting": "2"
           },
           {
             "name": "Blanchard Park",
@@ -202,9 +202,9 @@
           {
             "name": "Westside Baptist Church",
             "totalVoters": 1530,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 388,
+            "voterTurnout": 25.36,
+            "percentReporting": "2"
           },
           {
             "name": "Trinity Baptist Church",
@@ -230,9 +230,9 @@
           {
             "name": "Savannah Rapids Pavilion",
             "totalVoters": 1567,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 329,
+            "voterTurnout": 21.0,
+            "percentReporting": "2"
           },
           {
             "name": "Gospel Water Branch",
@@ -258,16 +258,16 @@
           {
             "name": "Mtz Col Fire Hdqtr",
             "totalVoters": 1318,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 330,
+            "voterTurnout": 25.04,
+            "percentReporting": "2"
           },
           {
             "name": "Lakeside Middle",
             "totalVoters": 1958,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 405,
+            "voterTurnout": 20.68,
+            "percentReporting": "2"
           },
           {
             "name": "Martinez Baptist",
@@ -293,9 +293,9 @@
           {
             "name": "West Acres Baptist",
             "totalVoters": 2481,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 537,
+            "voterTurnout": 21.64,
+            "percentReporting": "2"
           },
           {
             "name": "Journey Comm Church",
@@ -321,16 +321,16 @@
           {
             "name": "Christ Church Presbyterian",
             "totalVoters": 2110,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 501,
+            "voterTurnout": 23.74,
+            "percentReporting": "2"
           },
           {
             "name": "Blue Ridge Elementary",
             "totalVoters": 2354,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 528,
+            "voterTurnout": 22.43,
+            "percentReporting": "2"
           },
           {
             "name": "Christ The King Luth Church",
@@ -353,7 +353,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 4,
+            "votes": 15,
             "Precinct": [
               {
                 "name": "Kiokee Baptist Church",
@@ -373,7 +373,7 @@
               },
               {
                 "name": "New Life Church",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Harlem Branch Library",
@@ -381,7 +381,7 @@
               },
               {
                 "name": "Harlem Senior Center",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Second Mt Moriah Baptist Church",
@@ -429,7 +429,7 @@
               },
               {
                 "name": "Col Cty Bd of Edu",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Greenbrier High",
@@ -449,7 +449,7 @@
               },
               {
                 "name": "Christ Sanctified",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Blanchard Park",
@@ -465,7 +465,7 @@
               },
               {
                 "name": "Westside Baptist Church",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Trinity Baptist Church",
@@ -497,7 +497,7 @@
               },
               {
                 "name": "Mtz Col Fire Hdqtr",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Lakeside Middle",
@@ -517,7 +517,7 @@
               },
               {
                 "name": "West Acres Baptist",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Journey Comm Church",
@@ -537,7 +537,7 @@
               },
               {
                 "name": "Blue Ridge Elementary",
-                "votes": 0
+                "votes": 3
               },
               {
                 "name": "Christ The King Luth Church",
@@ -744,11 +744,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 2223,
+            "totalVotes": 7024,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2223,
+                "votes": 7024,
                 "Precinct": [
                   {
                     "name": "Kiokee Baptist Church",
@@ -756,7 +756,7 @@
                   },
                   {
                     "name": "Lewis Methodist Church",
-                    "votes": 0
+                    "votes": 556
                   },
                   {
                     "name": "Woodlawn Baptist Church",
@@ -768,7 +768,7 @@
                   },
                   {
                     "name": "New Life Church",
-                    "votes": 0
+                    "votes": 432
                   },
                   {
                     "name": "Harlem Branch Library",
@@ -776,7 +776,7 @@
                   },
                   {
                     "name": "Harlem Senior Center",
-                    "votes": 0
+                    "votes": 360
                   },
                   {
                     "name": "Second Mt Moriah Baptist Church",
@@ -788,7 +788,7 @@
                   },
                   {
                     "name": "Philadelphia Church",
-                    "votes": 0
+                    "votes": 312
                   },
                   {
                     "name": "Liberty Park-Grovetown",
@@ -824,7 +824,7 @@
                   },
                   {
                     "name": "Col Cty Bd of Edu",
-                    "votes": 0
+                    "votes": 304
                   },
                   {
                     "name": "Greenbrier High",
@@ -844,7 +844,7 @@
                   },
                   {
                     "name": "Christ Sanctified",
-                    "votes": 0
+                    "votes": 493
                   },
                   {
                     "name": "Blanchard Park",
@@ -860,7 +860,7 @@
                   },
                   {
                     "name": "Westside Baptist Church",
-                    "votes": 0
+                    "votes": 320
                   },
                   {
                     "name": "Trinity Baptist Church",
@@ -876,7 +876,7 @@
                   },
                   {
                     "name": "Savannah Rapids Pavilion",
-                    "votes": 0
+                    "votes": 285
                   },
                   {
                     "name": "Gospel Water Branch",
@@ -892,11 +892,11 @@
                   },
                   {
                     "name": "Mtz Col Fire Hdqtr",
-                    "votes": 0
+                    "votes": 229
                   },
                   {
                     "name": "Lakeside Middle",
-                    "votes": 0
+                    "votes": 291
                   },
                   {
                     "name": "Martinez Baptist",
@@ -912,7 +912,7 @@
                   },
                   {
                     "name": "West Acres Baptist",
-                    "votes": 0
+                    "votes": 424
                   },
                   {
                     "name": "Journey Comm Church",
@@ -928,11 +928,11 @@
                   },
                   {
                     "name": "Christ Church Presbyterian",
-                    "votes": 0
+                    "votes": 416
                   },
                   {
                     "name": "Blue Ridge Elementary",
-                    "votes": 0
+                    "votes": 379
                   },
                   {
                     "name": "Christ The King Luth Church",
@@ -1527,11 +1527,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 948,
+            "totalVotes": 2545,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 948,
+                "votes": 2545,
                 "Precinct": [
                   {
                     "name": "Kiokee Baptist Church",
@@ -1539,7 +1539,7 @@
                   },
                   {
                     "name": "Lewis Methodist Church",
-                    "votes": 0
+                    "votes": 193
                   },
                   {
                     "name": "Woodlawn Baptist Church",
@@ -1551,7 +1551,7 @@
                   },
                   {
                     "name": "New Life Church",
-                    "votes": 0
+                    "votes": 270
                   },
                   {
                     "name": "Harlem Branch Library",
@@ -1559,7 +1559,7 @@
                   },
                   {
                     "name": "Harlem Senior Center",
-                    "votes": 0
+                    "votes": 107
                   },
                   {
                     "name": "Second Mt Moriah Baptist Church",
@@ -1571,7 +1571,7 @@
                   },
                   {
                     "name": "Philadelphia Church",
-                    "votes": 0
+                    "votes": 118
                   },
                   {
                     "name": "Liberty Park-Grovetown",
@@ -1607,7 +1607,7 @@
                   },
                   {
                     "name": "Col Cty Bd of Edu",
-                    "votes": 0
+                    "votes": 107
                   },
                   {
                     "name": "Greenbrier High",
@@ -1627,7 +1627,7 @@
                   },
                   {
                     "name": "Christ Sanctified",
-                    "votes": 0
+                    "votes": 134
                   },
                   {
                     "name": "Blanchard Park",
@@ -1643,7 +1643,7 @@
                   },
                   {
                     "name": "Westside Baptist Church",
-                    "votes": 0
+                    "votes": 67
                   },
                   {
                     "name": "Trinity Baptist Church",
@@ -1659,7 +1659,7 @@
                   },
                   {
                     "name": "Savannah Rapids Pavilion",
-                    "votes": 0
+                    "votes": 44
                   },
                   {
                     "name": "Gospel Water Branch",
@@ -1675,11 +1675,11 @@
                   },
                   {
                     "name": "Mtz Col Fire Hdqtr",
-                    "votes": 0
+                    "votes": 100
                   },
                   {
                     "name": "Lakeside Middle",
-                    "votes": 0
+                    "votes": 114
                   },
                   {
                     "name": "Martinez Baptist",
@@ -1695,7 +1695,7 @@
                   },
                   {
                     "name": "West Acres Baptist",
-                    "votes": 0
+                    "votes": 112
                   },
                   {
                     "name": "Journey Comm Church",
@@ -1711,11 +1711,11 @@
                   },
                   {
                     "name": "Christ Church Presbyterian",
-                    "votes": 0
+                    "votes": 85
                   },
                   {
                     "name": "Blue Ridge Elementary",
-                    "votes": 0
+                    "votes": 146
                   },
                   {
                     "name": "Christ The King Luth Church",
@@ -2319,7 +2319,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 7,
+            "votes": 20,
             "Precinct": [
               {
                 "name": "Kiokee Baptist Church",
@@ -2327,7 +2327,7 @@
               },
               {
                 "name": "Lewis Methodist Church",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Woodlawn Baptist Church",
@@ -2339,7 +2339,7 @@
               },
               {
                 "name": "New Life Church",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Harlem Branch Library",
@@ -2395,7 +2395,7 @@
               },
               {
                 "name": "Col Cty Bd of Edu",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Greenbrier High",
@@ -2415,7 +2415,7 @@
               },
               {
                 "name": "Christ Sanctified",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Blanchard Park",
@@ -2431,7 +2431,7 @@
               },
               {
                 "name": "Westside Baptist Church",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Trinity Baptist Church",
@@ -2447,7 +2447,7 @@
               },
               {
                 "name": "Savannah Rapids Pavilion",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Gospel Water Branch",
@@ -2463,7 +2463,7 @@
               },
               {
                 "name": "Mtz Col Fire Hdqtr",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Lakeside Middle",
@@ -2483,7 +2483,7 @@
               },
               {
                 "name": "West Acres Baptist",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Journey Comm Church",
@@ -2499,11 +2499,11 @@
               },
               {
                 "name": "Christ Church Presbyterian",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Blue Ridge Elementary",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Christ The King Luth Church",
@@ -2710,11 +2710,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 2215,
+            "totalVotes": 7012,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2215,
+                "votes": 7012,
                 "Precinct": [
                   {
                     "name": "Kiokee Baptist Church",
@@ -2722,7 +2722,7 @@
                   },
                   {
                     "name": "Lewis Methodist Church",
-                    "votes": 0
+                    "votes": 558
                   },
                   {
                     "name": "Woodlawn Baptist Church",
@@ -2734,7 +2734,7 @@
                   },
                   {
                     "name": "New Life Church",
-                    "votes": 0
+                    "votes": 432
                   },
                   {
                     "name": "Harlem Branch Library",
@@ -2742,7 +2742,7 @@
                   },
                   {
                     "name": "Harlem Senior Center",
-                    "votes": 0
+                    "votes": 362
                   },
                   {
                     "name": "Second Mt Moriah Baptist Church",
@@ -2754,7 +2754,7 @@
                   },
                   {
                     "name": "Philadelphia Church",
-                    "votes": 0
+                    "votes": 308
                   },
                   {
                     "name": "Liberty Park-Grovetown",
@@ -2790,7 +2790,7 @@
                   },
                   {
                     "name": "Col Cty Bd of Edu",
-                    "votes": 0
+                    "votes": 306
                   },
                   {
                     "name": "Greenbrier High",
@@ -2810,7 +2810,7 @@
                   },
                   {
                     "name": "Christ Sanctified",
-                    "votes": 0
+                    "votes": 494
                   },
                   {
                     "name": "Blanchard Park",
@@ -2826,7 +2826,7 @@
                   },
                   {
                     "name": "Westside Baptist Church",
-                    "votes": 0
+                    "votes": 319
                   },
                   {
                     "name": "Trinity Baptist Church",
@@ -2842,7 +2842,7 @@
                   },
                   {
                     "name": "Savannah Rapids Pavilion",
-                    "votes": 0
+                    "votes": 285
                   },
                   {
                     "name": "Gospel Water Branch",
@@ -2858,11 +2858,11 @@
                   },
                   {
                     "name": "Mtz Col Fire Hdqtr",
-                    "votes": 0
+                    "votes": 231
                   },
                   {
                     "name": "Lakeside Middle",
-                    "votes": 0
+                    "votes": 294
                   },
                   {
                     "name": "Martinez Baptist",
@@ -2878,7 +2878,7 @@
                   },
                   {
                     "name": "West Acres Baptist",
-                    "votes": 0
+                    "votes": 423
                   },
                   {
                     "name": "Journey Comm Church",
@@ -2894,11 +2894,11 @@
                   },
                   {
                     "name": "Christ Church Presbyterian",
-                    "votes": 0
+                    "votes": 412
                   },
                   {
                     "name": "Blue Ridge Elementary",
-                    "votes": 0
+                    "votes": 373
                   },
                   {
                     "name": "Christ The King Luth Church",
@@ -3493,11 +3493,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 953,
+            "totalVotes": 2552,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 953,
+                "votes": 2552,
                 "Precinct": [
                   {
                     "name": "Kiokee Baptist Church",
@@ -3505,7 +3505,7 @@
                   },
                   {
                     "name": "Lewis Methodist Church",
-                    "votes": 0
+                    "votes": 190
                   },
                   {
                     "name": "Woodlawn Baptist Church",
@@ -3517,7 +3517,7 @@
                   },
                   {
                     "name": "New Life Church",
-                    "votes": 0
+                    "votes": 270
                   },
                   {
                     "name": "Harlem Branch Library",
@@ -3525,7 +3525,7 @@
                   },
                   {
                     "name": "Harlem Senior Center",
-                    "votes": 0
+                    "votes": 106
                   },
                   {
                     "name": "Second Mt Moriah Baptist Church",
@@ -3537,7 +3537,7 @@
                   },
                   {
                     "name": "Philadelphia Church",
-                    "votes": 0
+                    "votes": 122
                   },
                   {
                     "name": "Liberty Park-Grovetown",
@@ -3573,7 +3573,7 @@
                   },
                   {
                     "name": "Col Cty Bd of Edu",
-                    "votes": 0
+                    "votes": 104
                   },
                   {
                     "name": "Greenbrier High",
@@ -3593,7 +3593,7 @@
                   },
                   {
                     "name": "Christ Sanctified",
-                    "votes": 0
+                    "votes": 134
                   },
                   {
                     "name": "Blanchard Park",
@@ -3609,7 +3609,7 @@
                   },
                   {
                     "name": "Westside Baptist Church",
-                    "votes": 0
+                    "votes": 68
                   },
                   {
                     "name": "Trinity Baptist Church",
@@ -3625,7 +3625,7 @@
                   },
                   {
                     "name": "Savannah Rapids Pavilion",
-                    "votes": 0
+                    "votes": 43
                   },
                   {
                     "name": "Gospel Water Branch",
@@ -3641,11 +3641,11 @@
                   },
                   {
                     "name": "Mtz Col Fire Hdqtr",
-                    "votes": 0
+                    "votes": 98
                   },
                   {
                     "name": "Lakeside Middle",
-                    "votes": 0
+                    "votes": 111
                   },
                   {
                     "name": "Martinez Baptist",
@@ -3661,7 +3661,7 @@
                   },
                   {
                     "name": "West Acres Baptist",
-                    "votes": 0
+                    "votes": 113
                   },
                   {
                     "name": "Journey Comm Church",
@@ -3677,11 +3677,11 @@
                   },
                   {
                     "name": "Christ Church Presbyterian",
-                    "votes": 0
+                    "votes": 87
                   },
                   {
                     "name": "Blue Ridge Elementary",
-                    "votes": 0
+                    "votes": 153
                   },
                   {
                     "name": "Christ The King Luth Church",
@@ -4285,7 +4285,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 19,
+            "votes": 70,
             "Precinct": [
               {
                 "name": "Kiokee Baptist Church",
@@ -4293,7 +4293,7 @@
               },
               {
                 "name": "Lewis Methodist Church",
-                "votes": 0
+                "votes": 3
               },
               {
                 "name": "Woodlawn Baptist Church",
@@ -4305,7 +4305,7 @@
               },
               {
                 "name": "New Life Church",
-                "votes": 0
+                "votes": 3
               },
               {
                 "name": "Harlem Branch Library",
@@ -4313,7 +4313,7 @@
               },
               {
                 "name": "Harlem Senior Center",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Second Mt Moriah Baptist Church",
@@ -4325,7 +4325,7 @@
               },
               {
                 "name": "Philadelphia Church",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Liberty Park-Grovetown",
@@ -4361,7 +4361,7 @@
               },
               {
                 "name": "Col Cty Bd of Edu",
-                "votes": 0
+                "votes": 4
               },
               {
                 "name": "Greenbrier High",
@@ -4381,7 +4381,7 @@
               },
               {
                 "name": "Christ Sanctified",
-                "votes": 0
+                "votes": 7
               },
               {
                 "name": "Blanchard Park",
@@ -4397,7 +4397,7 @@
               },
               {
                 "name": "Westside Baptist Church",
-                "votes": 0
+                "votes": 6
               },
               {
                 "name": "Trinity Baptist Church",
@@ -4413,7 +4413,7 @@
               },
               {
                 "name": "Savannah Rapids Pavilion",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Gospel Water Branch",
@@ -4429,11 +4429,11 @@
               },
               {
                 "name": "Mtz Col Fire Hdqtr",
-                "votes": 0
+                "votes": 4
               },
               {
                 "name": "Lakeside Middle",
-                "votes": 0
+                "votes": 4
               },
               {
                 "name": "Martinez Baptist",
@@ -4449,7 +4449,7 @@
               },
               {
                 "name": "West Acres Baptist",
-                "votes": 0
+                "votes": 4
               },
               {
                 "name": "Journey Comm Church",
@@ -4465,11 +4465,11 @@
               },
               {
                 "name": "Christ Church Presbyterian",
-                "votes": 0
+                "votes": 6
               },
               {
                 "name": "Blue Ridge Elementary",
-                "votes": 0
+                "votes": 6
               },
               {
                 "name": "Christ The King Luth Church",
@@ -4676,11 +4676,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 2247,
+            "totalVotes": 7098,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2247,
+                "votes": 7098,
                 "Precinct": [
                   {
                     "name": "Kiokee Baptist Church",
@@ -4688,7 +4688,7 @@
                   },
                   {
                     "name": "Lewis Methodist Church",
-                    "votes": 0
+                    "votes": 569
                   },
                   {
                     "name": "Woodlawn Baptist Church",
@@ -4700,7 +4700,7 @@
                   },
                   {
                     "name": "New Life Church",
-                    "votes": 0
+                    "votes": 433
                   },
                   {
                     "name": "Harlem Branch Library",
@@ -4708,7 +4708,7 @@
                   },
                   {
                     "name": "Harlem Senior Center",
-                    "votes": 0
+                    "votes": 365
                   },
                   {
                     "name": "Second Mt Moriah Baptist Church",
@@ -4720,7 +4720,7 @@
                   },
                   {
                     "name": "Philadelphia Church",
-                    "votes": 0
+                    "votes": 315
                   },
                   {
                     "name": "Liberty Park-Grovetown",
@@ -4756,7 +4756,7 @@
                   },
                   {
                     "name": "Col Cty Bd of Edu",
-                    "votes": 0
+                    "votes": 315
                   },
                   {
                     "name": "Greenbrier High",
@@ -4776,7 +4776,7 @@
                   },
                   {
                     "name": "Christ Sanctified",
-                    "votes": 0
+                    "votes": 492
                   },
                   {
                     "name": "Blanchard Park",
@@ -4792,7 +4792,7 @@
                   },
                   {
                     "name": "Westside Baptist Church",
-                    "votes": 0
+                    "votes": 326
                   },
                   {
                     "name": "Trinity Baptist Church",
@@ -4808,7 +4808,7 @@
                   },
                   {
                     "name": "Savannah Rapids Pavilion",
-                    "votes": 0
+                    "votes": 291
                   },
                   {
                     "name": "Gospel Water Branch",
@@ -4824,11 +4824,11 @@
                   },
                   {
                     "name": "Mtz Col Fire Hdqtr",
-                    "votes": 0
+                    "votes": 233
                   },
                   {
                     "name": "Lakeside Middle",
-                    "votes": 0
+                    "votes": 297
                   },
                   {
                     "name": "Martinez Baptist",
@@ -4844,7 +4844,7 @@
                   },
                   {
                     "name": "West Acres Baptist",
-                    "votes": 0
+                    "votes": 422
                   },
                   {
                     "name": "Journey Comm Church",
@@ -4860,11 +4860,11 @@
                   },
                   {
                     "name": "Christ Church Presbyterian",
-                    "votes": 0
+                    "votes": 420
                   },
                   {
                     "name": "Blue Ridge Elementary",
-                    "votes": 0
+                    "votes": 373
                   },
                   {
                     "name": "Christ The King Luth Church",
@@ -5459,11 +5459,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 909,
+            "totalVotes": 2416,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 909,
+                "votes": 2416,
                 "Precinct": [
                   {
                     "name": "Kiokee Baptist Church",
@@ -5471,7 +5471,7 @@
                   },
                   {
                     "name": "Lewis Methodist Church",
-                    "votes": 0
+                    "votes": 177
                   },
                   {
                     "name": "Woodlawn Baptist Church",
@@ -5483,7 +5483,7 @@
                   },
                   {
                     "name": "New Life Church",
-                    "votes": 0
+                    "votes": 267
                   },
                   {
                     "name": "Harlem Branch Library",
@@ -5491,7 +5491,7 @@
                   },
                   {
                     "name": "Harlem Senior Center",
-                    "votes": 0
+                    "votes": 102
                   },
                   {
                     "name": "Second Mt Moriah Baptist Church",
@@ -5503,7 +5503,7 @@
                   },
                   {
                     "name": "Philadelphia Church",
-                    "votes": 0
+                    "votes": 114
                   },
                   {
                     "name": "Liberty Park-Grovetown",
@@ -5539,7 +5539,7 @@
                   },
                   {
                     "name": "Col Cty Bd of Edu",
-                    "votes": 0
+                    "votes": 93
                   },
                   {
                     "name": "Greenbrier High",
@@ -5559,7 +5559,7 @@
                   },
                   {
                     "name": "Christ Sanctified",
-                    "votes": 0
+                    "votes": 130
                   },
                   {
                     "name": "Blanchard Park",
@@ -5575,7 +5575,7 @@
                   },
                   {
                     "name": "Westside Baptist Church",
-                    "votes": 0
+                    "votes": 56
                   },
                   {
                     "name": "Trinity Baptist Church",
@@ -5591,7 +5591,7 @@
                   },
                   {
                     "name": "Savannah Rapids Pavilion",
-                    "votes": 0
+                    "votes": 36
                   },
                   {
                     "name": "Gospel Water Branch",
@@ -5607,11 +5607,11 @@
                   },
                   {
                     "name": "Mtz Col Fire Hdqtr",
-                    "votes": 0
+                    "votes": 93
                   },
                   {
                     "name": "Lakeside Middle",
-                    "votes": 0
+                    "votes": 104
                   },
                   {
                     "name": "Martinez Baptist",
@@ -5627,7 +5627,7 @@
                   },
                   {
                     "name": "West Acres Baptist",
-                    "votes": 0
+                    "votes": 111
                   },
                   {
                     "name": "Journey Comm Church",
@@ -5643,11 +5643,11 @@
                   },
                   {
                     "name": "Christ Church Presbyterian",
-                    "votes": 0
+                    "votes": 75
                   },
                   {
                     "name": "Blue Ridge Elementary",
-                    "votes": 0
+                    "votes": 149
                   },
                   {
                     "name": "Christ The King Luth Church",

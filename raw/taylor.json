@@ -1,35 +1,35 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:41:56 PM EST",
+    "Timestamp": "1/5/2021 8:44:04 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
-    "Region": "Towns",
+    "Region": "Taylor",
     "VoterTurnout": {
       "totalVoters": 0,
-      "ballotsCast": 7236,
+      "ballotsCast": 0,
       "voterTurnout": 0.0,
       "Precincts": {
         "Precinct": [
           {
-            "name": "Young Harris",
+            "name": "Precinct 1",
             "totalVoters": 0,
-            "ballotsCast": 2241,
+            "ballotsCast": 0,
             "voterTurnout": 0.0,
-            "percentReporting": "4"
+            "percentReporting": "1"
           },
           {
-            "name": "Macedonia",
+            "name": "Precinct 5",
             "totalVoters": 0,
-            "ballotsCast": 2545,
+            "ballotsCast": 0,
             "voterTurnout": 0.0,
-            "percentReporting": "4"
+            "percentReporting": "1"
           },
           {
-            "name": "Hiawassee",
+            "name": "Precinct 6",
             "totalVoters": 0,
-            "ballotsCast": 2450,
+            "ballotsCast": 0,
             "voterTurnout": 0.0,
-            "percentReporting": "4"
+            "percentReporting": "1"
           }
         ]
       }
@@ -41,40 +41,40 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 3,
-        "precinctsReported": 3,
+        "precinctsReported": 0,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 16,
+            "votes": 0,
             "Precinct": [
               {
-                "name": "Young Harris",
-                "votes": 7
+                "name": "Precinct 1",
+                "votes": 0
               },
               {
-                "name": "Macedonia",
-                "votes": 3
+                "name": "Precinct 5",
+                "votes": 0
               },
               {
-                "name": "Hiawassee",
-                "votes": 6
+                "name": "Precinct 6",
+                "votes": 0
               }
             ]
           },
           {
             "name": "Overvotes",
-            "votes": 2,
+            "votes": 0,
             "Precinct": [
               {
-                "name": "Young Harris",
+                "name": "Precinct 1",
                 "votes": 0
               },
               {
-                "name": "Macedonia",
-                "votes": 2
+                "name": "Precinct 5",
+                "votes": 0
               },
               {
-                "name": "Hiawassee",
+                "name": "Precinct 6",
                 "votes": 0
               }
             ]
@@ -84,59 +84,59 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 5831,
+            "totalVotes": 0,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1378,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Young Harris",
-                    "votes": 482
+                    "name": "Precinct 1",
+                    "votes": 0
                   },
                   {
-                    "name": "Macedonia",
-                    "votes": 492
+                    "name": "Precinct 5",
+                    "votes": 0
                   },
                   {
-                    "name": "Hiawassee",
-                    "votes": 404
+                    "name": "Precinct 6",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 3458,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Young Harris",
-                    "votes": 969
+                    "name": "Precinct 1",
+                    "votes": 0
                   },
                   {
-                    "name": "Macedonia",
-                    "votes": 1262
+                    "name": "Precinct 5",
+                    "votes": 0
                   },
                   {
-                    "name": "Hiawassee",
-                    "votes": 1227
+                    "name": "Precinct 6",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 995,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Young Harris",
-                    "votes": 291
+                    "name": "Precinct 1",
+                    "votes": 0
                   },
                   {
-                    "name": "Macedonia",
-                    "votes": 346
+                    "name": "Precinct 5",
+                    "votes": 0
                   },
                   {
-                    "name": "Hiawassee",
-                    "votes": 358
+                    "name": "Precinct 6",
+                    "votes": 0
                   }
                 ]
               },
@@ -145,15 +145,15 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Young Harris",
+                    "name": "Precinct 1",
                     "votes": 0
                   },
                   {
-                    "name": "Macedonia",
+                    "name": "Precinct 5",
                     "votes": 0
                   },
                   {
-                    "name": "Hiawassee",
+                    "name": "Precinct 6",
                     "votes": 0
                   }
                 ]
@@ -163,59 +163,59 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 1387,
+            "totalVotes": 0,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 156,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Young Harris",
-                    "votes": 71
+                    "name": "Precinct 1",
+                    "votes": 0
                   },
                   {
-                    "name": "Macedonia",
-                    "votes": 45
+                    "name": "Precinct 5",
+                    "votes": 0
                   },
                   {
-                    "name": "Hiawassee",
-                    "votes": 40
+                    "name": "Precinct 6",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 571,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Young Harris",
-                    "votes": 196
+                    "name": "Precinct 1",
+                    "votes": 0
                   },
                   {
-                    "name": "Macedonia",
-                    "votes": 187
+                    "name": "Precinct 5",
+                    "votes": 0
                   },
                   {
-                    "name": "Hiawassee",
-                    "votes": 188
+                    "name": "Precinct 6",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 660,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Young Harris",
-                    "votes": 225
+                    "name": "Precinct 1",
+                    "votes": 0
                   },
                   {
-                    "name": "Macedonia",
-                    "votes": 208
+                    "name": "Precinct 5",
+                    "votes": 0
                   },
                   {
-                    "name": "Hiawassee",
-                    "votes": 227
+                    "name": "Precinct 6",
+                    "votes": 0
                   }
                 ]
               },
@@ -224,15 +224,15 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Young Harris",
+                    "name": "Precinct 1",
                     "votes": 0
                   },
                   {
-                    "name": "Macedonia",
+                    "name": "Precinct 5",
                     "votes": 0
                   },
                   {
-                    "name": "Hiawassee",
+                    "name": "Precinct 6",
                     "votes": 0
                   }
                 ]
@@ -247,41 +247,41 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 3,
-        "precinctsReported": 3,
+        "precinctsReported": 0,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 17,
+            "votes": 0,
             "Precinct": [
               {
-                "name": "Young Harris",
-                "votes": 3
+                "name": "Precinct 1",
+                "votes": 0
               },
               {
-                "name": "Macedonia",
-                "votes": 6
+                "name": "Precinct 5",
+                "votes": 0
               },
               {
-                "name": "Hiawassee",
-                "votes": 8
+                "name": "Precinct 6",
+                "votes": 0
               }
             ]
           },
           {
             "name": "Overvotes",
-            "votes": 3,
+            "votes": 0,
             "Precinct": [
               {
-                "name": "Young Harris",
-                "votes": 2
-              },
-              {
-                "name": "Macedonia",
+                "name": "Precinct 1",
                 "votes": 0
               },
               {
-                "name": "Hiawassee",
-                "votes": 1
+                "name": "Precinct 5",
+                "votes": 0
+              },
+              {
+                "name": "Precinct 6",
+                "votes": 0
               }
             ]
           }
@@ -290,59 +290,59 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 5809,
+            "totalVotes": 0,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1372,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Young Harris",
-                    "votes": 482
+                    "name": "Precinct 1",
+                    "votes": 0
                   },
                   {
-                    "name": "Macedonia",
-                    "votes": 488
+                    "name": "Precinct 5",
+                    "votes": 0
                   },
                   {
-                    "name": "Hiawassee",
-                    "votes": 402
+                    "name": "Precinct 6",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 3455,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Young Harris",
-                    "votes": 966
+                    "name": "Precinct 1",
+                    "votes": 0
                   },
                   {
-                    "name": "Macedonia",
-                    "votes": 1261
+                    "name": "Precinct 5",
+                    "votes": 0
                   },
                   {
-                    "name": "Hiawassee",
-                    "votes": 1228
+                    "name": "Precinct 6",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 982,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Young Harris",
-                    "votes": 289
+                    "name": "Precinct 1",
+                    "votes": 0
                   },
                   {
-                    "name": "Macedonia",
-                    "votes": 341
+                    "name": "Precinct 5",
+                    "votes": 0
                   },
                   {
-                    "name": "Hiawassee",
-                    "votes": 352
+                    "name": "Precinct 6",
+                    "votes": 0
                   }
                 ]
               },
@@ -351,15 +351,15 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Young Harris",
+                    "name": "Precinct 1",
                     "votes": 0
                   },
                   {
-                    "name": "Macedonia",
+                    "name": "Precinct 5",
                     "votes": 0
                   },
                   {
-                    "name": "Hiawassee",
+                    "name": "Precinct 6",
                     "votes": 0
                   }
                 ]
@@ -369,59 +369,59 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 1407,
+            "totalVotes": 0,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 163,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Young Harris",
-                    "votes": 72
+                    "name": "Precinct 1",
+                    "votes": 0
                   },
                   {
-                    "name": "Macedonia",
-                    "votes": 49
+                    "name": "Precinct 5",
+                    "votes": 0
                   },
                   {
-                    "name": "Hiawassee",
-                    "votes": 42
+                    "name": "Precinct 6",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 576,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Young Harris",
-                    "votes": 199
+                    "name": "Precinct 1",
+                    "votes": 0
                   },
                   {
-                    "name": "Macedonia",
-                    "votes": 189
+                    "name": "Precinct 5",
+                    "votes": 0
                   },
                   {
-                    "name": "Hiawassee",
-                    "votes": 188
+                    "name": "Precinct 6",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 668,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Young Harris",
-                    "votes": 228
+                    "name": "Precinct 1",
+                    "votes": 0
                   },
                   {
-                    "name": "Macedonia",
-                    "votes": 211
+                    "name": "Precinct 5",
+                    "votes": 0
                   },
                   {
-                    "name": "Hiawassee",
-                    "votes": 229
+                    "name": "Precinct 6",
+                    "votes": 0
                   }
                 ]
               },
@@ -430,15 +430,15 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Young Harris",
+                    "name": "Precinct 1",
                     "votes": 0
                   },
                   {
-                    "name": "Macedonia",
+                    "name": "Precinct 5",
                     "votes": 0
                   },
                   {
-                    "name": "Hiawassee",
+                    "name": "Precinct 6",
                     "votes": 0
                   }
                 ]
@@ -453,23 +453,23 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 3,
-        "precinctsReported": 3,
+        "precinctsReported": 0,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 115,
+            "votes": 0,
             "Precinct": [
               {
-                "name": "Young Harris",
-                "votes": 28
+                "name": "Precinct 1",
+                "votes": 0
               },
               {
-                "name": "Macedonia",
-                "votes": 48
+                "name": "Precinct 5",
+                "votes": 0
               },
               {
-                "name": "Hiawassee",
-                "votes": 39
+                "name": "Precinct 6",
+                "votes": 0
               }
             ]
           },
@@ -478,15 +478,15 @@
             "votes": 0,
             "Precinct": [
               {
-                "name": "Young Harris",
+                "name": "Precinct 1",
                 "votes": 0
               },
               {
-                "name": "Macedonia",
+                "name": "Precinct 5",
                 "votes": 0
               },
               {
-                "name": "Hiawassee",
+                "name": "Precinct 6",
                 "votes": 0
               }
             ]
@@ -496,59 +496,59 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 5790,
+            "totalVotes": 0,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 1374,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Young Harris",
-                    "votes": 479
+                    "name": "Precinct 1",
+                    "votes": 0
                   },
                   {
-                    "name": "Macedonia",
-                    "votes": 492
+                    "name": "Precinct 5",
+                    "votes": 0
                   },
                   {
-                    "name": "Hiawassee",
-                    "votes": 403
+                    "name": "Precinct 6",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 3434,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Young Harris",
-                    "votes": 966
+                    "name": "Precinct 1",
+                    "votes": 0
                   },
                   {
-                    "name": "Macedonia",
-                    "votes": 1246
+                    "name": "Precinct 5",
+                    "votes": 0
                   },
                   {
-                    "name": "Hiawassee",
-                    "votes": 1222
+                    "name": "Precinct 6",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 982,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Young Harris",
-                    "votes": 292
+                    "name": "Precinct 1",
+                    "votes": 0
                   },
                   {
-                    "name": "Macedonia",
-                    "votes": 334
+                    "name": "Precinct 5",
+                    "votes": 0
                   },
                   {
-                    "name": "Hiawassee",
-                    "votes": 356
+                    "name": "Precinct 6",
+                    "votes": 0
                   }
                 ]
               },
@@ -557,15 +557,15 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Young Harris",
+                    "name": "Precinct 1",
                     "votes": 0
                   },
                   {
-                    "name": "Macedonia",
+                    "name": "Precinct 5",
                     "votes": 0
                   },
                   {
-                    "name": "Hiawassee",
+                    "name": "Precinct 6",
                     "votes": 0
                   }
                 ]
@@ -575,59 +575,59 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 1331,
+            "totalVotes": 0,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 151,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Young Harris",
-                    "votes": 73
+                    "name": "Precinct 1",
+                    "votes": 0
                   },
                   {
-                    "name": "Macedonia",
-                    "votes": 40
+                    "name": "Precinct 5",
+                    "votes": 0
                   },
                   {
-                    "name": "Hiawassee",
-                    "votes": 38
+                    "name": "Precinct 6",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 540,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Young Harris",
-                    "votes": 186
+                    "name": "Precinct 1",
+                    "votes": 0
                   },
                   {
-                    "name": "Macedonia",
-                    "votes": 176
+                    "name": "Precinct 5",
+                    "votes": 0
                   },
                   {
-                    "name": "Hiawassee",
-                    "votes": 178
+                    "name": "Precinct 6",
+                    "votes": 0
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 640,
+                "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Young Harris",
-                    "votes": 217
+                    "name": "Precinct 1",
+                    "votes": 0
                   },
                   {
-                    "name": "Macedonia",
-                    "votes": 209
+                    "name": "Precinct 5",
+                    "votes": 0
                   },
                   {
-                    "name": "Hiawassee",
-                    "votes": 214
+                    "name": "Precinct 6",
+                    "votes": 0
                   }
                 ]
               },
@@ -636,15 +636,15 @@
                 "votes": 0,
                 "Precinct": [
                   {
-                    "name": "Young Harris",
+                    "name": "Precinct 1",
                     "votes": 0
                   },
                   {
-                    "name": "Macedonia",
+                    "name": "Precinct 5",
                     "votes": 0
                   },
                   {
-                    "name": "Hiawassee",
+                    "name": "Precinct 6",
                     "votes": 0
                   }
                 ]

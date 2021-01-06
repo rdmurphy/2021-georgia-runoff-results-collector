@@ -1,0 +1,2055 @@
+{
+  "ElectionResult": {
+    "Timestamp": "1/5/2021 8:48:37 PM EST",
+    "ElectionName": "January 5, 2021 Federal Runoff",
+    "ElectionDate": "1/5/2021",
+    "Region": "Meriwether",
+    "VoterTurnout": {
+      "totalVoters": 15678,
+      "ballotsCast": 6609,
+      "voterTurnout": 42.15,
+      "Precincts": {
+        "Precinct": [
+          {
+            "name": "Chalybeate",
+            "totalVoters": 468,
+            "ballotsCast": 111,
+            "voterTurnout": 23.72,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Gill I",
+            "totalVoters": 1710,
+            "ballotsCast": 527,
+            "voterTurnout": 30.82,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Gill II",
+            "totalVoters": 1029,
+            "ballotsCast": 423,
+            "voterTurnout": 41.11,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Odessadale",
+            "totalVoters": 302,
+            "ballotsCast": 155,
+            "voterTurnout": 51.32,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Greenville",
+            "totalVoters": 2048,
+            "ballotsCast": 958,
+            "voterTurnout": 46.78,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Lone Oak",
+            "totalVoters": 1283,
+            "ballotsCast": 535,
+            "voterTurnout": 41.7,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Luthersville",
+            "totalVoters": 2817,
+            "ballotsCast": 1027,
+            "voterTurnout": 36.46,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Alvaton",
+            "totalVoters": 1568,
+            "ballotsCast": 579,
+            "voterTurnout": 36.93,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Gay",
+            "totalVoters": 417,
+            "ballotsCast": 138,
+            "voterTurnout": 33.09,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Woodbury",
+            "totalVoters": 1386,
+            "ballotsCast": 872,
+            "voterTurnout": 62.91,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Warm Springs",
+            "totalVoters": 1185,
+            "ballotsCast": 403,
+            "voterTurnout": 34.01,
+            "percentReporting": "2"
+          },
+          {
+            "name": "Durand",
+            "totalVoters": 743,
+            "ballotsCast": 498,
+            "voterTurnout": 67.03,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Raleigh",
+            "totalVoters": 519,
+            "ballotsCast": 335,
+            "voterTurnout": 64.55,
+            "percentReporting": "4"
+          },
+          {
+            "name": "Cove",
+            "totalVoters": 203,
+            "ballotsCast": 48,
+            "voterTurnout": 23.65,
+            "percentReporting": "2"
+          }
+        ]
+      }
+    },
+    "Contest": [
+      {
+        "key": "2",
+        "text": "US Senate (Perdue)",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 14,
+        "precinctsReported": 3,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 8,
+            "Precinct": [
+              {
+                "name": "Chalybeate",
+                "votes": 1
+              },
+              {
+                "name": "Gill I",
+                "votes": 0
+              },
+              {
+                "name": "Gill II",
+                "votes": 0
+              },
+              {
+                "name": "Odessadale",
+                "votes": 0
+              },
+              {
+                "name": "Greenville",
+                "votes": 3
+              },
+              {
+                "name": "Lone Oak",
+                "votes": 0
+              },
+              {
+                "name": "Luthersville",
+                "votes": 1
+              },
+              {
+                "name": "Alvaton",
+                "votes": 0
+              },
+              {
+                "name": "Gay",
+                "votes": 0
+              },
+              {
+                "name": "Woodbury",
+                "votes": 2
+              },
+              {
+                "name": "Warm Springs",
+                "votes": 0
+              },
+              {
+                "name": "Durand",
+                "votes": 0
+              },
+              {
+                "name": "Raleigh",
+                "votes": 1
+              },
+              {
+                "name": "Cove",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Chalybeate",
+                "votes": 0
+              },
+              {
+                "name": "Gill I",
+                "votes": 0
+              },
+              {
+                "name": "Gill II",
+                "votes": 0
+              },
+              {
+                "name": "Odessadale",
+                "votes": 0
+              },
+              {
+                "name": "Greenville",
+                "votes": 0
+              },
+              {
+                "name": "Lone Oak",
+                "votes": 0
+              },
+              {
+                "name": "Luthersville",
+                "votes": 0
+              },
+              {
+                "name": "Alvaton",
+                "votes": 0
+              },
+              {
+                "name": "Gay",
+                "votes": 0
+              },
+              {
+                "name": "Woodbury",
+                "votes": 0
+              },
+              {
+                "name": "Warm Springs",
+                "votes": 0
+              },
+              {
+                "name": "Durand",
+                "votes": 0
+              },
+              {
+                "name": "Raleigh",
+                "votes": 0
+              },
+              {
+                "name": "Cove",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "4",
+            "text": "David A. Perdue (I) (Rep)",
+            "totalVotes": 3562,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 494,
+                "Precinct": [
+                  {
+                    "name": "Chalybeate",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gill I",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gill II",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Odessadale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lone Oak",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Luthersville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alvaton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Woodbury",
+                    "votes": 186
+                  },
+                  {
+                    "name": "Warm Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Durand",
+                    "votes": 191
+                  },
+                  {
+                    "name": "Raleigh",
+                    "votes": 117
+                  },
+                  {
+                    "name": "Cove",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2332,
+                "Precinct": [
+                  {
+                    "name": "Chalybeate",
+                    "votes": 59
+                  },
+                  {
+                    "name": "Gill I",
+                    "votes": 199
+                  },
+                  {
+                    "name": "Gill II",
+                    "votes": 66
+                  },
+                  {
+                    "name": "Odessadale",
+                    "votes": 79
+                  },
+                  {
+                    "name": "Greenville",
+                    "votes": 355
+                  },
+                  {
+                    "name": "Lone Oak",
+                    "votes": 197
+                  },
+                  {
+                    "name": "Luthersville",
+                    "votes": 417
+                  },
+                  {
+                    "name": "Alvaton",
+                    "votes": 256
+                  },
+                  {
+                    "name": "Gay",
+                    "votes": 66
+                  },
+                  {
+                    "name": "Woodbury",
+                    "votes": 206
+                  },
+                  {
+                    "name": "Warm Springs",
+                    "votes": 177
+                  },
+                  {
+                    "name": "Durand",
+                    "votes": 98
+                  },
+                  {
+                    "name": "Raleigh",
+                    "votes": 129
+                  },
+                  {
+                    "name": "Cove",
+                    "votes": 28
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 736,
+                "Precinct": [
+                  {
+                    "name": "Chalybeate",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Gill I",
+                    "votes": 111
+                  },
+                  {
+                    "name": "Gill II",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Odessadale",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Greenville",
+                    "votes": 80
+                  },
+                  {
+                    "name": "Lone Oak",
+                    "votes": 38
+                  },
+                  {
+                    "name": "Luthersville",
+                    "votes": 134
+                  },
+                  {
+                    "name": "Alvaton",
+                    "votes": 74
+                  },
+                  {
+                    "name": "Gay",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Woodbury",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Warm Springs",
+                    "votes": 72
+                  },
+                  {
+                    "name": "Durand",
+                    "votes": 44
+                  },
+                  {
+                    "name": "Raleigh",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Cove",
+                    "votes": 15
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Chalybeate",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gill I",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gill II",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Odessadale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lone Oak",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Luthersville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alvaton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Woodbury",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warm Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Durand",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Raleigh",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cove",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "5",
+            "text": "Jon Ossoff (Dem)",
+            "totalVotes": 3039,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 233,
+                "Precinct": [
+                  {
+                    "name": "Chalybeate",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gill I",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gill II",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Odessadale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lone Oak",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Luthersville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alvaton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Woodbury",
+                    "votes": 175
+                  },
+                  {
+                    "name": "Warm Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Durand",
+                    "votes": 44
+                  },
+                  {
+                    "name": "Raleigh",
+                    "votes": 14
+                  },
+                  {
+                    "name": "Cove",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1482,
+                "Precinct": [
+                  {
+                    "name": "Chalybeate",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Gill I",
+                    "votes": 95
+                  },
+                  {
+                    "name": "Gill II",
+                    "votes": 146
+                  },
+                  {
+                    "name": "Odessadale",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Greenville",
+                    "votes": 337
+                  },
+                  {
+                    "name": "Lone Oak",
+                    "votes": 151
+                  },
+                  {
+                    "name": "Luthersville",
+                    "votes": 269
+                  },
+                  {
+                    "name": "Alvaton",
+                    "votes": 127
+                  },
+                  {
+                    "name": "Gay",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Woodbury",
+                    "votes": 126
+                  },
+                  {
+                    "name": "Warm Springs",
+                    "votes": 92
+                  },
+                  {
+                    "name": "Durand",
+                    "votes": 63
+                  },
+                  {
+                    "name": "Raleigh",
+                    "votes": 28
+                  },
+                  {
+                    "name": "Cove",
+                    "votes": 1
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1324,
+                "Precinct": [
+                  {
+                    "name": "Chalybeate",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Gill I",
+                    "votes": 122
+                  },
+                  {
+                    "name": "Gill II",
+                    "votes": 197
+                  },
+                  {
+                    "name": "Odessadale",
+                    "votes": 37
+                  },
+                  {
+                    "name": "Greenville",
+                    "votes": 183
+                  },
+                  {
+                    "name": "Lone Oak",
+                    "votes": 149
+                  },
+                  {
+                    "name": "Luthersville",
+                    "votes": 206
+                  },
+                  {
+                    "name": "Alvaton",
+                    "votes": 122
+                  },
+                  {
+                    "name": "Gay",
+                    "votes": 35
+                  },
+                  {
+                    "name": "Woodbury",
+                    "votes": 115
+                  },
+                  {
+                    "name": "Warm Springs",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Durand",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Raleigh",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Cove",
+                    "votes": 4
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Chalybeate",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gill I",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gill II",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Odessadale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lone Oak",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Luthersville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alvaton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Woodbury",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warm Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Durand",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Raleigh",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cove",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 14,
+        "precinctsReported": 3,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 13,
+            "Precinct": [
+              {
+                "name": "Chalybeate",
+                "votes": 1
+              },
+              {
+                "name": "Gill I",
+                "votes": 0
+              },
+              {
+                "name": "Gill II",
+                "votes": 1
+              },
+              {
+                "name": "Odessadale",
+                "votes": 0
+              },
+              {
+                "name": "Greenville",
+                "votes": 4
+              },
+              {
+                "name": "Lone Oak",
+                "votes": 2
+              },
+              {
+                "name": "Luthersville",
+                "votes": 1
+              },
+              {
+                "name": "Alvaton",
+                "votes": 0
+              },
+              {
+                "name": "Gay",
+                "votes": 0
+              },
+              {
+                "name": "Woodbury",
+                "votes": 2
+              },
+              {
+                "name": "Warm Springs",
+                "votes": 2
+              },
+              {
+                "name": "Durand",
+                "votes": 0
+              },
+              {
+                "name": "Raleigh",
+                "votes": 0
+              },
+              {
+                "name": "Cove",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Chalybeate",
+                "votes": 0
+              },
+              {
+                "name": "Gill I",
+                "votes": 0
+              },
+              {
+                "name": "Gill II",
+                "votes": 0
+              },
+              {
+                "name": "Odessadale",
+                "votes": 0
+              },
+              {
+                "name": "Greenville",
+                "votes": 0
+              },
+              {
+                "name": "Lone Oak",
+                "votes": 0
+              },
+              {
+                "name": "Luthersville",
+                "votes": 0
+              },
+              {
+                "name": "Alvaton",
+                "votes": 0
+              },
+              {
+                "name": "Gay",
+                "votes": 0
+              },
+              {
+                "name": "Woodbury",
+                "votes": 0
+              },
+              {
+                "name": "Warm Springs",
+                "votes": 0
+              },
+              {
+                "name": "Durand",
+                "votes": 0
+              },
+              {
+                "name": "Raleigh",
+                "votes": 0
+              },
+              {
+                "name": "Cove",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 3553,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 497,
+                "Precinct": [
+                  {
+                    "name": "Chalybeate",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gill I",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gill II",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Odessadale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lone Oak",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Luthersville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alvaton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Woodbury",
+                    "votes": 186
+                  },
+                  {
+                    "name": "Warm Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Durand",
+                    "votes": 192
+                  },
+                  {
+                    "name": "Raleigh",
+                    "votes": 119
+                  },
+                  {
+                    "name": "Cove",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2325,
+                "Precinct": [
+                  {
+                    "name": "Chalybeate",
+                    "votes": 59
+                  },
+                  {
+                    "name": "Gill I",
+                    "votes": 198
+                  },
+                  {
+                    "name": "Gill II",
+                    "votes": 65
+                  },
+                  {
+                    "name": "Odessadale",
+                    "votes": 79
+                  },
+                  {
+                    "name": "Greenville",
+                    "votes": 351
+                  },
+                  {
+                    "name": "Lone Oak",
+                    "votes": 199
+                  },
+                  {
+                    "name": "Luthersville",
+                    "votes": 416
+                  },
+                  {
+                    "name": "Alvaton",
+                    "votes": 256
+                  },
+                  {
+                    "name": "Gay",
+                    "votes": 66
+                  },
+                  {
+                    "name": "Woodbury",
+                    "votes": 207
+                  },
+                  {
+                    "name": "Warm Springs",
+                    "votes": 176
+                  },
+                  {
+                    "name": "Durand",
+                    "votes": 98
+                  },
+                  {
+                    "name": "Raleigh",
+                    "votes": 127
+                  },
+                  {
+                    "name": "Cove",
+                    "votes": 28
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 731,
+                "Precinct": [
+                  {
+                    "name": "Chalybeate",
+                    "votes": 23
+                  },
+                  {
+                    "name": "Gill I",
+                    "votes": 110
+                  },
+                  {
+                    "name": "Gill II",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Odessadale",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Greenville",
+                    "votes": 79
+                  },
+                  {
+                    "name": "Lone Oak",
+                    "votes": 38
+                  },
+                  {
+                    "name": "Luthersville",
+                    "votes": 132
+                  },
+                  {
+                    "name": "Alvaton",
+                    "votes": 73
+                  },
+                  {
+                    "name": "Gay",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Woodbury",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Warm Springs",
+                    "votes": 71
+                  },
+                  {
+                    "name": "Durand",
+                    "votes": 45
+                  },
+                  {
+                    "name": "Raleigh",
+                    "votes": 28
+                  },
+                  {
+                    "name": "Cove",
+                    "votes": 15
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Chalybeate",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gill I",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gill II",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Odessadale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lone Oak",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Luthersville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alvaton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Woodbury",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warm Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Durand",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Raleigh",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cove",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 3043,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 231,
+                "Precinct": [
+                  {
+                    "name": "Chalybeate",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gill I",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gill II",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Odessadale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lone Oak",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Luthersville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alvaton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Woodbury",
+                    "votes": 175
+                  },
+                  {
+                    "name": "Warm Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Durand",
+                    "votes": 43
+                  },
+                  {
+                    "name": "Raleigh",
+                    "votes": 13
+                  },
+                  {
+                    "name": "Cove",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1487,
+                "Precinct": [
+                  {
+                    "name": "Chalybeate",
+                    "votes": 11
+                  },
+                  {
+                    "name": "Gill I",
+                    "votes": 96
+                  },
+                  {
+                    "name": "Gill II",
+                    "votes": 147
+                  },
+                  {
+                    "name": "Odessadale",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Greenville",
+                    "votes": 341
+                  },
+                  {
+                    "name": "Lone Oak",
+                    "votes": 148
+                  },
+                  {
+                    "name": "Luthersville",
+                    "votes": 270
+                  },
+                  {
+                    "name": "Alvaton",
+                    "votes": 127
+                  },
+                  {
+                    "name": "Gay",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Woodbury",
+                    "votes": 126
+                  },
+                  {
+                    "name": "Warm Springs",
+                    "votes": 91
+                  },
+                  {
+                    "name": "Durand",
+                    "votes": 63
+                  },
+                  {
+                    "name": "Raleigh",
+                    "votes": 30
+                  },
+                  {
+                    "name": "Cove",
+                    "votes": 1
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1325,
+                "Precinct": [
+                  {
+                    "name": "Chalybeate",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Gill I",
+                    "votes": 123
+                  },
+                  {
+                    "name": "Gill II",
+                    "votes": 195
+                  },
+                  {
+                    "name": "Odessadale",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Greenville",
+                    "votes": 183
+                  },
+                  {
+                    "name": "Lone Oak",
+                    "votes": 148
+                  },
+                  {
+                    "name": "Luthersville",
+                    "votes": 208
+                  },
+                  {
+                    "name": "Alvaton",
+                    "votes": 123
+                  },
+                  {
+                    "name": "Gay",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Woodbury",
+                    "votes": 114
+                  },
+                  {
+                    "name": "Warm Springs",
+                    "votes": 63
+                  },
+                  {
+                    "name": "Durand",
+                    "votes": 57
+                  },
+                  {
+                    "name": "Raleigh",
+                    "votes": 18
+                  },
+                  {
+                    "name": "Cove",
+                    "votes": 4
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Chalybeate",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gill I",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gill II",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Odessadale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lone Oak",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Luthersville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alvaton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Woodbury",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warm Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Durand",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Raleigh",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cove",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "5",
+        "text": "Public Service Commission District 4",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 14,
+        "precinctsReported": 3,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 102,
+            "Precinct": [
+              {
+                "name": "Chalybeate",
+                "votes": 0
+              },
+              {
+                "name": "Gill I",
+                "votes": 6
+              },
+              {
+                "name": "Gill II",
+                "votes": 12
+              },
+              {
+                "name": "Odessadale",
+                "votes": 1
+              },
+              {
+                "name": "Greenville",
+                "votes": 16
+              },
+              {
+                "name": "Lone Oak",
+                "votes": 6
+              },
+              {
+                "name": "Luthersville",
+                "votes": 12
+              },
+              {
+                "name": "Alvaton",
+                "votes": 6
+              },
+              {
+                "name": "Gay",
+                "votes": 1
+              },
+              {
+                "name": "Woodbury",
+                "votes": 20
+              },
+              {
+                "name": "Warm Springs",
+                "votes": 10
+              },
+              {
+                "name": "Durand",
+                "votes": 8
+              },
+              {
+                "name": "Raleigh",
+                "votes": 4
+              },
+              {
+                "name": "Cove",
+                "votes": 0
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Chalybeate",
+                "votes": 0
+              },
+              {
+                "name": "Gill I",
+                "votes": 0
+              },
+              {
+                "name": "Gill II",
+                "votes": 0
+              },
+              {
+                "name": "Odessadale",
+                "votes": 0
+              },
+              {
+                "name": "Greenville",
+                "votes": 0
+              },
+              {
+                "name": "Lone Oak",
+                "votes": 0
+              },
+              {
+                "name": "Luthersville",
+                "votes": 0
+              },
+              {
+                "name": "Alvaton",
+                "votes": 0
+              },
+              {
+                "name": "Gay",
+                "votes": 0
+              },
+              {
+                "name": "Woodbury",
+                "votes": 0
+              },
+              {
+                "name": "Warm Springs",
+                "votes": 0
+              },
+              {
+                "name": "Durand",
+                "votes": 0
+              },
+              {
+                "name": "Raleigh",
+                "votes": 0
+              },
+              {
+                "name": "Cove",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "30",
+            "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
+            "totalVotes": 3572,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 499,
+                "Precinct": [
+                  {
+                    "name": "Chalybeate",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gill I",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gill II",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Odessadale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lone Oak",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Luthersville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alvaton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Woodbury",
+                    "votes": 187
+                  },
+                  {
+                    "name": "Warm Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Durand",
+                    "votes": 191
+                  },
+                  {
+                    "name": "Raleigh",
+                    "votes": 121
+                  },
+                  {
+                    "name": "Cove",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 2322,
+                "Precinct": [
+                  {
+                    "name": "Chalybeate",
+                    "votes": 59
+                  },
+                  {
+                    "name": "Gill I",
+                    "votes": 202
+                  },
+                  {
+                    "name": "Gill II",
+                    "votes": 68
+                  },
+                  {
+                    "name": "Odessadale",
+                    "votes": 78
+                  },
+                  {
+                    "name": "Greenville",
+                    "votes": 351
+                  },
+                  {
+                    "name": "Lone Oak",
+                    "votes": 197
+                  },
+                  {
+                    "name": "Luthersville",
+                    "votes": 420
+                  },
+                  {
+                    "name": "Alvaton",
+                    "votes": 256
+                  },
+                  {
+                    "name": "Gay",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Woodbury",
+                    "votes": 206
+                  },
+                  {
+                    "name": "Warm Springs",
+                    "votes": 172
+                  },
+                  {
+                    "name": "Durand",
+                    "votes": 96
+                  },
+                  {
+                    "name": "Raleigh",
+                    "votes": 125
+                  },
+                  {
+                    "name": "Cove",
+                    "votes": 28
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 751,
+                "Precinct": [
+                  {
+                    "name": "Chalybeate",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Gill I",
+                    "votes": 116
+                  },
+                  {
+                    "name": "Gill II",
+                    "votes": 15
+                  },
+                  {
+                    "name": "Odessadale",
+                    "votes": 24
+                  },
+                  {
+                    "name": "Greenville",
+                    "votes": 79
+                  },
+                  {
+                    "name": "Lone Oak",
+                    "votes": 38
+                  },
+                  {
+                    "name": "Luthersville",
+                    "votes": 136
+                  },
+                  {
+                    "name": "Alvaton",
+                    "votes": 74
+                  },
+                  {
+                    "name": "Gay",
+                    "votes": 20
+                  },
+                  {
+                    "name": "Woodbury",
+                    "votes": 64
+                  },
+                  {
+                    "name": "Warm Springs",
+                    "votes": 73
+                  },
+                  {
+                    "name": "Durand",
+                    "votes": 44
+                  },
+                  {
+                    "name": "Raleigh",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Cove",
+                    "votes": 15
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Chalybeate",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gill I",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gill II",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Odessadale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lone Oak",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Luthersville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alvaton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Woodbury",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warm Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Durand",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Raleigh",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cove",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "31",
+            "text": "Daniel Blackman (Dem)",
+            "totalVotes": 2930,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 219,
+                "Precinct": [
+                  {
+                    "name": "Chalybeate",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gill I",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gill II",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Odessadale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lone Oak",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Luthersville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alvaton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Woodbury",
+                    "votes": 167
+                  },
+                  {
+                    "name": "Warm Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Durand",
+                    "votes": 42
+                  },
+                  {
+                    "name": "Raleigh",
+                    "votes": 10
+                  },
+                  {
+                    "name": "Cove",
+                    "votes": 0
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1446,
+                "Precinct": [
+                  {
+                    "name": "Chalybeate",
+                    "votes": 12
+                  },
+                  {
+                    "name": "Gill I",
+                    "votes": 90
+                  },
+                  {
+                    "name": "Gill II",
+                    "votes": 140
+                  },
+                  {
+                    "name": "Odessadale",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Greenville",
+                    "votes": 334
+                  },
+                  {
+                    "name": "Lone Oak",
+                    "votes": 148
+                  },
+                  {
+                    "name": "Luthersville",
+                    "votes": 260
+                  },
+                  {
+                    "name": "Alvaton",
+                    "votes": 123
+                  },
+                  {
+                    "name": "Gay",
+                    "votes": 21
+                  },
+                  {
+                    "name": "Woodbury",
+                    "votes": 120
+                  },
+                  {
+                    "name": "Warm Springs",
+                    "votes": 90
+                  },
+                  {
+                    "name": "Durand",
+                    "votes": 62
+                  },
+                  {
+                    "name": "Raleigh",
+                    "votes": 29
+                  },
+                  {
+                    "name": "Cove",
+                    "votes": 1
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 1265,
+                "Precinct": [
+                  {
+                    "name": "Chalybeate",
+                    "votes": 16
+                  },
+                  {
+                    "name": "Gill I",
+                    "votes": 111
+                  },
+                  {
+                    "name": "Gill II",
+                    "votes": 188
+                  },
+                  {
+                    "name": "Odessadale",
+                    "votes": 36
+                  },
+                  {
+                    "name": "Greenville",
+                    "votes": 176
+                  },
+                  {
+                    "name": "Lone Oak",
+                    "votes": 146
+                  },
+                  {
+                    "name": "Luthersville",
+                    "votes": 199
+                  },
+                  {
+                    "name": "Alvaton",
+                    "votes": 120
+                  },
+                  {
+                    "name": "Gay",
+                    "votes": 31
+                  },
+                  {
+                    "name": "Woodbury",
+                    "votes": 108
+                  },
+                  {
+                    "name": "Warm Springs",
+                    "votes": 58
+                  },
+                  {
+                    "name": "Durand",
+                    "votes": 55
+                  },
+                  {
+                    "name": "Raleigh",
+                    "votes": 17
+                  },
+                  {
+                    "name": "Cove",
+                    "votes": 4
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Chalybeate",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gill I",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gill II",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Odessadale",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Greenville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Lone Oak",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Luthersville",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Alvaton",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Gay",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Woodbury",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Warm Springs",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Durand",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Raleigh",
+                    "votes": 0
+                  },
+                  {
+                    "name": "Cove",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
