@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 10:32:57 PM EST",
+    "Timestamp": "1/5/2021 11:05:52 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Clayton",
     "VoterTurnout": {
       "totalVoters": 197305,
-      "ballotsCast": 99687,
-      "voterTurnout": 50.52,
+      "ballotsCast": 102092,
+      "voterTurnout": 51.74,
       "Precincts": {
         "Precinct": [
           {
@@ -97,9 +97,9 @@
           {
             "name": "Jonesboro 5",
             "totalVoters": 2092,
-            "ballotsCast": 907,
-            "voterTurnout": 43.36,
-            "percentReporting": "2"
+            "ballotsCast": 1239,
+            "voterTurnout": 59.23,
+            "percentReporting": "4"
           },
           {
             "name": "Jonesboro 6",
@@ -146,9 +146,9 @@
           {
             "name": "Jonesboro 12",
             "totalVoters": 3153,
-            "ballotsCast": 1191,
-            "voterTurnout": 37.77,
-            "percentReporting": "2"
+            "ballotsCast": 1546,
+            "voterTurnout": 49.03,
+            "percentReporting": "4"
           },
           {
             "name": "Jonesboro 13",
@@ -230,9 +230,9 @@
           {
             "name": "Lovejoy 4",
             "totalVoters": 4231,
-            "ballotsCast": 2161,
-            "voterTurnout": 51.08,
-            "percentReporting": "2"
+            "ballotsCast": 2543,
+            "voterTurnout": 60.1,
+            "percentReporting": "4"
           },
           {
             "name": "Lovejoy 5",
@@ -244,9 +244,9 @@
           {
             "name": "Lovejoy 6",
             "totalVoters": 3777,
-            "ballotsCast": 1745,
-            "voterTurnout": 46.2,
-            "percentReporting": "2"
+            "ballotsCast": 2144,
+            "voterTurnout": 56.76,
+            "percentReporting": "4"
           },
           {
             "name": "Lovejoy 7",
@@ -356,9 +356,9 @@
           {
             "name": "Oak 4",
             "totalVoters": 4338,
-            "ballotsCast": 1506,
-            "voterTurnout": 34.72,
-            "percentReporting": "2"
+            "ballotsCast": 2049,
+            "voterTurnout": 47.23,
+            "percentReporting": "4"
           },
           {
             "name": "Oak 5",
@@ -391,9 +391,9 @@
           {
             "name": "Riverdale 2",
             "totalVoters": 3500,
-            "ballotsCast": 1333,
-            "voterTurnout": 38.09,
-            "percentReporting": "2"
+            "ballotsCast": 1727,
+            "voterTurnout": 49.34,
+            "percentReporting": "4"
           },
           {
             "name": "Riverdale 3",
@@ -475,11 +475,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 65,
-        "precinctsReported": 59,
+        "precinctsReported": 65,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 142,
+            "votes": 144,
             "Precinct": [
               {
                 "name": "Ellenwood 1",
@@ -607,7 +607,7 @@
               },
               {
                 "name": "Lovejoy 4",
-                "votes": 7
+                "votes": 8
               },
               {
                 "name": "Lovejoy 5",
@@ -679,7 +679,7 @@
               },
               {
                 "name": "Oak 4",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Oak 5",
@@ -1014,11 +1014,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 11559,
+            "totalVotes": 11823,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2979,
+                "votes": 3243,
                 "Precinct": [
                   {
                     "name": "Ellenwood 1",
@@ -1070,7 +1070,7 @@
                   },
                   {
                     "name": "Jonesboro 5",
-                    "votes": 0
+                    "votes": 97
                   },
                   {
                     "name": "Jonesboro 6",
@@ -1098,7 +1098,7 @@
                   },
                   {
                     "name": "Jonesboro 12",
-                    "votes": 0
+                    "votes": 29
                   },
                   {
                     "name": "Jonesboro 13",
@@ -1146,7 +1146,7 @@
                   },
                   {
                     "name": "Lovejoy 4",
-                    "votes": 0
+                    "votes": 53
                   },
                   {
                     "name": "Lovejoy 5",
@@ -1154,7 +1154,7 @@
                   },
                   {
                     "name": "Lovejoy 6",
-                    "votes": 0
+                    "votes": 40
                   },
                   {
                     "name": "Lovejoy 7",
@@ -1218,7 +1218,7 @@
                   },
                   {
                     "name": "Oak 4",
-                    "votes": 0
+                    "votes": 25
                   },
                   {
                     "name": "Oak 5",
@@ -1238,7 +1238,7 @@
                   },
                   {
                     "name": "Riverdale 2",
-                    "votes": 0
+                    "votes": 20
                   },
                   {
                     "name": "Riverdale 3",
@@ -2085,11 +2085,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 87981,
+            "totalVotes": 90120,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 17823,
+                "votes": 19962,
                 "Precinct": [
                   {
                     "name": "Ellenwood 1",
@@ -2141,7 +2141,7 @@
                   },
                   {
                     "name": "Jonesboro 5",
-                    "votes": 0
+                    "votes": 235
                   },
                   {
                     "name": "Jonesboro 6",
@@ -2169,7 +2169,7 @@
                   },
                   {
                     "name": "Jonesboro 12",
-                    "votes": 0
+                    "votes": 326
                   },
                   {
                     "name": "Jonesboro 13",
@@ -2217,7 +2217,7 @@
                   },
                   {
                     "name": "Lovejoy 4",
-                    "votes": 0
+                    "votes": 328
                   },
                   {
                     "name": "Lovejoy 5",
@@ -2225,7 +2225,7 @@
                   },
                   {
                     "name": "Lovejoy 6",
-                    "votes": 0
+                    "votes": 359
                   },
                   {
                     "name": "Lovejoy 7",
@@ -2289,7 +2289,7 @@
                   },
                   {
                     "name": "Oak 4",
-                    "votes": 0
+                    "votes": 517
                   },
                   {
                     "name": "Oak 5",
@@ -2309,7 +2309,7 @@
                   },
                   {
                     "name": "Riverdale 2",
-                    "votes": 0
+                    "votes": 374
                   },
                   {
                     "name": "Riverdale 3",
@@ -3161,7 +3161,7 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 65,
-        "precinctsReported": 59,
+        "precinctsReported": 65,
         "VoteType": [
           {
             "name": "Undervotes",
@@ -3700,11 +3700,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 11416,
+            "totalVotes": 11681,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2932,
+                "votes": 3197,
                 "Precinct": [
                   {
                     "name": "Ellenwood 1",
@@ -3756,7 +3756,7 @@
                   },
                   {
                     "name": "Jonesboro 5",
-                    "votes": 0
+                    "votes": 97
                   },
                   {
                     "name": "Jonesboro 6",
@@ -3784,7 +3784,7 @@
                   },
                   {
                     "name": "Jonesboro 12",
-                    "votes": 0
+                    "votes": 30
                   },
                   {
                     "name": "Jonesboro 13",
@@ -3832,7 +3832,7 @@
                   },
                   {
                     "name": "Lovejoy 4",
-                    "votes": 0
+                    "votes": 53
                   },
                   {
                     "name": "Lovejoy 5",
@@ -3840,7 +3840,7 @@
                   },
                   {
                     "name": "Lovejoy 6",
-                    "votes": 0
+                    "votes": 39
                   },
                   {
                     "name": "Lovejoy 7",
@@ -3904,7 +3904,7 @@
                   },
                   {
                     "name": "Oak 4",
-                    "votes": 0
+                    "votes": 24
                   },
                   {
                     "name": "Oak 5",
@@ -3924,7 +3924,7 @@
                   },
                   {
                     "name": "Riverdale 2",
-                    "votes": 0
+                    "votes": 22
                   },
                   {
                     "name": "Riverdale 3",
@@ -4771,11 +4771,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 88152,
+            "totalVotes": 90292,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 17875,
+                "votes": 20015,
                 "Precinct": [
                   {
                     "name": "Ellenwood 1",
@@ -4827,7 +4827,7 @@
                   },
                   {
                     "name": "Jonesboro 5",
-                    "votes": 0
+                    "votes": 235
                   },
                   {
                     "name": "Jonesboro 6",
@@ -4855,7 +4855,7 @@
                   },
                   {
                     "name": "Jonesboro 12",
-                    "votes": 0
+                    "votes": 325
                   },
                   {
                     "name": "Jonesboro 13",
@@ -4903,7 +4903,7 @@
                   },
                   {
                     "name": "Lovejoy 4",
-                    "votes": 0
+                    "votes": 329
                   },
                   {
                     "name": "Lovejoy 5",
@@ -4911,7 +4911,7 @@
                   },
                   {
                     "name": "Lovejoy 6",
-                    "votes": 0
+                    "votes": 360
                   },
                   {
                     "name": "Lovejoy 7",
@@ -4975,7 +4975,7 @@
                   },
                   {
                     "name": "Oak 4",
-                    "votes": 0
+                    "votes": 519
                   },
                   {
                     "name": "Oak 5",
@@ -4995,7 +4995,7 @@
                   },
                   {
                     "name": "Riverdale 2",
-                    "votes": 0
+                    "votes": 372
                   },
                   {
                     "name": "Riverdale 3",
@@ -5847,11 +5847,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 65,
-        "precinctsReported": 59,
+        "precinctsReported": 65,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 882,
+            "votes": 893,
             "Precinct": [
               {
                 "name": "Ellenwood 1",
@@ -5903,7 +5903,7 @@
               },
               {
                 "name": "Jonesboro 5",
-                "votes": 7
+                "votes": 8
               },
               {
                 "name": "Jonesboro 6",
@@ -5931,7 +5931,7 @@
               },
               {
                 "name": "Jonesboro 12",
-                "votes": 7
+                "votes": 10
               },
               {
                 "name": "Jonesboro 13",
@@ -5987,7 +5987,7 @@
               },
               {
                 "name": "Lovejoy 6",
-                "votes": 13
+                "votes": 15
               },
               {
                 "name": "Lovejoy 7",
@@ -6051,7 +6051,7 @@
               },
               {
                 "name": "Oak 4",
-                "votes": 8
+                "votes": 9
               },
               {
                 "name": "Oak 5",
@@ -6071,7 +6071,7 @@
               },
               {
                 "name": "Riverdale 2",
-                "votes": 9
+                "votes": 13
               },
               {
                 "name": "Riverdale 3",
@@ -6386,11 +6386,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 11756,
+            "totalVotes": 12025,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2980,
+                "votes": 3249,
                 "Precinct": [
                   {
                     "name": "Ellenwood 1",
@@ -6442,7 +6442,7 @@
                   },
                   {
                     "name": "Jonesboro 5",
-                    "votes": 0
+                    "votes": 98
                   },
                   {
                     "name": "Jonesboro 6",
@@ -6470,7 +6470,7 @@
                   },
                   {
                     "name": "Jonesboro 12",
-                    "votes": 0
+                    "votes": 29
                   },
                   {
                     "name": "Jonesboro 13",
@@ -6518,7 +6518,7 @@
                   },
                   {
                     "name": "Lovejoy 4",
-                    "votes": 0
+                    "votes": 58
                   },
                   {
                     "name": "Lovejoy 5",
@@ -6526,7 +6526,7 @@
                   },
                   {
                     "name": "Lovejoy 6",
-                    "votes": 0
+                    "votes": 38
                   },
                   {
                     "name": "Lovejoy 7",
@@ -6590,7 +6590,7 @@
                   },
                   {
                     "name": "Oak 4",
-                    "votes": 0
+                    "votes": 24
                   },
                   {
                     "name": "Oak 5",
@@ -6610,7 +6610,7 @@
                   },
                   {
                     "name": "Riverdale 2",
-                    "votes": 0
+                    "votes": 22
                   },
                   {
                     "name": "Riverdale 3",
@@ -7457,11 +7457,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 87044,
+            "totalVotes": 89169,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 17695,
+                "votes": 19820,
                 "Precinct": [
                   {
                     "name": "Ellenwood 1",
@@ -7513,7 +7513,7 @@
                   },
                   {
                     "name": "Jonesboro 5",
-                    "votes": 0
+                    "votes": 233
                   },
                   {
                     "name": "Jonesboro 6",
@@ -7541,7 +7541,7 @@
                   },
                   {
                     "name": "Jonesboro 12",
-                    "votes": 0
+                    "votes": 323
                   },
                   {
                     "name": "Jonesboro 13",
@@ -7589,7 +7589,7 @@
                   },
                   {
                     "name": "Lovejoy 4",
-                    "votes": 0
+                    "votes": 324
                   },
                   {
                     "name": "Lovejoy 5",
@@ -7597,7 +7597,7 @@
                   },
                   {
                     "name": "Lovejoy 6",
-                    "votes": 0
+                    "votes": 359
                   },
                   {
                     "name": "Lovejoy 7",
@@ -7661,7 +7661,7 @@
                   },
                   {
                     "name": "Oak 4",
-                    "votes": 0
+                    "votes": 518
                   },
                   {
                     "name": "Oak 5",
@@ -7681,7 +7681,7 @@
                   },
                   {
                     "name": "Riverdale 2",
-                    "votes": 0
+                    "votes": 368
                   },
                   {
                     "name": "Riverdale 3",

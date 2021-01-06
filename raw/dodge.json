@@ -1,126 +1,126 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 9:29:49 PM EST",
+    "Timestamp": "1/5/2021 11:01:07 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Dodge",
     "VoterTurnout": {
       "totalVoters": 11662,
-      "ballotsCast": 2395,
-      "voterTurnout": 20.54,
+      "ballotsCast": 7191,
+      "voterTurnout": 61.66,
       "Precincts": {
         "Precinct": [
           {
             "name": "Chauncey",
             "totalVoters": 416,
-            "ballotsCast": 178,
-            "voterTurnout": 42.79,
-            "percentReporting": "2"
+            "ballotsCast": 266,
+            "voterTurnout": 63.94,
+            "percentReporting": "4"
           },
           {
             "name": "Clark",
             "totalVoters": 113,
-            "ballotsCast": 56,
-            "voterTurnout": 49.56,
-            "percentReporting": "2"
+            "ballotsCast": 69,
+            "voterTurnout": 61.06,
+            "percentReporting": "4"
           },
           {
             "name": "Eddin",
             "totalVoters": 1062,
-            "ballotsCast": 293,
-            "voterTurnout": 27.59,
-            "percentReporting": "2"
+            "ballotsCast": 714,
+            "voterTurnout": 67.23,
+            "percentReporting": "4"
           },
           {
             "name": "Empire",
             "totalVoters": 460,
-            "ballotsCast": 177,
-            "voterTurnout": 38.48,
-            "percentReporting": "2"
+            "ballotsCast": 286,
+            "voterTurnout": 62.17,
+            "percentReporting": "4"
           },
           {
             "name": "Jaybird",
             "totalVoters": 218,
-            "ballotsCast": 91,
-            "voterTurnout": 41.74,
-            "percentReporting": "2"
+            "ballotsCast": 144,
+            "voterTurnout": 66.06,
+            "percentReporting": "4"
           },
           {
             "name": "Jones",
             "totalVoters": 455,
-            "ballotsCast": 143,
-            "voterTurnout": 31.43,
-            "percentReporting": "2"
+            "ballotsCast": 277,
+            "voterTurnout": 60.88,
+            "percentReporting": "4"
           },
           {
             "name": "Lee",
             "totalVoters": 4890,
-            "ballotsCast": 0,
-            "voterTurnout": 0.0,
-            "percentReporting": "1"
+            "ballotsCast": 2786,
+            "voterTurnout": 56.97,
+            "percentReporting": "4"
           },
           {
             "name": "McCranie",
             "totalVoters": 295,
-            "ballotsCast": 117,
-            "voterTurnout": 39.66,
-            "percentReporting": "2"
+            "ballotsCast": 211,
+            "voterTurnout": 71.53,
+            "percentReporting": "4"
           },
           {
             "name": "Milan",
             "totalVoters": 348,
-            "ballotsCast": 141,
-            "voterTurnout": 40.52,
-            "percentReporting": "2"
+            "ballotsCast": 219,
+            "voterTurnout": 62.93,
+            "percentReporting": "4"
           },
           {
             "name": "Mitchell",
             "totalVoters": 343,
-            "ballotsCast": 136,
-            "voterTurnout": 39.65,
-            "percentReporting": "2"
+            "ballotsCast": 248,
+            "voterTurnout": 72.3,
+            "percentReporting": "4"
           },
           {
             "name": "Mullis",
             "totalVoters": 516,
-            "ballotsCast": 210,
-            "voterTurnout": 40.7,
-            "percentReporting": "2"
+            "ballotsCast": 332,
+            "voterTurnout": 64.34,
+            "percentReporting": "4"
           },
           {
             "name": "Plainfield",
             "totalVoters": 466,
-            "ballotsCast": 172,
-            "voterTurnout": 36.91,
-            "percentReporting": "2"
+            "ballotsCast": 319,
+            "voterTurnout": 68.45,
+            "percentReporting": "4"
           },
           {
             "name": "Pondtown",
             "totalVoters": 698,
-            "ballotsCast": 255,
-            "voterTurnout": 36.53,
-            "percentReporting": "2"
+            "ballotsCast": 483,
+            "voterTurnout": 69.2,
+            "percentReporting": "4"
           },
           {
             "name": "Rawlins",
             "totalVoters": 943,
-            "ballotsCast": 217,
-            "voterTurnout": 23.01,
-            "percentReporting": "2"
+            "ballotsCast": 552,
+            "voterTurnout": 58.54,
+            "percentReporting": "4"
           },
           {
             "name": "Vilula",
             "totalVoters": 176,
-            "ballotsCast": 97,
-            "voterTurnout": 55.11,
-            "percentReporting": "2"
+            "ballotsCast": 131,
+            "voterTurnout": 74.43,
+            "percentReporting": "4"
           },
           {
             "name": "Yonker",
             "totalVoters": 263,
-            "ballotsCast": 112,
-            "voterTurnout": 42.59,
-            "percentReporting": "2"
+            "ballotsCast": 154,
+            "voterTurnout": 58.56,
+            "percentReporting": "4"
           }
         ]
       }
@@ -132,11 +132,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 16,
-        "precinctsReported": 0,
+        "precinctsReported": 16,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 6,
+            "votes": 20,
             "Precinct": [
               {
                 "name": "Chauncey",
@@ -148,7 +148,7 @@
               },
               {
                 "name": "Eddin",
-                "votes": 2
+                "votes": 4
               },
               {
                 "name": "Empire",
@@ -160,11 +160,11 @@
               },
               {
                 "name": "Jones",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Lee",
-                "votes": 0
+                "votes": 8
               },
               {
                 "name": "McCranie",
@@ -188,11 +188,11 @@
               },
               {
                 "name": "Pondtown",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Rawlins",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Vilula",
@@ -279,11 +279,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 2062,
+            "totalVotes": 5161,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2062,
+                "votes": 2510,
                 "Precinct": [
                   {
                     "name": "Chauncey",
@@ -311,7 +311,7 @@
                   },
                   {
                     "name": "Lee",
-                    "votes": 0
+                    "votes": 448
                   },
                   {
                     "name": "McCranie",
@@ -353,141 +353,141 @@
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 2096,
                 "Precinct": [
                   {
                     "name": "Chauncey",
-                    "votes": 0
+                    "votes": 50
                   },
                   {
                     "name": "Clark",
-                    "votes": 0
+                    "votes": 7
                   },
                   {
                     "name": "Eddin",
-                    "votes": 0
+                    "votes": 220
                   },
                   {
                     "name": "Empire",
-                    "votes": 0
+                    "votes": 76
                   },
                   {
                     "name": "Jaybird",
-                    "votes": 0
+                    "votes": 12
                   },
                   {
                     "name": "Jones",
-                    "votes": 0
+                    "votes": 83
                   },
                   {
                     "name": "Lee",
-                    "votes": 0
+                    "votes": 987
                   },
                   {
                     "name": "McCranie",
-                    "votes": 0
+                    "votes": 56
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 41
                   },
                   {
                     "name": "Mitchell",
-                    "votes": 0
+                    "votes": 61
                   },
                   {
                     "name": "Mullis",
-                    "votes": 0
+                    "votes": 50
                   },
                   {
                     "name": "Plainfield",
-                    "votes": 0
+                    "votes": 97
                   },
                   {
                     "name": "Pondtown",
-                    "votes": 0
+                    "votes": 107
                   },
                   {
                     "name": "Rawlins",
-                    "votes": 0
+                    "votes": 196
                   },
                   {
                     "name": "Vilula",
-                    "votes": 0
+                    "votes": 27
                   },
                   {
                     "name": "Yonker",
-                    "votes": 0
+                    "votes": 26
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 555,
                 "Precinct": [
                   {
                     "name": "Chauncey",
-                    "votes": 0
+                    "votes": 19
                   },
                   {
                     "name": "Clark",
-                    "votes": 0
+                    "votes": 5
                   },
                   {
                     "name": "Eddin",
-                    "votes": 0
+                    "votes": 43
                   },
                   {
                     "name": "Empire",
-                    "votes": 0
+                    "votes": 17
                   },
                   {
                     "name": "Jaybird",
-                    "votes": 0
+                    "votes": 9
                   },
                   {
                     "name": "Jones",
-                    "votes": 0
+                    "votes": 20
                   },
                   {
                     "name": "Lee",
-                    "votes": 0
+                    "votes": 246
                   },
                   {
                     "name": "McCranie",
-                    "votes": 0
+                    "votes": 14
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 15
                   },
                   {
                     "name": "Mitchell",
-                    "votes": 0
+                    "votes": 11
                   },
                   {
                     "name": "Mullis",
-                    "votes": 0
+                    "votes": 41
                   },
                   {
                     "name": "Plainfield",
-                    "votes": 0
+                    "votes": 21
                   },
                   {
                     "name": "Pondtown",
-                    "votes": 0
+                    "votes": 47
                   },
                   {
                     "name": "Rawlins",
-                    "votes": 0
+                    "votes": 36
                   },
                   {
                     "name": "Vilula",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Yonker",
-                    "votes": 0
+                    "votes": 8
                   }
                 ]
               },
@@ -566,11 +566,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 327,
+            "totalVotes": 2010,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 327,
+                "votes": 575,
                 "Precinct": [
                   {
                     "name": "Chauncey",
@@ -598,7 +598,7 @@
                   },
                   {
                     "name": "Lee",
-                    "votes": 0
+                    "votes": 248
                   },
                   {
                     "name": "McCranie",
@@ -640,63 +640,63 @@
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 925,
                 "Precinct": [
                   {
                     "name": "Chauncey",
-                    "votes": 0
+                    "votes": 13
                   },
                   {
                     "name": "Clark",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Eddin",
-                    "votes": 0
+                    "votes": 95
                   },
                   {
                     "name": "Empire",
-                    "votes": 0
+                    "votes": 9
                   },
                   {
                     "name": "Jaybird",
-                    "votes": 0
+                    "votes": 23
                   },
                   {
                     "name": "Jones",
-                    "votes": 0
+                    "votes": 17
                   },
                   {
                     "name": "Lee",
-                    "votes": 0
+                    "votes": 590
                   },
                   {
                     "name": "McCranie",
-                    "votes": 0
+                    "votes": 18
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 9
                   },
                   {
                     "name": "Mitchell",
-                    "votes": 0
+                    "votes": 24
                   },
                   {
                     "name": "Mullis",
-                    "votes": 0
+                    "votes": 14
                   },
                   {
                     "name": "Plainfield",
-                    "votes": 0
+                    "votes": 12
                   },
                   {
                     "name": "Pondtown",
-                    "votes": 0
+                    "votes": 34
                   },
                   {
                     "name": "Rawlins",
-                    "votes": 0
+                    "votes": 61
                   },
                   {
                     "name": "Vilula",
@@ -704,17 +704,17 @@
                   },
                   {
                     "name": "Yonker",
-                    "votes": 0
+                    "votes": 5
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 510,
                 "Precinct": [
                   {
                     "name": "Chauncey",
-                    "votes": 0
+                    "votes": 6
                   },
                   {
                     "name": "Clark",
@@ -722,59 +722,59 @@
                   },
                   {
                     "name": "Eddin",
-                    "votes": 0
+                    "votes": 61
                   },
                   {
                     "name": "Empire",
-                    "votes": 0
+                    "votes": 7
                   },
                   {
                     "name": "Jaybird",
-                    "votes": 0
+                    "votes": 9
                   },
                   {
                     "name": "Jones",
-                    "votes": 0
+                    "votes": 13
                   },
                   {
                     "name": "Lee",
-                    "votes": 0
+                    "votes": 259
                   },
                   {
                     "name": "McCranie",
-                    "votes": 0
+                    "votes": 6
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 13
                   },
                   {
                     "name": "Mitchell",
-                    "votes": 0
+                    "votes": 16
                   },
                   {
                     "name": "Mullis",
-                    "votes": 0
+                    "votes": 17
                   },
                   {
                     "name": "Plainfield",
-                    "votes": 0
+                    "votes": 17
                   },
                   {
                     "name": "Pondtown",
-                    "votes": 0
+                    "votes": 39
                   },
                   {
                     "name": "Rawlins",
-                    "votes": 0
+                    "votes": 40
                   },
                   {
                     "name": "Vilula",
-                    "votes": 0
+                    "votes": 4
                   },
                   {
                     "name": "Yonker",
-                    "votes": 0
+                    "votes": 3
                   }
                 ]
               },
@@ -858,11 +858,11 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 16,
-        "precinctsReported": 0,
+        "precinctsReported": 16,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 4,
+            "votes": 15,
             "Precinct": [
               {
                 "name": "Chauncey",
@@ -874,7 +874,7 @@
               },
               {
                 "name": "Eddin",
-                "votes": 0
+                "votes": 2
               },
               {
                 "name": "Empire",
@@ -890,7 +890,7 @@
               },
               {
                 "name": "Lee",
-                "votes": 0
+                "votes": 8
               },
               {
                 "name": "McCranie",
@@ -918,7 +918,7 @@
               },
               {
                 "name": "Rawlins",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Vilula",
@@ -1005,11 +1005,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 2064,
+            "totalVotes": 5156,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2064,
+                "votes": 2512,
                 "Precinct": [
                   {
                     "name": "Chauncey",
@@ -1037,7 +1037,7 @@
                   },
                   {
                     "name": "Lee",
-                    "votes": 0
+                    "votes": 448
                   },
                   {
                     "name": "McCranie",
@@ -1079,141 +1079,141 @@
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 2097,
                 "Precinct": [
                   {
                     "name": "Chauncey",
-                    "votes": 0
+                    "votes": 51
                   },
                   {
                     "name": "Clark",
-                    "votes": 0
+                    "votes": 7
                   },
                   {
                     "name": "Eddin",
-                    "votes": 0
+                    "votes": 221
                   },
                   {
                     "name": "Empire",
-                    "votes": 0
+                    "votes": 76
                   },
                   {
                     "name": "Jaybird",
-                    "votes": 0
+                    "votes": 12
                   },
                   {
                     "name": "Jones",
-                    "votes": 0
+                    "votes": 84
                   },
                   {
                     "name": "Lee",
-                    "votes": 0
+                    "votes": 982
                   },
                   {
                     "name": "McCranie",
-                    "votes": 0
+                    "votes": 56
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 41
                   },
                   {
                     "name": "Mitchell",
-                    "votes": 0
+                    "votes": 61
                   },
                   {
                     "name": "Mullis",
-                    "votes": 0
+                    "votes": 50
                   },
                   {
                     "name": "Plainfield",
-                    "votes": 0
+                    "votes": 96
                   },
                   {
                     "name": "Pondtown",
-                    "votes": 0
+                    "votes": 107
                   },
                   {
                     "name": "Rawlins",
-                    "votes": 0
+                    "votes": 199
                   },
                   {
                     "name": "Vilula",
-                    "votes": 0
+                    "votes": 27
                   },
                   {
                     "name": "Yonker",
-                    "votes": 0
+                    "votes": 27
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 547,
                 "Precinct": [
                   {
                     "name": "Chauncey",
-                    "votes": 0
+                    "votes": 19
                   },
                   {
                     "name": "Clark",
-                    "votes": 0
+                    "votes": 5
                   },
                   {
                     "name": "Eddin",
-                    "votes": 0
+                    "votes": 42
                   },
                   {
                     "name": "Empire",
-                    "votes": 0
+                    "votes": 18
                   },
                   {
                     "name": "Jaybird",
-                    "votes": 0
+                    "votes": 9
                   },
                   {
                     "name": "Jones",
-                    "votes": 0
+                    "votes": 20
                   },
                   {
                     "name": "Lee",
-                    "votes": 0
+                    "votes": 239
                   },
                   {
                     "name": "McCranie",
-                    "votes": 0
+                    "votes": 14
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 15
                   },
                   {
                     "name": "Mitchell",
-                    "votes": 0
+                    "votes": 11
                   },
                   {
                     "name": "Mullis",
-                    "votes": 0
+                    "votes": 41
                   },
                   {
                     "name": "Plainfield",
-                    "votes": 0
+                    "votes": 21
                   },
                   {
                     "name": "Pondtown",
-                    "votes": 0
+                    "votes": 48
                   },
                   {
                     "name": "Rawlins",
-                    "votes": 0
+                    "votes": 34
                   },
                   {
                     "name": "Vilula",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Yonker",
-                    "votes": 0
+                    "votes": 8
                   }
                 ]
               },
@@ -1292,11 +1292,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 327,
+            "totalVotes": 2020,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 327,
+                "votes": 576,
                 "Precinct": [
                   {
                     "name": "Chauncey",
@@ -1324,7 +1324,7 @@
                   },
                   {
                     "name": "Lee",
-                    "votes": 0
+                    "votes": 249
                   },
                   {
                     "name": "McCranie",
@@ -1366,63 +1366,63 @@
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 928,
                 "Precinct": [
                   {
                     "name": "Chauncey",
-                    "votes": 0
+                    "votes": 12
                   },
                   {
                     "name": "Clark",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Eddin",
-                    "votes": 0
+                    "votes": 95
                   },
                   {
                     "name": "Empire",
-                    "votes": 0
+                    "votes": 9
                   },
                   {
                     "name": "Jaybird",
-                    "votes": 0
+                    "votes": 23
                   },
                   {
                     "name": "Jones",
-                    "votes": 0
+                    "votes": 17
                   },
                   {
                     "name": "Lee",
-                    "votes": 0
+                    "votes": 596
                   },
                   {
                     "name": "McCranie",
-                    "votes": 0
+                    "votes": 18
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 9
                   },
                   {
                     "name": "Mitchell",
-                    "votes": 0
+                    "votes": 24
                   },
                   {
                     "name": "Mullis",
-                    "votes": 0
+                    "votes": 14
                   },
                   {
                     "name": "Plainfield",
-                    "votes": 0
+                    "votes": 13
                   },
                   {
                     "name": "Pondtown",
-                    "votes": 0
+                    "votes": 34
                   },
                   {
                     "name": "Rawlins",
-                    "votes": 0
+                    "votes": 59
                   },
                   {
                     "name": "Vilula",
@@ -1430,17 +1430,17 @@
                   },
                   {
                     "name": "Yonker",
-                    "votes": 0
+                    "votes": 4
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 516,
                 "Precinct": [
                   {
                     "name": "Chauncey",
-                    "votes": 0
+                    "votes": 6
                   },
                   {
                     "name": "Clark",
@@ -1448,59 +1448,59 @@
                   },
                   {
                     "name": "Eddin",
-                    "votes": 0
+                    "votes": 61
                   },
                   {
                     "name": "Empire",
-                    "votes": 0
+                    "votes": 6
                   },
                   {
                     "name": "Jaybird",
-                    "votes": 0
+                    "votes": 9
                   },
                   {
                     "name": "Jones",
-                    "votes": 0
+                    "votes": 13
                   },
                   {
                     "name": "Lee",
-                    "votes": 0
+                    "votes": 264
                   },
                   {
                     "name": "McCranie",
-                    "votes": 0
+                    "votes": 6
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 13
                   },
                   {
                     "name": "Mitchell",
-                    "votes": 0
+                    "votes": 16
                   },
                   {
                     "name": "Mullis",
-                    "votes": 0
+                    "votes": 17
                   },
                   {
                     "name": "Plainfield",
-                    "votes": 0
+                    "votes": 17
                   },
                   {
                     "name": "Pondtown",
-                    "votes": 0
+                    "votes": 39
                   },
                   {
                     "name": "Rawlins",
-                    "votes": 0
+                    "votes": 42
                   },
                   {
                     "name": "Vilula",
-                    "votes": 0
+                    "votes": 4
                   },
                   {
                     "name": "Yonker",
-                    "votes": 0
+                    "votes": 3
                   }
                 ]
               },
@@ -1584,15 +1584,15 @@
         "voteFor": 1,
         "isQuestion": "false",
         "precinctsReporting": 16,
-        "precinctsReported": 0,
+        "precinctsReported": 16,
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 56,
+            "votes": 161,
             "Precinct": [
               {
                 "name": "Chauncey",
-                "votes": 3
+                "votes": 4
               },
               {
                 "name": "Clark",
@@ -1600,7 +1600,7 @@
               },
               {
                 "name": "Eddin",
-                "votes": 5
+                "votes": 18
               },
               {
                 "name": "Empire",
@@ -1612,43 +1612,43 @@
               },
               {
                 "name": "Jones",
-                "votes": 3
-              },
-              {
-                "name": "Lee",
-                "votes": 0
-              },
-              {
-                "name": "McCranie",
-                "votes": 3
-              },
-              {
-                "name": "Milan",
                 "votes": 4
               },
               {
-                "name": "Mitchell",
-                "votes": 7
+                "name": "Lee",
+                "votes": 64
               },
               {
-                "name": "Mullis",
+                "name": "McCranie",
+                "votes": 4
+              },
+              {
+                "name": "Milan",
                 "votes": 5
               },
               {
-                "name": "Plainfield",
-                "votes": 3
+                "name": "Mitchell",
+                "votes": 10
               },
               {
-                "name": "Pondtown",
+                "name": "Mullis",
                 "votes": 9
               },
               {
+                "name": "Plainfield",
+                "votes": 6
+              },
+              {
+                "name": "Pondtown",
+                "votes": 15
+              },
+              {
                 "name": "Rawlins",
-                "votes": 2
+                "votes": 9
               },
               {
                 "name": "Vilula",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Yonker",
@@ -1731,11 +1731,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 2036,
+            "totalVotes": 5134,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 2036,
+                "votes": 2483,
                 "Precinct": [
                   {
                     "name": "Chauncey",
@@ -1763,7 +1763,7 @@
                   },
                   {
                     "name": "Lee",
-                    "votes": 0
+                    "votes": 447
                   },
                   {
                     "name": "McCranie",
@@ -1805,141 +1805,141 @@
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 2094,
                 "Precinct": [
                   {
                     "name": "Chauncey",
-                    "votes": 0
+                    "votes": 50
                   },
                   {
                     "name": "Clark",
-                    "votes": 0
+                    "votes": 8
                   },
                   {
                     "name": "Eddin",
-                    "votes": 0
+                    "votes": 224
                   },
                   {
                     "name": "Empire",
-                    "votes": 0
+                    "votes": 76
                   },
                   {
                     "name": "Jaybird",
-                    "votes": 0
+                    "votes": 12
                   },
                   {
                     "name": "Jones",
-                    "votes": 0
+                    "votes": 84
                   },
                   {
                     "name": "Lee",
-                    "votes": 0
+                    "votes": 978
                   },
                   {
                     "name": "McCranie",
-                    "votes": 0
+                    "votes": 57
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 41
                   },
                   {
                     "name": "Mitchell",
-                    "votes": 0
+                    "votes": 62
                   },
                   {
                     "name": "Mullis",
-                    "votes": 0
+                    "votes": 49
                   },
                   {
                     "name": "Plainfield",
-                    "votes": 0
+                    "votes": 95
                   },
                   {
                     "name": "Pondtown",
-                    "votes": 0
+                    "votes": 107
                   },
                   {
                     "name": "Rawlins",
-                    "votes": 0
+                    "votes": 198
                   },
                   {
                     "name": "Vilula",
-                    "votes": 0
+                    "votes": 26
                   },
                   {
                     "name": "Yonker",
-                    "votes": 0
+                    "votes": 27
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 557,
                 "Precinct": [
                   {
                     "name": "Chauncey",
-                    "votes": 0
+                    "votes": 20
                   },
                   {
                     "name": "Clark",
-                    "votes": 0
+                    "votes": 5
                   },
                   {
                     "name": "Eddin",
-                    "votes": 0
+                    "votes": 44
                   },
                   {
                     "name": "Empire",
-                    "votes": 0
+                    "votes": 18
                   },
                   {
                     "name": "Jaybird",
-                    "votes": 0
+                    "votes": 9
                   },
                   {
                     "name": "Jones",
-                    "votes": 0
+                    "votes": 21
                   },
                   {
                     "name": "Lee",
-                    "votes": 0
+                    "votes": 243
                   },
                   {
                     "name": "McCranie",
-                    "votes": 0
+                    "votes": 15
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 15
                   },
                   {
                     "name": "Mitchell",
-                    "votes": 0
+                    "votes": 11
                   },
                   {
                     "name": "Mullis",
-                    "votes": 0
+                    "votes": 41
                   },
                   {
                     "name": "Plainfield",
-                    "votes": 0
+                    "votes": 21
                   },
                   {
                     "name": "Pondtown",
-                    "votes": 0
+                    "votes": 46
                   },
                   {
                     "name": "Rawlins",
-                    "votes": 0
+                    "votes": 37
                   },
                   {
                     "name": "Vilula",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Yonker",
-                    "votes": 0
+                    "votes": 8
                   }
                 ]
               },
@@ -2018,11 +2018,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 303,
+            "totalVotes": 1896,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 303,
+                "votes": 541,
                 "Precinct": [
                   {
                     "name": "Chauncey",
@@ -2050,7 +2050,7 @@
                   },
                   {
                     "name": "Lee",
-                    "votes": 0
+                    "votes": 238
                   },
                   {
                     "name": "McCranie",
@@ -2092,11 +2092,11 @@
               },
               {
                 "name": "Advanced Voting Votes",
-                "votes": 0,
+                "votes": 873,
                 "Precinct": [
                   {
                     "name": "Chauncey",
-                    "votes": 0
+                    "votes": 12
                   },
                   {
                     "name": "Clark",
@@ -2104,51 +2104,51 @@
                   },
                   {
                     "name": "Eddin",
-                    "votes": 0
+                    "votes": 80
                   },
                   {
                     "name": "Empire",
-                    "votes": 0
+                    "votes": 9
                   },
                   {
                     "name": "Jaybird",
-                    "votes": 0
+                    "votes": 23
                   },
                   {
                     "name": "Jones",
-                    "votes": 0
+                    "votes": 16
                   },
                   {
                     "name": "Lee",
-                    "votes": 0
+                    "votes": 570
                   },
                   {
                     "name": "McCranie",
-                    "votes": 0
+                    "votes": 16
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 9
                   },
                   {
                     "name": "Mitchell",
-                    "votes": 0
+                    "votes": 21
                   },
                   {
                     "name": "Mullis",
-                    "votes": 0
+                    "votes": 14
                   },
                   {
                     "name": "Plainfield",
-                    "votes": 0
+                    "votes": 11
                   },
                   {
                     "name": "Pondtown",
-                    "votes": 0
+                    "votes": 33
                   },
                   {
                     "name": "Rawlins",
-                    "votes": 0
+                    "votes": 55
                   },
                   {
                     "name": "Vilula",
@@ -2156,17 +2156,17 @@
                   },
                   {
                     "name": "Yonker",
-                    "votes": 0
+                    "votes": 4
                   }
                 ]
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 0,
+                "votes": 482,
                 "Precinct": [
                   {
                     "name": "Chauncey",
-                    "votes": 0
+                    "votes": 5
                   },
                   {
                     "name": "Clark",
@@ -2174,59 +2174,59 @@
                   },
                   {
                     "name": "Eddin",
-                    "votes": 0
+                    "votes": 60
                   },
                   {
                     "name": "Empire",
-                    "votes": 0
+                    "votes": 6
                   },
                   {
                     "name": "Jaybird",
-                    "votes": 0
+                    "votes": 9
                   },
                   {
                     "name": "Jones",
-                    "votes": 0
+                    "votes": 12
                   },
                   {
                     "name": "Lee",
-                    "votes": 0
+                    "votes": 246
                   },
                   {
                     "name": "McCranie",
-                    "votes": 0
+                    "votes": 5
                   },
                   {
                     "name": "Milan",
-                    "votes": 0
+                    "votes": 12
                   },
                   {
                     "name": "Mitchell",
-                    "votes": 0
+                    "votes": 15
                   },
                   {
                     "name": "Mullis",
-                    "votes": 0
+                    "votes": 14
                   },
                   {
                     "name": "Plainfield",
-                    "votes": 0
+                    "votes": 17
                   },
                   {
                     "name": "Pondtown",
-                    "votes": 0
+                    "votes": 36
                   },
                   {
                     "name": "Rawlins",
-                    "votes": 0
+                    "votes": 38
                   },
                   {
                     "name": "Vilula",
-                    "votes": 0
+                    "votes": 4
                   },
                   {
                     "name": "Yonker",
-                    "votes": 0
+                    "votes": 3
                   }
                 ]
               },
