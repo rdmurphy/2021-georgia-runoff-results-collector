@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 10:23:55 PM EST",
+    "Timestamp": "1/7/2021 10:07:38 AM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Richmond",
     "VoterTurnout": {
       "totalVoters": 138863,
-      "ballotsCast": 76097,
-      "voterTurnout": 54.8,
+      "ballotsCast": 77232,
+      "voterTurnout": 55.62,
       "Precincts": {
         "Precinct": [
           {
@@ -90,8 +90,8 @@
           {
             "name": "114",
             "totalVoters": 887,
-            "ballotsCast": 313,
-            "voterTurnout": 35.29,
+            "ballotsCast": 394,
+            "voterTurnout": 44.42,
             "percentReporting": "4"
           },
           {
@@ -111,8 +111,8 @@
           {
             "name": "202",
             "totalVoters": 4683,
-            "ballotsCast": 1760,
-            "voterTurnout": 37.58,
+            "ballotsCast": 2179,
+            "voterTurnout": 46.53,
             "percentReporting": "4"
           },
           {
@@ -433,15 +433,15 @@
           {
             "name": "804",
             "totalVoters": 2159,
-            "ballotsCast": 982,
-            "voterTurnout": 45.48,
+            "ballotsCast": 1183,
+            "voterTurnout": 54.79,
             "percentReporting": "4"
           },
           {
             "name": "804H",
             "totalVoters": 2908,
-            "ballotsCast": 1416,
-            "voterTurnout": 48.69,
+            "ballotsCast": 1784,
+            "voterTurnout": 61.35,
             "percentReporting": "4"
           },
           {
@@ -482,8 +482,8 @@
           {
             "name": "810",
             "totalVoters": 439,
-            "ballotsCast": 220,
-            "voterTurnout": 50.11,
+            "ballotsCast": 286,
+            "voterTurnout": 65.15,
             "percentReporting": "4"
           }
         ]
@@ -500,7 +500,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 134,
+            "votes": 137,
             "Precinct": [
               {
                 "name": "101",
@@ -560,7 +560,7 @@
               },
               {
                 "name": "202",
-                "votes": 4
+                "votes": 5
               },
               {
                 "name": "203",
@@ -748,7 +748,7 @@
               },
               {
                 "name": "804H",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "805",
@@ -772,7 +772,7 @@
               },
               {
                 "name": "810",
-                "votes": 0
+                "votes": 1
               }
             ]
           },
@@ -1059,11 +1059,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 23025,
+            "totalVotes": 23639,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 10048,
+                "votes": 10662,
                 "Precinct": [
                   {
                     "name": "101",
@@ -1111,7 +1111,7 @@
                   },
                   {
                     "name": "114",
-                    "votes": 7
+                    "votes": 20
                   },
                   {
                     "name": "201",
@@ -1123,7 +1123,7 @@
                   },
                   {
                     "name": "202",
-                    "votes": 117
+                    "votes": 255
                   },
                   {
                     "name": "203",
@@ -1307,11 +1307,11 @@
                   },
                   {
                     "name": "804",
-                    "votes": 113
+                    "votes": 248
                   },
                   {
                     "name": "804H",
-                    "votes": 200
+                    "votes": 473
                   },
                   {
                     "name": "805",
@@ -1335,7 +1335,7 @@
                   },
                   {
                     "name": "810",
-                    "votes": 24
+                    "votes": 79
                   }
                 ]
               },
@@ -2178,11 +2178,11 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 52932,
+            "totalVotes": 53450,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 12616,
+                "votes": 13134,
                 "Precinct": [
                   {
                     "name": "101",
@@ -2230,7 +2230,7 @@
                   },
                   {
                     "name": "114",
-                    "votes": 36
+                    "votes": 104
                   },
                   {
                     "name": "201",
@@ -2242,7 +2242,7 @@
                   },
                   {
                     "name": "202",
-                    "votes": 193
+                    "votes": 473
                   },
                   {
                     "name": "203",
@@ -2426,11 +2426,11 @@
                   },
                   {
                     "name": "804",
-                    "votes": 93
+                    "votes": 159
                   },
                   {
                     "name": "804H",
-                    "votes": 129
+                    "votes": 223
                   },
                   {
                     "name": "805",
@@ -2454,7 +2454,7 @@
                   },
                   {
                     "name": "810",
-                    "votes": 8
+                    "votes": 18
                   }
                 ]
               },
@@ -3865,11 +3865,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 22887,
+            "totalVotes": 23501,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 9979,
+                "votes": 10593,
                 "Precinct": [
                   {
                     "name": "101",
@@ -3917,7 +3917,7 @@
                   },
                   {
                     "name": "114",
-                    "votes": 7
+                    "votes": 20
                   },
                   {
                     "name": "201",
@@ -3929,7 +3929,7 @@
                   },
                   {
                     "name": "202",
-                    "votes": 114
+                    "votes": 248
                   },
                   {
                     "name": "203",
@@ -4113,11 +4113,11 @@
                   },
                   {
                     "name": "804",
-                    "votes": 115
+                    "votes": 250
                   },
                   {
                     "name": "804H",
-                    "votes": 203
+                    "votes": 479
                   },
                   {
                     "name": "805",
@@ -4141,7 +4141,7 @@
                   },
                   {
                     "name": "810",
-                    "votes": 24
+                    "votes": 80
                   }
                 ]
               },
@@ -4984,11 +4984,11 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 53102,
+            "totalVotes": 53623,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 12702,
+                "votes": 13223,
                 "Precinct": [
                   {
                     "name": "101",
@@ -5036,7 +5036,7 @@
                   },
                   {
                     "name": "114",
-                    "votes": 37
+                    "votes": 105
                   },
                   {
                     "name": "201",
@@ -5048,7 +5048,7 @@
                   },
                   {
                     "name": "202",
-                    "votes": 197
+                    "votes": 482
                   },
                   {
                     "name": "203",
@@ -5232,11 +5232,11 @@
                   },
                   {
                     "name": "804",
-                    "votes": 91
+                    "votes": 157
                   },
                   {
                     "name": "804H",
-                    "votes": 126
+                    "votes": 218
                   },
                   {
                     "name": "805",
@@ -5260,7 +5260,7 @@
                   },
                   {
                     "name": "810",
-                    "votes": 8
+                    "votes": 18
                   }
                 ]
               },
@@ -6112,7 +6112,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 976,
+            "votes": 991,
             "Precinct": [
               {
                 "name": "101",
@@ -6160,7 +6160,7 @@
               },
               {
                 "name": "114",
-                "votes": 0
+                "votes": 3
               },
               {
                 "name": "201",
@@ -6172,7 +6172,7 @@
               },
               {
                 "name": "202",
-                "votes": 30
+                "votes": 33
               },
               {
                 "name": "203",
@@ -6360,7 +6360,7 @@
               },
               {
                 "name": "804H",
-                "votes": 14
+                "votes": 22
               },
               {
                 "name": "805",
@@ -6384,7 +6384,7 @@
               },
               {
                 "name": "810",
-                "votes": 3
+                "votes": 4
               }
             ]
           },
@@ -6671,11 +6671,11 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 23325,
+            "totalVotes": 23938,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 10090,
+                "votes": 10703,
                 "Precinct": [
                   {
                     "name": "101",
@@ -6723,7 +6723,7 @@
                   },
                   {
                     "name": "114",
-                    "votes": 8
+                    "votes": 20
                   },
                   {
                     "name": "201",
@@ -6735,7 +6735,7 @@
                   },
                   {
                     "name": "202",
-                    "votes": 113
+                    "votes": 252
                   },
                   {
                     "name": "203",
@@ -6919,11 +6919,11 @@
                   },
                   {
                     "name": "804",
-                    "votes": 116
+                    "votes": 253
                   },
                   {
                     "name": "804H",
-                    "votes": 202
+                    "votes": 472
                   },
                   {
                     "name": "805",
@@ -6947,7 +6947,7 @@
                   },
                   {
                     "name": "810",
-                    "votes": 23
+                    "votes": 78
                   }
                 ]
               },
@@ -7790,11 +7790,11 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 51795,
+            "totalVotes": 52302,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 12374,
+                "votes": 12881,
                 "Precinct": [
                   {
                     "name": "101",
@@ -7842,7 +7842,7 @@
                   },
                   {
                     "name": "114",
-                    "votes": 36
+                    "votes": 102
                   },
                   {
                     "name": "201",
@@ -7854,7 +7854,7 @@
                   },
                   {
                     "name": "202",
-                    "votes": 188
+                    "votes": 465
                   },
                   {
                     "name": "203",
@@ -8038,11 +8038,11 @@
                   },
                   {
                     "name": "804",
-                    "votes": 88
+                    "votes": 152
                   },
                   {
                     "name": "804H",
-                    "votes": 125
+                    "votes": 215
                   },
                   {
                     "name": "805",
@@ -8066,7 +8066,7 @@
                   },
                   {
                     "name": "810",
-                    "votes": 8
+                    "votes": 18
                   }
                 ]
               },
