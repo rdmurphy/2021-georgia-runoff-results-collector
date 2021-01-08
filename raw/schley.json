@@ -1,20 +1,20 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 9:07:42 PM EST",
+    "Timestamp": "1/8/2021 2:31:52 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Schley",
     "VoterTurnout": {
       "totalVoters": 2952,
-      "ballotsCast": 2059,
-      "voterTurnout": 69.75,
+      "ballotsCast": 2060,
+      "voterTurnout": 69.78,
       "Precincts": {
         "Precinct": [
           {
             "name": "Precinct One",
             "totalVoters": 2952,
-            "ballotsCast": 2059,
-            "voterTurnout": 69.75,
+            "ballotsCast": 2060,
+            "voterTurnout": 69.78,
             "percentReporting": "4"
           }
         ]
@@ -101,7 +101,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 434,
+            "totalVotes": 435,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -125,11 +125,11 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 151,
+                "votes": 152,
                 "Precinct": [
                   {
                     "name": "Precinct One",
-                    "votes": 151
+                    "votes": 152
                   }
                 ]
               },
@@ -227,7 +227,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 437,
+            "totalVotes": 438,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -251,11 +251,11 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 150,
+                "votes": 151,
                 "Precinct": [
                   {
                     "name": "Precinct One",
-                    "votes": 150
+                    "votes": 151
                   }
                 ]
               },
@@ -283,11 +283,11 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 41,
+            "votes": 42,
             "Precinct": [
               {
                 "name": "Precinct One",
-                "votes": 41
+                "votes": 42
               }
             ]
           },

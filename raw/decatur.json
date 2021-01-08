@@ -1,20 +1,20 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 9:05:04 PM EST",
+    "Timestamp": "1/8/2021 2:27:57 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Decatur",
     "VoterTurnout": {
       "totalVoters": 17123,
-      "ballotsCast": 10053,
-      "voterTurnout": 58.71,
+      "ballotsCast": 10070,
+      "voterTurnout": 58.81,
       "Precincts": {
         "Precinct": [
           {
             "name": "Mt Pleasant",
             "totalVoters": 578,
-            "ballotsCast": 412,
-            "voterTurnout": 71.28,
+            "ballotsCast": 413,
+            "voterTurnout": 71.45,
             "percentReporting": "4"
           },
           {
@@ -34,43 +34,43 @@
           {
             "name": "Climax",
             "totalVoters": 1003,
-            "ballotsCast": 677,
-            "voterTurnout": 67.5,
+            "ballotsCast": 678,
+            "voterTurnout": 67.6,
             "percentReporting": "4"
           },
           {
             "name": "Brinson",
             "totalVoters": 866,
-            "ballotsCast": 528,
-            "voterTurnout": 60.97,
+            "ballotsCast": 529,
+            "voterTurnout": 61.09,
             "percentReporting": "4"
           },
           {
             "name": "West Bainbridge",
             "totalVoters": 2331,
-            "ballotsCast": 1259,
-            "voterTurnout": 54.01,
+            "ballotsCast": 1264,
+            "voterTurnout": 54.23,
             "percentReporting": "4"
           },
           {
             "name": "Bainbridge-Coliseum",
             "totalVoters": 5802,
-            "ballotsCast": 3460,
-            "voterTurnout": 59.63,
+            "ballotsCast": 3462,
+            "voterTurnout": 59.67,
             "percentReporting": "4"
           },
           {
             "name": "BDGE-Fairgrounds",
             "totalVoters": 3415,
-            "ballotsCast": 1800,
-            "voterTurnout": 52.71,
+            "ballotsCast": 1804,
+            "voterTurnout": 52.83,
             "percentReporting": "4"
           },
           {
             "name": "Attapulgus",
             "totalVoters": 1854,
-            "ballotsCast": 1134,
-            "voterTurnout": 61.17,
+            "ballotsCast": 1137,
+            "voterTurnout": 61.33,
             "percentReporting": "4"
           }
         ]
@@ -174,7 +174,7 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 5910,
+            "totalVotes": 5919,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -304,7 +304,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 9,
                 "Precinct": [
                   {
                     "name": "Mt Pleasant",
@@ -320,15 +320,15 @@
                   },
                   {
                     "name": "Climax",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Brinson",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "West Bainbridge",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Bainbridge-Coliseum",
@@ -336,11 +336,11 @@
                   },
                   {
                     "name": "BDGE-Fairgrounds",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Attapulgus",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -349,7 +349,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 4119,
+            "totalVotes": 4127,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -437,7 +437,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1233,
+                "votes": 1234,
                 "Precinct": [
                   {
                     "name": "Mt Pleasant",
@@ -461,7 +461,7 @@
                   },
                   {
                     "name": "West Bainbridge",
-                    "votes": 150
+                    "votes": 151
                   },
                   {
                     "name": "Bainbridge-Coliseum",
@@ -479,11 +479,11 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 7,
                 "Precinct": [
                   {
                     "name": "Mt Pleasant",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Recovery",
@@ -503,19 +503,19 @@
                   },
                   {
                     "name": "West Bainbridge",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Bainbridge-Coliseum",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "BDGE-Fairgrounds",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Attapulgus",
-                    "votes": 0
+                    "votes": 2
                   }
                 ]
               }
@@ -620,7 +620,7 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 5917,
+            "totalVotes": 5926,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -750,7 +750,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 9,
                 "Precinct": [
                   {
                     "name": "Mt Pleasant",
@@ -766,15 +766,15 @@
                   },
                   {
                     "name": "Climax",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Brinson",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "West Bainbridge",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Bainbridge-Coliseum",
@@ -782,11 +782,11 @@
                   },
                   {
                     "name": "BDGE-Fairgrounds",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Attapulgus",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -795,7 +795,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 4113,
+            "totalVotes": 4121,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -883,7 +883,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1234,
+                "votes": 1235,
                 "Precinct": [
                   {
                     "name": "Mt Pleasant",
@@ -907,7 +907,7 @@
                   },
                   {
                     "name": "West Bainbridge",
-                    "votes": 152
+                    "votes": 153
                   },
                   {
                     "name": "Bainbridge-Coliseum",
@@ -925,11 +925,11 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 7,
                 "Precinct": [
                   {
                     "name": "Mt Pleasant",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Recovery",
@@ -949,19 +949,19 @@
                   },
                   {
                     "name": "West Bainbridge",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Bainbridge-Coliseum",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "BDGE-Fairgrounds",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Attapulgus",
-                    "votes": 0
+                    "votes": 2
                   }
                 ]
               }
@@ -979,7 +979,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 138,
+            "votes": 139,
             "Precinct": [
               {
                 "name": "Mt Pleasant",
@@ -999,7 +999,7 @@
               },
               {
                 "name": "Brinson",
-                "votes": 9
+                "votes": 10
               },
               {
                 "name": "West Bainbridge",
@@ -1066,7 +1066,7 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 5874,
+            "totalVotes": 5882,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1196,7 +1196,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 8,
                 "Precinct": [
                   {
                     "name": "Mt Pleasant",
@@ -1212,7 +1212,7 @@
                   },
                   {
                     "name": "Climax",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Brinson",
@@ -1220,7 +1220,7 @@
                   },
                   {
                     "name": "West Bainbridge",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Bainbridge-Coliseum",
@@ -1228,11 +1228,11 @@
                   },
                   {
                     "name": "BDGE-Fairgrounds",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Attapulgus",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -1241,7 +1241,7 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 4041,
+            "totalVotes": 4049,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1329,7 +1329,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1212,
+                "votes": 1213,
                 "Precinct": [
                   {
                     "name": "Mt Pleasant",
@@ -1353,7 +1353,7 @@
                   },
                   {
                     "name": "West Bainbridge",
-                    "votes": 152
+                    "votes": 153
                   },
                   {
                     "name": "Bainbridge-Coliseum",
@@ -1371,11 +1371,11 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 7,
                 "Precinct": [
                   {
                     "name": "Mt Pleasant",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Recovery",
@@ -1395,19 +1395,19 @@
                   },
                   {
                     "name": "West Bainbridge",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Bainbridge-Coliseum",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "BDGE-Fairgrounds",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Attapulgus",
-                    "votes": 0
+                    "votes": 2
                   }
                 ]
               }

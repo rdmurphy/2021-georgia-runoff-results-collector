@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:54:39 PM EST",
+    "Timestamp": "1/8/2021 3:00:52 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Jasper",
     "VoterTurnout": {
       "totalVoters": 10582,
-      "ballotsCast": 6802,
-      "voterTurnout": 64.28,
+      "ballotsCast": 6816,
+      "voterTurnout": 64.41,
       "Precincts": {
         "Precinct": [
           {
@@ -20,15 +20,15 @@
           {
             "name": "Monticello",
             "totalVoters": 4590,
-            "ballotsCast": 3072,
-            "voterTurnout": 66.93,
+            "ballotsCast": 3085,
+            "voterTurnout": 67.21,
             "percentReporting": "4"
           },
           {
             "name": "Martin-Burney",
             "totalVoters": 4014,
-            "ballotsCast": 2528,
-            "voterTurnout": 62.98,
+            "ballotsCast": 2529,
+            "voterTurnout": 63.0,
             "percentReporting": "4"
           }
         ]
@@ -84,7 +84,7 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 5136,
+            "totalVotes": 5146,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -142,7 +142,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 10,
                 "Precinct": [
                   {
                     "name": "Wyatt",
@@ -150,7 +150,7 @@
                   },
                   {
                     "name": "Monticello",
-                    "votes": 0
+                    "votes": 10
                   },
                   {
                     "name": "Martin-Burney",
@@ -163,7 +163,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 1650,
+            "totalVotes": 1654,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -221,7 +221,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 4,
                 "Precinct": [
                   {
                     "name": "Wyatt",
@@ -229,11 +229,11 @@
                   },
                   {
                     "name": "Monticello",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Martin-Burney",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -290,7 +290,7 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 5109,
+            "totalVotes": 5120,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -348,7 +348,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 11,
                 "Precinct": [
                   {
                     "name": "Wyatt",
@@ -356,11 +356,11 @@
                   },
                   {
                     "name": "Monticello",
-                    "votes": 0
+                    "votes": 10
                   },
                   {
                     "name": "Martin-Burney",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -369,7 +369,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 1680,
+            "totalVotes": 1683,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -427,7 +427,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 3,
                 "Precinct": [
                   {
                     "name": "Wyatt",
@@ -435,7 +435,7 @@
                   },
                   {
                     "name": "Monticello",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Martin-Burney",
@@ -496,7 +496,7 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 5152,
+            "totalVotes": 5163,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -554,7 +554,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 11,
                 "Precinct": [
                   {
                     "name": "Wyatt",
@@ -562,11 +562,11 @@
                   },
                   {
                     "name": "Monticello",
-                    "votes": 0
+                    "votes": 10
                   },
                   {
                     "name": "Martin-Burney",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -575,7 +575,7 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 1574,
+            "totalVotes": 1577,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -633,7 +633,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 3,
                 "Precinct": [
                   {
                     "name": "Wyatt",
@@ -641,7 +641,7 @@
                   },
                   {
                     "name": "Monticello",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Martin-Burney",

@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 10:10:01 PM EST",
+    "Timestamp": "1/8/2021 3:13:54 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Morgan",
     "VoterTurnout": {
       "totalVoters": 15059,
-      "ballotsCast": 10832,
-      "voterTurnout": 71.93,
+      "ballotsCast": 10839,
+      "voterTurnout": 71.98,
       "Precincts": {
         "Precinct": [
           {
@@ -34,29 +34,29 @@
           {
             "name": "Central Morgan",
             "totalVoters": 2800,
-            "ballotsCast": 2037,
-            "voterTurnout": 72.75,
+            "ballotsCast": 2040,
+            "voterTurnout": 72.86,
             "percentReporting": "4"
           },
           {
             "name": "Clacks Chapel",
             "totalVoters": 731,
-            "ballotsCast": 559,
-            "voterTurnout": 76.47,
+            "ballotsCast": 560,
+            "voterTurnout": 76.61,
             "percentReporting": "4"
           },
           {
             "name": "West Morgan",
             "totalVoters": 2700,
-            "ballotsCast": 1982,
-            "voterTurnout": 73.41,
+            "ballotsCast": 1983,
+            "voterTurnout": 73.44,
             "percentReporting": "4"
           },
           {
             "name": "North Morgan",
             "totalVoters": 2723,
-            "ballotsCast": 1892,
-            "voterTurnout": 69.48,
+            "ballotsCast": 1894,
+            "voterTurnout": 69.56,
             "percentReporting": "4"
           }
         ]
@@ -144,7 +144,7 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 7727,
+            "totalVotes": 7730,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -216,7 +216,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 728,
+                "votes": 729,
                 "Precinct": [
                   {
                     "name": "Northeast Morgan",
@@ -232,7 +232,7 @@
                   },
                   {
                     "name": "Central Morgan",
-                    "votes": 174
+                    "votes": 175
                   },
                   {
                     "name": "Clacks Chapel",
@@ -250,7 +250,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 2,
                 "Precinct": [
                   {
                     "name": "Northeast Morgan",
@@ -274,11 +274,11 @@
                   },
                   {
                     "name": "West Morgan",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "North Morgan",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -287,7 +287,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 3093,
+            "totalVotes": 3097,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -359,7 +359,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 890,
+                "votes": 892,
                 "Precinct": [
                   {
                     "name": "Northeast Morgan",
@@ -375,7 +375,7 @@
                   },
                   {
                     "name": "Central Morgan",
-                    "votes": 176
+                    "votes": 177
                   },
                   {
                     "name": "Clacks Chapel",
@@ -387,13 +387,13 @@
                   },
                   {
                     "name": "North Morgan",
-                    "votes": 117
+                    "votes": 118
                   }
                 ]
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 2,
                 "Precinct": [
                   {
                     "name": "Northeast Morgan",
@@ -409,11 +409,11 @@
                   },
                   {
                     "name": "Central Morgan",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Clacks Chapel",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "West Morgan",
@@ -510,7 +510,7 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 7693,
+            "totalVotes": 7696,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -582,7 +582,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 721,
+                "votes": 722,
                 "Precinct": [
                   {
                     "name": "Northeast Morgan",
@@ -598,7 +598,7 @@
                   },
                   {
                     "name": "Central Morgan",
-                    "votes": 170
+                    "votes": 171
                   },
                   {
                     "name": "Clacks Chapel",
@@ -616,7 +616,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 2,
                 "Precinct": [
                   {
                     "name": "Northeast Morgan",
@@ -640,11 +640,11 @@
                   },
                   {
                     "name": "West Morgan",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "North Morgan",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -653,7 +653,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 3125,
+            "totalVotes": 3129,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -725,7 +725,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 896,
+                "votes": 898,
                 "Precinct": [
                   {
                     "name": "Northeast Morgan",
@@ -741,7 +741,7 @@
                   },
                   {
                     "name": "Central Morgan",
-                    "votes": 180
+                    "votes": 181
                   },
                   {
                     "name": "Clacks Chapel",
@@ -753,13 +753,13 @@
                   },
                   {
                     "name": "North Morgan",
-                    "votes": 115
+                    "votes": 116
                   }
                 ]
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 2,
                 "Precinct": [
                   {
                     "name": "Northeast Morgan",
@@ -775,11 +775,11 @@
                   },
                   {
                     "name": "Central Morgan",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Clacks Chapel",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "West Morgan",
@@ -876,7 +876,7 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 7721,
+            "totalVotes": 7723,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -982,7 +982,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 2,
                 "Precinct": [
                   {
                     "name": "Northeast Morgan",
@@ -1006,11 +1006,11 @@
                   },
                   {
                     "name": "West Morgan",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "North Morgan",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -1019,7 +1019,7 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 3007,
+            "totalVotes": 3010,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1091,7 +1091,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 859,
+                "votes": 860,
                 "Precinct": [
                   {
                     "name": "Northeast Morgan",
@@ -1119,13 +1119,13 @@
                   },
                   {
                     "name": "North Morgan",
-                    "votes": 112
+                    "votes": 113
                   }
                 ]
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 2,
                 "Precinct": [
                   {
                     "name": "Northeast Morgan",
@@ -1141,11 +1141,11 @@
                   },
                   {
                     "name": "Central Morgan",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Clacks Chapel",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "West Morgan",

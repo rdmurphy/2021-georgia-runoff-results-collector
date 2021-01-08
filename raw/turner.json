@@ -1,34 +1,34 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:27:48 PM EST",
+    "Timestamp": "1/8/2021 2:49:30 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Turner",
     "VoterTurnout": {
       "totalVoters": 5708,
-      "ballotsCast": 3412,
-      "voterTurnout": 59.78,
+      "ballotsCast": 3416,
+      "voterTurnout": 59.85,
       "Precincts": {
         "Precinct": [
           {
             "name": "Ashburn",
             "totalVoters": 3597,
-            "ballotsCast": 2044,
-            "voterTurnout": 56.83,
+            "ballotsCast": 2045,
+            "voterTurnout": 56.85,
             "percentReporting": "4"
           },
           {
             "name": "Sycamore",
             "totalVoters": 1634,
-            "ballotsCast": 1075,
-            "voterTurnout": 65.79,
+            "ballotsCast": 1077,
+            "voterTurnout": 65.91,
             "percentReporting": "4"
           },
           {
             "name": "Rebecca",
             "totalVoters": 477,
-            "ballotsCast": 293,
-            "voterTurnout": 61.43,
+            "ballotsCast": 294,
+            "voterTurnout": 61.64,
             "percentReporting": "4"
           }
         ]
@@ -84,7 +84,7 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 2104,
+            "totalVotes": 2105,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -142,7 +142,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
                     "name": "Ashburn",
@@ -154,7 +154,7 @@
                   },
                   {
                     "name": "Rebecca",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -163,7 +163,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 1302,
+            "totalVotes": 1305,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -221,15 +221,15 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 3,
                 "Precinct": [
                   {
                     "name": "Ashburn",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Sycamore",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Rebecca",
@@ -290,7 +290,7 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 2101,
+            "totalVotes": 2102,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -348,7 +348,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
                     "name": "Ashburn",
@@ -360,7 +360,7 @@
                   },
                   {
                     "name": "Rebecca",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -369,7 +369,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 1307,
+            "totalVotes": 1310,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -427,15 +427,15 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 3,
                 "Precinct": [
                   {
                     "name": "Ashburn",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Sycamore",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Rebecca",
@@ -496,7 +496,7 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 2100,
+            "totalVotes": 2101,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -554,7 +554,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
                     "name": "Ashburn",
@@ -566,7 +566,7 @@
                   },
                   {
                     "name": "Rebecca",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -575,7 +575,7 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 1259,
+            "totalVotes": 1262,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -633,15 +633,15 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 3,
                 "Precinct": [
                   {
                     "name": "Ashburn",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Sycamore",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Rebecca",
