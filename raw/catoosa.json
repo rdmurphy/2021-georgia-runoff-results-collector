@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 9:43:31 PM EST",
+    "Timestamp": "1/8/2021 5:06:49 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Catoosa",
     "VoterTurnout": {
       "totalVoters": 46767,
-      "ballotsCast": 27805,
-      "voterTurnout": 59.45,
+      "ballotsCast": 27825,
+      "voterTurnout": 59.5,
       "Precincts": {
         "Precinct": [
           {
@@ -20,36 +20,36 @@
           {
             "name": "Boynton",
             "totalVoters": 6157,
-            "ballotsCast": 3911,
-            "voterTurnout": 63.52,
+            "ballotsCast": 3912,
+            "voterTurnout": 63.54,
             "percentReporting": "4"
           },
           {
             "name": "Catoosa Keith",
             "totalVoters": 2679,
-            "ballotsCast": 1653,
-            "voterTurnout": 61.7,
+            "ballotsCast": 1654,
+            "voterTurnout": 61.74,
             "percentReporting": "4"
           },
           {
             "name": "Chambers",
             "totalVoters": 2588,
-            "ballotsCast": 1845,
-            "voterTurnout": 71.29,
+            "ballotsCast": 1846,
+            "voterTurnout": 71.33,
             "percentReporting": "4"
           },
           {
             "name": "Ft Oglethorpe",
             "totalVoters": 4160,
-            "ballotsCast": 2302,
-            "voterTurnout": 55.34,
+            "ballotsCast": 2303,
+            "voterTurnout": 55.36,
             "percentReporting": "4"
           },
           {
             "name": "Graysville",
             "totalVoters": 4606,
-            "ballotsCast": 2641,
-            "voterTurnout": 57.34,
+            "ballotsCast": 2644,
+            "voterTurnout": 57.4,
             "percentReporting": "4"
           },
           {
@@ -69,22 +69,22 @@
           {
             "name": "Ringgold",
             "totalVoters": 7583,
-            "ballotsCast": 4697,
-            "voterTurnout": 61.94,
+            "ballotsCast": 4705,
+            "voterTurnout": 62.05,
             "percentReporting": "4"
           },
           {
             "name": "Westside",
             "totalVoters": 6050,
-            "ballotsCast": 3293,
-            "voterTurnout": 54.43,
+            "ballotsCast": 3296,
+            "voterTurnout": 54.48,
             "percentReporting": "4"
           },
           {
             "name": "Woodstation",
             "totalVoters": 2996,
-            "ballotsCast": 1964,
-            "voterTurnout": 65.55,
+            "ballotsCast": 1966,
+            "voterTurnout": 65.62,
             "percentReporting": "4"
           }
         ]
@@ -101,7 +101,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 58,
+            "votes": 59,
             "Precinct": [
               {
                 "name": "Blackstock",
@@ -137,7 +137,7 @@
               },
               {
                 "name": "Ringgold",
-                "votes": 10
+                "votes": 11
               },
               {
                 "name": "Westside",
@@ -204,7 +204,7 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 21743,
+            "totalVotes": 21757,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -308,7 +308,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 2462,
+                "votes": 2464,
                 "Precinct": [
                   {
                     "name": "Blackstock",
@@ -344,7 +344,7 @@
                   },
                   {
                     "name": "Ringgold",
-                    "votes": 453
+                    "votes": 455
                   },
                   {
                     "name": "Westside",
@@ -358,7 +358,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 12,
                 "Precinct": [
                   {
                     "name": "Blackstock",
@@ -374,15 +374,15 @@
                   },
                   {
                     "name": "Chambers",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Ft Oglethorpe",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Graysville",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Lakeview",
@@ -394,15 +394,15 @@
                   },
                   {
                     "name": "Ringgold",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Westside",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Woodstation",
-                    "votes": 0
+                    "votes": 2
                   }
                 ]
               }
@@ -411,7 +411,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 6004,
+            "totalVotes": 6009,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -515,7 +515,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1978,
+                "votes": 1980,
                 "Precinct": [
                   {
                     "name": "Blackstock",
@@ -527,7 +527,7 @@
                   },
                   {
                     "name": "Catoosa Keith",
-                    "votes": 99
+                    "votes": 100
                   },
                   {
                     "name": "Chambers",
@@ -551,7 +551,7 @@
                   },
                   {
                     "name": "Ringgold",
-                    "votes": 383
+                    "votes": 384
                   },
                   {
                     "name": "Westside",
@@ -565,7 +565,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 3,
                 "Precinct": [
                   {
                     "name": "Blackstock",
@@ -573,7 +573,7 @@
                   },
                   {
                     "name": "Boynton",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Catoosa Keith",
@@ -601,11 +601,11 @@
                   },
                   {
                     "name": "Ringgold",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Westside",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Woodstation",
@@ -730,7 +730,7 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 21778,
+            "totalVotes": 21792,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -834,7 +834,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 2468,
+                "votes": 2470,
                 "Precinct": [
                   {
                     "name": "Blackstock",
@@ -870,7 +870,7 @@
                   },
                   {
                     "name": "Ringgold",
-                    "votes": 447
+                    "votes": 449
                   },
                   {
                     "name": "Westside",
@@ -884,7 +884,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 12,
                 "Precinct": [
                   {
                     "name": "Blackstock",
@@ -900,15 +900,15 @@
                   },
                   {
                     "name": "Chambers",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Ft Oglethorpe",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Graysville",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Lakeview",
@@ -920,15 +920,15 @@
                   },
                   {
                     "name": "Ringgold",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Westside",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Woodstation",
-                    "votes": 0
+                    "votes": 2
                   }
                 ]
               }
@@ -937,7 +937,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 5979,
+            "totalVotes": 5985,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1041,7 +1041,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1970,
+                "votes": 1972,
                 "Precinct": [
                   {
                     "name": "Blackstock",
@@ -1053,7 +1053,7 @@
                   },
                   {
                     "name": "Catoosa Keith",
-                    "votes": 97
+                    "votes": 98
                   },
                   {
                     "name": "Chambers",
@@ -1077,7 +1077,7 @@
                   },
                   {
                     "name": "Ringgold",
-                    "votes": 389
+                    "votes": 390
                   },
                   {
                     "name": "Westside",
@@ -1091,7 +1091,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 4,
                 "Precinct": [
                   {
                     "name": "Blackstock",
@@ -1099,7 +1099,7 @@
                   },
                   {
                     "name": "Boynton",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Catoosa Keith",
@@ -1127,11 +1127,11 @@
                   },
                   {
                     "name": "Ringgold",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Westside",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Woodstation",
@@ -1153,7 +1153,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 340,
+            "votes": 342,
             "Precinct": [
               {
                 "name": "Blackstock",
@@ -1177,7 +1177,7 @@
               },
               {
                 "name": "Graysville",
-                "votes": 44
+                "votes": 45
               },
               {
                 "name": "Lakeview",
@@ -1189,7 +1189,7 @@
               },
               {
                 "name": "Ringgold",
-                "votes": 52
+                "votes": 53
               },
               {
                 "name": "Westside",
@@ -1256,7 +1256,7 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 21763,
+            "totalVotes": 21776,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1360,7 +1360,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 2460,
+                "votes": 2462,
                 "Precinct": [
                   {
                     "name": "Blackstock",
@@ -1396,7 +1396,7 @@
                   },
                   {
                     "name": "Ringgold",
-                    "votes": 450
+                    "votes": 452
                   },
                   {
                     "name": "Westside",
@@ -1410,7 +1410,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 11,
                 "Precinct": [
                   {
                     "name": "Blackstock",
@@ -1426,15 +1426,15 @@
                   },
                   {
                     "name": "Chambers",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Ft Oglethorpe",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Graysville",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Lakeview",
@@ -1446,15 +1446,15 @@
                   },
                   {
                     "name": "Ringgold",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Westside",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Woodstation",
-                    "votes": 0
+                    "votes": 2
                   }
                 ]
               }
@@ -1463,7 +1463,7 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 5702,
+            "totalVotes": 5707,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1567,7 +1567,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1895,
+                "votes": 1897,
                 "Precinct": [
                   {
                     "name": "Blackstock",
@@ -1579,7 +1579,7 @@
                   },
                   {
                     "name": "Catoosa Keith",
-                    "votes": 88
+                    "votes": 89
                   },
                   {
                     "name": "Chambers",
@@ -1603,7 +1603,7 @@
                   },
                   {
                     "name": "Ringgold",
-                    "votes": 371
+                    "votes": 372
                   },
                   {
                     "name": "Westside",
@@ -1617,7 +1617,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 3,
                 "Precinct": [
                   {
                     "name": "Blackstock",
@@ -1625,7 +1625,7 @@
                   },
                   {
                     "name": "Boynton",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Catoosa Keith",
@@ -1653,11 +1653,11 @@
                   },
                   {
                     "name": "Ringgold",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Westside",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Woodstation",

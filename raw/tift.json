@@ -1,27 +1,27 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:34:42 PM EST",
+    "Timestamp": "1/8/2021 4:56:43 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Tift",
     "VoterTurnout": {
       "totalVoters": 25062,
-      "ballotsCast": 14423,
-      "voterTurnout": 57.55,
+      "ballotsCast": 14442,
+      "voterTurnout": 57.63,
       "Precincts": {
         "Precinct": [
           {
             "name": "Tifton Northeast",
             "totalVoters": 3457,
-            "ballotsCast": 1847,
-            "voterTurnout": 53.43,
+            "ballotsCast": 1860,
+            "voterTurnout": 53.8,
             "percentReporting": "4"
           },
           {
             "name": "Brighton",
             "totalVoters": 2257,
-            "ballotsCast": 1646,
-            "voterTurnout": 72.93,
+            "ballotsCast": 1648,
+            "voterTurnout": 73.02,
             "percentReporting": "4"
           },
           {
@@ -41,8 +41,8 @@
           {
             "name": "Docia",
             "totalVoters": 1061,
-            "ballotsCast": 761,
-            "voterTurnout": 71.72,
+            "ballotsCast": 763,
+            "voterTurnout": 71.91,
             "percentReporting": "4"
           },
           {
@@ -83,15 +83,15 @@
           {
             "name": "Mott-Litman Gym",
             "totalVoters": 2951,
-            "ballotsCast": 1284,
-            "voterTurnout": 43.51,
+            "ballotsCast": 1285,
+            "voterTurnout": 43.54,
             "percentReporting": "4"
           },
           {
             "name": "Tifton Lodge",
             "totalVoters": 3184,
-            "ballotsCast": 1832,
-            "voterTurnout": 57.54,
+            "ballotsCast": 1833,
+            "voterTurnout": 57.57,
             "percentReporting": "4"
           }
         ]
@@ -219,7 +219,7 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 9666,
+            "totalVotes": 9681,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -385,15 +385,15 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 15,
                 "Precinct": [
                   {
                     "name": "Tifton Northeast",
-                    "votes": 0
+                    "votes": 10
                   },
                   {
                     "name": "Brighton",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Brookfield",
@@ -405,7 +405,7 @@
                   },
                   {
                     "name": "Docia",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Eldorado",
@@ -433,7 +433,7 @@
                   },
                   {
                     "name": "Tifton Lodge",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -442,7 +442,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 4722,
+            "totalVotes": 4726,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -554,11 +554,11 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1226,
+                "votes": 1228,
                 "Precinct": [
                   {
                     "name": "Tifton Northeast",
-                    "votes": 154
+                    "votes": 155
                   },
                   {
                     "name": "Brighton",
@@ -598,7 +598,7 @@
                   },
                   {
                     "name": "Mott-Litman Gym",
-                    "votes": 285
+                    "votes": 286
                   },
                   {
                     "name": "Tifton Lodge",
@@ -608,11 +608,11 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 2,
                 "Precinct": [
                   {
                     "name": "Tifton Northeast",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Brighton",
@@ -785,7 +785,7 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 9649,
+            "totalVotes": 9664,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -951,15 +951,15 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 15,
                 "Precinct": [
                   {
                     "name": "Tifton Northeast",
-                    "votes": 0
+                    "votes": 10
                   },
                   {
                     "name": "Brighton",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Brookfield",
@@ -971,7 +971,7 @@
                   },
                   {
                     "name": "Docia",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Eldorado",
@@ -999,7 +999,7 @@
                   },
                   {
                     "name": "Tifton Lodge",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -1008,7 +1008,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 4750,
+            "totalVotes": 4754,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1120,11 +1120,11 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1237,
+                "votes": 1239,
                 "Precinct": [
                   {
                     "name": "Tifton Northeast",
-                    "votes": 159
+                    "votes": 160
                   },
                   {
                     "name": "Brighton",
@@ -1164,7 +1164,7 @@
                   },
                   {
                     "name": "Mott-Litman Gym",
-                    "votes": 291
+                    "votes": 292
                   },
                   {
                     "name": "Tifton Lodge",
@@ -1174,11 +1174,11 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 2,
                 "Precinct": [
                   {
                     "name": "Tifton Northeast",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Brighton",
@@ -1240,11 +1240,11 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 216,
+            "votes": 217,
             "Precinct": [
               {
                 "name": "Tifton Northeast",
-                "votes": 24
+                "votes": 25
               },
               {
                 "name": "Brighton",
@@ -1351,7 +1351,7 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 9706,
+            "totalVotes": 9720,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1517,15 +1517,15 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 14,
                 "Precinct": [
                   {
                     "name": "Tifton Northeast",
-                    "votes": 0
+                    "votes": 9
                   },
                   {
                     "name": "Brighton",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Brookfield",
@@ -1537,7 +1537,7 @@
                   },
                   {
                     "name": "Docia",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Eldorado",
@@ -1565,7 +1565,7 @@
                   },
                   {
                     "name": "Tifton Lodge",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -1574,7 +1574,7 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 4501,
+            "totalVotes": 4505,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1686,11 +1686,11 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1151,
+                "votes": 1153,
                 "Precinct": [
                   {
                     "name": "Tifton Northeast",
-                    "votes": 142
+                    "votes": 143
                   },
                   {
                     "name": "Brighton",
@@ -1730,7 +1730,7 @@
                   },
                   {
                     "name": "Mott-Litman Gym",
-                    "votes": 279
+                    "votes": 280
                   },
                   {
                     "name": "Tifton Lodge",
@@ -1740,11 +1740,11 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 2,
                 "Precinct": [
                   {
                     "name": "Tifton Northeast",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Brighton",

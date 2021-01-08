@@ -1,20 +1,20 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:24:18 PM EST",
+    "Timestamp": "1/8/2021 5:10:25 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Warren",
     "VoterTurnout": {
       "totalVoters": 3863,
-      "ballotsCast": 2473,
-      "voterTurnout": 64.02,
+      "ballotsCast": 2474,
+      "voterTurnout": 64.04,
       "Precincts": {
         "Precinct": [
           {
             "name": "Warrenton",
             "totalVoters": 3863,
-            "ballotsCast": 2473,
-            "voterTurnout": 64.02,
+            "ballotsCast": 2474,
+            "voterTurnout": 64.04,
             "percentReporting": "4"
           }
         ]
@@ -101,7 +101,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 1386,
+            "totalVotes": 1387,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -135,11 +135,11 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
                     "name": "Warrenton",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -227,7 +227,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 1394,
+            "totalVotes": 1395,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -261,11 +261,11 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
                     "name": "Warrenton",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -283,11 +283,11 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 73,
+            "votes": 72,
             "Precinct": [
               {
                 "name": "Warrenton",
-                "votes": 73
+                "votes": 72
               }
             ]
           },
@@ -353,7 +353,7 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 1331,
+            "totalVotes": 1333,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -377,21 +377,21 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 464,
+                "votes": 465,
                 "Precinct": [
                   {
                     "name": "Warrenton",
-                    "votes": 464
+                    "votes": 465
                   }
                 ]
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
                     "name": "Warrenton",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }

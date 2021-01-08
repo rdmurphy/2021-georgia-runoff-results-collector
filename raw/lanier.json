@@ -1,20 +1,20 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:04:59 PM EST",
+    "Timestamp": "1/8/2021 4:51:42 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Lanier",
     "VoterTurnout": {
       "totalVoters": 5660,
-      "ballotsCast": 3032,
-      "voterTurnout": 53.57,
+      "ballotsCast": 3041,
+      "voterTurnout": 53.73,
       "Precincts": {
         "Precinct": [
           {
             "name": "Lakeland",
             "totalVoters": 5660,
-            "ballotsCast": 3032,
-            "voterTurnout": 53.57,
+            "ballotsCast": 3041,
+            "voterTurnout": 53.73,
             "percentReporting": "4"
           }
         ]
@@ -31,11 +31,11 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 8,
+            "votes": 9,
             "Precinct": [
               {
                 "name": "Lakeland",
-                "votes": 8
+                "votes": 9
               }
             ]
           },
@@ -54,7 +54,7 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 2122,
+            "totalVotes": 2127,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -78,11 +78,11 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 189,
+                "votes": 194,
                 "Precinct": [
                   {
                     "name": "Lakeland",
-                    "votes": 189
+                    "votes": 194
                   }
                 ]
               },
@@ -101,7 +101,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 902,
+            "totalVotes": 905,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -120,132 +120,6 @@
                   {
                     "name": "Lakeland",
                     "votes": 398
-                  }
-                ]
-              },
-              {
-                "name": "Absentee by Mail Votes",
-                "votes": 269,
-                "Precinct": [
-                  {
-                    "name": "Lakeland",
-                    "votes": 269
-                  }
-                ]
-              },
-              {
-                "name": "Provisional Votes",
-                "votes": 0,
-                "Precinct": [
-                  {
-                    "name": "Lakeland",
-                    "votes": 0
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "key": "3",
-        "text": "US Senate (Loeffler) - Special",
-        "voteFor": 1,
-        "isQuestion": "false",
-        "precinctsReporting": 1,
-        "precinctsReported": 1,
-        "VoteType": [
-          {
-            "name": "Undervotes",
-            "votes": 4,
-            "Precinct": [
-              {
-                "name": "Lakeland",
-                "votes": 4
-              }
-            ]
-          },
-          {
-            "name": "Overvotes",
-            "votes": 0,
-            "Precinct": [
-              {
-                "name": "Lakeland",
-                "votes": 0
-              }
-            ]
-          }
-        ],
-        "Choice": [
-          {
-            "key": "19",
-            "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 2121,
-            "VoteType": [
-              {
-                "name": "Election Day Votes",
-                "votes": 731,
-                "Precinct": [
-                  {
-                    "name": "Lakeland",
-                    "votes": 731
-                  }
-                ]
-              },
-              {
-                "name": "Advanced Voting Votes",
-                "votes": 1203,
-                "Precinct": [
-                  {
-                    "name": "Lakeland",
-                    "votes": 1203
-                  }
-                ]
-              },
-              {
-                "name": "Absentee by Mail Votes",
-                "votes": 187,
-                "Precinct": [
-                  {
-                    "name": "Lakeland",
-                    "votes": 187
-                  }
-                ]
-              },
-              {
-                "name": "Provisional Votes",
-                "votes": 0,
-                "Precinct": [
-                  {
-                    "name": "Lakeland",
-                    "votes": 0
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "key": "25",
-            "text": "Raphael Warnock (Dem)",
-            "totalVotes": 907,
-            "VoteType": [
-              {
-                "name": "Election Day Votes",
-                "votes": 236,
-                "Precinct": [
-                  {
-                    "name": "Lakeland",
-                    "votes": 236
-                  }
-                ]
-              },
-              {
-                "name": "Advanced Voting Votes",
-                "votes": 399,
-                "Precinct": [
-                  {
-                    "name": "Lakeland",
-                    "votes": 399
                   }
                 ]
               },
@@ -274,6 +148,132 @@
         ]
       },
       {
+        "key": "3",
+        "text": "US Senate (Loeffler) - Special",
+        "voteFor": 1,
+        "isQuestion": "false",
+        "precinctsReporting": 1,
+        "precinctsReported": 1,
+        "VoteType": [
+          {
+            "name": "Undervotes",
+            "votes": 5,
+            "Precinct": [
+              {
+                "name": "Lakeland",
+                "votes": 5
+              }
+            ]
+          },
+          {
+            "name": "Overvotes",
+            "votes": 0,
+            "Precinct": [
+              {
+                "name": "Lakeland",
+                "votes": 0
+              }
+            ]
+          }
+        ],
+        "Choice": [
+          {
+            "key": "19",
+            "text": "Kelly Loeffler (I) (Rep)",
+            "totalVotes": 2126,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 731,
+                "Precinct": [
+                  {
+                    "name": "Lakeland",
+                    "votes": 731
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 1203,
+                "Precinct": [
+                  {
+                    "name": "Lakeland",
+                    "votes": 1203
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 192,
+                "Precinct": [
+                  {
+                    "name": "Lakeland",
+                    "votes": 192
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Lakeland",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "25",
+            "text": "Raphael Warnock (Dem)",
+            "totalVotes": 910,
+            "VoteType": [
+              {
+                "name": "Election Day Votes",
+                "votes": 236,
+                "Precinct": [
+                  {
+                    "name": "Lakeland",
+                    "votes": 236
+                  }
+                ]
+              },
+              {
+                "name": "Advanced Voting Votes",
+                "votes": 399,
+                "Precinct": [
+                  {
+                    "name": "Lakeland",
+                    "votes": 399
+                  }
+                ]
+              },
+              {
+                "name": "Absentee by Mail Votes",
+                "votes": 275,
+                "Precinct": [
+                  {
+                    "name": "Lakeland",
+                    "votes": 275
+                  }
+                ]
+              },
+              {
+                "name": "Provisional Votes",
+                "votes": 0,
+                "Precinct": [
+                  {
+                    "name": "Lakeland",
+                    "votes": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "key": "5",
         "text": "Public Service Commission District 4",
         "voteFor": 1,
@@ -283,11 +283,11 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 46,
+            "votes": 48,
             "Precinct": [
               {
                 "name": "Lakeland",
-                "votes": 46
+                "votes": 48
               }
             ]
           },
@@ -306,7 +306,7 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 2108,
+            "totalVotes": 2112,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -330,11 +330,11 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 198,
+                "votes": 202,
                 "Precinct": [
                   {
                     "name": "Lakeland",
-                    "votes": 198
+                    "votes": 202
                   }
                 ]
               },
@@ -353,7 +353,7 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 878,
+            "totalVotes": 881,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -377,11 +377,11 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 259,
+                "votes": 262,
                 "Precinct": [
                   {
                     "name": "Lakeland",
-                    "votes": 259
+                    "votes": 262
                   }
                 ]
               },
