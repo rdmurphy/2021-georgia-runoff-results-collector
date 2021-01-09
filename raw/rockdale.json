@@ -1,41 +1,41 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/7/2021 2:27:48 PM EST",
+    "Timestamp": "1/8/2021 5:51:23 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Rockdale",
     "VoterTurnout": {
       "totalVoters": 66526,
-      "ballotsCast": 40746,
-      "voterTurnout": 61.25,
+      "ballotsCast": 40763,
+      "voterTurnout": 61.27,
       "Precincts": {
         "Precinct": [
           {
             "name": "BA",
             "totalVoters": 4859,
-            "ballotsCast": 3229,
-            "voterTurnout": 66.45,
+            "ballotsCast": 3230,
+            "voterTurnout": 66.47,
             "percentReporting": "4"
           },
           {
             "name": "BT",
             "totalVoters": 4079,
-            "ballotsCast": 2465,
-            "voterTurnout": 60.43,
+            "ballotsCast": 2466,
+            "voterTurnout": 60.46,
             "percentReporting": "4"
           },
           {
             "name": "CO",
             "totalVoters": 3960,
-            "ballotsCast": 1962,
-            "voterTurnout": 49.55,
+            "ballotsCast": 1964,
+            "voterTurnout": 49.6,
             "percentReporting": "4"
           },
           {
             "name": "FI",
             "totalVoters": 6419,
-            "ballotsCast": 3964,
-            "voterTurnout": 61.75,
+            "ballotsCast": 3965,
+            "voterTurnout": 61.77,
             "percentReporting": "4"
           },
           {
@@ -55,15 +55,15 @@
           {
             "name": "HI",
             "totalVoters": 3595,
-            "ballotsCast": 2273,
-            "voterTurnout": 63.23,
+            "ballotsCast": 2274,
+            "voterTurnout": 63.25,
             "percentReporting": "4"
           },
           {
             "name": "LA",
             "totalVoters": 2052,
-            "ballotsCast": 1073,
-            "voterTurnout": 52.29,
+            "ballotsCast": 1074,
+            "voterTurnout": 52.34,
             "percentReporting": "4"
           },
           {
@@ -76,8 +76,8 @@
           {
             "name": "MA",
             "totalVoters": 3224,
-            "ballotsCast": 2024,
-            "voterTurnout": 62.78,
+            "ballotsCast": 2025,
+            "voterTurnout": 62.81,
             "percentReporting": "4"
           },
           {
@@ -90,8 +90,8 @@
           {
             "name": "OT",
             "totalVoters": 6231,
-            "ballotsCast": 3237,
-            "voterTurnout": 51.95,
+            "ballotsCast": 3239,
+            "voterTurnout": 51.98,
             "percentReporting": "4"
           },
           {
@@ -104,22 +104,22 @@
           {
             "name": "SM",
             "totalVoters": 4348,
-            "ballotsCast": 2897,
-            "voterTurnout": 66.63,
+            "ballotsCast": 2899,
+            "voterTurnout": 66.67,
             "percentReporting": "4"
           },
           {
             "name": "SP",
             "totalVoters": 4855,
-            "ballotsCast": 3143,
-            "voterTurnout": 64.74,
+            "ballotsCast": 3146,
+            "voterTurnout": 64.8,
             "percentReporting": "4"
           },
           {
             "name": "ST",
             "totalVoters": 3389,
-            "ballotsCast": 2157,
-            "voterTurnout": 63.65,
+            "ballotsCast": 2159,
+            "voterTurnout": 63.71,
             "percentReporting": "4"
           }
         ]
@@ -206,7 +206,7 @@
           },
           {
             "name": "Overvotes",
-            "votes": 2,
+            "votes": 4,
             "Precinct": [
               {
                 "name": "BA",
@@ -218,7 +218,7 @@
               },
               {
                 "name": "CO",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "FI",
@@ -266,7 +266,7 @@
               },
               {
                 "name": "SP",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "ST",
@@ -279,7 +279,7 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 11243,
+            "totalVotes": 11244,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -423,7 +423,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 2460,
+                "votes": 2461,
                 "Precinct": [
                   {
                     "name": "BA",
@@ -487,7 +487,7 @@
                   },
                   {
                     "name": "ST",
-                    "votes": 197
+                    "votes": 198
                   }
                 ]
               },
@@ -566,7 +566,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 29449,
+            "totalVotes": 29463,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -710,23 +710,23 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 8644,
+                "votes": 8658,
                 "Precinct": [
                   {
                     "name": "BA",
-                    "votes": 599
+                    "votes": 600
                   },
                   {
                     "name": "BT",
-                    "votes": 364
+                    "votes": 365
                   },
                   {
                     "name": "CO",
-                    "votes": 420
+                    "votes": 421
                   },
                   {
                     "name": "FI",
-                    "votes": 1030
+                    "votes": 1031
                   },
                   {
                     "name": "FS",
@@ -738,11 +738,11 @@
                   },
                   {
                     "name": "HI",
-                    "votes": 457
+                    "votes": 458
                   },
                   {
                     "name": "LA",
-                    "votes": 287
+                    "votes": 288
                   },
                   {
                     "name": "LO",
@@ -750,7 +750,7 @@
                   },
                   {
                     "name": "MA",
-                    "votes": 367
+                    "votes": 368
                   },
                   {
                     "name": "MI",
@@ -758,7 +758,7 @@
                   },
                   {
                     "name": "OT",
-                    "votes": 791
+                    "votes": 793
                   },
                   {
                     "name": "RO",
@@ -766,15 +766,15 @@
                   },
                   {
                     "name": "SM",
-                    "votes": 612
+                    "votes": 614
                   },
                   {
                     "name": "SP",
-                    "votes": 628
+                    "votes": 630
                   },
                   {
                     "name": "ST",
-                    "votes": 466
+                    "votes": 467
                   }
                 ]
               },
@@ -862,7 +862,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 42,
+            "votes": 43,
             "Precinct": [
               {
                 "name": "BA",
@@ -922,7 +922,7 @@
               },
               {
                 "name": "SP",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "ST",
@@ -1005,7 +1005,7 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 11160,
+            "totalVotes": 11162,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1149,7 +1149,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 2445,
+                "votes": 2447,
                 "Precinct": [
                   {
                     "name": "BA",
@@ -1181,7 +1181,7 @@
                   },
                   {
                     "name": "LA",
-                    "votes": 74
+                    "votes": 75
                   },
                   {
                     "name": "LO",
@@ -1213,7 +1213,7 @@
                   },
                   {
                     "name": "ST",
-                    "votes": 198
+                    "votes": 199
                   }
                 ]
               },
@@ -1292,7 +1292,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 29541,
+            "totalVotes": 29555,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1436,23 +1436,23 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 8659,
+                "votes": 8673,
                 "Precinct": [
                   {
                     "name": "BA",
-                    "votes": 599
+                    "votes": 600
                   },
                   {
                     "name": "BT",
-                    "votes": 367
+                    "votes": 368
                   },
                   {
                     "name": "CO",
-                    "votes": 422
+                    "votes": 424
                   },
                   {
                     "name": "FI",
-                    "votes": 1033
+                    "votes": 1034
                   },
                   {
                     "name": "FS",
@@ -1464,7 +1464,7 @@
                   },
                   {
                     "name": "HI",
-                    "votes": 458
+                    "votes": 459
                   },
                   {
                     "name": "LA",
@@ -1476,7 +1476,7 @@
                   },
                   {
                     "name": "MA",
-                    "votes": 367
+                    "votes": 368
                   },
                   {
                     "name": "MI",
@@ -1484,7 +1484,7 @@
                   },
                   {
                     "name": "OT",
-                    "votes": 791
+                    "votes": 793
                   },
                   {
                     "name": "RO",
@@ -1492,15 +1492,15 @@
                   },
                   {
                     "name": "SM",
-                    "votes": 612
+                    "votes": 614
                   },
                   {
                     "name": "SP",
-                    "votes": 629
+                    "votes": 631
                   },
                   {
                     "name": "ST",
-                    "votes": 465
+                    "votes": 466
                   }
                 ]
               },
@@ -1731,7 +1731,7 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 11439,
+            "totalVotes": 11441,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1875,7 +1875,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 2524,
+                "votes": 2526,
                 "Precinct": [
                   {
                     "name": "BA",
@@ -1935,11 +1935,11 @@
                   },
                   {
                     "name": "SP",
-                    "votes": 172
+                    "votes": 173
                   },
                   {
                     "name": "ST",
-                    "votes": 198
+                    "votes": 199
                   }
                 ]
               },
@@ -2018,7 +2018,7 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 28895,
+            "totalVotes": 28910,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -2162,23 +2162,23 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 8406,
+                "votes": 8421,
                 "Precinct": [
                   {
                     "name": "BA",
-                    "votes": 584
+                    "votes": 585
                   },
                   {
                     "name": "BT",
-                    "votes": 348
+                    "votes": 349
                   },
                   {
                     "name": "CO",
-                    "votes": 413
+                    "votes": 415
                   },
                   {
                     "name": "FI",
-                    "votes": 1009
+                    "votes": 1010
                   },
                   {
                     "name": "FS",
@@ -2190,11 +2190,11 @@
                   },
                   {
                     "name": "HI",
-                    "votes": 440
+                    "votes": 441
                   },
                   {
                     "name": "LA",
-                    "votes": 275
+                    "votes": 276
                   },
                   {
                     "name": "LO",
@@ -2202,7 +2202,7 @@
                   },
                   {
                     "name": "MA",
-                    "votes": 354
+                    "votes": 355
                   },
                   {
                     "name": "MI",
@@ -2210,7 +2210,7 @@
                   },
                   {
                     "name": "OT",
-                    "votes": 772
+                    "votes": 774
                   },
                   {
                     "name": "RO",
@@ -2218,15 +2218,15 @@
                   },
                   {
                     "name": "SM",
-                    "votes": 596
+                    "votes": 598
                   },
                   {
                     "name": "SP",
-                    "votes": 608
+                    "votes": 610
                   },
                   {
                     "name": "ST",
-                    "votes": 449
+                    "votes": 450
                   }
                 ]
               },
