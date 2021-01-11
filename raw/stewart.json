@@ -1,20 +1,20 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 9:17:25 PM EST",
+    "Timestamp": "1/11/2021 1:39:24 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Stewart",
     "VoterTurnout": {
       "totalVoters": 2935,
-      "ballotsCast": 1803,
-      "voterTurnout": 61.43,
+      "ballotsCast": 1814,
+      "voterTurnout": 61.81,
       "Precincts": {
         "Precinct": [
           {
             "name": "Richland",
             "totalVoters": 1280,
-            "ballotsCast": 770,
-            "voterTurnout": 60.16,
+            "ballotsCast": 779,
+            "voterTurnout": 60.86,
             "percentReporting": "4"
           },
           {
@@ -27,8 +27,8 @@
           {
             "name": "Lumpkin",
             "totalVoters": 1145,
-            "ballotsCast": 707,
-            "voterTurnout": 61.75,
+            "ballotsCast": 709,
+            "voterTurnout": 61.92,
             "percentReporting": "4"
           },
           {
@@ -52,7 +52,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 10,
+            "votes": 12,
             "Precinct": [
               {
                 "name": "Richland",
@@ -64,7 +64,7 @@
               },
               {
                 "name": "Lumpkin",
-                "votes": 6
+                "votes": 8
               },
               {
                 "name": "Omaha",
@@ -99,7 +99,7 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 686,
+            "totalVotes": 687,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -169,11 +169,11 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
                     "name": "Richland",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Louvale",
@@ -194,7 +194,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 1107,
+            "totalVotes": 1115,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -264,11 +264,11 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 8,
                 "Precinct": [
                   {
                     "name": "Richland",
-                    "votes": 0
+                    "votes": 8
                   },
                   {
                     "name": "Louvale",
@@ -345,7 +345,7 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 685,
+            "totalVotes": 686,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -415,11 +415,11 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
                     "name": "Richland",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Louvale",
@@ -440,7 +440,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 1107,
+            "totalVotes": 1117,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -510,11 +510,11 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 10,
                 "Precinct": [
                   {
                     "name": "Richland",
-                    "votes": 0
+                    "votes": 8
                   },
                   {
                     "name": "Louvale",
@@ -522,7 +522,7 @@
                   },
                   {
                     "name": "Lumpkin",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Omaha",
@@ -544,7 +544,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 73,
+            "votes": 74,
             "Precinct": [
               {
                 "name": "Richland",
@@ -556,7 +556,7 @@
               },
               {
                 "name": "Lumpkin",
-                "votes": 33
+                "votes": 34
               },
               {
                 "name": "Omaha",
@@ -591,7 +591,7 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 677,
+            "totalVotes": 678,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -661,11 +661,11 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
                     "name": "Richland",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Louvale",
@@ -686,7 +686,7 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 1053,
+            "totalVotes": 1062,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -756,11 +756,11 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 9,
                 "Precinct": [
                   {
                     "name": "Richland",
-                    "votes": 0
+                    "votes": 8
                   },
                   {
                     "name": "Louvale",
@@ -768,7 +768,7 @@
                   },
                   {
                     "name": "Lumpkin",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Omaha",

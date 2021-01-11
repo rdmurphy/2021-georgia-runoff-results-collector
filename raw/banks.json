@@ -1,26 +1,26 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 9:47:50 PM EST",
+    "Timestamp": "1/11/2021 3:52:57 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Banks",
     "VoterTurnout": {
       "totalVoters": 0,
-      "ballotsCast": 7420,
+      "ballotsCast": 7459,
       "voterTurnout": 0.0,
       "Precincts": {
         "Precinct": [
           {
             "name": "Anderson",
             "totalVoters": 0,
-            "ballotsCast": 861,
+            "ballotsCast": 866,
             "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
             "name": "Baldwin",
             "totalVoters": 0,
-            "ballotsCast": 545,
+            "ballotsCast": 547,
             "voterTurnout": 0.0,
             "percentReporting": "4"
           },
@@ -34,7 +34,7 @@
           {
             "name": "Bushville",
             "totalVoters": 0,
-            "ballotsCast": 419,
+            "ballotsCast": 424,
             "voterTurnout": 0.0,
             "percentReporting": "4"
           },
@@ -48,21 +48,21 @@
           {
             "name": "Davids",
             "totalVoters": 0,
-            "ballotsCast": 1073,
+            "ballotsCast": 1077,
             "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
             "name": "Golden Hill",
             "totalVoters": 0,
-            "ballotsCast": 518,
+            "ballotsCast": 521,
             "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
             "name": "Grove River",
             "totalVoters": 0,
-            "ballotsCast": 352,
+            "ballotsCast": 354,
             "voterTurnout": 0.0,
             "percentReporting": "4"
           },
@@ -76,28 +76,28 @@
           {
             "name": "Homer",
             "totalVoters": 0,
-            "ballotsCast": 888,
+            "ballotsCast": 893,
             "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
             "name": "Poplar Springs",
             "totalVoters": 0,
-            "ballotsCast": 1064,
+            "ballotsCast": 1073,
             "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
             "name": "Washington",
             "totalVoters": 0,
-            "ballotsCast": 437,
+            "ballotsCast": 440,
             "voterTurnout": 0.0,
             "percentReporting": "4"
           },
           {
             "name": "Wilmonts",
             "totalVoters": 0,
-            "ballotsCast": 353,
+            "ballotsCast": 354,
             "voterTurnout": 0.0,
             "percentReporting": "4"
           }
@@ -115,7 +115,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 9,
+            "votes": 11,
             "Precinct": [
               {
                 "name": "Anderson",
@@ -123,7 +123,7 @@
               },
               {
                 "name": "Baldwin",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Berlin",
@@ -159,7 +159,7 @@
               },
               {
                 "name": "Poplar Springs",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Washington",
@@ -234,7 +234,7 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 6582,
+            "totalVotes": 6612,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -354,11 +354,11 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 720,
+                "votes": 730,
                 "Precinct": [
                   {
                     "name": "Anderson",
-                    "votes": 73
+                    "votes": 74
                   },
                   {
                     "name": "Baldwin",
@@ -370,7 +370,7 @@
                   },
                   {
                     "name": "Bushville",
-                    "votes": 29
+                    "votes": 31
                   },
                   {
                     "name": "Columbia",
@@ -394,15 +394,15 @@
                   },
                   {
                     "name": "Homer",
-                    "votes": 75
+                    "votes": 77
                   },
                   {
                     "name": "Poplar Springs",
-                    "votes": 117
+                    "votes": 119
                   },
                   {
                     "name": "Washington",
-                    "votes": 35
+                    "votes": 38
                   },
                   {
                     "name": "Wilmonts",
@@ -412,15 +412,15 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 20,
                 "Precinct": [
                   {
                     "name": "Anderson",
-                    "votes": 0
+                    "votes": 4
                   },
                   {
                     "name": "Baldwin",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Berlin",
@@ -428,7 +428,7 @@
                   },
                   {
                     "name": "Bushville",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Columbia",
@@ -436,15 +436,15 @@
                   },
                   {
                     "name": "Davids",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Golden Hill",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Grove River",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Hollingsworth",
@@ -452,11 +452,11 @@
                   },
                   {
                     "name": "Homer",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Poplar Springs",
-                    "votes": 0
+                    "votes": 4
                   },
                   {
                     "name": "Washington",
@@ -464,7 +464,7 @@
                   },
                   {
                     "name": "Wilmonts",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -473,7 +473,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 829,
+            "totalVotes": 836,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -593,7 +593,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 309,
+                "votes": 311,
                 "Precinct": [
                   {
                     "name": "Anderson",
@@ -617,7 +617,7 @@
                   },
                   {
                     "name": "Davids",
-                    "votes": 49
+                    "votes": 50
                   },
                   {
                     "name": "Golden Hill",
@@ -633,7 +633,7 @@
                   },
                   {
                     "name": "Homer",
-                    "votes": 31
+                    "votes": 32
                   },
                   {
                     "name": "Poplar Springs",
@@ -651,7 +651,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 5,
                 "Precinct": [
                   {
                     "name": "Anderson",
@@ -667,7 +667,7 @@
                   },
                   {
                     "name": "Bushville",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Columbia",
@@ -675,7 +675,7 @@
                   },
                   {
                     "name": "Davids",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Golden Hill",
@@ -691,11 +691,11 @@
                   },
                   {
                     "name": "Homer",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Poplar Springs",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Washington",
@@ -721,7 +721,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 12,
+            "votes": 13,
             "Precinct": [
               {
                 "name": "Anderson",
@@ -765,7 +765,7 @@
               },
               {
                 "name": "Poplar Springs",
-                "votes": 0
+                "votes": 1
               },
               {
                 "name": "Washington",
@@ -840,7 +840,7 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 6555,
+            "totalVotes": 6586,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -960,15 +960,15 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 707,
+                "votes": 718,
                 "Precinct": [
                   {
                     "name": "Anderson",
-                    "votes": 71
+                    "votes": 72
                   },
                   {
                     "name": "Baldwin",
-                    "votes": 88
+                    "votes": 89
                   },
                   {
                     "name": "Berlin",
@@ -976,7 +976,7 @@
                   },
                   {
                     "name": "Bushville",
-                    "votes": 28
+                    "votes": 30
                   },
                   {
                     "name": "Columbia",
@@ -1000,15 +1000,15 @@
                   },
                   {
                     "name": "Homer",
-                    "votes": 75
+                    "votes": 77
                   },
                   {
                     "name": "Poplar Springs",
-                    "votes": 118
+                    "votes": 120
                   },
                   {
                     "name": "Washington",
-                    "votes": 36
+                    "votes": 39
                   },
                   {
                     "name": "Wilmonts",
@@ -1018,15 +1018,15 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 20,
                 "Precinct": [
                   {
                     "name": "Anderson",
-                    "votes": 0
+                    "votes": 4
                   },
                   {
                     "name": "Baldwin",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Berlin",
@@ -1034,7 +1034,7 @@
                   },
                   {
                     "name": "Bushville",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Columbia",
@@ -1042,15 +1042,15 @@
                   },
                   {
                     "name": "Davids",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Golden Hill",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Grove River",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Hollingsworth",
@@ -1058,11 +1058,11 @@
                   },
                   {
                     "name": "Homer",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Poplar Springs",
-                    "votes": 0
+                    "votes": 4
                   },
                   {
                     "name": "Washington",
@@ -1070,7 +1070,7 @@
                   },
                   {
                     "name": "Wilmonts",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -1079,7 +1079,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 853,
+            "totalVotes": 860,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1199,7 +1199,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 322,
+                "votes": 324,
                 "Precinct": [
                   {
                     "name": "Anderson",
@@ -1223,7 +1223,7 @@
                   },
                   {
                     "name": "Davids",
-                    "votes": 50
+                    "votes": 51
                   },
                   {
                     "name": "Golden Hill",
@@ -1239,7 +1239,7 @@
                   },
                   {
                     "name": "Homer",
-                    "votes": 31
+                    "votes": 32
                   },
                   {
                     "name": "Poplar Springs",
@@ -1257,7 +1257,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 5,
                 "Precinct": [
                   {
                     "name": "Anderson",
@@ -1273,7 +1273,7 @@
                   },
                   {
                     "name": "Bushville",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Columbia",
@@ -1281,7 +1281,7 @@
                   },
                   {
                     "name": "Davids",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Golden Hill",
@@ -1297,11 +1297,11 @@
                   },
                   {
                     "name": "Homer",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Poplar Springs",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Washington",
@@ -1327,7 +1327,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 65,
+            "votes": 67,
             "Precinct": [
               {
                 "name": "Anderson",
@@ -1367,11 +1367,11 @@
               },
               {
                 "name": "Homer",
-                "votes": 6
+                "votes": 7
               },
               {
                 "name": "Poplar Springs",
-                "votes": 11
+                "votes": 12
               },
               {
                 "name": "Washington",
@@ -1446,7 +1446,7 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 6554,
+            "totalVotes": 6584,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1566,15 +1566,15 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 720,
+                "votes": 731,
                 "Precinct": [
                   {
                     "name": "Anderson",
-                    "votes": 71
+                    "votes": 72
                   },
                   {
                     "name": "Baldwin",
-                    "votes": 93
+                    "votes": 94
                   },
                   {
                     "name": "Berlin",
@@ -1582,7 +1582,7 @@
                   },
                   {
                     "name": "Bushville",
-                    "votes": 30
+                    "votes": 32
                   },
                   {
                     "name": "Columbia",
@@ -1606,15 +1606,15 @@
                   },
                   {
                     "name": "Homer",
-                    "votes": 80
+                    "votes": 81
                   },
                   {
                     "name": "Poplar Springs",
-                    "votes": 115
+                    "votes": 118
                   },
                   {
                     "name": "Washington",
-                    "votes": 38
+                    "votes": 41
                   },
                   {
                     "name": "Wilmonts",
@@ -1624,15 +1624,15 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 19,
                 "Precinct": [
                   {
                     "name": "Anderson",
-                    "votes": 0
+                    "votes": 4
                   },
                   {
                     "name": "Baldwin",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Berlin",
@@ -1640,7 +1640,7 @@
                   },
                   {
                     "name": "Bushville",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Columbia",
@@ -1648,15 +1648,15 @@
                   },
                   {
                     "name": "Davids",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Golden Hill",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Grove River",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Hollingsworth",
@@ -1664,11 +1664,11 @@
                   },
                   {
                     "name": "Homer",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Poplar Springs",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Washington",
@@ -1676,7 +1676,7 @@
                   },
                   {
                     "name": "Wilmonts",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -1685,7 +1685,7 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 795,
+            "totalVotes": 802,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1805,7 +1805,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 294,
+                "votes": 296,
                 "Precinct": [
                   {
                     "name": "Anderson",
@@ -1829,7 +1829,7 @@
                   },
                   {
                     "name": "Davids",
-                    "votes": 46
+                    "votes": 47
                   },
                   {
                     "name": "Golden Hill",
@@ -1845,7 +1845,7 @@
                   },
                   {
                     "name": "Homer",
-                    "votes": 26
+                    "votes": 27
                   },
                   {
                     "name": "Poplar Springs",
@@ -1863,7 +1863,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 5,
                 "Precinct": [
                   {
                     "name": "Anderson",
@@ -1879,7 +1879,7 @@
                   },
                   {
                     "name": "Bushville",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Columbia",
@@ -1887,7 +1887,7 @@
                   },
                   {
                     "name": "Davids",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Golden Hill",
@@ -1903,11 +1903,11 @@
                   },
                   {
                     "name": "Homer",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Poplar Springs",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Washington",

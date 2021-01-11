@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 9:17:26 PM EST",
+    "Timestamp": "1/11/2021 2:17:45 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Fannin",
     "VoterTurnout": {
       "totalVoters": 20399,
-      "ballotsCast": 13445,
-      "voterTurnout": 65.91,
+      "ballotsCast": 13464,
+      "voterTurnout": 66.0,
       "Precincts": {
         "Precinct": [
           {
@@ -20,15 +20,15 @@
           {
             "name": "Fairplay",
             "totalVoters": 1262,
-            "ballotsCast": 802,
-            "voterTurnout": 63.55,
+            "ballotsCast": 803,
+            "voterTurnout": 63.63,
             "percentReporting": "4"
           },
           {
             "name": "Flinthill",
             "totalVoters": 3202,
-            "ballotsCast": 1890,
-            "voterTurnout": 59.03,
+            "ballotsCast": 1892,
+            "voterTurnout": 59.09,
             "percentReporting": "4"
           },
           {
@@ -41,29 +41,29 @@
           {
             "name": "Hothouse",
             "totalVoters": 1290,
-            "ballotsCast": 867,
-            "voterTurnout": 67.21,
+            "ballotsCast": 869,
+            "voterTurnout": 67.36,
             "percentReporting": "4"
           },
           {
             "name": "Mineral Bluff",
             "totalVoters": 1817,
-            "ballotsCast": 1270,
-            "voterTurnout": 69.9,
+            "ballotsCast": 1271,
+            "voterTurnout": 69.95,
             "percentReporting": "4"
           },
           {
             "name": "Mobile",
             "totalVoters": 1160,
-            "ballotsCast": 750,
-            "voterTurnout": 64.66,
+            "ballotsCast": 751,
+            "voterTurnout": 64.74,
             "percentReporting": "4"
           },
           {
             "name": "Morganton",
             "totalVoters": 2067,
-            "ballotsCast": 1421,
-            "voterTurnout": 68.75,
+            "ballotsCast": 1425,
+            "voterTurnout": 68.94,
             "percentReporting": "4"
           },
           {
@@ -83,15 +83,15 @@
           {
             "name": "Sugar Creek",
             "totalVoters": 2437,
-            "ballotsCast": 1646,
-            "voterTurnout": 67.54,
+            "ballotsCast": 1651,
+            "voterTurnout": 67.75,
             "percentReporting": "4"
           },
           {
             "name": "Toccoa",
             "totalVoters": 3553,
-            "ballotsCast": 2215,
-            "voterTurnout": 62.34,
+            "ballotsCast": 2218,
+            "voterTurnout": 62.43,
             "percentReporting": "4"
           }
         ]
@@ -219,7 +219,7 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 11052,
+            "totalVotes": 11070,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -385,7 +385,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 18,
                 "Precinct": [
                   {
                     "name": "Colwell",
@@ -393,11 +393,11 @@
                   },
                   {
                     "name": "Fairplay",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Flinthill",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Hemptown",
@@ -405,19 +405,19 @@
                   },
                   {
                     "name": "Hothouse",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Mineral Bluff",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Mobile",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Morganton",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Noontootla",
@@ -429,11 +429,11 @@
                   },
                   {
                     "name": "Sugar Creek",
-                    "votes": 0
+                    "votes": 5
                   },
                   {
                     "name": "Toccoa",
-                    "votes": 0
+                    "votes": 3
                   }
                 ]
               }
@@ -442,7 +442,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 2377,
+            "totalVotes": 2378,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -554,7 +554,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1067,
+                "votes": 1068,
                 "Precinct": [
                   {
                     "name": "Colwell",
@@ -586,7 +586,7 @@
                   },
                   {
                     "name": "Morganton",
-                    "votes": 95
+                    "votes": 96
                   },
                   {
                     "name": "Noontootla",
@@ -785,7 +785,7 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 10986,
+            "totalVotes": 11004,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -951,7 +951,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 18,
                 "Precinct": [
                   {
                     "name": "Colwell",
@@ -959,11 +959,11 @@
                   },
                   {
                     "name": "Fairplay",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Flinthill",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Hemptown",
@@ -971,19 +971,19 @@
                   },
                   {
                     "name": "Hothouse",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Mineral Bluff",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Mobile",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Morganton",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Noontootla",
@@ -995,11 +995,11 @@
                   },
                   {
                     "name": "Sugar Creek",
-                    "votes": 0
+                    "votes": 5
                   },
                   {
                     "name": "Toccoa",
-                    "votes": 0
+                    "votes": 3
                   }
                 ]
               }
@@ -1008,7 +1008,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 2435,
+            "totalVotes": 2436,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1120,7 +1120,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1095,
+                "votes": 1096,
                 "Precinct": [
                   {
                     "name": "Colwell",
@@ -1152,7 +1152,7 @@
                   },
                   {
                     "name": "Morganton",
-                    "votes": 94
+                    "votes": 95
                   },
                   {
                     "name": "Noontootla",
@@ -1351,7 +1351,7 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 10977,
+            "totalVotes": 10996,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1463,7 +1463,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1839,
+                "votes": 1840,
                 "Precinct": [
                   {
                     "name": "Colwell",
@@ -1495,7 +1495,7 @@
                   },
                   {
                     "name": "Morganton",
-                    "votes": 174
+                    "votes": 175
                   },
                   {
                     "name": "Noontootla",
@@ -1517,7 +1517,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 18,
                 "Precinct": [
                   {
                     "name": "Colwell",
@@ -1525,11 +1525,11 @@
                   },
                   {
                     "name": "Fairplay",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Flinthill",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Hemptown",
@@ -1537,19 +1537,19 @@
                   },
                   {
                     "name": "Hothouse",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Mineral Bluff",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Mobile",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Morganton",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Noontootla",
@@ -1561,11 +1561,11 @@
                   },
                   {
                     "name": "Sugar Creek",
-                    "votes": 0
+                    "votes": 5
                   },
                   {
                     "name": "Toccoa",
-                    "votes": 0
+                    "votes": 3
                   }
                 ]
               }

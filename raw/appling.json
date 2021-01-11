@@ -1,20 +1,20 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 9:55:05 PM EST",
+    "Timestamp": "1/11/2021 1:45:42 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Appling",
     "VoterTurnout": {
       "totalVoters": 11664,
-      "ballotsCast": 7292,
-      "voterTurnout": 62.52,
+      "ballotsCast": 7299,
+      "voterTurnout": 62.58,
       "Precincts": {
         "Precinct": [
           {
             "name": "1B",
             "totalVoters": 1330,
-            "ballotsCast": 859,
-            "voterTurnout": 64.59,
+            "ballotsCast": 860,
+            "voterTurnout": 64.66,
             "percentReporting": "4"
           },
           {
@@ -27,8 +27,8 @@
           {
             "name": "2",
             "totalVoters": 2308,
-            "ballotsCast": 1242,
-            "voterTurnout": 53.81,
+            "ballotsCast": 1244,
+            "voterTurnout": 53.9,
             "percentReporting": "4"
           },
           {
@@ -41,8 +41,8 @@
           {
             "name": "3C",
             "totalVoters": 1605,
-            "ballotsCast": 1010,
-            "voterTurnout": 62.93,
+            "ballotsCast": 1011,
+            "voterTurnout": 62.99,
             "percentReporting": "4"
           },
           {
@@ -55,8 +55,8 @@
           {
             "name": "4D",
             "totalVoters": 1529,
-            "ballotsCast": 1023,
-            "voterTurnout": 66.91,
+            "ballotsCast": 1024,
+            "voterTurnout": 66.97,
             "percentReporting": "4"
           },
           {
@@ -69,8 +69,8 @@
           {
             "name": "5B",
             "totalVoters": 1162,
-            "ballotsCast": 728,
-            "voterTurnout": 62.65,
+            "ballotsCast": 730,
+            "voterTurnout": 62.82,
             "percentReporting": "4"
           }
         ]
@@ -174,7 +174,7 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 5680,
+            "totalVotes": 5683,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -304,11 +304,11 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 3,
                 "Precinct": [
                   {
                     "name": "1B",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "1C",
@@ -324,7 +324,7 @@
                   },
                   {
                     "name": "3C",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "4B",
@@ -340,7 +340,7 @@
                   },
                   {
                     "name": "5B",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -349,7 +349,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 1594,
+            "totalVotes": 1598,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -437,7 +437,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 490,
+                "votes": 493,
                 "Precinct": [
                   {
                     "name": "1B",
@@ -449,7 +449,7 @@
                   },
                   {
                     "name": "2",
-                    "votes": 239
+                    "votes": 240
                   },
                   {
                     "name": "3A1",
@@ -465,7 +465,7 @@
                   },
                   {
                     "name": "4D",
-                    "votes": 34
+                    "votes": 35
                   },
                   {
                     "name": "5A",
@@ -473,13 +473,13 @@
                   },
                   {
                     "name": "5B",
-                    "votes": 34
+                    "votes": 35
                   }
                 ]
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
                     "name": "1B",
@@ -491,7 +491,7 @@
                   },
                   {
                     "name": "2",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "3A1",
@@ -620,7 +620,7 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 5687,
+            "totalVotes": 5690,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -750,11 +750,11 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 3,
                 "Precinct": [
                   {
                     "name": "1B",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "1C",
@@ -770,7 +770,7 @@
                   },
                   {
                     "name": "3C",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "4B",
@@ -786,7 +786,7 @@
                   },
                   {
                     "name": "5B",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -795,7 +795,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 1592,
+            "totalVotes": 1596,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -883,7 +883,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 491,
+                "votes": 494,
                 "Precinct": [
                   {
                     "name": "1B",
@@ -895,7 +895,7 @@
                   },
                   {
                     "name": "2",
-                    "votes": 239
+                    "votes": 240
                   },
                   {
                     "name": "3A1",
@@ -911,7 +911,7 @@
                   },
                   {
                     "name": "4D",
-                    "votes": 33
+                    "votes": 34
                   },
                   {
                     "name": "5A",
@@ -919,13 +919,13 @@
                   },
                   {
                     "name": "5B",
-                    "votes": 37
+                    "votes": 38
                   }
                 ]
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
                     "name": "1B",
@@ -937,7 +937,7 @@
                   },
                   {
                     "name": "2",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "3A1",
@@ -979,7 +979,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 151,
+            "votes": 152,
             "Precinct": [
               {
                 "name": "1B",
@@ -991,7 +991,7 @@
               },
               {
                 "name": "2",
-                "votes": 39
+                "votes": 40
               },
               {
                 "name": "3A1",
@@ -1066,7 +1066,7 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 5625,
+            "totalVotes": 5628,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1196,11 +1196,11 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 3,
                 "Precinct": [
                   {
                     "name": "1B",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "1C",
@@ -1216,7 +1216,7 @@
                   },
                   {
                     "name": "3C",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "4B",
@@ -1232,7 +1232,7 @@
                   },
                   {
                     "name": "5B",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -1241,7 +1241,7 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 1515,
+            "totalVotes": 1518,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1329,7 +1329,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 465,
+                "votes": 467,
                 "Precinct": [
                   {
                     "name": "1B",
@@ -1357,7 +1357,7 @@
                   },
                   {
                     "name": "4D",
-                    "votes": 28
+                    "votes": 29
                   },
                   {
                     "name": "5A",
@@ -1365,13 +1365,13 @@
                   },
                   {
                     "name": "5B",
-                    "votes": 33
+                    "votes": 34
                   }
                 ]
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
                     "name": "1B",
@@ -1383,7 +1383,7 @@
                   },
                   {
                     "name": "2",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "3A1",
