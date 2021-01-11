@@ -1,62 +1,62 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 10:12:49 PM EST",
+    "Timestamp": "1/11/2021 9:20:44 AM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Bulloch",
     "VoterTurnout": {
       "totalVoters": 46303,
-      "ballotsCast": 26130,
-      "voterTurnout": 56.43,
+      "ballotsCast": 26177,
+      "voterTurnout": 56.53,
       "Precincts": {
         "Precinct": [
           {
             "name": "Lockhart",
             "totalVoters": 738,
-            "ballotsCast": 484,
-            "voterTurnout": 65.58,
+            "ballotsCast": 485,
+            "voterTurnout": 65.72,
             "percentReporting": "4"
           },
           {
             "name": "Emit",
             "totalVoters": 3435,
-            "ballotsCast": 2087,
-            "voterTurnout": 60.76,
+            "ballotsCast": 2093,
+            "voterTurnout": 60.93,
             "percentReporting": "4"
           },
           {
             "name": "Statesboro",
             "totalVoters": 7165,
-            "ballotsCast": 3547,
-            "voterTurnout": 49.5,
+            "ballotsCast": 3551,
+            "voterTurnout": 49.56,
             "percentReporting": "4"
           },
           {
             "name": "Portal",
             "totalVoters": 1775,
-            "ballotsCast": 1002,
-            "voterTurnout": 56.45,
+            "ballotsCast": 1005,
+            "voterTurnout": 56.62,
             "percentReporting": "4"
           },
           {
             "name": "Fair",
             "totalVoters": 6438,
-            "ballotsCast": 3789,
-            "voterTurnout": 58.85,
+            "ballotsCast": 3797,
+            "voterTurnout": 58.98,
             "percentReporting": "4"
           },
           {
             "name": "Church",
             "totalVoters": 5894,
-            "ballotsCast": 3322,
-            "voterTurnout": 56.36,
+            "ballotsCast": 3327,
+            "voterTurnout": 56.45,
             "percentReporting": "4"
           },
           {
             "name": "Pittman Park",
             "totalVoters": 5389,
-            "ballotsCast": 2069,
-            "voterTurnout": 38.39,
+            "ballotsCast": 2078,
+            "voterTurnout": 38.56,
             "percentReporting": "4"
           },
           {
@@ -69,22 +69,22 @@
           {
             "name": "Blitch",
             "totalVoters": 1903,
-            "ballotsCast": 1400,
-            "voterTurnout": 73.57,
+            "ballotsCast": 1402,
+            "voterTurnout": 73.67,
             "percentReporting": "4"
           },
           {
             "name": "Hagin",
             "totalVoters": 2466,
-            "ballotsCast": 1482,
-            "voterTurnout": 60.1,
+            "ballotsCast": 1484,
+            "voterTurnout": 60.18,
             "percentReporting": "4"
           },
           {
             "name": "Brooklet",
             "totalVoters": 3409,
-            "ballotsCast": 2217,
-            "voterTurnout": 65.03,
+            "ballotsCast": 2221,
+            "voterTurnout": 65.15,
             "percentReporting": "4"
           },
           {
@@ -97,8 +97,8 @@
           {
             "name": "Bay",
             "totalVoters": 1650,
-            "ballotsCast": 1085,
-            "voterTurnout": 65.76,
+            "ballotsCast": 1087,
+            "voterTurnout": 65.88,
             "percentReporting": "4"
           },
           {
@@ -118,8 +118,8 @@
           {
             "name": "Register",
             "totalVoters": 992,
-            "ballotsCast": 553,
-            "voterTurnout": 55.75,
+            "ballotsCast": 554,
+            "voterTurnout": 55.85,
             "percentReporting": "4"
           }
         ]
@@ -279,7 +279,7 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 16288,
+            "totalVotes": 16311,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -423,7 +423,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 2227,
+                "votes": 2228,
                 "Precinct": [
                   {
                     "name": "Lockhart",
@@ -475,7 +475,7 @@
                   },
                   {
                     "name": "Bay",
-                    "votes": 83
+                    "votes": 84
                   },
                   {
                     "name": "Nevils",
@@ -493,7 +493,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 22,
                 "Precinct": [
                   {
                     "name": "Lockhart",
@@ -501,27 +501,27 @@
                   },
                   {
                     "name": "Emit",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Statesboro",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Portal",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Fair",
-                    "votes": 0
+                    "votes": 6
                   },
                   {
                     "name": "Church",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Pittman Park",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Leefield",
@@ -533,11 +533,11 @@
                   },
                   {
                     "name": "Hagin",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Brooklet",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Stilson",
@@ -545,7 +545,7 @@
                   },
                   {
                     "name": "Bay",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Nevils",
@@ -566,7 +566,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 9808,
+            "totalVotes": 9832,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -710,7 +710,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 3291,
+                "votes": 3293,
                 "Precinct": [
                   {
                     "name": "Lockhart",
@@ -726,7 +726,7 @@
                   },
                   {
                     "name": "Portal",
-                    "votes": 94
+                    "votes": 96
                   },
                   {
                     "name": "Fair",
@@ -780,19 +780,19 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 22,
                 "Precinct": [
                   {
                     "name": "Lockhart",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Emit",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Statesboro",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Portal",
@@ -800,15 +800,15 @@
                   },
                   {
                     "name": "Fair",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Church",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Pittman Park",
-                    "votes": 0
+                    "votes": 6
                   },
                   {
                     "name": "Leefield",
@@ -816,7 +816,7 @@
                   },
                   {
                     "name": "Blitch",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Hagin",
@@ -824,7 +824,7 @@
                   },
                   {
                     "name": "Brooklet",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Stilson",
@@ -844,7 +844,7 @@
                   },
                   {
                     "name": "Register",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -1005,7 +1005,7 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 16264,
+            "totalVotes": 16287,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1149,7 +1149,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 2218,
+                "votes": 2219,
                 "Precinct": [
                   {
                     "name": "Lockhart",
@@ -1201,7 +1201,7 @@
                   },
                   {
                     "name": "Bay",
-                    "votes": 84
+                    "votes": 85
                   },
                   {
                     "name": "Nevils",
@@ -1219,7 +1219,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 22,
                 "Precinct": [
                   {
                     "name": "Lockhart",
@@ -1227,27 +1227,27 @@
                   },
                   {
                     "name": "Emit",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Statesboro",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Portal",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Fair",
-                    "votes": 0
+                    "votes": 6
                   },
                   {
                     "name": "Church",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Pittman Park",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Leefield",
@@ -1259,11 +1259,11 @@
                   },
                   {
                     "name": "Hagin",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Brooklet",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Stilson",
@@ -1271,7 +1271,7 @@
                   },
                   {
                     "name": "Bay",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Nevils",
@@ -1292,7 +1292,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 9824,
+            "totalVotes": 9848,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1436,7 +1436,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 3289,
+                "votes": 3291,
                 "Precinct": [
                   {
                     "name": "Lockhart",
@@ -1452,7 +1452,7 @@
                   },
                   {
                     "name": "Portal",
-                    "votes": 93
+                    "votes": 95
                   },
                   {
                     "name": "Fair",
@@ -1506,19 +1506,19 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 22,
                 "Precinct": [
                   {
                     "name": "Lockhart",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Emit",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Statesboro",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Portal",
@@ -1526,15 +1526,15 @@
                   },
                   {
                     "name": "Fair",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Church",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Pittman Park",
-                    "votes": 0
+                    "votes": 6
                   },
                   {
                     "name": "Leefield",
@@ -1542,7 +1542,7 @@
                   },
                   {
                     "name": "Blitch",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Hagin",
@@ -1550,7 +1550,7 @@
                   },
                   {
                     "name": "Brooklet",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Stilson",
@@ -1570,7 +1570,7 @@
                   },
                   {
                     "name": "Register",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -1588,7 +1588,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 309,
+            "votes": 310,
             "Precinct": [
               {
                 "name": "Lockhart",
@@ -1596,7 +1596,7 @@
               },
               {
                 "name": "Emit",
-                "votes": 21
+                "votes": 22
               },
               {
                 "name": "Statesboro",
@@ -1731,7 +1731,7 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 16408,
+            "totalVotes": 16431,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1875,7 +1875,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 2263,
+                "votes": 2264,
                 "Precinct": [
                   {
                     "name": "Lockhart",
@@ -1927,7 +1927,7 @@
                   },
                   {
                     "name": "Bay",
-                    "votes": 84
+                    "votes": 85
                   },
                   {
                     "name": "Nevils",
@@ -1945,7 +1945,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 22,
                 "Precinct": [
                   {
                     "name": "Lockhart",
@@ -1953,27 +1953,27 @@
                   },
                   {
                     "name": "Emit",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Statesboro",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Portal",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Fair",
-                    "votes": 0
+                    "votes": 6
                   },
                   {
                     "name": "Church",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Pittman Park",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Leefield",
@@ -1985,11 +1985,11 @@
                   },
                   {
                     "name": "Hagin",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Brooklet",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Stilson",
@@ -1997,7 +1997,7 @@
                   },
                   {
                     "name": "Bay",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Nevils",
@@ -2018,7 +2018,7 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 9391,
+            "totalVotes": 9414,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -2162,7 +2162,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 3132,
+                "votes": 3134,
                 "Precinct": [
                   {
                     "name": "Lockhart",
@@ -2178,7 +2178,7 @@
                   },
                   {
                     "name": "Portal",
-                    "votes": 90
+                    "votes": 92
                   },
                   {
                     "name": "Fair",
@@ -2232,19 +2232,19 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 21,
                 "Precinct": [
                   {
                     "name": "Lockhart",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Emit",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Statesboro",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Portal",
@@ -2252,15 +2252,15 @@
                   },
                   {
                     "name": "Fair",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Church",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Pittman Park",
-                    "votes": 0
+                    "votes": 6
                   },
                   {
                     "name": "Leefield",
@@ -2268,7 +2268,7 @@
                   },
                   {
                     "name": "Blitch",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Hagin",
@@ -2276,7 +2276,7 @@
                   },
                   {
                     "name": "Brooklet",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Stilson",
@@ -2296,7 +2296,7 @@
                   },
                   {
                     "name": "Register",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }

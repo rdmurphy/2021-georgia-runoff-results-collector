@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:39:31 PM EST",
+    "Timestamp": "1/11/2021 10:23:28 AM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Twiggs",
     "VoterTurnout": {
       "totalVoters": 6353,
-      "ballotsCast": 3947,
-      "voterTurnout": 62.13,
+      "ballotsCast": 3950,
+      "voterTurnout": 62.18,
       "Precincts": {
         "Precinct": [
           {
@@ -20,15 +20,15 @@
           {
             "name": "Golden Isles",
             "totalVoters": 1705,
-            "ballotsCast": 1079,
-            "voterTurnout": 63.28,
+            "ballotsCast": 1081,
+            "voterTurnout": 63.4,
             "percentReporting": "4"
           },
           {
             "name": "Higgsville",
             "totalVoters": 766,
-            "ballotsCast": 500,
-            "voterTurnout": 65.27,
+            "ballotsCast": 501,
+            "voterTurnout": 65.4,
             "percentReporting": "4"
           },
           {
@@ -225,7 +225,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 1873,
+            "totalVotes": 1876,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -307,7 +307,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 3,
                 "Precinct": [
                   {
                     "name": "Dry Branch",
@@ -315,11 +315,11 @@
                   },
                   {
                     "name": "Golden Isles",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Higgsville",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Jeffersonville/Ware",
@@ -345,7 +345,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 11,
+            "votes": 12,
             "Precinct": [
               {
                 "name": "Dry Branch",
@@ -353,7 +353,7 @@
               },
               {
                 "name": "Golden Isles",
-                "votes": 2
+                "votes": 3
               },
               {
                 "name": "Higgsville",
@@ -511,7 +511,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 1894,
+            "totalVotes": 1896,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -593,7 +593,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 2,
                 "Precinct": [
                   {
                     "name": "Dry Branch",
@@ -601,11 +601,11 @@
                   },
                   {
                     "name": "Golden Isles",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Higgsville",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Jeffersonville/Ware",
@@ -797,7 +797,7 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 1814,
+            "totalVotes": 1817,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -879,7 +879,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 3,
                 "Precinct": [
                   {
                     "name": "Dry Branch",
@@ -887,11 +887,11 @@
                   },
                   {
                     "name": "Golden Isles",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Higgsville",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Jeffersonville/Ware",
