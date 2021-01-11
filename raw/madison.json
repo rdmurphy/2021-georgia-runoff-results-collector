@@ -1,20 +1,20 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 9:38:44 PM EST",
+    "Timestamp": "1/11/2021 11:18:49 AM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Madison",
     "VoterTurnout": {
       "totalVoters": 21140,
-      "ballotsCast": 13191,
-      "voterTurnout": 62.4,
+      "ballotsCast": 13224,
+      "voterTurnout": 62.55,
       "Precincts": {
         "Precinct": [
           {
             "name": "Colbert",
             "totalVoters": 3398,
-            "ballotsCast": 2099,
-            "voterTurnout": 61.77,
+            "ballotsCast": 2102,
+            "voterTurnout": 61.86,
             "percentReporting": "4"
           },
           {
@@ -27,43 +27,43 @@
           {
             "name": "Comer",
             "totalVoters": 1466,
-            "ballotsCast": 956,
-            "voterTurnout": 65.21,
+            "ballotsCast": 960,
+            "voterTurnout": 65.48,
             "percentReporting": "4"
           },
           {
             "name": "Danielsville",
             "totalVoters": 3057,
-            "ballotsCast": 1895,
-            "voterTurnout": 61.99,
+            "ballotsCast": 1901,
+            "voterTurnout": 62.19,
             "percentReporting": "4"
           },
           {
             "name": "Fork",
             "totalVoters": 580,
-            "ballotsCast": 343,
-            "voterTurnout": 59.14,
+            "ballotsCast": 344,
+            "voterTurnout": 59.31,
             "percentReporting": "4"
           },
           {
             "name": "Harrison",
             "totalVoters": 621,
-            "ballotsCast": 435,
-            "voterTurnout": 70.05,
+            "ballotsCast": 436,
+            "voterTurnout": 70.21,
             "percentReporting": "4"
           },
           {
             "name": "Hull",
             "totalVoters": 4491,
-            "ballotsCast": 2640,
-            "voterTurnout": 58.78,
+            "ballotsCast": 2650,
+            "voterTurnout": 59.01,
             "percentReporting": "4"
           },
           {
             "name": "Ila",
             "totalVoters": 1776,
-            "ballotsCast": 1050,
-            "voterTurnout": 59.12,
+            "ballotsCast": 1052,
+            "voterTurnout": 59.23,
             "percentReporting": "4"
           },
           {
@@ -83,15 +83,15 @@
           {
             "name": "Pittman",
             "totalVoters": 1966,
-            "ballotsCast": 1302,
-            "voterTurnout": 66.23,
+            "ballotsCast": 1306,
+            "voterTurnout": 66.43,
             "percentReporting": "4"
           },
           {
             "name": "Poca",
             "totalVoters": 1136,
-            "ballotsCast": 723,
-            "voterTurnout": 63.64,
+            "ballotsCast": 725,
+            "voterTurnout": 63.82,
             "percentReporting": "4"
           }
         ]
@@ -219,7 +219,7 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 10108,
+            "totalVotes": 10125,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -331,7 +331,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1366,
+                "votes": 1378,
                 "Precinct": [
                   {
                     "name": "Colbert",
@@ -347,7 +347,7 @@
                   },
                   {
                     "name": "Danielsville",
-                    "votes": 203
+                    "votes": 205
                   },
                   {
                     "name": "Fork",
@@ -359,11 +359,11 @@
                   },
                   {
                     "name": "Hull",
-                    "votes": 295
+                    "votes": 299
                   },
                   {
                     "name": "Ila",
-                    "votes": 128
+                    "votes": 130
                   },
                   {
                     "name": "Mill",
@@ -375,7 +375,7 @@
                   },
                   {
                     "name": "Pittman",
-                    "votes": 185
+                    "votes": 189
                   },
                   {
                     "name": "Poca",
@@ -385,11 +385,11 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 5,
                 "Precinct": [
                   {
                     "name": "Colbert",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Collins",
@@ -401,7 +401,7 @@
                   },
                   {
                     "name": "Danielsville",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Fork",
@@ -413,7 +413,7 @@
                   },
                   {
                     "name": "Hull",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Ila",
@@ -433,7 +433,7 @@
                   },
                   {
                     "name": "Poca",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -442,7 +442,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 3058,
+            "totalVotes": 3074,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -554,11 +554,11 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1056,
+                "votes": 1070,
                 "Precinct": [
                   {
                     "name": "Colbert",
-                    "votes": 215
+                    "votes": 216
                   },
                   {
                     "name": "Collins",
@@ -566,23 +566,23 @@
                   },
                   {
                     "name": "Comer",
-                    "votes": 133
+                    "votes": 136
                   },
                   {
                     "name": "Danielsville",
-                    "votes": 133
+                    "votes": 136
                   },
                   {
                     "name": "Fork",
-                    "votes": 37
+                    "votes": 38
                   },
                   {
                     "name": "Harrison",
-                    "votes": 5
+                    "votes": 6
                   },
                   {
                     "name": "Hull",
-                    "votes": 241
+                    "votes": 245
                   },
                   {
                     "name": "Ila",
@@ -602,13 +602,13 @@
                   },
                   {
                     "name": "Poca",
-                    "votes": 38
+                    "votes": 39
                   }
                 ]
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 2,
                 "Precinct": [
                   {
                     "name": "Colbert",
@@ -620,7 +620,7 @@
                   },
                   {
                     "name": "Comer",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Danielsville",
@@ -636,7 +636,7 @@
                   },
                   {
                     "name": "Hull",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Ila",
@@ -785,7 +785,7 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 10084,
+            "totalVotes": 10101,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -897,7 +897,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1362,
+                "votes": 1374,
                 "Precinct": [
                   {
                     "name": "Colbert",
@@ -913,7 +913,7 @@
                   },
                   {
                     "name": "Danielsville",
-                    "votes": 205
+                    "votes": 207
                   },
                   {
                     "name": "Fork",
@@ -925,11 +925,11 @@
                   },
                   {
                     "name": "Hull",
-                    "votes": 290
+                    "votes": 294
                   },
                   {
                     "name": "Ila",
-                    "votes": 133
+                    "votes": 135
                   },
                   {
                     "name": "Mill",
@@ -941,7 +941,7 @@
                   },
                   {
                     "name": "Pittman",
-                    "votes": 184
+                    "votes": 188
                   },
                   {
                     "name": "Poca",
@@ -951,11 +951,11 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 5,
                 "Precinct": [
                   {
                     "name": "Colbert",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Collins",
@@ -967,7 +967,7 @@
                   },
                   {
                     "name": "Danielsville",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Fork",
@@ -979,7 +979,7 @@
                   },
                   {
                     "name": "Hull",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Ila",
@@ -999,7 +999,7 @@
                   },
                   {
                     "name": "Poca",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -1008,7 +1008,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 3086,
+            "totalVotes": 3102,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1120,11 +1120,11 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1059,
+                "votes": 1073,
                 "Precinct": [
                   {
                     "name": "Colbert",
-                    "votes": 217
+                    "votes": 218
                   },
                   {
                     "name": "Collins",
@@ -1132,23 +1132,23 @@
                   },
                   {
                     "name": "Comer",
-                    "votes": 133
+                    "votes": 136
                   },
                   {
                     "name": "Danielsville",
-                    "votes": 131
+                    "votes": 134
                   },
                   {
                     "name": "Fork",
-                    "votes": 38
+                    "votes": 39
                   },
                   {
                     "name": "Harrison",
-                    "votes": 4
+                    "votes": 5
                   },
                   {
                     "name": "Hull",
-                    "votes": 246
+                    "votes": 250
                   },
                   {
                     "name": "Ila",
@@ -1168,13 +1168,13 @@
                   },
                   {
                     "name": "Poca",
-                    "votes": 40
+                    "votes": 41
                   }
                 ]
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 2,
                 "Precinct": [
                   {
                     "name": "Colbert",
@@ -1186,7 +1186,7 @@
                   },
                   {
                     "name": "Comer",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Danielsville",
@@ -1202,7 +1202,7 @@
                   },
                   {
                     "name": "Hull",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Ila",
@@ -1240,7 +1240,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 178,
+            "votes": 181,
             "Precinct": [
               {
                 "name": "Colbert",
@@ -1252,7 +1252,7 @@
               },
               {
                 "name": "Comer",
-                "votes": 11
+                "votes": 12
               },
               {
                 "name": "Danielsville",
@@ -1264,11 +1264,11 @@
               },
               {
                 "name": "Harrison",
-                "votes": 6
+                "votes": 7
               },
               {
                 "name": "Hull",
-                "votes": 27
+                "votes": 28
               },
               {
                 "name": "Ila",
@@ -1351,7 +1351,7 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 10088,
+            "totalVotes": 10105,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1463,7 +1463,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1360,
+                "votes": 1373,
                 "Precinct": [
                   {
                     "name": "Colbert",
@@ -1479,7 +1479,7 @@
                   },
                   {
                     "name": "Danielsville",
-                    "votes": 210
+                    "votes": 213
                   },
                   {
                     "name": "Fork",
@@ -1491,11 +1491,11 @@
                   },
                   {
                     "name": "Hull",
-                    "votes": 291
+                    "votes": 295
                   },
                   {
                     "name": "Ila",
-                    "votes": 131
+                    "votes": 133
                   },
                   {
                     "name": "Mill",
@@ -1507,7 +1507,7 @@
                   },
                   {
                     "name": "Pittman",
-                    "votes": 189
+                    "votes": 193
                   },
                   {
                     "name": "Poca",
@@ -1517,11 +1517,11 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 4,
                 "Precinct": [
                   {
                     "name": "Colbert",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Collins",
@@ -1533,7 +1533,7 @@
                   },
                   {
                     "name": "Danielsville",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Fork",
@@ -1565,7 +1565,7 @@
                   },
                   {
                     "name": "Poca",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -1574,7 +1574,7 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 2925,
+            "totalVotes": 2938,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1686,11 +1686,11 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1000,
+                "votes": 1011,
                 "Precinct": [
                   {
                     "name": "Colbert",
-                    "votes": 202
+                    "votes": 203
                   },
                   {
                     "name": "Collins",
@@ -1698,15 +1698,15 @@
                   },
                   {
                     "name": "Comer",
-                    "votes": 131
+                    "votes": 133
                   },
                   {
                     "name": "Danielsville",
-                    "votes": 119
+                    "votes": 121
                   },
                   {
                     "name": "Fork",
-                    "votes": 37
+                    "votes": 38
                   },
                   {
                     "name": "Harrison",
@@ -1714,7 +1714,7 @@
                   },
                   {
                     "name": "Hull",
-                    "votes": 233
+                    "votes": 237
                   },
                   {
                     "name": "Ila",
@@ -1734,13 +1734,13 @@
                   },
                   {
                     "name": "Poca",
-                    "votes": 41
+                    "votes": 42
                   }
                 ]
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 2,
                 "Precinct": [
                   {
                     "name": "Colbert",
@@ -1752,7 +1752,7 @@
                   },
                   {
                     "name": "Comer",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Danielsville",
@@ -1768,7 +1768,7 @@
                   },
                   {
                     "name": "Hull",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Ila",
