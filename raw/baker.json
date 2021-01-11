@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:28:35 PM EST",
+    "Timestamp": "1/11/2021 4:02:33 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Baker",
     "VoterTurnout": {
       "totalVoters": 2275,
-      "ballotsCast": 1441,
-      "voterTurnout": 63.34,
+      "ballotsCast": 1446,
+      "voterTurnout": 63.56,
       "Precincts": {
         "Precinct": [
           {
@@ -27,22 +27,22 @@
           {
             "name": "Hoggards Mill",
             "totalVoters": 359,
-            "ballotsCast": 211,
-            "voterTurnout": 58.77,
+            "ballotsCast": 212,
+            "voterTurnout": 59.05,
             "percentReporting": "4"
           },
           {
             "name": "Milford",
             "totalVoters": 274,
-            "ballotsCast": 193,
-            "voterTurnout": 70.44,
+            "ballotsCast": 192,
+            "voterTurnout": 70.07,
             "percentReporting": "4"
           },
           {
             "name": "Newton",
             "totalVoters": 1075,
-            "ballotsCast": 658,
-            "voterTurnout": 61.21,
+            "ballotsCast": 663,
+            "voterTurnout": 61.67,
             "percentReporting": "4"
           }
         ]
@@ -114,11 +114,11 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 810,
+            "totalVotes": 809,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 383,
+                "votes": 382,
                 "Precinct": [
                   {
                     "name": "Anna",
@@ -134,7 +134,7 @@
                   },
                   {
                     "name": "Milford",
-                    "votes": 73
+                    "votes": 72
                   },
                   {
                     "name": "Newton",
@@ -225,7 +225,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 624,
+            "totalVotes": 630,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -281,7 +281,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 209,
+                "votes": 210,
                 "Precinct": [
                   {
                     "name": "Anna",
@@ -293,7 +293,7 @@
                   },
                   {
                     "name": "Hoggards Mill",
-                    "votes": 36
+                    "votes": 37
                   },
                   {
                     "name": "Milford",
@@ -307,7 +307,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 5,
                 "Precinct": [
                   {
                     "name": "Anna",
@@ -327,7 +327,7 @@
                   },
                   {
                     "name": "Newton",
-                    "votes": 0
+                    "votes": 5
                   }
                 ]
               }
@@ -400,11 +400,11 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 816,
+            "totalVotes": 815,
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 385,
+                "votes": 384,
                 "Precinct": [
                   {
                     "name": "Anna",
@@ -420,7 +420,7 @@
                   },
                   {
                     "name": "Milford",
-                    "votes": 72
+                    "votes": 71
                   },
                   {
                     "name": "Newton",
@@ -511,7 +511,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 619,
+            "totalVotes": 625,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -567,7 +567,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 206,
+                "votes": 207,
                 "Precinct": [
                   {
                     "name": "Anna",
@@ -579,7 +579,7 @@
                   },
                   {
                     "name": "Hoggards Mill",
-                    "votes": 33
+                    "votes": 34
                   },
                   {
                     "name": "Milford",
@@ -593,7 +593,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 5,
                 "Precinct": [
                   {
                     "name": "Anna",
@@ -613,7 +613,7 @@
                   },
                   {
                     "name": "Newton",
-                    "votes": 0
+                    "votes": 5
                   }
                 ]
               }
@@ -631,7 +631,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 46,
+            "votes": 47,
             "Precinct": [
               {
                 "name": "Anna",
@@ -651,7 +651,7 @@
               },
               {
                 "name": "Newton",
-                "votes": 24
+                "votes": 25
               }
             ]
           },
@@ -690,7 +690,7 @@
             "VoteType": [
               {
                 "name": "Election Day Votes",
-                "votes": 374,
+                "votes": 373,
                 "Precinct": [
                   {
                     "name": "Anna",
@@ -706,7 +706,7 @@
                   },
                   {
                     "name": "Milford",
-                    "votes": 71
+                    "votes": 70
                   },
                   {
                     "name": "Newton",
@@ -768,7 +768,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
                     "name": "Anna",
@@ -788,7 +788,7 @@
                   },
                   {
                     "name": "Newton",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -797,7 +797,7 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 606,
+            "totalVotes": 610,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -853,7 +853,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 203,
+                "votes": 204,
                 "Precinct": [
                   {
                     "name": "Anna",
@@ -865,7 +865,7 @@
                   },
                   {
                     "name": "Hoggards Mill",
-                    "votes": 34
+                    "votes": 35
                   },
                   {
                     "name": "Milford",
@@ -879,7 +879,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 3,
                 "Precinct": [
                   {
                     "name": "Anna",
@@ -899,7 +899,7 @@
                   },
                   {
                     "name": "Newton",
-                    "votes": 0
+                    "votes": 3
                   }
                 ]
               }
