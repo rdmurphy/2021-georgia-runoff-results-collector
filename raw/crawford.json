@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 9:26:37 PM EST",
+    "Timestamp": "1/12/2021 4:38:25 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Crawford",
     "VoterTurnout": {
       "totalVoters": 8691,
-      "ballotsCast": 5375,
-      "voterTurnout": 61.85,
+      "ballotsCast": 5384,
+      "voterTurnout": 61.95,
       "Precincts": {
         "Precinct": [
           {
@@ -20,22 +20,22 @@
           {
             "name": "District 1B",
             "totalVoters": 1038,
-            "ballotsCast": 628,
-            "voterTurnout": 60.5,
+            "ballotsCast": 629,
+            "voterTurnout": 60.6,
             "percentReporting": "4"
           },
           {
             "name": "District 2",
             "totalVoters": 1697,
-            "ballotsCast": 1152,
-            "voterTurnout": 67.88,
+            "ballotsCast": 1155,
+            "voterTurnout": 68.06,
             "percentReporting": "4"
           },
           {
             "name": "District 3",
             "totalVoters": 1765,
-            "ballotsCast": 1066,
-            "voterTurnout": 60.4,
+            "ballotsCast": 1068,
+            "voterTurnout": 60.51,
             "percentReporting": "4"
           },
           {
@@ -48,8 +48,8 @@
           {
             "name": "District 5",
             "totalVoters": 1811,
-            "ballotsCast": 1108,
-            "voterTurnout": 61.18,
+            "ballotsCast": 1111,
+            "voterTurnout": 61.35,
             "percentReporting": "4"
           }
         ]
@@ -129,7 +129,7 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 3875,
+            "totalVotes": 3879,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -193,7 +193,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 414,
+                "votes": 415,
                 "Precinct": [
                   {
                     "name": "District 1A",
@@ -205,7 +205,7 @@
                   },
                   {
                     "name": "District 2",
-                    "votes": 84
+                    "votes": 85
                   },
                   {
                     "name": "District 3",
@@ -223,7 +223,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 3,
                 "Precinct": [
                   {
                     "name": "District 1A",
@@ -239,7 +239,7 @@
                   },
                   {
                     "name": "District 3",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "District 4",
@@ -247,7 +247,7 @@
                   },
                   {
                     "name": "District 5",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -256,7 +256,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 1481,
+            "totalVotes": 1486,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -320,7 +320,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 459,
+                "votes": 464,
                 "Precinct": [
                   {
                     "name": "District 1A",
@@ -328,11 +328,11 @@
                   },
                   {
                     "name": "District 1B",
-                    "votes": 103
+                    "votes": 104
                   },
                   {
                     "name": "District 2",
-                    "votes": 159
+                    "votes": 161
                   },
                   {
                     "name": "District 3",
@@ -344,7 +344,7 @@
                   },
                   {
                     "name": "District 5",
-                    "votes": 58
+                    "votes": 60
                   }
                 ]
               },
@@ -455,7 +455,7 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 3865,
+            "totalVotes": 3869,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -519,7 +519,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 413,
+                "votes": 414,
                 "Precinct": [
                   {
                     "name": "District 1A",
@@ -531,7 +531,7 @@
                   },
                   {
                     "name": "District 2",
-                    "votes": 83
+                    "votes": 84
                   },
                   {
                     "name": "District 3",
@@ -549,7 +549,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 3,
                 "Precinct": [
                   {
                     "name": "District 1A",
@@ -565,7 +565,7 @@
                   },
                   {
                     "name": "District 3",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "District 4",
@@ -573,7 +573,7 @@
                   },
                   {
                     "name": "District 5",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -582,7 +582,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 1497,
+            "totalVotes": 1502,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -646,7 +646,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 461,
+                "votes": 466,
                 "Precinct": [
                   {
                     "name": "District 1A",
@@ -654,11 +654,11 @@
                   },
                   {
                     "name": "District 1B",
-                    "votes": 105
+                    "votes": 106
                   },
                   {
                     "name": "District 2",
-                    "votes": 159
+                    "votes": 161
                   },
                   {
                     "name": "District 3",
@@ -670,7 +670,7 @@
                   },
                   {
                     "name": "District 5",
-                    "votes": 58
+                    "votes": 60
                   }
                 ]
               },
@@ -781,7 +781,7 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 3869,
+            "totalVotes": 3873,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -845,7 +845,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 424,
+                "votes": 425,
                 "Precinct": [
                   {
                     "name": "District 1A",
@@ -857,7 +857,7 @@
                   },
                   {
                     "name": "District 2",
-                    "votes": 86
+                    "votes": 87
                   },
                   {
                     "name": "District 3",
@@ -875,7 +875,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 3,
                 "Precinct": [
                   {
                     "name": "District 1A",
@@ -891,7 +891,7 @@
                   },
                   {
                     "name": "District 3",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "District 4",
@@ -899,7 +899,7 @@
                   },
                   {
                     "name": "District 5",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -908,7 +908,7 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 1412,
+            "totalVotes": 1417,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -972,7 +972,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 436,
+                "votes": 441,
                 "Precinct": [
                   {
                     "name": "District 1A",
@@ -980,11 +980,11 @@
                   },
                   {
                     "name": "District 1B",
-                    "votes": 102
+                    "votes": 103
                   },
                   {
                     "name": "District 2",
-                    "votes": 154
+                    "votes": 156
                   },
                   {
                     "name": "District 3",
@@ -996,7 +996,7 @@
                   },
                   {
                     "name": "District 5",
-                    "votes": 51
+                    "votes": 53
                   }
                 ]
               },
@@ -1114,7 +1114,7 @@
           {
             "key": "45",
             "text": "Bobby Blasingame (I) (Dem)",
-            "totalVotes": 516,
+            "totalVotes": 519,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1138,11 +1138,11 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 156,
+                "votes": 159,
                 "Precinct": [
                   {
                     "name": "District 2",
-                    "votes": 156
+                    "votes": 159
                   }
                 ]
               },
