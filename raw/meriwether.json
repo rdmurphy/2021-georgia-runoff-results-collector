@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 10:25:09 PM EST",
+    "Timestamp": "1/12/2021 11:57:56 AM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Meriwether",
     "VoterTurnout": {
       "totalVoters": 15678,
-      "ballotsCast": 9854,
-      "voterTurnout": 62.85,
+      "ballotsCast": 9860,
+      "voterTurnout": 62.89,
       "Precincts": {
         "Precinct": [
           {
@@ -55,15 +55,15 @@
           {
             "name": "Luthersville",
             "totalVoters": 2817,
-            "ballotsCast": 1698,
-            "voterTurnout": 60.28,
+            "ballotsCast": 1700,
+            "voterTurnout": 60.35,
             "percentReporting": "4"
           },
           {
             "name": "Alvaton",
             "totalVoters": 1568,
-            "ballotsCast": 1030,
-            "voterTurnout": 65.69,
+            "ballotsCast": 1031,
+            "voterTurnout": 65.75,
             "percentReporting": "4"
           },
           {
@@ -76,15 +76,15 @@
           {
             "name": "Woodbury",
             "totalVoters": 1386,
-            "ballotsCast": 872,
-            "voterTurnout": 62.91,
+            "ballotsCast": 873,
+            "voterTurnout": 62.99,
             "percentReporting": "4"
           },
           {
             "name": "Warm Springs",
             "totalVoters": 1185,
-            "ballotsCast": 753,
-            "voterTurnout": 63.54,
+            "ballotsCast": 755,
+            "voterTurnout": 63.71,
             "percentReporting": "4"
           },
           {
@@ -249,7 +249,7 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 5831,
+            "totalVotes": 5833,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -439,7 +439,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 2,
                 "Precinct": [
                   {
                     "name": "Chalybeate",
@@ -471,7 +471,7 @@
                   },
                   {
                     "name": "Alvaton",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Gay",
@@ -483,7 +483,7 @@
                   },
                   {
                     "name": "Warm Springs",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Durand",
@@ -504,7 +504,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 4008,
+            "totalVotes": 4012,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -632,7 +632,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1324,
+                "votes": 1325,
                 "Precinct": [
                   {
                     "name": "Chalybeate",
@@ -676,7 +676,7 @@
                   },
                   {
                     "name": "Warm Springs",
-                    "votes": 62
+                    "votes": 63
                   },
                   {
                     "name": "Durand",
@@ -694,7 +694,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 3,
                 "Precinct": [
                   {
                     "name": "Chalybeate",
@@ -722,7 +722,7 @@
                   },
                   {
                     "name": "Luthersville",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Alvaton",
@@ -734,7 +734,7 @@
                   },
                   {
                     "name": "Woodbury",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Warm Springs",
@@ -895,7 +895,7 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 5806,
+            "totalVotes": 5808,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1085,7 +1085,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 2,
                 "Precinct": [
                   {
                     "name": "Chalybeate",
@@ -1117,7 +1117,7 @@
                   },
                   {
                     "name": "Alvaton",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Gay",
@@ -1129,7 +1129,7 @@
                   },
                   {
                     "name": "Warm Springs",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Durand",
@@ -1150,7 +1150,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 4032,
+            "totalVotes": 4036,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1278,7 +1278,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 1325,
+                "votes": 1326,
                 "Precinct": [
                   {
                     "name": "Chalybeate",
@@ -1322,7 +1322,7 @@
                   },
                   {
                     "name": "Warm Springs",
-                    "votes": 63
+                    "votes": 64
                   },
                   {
                     "name": "Durand",
@@ -1340,7 +1340,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 3,
                 "Precinct": [
                   {
                     "name": "Chalybeate",
@@ -1368,7 +1368,7 @@
                   },
                   {
                     "name": "Luthersville",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Alvaton",
@@ -1380,7 +1380,7 @@
                   },
                   {
                     "name": "Woodbury",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Warm Springs",
@@ -1414,7 +1414,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 132,
+            "votes": 133,
             "Precinct": [
               {
                 "name": "Chalybeate",
@@ -1442,7 +1442,7 @@
               },
               {
                 "name": "Luthersville",
-                "votes": 15
+                "votes": 16
               },
               {
                 "name": "Alvaton",
@@ -1541,7 +1541,7 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 5829,
+            "totalVotes": 5831,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1731,7 +1731,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 2,
                 "Precinct": [
                   {
                     "name": "Chalybeate",
@@ -1763,7 +1763,7 @@
                   },
                   {
                     "name": "Alvaton",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Gay",
@@ -1775,7 +1775,7 @@
                   },
                   {
                     "name": "Warm Springs",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Durand",
@@ -1796,7 +1796,7 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 3888,
+            "totalVotes": 3890,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1986,7 +1986,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 2,
                 "Precinct": [
                   {
                     "name": "Chalybeate",
@@ -2014,7 +2014,7 @@
                   },
                   {
                     "name": "Luthersville",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Alvaton",
@@ -2026,7 +2026,7 @@
                   },
                   {
                     "name": "Woodbury",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Warm Springs",

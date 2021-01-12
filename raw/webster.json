@@ -1,20 +1,20 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:11:16 PM EST",
+    "Timestamp": "1/12/2021 11:40:52 AM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Webster",
     "VoterTurnout": {
       "totalVoters": 1734,
-      "ballotsCast": 1255,
-      "voterTurnout": 72.38,
+      "ballotsCast": 1256,
+      "voterTurnout": 72.43,
       "Precincts": {
         "Precinct": [
           {
             "name": "Preston 1",
             "totalVoters": 1734,
-            "ballotsCast": 1255,
-            "voterTurnout": 72.38,
+            "ballotsCast": 1256,
+            "voterTurnout": 72.43,
             "percentReporting": "4"
           }
         ]
@@ -101,7 +101,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 553,
+            "totalVotes": 554,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -135,11 +135,11 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
                     "name": "Preston 1",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -227,7 +227,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 551,
+            "totalVotes": 552,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -261,11 +261,11 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
                     "name": "Preston 1",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -283,11 +283,11 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 40,
+            "votes": 41,
             "Precinct": [
               {
                 "name": "Preston 1",
-                "votes": 40
+                "votes": 41
               }
             ]
           },
