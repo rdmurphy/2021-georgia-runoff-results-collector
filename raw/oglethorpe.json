@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:56:34 PM EST",
+    "Timestamp": "1/13/2021 10:41:57 AM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Oglethorpe",
     "VoterTurnout": {
       "totalVoters": 11111,
-      "ballotsCast": 7228,
-      "voterTurnout": 65.05,
+      "ballotsCast": 7231,
+      "voterTurnout": 65.08,
       "Precincts": {
         "Precinct": [
           {
@@ -20,15 +20,15 @@
           {
             "name": "Crawford",
             "totalVoters": 3108,
-            "ballotsCast": 1925,
-            "voterTurnout": 61.94,
+            "ballotsCast": 1926,
+            "voterTurnout": 61.97,
             "percentReporting": "4"
           },
           {
             "name": "Lexington",
             "totalVoters": 4393,
-            "ballotsCast": 2946,
-            "voterTurnout": 67.06,
+            "ballotsCast": 2948,
+            "voterTurnout": 67.11,
             "percentReporting": "4"
           }
         ]
@@ -84,7 +84,7 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 4983,
+            "totalVotes": 4985,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -142,7 +142,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 2,
                 "Precinct": [
                   {
                     "name": "Beaverdam",
@@ -150,11 +150,11 @@
                   },
                   {
                     "name": "Crawford",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Lexington",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -163,7 +163,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 2236,
+            "totalVotes": 2237,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -221,7 +221,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
                     "name": "Beaverdam",
@@ -233,7 +233,7 @@
                   },
                   {
                     "name": "Lexington",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -290,7 +290,7 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 4957,
+            "totalVotes": 4959,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -348,7 +348,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 2,
                 "Precinct": [
                   {
                     "name": "Beaverdam",
@@ -356,11 +356,11 @@
                   },
                   {
                     "name": "Crawford",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Lexington",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -369,7 +369,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 2258,
+            "totalVotes": 2259,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -427,7 +427,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
                     "name": "Beaverdam",
@@ -439,7 +439,7 @@
                   },
                   {
                     "name": "Lexington",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -457,7 +457,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 88,
+            "votes": 89,
             "Precinct": [
               {
                 "name": "Beaverdam",
@@ -465,7 +465,7 @@
               },
               {
                 "name": "Crawford",
-                "votes": 19
+                "votes": 20
               },
               {
                 "name": "Lexington",
@@ -496,7 +496,7 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 4997,
+            "totalVotes": 4998,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -554,7 +554,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
                     "name": "Beaverdam",
@@ -566,7 +566,7 @@
                   },
                   {
                     "name": "Lexington",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -575,7 +575,7 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 2143,
+            "totalVotes": 2144,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -633,7 +633,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
                     "name": "Beaverdam",
@@ -645,7 +645,7 @@
                   },
                   {
                     "name": "Lexington",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
