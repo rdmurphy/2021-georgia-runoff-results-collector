@@ -1,27 +1,27 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 9:02:37 PM EST",
+    "Timestamp": "1/13/2021 9:26:04 AM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Baldwin",
     "VoterTurnout": {
       "totalVoters": 27088,
-      "ballotsCast": 16484,
-      "voterTurnout": 60.85,
+      "ballotsCast": 16490,
+      "voterTurnout": 60.88,
       "Precincts": {
         "Precinct": [
           {
             "name": "South Milledgeville",
             "totalVoters": 1266,
-            "ballotsCast": 673,
-            "voterTurnout": 53.16,
+            "ballotsCast": 674,
+            "voterTurnout": 53.24,
             "percentReporting": "4"
           },
           {
             "name": "City Hall Annex",
             "totalVoters": 969,
-            "ballotsCast": 427,
-            "voterTurnout": 44.07,
+            "ballotsCast": 428,
+            "voterTurnout": 44.17,
             "percentReporting": "4"
           },
           {
@@ -48,15 +48,15 @@
           {
             "name": "North Milledgeville",
             "totalVoters": 2240,
-            "ballotsCast": 1517,
-            "voterTurnout": 67.72,
+            "ballotsCast": 1518,
+            "voterTurnout": 67.77,
             "percentReporting": "4"
           },
           {
             "name": "Meriweather",
             "totalVoters": 2888,
-            "ballotsCast": 2068,
-            "voterTurnout": 71.61,
+            "ballotsCast": 2069,
+            "voterTurnout": 71.64,
             "percentReporting": "4"
           },
           {
@@ -76,8 +76,8 @@
           {
             "name": "North Baldwin",
             "totalVoters": 3550,
-            "ballotsCast": 2500,
-            "voterTurnout": 70.42,
+            "ballotsCast": 2501,
+            "voterTurnout": 70.45,
             "percentReporting": "4"
           },
           {
@@ -97,8 +97,8 @@
           {
             "name": "West Hardwick",
             "totalVoters": 2933,
-            "ballotsCast": 1708,
-            "voterTurnout": 58.23,
+            "ballotsCast": 1709,
+            "voterTurnout": 58.27,
             "percentReporting": "4"
           },
           {
@@ -249,7 +249,7 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 7930,
+            "totalVotes": 7931,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -439,7 +439,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
                     "name": "South Milledgeville",
@@ -447,7 +447,7 @@
                   },
                   {
                     "name": "City Hall Annex",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Boddie",
@@ -504,7 +504,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 8510,
+            "totalVotes": 8515,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -632,7 +632,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 2581,
+                "votes": 2582,
                 "Precinct": [
                   {
                     "name": "South Milledgeville",
@@ -660,7 +660,7 @@
                   },
                   {
                     "name": "Meriweather",
-                    "votes": 185
+                    "votes": 186
                   },
                   {
                     "name": "East Baldwin",
@@ -694,11 +694,11 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 4,
                 "Precinct": [
                   {
                     "name": "South Milledgeville",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "City Hall Annex",
@@ -718,7 +718,7 @@
                   },
                   {
                     "name": "North Milledgeville",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Meriweather",
@@ -734,7 +734,7 @@
                   },
                   {
                     "name": "North Baldwin",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "West Baldwin",
@@ -746,7 +746,7 @@
                   },
                   {
                     "name": "West Hardwick",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Coopers",
@@ -895,7 +895,7 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 7898,
+            "totalVotes": 7899,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1085,7 +1085,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
                     "name": "South Milledgeville",
@@ -1093,7 +1093,7 @@
                   },
                   {
                     "name": "City Hall Annex",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Boddie",
@@ -1150,7 +1150,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 8564,
+            "totalVotes": 8569,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1278,7 +1278,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 2597,
+                "votes": 2598,
                 "Precinct": [
                   {
                     "name": "South Milledgeville",
@@ -1306,7 +1306,7 @@
                   },
                   {
                     "name": "Meriweather",
-                    "votes": 188
+                    "votes": 189
                   },
                   {
                     "name": "East Baldwin",
@@ -1340,11 +1340,11 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 4,
                 "Precinct": [
                   {
                     "name": "South Milledgeville",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "City Hall Annex",
@@ -1364,7 +1364,7 @@
                   },
                   {
                     "name": "North Milledgeville",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Meriweather",
@@ -1380,7 +1380,7 @@
                   },
                   {
                     "name": "North Baldwin",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "West Baldwin",
@@ -1392,7 +1392,7 @@
                   },
                   {
                     "name": "West Hardwick",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Coopers",
@@ -1414,7 +1414,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 269,
+            "votes": 270,
             "Precinct": [
               {
                 "name": "South Milledgeville",
@@ -1454,7 +1454,7 @@
               },
               {
                 "name": "North Baldwin",
-                "votes": 21
+                "votes": 22
               },
               {
                 "name": "West Baldwin",
@@ -1541,7 +1541,7 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 7969,
+            "totalVotes": 7970,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1731,7 +1731,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
                     "name": "South Milledgeville",
@@ -1739,7 +1739,7 @@
                   },
                   {
                     "name": "City Hall Annex",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Boddie",
@@ -1796,7 +1796,7 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 8245,
+            "totalVotes": 8249,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1924,7 +1924,7 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 2488,
+                "votes": 2489,
                 "Precinct": [
                   {
                     "name": "South Milledgeville",
@@ -1952,7 +1952,7 @@
                   },
                   {
                     "name": "Meriweather",
-                    "votes": 180
+                    "votes": 181
                   },
                   {
                     "name": "East Baldwin",
@@ -1986,11 +1986,11 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 3,
                 "Precinct": [
                   {
                     "name": "South Milledgeville",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "City Hall Annex",
@@ -2010,7 +2010,7 @@
                   },
                   {
                     "name": "North Milledgeville",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Meriweather",
@@ -2038,7 +2038,7 @@
                   },
                   {
                     "name": "West Hardwick",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Coopers",

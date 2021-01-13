@@ -1,20 +1,20 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:55:50 PM EST",
+    "Timestamp": "1/13/2021 9:49:20 AM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Calhoun",
     "VoterTurnout": {
       "totalVoters": 3269,
-      "ballotsCast": 2040,
-      "voterTurnout": 62.4,
+      "ballotsCast": 2041,
+      "voterTurnout": 62.43,
       "Precincts": {
         "Precinct": [
           {
             "name": "Leary",
             "totalVoters": 726,
-            "ballotsCast": 482,
-            "voterTurnout": 66.39,
+            "ballotsCast": 483,
+            "voterTurnout": 66.53,
             "percentReporting": "4"
           },
           {
@@ -225,7 +225,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 1201,
+            "totalVotes": 1202,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -281,11 +281,11 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 437,
+                "votes": 438,
                 "Precinct": [
                   {
                     "name": "Leary",
-                    "votes": 95
+                    "votes": 96
                   },
                   {
                     "name": "Morgan",
@@ -511,7 +511,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 1205,
+            "totalVotes": 1206,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -567,11 +567,11 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 439,
+                "votes": 440,
                 "Precinct": [
                   {
                     "name": "Leary",
-                    "votes": 95
+                    "votes": 96
                   },
                   {
                     "name": "Morgan",
@@ -631,11 +631,11 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 38,
+            "votes": 39,
             "Precinct": [
               {
                 "name": "Leary",
-                "votes": 6
+                "votes": 7
               },
               {
                 "name": "Morgan",
