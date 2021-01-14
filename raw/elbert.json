@@ -1,62 +1,62 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:45:39 PM EST",
+    "Timestamp": "1/14/2021 12:36:03 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Elbert",
     "VoterTurnout": {
       "totalVoters": 12589,
-      "ballotsCast": 7968,
-      "voterTurnout": 63.29,
+      "ballotsCast": 8033,
+      "voterTurnout": 63.81,
       "Precincts": {
         "Precinct": [
           {
             "name": "Elberton",
             "totalVoters": 3888,
-            "ballotsCast": 2200,
-            "voterTurnout": 56.58,
+            "ballotsCast": 2201,
+            "voterTurnout": 56.61,
             "percentReporting": "4"
           },
           {
             "name": "Longstreet",
             "totalVoters": 636,
-            "ballotsCast": 407,
-            "voterTurnout": 63.99,
+            "ballotsCast": 419,
+            "voterTurnout": 65.88,
             "percentReporting": "4"
           },
           {
             "name": "Eliam",
             "totalVoters": 756,
-            "ballotsCast": 538,
-            "voterTurnout": 71.16,
+            "ballotsCast": 546,
+            "voterTurnout": 72.22,
             "percentReporting": "4"
           },
           {
             "name": "Petersburg",
             "totalVoters": 380,
-            "ballotsCast": 278,
-            "voterTurnout": 73.16,
+            "ballotsCast": 281,
+            "voterTurnout": 73.95,
             "percentReporting": "4"
           },
           {
             "name": "Wyche",
             "totalVoters": 1117,
-            "ballotsCast": 790,
-            "voterTurnout": 70.73,
+            "ballotsCast": 795,
+            "voterTurnout": 71.17,
             "percentReporting": "4"
           },
           {
             "name": "Moss-Ruckersville",
             "totalVoters": 477,
-            "ballotsCast": 320,
-            "voterTurnout": 67.09,
+            "ballotsCast": 324,
+            "voterTurnout": 67.92,
             "percentReporting": "4"
           },
           {
             "name": "Pike",
             "totalVoters": 1631,
-            "ballotsCast": 1021,
-            "voterTurnout": 62.6,
+            "ballotsCast": 1035,
+            "voterTurnout": 63.46,
             "percentReporting": "4"
           },
           {
@@ -69,22 +69,22 @@
           {
             "name": "Goshen",
             "totalVoters": 1661,
-            "ballotsCast": 1080,
-            "voterTurnout": 65.02,
+            "ballotsCast": 1085,
+            "voterTurnout": 65.32,
             "percentReporting": "4"
           },
           {
             "name": "Webbsboro",
             "totalVoters": 419,
-            "ballotsCast": 286,
-            "voterTurnout": 68.26,
+            "ballotsCast": 292,
+            "voterTurnout": 69.69,
             "percentReporting": "4"
           },
           {
             "name": "Centerville",
             "totalVoters": 1040,
-            "ballotsCast": 655,
-            "voterTurnout": 62.98,
+            "ballotsCast": 662,
+            "voterTurnout": 63.65,
             "percentReporting": "4"
           }
         ]
@@ -101,7 +101,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 18,
+            "votes": 19,
             "Precinct": [
               {
                 "name": "Elberton",
@@ -129,7 +129,7 @@
               },
               {
                 "name": "Pike",
-                "votes": 1
+                "votes": 2
               },
               {
                 "name": "Gaines",
@@ -204,7 +204,7 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 5481,
+            "totalVotes": 5521,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -358,7 +358,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 40,
                 "Precinct": [
                   {
                     "name": "Elberton",
@@ -366,27 +366,27 @@
                   },
                   {
                     "name": "Longstreet",
-                    "votes": 0
+                    "votes": 9
                   },
                   {
                     "name": "Eliam",
-                    "votes": 0
+                    "votes": 5
                   },
                   {
                     "name": "Petersburg",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Wyche",
-                    "votes": 0
+                    "votes": 4
                   },
                   {
                     "name": "Moss-Ruckersville",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Pike",
-                    "votes": 0
+                    "votes": 5
                   },
                   {
                     "name": "Gaines",
@@ -394,15 +394,15 @@
                   },
                   {
                     "name": "Goshen",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Webbsboro",
-                    "votes": 0
+                    "votes": 5
                   },
                   {
                     "name": "Centerville",
-                    "votes": 0
+                    "votes": 6
                   }
                 ]
               }
@@ -411,7 +411,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 2469,
+            "totalVotes": 2493,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -515,11 +515,11 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 932,
+                "votes": 933,
                 "Precinct": [
                   {
                     "name": "Elberton",
-                    "votes": 373
+                    "votes": 374
                   },
                   {
                     "name": "Longstreet",
@@ -565,7 +565,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 23,
                 "Precinct": [
                   {
                     "name": "Elberton",
@@ -573,27 +573,27 @@
                   },
                   {
                     "name": "Longstreet",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Eliam",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Petersburg",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Wyche",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Moss-Ruckersville",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Pike",
-                    "votes": 0
+                    "votes": 8
                   },
                   {
                     "name": "Gaines",
@@ -601,15 +601,15 @@
                   },
                   {
                     "name": "Goshen",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Webbsboro",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Centerville",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -730,7 +730,7 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 5493,
+            "totalVotes": 5531,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -884,7 +884,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 38,
                 "Precinct": [
                   {
                     "name": "Elberton",
@@ -892,11 +892,11 @@
                   },
                   {
                     "name": "Longstreet",
-                    "votes": 0
+                    "votes": 9
                   },
                   {
                     "name": "Eliam",
-                    "votes": 0
+                    "votes": 5
                   },
                   {
                     "name": "Petersburg",
@@ -904,15 +904,15 @@
                   },
                   {
                     "name": "Wyche",
-                    "votes": 0
+                    "votes": 4
                   },
                   {
                     "name": "Moss-Ruckersville",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Pike",
-                    "votes": 0
+                    "votes": 4
                   },
                   {
                     "name": "Gaines",
@@ -920,15 +920,15 @@
                   },
                   {
                     "name": "Goshen",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Webbsboro",
-                    "votes": 0
+                    "votes": 5
                   },
                   {
                     "name": "Centerville",
-                    "votes": 0
+                    "votes": 6
                   }
                 ]
               }
@@ -937,7 +937,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 2455,
+            "totalVotes": 2482,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1041,11 +1041,11 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 925,
+                "votes": 926,
                 "Precinct": [
                   {
                     "name": "Elberton",
-                    "votes": 372
+                    "votes": 373
                   },
                   {
                     "name": "Longstreet",
@@ -1091,7 +1091,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 26,
                 "Precinct": [
                   {
                     "name": "Elberton",
@@ -1099,27 +1099,27 @@
                   },
                   {
                     "name": "Longstreet",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Eliam",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Petersburg",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Wyche",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Moss-Ruckersville",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Pike",
-                    "votes": 0
+                    "votes": 10
                   },
                   {
                     "name": "Gaines",
@@ -1127,15 +1127,15 @@
                   },
                   {
                     "name": "Goshen",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Webbsboro",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Centerville",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
@@ -1153,7 +1153,7 @@
         "VoteType": [
           {
             "name": "Undervotes",
-            "votes": 88,
+            "votes": 90,
             "Precinct": [
               {
                 "name": "Elberton",
@@ -1181,7 +1181,7 @@
               },
               {
                 "name": "Pike",
-                "votes": 9
+                "votes": 10
               },
               {
                 "name": "Gaines",
@@ -1189,7 +1189,7 @@
               },
               {
                 "name": "Goshen",
-                "votes": 15
+                "votes": 16
               },
               {
                 "name": "Webbsboro",
@@ -1256,7 +1256,7 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 5500,
+            "totalVotes": 5537,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1410,7 +1410,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 37,
                 "Precinct": [
                   {
                     "name": "Elberton",
@@ -1418,11 +1418,11 @@
                   },
                   {
                     "name": "Longstreet",
-                    "votes": 0
+                    "votes": 9
                   },
                   {
                     "name": "Eliam",
-                    "votes": 0
+                    "votes": 4
                   },
                   {
                     "name": "Petersburg",
@@ -1430,15 +1430,15 @@
                   },
                   {
                     "name": "Wyche",
-                    "votes": 0
+                    "votes": 4
                   },
                   {
                     "name": "Moss-Ruckersville",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Pike",
-                    "votes": 0
+                    "votes": 4
                   },
                   {
                     "name": "Gaines",
@@ -1446,15 +1446,15 @@
                   },
                   {
                     "name": "Goshen",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Webbsboro",
-                    "votes": 0
+                    "votes": 5
                   },
                   {
                     "name": "Centerville",
-                    "votes": 0
+                    "votes": 6
                   }
                 ]
               }
@@ -1463,7 +1463,7 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 2380,
+            "totalVotes": 2406,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1567,11 +1567,11 @@
               },
               {
                 "name": "Absentee by Mail Votes",
-                "votes": 904,
+                "votes": 905,
                 "Precinct": [
                   {
                     "name": "Elberton",
-                    "votes": 358
+                    "votes": 359
                   },
                   {
                     "name": "Longstreet",
@@ -1617,7 +1617,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 25,
                 "Precinct": [
                   {
                     "name": "Elberton",
@@ -1625,27 +1625,27 @@
                   },
                   {
                     "name": "Longstreet",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Eliam",
-                    "votes": 0
+                    "votes": 4
                   },
                   {
                     "name": "Petersburg",
-                    "votes": 0
+                    "votes": 3
                   },
                   {
                     "name": "Wyche",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Moss-Ruckersville",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Pike",
-                    "votes": 0
+                    "votes": 9
                   },
                   {
                     "name": "Gaines",
@@ -1653,15 +1653,15 @@
                   },
                   {
                     "name": "Goshen",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Webbsboro",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Centerville",
-                    "votes": 0
+                    "votes": 1
                   }
                 ]
               }
