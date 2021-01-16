@@ -1,13 +1,13 @@
 {
   "ElectionResult": {
-    "Timestamp": "1/5/2021 8:52:09 PM EST",
+    "Timestamp": "1/13/2021 2:16:47 PM EST",
     "ElectionName": "January 5, 2021 Federal Runoff",
     "ElectionDate": "1/5/2021",
     "Region": "Union",
     "VoterTurnout": {
       "totalVoters": 19628,
-      "ballotsCast": 14206,
-      "voterTurnout": 72.38,
+      "ballotsCast": 14211,
+      "voterTurnout": 72.4,
       "Precincts": {
         "Precinct": [
           {
@@ -20,8 +20,8 @@
           {
             "name": "Coosa",
             "totalVoters": 2372,
-            "ballotsCast": 1687,
-            "voterTurnout": 71.12,
+            "ballotsCast": 1689,
+            "voterTurnout": 71.21,
             "percentReporting": "4"
           },
           {
@@ -34,8 +34,8 @@
           {
             "name": "Jones Creek",
             "totalVoters": 1989,
-            "ballotsCast": 1478,
-            "voterTurnout": 74.31,
+            "ballotsCast": 1479,
+            "voterTurnout": 74.36,
             "percentReporting": "4"
           },
           {
@@ -69,8 +69,8 @@
           {
             "name": "Dooley",
             "totalVoters": 1557,
-            "ballotsCast": 1132,
-            "voterTurnout": 72.7,
+            "ballotsCast": 1134,
+            "voterTurnout": 72.83,
             "percentReporting": "4"
           },
           {
@@ -204,7 +204,7 @@
           {
             "key": "4",
             "text": "David A. Perdue (I) (Rep)",
-            "totalVotes": 11609,
+            "totalVotes": 11613,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -358,7 +358,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 4,
                 "Precinct": [
                   {
                     "name": "Blairsville",
@@ -366,7 +366,7 @@
                   },
                   {
                     "name": "Coosa",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Choestoe",
@@ -374,7 +374,7 @@
                   },
                   {
                     "name": "Jones Creek",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Owltown",
@@ -394,7 +394,7 @@
                   },
                   {
                     "name": "Dooley",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Gumlog",
@@ -411,7 +411,7 @@
           {
             "key": "5",
             "text": "Jon Ossoff (Dem)",
-            "totalVotes": 2569,
+            "totalVotes": 2570,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -565,7 +565,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
                     "name": "Blairsville",
@@ -601,7 +601,7 @@
                   },
                   {
                     "name": "Dooley",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Gumlog",
@@ -730,7 +730,7 @@
           {
             "key": "19",
             "text": "Kelly Loeffler (I) (Rep)",
-            "totalVotes": 11590,
+            "totalVotes": 11594,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -884,7 +884,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 4,
                 "Precinct": [
                   {
                     "name": "Blairsville",
@@ -892,7 +892,7 @@
                   },
                   {
                     "name": "Coosa",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Choestoe",
@@ -900,7 +900,7 @@
                   },
                   {
                     "name": "Jones Creek",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Owltown",
@@ -920,7 +920,7 @@
                   },
                   {
                     "name": "Dooley",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Gumlog",
@@ -937,7 +937,7 @@
           {
             "key": "25",
             "text": "Raphael Warnock (Dem)",
-            "totalVotes": 2579,
+            "totalVotes": 2580,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1091,7 +1091,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
                     "name": "Blairsville",
@@ -1127,7 +1127,7 @@
                   },
                   {
                     "name": "Dooley",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Gumlog",
@@ -1256,7 +1256,7 @@
           {
             "key": "30",
             "text": "Lauren Bubba McDonald, Jr. (I) (Rep)",
-            "totalVotes": 11598,
+            "totalVotes": 11602,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1410,7 +1410,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 4,
                 "Precinct": [
                   {
                     "name": "Blairsville",
@@ -1418,7 +1418,7 @@
                   },
                   {
                     "name": "Coosa",
-                    "votes": 0
+                    "votes": 2
                   },
                   {
                     "name": "Choestoe",
@@ -1426,7 +1426,7 @@
                   },
                   {
                     "name": "Jones Creek",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Owltown",
@@ -1446,7 +1446,7 @@
                   },
                   {
                     "name": "Dooley",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Gumlog",
@@ -1463,7 +1463,7 @@
           {
             "key": "31",
             "text": "Daniel Blackman (Dem)",
-            "totalVotes": 2386,
+            "totalVotes": 2387,
             "VoteType": [
               {
                 "name": "Election Day Votes",
@@ -1617,7 +1617,7 @@
               },
               {
                 "name": "Provisional Votes",
-                "votes": 0,
+                "votes": 1,
                 "Precinct": [
                   {
                     "name": "Blairsville",
@@ -1653,7 +1653,7 @@
                   },
                   {
                     "name": "Dooley",
-                    "votes": 0
+                    "votes": 1
                   },
                   {
                     "name": "Gumlog",
